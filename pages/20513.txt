@@ -1,0 +1,9776 @@
+https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions
+
+
+
+
+Comparison of Linux distributions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+General
+
+
+
+
+
+
+
+
+2
+Technical
+
+
+
+
+
+
+
+
+3
+Instruction set architecture support
+
+
+
+
+
+
+
+
+4
+Package management and installation
+
+
+
+
+
+
+
+
+5
+Live media
+
+
+
+
+
+
+
+
+6
+Security features
+
+
+
+
+
+
+
+
+7
+Apple Silicon Support
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+Notes
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Comparison of Linux distributions
+
+
+
+17 languages
+
+
+
+
+العربيةবাংলাBoarischEspañol한국어हिन्दीLatviešuMagyarनेपाली日本語Norsk bokmålPolskiPortuguêsRomânăСрпски / srpskiУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article needs to be updated. The reason given is: Some information is out-of-date. Please help update this article to reflect recent events or newly available information. (July 2019)
+This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: Active distributions composed entirely of free software (Dragora GNU/Linux-Libre, gNewSense, Guix System, LibreCMC, Musix GNU+Linux, Parabola GNU/Linux-libre, and Trisquel) need information in all sub categories, #General is complete. Please help improve this article if you can. (July 2019) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+
+Technical variations of Linux distributions include support for different hardware devices and systems or software package configurations. Organizational differences may be motivated by historical reasons. Other criteria include security, including how quickly security upgrades are available; ease of package management; and number of packages available.
+These tables compare notable distribution's latest stable release on wide-ranging objective criteria. It does not cover each operating system's subjective merits, branches marked as unstable or beta, nor compare Linux distributions with other operating systems.
+
+
+General[edit]
+The table below shows general information about the distributions: founder or producer, maintainer, release date, the latest version, etc.
+Linux distributions endorsed by the Free Software Foundation[1] are marked 100% Free under the System distribution commitment column.
+
+
+
+
+Distribution
+
+Founder
+
+Maintainer
+
+Initial release year
+
+Current stable version
+
+Security updates (years)
+
+Release date
+
+System distribution commitment
+
+Forked from
+
+Target audience
+
+Cost
+
+Status
+
+
+AlmaLinux
+
+AlmaLinux OS  Foundation
+
+AlmaLinux OS Foundation
+
+2021
+
+9.5[2] 
+
+10 years[3]
+
+2024-11-18
+
+X
+
+Red Hat Enterprise Linux (RHEL)
+
+general
+
+None
+
+Active
+
+
+Alpine Linux
+
+Alpine Linux Team
+
+Alpine Linux Team
+
+2006
+
+3.21.3[4] 
+
+?
+
+2025-02-13
+
+X
+
+LEAF Project
+
+security, lightweight, general
+
+None
+
+Active
+
+
+ALT Linux
+
+ALT Linux Team
+
+ALT Linux Team, ALT Linux LLC
+
+2001
+
+10.4[5] 
+
+?
+
+2024-12-17
+
+X
+
+Mandrake Linux
+
+general, school
+
+None
+
+Active
+
+
+antiX
+
+Anticapitalista
+
+Anticapitalista
+
+2007
+
+23.2[6] 
+
+?
+
+2024-10-06
+
+X
+
+Debian, MEPIS
+
+old computers
+
+None
+
+Active
+
+
+ArchBang
+
+Willensky Aristide
+
+Stan McLaren
+
+2011
+
+Rolling
+
+Rolling
+
+Rolling
+
+X
+
+Arch Linux (UKM Edition)
+
+general
+
+None
+
+Active
+
+
+Arch Linux
+
+Judd Vinet
+
+dev team
+
+2002
+
+Rolling
+
+Rolling
+
+Rolling
+
+X
+
+Independent, inspired from CRUX
+
+general
+
+None
+
+Active
+
+
+BLAG
+
+Brixton Linux Action Group
+
+Brixton Linux Action Group
+
+2002
+
+
+
+?
+
+
+
+100% Free: GNU FSDG[7]
+
+Fedora
+
+desktop
+
+None
+
+Inactive
+
+
+Bodhi Linux
+
+Bodhi Linux Team
+
+Bodhi Linux Team
+
+2011
+
+7.0.0[8] 
+
+?
+
+2023-08-21
+
+X
+
+Debian, Ubuntu
+
+desktop, lightweight
+
+None
+
+Active
+
+
+Canaima
+
+CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community
+
+CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community
+
+2007
+
+8.0[9] 
+
+?
+
+2024-10-18
+
+X
+
+Debian, Ubuntu
+
+Government of Venezuela
+
+None
+
+Active
+
+
+CentOS
+
+CentOS Project
+
+CentOS Project
+
+2003
+
+10[10] 
+
+10 years[11]
+
+2024-12-12
+
+X
+
+Red Hat Enterprise Linux (RHEL)
+
+server, workstation
+
+None
+
+Inactive
+
+
+CentOS Stream
+
+CentOS Project
+
+CentOS Project
+
+2019
+
+9[12]
+
+5 years[13]
+
+2021-12-03
+
+X
+
+Upstream of Red Hat Enterprise Linux (RHEL)
+
+server, workstation
+
+None
+
+Active
+
+
+Chakra
+
+Jan Mette and Arch Linux KDEmod developers
+
+The Chakra Project Team
+
+2010
+
+Rolling
+
+Rolling
+
+2017.10
+
+X
+
+Arch Linux[14]
+
+desktop
+
+None
+
+Inactive
+
+
+Chimera Linux
+
+q66
+
+Chimera Linux team
+
+2021
+
+Rolling
+
+Rolling
+
+Rolling
+
+X
+
+Independent
+
+general
+
+None
+
+Active
+
+
+ChromeOS
+
+Sundar Pichai
+
+Google
+
+2011
+
+134.0.6998.107[15] 
+
+Rolling
+
+2025-03-18
+
+X
+
+Gentoo Linux
+
+web applications
+
+None
+
+Active
+
+
+Clear Linux OS
+
+Arjan van de Ven
+
+Intel
+
+2015
+
+Rolling
+
+Rolling
+
+Rolling
+
+X
+
+Independent
+
+container, server, desktop
+
+None
+
+Active
+
+
+ClearOS
+
+Peter Baldwin
+
+ClearFoundation
+
+2000
+
+7.8[16] 
+
+?
+
+2020-06-23
+
+X
+
+RHEL, CentOS
+
+server, gateway, network
+
+Some editions are free of charge
+
+Active
+
+
+CrunchBang Linux
+
+Philip Newborough
+
+Philip Newborough
+
+2008
+
+
+
+?
+
+
+
+X
+
+Debian
+
+desktop
+
+None
+
+Inactive
+
+
+CRUX
+
+Per Lidén
+
+CRUX Community
+
+2002
+
+3.8[17] 
+
+?
+
+2025-04-21
+
+X
+
+Independent
+
+general
+
+None
+
+Active
+
+
+Damn Small Linux
+
+John Andrews
+
+dev team
+
+2003
+
+4.4.10[18] 
+
+?
+
+2008-11-18
+
+X
+
+Debian, Knoppix
+
+lightweight, portable
+
+None
+
+Inactive
+
+
+Debian
+
+Ian Murdock
+
+Debian Project
+
+1993
+
+12.10[19] 
+
+~5 years,[g 1] 10 years Freexian ELTS(paid)
+
+2025-03-15
+
+Debian Social Contract and DFSG (main was 100% free, till 2022,[20][21] non-free packages were optional)[22]
+
+Independent, inspired by Softlanding Linux System (SLS)[23]
+
+general, server, desktop
+
+None
+
+Active
+
+
+Debian Edu
+
+
+
+Debian Project
+
+2004
+
+12.10[19] 
+
+~3 years[g 1]
+
+2025-03-15
+
+Debian Social Contract and DFSG
+
+Debian
+
+schools
+
+None
+
+Active
+
+
+Devuan
+
+The "Veteran Unix Admins" (VUA)
+
+The "Veteran Unix Admins" (VUA)
+
+2016
+
+5.0.0[24] 
+
+?
+
+2023-08-15
+
+X[g 2]
+
+Debian
+
+general
+
+None
+
+Active
+
+
+Deepin
+
+Wuhan Deepin Technology Co., Ltd.
+
+Wuhan Deepin Technology Co., Ltd.
+
+2004
+
+23.1[25] 
+
+?
+
+2025-04-16
+
+X
+
+Debian
+
+general
+
+None
+
+Active
+
+
+Dragora GNU/Linux-Libre
+
+Matias A. Fonzo
+
+Matias A. Fonzo
+
+2009
+
+3.0-beta2[26] 
+
+?
+
+2023-04-26
+
+100% Free: GNU FSDG[7]
+
+Independent, inspired from Slackware
+
+general
+
+None
+
+Active
+
+
+dyne:bolic
+
+Jaromil
+
+Jaromilx
+
+2005
+
+3.0.0[27] 
+
+?
+
+2011-09-08
+
+100% Free: GNU FSDG[7]
+
+Debian
+
+multimedia
+
+None
+
+Inactive
+
+
+Elementary OS
+
+Danielle Foré
+
+elementary LLC
+
+2011
+
+8.0.1[28] 
+
+?
+
+2025-03-18
+
+X
+
+Ubuntu, Debian
+
+general
+
+None
+
+Active
+
+
+ELinOS
+
+SYSGO
+
+SYSGO
+
+1999
+
+7.1[29] 
+
+?
+
+2022-04
+
+X
+
+Independent
+
+embedded systems
+
+Partial
+
+Active
+
+
+Emdebian Grip
+
+Embedded Debian Project
+
+Embedded Debian Project
+
+2009
+
+3.1[30] 
+
+End-of-life
+
+2023-06-15
+
+X
+
+Debian
+
+embedded systems
+
+None
+
+Inactive
+
+
+EndeavourOS
+
+Bryan Poerwoatmodjo
+
+EndeavourOS
+
+2019
+
+Rolling
+
+?
+
+2022-09-14
+
+X
+
+Arch Linux
+
+general
+
+None
+
+Active
+
+
+Fedora Linux
+
+Fedora Project
+
+Fedora Project
+
+2003
+
+42[31] 
+
+1 year + 1 month
+
+2025-04-15
+
+Fedora Licensing Guidelines[32]
+
+Red Hat Linux
+
+general
+
+None
+
+Active
+
+
+Freespire
+
+Lindows.com, Inc.
+
+PC/OpenSystems LLC
+
+2001
+
+10[33] 
+
+?
+
+2023-12-07
+
+X
+
+?
+
+desktop
+
+None
+
+Active
+
+
+Gentoo Linux
+
+Daniel Robbins
+
+Gentoo Foundation, Inc.
+
+2002
+
+Rolling
+
+Rolling
+
+Rolling
+
+Gentoo Social Contract
+
+Enoch Linux
+
+general
+
+None
+
+Active
+
+
+Guix System
+
+Ludovic Courtès
+
+Ludovic Courtès, Ricardo Wurmus, the Guix community
+
+2012
+
+1.4.0[34] 
+
+Rolling
+
+2022-12-19
+
+100% Free: GNU FSDG[7]
+
+Independent, inspired by NixOS
+
+general
+
+None
+
+Active
+
+
+gNewSense
+
+Brian Brazil and Paul O'Malley
+
+Sam Geeraerts with sponsorship from the Free Software Foundation
+
+2006
+
+4.0[35] 
+
+?
+
+2016-05-02
+
+100% Free: GNU FSDG[7]
+
+Debian
+
+general, server
+
+None
+
+Inactive
+
+
+Grml
+
+Michael Prokop
+
+The Grml Team
+
+2005
+
+2024.02[36] 
+
+?
+
+2024-02-28
+
+X
+
+Debian
+
+live, maintenance, security, network, forensic, accessibility
+
+None
+
+Active
+
+
+Hyperbola GNU/Linux-libre
+
+Hyperbola Founders
+
+Hyperbola Founders
+
+2017
+
+0.4.4[37] 
+
+3 years (stable), 5 years (old stable)[38]
+
+2024-01-05
+
+100% Free: GNU FSDG[7] followed in Hyperbola Social Contract
+
+Arch Linux
+
+general
+
+None
+
+Active[39]
+
+
+Kali Linux
+
+Max Moser, Mati Aharoni, Martin J. Muench
+
+Offensive Security
+
+2013
+
+2025.1a[40] 
+
+?
+
+2025-03-19
+
+X
+
+Debian
+
+auditing, forensic, security, network
+
+None
+
+Active
+
+
+Knoppix
+
+Klaus Knopper
+
+dev team
+
+2000
+
+9.3[41] 
+
+?
+
+2022-05-05
+
+X
+
+Debian
+
+live
+
+None
+
+Active
+
+
+Korora
+
+Chris Smart
+
+Dev Team
+
+2005
+
+26[42] 
+
+?
+
+2017-09-16
+
+X
+
+Fedora
+
+desktop
+
+None
+
+Inactive
+
+
+LibreCMC
+
+LibreCMC team
+
+LibreCMC team
+
+2010
+
+1.5.14[43] 
+
+?
+
+2023-10-03
+
+100% Free: GNU FSDG[7]
+
+Merged from LibreWRT
+
+embedded systems
+
+None
+
+Active
+
+
+Linspire
+
+Linspire, Inc.
+
+Linspire, Inc.
+
+2001
+
+12 SP1[44] 
+
+?
+
+2023-05-29
+
+X
+
+?
+
+?
+
+Commercial[45]
+
+Active
+
+
+Linux Mint
+
+Clement Lefebvre
+
+dev team
+
+2006
+
+22.1[46] 
+
+5 years (main editions); ~3 years (LMDE)
+
+2025-01-16
+
+X
+
+Debian (LMDE), Ubuntu (main editions)
+
+desktop
+
+None
+
+Active
+
+
+Linux Lite
+
+Jerry Bezencon
+
+Linux Lite Team
+
+2012
+
+7.4[47] 
+
+?
+
+2025-03-31
+
+X
+
+Ubuntu
+
+desktop
+
+None
+
+Active
+
+
+Mageia
+
+Mageia Community
+
+mageia.org
+
+2010
+
+9[48] 
+
+1 year
+
+2023-09-04
+
+X
+
+Mandriva Linux
+
+general
+
+None
+
+Active
+
+
+Mandriva Linux
+
+Mandrakesoft S.A.
+
+Mandriva S.A.
+
+1998
+
+2011.0[49] 
+
+?
+
+2011-08-28
+
+X
+
+Red Hat Linux
+
+general
+
+Some editions are free of charge
+
+Inactive
+
+
+Manjaro Linux
+
+Roland Singer
+
+dev team
+
+2012[50]
+
+Rolling
+
+Rolling
+
+Rolling
+
+X
+
+Arch Linux
+
+general
+
+None
+
+Active
+
+
+MEPIS
+
+Warren Woodford
+
+MEPIS LLC
+
+2003
+
+11.9.92[51] 
+
+?
+
+2013-08-10
+
+X
+
+Debian
+
+desktop, server
+
+None
+
+Inactive
+
+
+MIRACLE LINUX
+
+Cybertrust Japan
+
+Cybertrust Japan
+
+2000
+
+9[52] 
+
+10 years
+
+2022-11-01
+
+X
+
+Red Hat Enterprise Linux (RHEL)
+
+server
+
+None
+
+Active
+
+
+Musix GNU+Linux
+
+Musix team
+
+Musix team
+
+2008
+
+3.0.1[53] 
+
+?
+
+2014-03-13
+
+100% Free: GNU FSDG[7]
+
+Debian
+
+multimedia
+
+None
+
+Inactive
+
+
+Netrunner
+
+Blue Systems
+
+dev team
+
+2009
+
+25[54] 
+
+as per Debian
+
+2025-02-10
+
+X
+
+Debian
+
+desktop
+
+None
+
+Active
+
+
+NixOS
+
+Eelco Dolstra and Armijn Hemel
+
+NixOS Foundation
+
+2003
+
+
+
+0.5 years
+
+
+
+X
+
+–
+
+general, server, desktop
+
+None
+
+Active
+
+
+Novell Open Enterprise Server
+
+Novell
+
+Novell, Inc. dev team
+
+2003
+
+2023
+
+?
+
+2022-10
+
+X
+
+SUSE Linux Enterprise Server
+
+server
+
+Commercial[55]
+
+Active
+
+
+OpenELEC
+
+Stephan Raue, OpenELEC Team
+
+OpenELEC Team
+
+2011
+
+8.0.4
+
+?
+
+2017-06-04
+
+X
+
+Kodi
+
+multimedia
+
+None
+
+Inactive
+
+
+openSUSE
+
+SUSE Linux
+
+openSUSE Project
+
+2006
+
+15.6[56] 
+
+1.5 years[57]
+
+2024-06-12
+
+X
+
+Slackware, Jurix
+
+general, desktop
+
+None
+
+Active
+
+
+OpenWrt
+
+?
+
+OpenWrt team
+
+2007
+
+24.10.1 [58]
+
+?
+
+2025-04-15
+
+X
+
+Independent
+
+embedded systems
+
+None
+
+Active
+
+
+OpenMandriva Lx
+
+OpenMandriva Association
+
+OpenMandriva Association
+
+2013
+
+6.0[59] 
+
+?
+
+2025-04-20
+
+X
+
+Mandriva Linux
+
+general
+
+None
+
+Active
+
+
+Oracle Linux
+
+Oracle Corporation
+
+Oracle Corporation
+
+2006
+
+9.5[60] 
+
+?
+
+2024-11-20
+
+X
+
+Red Hat Enterprise Linux (RHEL)
+
+server
+
+None
+
+Active
+
+
+Parabola GNU/Linux-libre
+
+Parabola Hackers
+
+Parabola Hackers
+
+2009
+
+Rolling[61]
+
+Rolling
+
+2021-08-11[62]
+
+100% Free: GNU FSDG[7] followed in Parabola Social Contract
+
+Arch Linux
+
+general
+
+None
+
+Active
+
+
+Pardus
+
+Scientific and Technological Research Council of Turkey (TÜBİTAK)
+
+TÜBİTAK
+
+2005
+
+23.2[63] 
+
+?
+
+2024-07-16
+
+X
+
+Gentoo (2011.2)  Debian
+
+general
+
+None
+
+Active
+
+
+Parrot OS
+
+Lorenzo "Palinuro" Faletra
+
+Parrot Dev Team
+
+2013
+
+6.3[64] 
+
+Rolling
+
+2025-01-31
+
+X
+
+Debian
+
+security, desktop
+
+None
+
+Active
+
+
+Parsix
+
+Alan Baghumian
+
+Parsix Project
+
+2005
+
+8.15[65] 
+
+?
+
+2017-01-25
+
+X
+
+Debian
+
+desktop
+
+None
+
+Inactive
+
+
+Parted Magic
+
+Patrick Verner
+
+Parted Magic LLC.
+
+2007
+
+2025_01_22[66] 
+
+?
+
+2025-01-22
+
+X
+
+Independent
+
+live, maintenance
+
+Commercial[67]
+
+Active
+
+
+PCLinuxOS
+
+Bill Reynolds
+
+dev team
+
+2003
+
+2022.12
+
+Semi-rolling
+
+2022-12-12
+
+X
+
+Mandriva Linux
+
+desktop
+
+None
+
+Active
+
+
+Pop! OS
+
+Carl Ritchell
+
+System76
+
+2017
+
+22.04 LTS[68] 
+
+2 years for LTS releases.
+2–3 months after the next release for other releases.
+
+
+2022-04-25
+
+X
+
+Ubuntu
+
+desktop, laptop
+
+None
+
+Active
+
+
+Pentoo
+
+Michael Zanetta, Rick Farina, Jens Pranaitis
+
+Pentoo
+
+2005
+
+2019.1
+
+?
+
+2019-01-17
+
+X
+
+Gentoo Linux
+
+auditing, security
+
+None
+
+Active
+
+
+Porteus
+
+Fanthom
+
+Porteus
+
+2010
+
+5.01[69] 
+
+?
+
+2023-09-26
+
+X
+
+Slackware
+
+lightweight, portable
+
+None
+
+Active
+
+
+ProteanOS
+
+
+
+Libiquity
+
+2011
+
+Rolling
+
+Rolling
+
+Rolling
+
+100% Free: GNU FSDG[7]
+
+?
+
+embedded
+
+None
+
+Active
+
+
+Puppy Linux
+
+Barry Kauler
+
+Puppy Foundation
+
+2003
+
+9.5[70] 
+
+?
+
+2020-09-17
+
+X
+
+Independent, inspired from Vector linux
+
+lightweight, portable
+
+None
+
+Active
+
+
+PureOS
+
+Todd Weaver
+
+Purism
+
+2009
+
+10.3[71] 
+
+Stable and Rolling
+
+2023-06-14
+
+100% Free: GNU FSDG[7]
+
+Debian
+
+general, security, privacy
+
+None
+
+Active
+
+
+Qubes OS
+
+Joanna Rutkowska
+
+Invisible Things Lab
+
+2012
+
+4.2.4[72] 
+
+?
+
+2025-02-18
+
+X
+
+Xen and Fedora
+
+security by compartmentalization, desktop
+
+None
+
+Active
+
+
+Red Hat Enterprise Linux (RHEL)
+
+Red Hat
+
+Red Hat
+
+2002
+
+9.5[73] 
+
+12 years[74]
+
+2024-11-13
+
+X
+
+Red Hat Linux, Fedora
+
+general
+
+Commercial[75][76]
+
+Active
+
+
+Red Hat Linux
+
+Red Hat
+
+Red Hat
+
+1995
+
+0.9[77]  alias Shrike
+
+?
+
+1994-10-31
+
+X
+
+–
+
+server, workstation
+
+None
+
+Inactive
+
+
+Rocks Cluster Distribution
+
+UCSD Supercomputing Center, Clustercorp
+
+UCSD Supercomputing Center, Clustercorp
+
+2000
+
+7.0[78] 
+
+?
+
+2017-12-01
+
+X
+
+Red Hat Linux
+
+server, workstation
+
+None
+
+Active
+
+
+Rocky Linux
+
+Rocky Enterprise Software Foundation
+
+Rocky Enterprise Software Foundation
+
+2021
+
+9.5[79] 
+
+10 years
+
+2024-11-19
+
+X
+
+Red Hat Enterprise Linux (RHEL)
+
+general
+
+None
+
+Active
+
+
+ROSA
+
+?
+
+LLC NTC IT ROSA
+
+2011
+
+13[80] 
+
+?
+
+2025-02-28
+
+X
+
+Mandriva
+
+server, general
+
+None
+
+Active
+
+
+Sabayon Linux
+
+Fabio Erculiani
+
+dev team
+
+2005
+
+19.03 [81]
+
+?
+
+2019-03-31
+
+X
+
+Gentoo Linux
+
+general
+
+None
+
+Inactive
+
+
+Salix OS
+
+Cyrille Pontvieux, George Vlahavas, Pierrick Le Brun, Thorsten Mühlfelder
+
+Salix team
+
+2009
+
+
+
+?
+
+
+
+X
+
+Slackware
+
+general
+
+None
+
+Active
+
+
+Scientific Linux
+
+CERN, Fermilab
+
+dev team
+
+2004
+
+7.9[82] 
+
+?
+
+2020-10-20
+
+X
+
+Red Hat Linux, Red Hat Enterprise Linux (RHEL)
+
+server, workstation
+
+None
+
+Inactive
+
+
+Slackware
+
+Patrick Volkerding
+
+dev team
+
+1993
+
+15.0[83] 
+
+?
+
+2022-02-02
+
+X
+
+Softlanding Linux System (SLS)
+
+general
+
+None
+
+Active
+
+
+Slax
+
+Tomas Matejicek
+
+Tomas Matejicek
+
+2002
+
+12.2.0[84] 
+
+?
+
+2023-10-10
+
+X
+
+Debian, Slackware (until Slax 9)
+
+live
+
+None
+
+Active
+
+
+SliTaz GNU/Linux
+
+Christophe Lincoln
+
+dev team
+
+2008
+
+Rolling
+
+Rolling
+
+2020-02-23[85]
+
+X
+
+Independent
+
+portable
+
+None
+
+Active
+
+
+Solus
+
+Ikey Doherty
+
+dev team
+
+2005
+
+Rolling
+
+Rolling
+
+2021-07-11
+
+X
+
+Pardus Linux
+
+desktop
+
+None
+
+Active
+
+
+SolydXK
+
+Arjen Balfoort
+
+dev team
+
+2013
+
+12 [86]
+
+Debian packages as per Debian
+
+2023-12-04
+
+X
+
+Debian
+
+desktop
+
+None
+
+Active
+
+
+SparkyLinux
+
+?
+
+Sparky Linux team
+
+2012
+
+7.5[87] 
+
+?
+
+2024-09-18
+
+X
+
+Debian
+
+general, video games
+
+None
+
+Active
+
+
+Source Mage GNU/Linux
+
+Ryan Abrams, Eric Schabell
+
+dev team
+
+2002
+
+0.62-11[88] 
+
+?
+
+2017-09-22
+
+Source Mage Social Contract
+
+Sorcerer
+
+general
+
+None
+
+Active
+
+
+SteamOS
+
+Valve
+
+Valve
+
+2013
+
+3.6.21[89] 
+
+?
+
+2025-02-12
+
+X
+
+Debian (2.0)  Arch Linux (3.0)
+
+video games
+
+None
+
+Active
+
+
+SUSE Linux Enterprise
+
+SUSE
+
+SUSE
+
+2000
+
+15[90] SP5[91]
+
+13 years per version[92]
+
+2023-06-20
+
+Common code base for x86-64, Power, System z, Arm64
+
+Slackware, Jurix
+
+edge, workstation, server, supercomputer
+
+Commercial[93]
+
+Active
+
+
+Tails
+
+?
+
+Tails Development Team
+
+2009
+
+6.14.2[94] 
+
+–[g 3]
+
+2025-04-15
+
+X
+
+Debian
+
+security-focused aimed for anonymity and privacy
+
+None
+
+Active
+
+
+Tiny Core Linux
+
+Robert Shingledecker
+
+Team Tiny Core
+
+2009
+
+16.0[95] 
+
+?
+
+2025-03-31
+
+X
+
+Independent, inspired from Damn Small Linux
+
+portable
+
+None
+
+Active
+
+
+Trisquel GNU/Linux
+
+Rubén Rodríguez Pérez (quidam)
+
+Rubén Rodríguez Pérez (quidam)
+
+2005
+
+11.0[96] 
+
+3 years
+
+2023-03-19
+
+100% Free: GNU FSDG[7]
+
+Ubuntu LTS
+
+desktop
+
+None
+
+Active
+
+
+TurnKey GNU/Linux
+
+Alon Swartz, Liraz Siri
+
+TurnKey GNU/Linux Team
+
+2008
+
+18.0[97] 
+
+Debian packages as per Debian; TurnKey packages for life of current major version (plus backports per request)
+
+2023-09-14
+
+Debian Social Contract and DFSG
+
+Debian
+
+server based software appliance library aiming to balance security and ease of use
+
+None
+
+Active
+
+
+Ubuntu and Derivatives[98]
+
+Canonical Ltd.
+
+Canonical Ltd.
+
+2004
+
+25.04[99] 
+
+Standard releases 9 months, LTS releases 5 years. Flavor LTS releases 3 or 5 years. Ubuntu Pro 10 years.
+
+2025-04-17
+
+X
+
+Debian
+
+general, server, desktop, supercomputer, IBM mainframe
+
+None
+
+Active
+
+
+Univention Corporate Server
+
+Univention GmbH
+
+Univention GmbH
+
+2004
+
+5.0-8[100] 
+
+up to 6 months for free Core Edition; up to 7 years if maintenance is purchased, see:[101]
+
+2024-06-11
+
+X
+
+Debian
+
+home, business, and school
+
+Core Edition is free of charge
+
+Active
+
+
+Ututo
+
+Diego Saravia, Daniel Olivera
+
+UTUTO dev team
+
+2000
+
+XS 2012
+
+?
+
+2012-04-27
+
+100% Free: GNU FSDG[7]
+
+Ututo XS: Gentoo Linux, Ututo UL: Ubuntu
+
+general
+
+None
+
+Inactive
+
+
+VectorLinux
+
+Robert S. Lange
+
+dev team
+
+1999
+
+7.2[102] 
+
+?
+
+2017-08-28
+
+X
+
+Slackware
+
+desktop
+
+None
+
+Inactive
+
+
+Void Linux
+
+Juan Romero Pardines
+
+Juan RP and contributors
+
+2008
+
+Rolling
+
+Rolling
+
+2022-10-17
+
+X
+
+Independent, partially inspired by FreeBSD/NetBSD
+
+general
+
+None
+
+Active
+
+
+Webconverger
+
+Kai Hendry
+
+Webconverger Limited
+
+2007
+
+35.0[103] 
+
+?
+
+2016-05-19
+
+X
+
+Debian
+
+kiosk software, digital signage
+
+Commercial
+
+Inactive
+
+
+Xandros
+
+Xandros Incorporated
+
+Xandros Incorporated
+
+2001
+
+4.2 
+
+?
+
+2007-07-26
+
+X
+
+Corel Linux
+
+?
+
+Commercial
+
+Inactive
+
+
+Zentyal
+
+eBox Technologies
+
+eBox Technologies
+
+2005
+
+8.0[104] 
+
+?
+
+2024-02-26
+
+X
+
+Debian, Ubuntu
+
+small business server
+
+Some editions are free of charge
+
+?
+
+
+Zenwalk
+
+Jean-Philippe Guillemin
+
+dev team
+
+2004
+
+15.0-221106[105] 
+
+?
+
+2022-11-06
+
+X
+
+Slackware
+
+general
+
+None
+
+Active
+
+
+Zorin OS
+
+Zorin Group
+
+Zorin Group
+
+2009
+
+17.3[106] 
+
+?
+
+2025-03-26
+
+X
+
+Ubuntu
+
+general, desktop
+
+Zorin OS Lite & Core are free, while Business and Ultimate are paid
+
+Active
+
+
+Distribution
+
+Founder
+
+Maintainer
+
+Initial release year
+
+Current stable version
+
+Security updates (years)
+
+Release date
+
+System distribution commitment
+
+Forked from
+
+Target audience
+
+Cost
+
+Status
+
+
+
+^ a b Debian releases are officially supported for 1 year after the subsequent release, with releases being approximately 2 years apart. The Debian LTS Project provides community based support extending the complete support period to 5 years.
+
+^ Default ISOs included non-free software
+
+^ Security updates are released every six weeks.
+
+
+Technical[edit]
+The table below shows the default file system, but many Linux distributions support some or all of ext2, ext3, ext4, Btrfs, ReiserFS, Reiser4, JFS, XFS, GFS2, OCFS2, and NILFS. It is possible to install Linux onto most of these file systems. The ext file systems, namely ext2, ext3, and ext4 are based on the original Linux file system.
+File systems have been developed by companies to meet their specific needs, by hobbyists, or adapted from Unix, Microsoft Windows, and other operating systems. Linux has full support for XFS and JFS, FAT (the DOS file system), and HFS, the main file system for the Macintosh. Support for Microsoft Windows NT's NTFS file system has been developed and is now comparable with other native Unix file systems. CDs, DVDs, and Blu-ray discs' ISO 9660 and Universal Disk Format (UDF) are supported.
+Unlike other operating systems, Linux and Unix allow any file system regardless of the medium it is stored on, whether that medium is a magnetic disk, an optical disk (CD, DVD, etc.), a USB flash memory key, or even contained within a file located on another file system. Similarly, many C compilers (mainly GNU Compiler Collection (GCC)), init systems (mainly sysvinit), desktop environments and window managers are widely supported.
+
+
+
+Distribution
+
+Default Linux kernel
+
+Default file system
+
+Default init system
+
+Install-time desktop environment or window manager selection
+
+Reproducible builds
+
+
+Alpine Linux
+
+Binary blobs
+
+ext4
+
+openrc
+
+none
+
+In progress[107]
+
+
+ALT Linux
+
+Binary blobs
+
+ext3
+
+systemd
+
+KDE Plasma Workspaces, Xfce
+
+No
+
+
+Arch Linux
+
+Binary blobs[108]
+
+none[109]
+
+systemd
+
+Awesome, bspwm, Budgie, Cinnamon, COSMIC, CuteFish, Deepin, Enlightenment, GNOME, Hyprland, i3, KDE, LXQt, MATE, Qtile, Sway, Xfce[110]
+
+In progress[111]
+
+
+BLAG
+
+Linux-libre
+
+ext3
+
+sysvinit
+
+GNOME
+
+No
+
+
+Bodhi Linux
+
+Binary blobs
+
+ext4
+
+systemd
+
+Moksha (Enlightenment fork)
+
+No
+
+
+Canaima
+
+Binary blobs[108]
+
+?
+
+systemd
+
+GNOME, KDE Plasma and Xfce
+
+No
+
+
+CentOS
+
+Binary blobs[108]
+
+xfs
+
+systemd
+
+GNOME
+
+No
+
+
+Chakra
+
+Binary blobs
+
+ext4
+
+systemd
+
+KDE Plasma Workspaces
+
+No
+
+
+Chimera Linux
+
+Binary blobs
+
+none
+
+dinit
+
+GNOME, KDE Plasma
+
+No
+
+
+Clear Linux OS
+
+?
+
+?
+
+?
+
+GNOME
+
+
+
+
+ClearOS
+
+Binary blobs
+
+ext3
+
+systemd
+
+none (Web based)
+
+No
+
+
+CoreOS
+
+Binary blobs
+
+ext4
+
+systemd
+
+None
+
+No
+
+
+CrunchBang Linux
+
+Binary blobs
+
+ext4
+
+sysvinit
+
+Openbox
+
+No
+
+
+Damn Small Linux
+
+Binary blobs
+
+ext3
+
+sysvinit
+
+JWM
+
+No
+
+
+Debian
+
+Linux-libre(debian)[112] with separate non-free binary blobs hosted and sponsored.[108]
+
+ext4
+
+systemd
+
+GNOME, KDE, Xfce, LXDE[113]
+
+In progress[114][115]
+
+
+Devuan
+
+Binary blobs
+
+ext4
+
+sysvinit
+
+Xfce
+
+No
+
+
+Dragora GNU/Linux-Libre
+
+Linux-libre
+
+ext4
+
+runit
+
+Xfce
+
+No
+
+
+dyne:bolic
+
+Linux-libre
+
+?
+
+systemd
+
+GNOME
+
+No
+
+
+Fedora
+
+Binary blobs
+
+btrfs[116]
+
+systemd
+
+GNOME (default Workstation Edition), Spins for: KDE, Xfce, Cinnamon, MATE (with Compiz), i3, LXQt, LXDE, Phosh, Sway and Budgie
+
+In progress[117]
+
+
+Funtoo
+
+Binary blobs
+
+none
+
+openrc
+
+None
+
+No
+
+
+Gentoo
+
+By default, there are no binary blobs in the kernel. Binary blobs can be installed, but the user must edit a file to accept any license. [118]
+
+none
+
+openrc
+
+Awesome, Enlightenment, Fluxbox, GNOME, KDE, LXDE-Meta, Openbox, XBMC and Xfce (live DVD)[119]
+
+No
+
+
+gNewSense
+
+Linux-libre(debian), and (unlike Debian) blobs cannot be installed[112]
+
+ext3
+
+sysvinit
+
+GNOME
+
+No
+
+
+Guix System
+
+Linux-libre, Hurd (in progress)[120][121]
+
+ext4
+
+GNU Shepherd
+
+GNOME, Xfce, MATE, Enlightenment, Openbox, awesome, i3, ratpoison, EXWM
+
+In progress[122][123]
+
+
+Hyperbola GNU/Linux-libre
+
+Linux-libre
+
+none
+
+openrc[124]
+
+none
+
+No
+
+
+Kali Linux
+
+Binary blobs
+
+ext4
+
+systemd
+
+GNOME
+
+No
+
+
+Knoppix
+
+Binary blobs
+
+xfs
+
+microknoppix
+
+LXDE
+
+No
+
+
+LibreCMC[125]
+
+Binary blobs
+
+ext4
+
+busybox-init
+
+none
+
+No
+
+
+Linux Mint[126]
+
+Binary blobs[108]
+
+ext4
+
+systemd
+
+MATE, Cinnamon, KDE 4, XFCE
+
+No
+
+
+Mageia
+
+Binary blobs
+
+ext4
+
+systemd
+
+KDE Plasma Workspaces, GNOME
+
+No
+
+
+Mandriva Linux
+
+Binary blobs
+
+ext4
+
+systemd
+
+KDE Plasma Workspaces
+
+No
+
+
+Manjaro Linux
+
+Binary blobs
+
+none[127]
+
+systemd
+
+Xfce, KDE, GNOME[128]
+
+No
+
+
+MEPIS
+
+Binary blobs
+
+ext4
+
+sysvinit
+
+KDE Plasma Workspaces
+
+No
+
+
+MIRACLE LINUX
+
+Binary blobs
+
+ext4
+
+systemd
+
+GNOME
+
+No
+
+
+Musix GNU+Linux[129]
+
+Linux-libre
+
+ext4
+
+initscripts
+
+LXDE
+
+No
+
+
+NixOS
+
+Binary blobs or Linux-libre[130]
+
+none
+
+systemd
+
+GNOME or KDE Plasma (Default), CDE, Cinnamon, Enlightment, Kodi, Lumina, LXQt, MATE, Pantheon, Phosh, RetroArch, Xfce, Xterm. 40 window managers[131]
+
+In progress[132]
+
+
+OpenELEC
+
+Binary blobs
+
+SquashFS
+
+shell script
+
+XBMC Media Center
+
+No
+
+
+openSUSE
+
+Binary blobs
+
+btrfs
+
+systemd
+
+KDE Plasma Workspaces, GNOME, Xfce
+
+In progress[133]
+
+
+OpenWrt
+
+Binary blobs
+
+overlayfs+SquashFS/JFFS2[134]
+
+procd[135]
+
+none
+
+In progress[136]
+
+
+Parabola GNU/Linux-libre
+
+Linux-libre
+
+none
+
+openrc or systemd
+
+none
+
+No
+
+
+Pardus
+
+Binary blobs
+
+ext4
+
+systemd
+
+KDE Plasma Workspaces
+
+No
+
+
+Parsix
+
+Binary blobs
+
+ext4
+
+systemd
+
+GNOME
+
+No
+
+
+PCLinuxOS
+
+Binary blobs
+
+none
+
+sysvinit
+
+KDE Plasma Workspaces, GNOME, LXDE, Xfce, Enlightenment, Openbox
+
+No
+
+
+Pentoo
+
+Binary blobs
+
+SquashFS
+
+openrc
+
+Enlightenment
+
+No
+
+
+Porteus
+
+Binary blobs
+
+?
+
+sysvinit
+
+KDE, LXDE, Xfce, Openbox, Razor-qt
+
+No
+
+
+Puppy Linux
+
+Binary blobs
+
+SquashFS containing ext2
+
+busybox-init
+
+JWM
+
+No
+
+
+PureOS
+
+Linux-libre(debian). Binary blobs are not hosted and discouraged while can be manually installed.[137]
+
+ext4
+
+systemd
+
+GNOME
+
+No
+
+
+Red Hat Enterprise Linux
+
+Binary blobs
+
+xfs
+
+systemd
+
+GNOME
+
+No
+
+
+Rxart Desktop
+
+Binary blobs
+
+ext3
+
+?
+
+KDE Plasma Workspaces
+
+No
+
+
+Sabayon Linux
+
+Binary blobs
+
+ext4[138]
+
+systemd
+
+KDE Plasma Workspaces, GNOME
+
+No
+
+
+Scientific Linux
+
+Binary blobs
+
+ext4
+
+sysvinit, systemd[139]
+
+GNOME
+
+No
+
+
+Slackware
+
+Binary blobs[108]
+
+?
+
+RC.d and sysvinit compatible
+
+KDE, XFCE Fluxbox, Blackbox, fvwm2 twm
+
+No
+
+
+Slax
+
+Binary blobs
+
+SquashFS
+
+sysvinit
+
+KDE Plasma Workspaces
+
+No
+
+
+SliTaz GNU/Linux
+
+Binary blobs
+
+ext3
+
+busybox-init
+
+Openbox
+
+No
+
+
+Solus
+
+Binary blobs
+
+ext4
+
+systemd
+
+Budgie, Gnome, MATE, KDE
+
+No
+
+
+Source Mage GNU/Linux
+
+Binary blobs
+
+ext2
+
+simpleinit-msb
+
+none
+
+No
+
+
+SteamOS
+
+Binary blobs
+
+btrfs, ext4[140]
+
+systemd
+
+Steam, KDE Plasma[141]
+
+No
+
+
+SUSE Linux Enterprise Desktop
+
+Binary blobs[108]
+
+btrfs[142]
+
+systemd
+
+GNOME
+
+No
+
+
+Tails
+
+Vanilla Linux[108]
+
+?
+
+systemd
+
+GNOME
+
+Reproducible ISO and USB images[143][144]
+
+
+Trisquel
+
+Linux-libre
+
+?
+
+systemd
+
+MATE
+
+No
+
+
+TurnKey GNU/Linux
+
+Binary blobs
+
+ext4
+
+systemd
+
+none - headless server by design; provides Webmin for administration
+
+No
+
+
+Ubuntu/Edubuntu
+
+Binary blobs[108]
+
+ext4[145]
+
+systemd
+
+GNOME
+
+No
+
+
+Ubuntu GNOME
+
+Binary blobs
+
+ext4
+
+systemd
+
+GNOME 3
+
+No
+
+
+Ubuntu MATE
+
+Binary blobs
+
+ext4
+
+systemd
+
+MATE
+
+No
+
+
+Kubuntu
+
+Binary blobs
+
+ext4[145]
+
+systemd
+
+KDE Plasma Workspaces
+
+No
+
+
+Xubuntu
+
+Binary blobs
+
+ext4[145]
+
+systemd
+
+Xfce
+
+No
+
+
+Lubuntu
+
+Binary blobs
+
+ext4
+
+systemd
+
+LXQt
+
+No
+
+
+Ututo
+
+Ututo XS (stable) is de-blobbed with Linux-libre tools.[146] Ututo UL (development) uses Linux-libre. Ututo UL means "Ubuntu-Libre"
+
+ext3
+
+systemd
+
+GNOME
+
+No
+
+
+VectorLinux
+
+Binary blobs
+
+ReiserFS
+
+sysvinit
+
+KDE, Openbox, Fluxbox, IceWM, Xfce
+
+No
+
+
+Void Linux
+
+Binary blobs
+
+none
+
+runit
+
+none
+
+No
+
+
+Webconverger
+
+Binary blobs
+
+gitfs
+
+sysvinit
+
+dwm enforcing a Browser-only interface
+
+No
+
+
+XBMC Live
+
+Binary blobs
+
+ext3
+
+systemd
+
+XBMC Media Center
+
+No
+
+
+Zentyal
+
+Binary blobs
+
+ext4
+
+systemd
+
+LXDE
+
+No
+
+
+Zenwalk
+
+Binary blobs
+
+ext4
+
+sysvinit
+
+Xfce
+
+No
+
+
+Distribution
+
+Default Linux kernel
+
+Default file system
+
+Default init system
+
+Install-time desktop environment or window manager selection
+
+Reproducible builds
+
+Instruction set architecture support[edit]
+Linux kernel portability to instruction set architectures other than x86, was an early feature added to the kernel.
+
+
+
+Distribution
+
+x86
+
+x86-64
+
+arm
+
+ia64
+
+ppc[147]
+
+ppc64
+
+sparc32
+
+sparc64
+
+hppa[148]
+
+loongarch64
+
+mips[149]
+
+sh
+
+s390
+
+s390x
+
+alpha[150]
+
+m68k[151]
+
+riscv
+
+
+Alpine Linux
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+riscv643.20+
+
+
+Arch Linux
+
+Unofficial[152]Official discontinued 2017-11-08[153]
+
+Yes
+
+Unofficial[154]
+
+No
+
+Discontinued unofficial port
+
+Unofficial[155]
+
+No
+
+No
+
+No
+
+Unofficial[156]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Unofficial[157]
+
+
+BackTrack
+
+Discontinued from BackTrack 5 and superseded by Kali Linux[158]
+
+Discontinued from BackTrack 5 and superseded by Kali Linux
+
+Discontinued from BackTrack 5 and superseded by Kali Linux
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+BLAG
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Bodhi Linux
+
+Yes
+
+Yes
+
+Discontinued2013-10-23[159]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+BOSS Linux
+
+Yes
+
+Yes
+
+?
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+CentOS
+
+AltArch
+
+Yes
+
+AltArch
+
+Discontinued3.5-3.84.1-4.7[160]
+
+Beta, Discontinued4.0
+
+AltArch
+
+Beta4.2[160][161]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Discontinued3.5-3.84.1-4.7[160][162]
+
+Discontinued3.5-3.84.1-4.7[160][162]
+
+Discontinued4.2-4.3[160][163][164]
+
+No
+
+No
+
+
+Chakra
+
+No
+
+Yes
+
+?
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Chimera Linux
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+
+Clear Linux OS
+
+?
+
+Yes
+
+?
+
+?
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+CRUX
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Debian[165]
+
+Yes
+
+Yes4.0+
+
+Yes2.2+
+
+Discontinued3.0-7.0[166]
+
+Discontinued2.2-8
+
+Yes
+
+Discontinued2.1-4.0[167]
+
+Discontinued-7[168]
+
+Discontinued3.0-5.0
+
+Official port requested[169]
+
+Yes3.0+
+
+In progress
+
+Discontinued3.0-7
+
+Yes7+
+
+Discontinued2.1-5.0
+
+Discontinued2.0-3.1
+
+Officially testing[170]
+
+
+Devuan
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Dragora GNU/Linux-Libre
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+dyne:bolic
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Fedora[171]
+
+Discontinued from Fedora 30
+
+Yes
+
+Yes[172]
+
+Discontinued from Fedora 9[173]
+
+Discontinued from Fedora 17
+
+Yes
+
+No
+
+Inactive from Fedora 12[174]
+
+No
+
+In progress
+
+Inactive from Fedora 13[175]
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+In progress[176]
+
+
+Finnix
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Gentoo[177]
+
+Yes
+
+Yes
+
+Yes[178]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes[179]
+
+Yes[180][181]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes[182]
+
+
+gNewSense
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Guix System[183]
+
+Yes
+
+Yes
+
+Yes, ARMv7 and AArch64
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+In progress[184]
+
+
+Hyperbola GNU/Linux-libre
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+In progress[185]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+In progress[186]
+
+
+Kali Linux
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+LibreCMC
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes XBurst
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Manjaro Linux
+
+YesUnofficial[187]
+
+Yes
+
+Yes[188]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+MEPIS
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+MIRACLE LINUX
+
+Discontinued8.0
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Musix GNU+Linux
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+NixOS
+
+Unofficial
+
+Yes
+
+Yes
+
+No
+
+Unofficial
+
+Unofficial
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Unofficial
+
+Unofficial
+
+No
+
+Unofficial
+
+Unofficial
+
+
+OpenELEC
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+openSUSE Leap
+
+No
+
+Yes
+
+v7 64
+
+No
+
+No
+
+ppc64le
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+openSUSE Tumbleweed
+
+Yes
+
+Yes
+
+v6 v7 64
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+RV64G
+
+
+OpenWrt[189]
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Oracle Linux[190]
+
+Yes
+
+Yes
+
+No
+
+Discontinued5[191]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Parabola GNU/Linux-libre
+
+Yes
+
+Yes
+
+Yes, ARMv7[192][193]
+
+No
+
+No
+
+Test release[194]
+
+No
+
+No
+
+No
+
+No
+
+Discontinued[195]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Test release[196]
+
+
+Red Flag Linux
+
+Discontinued8.0[197]
+
+Discontinued8.0[197]
+
+No
+
+Discontinued3[198]
+
+No
+
+Discontinued3[198]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Red Hat Linux[199]
+
+Discontinued9.0
+
+No
+
+No
+
+Discontinued7.1-7.2
+
+Test release5.1[200]
+
+No
+
+Discontinued4.0-4.25.1-6.2
+
+Test release5.1[200]
+
+No
+
+No
+
+Test release5.1[200]
+
+No
+
+Discontinued7.2
+
+Yes
+
+Discontinued2.1-7.1
+
+Test release5.1[200]
+
+No
+
+
+Red Hat Enterprise Linux[201]
+
+Discontinued2.1-6[202]
+
+Yes3+
+
+Yes[203]
+
+Discontinued2.1-5[204]
+
+Yes3+
+
+Yes3+
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Discontinued3-4[205]
+
+Yes3+
+
+No
+
+No
+
+No
+
+
+Sabayon Linux
+
+Discontinued
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Scientific Linux
+
+Yes
+
+Yes
+
+No
+
+Discontinued3-4
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+SHR
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Slackware
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+Discontinued?[206]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Discontinued?[207]
+
+Discontinued?[207]
+
+Discontinued8.1[208]
+
+No
+
+No
+
+
+Solus
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Source Mage GNU/Linux
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+?
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+SUSE Linux Enterprise Server[209]
+
+Yes
+
+Yes
+
+AArch64 only[210]
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+
+Trisquel GNU/Linux
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+TurnKey GNU/Linux
+
+Selected ISOsavailable
+
+Yes
+
+No - but under development by community
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Ubuntu/Kubuntu/Xubuntu/Lubuntu
+
+Discontinued from Ubuntu 20.04
+
+Yes
+
+Yes, including 64-bit ARMv8-A
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Ubuntu only, 16.04+[211]
+
+No
+
+No
+
+No
+
+
+Ututo
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+In progress
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Void Linux
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Unofficial[212]
+
+Unofficial[212]
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+XBMCbuntu
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Yellow Dog Linux
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+
+Distribution
+
+x86
+
+x86-64
+
+arm
+
+ia64
+
+ppc
+
+ppc64
+
+sparc32
+
+sparc64
+
+hppa
+
+loongson
+
+mips
+
+sh
+
+s390
+
+s390x
+
+alpha
+
+m68k
+
+riscv
+
+Package management and installation[edit]
+Information on features in the distributions. Package numbers are only approximate. Some distributions like Debian tend to separate tools into different packages – usually stable release, development release, documentation and debug. Also counting the source package number varies. For debian and rpm based entries it is just the base to produce binary packages, so the total number of packages is the number of binary packages. For Arch based entries, it is additional.
+
+
+
+Distribution
+
+Free software repositories
+
+Approximate number of pre-compiled packages
+
+Approximate number of source packages
+
+Default package management tool(s)
+
+Package format
+
+Default installer
+
+Graphical installation process
+
+Netinstall
+
+Netboot
+
+
+Alpine Linux
+
+Free, and nonfree
+
+13,888[213][214]
+
+?
+
+apk
+
+.apk
+
+setup-alpine
+
+No
+
+?
+
+iPXE[215]
+
+
+ALT Linux
+
+Free, and nonfree
+
+8,300[216]
+
+?
+
+APT (APT-RPM), RPM
+
+RPM
+
+
+
+Yes
+
+?
+
+?
+
+
+Arch Linux
+
+Free, and nonfree
+
+13,751[217]
+
+90,138 from AUR[218]
+
+Pacman
+
+.pkg.tar.zst[219]
+
+arch-install-scripts[220] and archinstaller[221]
+
+No
+
+Yes
+
+iPXE
+
+
+BLAG
+
+Free only
+
+10,000[222]
+
+?
+
+RPM, yum, APT
+
+RPM
+
+
+
+Yes
+
+No
+
+No
+
+
+Bodhi Linux
+
+Free, and nonfree
+
+[a][223]
+
+?
+
+APT
+
+.dpkg
+
+Ubiquity
+
+Yes
+
+?
+
+?
+
+
+Canaima
+
+Free, and nonfree
+
+?
+
+?
+
+APT
+
+.deb
+
+debian-installer
+
+Yes
+
+?
+
+?
+
+
+CentOS
+
+Free, and nonfree
+
+6,813[b][224]
+
+?
+
+RPM, yum/up2date
+
+RPM
+
+Anaconda
+
+Yes
+
+Yes
+
+?
+
+
+Chakra
+
+Free, and nonfree
+
+3,074[225]
+
+CCR: 5,342[226]
+
+Pacman (will be replaced by Akabei in future)
+
+.pkg.tar.xz
+
+
+
+Package manager in development
+
+?
+
+?
+
+
+Chimera Linux
+
+Free, and nonfree
+
+12,826
+
+2,648
+
+apk
+
+.apk
+
+None
+
+No
+
+Yes
+
+No
+
+
+ClearOS
+
+Free, and nonfree
+
+[c]
+
+?
+
+RPM, yum
+
+RPM
+
+
+
+No
+
+?
+
+?
+
+
+Clear Linux OS
+
+?
+
+?
+
+?
+
+Swupd
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+CrunchBang Linux
+
+Free, and nonfree
+
+[d][223]
+
+?
+
+APT
+
+.deb
+
+
+
+Yes
+
+?
+
+?
+
+
+Debian
+
+Free, and nonfree
+
+171,937[223]
+
+28,923[e]
+
+APT
+
+.deb
+
+Debian-Installer
+
+Yes
+
+Yes
+
+PXE
+
+
+Devuan
+
+Free, and nonfree
+
+[f][223]
+
+?
+
+APT
+
+.deb
+
+Debian-Installer
+
+Yes
+
+Yes
+
+PXE
+
+
+Dragora GNU/Linux-Libre
+
+Free only
+
+484
+
+?
+
+pkgsystem
+
+.tlz
+
+?
+
+No
+
+No
+
+No
+
+
+dyne:bolic
+
+Free only
+
+?
+
+?
+
+APT
+
+.deb
+
+Debian-Installer
+
+Yes
+
+No
+
+No
+
+
+Fedora
+
+Free, and nonfree
+
+68,419[227]
+
+41,231[228]
+
+DNF, yum, PackageKit
+
+RPM
+
+Anaconda
+
+Yes
+
+Yes
+
+?
+
+
+Gentoo
+
+Free, and nonfree
+
+118[229][230]
+
+19,105[231][g]
+
+Portage
+
+.ebuild, .tbz2
+
+None (third-party install scripts only)
+
+Yes[h]
+
+Yes
+
+PXE
+
+
+gNewSense
+
+Free only
+
+?
+
+?
+
+APT
+
+.deb
+
+Debian-Installer
+
+Yes
+
+Yes
+
+No
+
+
+Guix System
+
+Free only
+
+20,571[232]
+
+20,571
+
+Guix
+
+.scm, .go
+
+guix system init[233]
+
+Yes[234]
+
+Yes[235]
+
+No
+
+
+Hyperbola GNU/Linux-libre
+
+Free only
+
+6,128[236]
+
+?
+
+Pacman
+
+.pkg.tar.lz
+
+None (third-party install scripts only)
+
+No
+
+Yes
+
+?
+
+
+Knoppix
+
+Free, and nonfree
+
+[i][223]
+
+?
+
+APT
+
+.deb
+
+
+
+No
+
+?
+
+?
+
+
+LibreCMC
+
+Free only
+
+826
+
+?
+
+?
+
+?
+
+
+
+No
+
+No
+
+No
+
+
+Linux Mint
+
+Free, and nonfree
+
+[j][223]
+
+?
+
+APT
+
+.deb
+
+Ubiquity
+
+Yes
+
+?
+
+?
+
+
+Mageia
+
+Free, and nonfree
+
+17,283 (i586), 11,409 (x86-64)[237]
+
+8,834[238]
+
+urpmi, rpmdrake
+
+RPM
+
+DrakX
+
+Yes
+
+Yes
+
+?
+
+
+Mandriva Linux
+
+Free, and nonfree
+
+22,600
+
+?
+
+urpmi, rpmdrake
+
+RPM
+
+DrakX
+
+Yes
+
+?
+
+?
+
+
+Manjaro Linux
+
+Free, and nonfree
+
+?
+
+[k][218]
+
+Pacman
+
+.pkg.tar.xz
+
+Calamares[239]
+
+Yes[240]
+
+Yes
+
+iPXE
+
+
+MEPIS
+
+Free, and nonfree
+
+[l][223]
+
+?
+
+APT
+
+.deb
+
+MEPIS Install
+
+Yes
+
+?
+
+?
+
+
+MIRACLE LINUX
+
+Free, and nonfree
+
+7,109
+
+2,899
+
+RPM, yum, dnf
+
+RPM
+
+Anaconda
+
+Yes
+
+Yes
+
+No
+
+
+Musix GNU+Linux
+
+Free only
+
+1,819
+
+?
+
+APT
+
+.deb
+
+Debian-Installer
+
+Yes
+
+No
+
+No
+
+
+NixOS
+
+Free, and nonfree
+
+71,311[241]
+
+124,166[242]
+
+nix
+
+.nix
+
+Calamares
+
+Yes
+
+Yes[243]
+
+Yes[244]
+
+
+OpenELEC
+
+Free, and nonfree
+
+140[245]
+
+?
+
+XBMCbuntu addon manager, own and 3rd party addons
+
+.zip
+
+
+
+Yes
+
+?
+
+?
+
+
+openSUSE
+
+Free, and nonfree
+
+42,236 with PackMan[246]
+
+34,000
+
+YaST, Zypper
+
+RPM
+
+YaST
+
+Yes
+
+Yes
+
+?
+
+
+OpenWrt
+
+Free, and nonfree
+
+2,000
+
+?
+
+opkg
+
+.ipk
+
+-
+
+No
+
+?
+
+?
+
+
+Parabola GNU/Linux-libre
+
+Free only
+
+23,000[247]
+
+?
+
+Pacman
+
+.pkg.tar.xz
+
+None (third-party install scripts only) or Calamares
+
+Yes
+
+Yes
+
+?
+
+
+Pardus
+
+Free, and nonfree
+
+4,000
+
+?
+
+APT
+
+.deb
+
+Debian-Installer
+
+Yes
+
+?
+
+?
+
+
+Parsix
+
+Free, and nonfree
+
+[m][223]
+
+14,900
+
+APT
+
+.deb
+
+
+
+Yes
+
+?
+
+?
+
+
+PCLinuxOS
+
+Free, and nonfree
+
+12,000
+
+?
+
+APT, RPM
+
+RPM
+
+
+
+Yes
+
+?
+
+?
+
+
+Puppy
+
+Free, and nonfree
+
+700
+
+?
+
+PupGet, DotPup
+
+.pup, .pet
+
+
+
+Yes
+
+?
+
+?
+
+
+Red Hat Enterprise Linux
+
+Free, and nonfree
+
+3,000 (plus 9,155 from EPEL[248])
+
+?
+
+RPM, yum
+
+RPM
+
+Anaconda
+
+Yes
+
+?
+
+?
+
+
+Rxart
+
+Free, and nonfree
+
+[n][223]
+
+?
+
+APT
+
+.deb
+
+
+
+Yes
+
+?
+
+?
+
+
+Sabayon Linux
+
+Free, and nonfree
+
+[o]
+
+?
+
+Portage, Entropy
+
+ebuild, .tbz2
+
+Calamares
+
+Yes
+
+?
+
+?
+
+
+Scientific
+
+Free, and nonfree
+
+[p]
+
+?
+
+APT/yum
+
+RPM
+
+
+
+Yes
+
+?
+
+?
+
+
+Slackware
+
+Free, and nonfree
+
+2,292
+
+7,705 from SlackBuilds[249]
+
+slackpkg
+
+tgz, .txz, .tlz, .tbz
+
+bash script[250]
+
+No
+
+Yes
+
+Yes
+
+
+Slax
+
+Free, and nonfree
+
+2,050
+
+?
+
+none
+
+.lzm
+
+
+
+
+
+?
+
+?
+
+
+SliTaz GNU/Linux
+
+Free, and nonfree
+
+3,381[251]
+
+?
+
+Tazpkg
+
+.tazpkg
+
+tazinst
+
+Yes
+
+iPXE
+
+iPXE
+
+
+Solus
+
+Free, and nonfree
+
+9,500
+
+?
+
+eopkg
+
+.eopkg
+
+os-installer
+
+Yes
+
+No
+
+No
+
+
+Source Mage GNU/Linux
+
+Free, and nonfree
+
+118
+
+8,876
+
+Sorcery Package Manager
+
+src
+
+
+
+Yes
+
+?
+
+?
+
+
+SUSE Linux
+
+Free, and nonfree
+
+24,094
+
+11,385
+
+YaST, Zypper
+
+RPM
+
+YaST
+
+Yes
+
+?
+
+?
+
+
+Tiny Core Linux
+
+Free, and nonfree
+
+25,160
+
+?
+
+ab, tce-load
+
+tcz
+
+tc-install, core2usb
+
+Yes
+
+?
+
+?
+
+
+Tiny SliTaz
+
+Free, and nonfree
+
+50
+
+?
+
+Web site[252]
+
+tazpkg
+
+
+
+No
+
+?
+
+iPXE
+
+
+Trisquel
+
+Free only
+
+52,748[253]
+
+?
+
+APT
+
+.deb
+
+Ubiquity
+
+Yes
+
+Yes
+
+?
+
+
+TurnKey GNU/Linux
+
+Free, and nonfree
+
+[q][223] (plus ≈30 custom packages)
+
+21,041[r] (currently TurnKey only supplies source code for custom packages)
+
+APT
+
+.deb
+
+DI-Live (custom fork of Debian Installer)
+
+No
+
+No
+
+No
+
+
+Ubuntu, Kubuntu, Xubuntu
+
+Free, and nonfree
+
+110,066[s][223][254]
+
+24,474[t]
+
+APT
+
+.deb
+
+Ubiquity
+
+Yes
+
+Yes
+
+PXE
+
+
+Ututo
+
+Free only
+
+5,000
+
+?
+
+UTUTO Package Manager
+
+ebuild
+
+?
+
+?
+
+No
+
+No
+
+
+Vector Linux
+
+Free, and nonfree
+
+?
+
+?
+
+slapt-get, gslapt, installpkg
+
+tgz
+
+
+
+Yes
+
+?
+
+?
+
+
+Void Linux
+
+Free, nonfree and multilib
+
+6,000
+
+6,719
+
+xbps
+
+.xbps
+
+ncurses script
+
+Yes
+
+Yes
+
+No
+
+
+XBMC Live
+
+Free, and nonfree
+
+?
+
+?
+
+APT
+
+.deb
+
+
+
+No
+
+?
+
+?
+
+
+Zentyal
+
+Free, and nonfree
+
+[u][223]
+
+?
+
+APT
+
+.deb
+
+dpkg
+
+Yes
+
+?
+
+?
+
+
+Zenwalk
+
+Free, and nonfree
+
+2,000
+
+?
+
+netpkg, installpkg, upgradepkg
+
+tgz, txz
+
+
+
+Yes
+
+?
+
+?
+
+
+Distribution
+
+Free software repositories
+
+Approximate number of pre-compiled packages
+
+Approximate number of source packages
+
+Default package management tools
+
+Package format
+
+Default installer
+
+Graphical installation process
+
+Netinstall
+
+Netboot
+
+Live media[edit]
+
+
+Distribution
+
+Size of media (MB)
+
+RAM use (MB)
+
+Boots from CD
+
+Boots from DVD
+
+Installable live CD/DVD
+
+Installable from USB
+
+
+Alpine Linux
+
+63 (Virtual) 1,019 (Xen)[255]
+
+min 96 GUI 2,048[256]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Arch Linux
+
+742
+
+min 80
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+AUSTRUMI
+
+426
+
+
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+BLAG Linux and GNU
+
+696
+
+?
+
+Yes
+
+No
+
+?
+
+
+
+
+Bodhi Linux
+
+1,024
+
+80
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+CentOS
+
+603 (Minimal) 4,096 (DVD)
+
+
+
+Yes
+
+Yes
+
+Yes (installable since 6.0)
+
+Yes
+
+
+Chakra
+
+2,150
+
+
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+
+Chimera Linux
+
+649 to 1,223
+
+?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Clear Linux OS
+
+4,443
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+Damn Small Linux
+
+50[257]+[258]
+
+24[257] to 64[258]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Debian
+
+1,420[259][260]
+
+Up to 2,048[261]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Devuan
+
+868
+
+
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Dragora GNU/Linux-Libre
+
+655
+
+?
+
+Yes
+
+?
+
+?
+
+?
+
+
+dyne:bolic
+
+1,650
+
+?
+
+up to version 2.x
+
+Yes
+
+?
+
+?
+
+
+Fedora
+
+1,434
+
+256 to 1,024
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Gentoo
+
+260 (Minimal) 2,048 (Live DVD)
+
+up to 128
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+gNewSense[262]
+
+1,200
+
+512
+
+?
+
+?
+
+Yes
+
+?
+
+
+Grml
+
+460
+
+32 to 128
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+
+Guix System[263]
+
+814
+
+233
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+
+Hyperbola GNU/Linux-libre
+
+1,124
+
+?
+
+up to version 0.3.x
+
+Yes
+
+Yes
+
+Yes
+
+
+Knoppix CD
+
+700
+
+128 to 320
+
+Yes
+
+Yes
+
+Only DVD edition is maintained
+
+
+
+
+Knoppix DVD
+
+4,813
+
+128 to 500
+
+No
+
+Yes
+
+
+
+
+
+
+LibreCMC
+
+?
+
+?
+
+No
+
+No
+
+No
+
+No
+
+
+Mandriva Linux One
+
+700
+
+128 to 768
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Manjaro Linux
+
+473 to 2,200[264]
+
+256 to 1,024
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+MEPIS
+
+700 to 4,000
+
+128 to 512
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Musix GNU+Linux
+
+2,000
+
+?
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+
+Nanolinux
+
+18
+
+≈64
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+NixOS
+
+780 (Minimal) 1,700 (Plasma) 2,200 (GNOME)
+
+?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+openGEU
+
+700
+
+192 to 512
+
+Yes
+
+
+
+Yes
+
+
+
+
+openSUSE (Not 42.1)
+
+700
+
+128 to 768
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+OpenWrt
+
+min 4
+
+min 16
+
+No
+
+No
+
+No
+
+No
+
+
+Parabola GNU/Linux-libre
+
+400 to 3,300
+
+?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Pardus
+
+1,256 to 1,276
+
+256 to 1,024
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+PCLinuxOS
+
+130 to 700
+
+96 to 512
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Pentoo
+
+666 and 700
+
+48 to 96
+
+Yes
+
+Yes
+
+By hand[265]
+
+By hand
+
+
+Porteus
+
+224 to 373
+
+min 36
+
+?
+
+?
+
+Yes
+
+Yes
+
+
+Puppy Linux (Slacko)
+
+235
+
+32 to 192
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Puredyne
+
+542
+
+
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Sabayon Linux Live CD
+
+695
+
+
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Sabayon Linux Live DVD
+
+2,400
+
+
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+
+Scientific Linux
+
+431 to 2,300[266]
+
+640
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Slackware
+
+2,600
+
+64 to 1,024[267]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Slax
+
+200
+
+96 to 320
+
+Yes
+
+Yes
+
+
+
+Yes
+
+
+Solus
+
+1,200
+
+1,024
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+
+SystemRescueCD
+
+459
+
+
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+SliTaz GNU/Linux
+
+50
+
+48 to 256
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Tails
+
+≈900
+
+≈1,024
+
+No
+
+Yes
+
+Yes
+
+Yes (when run from DVD)
+
+
+Tiny Core Linux
+
+17 (Core) 248 (Core Plus)[268]
+
+28 to 128[269]
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Tiny SliTaz
+
+1.44
+
+4
+
+Yes
+
+Yes
+
+By SliTaz
+
+By SliTaz
+
+
+Trisquel
+
+1,500[270]
+
+384
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+TurnKey GNU/Linux Core (base) appliance ISO
+
+212
+
+~173
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Ubuntu
+
+1,700[271]
+
+384
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Edubuntu
+
+2,900[272]
+
+
+
+Yes
+
+Yes
+
+Yes
+
+
+
+
+Kubuntu
+
+1,400[273]
+
+384
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Xubuntu
+
+1,200[274]
+
+256
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Ututo
+
+3,500
+
+?
+
+No
+
+Yes
+
+Yes
+
+?
+
+
+XBMC Live
+
+700
+
+256 to 1,024
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+
+Zentyal
+
+600
+
+256
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Distribution
+
+Size of media (MB)
+
+RAM use (MB)
+
+Boots from CD
+
+Boots from DVD
+
+Installable live CD/DVD
+
+Installable from USB
+
+Security features[edit]
+
+
+Distribution
+
+Compile time buffer checks
+
+Mandatory access control
+
+Software executable space protection
+
+grsecurity
+
+RSBAC
+
+
+Alpine Linux
+
+Yes[275]
+
+Un­known
+
+PaX
+
+Discontinued in 3.8.0
+
+Un­known
+
+
+Arch Linux
+
+Un­known
+
+SELinux(Unofficial)[276],AppArmor
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+BLAG
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Android (operating system)
+
+Yes
+
+Yes, since Android Marshmallow
+
+Optional
+
+Optional
+
+Optional
+
+
+Clear Linux OS
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Debian
+
+Yes
+
+SELinux, AppArmor
+
+PaX optional
+
+Optional
+
+Optional
+
+
+Dragora GNU/Linux-Libre
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+dyne:bolic
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Fedora
+
+Yes
+
+SELinux[277]
+
+Exec Shield[278]
+
+No
+
+No
+
+
+Gentoo
+
+Optional
+
+SELinux, AppArmor
+
+PaX optional
+
+Optional
+
+Optional
+
+
+gNewSense
+
+Un­known
+
+SELinux, AppArmor[v]
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Guix System
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+LibreCMC
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Mandriva
+
+Un­known
+
+AppArmor
+
+Un­known
+
+Un­known
+
+Yes
+
+
+MIRACLE LINUX
+
+Un­known
+
+SELinux
+
+Un­known
+
+No
+
+Un­known
+
+
+Musix GNU+Linux
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Parabola GNU/Linux-libre
+
+Un­known
+
+Optional[279]
+
+Un­known
+
+Optional[279]
+
+Un­known
+
+
+Slackware
+
+Un­known
+
+AppArmor, tomoyo
+
+Un­known
+
+Un­known
+
+Optional
+
+
+SUSE Linux
+
+Yes
+
+AppArmor[280]
+
+Hardware NX and other methods in mainline kernel and toolchain[281]
+
+No
+
+No
+
+
+Solus
+
+Yes
+
+AppArmor
+
+Un­known
+
+No
+
+Un­known
+
+
+Trisquel
+
+Un­known
+
+SELinux, AppArmor[w]
+
+Un­known
+
+Un­known
+
+Un­known
+
+
+Ubuntu
+
+Yes[282]
+
+SELinux, AppArmor [282]
+
+PaX optional
+
+Optional
+
+Optional
+
+
+Ututo
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Un­known
+
+Apple Silicon Support[edit]
+This section's factual accuracy may be compromised due to out-of-date information. The reason given is: Fedora Linux Asahi Remix has been well-supported for a while now; some alternatives like Asahi Gentoo are also relatively well-supported. It's quite inaccurate that they all get "Unknown"s. The Asahi project previously used Arch Linux ARM, which seems to get no mention here. I'm not sure why Kali Linux and Ubuntu get special mentions here. (It's also somewhat awkward to have a section dedicated entirely to Apple Silicon.). Please help update this article to reflect recent events or newly available information. (June 2024)
+
+
+
+
+Distribution
+
+Direct Install
+
+Working Virtualisation
+
+Community Version
+
+
+Kali
+
+Un­known
+
+Yes[283]
+
+—
+
+
+Ubuntu
+
+Un­known
+
+Yes[284]
+
+—
+
+
+Fedora
+
+Un­known
+
+Yes[285]
+
+—
+
+See also[edit]
+
+Free and open-source software portalLinux portal
+Comparison of netbook-oriented Linux distributions
+Comparison of operating systems
+DistroWatch
+List of Linux distributions
+Notes[edit]
+
+
+^ Based on Debian
+
+^ Based on Fedora
+
+^ Based on Fedora
+
+^ Based on Debian
+
+^ From the Sources.gz files in the main, contrib and non-free sections of Debian Buster. On the 2020-06-12, Debian Sid, the development release, have 31717 source packages.
+
+^ Based on Debian
+
+^ Note this number is just of packages in the Official Gentoo Overlay (or Portage Tree). Several hundred other packages are available from other overlays
+
+^ Can be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, live cd, netboot, and from distributions).
+
+^ Based on Debian
+
+^ Based on Debian
+
+^ Based on AUR
+
+^ Based on Debian
+
+^ Based on Debian
+
+^ Based on Debian
+
+^ Based on Gentoo
+
+^ Based on Fedora
+
+^ Based on Debian
+
+^ From the Sources.gz files in the main, contrib and non-free sections of Debian Jessie. On the 2015-11-21, Debian Sid, the development release, have 24757 source packages.
+
+^ Based on Debian
+
+^ From the Sources.gz files in the main,universe, multiverse and restricted sections of Ubuntu Wily.
+
+^ Based on Debian
+
+^ Based on Debian
+
+^ Based on Ubuntu
+
+
+References[edit]
+
+
+^ "List of Free GNU/Linux Distributions – GNU Project – Free Software Foundation". Gnu.org. Retrieved 12 November 2016.
+
+^ "General Availability of AlmaLinux 9.5 Stable!". 18 November 2024. Retrieved 18 November 2024.
+
+^ "AlmaLinux Wiki | AlmaLinux Wiki". wiki.almalinux.org.
+
+^ "Alpine 3.18.12, 3.19.7, 3.20.6 and 3.21.3 released". 13 February 2025. Retrieved 14 February 2025.
+
+^ "Обновлена ОС «Альт Рабочая станция» 10.4, учтены пожелания КИИ, крупных медицинских заказчиков и системных администраторов".
+
+^ "antiX-23.2 released". 6 October 2024. Retrieved 6 October 2024.
+
+^ a b c d e f g h i j k l m "List of Free GNU/Linux Distributions - GNU Project - Free Software Foundation".
+
+^ "Introducing Bodhi Linux 7.0: A Landmark Release". 21 August 2023. Retrieved 21 August 2023.
+
+^ "Descargas - Canaima GNU/Linux" (in Spanish). Ministry of Popular Power for Science and Technology (MINCYT). Archived from the original on 15 January 2025.
+
+^  https://blog.centos.org/2024/12/introducing-centos-stream-10/. {{cite web}}: Missing or empty |title= (help)
+
+^ "About - CentOS Wiki". wiki.centos.org. Archived from the original on 30 December 2020. Retrieved 10 December 2019.
+
+^ "Introducing CentOS Stream 9". blog.centos.org.
+
+^ "CentOS Stream". centos.org.
+
+^ "Choose Chakra". Retrieved 1 June 2020.
+
+^ "Stable Channel Update for ChromeOS / ChromeOS Flex". Retrieved 31 March 2025.
+
+^ Tyler Randolph. "ClearOS Server 7.8 Community Edition Released".
+
+^ "[ANN] CRUX 3.8 released". 21 April 2025. Retrieved 21 April 2025.
+
+^  http://www.damnsmalllinux.org/. Retrieved 15 November 2023. {{cite web}}: Missing or empty |title= (help)
+
+^ a b  https://www.debian.org/News/2025/20250315. {{cite web}}: Missing or empty |title= (help)
+
+^ "Explaining Why We Don't Endorse Other Systems". Archived from the original on 2 November 2023.
+
+^ "General Resolution: non-free firmware: results". Archived from the original on 2 November 2023. Retrieved 2 November 2023.
+
+^ "FSF and Debian join forces to help free software users find the hardware they need — Free Software Foundation — working together for free software". www.fsf.org. Retrieved 13 November 2017.
+
+^ Murdock, Ian A. (16 August 1993). "NNTP Subject: New release under development; suggestions requested". Retrieved 17 August 2007.
+
+^ "Devuan Daedalus 5.0 stable release". Retrieved 15 August 2023.
+
+^  https://www.deepin.org/en/deepin-23-1-release/. Retrieved 16 April 2025. {{cite web}}: Missing or empty |title= (help)
+
+^ Matías Fonzo (26 April 2023). "Dragora 3.0-beta2 released". Retrieved 27 April 2023.
+
+^ "Dynebolic :: Free & Live creative multimedia". Archived from the original on 1 May 2016. Retrieved 1 May 2016.
+
+^ Danielle Foré Founder (18 March 2025). "elementary OS 8.0.1 Available Now". Retrieved 19 March 2025.
+
+^ "ElinOS 7.1 Industrial Grade Product" (PDF).
+
+^ "Emdebian -- News -- Emdebian Wheezy-Grip updated to 3.1".
+
+^ 
+Error: Unable to display the reference from Wikidata properly. Technical details:
+Reason for the failure of {{Cite web}}: The Wikidata reference contains the property house publication (P2813), which is not assigned to any parameter of this template.
+Reason for the failure of {{Cite Q}}: The Wikidata reference contains the property house publication (P2813), which is not assigned to any parameter of this template.
+See the documentation for further details.
+
+
+^ "Licensing:Main - FedoraProject". Fedora Project. 11 August 2017. Retrieved 11 August 2017.
+
+^ Roberto J. Dohnert (7 December 2023). "Freespire 10 Released". Retrieved 8 December 2023.
+
+^ Ludovic Courtès (19 December 2022). "GNU Guix 1.4.0 released (English)". Retrieved 30 December 2022.
+
+^ "Index of cdimage.gnewsense.org". Retrieved 26 August 2019.
+
+^ "Grml - new stable release 2024.02 available". 28 February 2024. Retrieved 6 March 2024.
+
+^ "Milky Way v0.4.4 install medium release". 5 January 2024. Retrieved 8 January 2024.
+
+^ "Releases". HyperWiki. Hyperbola Project. Retrieved 29 March 2022.
+
+^ Larabel, Michael. "FSF-Approved Hyperbola GNU/Linux Switching Out The Linux Kernel For Hard Fork Of OpenBSD". phoronix. Retrieved 22 January 2021.
+
+^ "Kali Linux 2025.1a Release (2025 Theme, & Raspberry Pi)". 19 March 2025. Retrieved 19 March 2025.
+
+^ "Knoppix 9.3 - Linux-Magazin 2022/06 (DELUG Ausgabe)". Retrieved 6 May 2022.
+
+^ "Korora 26 is Here!".
+
+^ "v1_5_14 - Gogs".
+
+^ "Linspire 12 Service Pack 1 Release".
+
+^ "青汁選びのパートナー｜カルシウム不足にコレ！～ユーグレナ青汁～". Shop.linspire.com. Retrieved 12 November 2016.
+
+^ "Linux Mint 22.1 "Xia" released!". 16 January 2025. Retrieved 16 January 2025.
+
+^ "Linux Lite 7.4 Final Released". 31 March 2025. Retrieved 31 March 2025.
+
+^ marja (4 September 2023). "Mageia 9 has been released". Retrieved 5 September 2023.
+
+^ "Mandriva 2011 "Hydrogen" is out!". 28 August 2011. Archived from the original on 23 June 2013. Retrieved 23 June 2013.
+
+^ Singer, Roland (ying) (10 July 2011). "Manjaro Linux Distribution". Community Contributions, Arch Linux Forums. Retrieved 12 December 2015. Hi all, I am working now since a longer time on my arch linux livecd. It is called manjaro linux and uses the Desktop Environment Xfce. I uploaded a first testing livecd which is very experimental and many features are still missing. I would be thankful for any bugs reported,.... or if somebody wants to help and join the project he is always welcome.
+
+^ "MX & MEPIS Community Forum - View topic - M12 11.9.92". Archived from the original on 6 March 2016.
+
+^ ""MIRACLE LINUX 9 リリースノート — MIRACLE LINUX サポート&テクノロジー | サイバートラスト株式会社"".
+
+^ "Musix GNU+Linux 3.0.1 Stable released! – Musix GNU+Linux".
+
+^ Uri Herrera (10 February 2025). "Netrunner 25 "Shockworm" — Released!". Retrieved 10 February 2025.
+
+^ "Shop Online: SUSE Linux Enterprise Server". SUSE.com. Retrieved 26 February 2020.
+
+^ "Leap 15.6 Unveils Choices for Users". 12 June 2024. Retrieved 12 June 2024.
+
+^ "Lifetime". Lifetime. Retrieved 28 November 2015.
+
+^ "Welcome to the OpenWrt Project". OpenWrt. 9 June 2023. Retrieved 5 July 2023.
+
+^ bero (20 April 2025).  https://abf.openmandriva.org/platforms/6.0/products/218/product_build_lists/3876. Retrieved 22 April 2025. {{cite web}}: Missing or empty |title= (help)
+
+^ "Announcing Oracle Linux 9 Update 5 General Availability". 20 November 2024. Retrieved 20 November 2024.
+
+^ "Get Parabola". parabola.nu.
+
+^ "Get Parabola". Parabola project.
+
+^  https://www.pardus.org.tr/duyurular/pardus-23-2-surumu-yayimlandi. {{cite web}}: Missing or empty |title= (help)
+
+^ "Parrot 6.3 Release Notes". 31 January 2025. Retrieved 3 February 2025.
+
+^ "Parsix GNU/Linux 8.15r0 Release Notes".
+
+^ "News - Get latest news about Parted Magic". 4 January 2025. Retrieved 22 February 2025.
+
+^ "Parted Magic LLC - Store". partedmagic.com. Retrieved 24 January 2020.
+
+^ "Pop!_OS 22.04 LTS has landed!". 25 April 2022.
+
+^ ncmprhnsbl. "Porteus-v5.01 is released!".
+
+^ "Announcement and release notes for Fossapup64 9.5". 17 September 2020. Retrieved 15 July 2023.
+
+^ "Download Byzantium Version: PureOS 10.3 Media Size: 2 GB". 14 June 2023. Retrieved 24 July 2023.
+
+^ "Qubes OS 4.2.4 has been released!". 18 February 2025. Retrieved 19 February 2025.
+
+^ "Red Hat Expands Linux Automation with Latest Version of Red Hat Enterprise Linux". 13 November 2024. Retrieved 14 November 2024.
+
+^ "Red Hat Enterprise Linux Life Cycle". access.redhat.com. Retrieved 22 May 2023.
+
+^ "Enterprise Linux". Red Hat. Retrieved 12 November 2016.
+
+^ "Enterprise Linux Desktop Operating Systems". Red Hat. Retrieved 12 November 2016.
+
+^  https://fedoraproject.org/wiki/History_of_Red_Hat_Linux?rd=History#Abstract. Retrieved 16 March 2025. {{cite web}}: Missing or empty |title= (help)
+
+^ "Rocks 7.0 is Released". 1 December 2017. Retrieved 17 November 2022.
+
+^ "Rocky Linux 9.5 Available Now". 19 November 2024. Retrieved 19 November 2024.
+
+^ "Доступен дистрибутив ROSA Fresh 13". OpenNet (in Russian). OpenNet. 2 March 2025.
+
+^ crew, Sabayonlinux (31 March 2019). "Sabayon 19.03 – New stable release". www.sabayon.org. Archived from the original on 28 July 2020. Retrieved 8 July 2019.
+
+^ "Scientific Linux 7.9 x86_64 is now available". 20 October 2020. Retrieved 15 July 2023.
+
+^ "Slackware 15.0 release notes". 2 February 2022.
+
+^ Tomas M (10 October 2023). "Slax's Recent Release: A Tale of Challenges". Retrieved 10 October 2023.
+
+^ "Index of /Iso/Rolling/".
+
+^ "SolydXK 10 Buster released — English". solydxk.com. Archived from the original on 28 September 2019. Retrieved 30 September 2019.
+
+^  https://sparkylinux.org/sparky-7-5/. {{cite web}}: Missing or empty |title= (help)
+
+^ "Stable-0.62-11 released".
+
+^ "Steam OS 3.6.21 Stable Update".
+
+^ "SUSE Linux Enterprise 15 is Generally Available". Retrieved 26 July 2018.
+
+^ "Latest SUSE Linux Enterprise goes all in with confidential computing". 20 June 2023.
+
+^ "Product Support Lifecycle | SUSE". www.suse.com.
+
+^ "How To Buy - SUSE Linux Enterprise Server". SUSE. Retrieved 12 November 2016.
+
+^ "New Release: Tails 6.14.2 | Tor Project". Retrieved 15 April 2025.
+
+^ "Tiny Core v16.0". 31 March 2025.
+
+^ Rubén Rodríguez Pérez (22 March 2023). "Trisquel 11.0 "Aramo" release announcement". Retrieved 22 March 2023.
+
+^ "Core & TKLDev v18.0 Stable Release".
+
+^ "DerivativeTeam/Derivatives - Ubuntu Wiki". wiki.ubuntu.com.
+
+^ Utkarsh Gupta (17 April 2025). "Ubuntu 25.04 (Plucky Puffin) released".
+
+^  https://docs.software-univention.de/release-notes/5.0-8/en/. {{cite web}}: Missing or empty |title= (help)
+
+^ "Prices and subscriptions". Univention.
+
+^ "Vectorlinux 7.2 final has been released".
+
+^ "Webconverger 35 release".
+
+^ "Zentyal 8.0 Announcement". 26 February 2024. Retrieved 27 February 2024.
+
+^ "New Zenwalk Current ISO 2022 07 November is ready". Retrieved 29 December 2022.
+
+^ "Zorin OS 17.3 is Here". 26 March 2025. Retrieved 26 March 2025.
+
+^ "Reproducible alpine ?!". tests.reproducible-builds.org.
+
+^ a b c d e f g h i "gnu.org". www.gnu.org.
+
+^ "File Systems". Retrieved 3 June 2022.
+
+^ "Profiles in Archinstall". gitlab.archlinux.org.
+
+^ "Reproducible status". Retrieved 4 June 2023.
+
+^ a b "/gnewsense/packages-parkes/linux-2.6 : contents of debian/README.gNewSense at revision 16". bzr.savannah.gnu.org.
+
+^ "Index of /debian-cd/current/amd64/iso-cd". Retrieved 7 March 2015.
+
+^ "ReproducibleBuilds - Debian Wiki". wiki.debian.org.
+
+^ "Toward a fully reproducible Debian [LWN.net]". lwn.net.
+
+^ "Fedora 33 is officially here!". Fedora Magazine. 27 October 2020. Retrieved 18 November 2020.
+
+^ "Reproducible Builds for Fedora". Red Hat Customer Portal.
+
+^ "Going 100% Libre with Gentoo". wiki.gentoo.org.
+
+^ "Gentoo Linux Hybrid ISO". Gentoo Linux. Retrieved 4 June 2022.
+
+^ "A "Hello World" virtual machine running the Hurd". guix.gnu.org.
+
+^ "Childhurds and GNU/Hurd substitutes". guix.gnu.org.
+
+^ "Quick reproducible test for GNU Guix". lists.gnu.org.
+
+^ "Reproducible builds: a status update — 2017 — Blog". guix.gnu.org.
+
+^ "End of systemd support". Hyperbola Project. 5 August 2017. Retrieved 7 December 2018.
+
+^ "LibreCMC package sources". Retrieved 17 May 2020.
+
+^ "Linux Mint". DistroWatch.com. Retrieved 12 November 2016.
+
+^ "Installation Guides - Manjaro Linux". Wiki.manjaro.org. 26 November 2015. Retrieved 12 November 2016.
+
+^ "Get Manjaro". Manjaro Linux. Archived from the original on 9 September 2019. Retrieved 3 February 2018.
+
+^ "Musix Packages". Archived from the original on 26 December 2015. Retrieved 28 November 2015.
+
+^ "NixOS Search".
+
+^ "NixOS Search".
+
+^ "NixOS Reproducible Builds". reproducible.nixos.org.
+
+^ "openSUSE:Reproducible Builds - openSUSE Wiki". en.opensuse.org.
+
+^ "Filesystems [OpenWrt Wiki]". openwrt.org. 7 June 2018. Retrieved 11 June 2018.
+
+^ "What is procd? [OpenWrt Wiki]". openwrt.org. 4 March 2018. Retrieved 11 June 2018.
+
+^ "Reproducible OpenWrt ?". tests.reproducible-builds.org.
+
+^ "Compatibility". PureOS Docs. Purism. Retrieved 14 March 2025.
+
+^ "Sabayon Forums • View topic - Sabayon Linux 4.1 KDE: Stable release". forum.sabayonlinux.org. Archived from the original on 1 September 2009. Retrieved 30 April 2009.
+
+^ Prior to v7.0, Scientific Linux used sysvinit. Since v7.0, it uses systemd. "Scientific Linux 7.0 Release Notes". ScientificLinux.org. 14 October 2014. Retrieved 27 December 2016.
+
+^ "Open Source Summit Europe 2023: How SteamOS is Contributing to the Linux..." osseu2023.sched.com. Retrieved 8 September 2024.
+
+^ "Buy devices with Plasma and KDE Applications". KDE Community. Retrieved 8 September 2024.
+
+^ "Release Notes • Comparison of Supported File Systems". www.suse.com.
+
+^ "Tails - Have your cake and eat it, too!". tails.boum.org.
+
+^ "Tails - Verifying a Tails image for reproducibility". tails.boum.org.
+
+^ a b c "MaverickMeerkat/ReleaseNotes - Ubuntu Wiki". Wiki.ubuntu.com. 20 January 2011. Retrieved 12 November 2016.
+
+^ "scripts.tgz". Retrieved 17 May 2020.
+
+^ [1] [permanent dead link]
+
+^ "Parisc-Linux". Parisc-Linux. Retrieved 12 November 2016.
+
+^ "LinuxMIPS". LinuxMIPS. Retrieved 12 November 2016.
+
+^ "The AlphaLinux Homepage". AlphaLinux.org. Archived from the original on 17 January 1999. Retrieved 12 November 2016.
+
+^ Lawrence, Chris (2 April 2000). "The Linux/m68k Home Pages". Linux-m68k.org. Retrieved 12 November 2016.
+
+^ "Arch Linux 32". Arch Linux 32. Retrieved 20 April 2018.
+
+^ "The end of i686 support". Arch Linux. Retrieved 14 January 2018.
+
+^ "Arch Linux ARM". Arch Linux ARM. Retrieved 12 November 2016.
+
+^ "ArchPOWER". Retrieved 31 May 2022.
+
+^ "Loong Arch Linux". Retrieved 14 March 2025.
+
+^ "Arch Linux RISC-V". Retrieved 24 February 2022.
+
+^ "BackTrackDownloads". Backtrack-linux.org. Archived from the original on 13 September 2014. Retrieved 17 May 2020.
+
+^ "Dropping Official Support for ARM Devices". Forums,bodhilinux.com. Retrieved 13 May 2014.
+
+^ a b c d e Pasi Pirhonen (13 October 2005). "CentOS-4.2 is Released for i386, x86_64, ia64, s390, s390x and alpha architectures". CentOS-announce (Mailing list).
+
+^ Pasi Pirhonen (24 May 2006). "EOL notice for CentOS-4/sparc beta release". CentOS-announce (Mailing list).
+
+^ a b Pasi Pirhonen (24 June 2005). "CentOS-4.1 s390(x) Release Announcement". CentOS-announce (Mailing list).
+
+^ Pasi Pirhonen (26 June 2005). "CentOS-4/alpha 4.1beta is there to play". CentOS-announce (Mailing list).
+
+^ Pasi Pirhonen (25 June 2006). "EOL notification for CentOS-4/axp (alpha)". CentOS-announce (Mailing list).
+
+^ "Ports". Debian. Retrieved 12 November 2016.
+
+^ Cyril Brulebois (19 March 2014). "Debian Installer Jessie Alpha 1 release". debian-devel-announce (Mailing list).
+
+^ Jurij Smakov (18 July 2007). "Retiring the sparc32 port". debian-devel-announce (Mailing list).
+
+^ Philipp Kern (26 April 2014). "SPARC removed from Jessie". debian-devel-announce (Mailing list).
+
+^ "Requesting for the loong64 port could be included in the Official ports". Retrieved 14 March 2025.
+
+^ "riscv64 is now an official architecture". Retrieved 14 March 2025.
+
+^ "Architectures". FedoraProject. 31 July 2016. Retrieved 12 November 2016.
+
+^ "Architectures/ARM". Retrieved 20 July 2010.
+
+^ "Architectures/IA64". Retrieved 24 March 2012.
+
+^ "Architectures/SPARC". Retrieved 19 May 2012.
+
+^ "Architectures/MIPS". Retrieved 27 January 2011.
+
+^ "Architectures/RISC-V - Fedora Project Wiki". Retrieved 14 July 2018.
+
+^ "Downloads – Gentoo Linux". Gentoo.org. Retrieved 12 November 2016.
+
+^ "Project:ARM - Gentoo Wiki". Gentoo.org. 21 May 2016. Retrieved 12 November 2016.
+
+^ "Project:LoongArch". Gentoo Wiki. Retrieved 14 March 2025.
+
+^ "MIPS/FAQ - Gentoo Wiki". Gentoo.org. 5 November 2015. Retrieved 12 November 2016.
+
+^ "Gentoo/MIPS Linux Hardware Requirements".
+
+^ "Project:RISC-V - Gentoo Wiki". wiki.gentoo.org.
+
+^ "Download". gnu.org. Retrieved 17 April 2020.
+
+^ "Re: Long term plan for GuixSD security: microkernels, ocap, RISC-V support". Retrieved 17 April 2020.
+
+^ "POWER (ppc64le) porting". Retrieved 11 January 2019.
+
+^ "RISC-V (riscv64) porting + multilib support". Retrieved 17 April 2020.
+
+^ "manjaro32.org". manjaro32. Retrieved 3 February 2018.
+
+^ "Home". Manjaro. 1 June 2020. Retrieved 1 June 2020.
+
+^ "OpenWrt". OpenWrt. 16 December 2015. Retrieved 12 November 2016.
+
+^ "Oracle Linux" (PDF). Oracle.com. Retrieved 1 June 2020.
+
+^ "Linux Operating System | Technologies". Oracle. Retrieved 12 November 2016.
+
+^ Delgado, André Fabian Silva (3 October 2015). "Parabola GNU/Linux-libre supports ARMv7". Retrieved 30 January 2016.
+
+^ "ARM Installation Guide". Retrieved 30 January 2016.
+
+^ Andreas Grapentin. "Re: [GNU-linux-libre] ppc64el support in endorsed distros".
+
+^ "MIPS Installation - ParabolaWiki". wiki.parabola.nu.
+
+^ "Index of /parabola-ports/". mirror.grapentin.org.
+
+^ a b "今日红旗-新闻中心-北京中科红旗软件技术有限公司". Redflag-linux.com. Archived from the original on 5 March 2016. Retrieved 12 November 2016.
+
+^ a b "Red Flag Asianux Server 4-应用服务器-产品-北京中科红旗软件技术有限公司". Redflag-linux.com. Archived from the original on 30 October 2016. Retrieved 12 November 2016.
+
+^ "Index of /pub/redhat/linux". Archive.download.redhat.com. Archived from the original on 28 October 2016. Retrieved 12 November 2016.
+
+^ a b c d "Exploring the Evidence: Did Lou Ferrigno Really Use Steroids?". www.linuxroughcuts.org.
+
+^ "We make open source technologies for the enterprise". Redhat.com. 13 October 2016. Retrieved 12 November 2016.
+
+^ "7.0 Release Notes". Archived from the original on 2 March 2014. Retrieved 23 February 2014.
+
+^ "Red Hat introduces Arm server support for Red Hat Enterprise Linux". Retrieved 21 August 2020.
+
+^ "redhat.com | Enterprise Linux 2.1". 9 December 2003. Archived from the original on 9 December 2003. Retrieved 12 November 2016.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
+
+^ RHEL 4 is the last version to support 31-bit s390. RHEL 5 only supports 64-bit s390x.
+
+^ "The Slackware Linux Project: Slackware Ports". Slackware.com. Retrieved 12 November 2016.
+
+^ a b "Index of /pub/slack390". Ftp.slackware.pl. Retrieved 12 November 2016.
+
+^ "The Slackware Linux Project: Slackware Ports". Slackware.com. 19 July 2002. Retrieved 12 November 2016.
+
+^ "SUSE Linux Enterprise Server | SUSE". Novell.com. Retrieved 12 November 2016.
+
+^ "SUSE Linux Enterprise Server 12 SP3 Release Notes". SUSE. 7 September 2017. Retrieved 12 September 2017.
+
+^ "Ubuntu 16.04 LTS for IBM LinuxONE and IBM z Systems is now available". Ubuntu. 22 April 2016. Retrieved 9 July 2019.
+
+^ a b "Void Linux for PowerPC/Power ISA (unofficial)". voidlinux-ppc.org. Archived from the original on 30 October 2020. Retrieved 28 July 2021.
+
+^ apk list command, Alpine Linux v3.13
+
+^ "aports - Main aports tree". Git.alpinelinux.org. Retrieved 12 November 2016.
+
+^ "Netboot Alpine Linux using iPXE - Alpine Linux".
+
+^ "Sisyphus - intro". Sisyphus.ru. Archived from the original on 4 February 2021. Retrieved 12 November 2016.
+
+^ "Arch Linux - Package Search". Archlinux.org. Retrieved 6 November 2022.
+
+^ a b "AUR (en) - Home". Aur.archlinux.org. Retrieved 4 March 2025.
+
+^ "Now using Zstandard instead of xz for package compression". Archlinux.org. Retrieved 14 March 2020.
+
+^ Schmitz, Pierre (22 July 2012). "Install media 2012.07.15 released". Arch Linux. Archived from the original on 23 July 2012. Retrieved 6 April 2021.
+
+^ Razzolini, Giancarlo (1 April 2021). "Installation medium with installer". Arch Linux. Archived from the original on 1 April 2021. Retrieved 6 April 2021.
+
+^ "BLAG • View topic - rolling or frozen". Forums.blagblagblag.org. Archived from the original on 28 March 2016. Retrieved 12 November 2016.
+
+^ a b c d e f g h i j k l "All Debian packages in "sid"" (TXT). Packages.debian.org. Retrieved 14 March 2023.
+
+^ yum list all command, CentOS Linux 8
+
+^ "The Chakra Project - Packages". Archived from the original on 15 March 2013. Retrieved 17 March 2013.
+
+^ "Chakra | CCR (en) -Home". ccr.chakralinux.org. Archived from the original on 28 July 2020. Retrieved 17 May 2020.
+
+^ "Fedora Packages". packages.fedoraproject.org. Retrieved 22 May 2023.
+
+^ "Home - src.fedoraproject.org". src.fedoraproject.org. Retrieved 5 March 2025.
+
+^ eix -- -bin$ command, Gentoo Linux (8 April 2025)
+
+^ "Search Results for -bin". packages.gentoo.org. Gentoo Foundation, Inc. 8 April 2025. Retrieved 8 April 2025.
+
+^ "Gentoo Packages". packages.gentoo.org. Gentoo Foundation, Inc. 8 April 2025. Retrieved 8 April 2025.
+
+^ "Packages". 22 December 2022. Retrieved 22 December 2022.
+
+^ "Invoking guix system". 15 April 2020. Retrieved 17 April 2020.
+
+^ "GNU Guix 1.1.0 released". 15 April 2020. Retrieved 17 April 2020.
+
+^ "Invoking guix deploy". 15 April 2020. Retrieved 17 April 2020.
+
+^ "Hyperbola GNU/Linux-libre packages". Retrieved 18 April 2023.
+
+^ "Linux Free Software Catalog and Packages Search". Linux Free Software Catalog and Packages Search. Retrieved 23 December 2011.
+
+^ "Build system status". Pkgsubmit.mageia.org. Retrieved 12 November 2016.
+
+^ "Calamares – The universal installer framework". Retrieved 3 February 2018.
+
+^ "Graphical Software Managers - Manjaro Linux". Wiki.manjaro.org. 18 July 2016. Retrieved 12 November 2016.
+
+^ "Hydra - Evaluation 1806590 of jobset nixpkgs:trunk".
+
+^ "Nixpkgs unstable repository information - Repology". Retrieved 5 March 2025.
+
+^ "Netboot - NixOS Wiki".
+
+^ "Nix - NixOS 22.05 manual".
+
+^ "OpenELEC.tv/packages at master · OpenELEC/OpenELEC.tv · GitHub". Github.com. Retrieved 12 November 2016.
+
+^ "openSUSE Software". software.opensuse.org. Retrieved 13 May 2023.
+
+^ "Parabola GNU/Linux-libre - Package Search". Retrieved 14 July 2018.
+
+^ "EPEL". FedoraProject. 26 May 2016. Retrieved 12 November 2016.
+
+^ "SlackBuilds.org". slackbuilds.org.
+
+^ found this in /usr/lib/setup/setup
+
+^ "3383 packages and 430719 files in stable database (Sat 22 October 2016 04:04:55 PM UTC)". Pkgs.slitaz.org. Archived from the original on 10 January 2016. Retrieved 12 November 2016.
+
+^ "Builder". Tiny SliTaz. 22 July 2016. Retrieved 12 November 2016.
+
+^ "All Trisquel Packages in "belenos"". Trisquel. Archived from the original on 10 January 2016. Retrieved 11 September 2015.
+
+^ "All Ubuntu packages in "kinetic"" (TXT). Packages.ubuntu.com. Retrieved 14 March 2023.
+
+^ "Index of /alpine/latest-stable/releases/x86_64/". 5 December 2024. Retrieved 30 December 2024.
+
+^ "Requirements - Alpine Linux". 20 December 2024. Retrieved 30 December 2024.
+
+^ a b "Frequently Asked Questions - DSL Wiki". 3 July 2010. Retrieved 18 July 2024.
+
+^ a b "Damn Small Linux Not is Not Damn Small Linux!". Retrieved 18 July 2024.
+
+^ "Live install images".
+
+^ "Index of /debian-cd/current-live/amd64/iso-hybrid". cdimage.debian.org. Retrieved 27 August 2024.
+
+^ "DVD/USB Live install images". Debian. Retrieved 12 August 2024.
+
+^ "Download gNewSense 4". Archived from the original on 6 December 2017. Retrieved 4 December 2017.
+
+^ "GNU Guix Reference Manual, 6.1.3: USB Stick and DVD Installation". Retrieved 19 October 2018.
+
+^ "Get Manjaro". Archived from the original on 9 September 2019. Retrieved 3 February 2018.
+
+^ "Pentoo Development Website". Archived from the original on 8 January 2010.
+
+^ "Scientific Linux i386 Live CD/DVD". Archived from the original on 20 September 2012. Retrieved 26 September 2012.
+
+^ "System Requirements". slackware. Retrieved 1 August 2019.
+
+^ Robert Shingledecker (2012). "Downloads - Tiny Core Linux". Retrieved 13 September 2012.
+
+^ Robert Shingledecker. "Frequently Asked Questions: What are the minimum requirements?". Retrieved 13 September 2012.
+
+^ "Download Trisquel GNU/Linux". trisquel.info. Retrieved 5 November 2014.
+
+^ "Ubuntu 18.04 (Bionic Beaver)". ubuntu.com. Retrieved 13 May 2018.
+
+^ "Edubuntu 14.04.3 LTS (Trusty Tahr)". ubuntu.com. Archived from the original on 17 August 2015. Retrieved 9 August 2015.
+
+^ "Kubuntu 16.04 (Xenial Xerus)". ubuntu.com. Retrieved 8 May 2016.
+
+^ "Xubuntu 16.04 (Xenial Xerus)". Ubuntu.com. Retrieved 8 May 2016.
+
+^ "Package details". Retrieved 17 July 2020.
+
+^ "SELinux - Archwiki". Retrieved 28 August 2024.
+
+^ "Mandatory Access Control with SELinux". linux-magazine.com. Retrieved 17 May 2020.
+
+^ "Fedora Core 0.94 Release Notes". distrowatch.com. Retrieved 17 May 2020.
+
+^ a b "Xtreme - ParabolaWiki". wiki.parabola.nu.
+
+^ "AppArmor (2.3.1) Quick Start". Suse.com. 10 July 2010. Retrieved 17 July 2020.
+
+^ "Security Features". Retrieved 23 November 2009.
+
+^ a b "Ubuntu Security/Features". Retrieved 16 May 2021.
+
+^ "Get Kali".
+
+^ "Ubuntu for ARM | Download".
+
+^ "Fedora Workstation". 29 October 2024.
+
+
+External links[edit]
+Linux free distros (Free Software Foundation)
+Repository tracking
+The LWN.net Linux Distribution List – Categorized list with information about each entry.
+Distrowatch – Announcements, information, links and popularity ranking for many Linux distributions.
+Linux Distros – Information and ISO files for many oldest Linux distributions.
+vteLinux distributionsAndroidLineageOS
+/e/
+CalyxOS
+CrDroid
+iodéOS
+Replicant
+
+Android-x86
+Celadon
+ColorOS
+EMUI
+Fire OS
+GrapheneOS
+HiOS
+One UI
+Paranoid Android
+Resurrection Remix OS
+OmniROM
+XOS
+Xiaomi HyperOSArch
+ArchBang
+Artix
+BlackArch
+EndeavourOS
+Frugalware
+Garuda
+Hyperbola GNU
+LinHES
+Manjaro
+Parabola GNU
+SteamOS (3.0 onwards)
+SystemRescue
+DebianUbuntu
+Official: Edubuntu
+Kubuntu
+Lubuntu
+Ubuntu Budgie
+Ubuntu Cinnamon
+Ubuntu Kylin
+Ubuntu MATE
+Ubuntu Studio
+Ubuntu Unity
+Xubuntu
+Derivatives: BackBox
+Bodhi Linux
+elementary OS
+Emmabuntüs
+KDE neon
+Freespire
+Linux Lite
+Linux Mint
+LXLE Linux
+Nova OS
+Peppermint OS
+Pop! OS
+Trisquel
+Ubuntu Touch
+Uruk
+Wubuntu
+Zorin OS
+
+antiX
+Astra
+Bharat Operating System Solutions
+BlankOn Linux
+Commodore OS
+Damn Small Linux
+deepin
+Devuan
+Elive
+Endless OS
+FreedomBox
+Kaisen
+Kali
+Kanotix
+Knoppix
+MX Linux
+Parrot OS
+PureOS
+Raspberry Pi OS
+Q4OS
+Slax
+SparkyLinux
+SolydXK
+Tails
+Tizen
+TrueNAS
+UOS
+WhonixFedoraCentOSStream
+AlmaLinux
+EulerOS
+Miracle Linux
+Oracle Linux
+Red Hat Enterprise Linux
+Rocky Linux
+
+Asahi Linux
+Bazzite Linux
+Network Security Toolkit
+Nobara
+Qubes OS
+Red Star OS
+Sailfish OSGentoo
+Calculate Linux
+ChromiumOS (ChromeOS)
+Pentoo
+Mandrake
+ALT Linux
+PCLinuxOS
+Mandriva
+Mageia
+OpenMandriva Lx
+ROSA Linux
+Slackware
+Austrumi Linux
+Porteus
+Salix OS
+Slax
+Zenwalk
+SUSE
+openSUSE
+SUSE Linux Enterprise
+Open Enterprise Server
+GeckoLinux
+Other
+4MLinux
+Alpine
+CHAOS
+Chimera Linux
+Clear Linux OS
+CRUX
+Kwort
+GoboLinux
+Guix SD
+KaiOS
+KaOS
+NixOS
+Puppy
+Source Mage
+Solus
+T2 SDE
+Tiny Core Linux
+Void
+DiscontinuedAndroid
+CyanogenMod
+Cherry OS
+DivestOS
+MIUI
+PixelExperience
+Remix OS
+Arch
+ArchLabs
+Antergos
+Chakra
+Debian
+Ubuntu: Asturix
+Black Lab Linux
+Cub Linux
+Gobuntu
+gOS
+Linux Caixa Mágica
+LinuxTLE
+Pinguy OS
+Sabily
+Ubuntu GNOME
+Other derivatives: BackTrack
+Corel Linux
+CrunchBang Linux
+DoudouLinux
+Dreamlinux
+Feather Linux
+gNewSense
+HandyLinux
+Libranet
+Musix GNU+Linux
+Parsix
+SteamOS (1.0–2.0)
+Sunwah Linux
+Gentoo
+Container Linux
+Sabayon Linux
+xB Machine
+Red Hat,Fedora
+BLAG Linux and GNU
+CentOS
+ClearOS
+Linpus Linux
+Korora
+Linux for PlayStation 2
+Scientific Linux
+Red Hat Linux
+Rocks Cluster Distribution
+Think Blue Linux
+Turbolinux
+Vine Linux
+Yellow Dog Linux
+Slackware
+Absolute Linux
+BioSLAX
+Damn Vulnerable Linux
+KateOS
+Kongoni
+NimbleX
+Platypux
+TopologiLinux
+VectorLinux
+SUSE
+SUSE Studio Express
+
+Caldera OpenLinux
+DemoLinux
+Familiar Linux
+Firefox OS
+B2G OS
+Floppyfw
+Foresight Linux
+Immunix
+Jurix
+Linux Router Project
+MCC Interim Linux
+MeeGo
+Mer
+Mobilinux
+Nitix
+OpenELEC
+Softlanding Linux System
+Splashtop OS
+Turkix
+ List
+ Comparison
+ Linux portal
+ Category
+
+vteLinuxLinux kernel
+History
+Linus's law
+Linux-libre
+Booting process
+Kernel oops
+Tux
+more…
+Controversies
+Criticism of Linux
+Criticism of desktop Linux
+GNU/Linux naming controversy
+Tanenbaum–Torvalds debate
+SCO and Linux
+Distributions
+General comparison
+Distributions list
+Netbook-specific comparison
+Distributions that run from RAM
+Lightweight
+Security-focused operating system
+Package manager
+Package format
+List of software package managers
+Organizations
+LinuxChix
+Linux Counter
+Linux Documentation Project
+Linux Foundation
+Linux Mark Institute
+Linux User Group (LUG)
+Adoption
+Adopters
+Desktop
+Embedded
+Gaming
+Mobile
+Range of use
+Linux malware
+Media
+DistroWatch
+Free Software Magazine
+Full Circle
+Hacker Public Radio
+Linux.com
+Linux Format
+Linux Gazette
+Linux Journal
+Linux Magazine
+LinuxUser
+Ubuntu User
+Linux Outlaws
+Linux Voice
+LugRadio
+LWN.net
+Phoronix
+Revolution OS
+The Code
+Professional related certifications
+CompTIA Linux+
+Linux Foundation
+Red Hat
+Ubuntu
+
+ Linux portal
+ Free and open-source software portal
+ Category
+
+vteFree and open-source softwareGeneral
+Alternative terms for free software
+Comparison of open-source and closed-source software
+Comparison of source-code-hosting facilities
+Free software
+Free software project directories
+Gratis versus libre
+Long-term support
+Open-source software
+Open-source software development
+Outline
+Timeline
+Softwarepackages
+Audio
+Bioinformatics
+Codecs
+Configuration management
+Drivers
+Graphics
+Wireless
+Health
+Mathematics
+Office suites
+Operating systems
+Routing
+Television
+Video games
+Web applications
+E-commerce
+Android apps
+iOS apps
+Commercial
+Formerly proprietary
+Formerly open-source
+Community
+Free software movement
+History
+Open-source-software movement
+Events
+Advocacy
+Organisations
+Free Software Movement of India
+Free Software Foundation
+Licenses
+AFL
+Apache
+APSL
+Artistic
+Beerware
+BSD
+Creative Commons
+CDDL
+EPL
+Free Software Foundation
+GNU GPL
+GNU AGPL
+GNU LGPL
+ISC
+MIT
+MPL
+Python
+Python Software Foundation License
+Shared Source Initiative
+Sleepycat
+Unlicense
+WTFPL
+zlib
+Types and standards
+Comparison of licenses
+Contributor License Agreement
+Copyleft
+Debian Free Software Guidelines
+Definition of Free Cultural Works
+Free license
+The Free Software Definition
+The Open Source Definition
+Open-source license
+Permissive software license
+Public domain
+
+Challenges
+Digital rights management
+License proliferation
+Mozilla software rebranding
+Proprietary device drivers
+Proprietary firmware
+Proprietary software
+SCO/Linux controversies
+Software patents
+Software security
+Tivoization
+Trusted Computing
+Related topics
+Forking
+GNU Manifesto
+Microsoft Open Specification Promise
+Open-core model
+Open-source hardware
+Shared Source Initiative
+Source-available software
+The Cathedral and the Bazaar
+Revolution OS
+
+ Portal
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Comparison_of_Linux_distributions&oldid=1286854317"
+Categories: Linux distributionsOperating system comparisonsHidden categories: CS1 Spanish-language sources (es)CS1 errors: missing titleCS1 errors: bare URLModule:Wd reference errorsCS1 Russian-language sources (ru)CS1: unfit URLAll articles with dead external linksArticles with dead external links from May 2021Articles with permanently dead external linksCS1 maint: bot: original URL status unknownArticles with short descriptionShort description is different from WikidataWikipedia articles in need of updating from July 2019All Wikipedia articles in need of updatingArticles needing cleanup from July 2019All pages needing cleanupCleanup tagged articles with a reason field from July 2019Wikipedia pages needing cleanup from July 2019Articles with multiple maintenance issuesUse dmy dates from May 2021Articles with obsolete information from June 2024
+
+
+
+
+
+
+ This page was last edited on 22 April 2025, at 12:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Comparison of Linux distributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

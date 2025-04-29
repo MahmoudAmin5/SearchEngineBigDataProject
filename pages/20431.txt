@@ -1,0 +1,1734 @@
+https://en.wikipedia.org/wiki/High-level_synthesis
+
+
+
+
+High-level synthesis - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Source input
+
+
+
+
+
+
+
+
+3
+Process stages
+
+
+
+
+
+
+
+
+4
+Functionality
+
+
+
+
+Toggle Functionality subsection
+
+
+
+
+
+4.1
+Architectural constraints
+
+
+
+
+
+
+
+
+4.2
+Interface synthesis
+
+
+
+
+
+
+
+
+
+
+5
+Vendors
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+Further reading
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+High-level synthesis
+
+
+
+2 languages
+
+
+
+
+Català中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Creation of hardware designs from software code
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "High-level synthesis" – news · newspapers · books · scholar · JSTOR (October 2016) (Learn how and when to remove this message)
+This article may be unbalanced toward certain viewpoints. Please improve the article by adding information on neglected viewpoints, or discuss the issue on the talk page. (April 2011)
+
+ (Learn how and when to remove this message)
+High-level synthesis (HLS), sometimes referred to as C synthesis, electronic system-level (ESL) synthesis, algorithmic synthesis, or behavioral synthesis, is an automated design process that takes an abstract behavioral specification of a digital system and finds a register-transfer level structure that realizes the given behavior.[1][2][3]
+Synthesis begins with a high-level specification of the problem, where behavior is generally decoupled from low-level circuit mechanics such as clock-level timing. Early HLS explored a variety of input specification languages,[4] although recent research and commercial applications generally accept synthesizable subsets of ANSI C/C++/SystemC/MATLAB. The code is analyzed, architecturally constrained, and scheduled to transcompile from a transaction-level model (TLM) into a register-transfer level (RTL) design in a hardware description language (HDL), which is in turn commonly synthesized to the gate level by the use of a logic synthesis tool.
+The goal of HLS is to let hardware designers efficiently build and verify hardware, by giving them better control over optimization of their design architecture, and through the nature of allowing the designer to describe the design at a higher level of abstraction while the tool does the RTL implementation. Verification of the RTL is an important part of the process.[5]
+Hardware can be designed at varying levels of abstraction. The commonly used levels of abstraction are gate level, register-transfer level (RTL), and algorithmic level.
+While logic synthesis uses an RTL description of the design, high-level synthesis works at a higher level of abstraction, starting with an algorithmic description in a high-level language such as SystemC and ANSI C/C++. The designer typically develops the module functionality and the interconnect protocol. The high-level synthesis tools handle the micro-architecture and transform untimed or partially timed functional code into fully timed RTL implementations, automatically creating cycle-by-cycle detail for hardware implementation.[6] The (RTL) implementations are then used directly in a conventional logic synthesis flow to create a gate-level implementation.
+
+
+History[edit]
+Early academic work extracted scheduling, allocation, and binding as the basic steps for high-level-synthesis. Scheduling partitions the algorithm in control steps that are used to define the states in the finite-state machine. Each control step contains one small section of the algorithm that can be performed in a single clock cycle in the hardware. Allocation and binding maps the instructions and variables to the hardware components, multiplexers, registers and wires of the data path.
+First generation behavioral synthesis was introduced by Synopsys in 1994 as Behavioral Compiler[7] and used Verilog or VHDL as input languages. The abstraction level used was partially timed (clocked) processes. Tools based on behavioral Verilog or VHDL were not widely adopted in part because neither languages nor the partially timed abstraction were well suited to modeling behavior at a high level. 10 years later, in early 2004, Synopsys end-of-lifed Behavioral Compiler.[8]
+In 1998, Forte Design Systems introduced its Cynthesizer tool which used SystemC as an entry language instead of Verilog or VHDL.  Cynthesizer was adopted by many Japanese companies in 2000 as Japan had a very mature SystemC user community.  The first high-level synthesis tapeout was achieved in 2001 by Sony using Cynthesizer. Adoption in the United States started in earnest in 2008.[citation needed]
+In 2006, an efficient and scalable "SDC modulo scheduling" technique was developed on control and data flow graphs [9] and was later extended to pipeline scheduling.[10] This technique uses the integer linear programming formulation. But it shows that the underlying constraint matrix is totally unimodular (after approximating the resource constraints). Thus, the problem can be solved in polynomial time optimally using a linear programming solver in polynomial time. This work was inducted to the FPGA and Reconfigurable Computing Hall of Fame 2022.[11]
+The SDC scheduling algorithm was implemented in the xPilot HLS system[12] developed at UCLA,[13] and later licensed to the AutoESL Design Technologies, a spin-off from UCLA. AutoESL was acquired by Xilinx (now part of AMD) in 2011,[11] and the HLS tool developed by AutoESL became the base of Xilinx HLS solutions, Vivado HLS and Vitis HLS, widely used for FPGA designs.
+
+Source input[edit]
+The most common source inputs for high-level synthesis are based on standard languages such as ANSI C/C++, SystemC and MATLAB.
+High-level synthesis typically also includes a bit-accurate executable specification as input, since to derive an efficient hardware implementation, additional information is needed on what is an acceptable Mean-Square Error or Bit-Error Rate etc. For example, if the designer starts with an FIR filter written using the "double" floating type, before he can derive an efficient hardware implementation, they need to perform numerical refinement to arrive at a fixed-point implementation. The refinement requires additional information on the level of quantization noise that can be tolerated, the valid input ranges etc. This bit-accurate specification makes the high level synthesis source specification functionally complete.[14]
+Normally the tools infer from the high level code a Finite State Machine and a Datapath that implement arithmetic operations.
+
+Process stages[edit]
+The high-level synthesis process consists of a number of activities. Various high-level synthesis tools perform these activities in different orders using different algorithms. Some high-level synthesis tools combine some of these activities or perform them iteratively to converge on the desired solution.[15]
+
+Lexical processing
+Algorithm optimization
+Control/Dataflow analysis
+Library processing
+Resource allocation
+Scheduling
+Functional unit binding
+Register binding
+Output processing
+Input Rebundling
+Functionality[edit]
+In general, an algorithm can be performed over many clock cycles with few hardware resources, or over fewer clock cycles using a larger number of ALUs, registers and memories.  Correspondingly, from one algorithmic description, a variety of hardware microarchitectures can be generated by an HLS compiler according to the directives given to the tool.  This is the same trade off of execution speed for hardware complexity as seen when a given program is run on conventional processors of differing performance, yet all running at roughly the same clock frequency.
+
+Architectural constraints[edit]
+Synthesis constraints for the architecture can automatically be applied based on the design analysis.[5] These constraints can be broken into
+
+Hierarchy
+Interface
+Memory
+Loop
+Low-level timing constraints
+Iteration
+Interface synthesis[edit]
+Interface Synthesis refers to the ability to accept pure C/C++ description as its input, then use automated interface synthesis technology to control the timing and communications protocol on the design interface. This enables interface analysis and exploration of a full range of hardware interface options such as streaming, single- or dual-port RAM plus various handshaking mechanisms. With interface synthesis the designer does not embed interface protocols in the source description. Examples might be: direct connection, one line, 2 line handshake, FIFO.[16]
+
+Vendors[edit]
+Data reported on recent Survey[17]
+
+
+
+Status
+
+Compiler
+
+Owner
+
+License
+
+Input
+
+Output
+
+Year
+
+Domain
+
+Testbench
+
+FP
+
+FixP
+
+
+In use
+
+Stratus HLS
+
+Cadence Design Systems
+
+Commercial
+
+C–C++ SystemC
+
+RTL
+
+2015
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+AUGH
+
+TIMA Lab.
+
+Academic
+
+C subset
+
+VHDL
+
+2012
+
+All
+
+Yes
+
+No
+
+No
+
+
+eXCite Archived 2019-09-17 at the Wayback Machine
+
+Y Explorations
+
+Commercial
+
+C
+
+VHDL–Verilog
+
+2001
+
+All
+
+Yes
+
+No
+
+Yes
+
+
+Bambu
+
+PoliMi
+
+Academic
+
+C
+
+VHDL–Verilog
+
+2012
+
+All
+
+Yes
+
+Yes
+
+No
+
+
+Bluespec
+
+BlueSpec, Inc.
+
+BSD-3
+
+Bluespec SystemVerilog(Haskell)
+
+SystemVerilog
+
+2007
+
+All
+
+No
+
+No
+
+No
+
+
+QCC
+
+CacheQ Systems, Inc.
+
+Commercial
+
+C, C++, Fortran
+
+Host executable + FPGA bit file (SystemVerilog is intermediate)
+
+2018
+
+All - multi-core and heterogeneous compute
+
+Yes (C++)
+
+Yes
+
+Yes
+
+
+CHC
+
+Altium
+
+Commercial
+
+C subset
+
+VHDL–Verilog
+
+2008
+
+All
+
+No
+
+Yes
+
+Yes
+
+
+CoDeveloper
+
+Impulse Accelerated
+
+Commercial
+
+Impulse-C
+
+VHDL
+
+2003
+
+Imagestreaming
+
+Yes
+
+Yes
+
+No
+
+
+HDL Coder
+
+MathWorks
+
+Commercial
+
+MATLAB, Simulink, Stateflow, Simscape
+
+VHDL, Verilog
+
+2003
+
+Control systems, signal processing, wireless, radar, communications, image and computer vision
+
+Yes
+
+Yes
+
+Yes
+
+
+CyberWorkBench
+
+NEC
+
+Commercial
+
+C, BDL, SystemC
+
+VHDL–Verilog
+
+2004
+
+All
+
+Cycle,formal
+
+Yes
+
+Yes
+
+
+Catapult
+
+Siemens EDA
+
+Commercial
+
+C–C++ SystemC
+
+VHDL–Verilog
+
+2004
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+DWARV
+
+TU. Delft
+
+Academic
+
+C subset
+
+VHDL
+
+2012
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+GAUT
+
+University of Western Brittany
+
+Academic
+
+C, C++
+
+VHDL
+
+2010
+
+DSP
+
+Yes
+
+No
+
+Yes
+
+
+Hastlayer
+
+Lombiq Technologies
+
+BSD-3
+
+C#, C++, F#, ...(.NET)
+
+VHDL
+
+2015
+
+.NET
+
+Yes
+
+Yes
+
+Yes
+
+
+Instant SoC
+
+FPGA Cores
+
+Commercial
+
+C, C++
+
+VHDL–Verilog
+
+2019
+
+All
+
+Yes
+
+No
+
+No
+
+
+Intel High Level Synthesis Compiler
+
+Intel FPGA (Formerly Altera)
+
+Commercial
+
+C, C++
+
+Verilog
+
+2017
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+LegUp HLS
+
+LegUp Computing
+
+Commercial
+
+C, C++
+
+Verilog
+
+2015
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+LegUp Archived 2020-07-24 at the Wayback Machine
+
+University of Toronto
+
+Academic
+
+C
+
+Verilog
+
+2010
+
+All
+
+Yes
+
+Yes
+
+No
+
+
+MaxCompiler
+
+Maxeler
+
+Commercial
+
+MaxJ
+
+RTL
+
+2010
+
+Data-flow analysis
+
+No
+
+Yes
+
+No
+
+
+ROCCC
+
+Jacquard Comp.
+
+Commercial
+
+C subset
+
+VHDL
+
+2010
+
+Streaming
+
+No
+
+Yes
+
+No
+
+
+Symphony C
+
+Synopsys
+
+Commercial
+
+C, C++
+
+VHDL–Verilog,SystemC
+
+2010
+
+All
+
+Yes
+
+No
+
+Yes
+
+
+VivadoHLS(formerly AutoPilotfrom AutoESL[18])
+
+Xilinx
+
+Commercial
+
+C–C++ SystemC
+
+VHDL–Verilog,SystemC
+
+2013
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+Kiwi
+
+University of Cambridge
+
+Academic
+
+C#
+
+Verilog
+
+2008
+
+.NET
+
+No
+
+Yes
+
+Yes
+
+
+CHiMPS
+
+University of Washington
+
+Academic
+
+C
+
+VHDL
+
+2008
+
+All
+
+No
+
+No
+
+No
+
+
+gcc2verilog
+
+Korea University
+
+Academic
+
+C
+
+Verilog
+
+2011
+
+All
+
+No
+
+No
+
+No
+
+
+HercuLeS
+
+Ajax Compilers
+
+Commercial
+
+C/NAC
+
+VHDL
+
+2012
+
+All
+
+Yes
+
+Yes
+
+Yes
+
+
+Shang
+
+University of Illinois Urbana-Champaign
+
+Academic
+
+C
+
+Verilog
+
+2013
+
+All
+
+Yes
+
+?
+
+?
+
+
+Trident
+
+Los Alamos NL
+
+Academic
+
+C subset
+
+VHDL
+
+2007
+
+Scientific
+
+No
+
+Yes
+
+No
+
+
+Aban-doned
+
+AccelDSP
+
+Xilinx
+
+Commercial
+
+MATLAB
+
+VHDL–Verilog
+
+2006
+
+DSP
+
+Yes
+
+Yes
+
+Yes
+
+
+C2H
+
+Altera
+
+Commercial
+
+C
+
+VHDL–Verilog
+
+2006
+
+All
+
+No
+
+No
+
+No
+
+
+CtoVerilog
+
+University of Haifa
+
+Academic
+
+C
+
+Verilog
+
+2008
+
+All
+
+No
+
+No
+
+No
+
+
+DEFACTO
+
+University South Cailf.
+
+Academic
+
+C
+
+RTL
+
+1999
+
+DSE
+
+No
+
+No
+
+No
+
+
+Garp
+
+University of California, Berkeley
+
+Academic
+
+C subset
+
+bitstream
+
+2000
+
+Loop
+
+No
+
+No
+
+No
+
+
+MATCH
+
+Northwest University
+
+Academic
+
+MATLAB
+
+VHDL
+
+2000
+
+Image
+
+No
+
+No
+
+No
+
+
+Napa-C
+
+Sarnoff Corp.
+
+Academic
+
+C subset
+
+VHDL–Verilog
+
+1998
+
+Loop
+
+No
+
+No
+
+No
+
+
+PipeRench
+
+Carnegie Mellon University
+
+Academic
+
+DIL
+
+bistream
+
+2000
+
+Stream
+
+No
+
+No
+
+No
+
+
+SA-C
+
+University of Colorado
+
+Academic
+
+SA-C
+
+VHDL
+
+2003
+
+Image
+
+No
+
+No
+
+No
+
+
+SeaCucumber
+
+Brigham Young University
+
+Academic
+
+Java
+
+EDIF
+
+2002
+
+All
+
+No
+
+Yes
+
+Yes
+
+
+SPARK
+
+University of California, Irvine
+
+Academic
+
+C
+
+VHDL
+
+2003
+
+Control
+
+No
+
+No
+
+No
+
+Dynamatic from EPFL/ETH Zurich
+MATLAB HDL Coder [1] from Mathworks[19]
+HLS-QSP from CircuitSutra Technologies[20]
+C-to-Silicon from Cadence Design Systems
+Concurrent Acceleration from Concurrent EDA
+Symphony C Compiler from Synopsys
+QuickPlay from PLDA[21]
+PowerOpt from ChipVision[22]
+Cynthesizer from Forte Design Systems (now Stratus HLS from Cadence Design Systems)
+Catapult C from Calypto Design Systems, part of Mentor Graphics as of 2015, September 16. In November 2016 Siemens announced plans to acquire Mentor Graphics, Mentor Graphics became styled as "Mentor, a Siemens Business". In January 2021, the legal merger of Mentor Graphics with Siemens was completed - merging into the Siemens Industry Software Inc legal entity. Mentor Graphics' name was changed to Siemens EDA, a division of Siemens Digital Industries Software.[23]
+PipelineC [2]
+CyberWorkBench from NEC[24]
+Mega Hardware [25]
+C2R from CebaTech[26]
+CoDeveloper from Impulse Accelerated Technologies
+HercuLeS by Nikolaos Kavvadias[27]
+Program In/Code Out (PICO) from Synfora, acquired by Synopsys in June 2010[28]
+xPilot from University of California, Los Angeles[29]
+Vsyn from vsyn.ru[30]
+ngDesign from SynFlow[31]
+See also[edit]
+C to HDL
+Electronic design automation (EDA)
+Electronic system-level (ESL)
+Logic synthesis
+High-level verification (HLV)
+SystemVerilog
+Hardware acceleration
+References[edit]
+
+
+^ Coussy, Philippe; Morawiec, Adam, eds. (2008). High-Level Synthesis - Springer. doi:10.1007/978-1-4020-8588-8. ISBN 978-1-4020-8587-1.
+
+^ McFarland, M.C.; Parker, A.C.; Camposano, R. (February 1990). "The high-level synthesis of digital systems". Proceedings of the IEEE. 78 (2): 301–318. doi:10.1109/5.52214. ISSN 1558-2256.
+
+^ "HLS Book : Home". www.hlsbook.com. Retrieved 2023-06-21.
+
+^ IEEE Xplore High-Level Synthesis: Past, Present, and Future DOI 10.1109/MDT.2009.83
+
+^ a b Bowyer, Bryan (2005-05-02). "The 'why' and 'what' of algorithmic synthesis". EE Times. Retrieved 2016-10-03.
+
+^ "C-Based Rapid Prototyping for Digital Signal Processing" (PDF). UBS University, France. Retrieved 2016-10-03.
+
+^ "Publications and Presentations". Bdti.com. Archived from the original on 2008-04-26. Retrieved 2016-10-03.
+
+^ "Behavioral synthesis crossroad". EE Times. Retrieved 2016-10-03.
+
+^ Cong, Jason; Fan, Yiping; Han, Guoling; Jiang, Wei; Zhang, Zhiru (September 2006). "Platform-Based Behavior-Level and System-Level Synthesis". 2006 IEEE International SOC Conference. IEEE. pp. 199–202. doi:10.1109/socc.2006.283880. ISBN 0-7803-9782-7.
+
+^ Zhang, Zhiru; Liu, Bin (2013). 2013 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) (PDF). IEEE. pp. 211–218. ISBN 978-1-4799-1071-7.
+
+^ a b Cong, Jason; Bin Liu; Neuendorffer, Stephen; Noguera, Juanjo; Vissers, Kees; Zhiru Zhang (April 2011). "High-Level Synthesis for FPGAs: From Prototyping to Deployment". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 30 (4): 473–491. doi:10.1109/tcad.2011.2110592. ISSN 0278-0070.
+
+^ Cong, J.; Zhiru Zhang (2006). "An efficient and versatile scheduling algorithm based on SDC formulation". 2006 43rd ACM/IEEE Design Automation Conference. IEEE. pp. 433–438. doi:10.1109/dac.2006.229228. ISBN 1-59593-381-6.
+
+^ "xPilot: Platform-based Behavior Synthesis System | VAST lab". vast.cs.ucla.edu. Retrieved 2024-04-18.
+
+^ Multiple Word-Length High-Level Synthesis EURASIP Journal on Embedded Systems
+
+^ "A look inside behavioral synthesis". EE Times. Retrieved 2016-10-03.
+
+^ "DesignCon: InfoVault: Paper Library". www.designcon.com. Archived from the original on 25 September 2010. Retrieved 13 January 2022.
+
+^ Nane, R.; Sima, V. M.; Pilato, C.; Choi, J.; Fort, B.; Canis, A.; Chen, Y. T.; Hsiao, H.; Brown, S. (2016). "A Survey and Evaluation of FPGA High-Level Synthesis Tools" (PDF). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 35 (10): 1591–1604. doi:10.1109/TCAD.2015.2513673. hdl:11311/998432. ISSN 0278-0070. S2CID 8749577.
+
+^ "Xilinx buys high-level synthesis EDA vendor". EE Times. 2011-02-05. Archived from the original on 2011-10-17. Retrieved 2016-10-03.
+
+^ "MathWorks: Makers of MATLAB and Simulink". Mathworks.com. Retrieved 2016-10-03.
+
+^ "SystemC based ESL methodologies - SystemC based ESL methodologies". Circuitsutra.com. Retrieved 2016-10-03.
+
+^ John M. at a major ERP & DBMS Corporation (2016-08-29). "QuickPlay: Bringing FPGA Computing to the Masses". Quickplay.io. Retrieved 2016-10-03.
+
+^ "Chipvision - Fast Track to Low Power". www.chipvision.com. Archived from the original on 30 May 2002. Retrieved 13 January 2022.
+
+^ "Mentor Finally Becomes Siemens EDA from January 2021". 15 December 2020.
+
+^ "CyberWorkBench: Products". NEC. Retrieved 2016-10-03.
+
+^ "Accueil mega-hardware". www.mega-hardware.com. Archived from the original on 15 January 2004. Retrieved 13 January 2022.
+
+^ "Cebatech - Home". www.cebatech.com. Archived from the original on 7 May 2005. Retrieved 13 January 2022.
+
+^ "Nikolaos Kavvadias - HercuLeS high-level synthesis tool". Nkavvadias.com. Retrieved 2016-10-03.
+
+^ "Synopsys buys Synfora assets". EE Times. Archived from the original on 2011-04-07. Retrieved 2016-10-03.
+
+^ "The xPilot System". Cadlab.cs.ucla.edu. Retrieved 2016-10-03.
+
+^ "vSyn.ru". vSyn.ru. 2016-06-16. Archived from the original on 2016-06-30. Retrieved 2016-10-03.
+
+^ "Hardware design for all". Synflow. Retrieved 2016-10-03.
+
+
+Further reading[edit]
+Jason Cong, Jason Lau, Gai Liu, Stephen Neuendorffer, Peichen Pan, Kees Vissers, Zhiru Zhang.  FPGA HLS Today: Successes, Challenges, and Opportunities. ACM Transactions on Reconfigurable Technology and Systems, Volume 15, Issue 4, Article No. 5, pp 1–42, December 2022, https://doi.org/10.1145/3530775.
+Michael Fingeroff (2010). High-Level Synthesis Blue Book. Xlibris[self-published source] Corporation. ISBN 978-1-4500-9724-6.
+Coussy, P.; Gajski, D. D.; Meredith, M.; Takach, A. (2009). "An Introduction to High-Level Synthesis". IEEE Design & Test of Computers. 26 (4): 8–17. doi:10.1109/MDT.2009.69. S2CID 52870966.
+Ewout S. J. Martens; Georges Gielen (2008). High-level modeling and synthesis of analog integrated systems. Springer. ISBN 978-1-4020-6801-0.
+Saraju Mohanty; N. Ranganathan; E. Kougianos & P. Patra (2008). Low-Power High-Level Synthesis for Nanoscale CMOS Circuits. Springer. ISBN 978-0387764733.
+Alice C. Parker; Yosef Tirat-Gefen; Suhrid A. Wadekar (2007). "System-Level Design". In Wai-Kai Chen (ed.). The VLSI handbook (2nd ed.). CRC Press. ISBN 978-0-8493-4199-1. chapter 76.
+Shahrzad Mirkhani; Zainalabedin Navabi (2007). "System Level Design Languages". In Wai-Kai Chen (ed.). The VLSI handbook (2nd ed.). CRC Press. ISBN 978-0-8493-4199-1. chapter 86. covers the use of C/C++, SystemC, TML and even UML
+Liming Xiu (2007). VLSI circuit design methodology demystified: a conceptual taxonomy. Wiley-IEEE. ISBN 978-0-470-12742-1.
+John P. Elliott (1999). Understanding behavioral synthesis: a practical guide to high-level design. Springer. ISBN 978-0-7923-8542-4.
+Nane, Razvan; Sima, Vlad-Mihai; Pilato, Christian; Choi, Jongsok; Fort, Blair; Canis, Andrew; Chen, Yu Ting; Hsiao, Hsuan; Brown, Stephen; Ferrandi, Fabrizio; Anderson, Jason; Bertels, Koen (2016). "A Survey and Evaluation of FPGA High-Level Synthesis Tools". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 35 (10): 1591–1604. doi:10.1109/TCAD.2015.2513673. hdl:11311/998432. S2CID 8749577.
+Gupta, Rajesh; Brewer, Forrest (2008). "High-Level Synthesis: A Retrospective". "High-level Synthesis: A Retrospective". Springer. pp. 13–28. doi:10.1007/978-1-4020-8588-8_2. ISBN 978-1-4020-8587-1.
+External links[edit]
+Vivado HLS course on Youtube
+Deepchip Discussion Forum
+vteHardware accelerationTheory
+Universal Turing machine
+Parallel computing
+Distributed computing
+Applications
+GPU
+GPGPU
+DirectX
+Audio
+Digital signal processing
+Hardware random number generation
+Neural processing unit
+Cryptography
+TLS
+Machine vision
+Custom hardware attack
+scrypt
+Networking
+Data
+Implementations
+High-level synthesis
+C to HDL
+FPGA
+ASIC
+CPLD
+System on a chip
+Network on a chip
+Architectures
+Dataflow
+Transport triggered
+Multicore
+Manycore
+Heterogeneous
+In-memory computing
+Systolic array
+Neuromorphic
+Related
+Programmable logic
+Processor
+design
+chronology
+Digital electronics
+Virtualization
+Hardware emulation
+Logic synthesis
+Embedded systems
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=High-level_synthesis&oldid=1268342514"
+Categories: Electronic design automationHardware accelerationHidden categories: Articles with short descriptionShort description matches WikidataUse American English from April 2019All Wikipedia articles written in American EnglishArticles needing additional references from October 2016All articles needing additional referencesArticles needing more viewpoints from April 2011Articles with multiple maintenance issuesAll articles with unsourced statementsArticles with unsourced statements from March 2023Webarchive template wayback linksAll articles with self-published sourcesArticles with self-published sources from January 2018
+
+
+
+
+
+
+ This page was last edited on 9 January 2025, at 08:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+High-level synthesis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

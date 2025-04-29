@@ -1,0 +1,118 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_utilities_padding_size
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+The w3-padding-small class adds 4px top and bottom and 8px left and right.
+
+
+
+The w3-padding class adds 8px top and bottom and 16px left and right.
+
+
+
+The w3-padding-large class adds 12px top and bottom and 24px left and right.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

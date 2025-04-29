@@ -1,0 +1,1065 @@
+https://en.wikipedia.org/wiki/Cray
+
+
+
+
+Cray - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Background: 1950–1972
+
+
+
+
+
+
+
+
+1.2
+Cray Research Inc. and Cray Computer Corporation: 1972–1996
+
+
+
+
+
+
+
+
+1.3
+Silicon Graphics ownership: 1996–2000
+
+
+
+
+
+
+
+
+1.4
+Post-Tera merger: 2000–2019
+
+
+
+
+
+
+
+
+1.5
+Subsidiary of Hewlett Packard Enterprise: 2019–present
+
+
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+3
+Further reading
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Cray
+
+
+
+25 languages
+
+
+
+
+العربيةCatalàCymraegDeutschEspañolفارسیFrançais한국어ItalianoעבריתҚазақшаKernowekMagyarമലയാളംNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSuomiSvenskaУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+American supercomputer manufacturer
+This article is about the supercomputer brand. For other uses, see Cray (disambiguation).
+
+
+Cray Inc.Company typeSubsidiaryFounded1972; 53 years ago (1972) asCray Research, Inc. (current corporate entity founded in 1987; 38 years ago (1987) as Tera Computer Company)FounderSeymour CrayHeadquartersSeattle, Washington, U.S.Key peoplePeter Ungaro (CEO)ProductsSupercomputersRevenue $455.9 million (2018)Operating income -$74.2 million (2018)Net income -$71.6 million (2018)Total assets $517.1 million (2018)Total equity $343.3 million (2018)Number of employees1,282 (Dec 2015)ParentHewlett Packard EnterpriseWebsitehpe.com/us/en/compute/hpc/cray.htmlFootnotes / references[1][2][3][4][5]
+Cray Inc., a subsidiary of Hewlett Packard Enterprise, is an American supercomputer manufacturer headquartered in Seattle, Washington.[2] It also manufactures systems for data storage and analytics.[6] Several Cray supercomputer systems are listed in the TOP500, which ranks the most powerful supercomputers in the world.[7]
+In 1972, the company was founded by computer designer Seymour Cray as Cray Research, Inc., and it continues to manufacture parts in Chippewa Falls, Wisconsin, where Cray was born and raised.[8][9][10] After being acquired by Silicon Graphics in 1996, the modern company was formed after being purchased in 2000 by Tera Computer Company, which adopted the name Cray Inc.[11] In 2019, the company was acquired by Hewlett Packard Enterprise for $1.3 billion.[12]
+
+
+History[edit]
+Background: 1950–1972[edit]
+In 1950, Seymour Cray began working in the computing field when he joined Engineering Research Associates (ERA) in Saint Paul, Minnesota. There, he helped to create the ERA 1103. ERA eventually became part of UNIVAC, and began to be phased out.
+In 1960, he left the company, a few years after former ERA employees set up Control Data Corporation (CDC). He initially worked out of the CDC headquarters in Minneapolis, but grew upset by constant interruptions by managers. He eventually set up a lab in his hometown of Chippewa Falls, Wisconsin, about 85 miles to the east. Cray had a string of successes at CDC, including the CDC 6600 and CDC 7600.
+
+Cray Research Inc. and Cray Computer Corporation: 1972–1996[edit]
+Cray-2 supercomputer
+When CDC ran into financial difficulties in the late 1960s, development funds for Cray's follow-on CDC 8600 became scarce. When he was told the project would have to be put "on hold" in 1972, Cray left to form his own company, Cray Research, Inc. Copying the previous arrangement, Cray kept the research and development facilities in Chippewa Falls, and put the business headquarters in Minneapolis. The company's first product, the Cray-1 supercomputer, was a major success because it was significantly faster than all other computers at the time. The first system was sold within a month for $8.8 million. Seymour Cray continued working, this time on the Cray-2, though it ended up being only marginally faster than the Cray X-MP, developed by another team at the company.
+Cray soon left the CEO position to become an independent contractor. He started a new Very Large Scale Integration technology lab for the Cray-2 in Boulder, Colorado, Cray Laboratories, in 1979, which closed in 1982; undaunted, Cray later headed a similar spin-off in 1989, Cray Computer Corporation (CCC) in Colorado Springs, Colorado, where he worked on the Cray-3 project—the first attempt at major use of gallium arsenide (GaAs) semiconductors in computing. However, the changing political climate (collapse of the Warsaw Pact and the end of the Cold War) resulted in poor sales prospects. Ultimately, only one Cray-3 was delivered, and a number of follow-on designs were never completed. The company filed for bankruptcy in 1995. CCC's remains then became Cray's final corporation, SRC Computers, Inc.
+Cray Research continued development along a separate line of computers, originally with lead designer Steve Chen and the Cray X-MP. After Chen's departure, the Cray Y-MP, Cray C90 and Cray T90 were developed on the original Cray-1 architecture but achieved much greater performance via multiple additional processors, faster clocks, and wider vector pipes. The uncertainty of the Cray-2 project gave rise to a number of Cray-object-code compatible "Crayette" firms: Scientific Computer Systems (SCS), American Supercomputer, Supertek, and perhaps one other firm. These firms did not intend to compete against Cray and therefore attempted less expensive, slower CMOS versions of the X-MP with the release of the COS operating system (SCS) and the CFT Fortran compiler; they also considered the Cray Time Sharing System operating system, developed at United States Department of Energy national laboratories (LANL/LLNL), before joining the broader trend toward adoption of Unixes. Today, Cray OS is a specialized version of SUSE Linux Enterprise Server.[13]
+
+Cray T3E processor board
+A series of massively parallel computers from Thinking Machines Corporation, Kendall Square Research, Intel, nCUBE, MasPar and Meiko Scientific took over the 1980s high performance market. At first, Cray Research denigrated such approaches by complaining that developing software to effectively use the machines was difficult – a true complaint in the era of the ILLIAC IV, but becoming less so each day. Cray eventually realized that the approach was likely the only way forward and started a five-year project to capture the lead in this area: the plan's result was the Digital Equipment Corporation Alpha-based Cray T3D and Cray T3E series, which left Cray as the only remaining supercomputer vendor in the market besides NEC's SX architecture by 2000.
+Most sites with a Cray installation were considered members of the "exclusive club" of Cray operators. Cray computers were considered quite prestigious because Crays were extremely expensive machines, and the number of units sold was small compared to ordinary mainframes. This perception extended to countries as well: to boost the perception of exclusivity, Cray Research's marketing department had promotional neckties made with a mosaic of tiny national flags illustrating the "club of Cray-operating countries".[14]
+New vendors introduced small supercomputers, known as minisupercomputers (as opposed to superminis) during the late 1980s and early 1990s, which out-competed low-end Cray machines in the market. The Convex Computer series, as well as a number of small-scale parallel machines from companies like Pyramid Technology and Alliant Computer Systems were particularly popular. One such vendor was Supertek, whose S-1 machine was an air-cooled CMOS implementation of the X-MP processor. Cray purchased Supertek in 1990 and sold the S-1 as the Cray XMS, but the machine proved problematic; meanwhile, the not-yet-completed S-2, a Y-MP clone, was later offered as the Cray Y-MP (later becoming the Cray EL90) which started to sell in reasonable numbers in 1991–92—to mostly smaller companies, notably in the oil exploration business. This line evolved into the Cray J90 and eventually the Cray SV1 in 1998.
+In December 1991, Cray purchased some of the assets of Floating Point Systems, another minisuper vendor that had moved into the file server market with its SPARC-based Model 500 line.[15] These symmetric multiprocessing machines scaled up to 64 processors and ran a modified version of the Solaris operating system from Sun Microsystems. Cray set up Cray Research Superservers, Inc. (later the Cray Business Systems Division) to sell this system as the Cray S-MP, later replacing it with the Cray CS6400. In spite of these machines being some of the most powerful available when applied to appropriate workloads, Cray was never very successful in this market, possibly due to it being so foreign to its existing market niche.
+CCC was building the Cray-3/SSS when it went into Chapter 11 bankruptcy in March 1995.[16]
+
+Silicon Graphics ownership: 1996–2000[edit]
+In February 1996, Cray Research was acquired by Silicon Graphics (SGI) for $740 million.[17][18]
+In May 1996, SGI sold the Superservers business to Sun.[19] Sun then turned the UltraSPARC-based Starfire project then under development into the extremely successful Sun Enterprise 10000 range of servers.[20] SGI used several Cray technologies in its attempt to move from the graphics workstation market into supercomputing. Key among these was the use of the Cray-developed HIPPI computer bus and details of the interconnects used in the T3 series. SGI's long-term strategy was to merge its high-end server line with Cray's product lines in two phases, code-named SN1 and SN2 (SN standing for "Scalable Node"). The SN1 was intended to replace the T3E and SGI Origin 2000 systems and later became the SN-MIPS or SGI Origin 3000 architecture. The SN2 was originally intended to unify all high-end/supercomputer product lines including the T90 into a single architecture. This goal was never achieved before SGI divested itself of the Cray business, and the SN2 name was later associated with the SN-IA or SGI Altix 3000 architecture.
+In October 1996, founder Seymour Cray died as a result of a traffic accident.[21]
+In 1998, under SGI ownership, one new Cray model line, the Cray SV1, was launched. This was a clustered SMP vector processor architecture, developed from J90 technology.[22]
+On March 2, 2000, Cray was sold to Tera Computer Company, which was renamed Cray Inc.[23]
+
+Post-Tera merger: 2000–2019[edit]
+Cray-designed HLRN-III Konrad (XC30/XC40) at Zuse Institute Berlin, featuring a portrait of German computer pioneer Konrad Zuse, 2014
+After the Tera merger, the Tera MTA system was relaunched as the Cray MTA-2. This was not a commercial success and shipped to only two customers. Cray Inc. also unsuccessfully badged the NEC SX-6 supercomputer as the Cray SX-6 and acquired exclusive rights to sell the SX-6 in the US, Canada, and Mexico.
+In 2002, Cray Inc. announced its first new model, the Cray X1 combined architecture vector processor / massively parallel supercomputer.[24] Previously known as the SV2, the X1 is the result of the earlier SN2 concept originated during the SGI years. In May 2004, Cray was announced to be one of the partners in the United States Department of Energy's fastest-computer-in-the-world project to build a 50 teraFlops machine for the Oak Ridge National Laboratory. Cray was sued in 2002 by Isothermal Systems Research for patent infringement. The suit claimed that Cray used ISR's patented technology in the development of the Cray X1.[25] The lawsuit was settled in 2003.[26] As of November 2004, the Cray X1 had a maximum measured performance of 5.9 teraflops, being the 29th fastest supercomputer in the world. Since then the X1 has been superseded by the X1E, with faster dual-core processors.
+On October 4, 2004, the company announced the Cray XD1 range of entry-level supercomputers which use dual-core 64-bit Advanced Micro Devices Opteron central processing units running Linux.[27] This system was previously known as the OctigaBay 12K before Cray's acquisition of that company. The XD1 provided one Xilinx Virtex II Pro field-programmable gate array (FPGA) with each node of four Opteron processors. The FPGAs could be configured to embody various digital hardware designs and could augment the processing or input/output capabilities of the Opteron processors. Furthermore, each FPGA contains a pair of PowerPC 405 processors which can add to the already considerable power of a single node. The Cray XD1, although moderately successful, was eventually discontinued.
+In 2004, Cray completed the Red Storm system for Sandia National Laboratories. Red Storm was to become the jumping-off point for a string of successful products that eventually revitalized Cray in supercomputing. Red Storm had processors clustered in 96 unit cabinets, a theoretical maximum of 300 cabinets in a machine, and a design speed of 41.5 teraflops. Red Storm also included an innovative new design for network interconnects, which was dubbed SeaStar and destined to be the centerpiece of succeeding innovations by Cray. The Cray XT3 massively parallel supercomputer became a commercialized version of Red Storm, similar in many respects to the earlier T3E architecture, but, like the XD1, using AMD Opteron processors.
+On August 8, 2005, Peter Ungaro was appointed CEO. Ungaro had joined Cray in August 2003 as Vice President of Sales and Marketing and had been made Cray's President in March 2005.[28]
+Introduced in 2006, the Cray XT4 added support for DDR2 memory, newer dual-core and future quad-core Opteron processors and utilized a second generation SeaStar2 communication coprocessor. It also included an option for FPGA chips to be plugged directly into processor sockets, unlike the Cray XD1, which required a dedicated socket for the FPGA coprocessor.[29]
+On November 13, 2006, Cray announced a new system, the Cray XMT, based on the MTA series of machines.[30][31] This system combined multi-threaded processors, as used on the original Tera systems, and the SeaStar2 interconnect used by the XT4. By reusing ASICs, boards, cabinets, and system software used by the comparatively higher volume XT4 product, the cost of making the very specialized MTA system could be reduced. A second generation of the XMT is scheduled for release in 2011, with the first system ordered by the Swiss National Supercomputing Center (CSCS).[32]
+In 2006, Cray announced a vision of products dubbed Adaptive Supercomputing.[33] The first generation of such systems, dubbed the Rainier Project, used a common interconnect network (SeaStar2), programming environment, cabinet design, and I/O subsystem. These systems included the existing XT4 and the XMT. The second generation, launched as the XT5h, allowed a system to combine compute elements of various types into a common system, sharing infrastructure. The XT5h combined Opteron, vector, multithreaded, and FPGA compute processors in a single system.
+In April 2008, Cray and Intel announced they would collaborate on future supercomputer systems. This partnership produced the Cray CX1 system, launched in September the same year. This was a deskside blade server system, comprising up to 16 dual- or quad-core Intel Xeon processors, with either Microsoft Windows HPC Server 2008 or Red Hat Enterprise Linux installed.[34]
+By 2009, the largest computer system Cray had delivered was the Cray XT5 system at National Center for Computational Sciences at Oak Ridge National Laboratories.[35] This system, with over 224,000 processing cores, was dubbed Jaguar and was the fastest computer in the world as measured by the LINPACK benchmark[36] at the speed of 1.75 petaflops[37] until being surpassed by the Tianhe-1A in October 2010. It was the first system to exceed a sustained performance of 1 petaflops on a 64-bit scientific application.
+
+Cray stand at the 2018 Supercomputing Conference SC18 in Dallas, Texas, USA.
+In May 2010, the Cray XE6 supercomputer was announced. The Cray XE6 system had at its core the new Gemini system interconnect. This new interconnect included a true global-address space and represented a return to the T3E feature set that had been so successful with Cray Research. This product was a successful follow-on to the XT3, XT4 and XT5 products. The first multi-cabinet XE6 system was shipped in July 2010. The next generation Cascade[38] systems were designed make use of future multicore and/or manycore processors from vendors such as Intel and Nvidia. Cascade was scheduled to be introduced in early 2013 and designed to use the next-generation network chip and follow-on to Gemini, code named Aries.
+In early 2010, Cray also introduced the Cray CX1000, a rack-mounted system with a choice of compute-based, GPU-based, or SMP-based chassis.[39][40] The CX1 and CX1000 product lines were sold until late 2011.
+In 2011, Cray announced the Cray XK6 hybrid supercomputer. The Cray XK6 system, capable of scaling to 500,000 processors and 50 petaflops of peak performance,[41] combines Cray's Gemini interconnect, AMD's multi-core scalar processors, and Nvidia's Tesla GPGPU processors. In October 2012 Cray announced the Cray XK7 which supports the Nvidia Kepler GPGPU and announced that the ORNL Jaguar system would be upgraded to an XK7 (renamed Titan) and capable of over 20 petaflops.[42] Titan was the world's fastest supercomputer as measured by the LINPACK benchmark[43] until the introduction of the Tianhe-2 in 2013, which is substantially faster.
+In 2011 Cray also announced it had been awarded the $188 million Blue Waters contract with the University of Illinois at Urbana–Champaign, after IBM had pulled out of the delivery.[44][45] This system was delivered in 2012 and was the largest system to date, in terms of cabinets and general-purpose x86 processors, that Cray had ever delivered.
+In November 2011, the Cray Sonexion 1300 Data Storage System was introduced and signaled Cray's entry into the high performance storage business. This product used modular technology and a Lustre file system.[46][47]
+In 2011, Cray launched the OpenACC parallel programming standard organization.[48] In 2019, Cray announced that it was deprecating OpenACC, and will support OpenMP.[49]
+However, in 2022, the Cray Fortran compiler still supported OpenACC,[50] in part due to its usage in the ICON climate simulation code.[51]
+In April 2012, Cray announced the sale of its interconnect hardware development program and related intellectual property to Intel for $140 million.[52][53][54]
+On November 9, 2012, Cray announced the acquisition of Appro International, Inc., a California-based privately held developer of advanced scalable supercomputing solutions.[55] As of 2012 the #3 provider on the Top100 supercomputer list, Appro builds some of the world's most advanced high performance computing (HPC) cluster systems. In 2012, Cray also opened a subsidiary in China.[56]
+
+Subsidiary of Hewlett Packard Enterprise: 2019–present[edit]
+On September 25, 2019, Hewlett Packard Enterprise (HPE) acquired the company for $1.3 billion.[57]
+In October 2020, HPE was awarded the contract to build the pre-exascale EuroHPC computer LUMI, in Kajaani, Finland.[58] The contract, worth €144.5 million, is for an HPE Cray EX system, with a theoretical maximum performance of 550 petaflops. Once fully operational, LUMI will become one of the fastest supercomputers in the world.[59]
+On June 28, 2022, the US National Oceanic and Atmospheric Administration (NOAA) inaugurated the nation’s newest weather and climate supercomputers, two HPE Cray supercomputers installed and operated by General Dynamics (GDIT). Each supercomputer operates at 12.1 petaflops.[60]
+On November 18, 2024, the US National Nuclear Security Administration (NNSA) unveiled an HPE Cray supercomputer for use in nuclear weapons analysis and inertial confinement fusion design.[61] The supercomputer is housed at Lawrence Livermore National Laboratory (LLNL), and was ranked at #1 in the TOP500 supercomputer list in the November 2024 edition.  HPE Cray supercomputers were listed in 7 of the top 10 positions on the list, including the #1, #2, and #3 positions.[62]
+
+References[edit]
+
+
+^ "CRAY INC 2013 Annual Report Form (10-K)" (XBRL). United States Securities and Exchange Commission. February 13, 2014.
+
+^ a b "CRAY INC 2015 Annual Report Form (10-K)" (XBRL). United States Securities and Exchange Commission. February 19, 2015.
+
+^ "CRAY INC 2014 Annual Report Form (10-K)" (XBRL). United States Securities and Exchange Commission. February 19, 2015.
+
+^ "High Performance Computing". Hewlett Packard Enterprise. Retrieved September 2, 2022.
+
+^ "Press Release | Cray Inc. Reports 2017 Full Year and Fourth Quarter Financial Results | Cray Investors: Press Releases". investors.cray.com. Archived from the original on May 17, 2019. Retrieved August 1, 2018.
+
+^ Kardashian, Kirk (August 5, 2015). "Could a 'Moneyball' approach help VCs improve their success rate?". Fortune.
+
+^ "TOP500 Supercomputer Sites". TOP500.
+
+^ "Cray, Form S-3, Filing Date Jan 6, 2003". secdatabase.com.
+
+^ "Where We Are & What We Do: Locations & Products". Cray Inc. Archived from the original on January 3, 2020. Retrieved October 3, 2019.
+
+^ "Worldwide Sales and Service: Contact Information". Cray Inc. Archived from the original on July 29, 2020. Retrieved October 3, 2019.
+
+^ "Cray, Form 8-K, Current Report, Filing Date Apr 17, 2000". secdatabase.com.
+
+^ "HPE is buying Cray for $1.3 billion". TechCrunch. May 17, 2019. Retrieved June 22, 2020.
+
+^ "World's Fastest Supercomputer Runs SUSE Linux". January 7, 2023.
+
+^ Cray-1 Supercomputer 30th Anniversary. Computer History Museum. September 21, 2006.
+
+^ Mallor, Jim (January 3, 1992). "Cray Research names manager of new subsidiary – Floating Point Systems' Martin Buchanan". Newsbytes News Network. Factiva nbyt000020020615do1300048.
+
+^ "CRAY COMPUTER CORP FORM 10-Q DATED SEPT. 30, 1995". U.S. Securities and Exchange Commission.
+
+^ Corcoran, Elizabeth (February 27, 1996). "SILICON GRAPHICS TO ACQUIRE CRAY IN $740 MILLION DEAL". The Washington Post.
+
+^ CROTHERS, BROOKE (February 26, 1996). "SGI buys supercomputer vendor Cray". CNET.
+
+^ "Sun buys Cray unit: Sun Microsystems Inc". Chicago Tribune. May 17, 1996.
+
+^ DiCarlo, Lisa (May 6, 2002). "Sun's Purchase Of Cray's Unix Server Business". Forbes.
+
+^ Pearson, Richard (October 6, 1996). "COMPUTER PIONEER SEYMOUR CRAY DIES". The Washington Post.
+
+^ "SGI UNVEILS CRAY SV1 SERIES VECTOR SUPERCOMPUTER LINE". HPC Wire. June 19, 1998.
+
+^ Clark, Don (March 2, 2000). "Tera Computer Will Acquire Cray In Surprise Bid to Rebuild Industry". The Wall Street Journal.
+
+^ "Cray flogs X1 supercomputer". The Register. November 15, 2002.
+
+^ "Local tech company claims patent infringement". spokesmanreview.com. April 16, 2003. Archived from the original on April 24, 2014. Retrieved April 24, 2014.
+
+^ "Cray settles patent lawsuit". bizjournals.com. August 21, 2003. Retrieved April 24, 2014.
+
+^ Leyden, John (October 5, 2004). "Cray comes to market with XD1". The Register.
+
+^ "Cray Appoints Peter J. Ungaro as Chief Executive Officer" (Press release). Cray Inc. August 8, 2005.
+
+^ "products/xt4/index". cray.com. Archived from the original on June 30, 2007. Retrieved August 1, 2018.
+
+^ "Cray Inc., The Supercomputer Company – Products – XMT". Cray.com. Archived from the original on February 5, 2012. Retrieved March 3, 2012.
+
+^ "Cray's new systems Black Widow and Eldorado on schedule for availability in 2007". Hoise.com. June 29, 2006. Archived from the original on February 17, 2012. Retrieved March 3, 2012.
+
+^ "CSCS Orders First Next-Generation Cray XMT Supercomputer". Archived from the original on April 13, 2020. Retrieved April 27, 2011.
+
+^ "Cray's Adaptive Supercomputing – A Paradigm Shift". HPCwire. Archived from the original on October 24, 2007. Retrieved October 15, 2007.
+
+^ Stokes, Jon (April 29, 2008). "If they mated: Intel and Cray to conceive x86 Linux monster". Ars Technica.
+
+^ "Oak Ridge 'Jaguar' Supercomputer is World's Fastest". Oak Ridge National Laboratories. November 16, 2009.
+
+^ "TOP500: November 2009". TOP500. November 17, 2009.
+
+^ Ogg, Erica (November 16, 2009). "Jaguar supercomputer races past Roadrunner in Top500". CNET.
+
+^ Scott, Steve. "Thinking Ahead: Future Architectures from Cray" (PDF). Archived from the original (PDF) on December 3, 2007. Retrieved October 15, 2007.
+
+^ "Press Release | Cray CX1000 Supercomputer Now Available With the New Intel Xeon Processor 7500 Series | Cray Investors: Press Releases". investors.cray.com. Retrieved August 1, 2018.
+
+^ "Cray launches new supercomputer, starting at $100,000". DatacenterDynamics. March 22, 2010.
+
+^ Buckley, Sean (May 25, 2011). "Cray XK6 supercomputer smashes petaflop record, humbly calls itself a 'general-purpose' machine". Engadget.
+
+^ Shimpi, Anand Lal (October 31, 2012). "Inside the Titan Supercomputer: 299K AMD x86 Cores and 18.6K NVIDIA GPUs". AnandTech.
+
+^ "Oak Ridge Claims No. 1 Position on Latest TOP500 List with Titan". TOP500. December 11, 2012.
+
+^ Sharma, Himank; Prasad, Sakthi (November 14, 2011). "Cray wins $188 million deal to build supercomputer, shares up". Reuters.
+
+^ "Cray, Form 8-K, Current Report, Filing Date Nov 14, 2011". secdatabase.com.
+
+^ "Cray enters the integrated storage market". Primeur Magazine. November 14, 2011.
+
+^ "Cray Sonexion 1300 Launched - Scalable Lustre Storage System [Supercomputing 2011]". Storage Review. November 16, 2011.
+
+^ "NVIDIA, Cray, PGI, CAPS Unveil 'OpenACC' Programming Standard for Parallel Computing" (Press release). NVIDIA. November 14, 2011.
+
+^ "HPC_Guru tweet: Cray's views on #OpenACC vs #OpenMP - John Levesque at the PPP meeting in Denver". Retrieved May 14, 2019.
+
+^ "HPE COMPILER GPU OFFLOADING" (PDF). Retrieved May 11, 2023.
+
+^ "The Good, the Ugly and the Bad: What We Learned from Porting ICON to GPUs" (PDF). Retrieved May 11, 2023.
+
+^ "Cray, Form 8-K, Current Report, Filing Date Apr 25, 2012". secdatabase.com. Retrieved March 29, 2013.
+
+^ "Cray Agrees to Sell Interconnect Hardware Assets to Intel". Archived from the original on May 17, 2019. Retrieved April 25, 2012.
+
+^ Savitz, Eric (April 24, 2012). "Cray To Sell Interconnect Hardware Biz To Intel For $140M". forbes.com. Retrieved September 2, 2022.
+
+^ "Cray, Form 8-K, Current Report, Filing Date Nov 9, 2012". secdatabase.com. Retrieved March 29, 2013.
+
+^ "Supercomputer maker Cray expands in China". GeekWire. February 23, 2012. Retrieved August 1, 2018.
+
+^ "HPE completes acquisition of supercomputing leader Cray Inc" (Press release). Hewlett Packard Enterprise. September 25, 2019.
+
+^ "Hewlett Packard Enterprise wins $160M+ contract to power one of the world's fastest supercomputers based in Finland to bolster Europe's research in science and unlock economic growth". Hewlett Packard Enterprise. Hewlett Packard Enterprise Development LP. October 21, 2020. Retrieved February 13, 2021.
+
+^ "LUMI: a new EuroHPC world-class supercomputer in Finland | European High Performance Computer Joint Undertaking". eurohpc-ju.europa.eu. Archived from the original on June 10, 2021. Retrieved July 13, 2021.
+
+^ "U.S. supercomputers for weather and climate forecasts get major bump" (Press release). NOAA. June 28, 2022.
+
+^ Genkina, Dina (November 19, 2024). "New Fastest Supercomputer Will Simulate Nuke Testing". IEEE Spectrum. Retrieved November 22, 2024.
+
+^ "TOP 500: November 2024". TOP500. Retrieved November 22, 2024.
+
+
+Further reading[edit]
+Murray, Charles J. (1997). The Supermen: The Story of Seymour Cray and the Technical Wizards behind the Supercomputer. New York: John Wiley & Sons. ISBN 0-471-04885-2.
+Barkai, David (2023). Unmatched : 50 years of Supercomputing. New York: CRC Press. ISBN 9780367479619.
+See also[edit]
+
+Companies portalElectronics portal
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Cray.
+
+Official website
+Cray-History.net a comprehensive site with history of machines, sales documents, Cray Channels magazine and FAQ notes
+Cray Manuals Library @ Computing History
+Cray Manuals at bitsavers.org
+Historic Cray Research Marketing Materials at the Computer History Museum
+Cray headquarters is at coordinates 47°36′22″N 122°19′55″W﻿ / ﻿47.6060°N 122.3320°W﻿ / 47.6060; -122.3320
+vteCray computersCray Research
+Cray-1
+Cray X-MP
+Cray-2
+Cray Y-MP
+Cray XMS
+Cray Y-MP EL
+Cray C90
+Cray EL90
+Cray T3D
+Cray J90
+Cray T90
+Cray T3E
+Cray SV1
+Cray Computer Corp.
+Cray-3
+Cray-3/SSS
+Cray-4
+Cray Research Superservers
+Cray APP
+Cray S-MP
+Cray CS6400
+Cray Inc.
+Cray SX-6
+Cray MTA-2
+Cray Red Storm
+Cray X1
+Cray XT3
+Cray XD1
+Cray XT4
+Cray XMT
+Cray XT5
+Cray CX1
+Cray XT6
+Cray XE6
+Cray CX1000
+Cray XK6
+Cray XK7
+Cray XC30
+Cray XC40
+Cray XC50
+Urika-XA
+Urika-GD
+
+vteHewlett-Packard
+HP Inc.
+Hewlett Packard Enterprise
+Founders
+Bill Hewlett
+David Packard
+Directors
+Marc Andreessen
+Mohamed M. Atalla
+Shumeet Banerji
+Raj Gupta
+Raymond J. Lane
+Ann Livermore
+Gary M. Reiner
+Patricia F. Russo (Chairwoman)
+Jim Skinner
+Executive officers
+Meg Whitman
+Todd Bradley
+Dave Donatelli
+Martin Fink
+Henry Gomez
+John Hinshaw
+Marty Homlish
+George Kadifa
+Tracy Keogh
+Cathie Lesjak
+Mike Nefkens
+Antonio Neri
+John F. Schultz
+Bill Veghte
+Computer hardware productsHPEServers
+BladeSystem
+Integrity
+Superdome
+ProLiant
+NonStop
+Storage
+HPE Storage
+HPE XP
+HPE 3PAR
+HP Inc.Business laptops
+ProBook
+EliteBook
+ZBook
+Business desktops
+ProDesk
+EliteDesk
+Z  workstations
+Consumer PCs
+OmniBook
+OMEN
+HP Chromebox
+Consumer electronicsand accessories
+Aruba Networks
+Calculators
+Teradici
+HyperX
+Plantronics
+Photography and printing
+DeskJet
+JetDirect
+LaserJet
+ScanJet
+Scitex
+Photosmart
+
+Other divisions
+Colorado Memory Systems
+Indigo Digital Press
+Scitex
+Systems Insight Manager
+HPE Networking
+Software
+HyperSpace OS
+HP-UX
+HP Data Protector
+NonStop OS
+NonStop SQL
+DiscontinuedproductsCompaq line
+HP Compaq
+HP Compaq Elite
+TC
+Presario
+Evo
+iPAQ
+AlphaServer
+Software
+Domain/OS
+LightScribe
+MPE
+OpenVMS (sold)
+HP QuickPlay
+Tru64 UNIX
+WebOS (sold)
+Services
+HP Cloud
+HP CloudSystem
+HPE Helion
+Hardware
+Jornada
+OmniGo
+iPod+HP
+VoodooPC
+TouchPad
+Internet Advisor
+Pavilion
+Spectre
+ENVY
+Stream
+Essential laptops
+Vectra
+Brio
+Mini
+Slate
+TouchSmart
+Sprout
+NetServer
+Kayak
+Closed divisions
+VoodooPC
+ProCurve
+Sold:
+Palm
+Snapfish
+HP CEOs
+List of HP executives
+Co-founders Bill Hewlett and David Packard
+John A. Young
+Lewis E. Platt
+Carly Fiorina
+Mark Hurd
+Léo Apotheker
+Meg Whitman
+Assets
+HP Garage
+HP Labs
+HP Atalla
+See also
+Acquisitions
+HP spying scandal
+HP Inc. assets
+Products
+Mission: SPACE
+Steve Wozniak
+
+vteSilicon GraphicsCompany
+Silicon Graphics (1981–2009)
+Silicon Graphics International (2009–2016)
+People
+Kurt Akeley
+Rick Belluzzo
+David J. Brown
+James H. Clark
+Paul Haeberli
+Marc Hannah
+Herb Kuta
+Abbey Silverstone
+Acquisitions
+Alias Research
+Cray
+Kroyer Films
+Rhythm & Hues
+Softimage 3D
+Wavefront Technologies
+ComputerarchitecturesMotorola 68000
+SGI IRIS (former models)
+MIPS
+IRIS 4D
+Indigo
+Indigo² and Challenge M
+Indy
+Crimson
+O2
+Octane
+Challenge
+Onyx
+Origin 200
+Origin 2000
+Onyx2
+Origin and Onyx 3000
+Fuel
+Tezro
+IA-32, Itanium, x86-64
+Visual Workstation
+Altix
+Prism
+Virtu
+Graphics hardware
+Geometry Engine
+Elan
+Extreme
+Impact
+VPro
+RealityEngine
+InfiniteReality
+IrisVision
+Reality Coprocessor
+Monitors
+1600SW
+Related technologies
+IRIX
+Image format
+MEX
+WorkSpace
+4Sight
+Interactive Desktop
+Xsgi
+4Dwm
+XFS
+IRIS GL
+OpenGL
+OpenLDI
+GIO
+XIO
+NUMAlink
+Nintendo 64
+
+Authority control databases InternationalISNIVIAFNationalUnited States
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cray&oldid=1286175665"
+Categories: Cray2019 mergers and acquisitionsManufacturing companies based in SeattleCompanies formerly listed on the NasdaqComputer companies established in 1972American companies established in 19721995 initial public offeringsComputer companies of the United StatesComputer hardware companiesComputer systems companiesCray familySilicon GraphicsHewlett-Packard acquisitionsHewlett Packard Enterprise acquisitionsHidden categories: Articles with short descriptionShort description matches WikidataUse mdy dates from May 2020Commons category link is on WikidataOfficial website different in Wikidata and WikipediaPages using gadget WikiMiniAtlas
+
+
+
+
+
+
+ This page was last edited on 18 April 2025, at 06:00 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Cray
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

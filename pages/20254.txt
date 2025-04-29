@@ -1,0 +1,1547 @@
+https://en.wikipedia.org/wiki/Memory_cell_(computing)
+
+
+
+
+Memory cell (computing) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Description
+
+
+
+
+
+
+
+
+2
+Significance
+
+
+
+
+
+
+
+
+3
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+3.1
+MOS memory cells
+
+
+
+
+
+
+
+
+3.2
+Floating-gate MOS memory cells
+
+
+
+
+
+
+
+
+
+
+4
+Implementation
+
+
+
+
+
+
+
+
+5
+Operation
+
+
+
+
+Toggle Operation subsection
+
+
+
+
+
+5.1
+DRAM memory cell
+
+
+
+
+
+
+5.1.1
+Storage
+
+
+
+
+
+
+
+
+5.1.2
+Reading
+
+
+
+
+
+
+
+
+5.1.3
+Writing
+
+
+
+
+
+
+
+
+
+
+5.2
+SRAM memory cell
+
+
+
+
+
+
+5.2.1
+Storage
+
+
+
+
+
+
+
+
+5.2.2
+Reading
+
+
+
+
+
+
+
+
+5.2.3
+Writing
+
+
+
+
+
+
+
+
+
+
+5.3
+Flip-flop
+
+
+
+
+
+
+
+
+5.4
+Floating gate
+
+
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Memory cell (computing)
+
+
+
+11 languages
+
+
+
+
+العربيةCatalàEestiEspañolEuskaraفارسیҚазақшаPortuguêsРусскийУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+Part of computer memory
+Layout for the silicon implementation of a six transistor SRAM memory cell
+Computer memory and data storage types
+General
+Memory cell
+Memory coherence
+Cache coherence
+Memory hierarchy
+Memory access pattern
+Memory map
+Secondary storage
+MOS memory
+floating-gate
+Continuous availability
+Areal density (computer storage)
+Block (data storage)
+Object storage
+Direct-attached storage
+Network-attached storage
+Storage area network
+Block-level storage
+Single-instance storage
+Data
+Structured data
+Unstructured data
+Big data
+Metadata
+Data compression
+Data corruption
+Data cleansing
+Data degradation
+Data integrity
+Data security
+Data validation
+Data validation and reconciliation
+Data recovery
+Storage
+Data cluster
+Directory
+Shared resource
+File sharing
+File system
+Clustered file system
+Distributed file system
+Distributed file system for cloud
+Distributed data store
+Distributed database
+Database
+Data bank
+Data storage
+Data store
+Data deduplication
+Data structure
+Data redundancy
+Replication (computing)
+Memory refresh
+Storage record
+Information repository
+Knowledge base
+Computer file
+Object file
+File deletion
+File copying
+Backup
+Core dump
+Hex dump
+Data communication
+Information transfer
+Temporary file
+Copy protection
+Digital rights management
+Volume (computing)
+Boot sector
+Master boot record
+Volume boot record
+Disk array
+Disk image
+Disk mirroring
+Disk aggregation
+Disk partitioning
+Memory segmentation
+Locality of reference
+Logical disk
+Storage virtualization
+Virtual memory
+Memory-mapped file
+Software entropy
+Software rot
+In-memory database
+In-memory processing
+Persistence (computer science)
+Persistent data structure
+RAID
+Non-RAID drive architectures
+Memory paging
+Bank switching
+Grid computing
+Cloud computing
+Cloud storage
+Fog computing
+Edge computing
+Dew computing
+Amdahl's law
+Moore's law
+Kryder's law
+
+Volatile
+RAM
+Hardware cache
+CPU cache
+Scratchpad memory
+DRAM
+eDRAM
+SDRAM
+SGRAM
+DDR
+GDDR
+LPDDR
+QDRSRAM
+EDO DRAM
+XDR DRAM
+RDRAM
+HBM
+SRAM
+1T-SRAM
+ReRAM
+QRAM
+Content-addressable memory (CAM)
+Computational RAM
+VRAM
+Dual-ported RAM
+Video RAM (dual-ported DRAM)
+
+Historical
+Williams–Kilburn tube (1946–1947)
+Delay-line memory (1947)
+Mellon optical memory (1951)
+Selectron tube (1952)
+Dekatron
+T-RAM (2009)
+Z-RAM (2002–2010)
+
+Non-volatile
+ROM
+Diode matrix
+MROM
+PROM
+EPROM
+EEPROM
+ROM cartridge
+Solid-state storage (SSS)
+Flash memory is used in:
+Solid-state drive (SSD)
+Solid-state hybrid drive (SSHD)
+USB flash drive
+IBM FlashSystem
+Flash Core Module
+Memory card
+Memory Stick
+CompactFlash
+PC Card
+MultiMediaCard
+SD card
+SIM card
+SmartMedia
+Universal Flash Storage
+SxS
+MicroP2
+XQD card
+Programmable metallization cell
+
+NVRAM
+Memistor
+Memristor
+PCM (3D XPoint)
+MRAM
+Electrochemical RAM (ECRAM)
+Nano-RAM
+CBRAM
+
+Early-stage NVRAM
+FeRAM
+ReRAM
+FeFET memory
+
+Analog recording
+Phonograph cylinder
+Phonograph record
+Quadruplex videotape
+Vision Electronic Recording Apparatus
+Magnetic recording
+Magnetic storage
+Magnetic tape
+Magnetic-tape data storage
+Tape drive
+Tape library
+Digital Data Storage (DDS)
+Videotape
+Videocassette
+Cassette tape
+Linear Tape-Open
+Betamax
+8 mm video format
+DV
+MiniDV
+MicroMV
+U-matic
+VHS
+S-VHS
+VHS-C
+D-VHS
+Hard disk drive
+
+Optical
+3D optical data storage
+Optical disc
+LaserDisc
+Compact Disc Digital Audio (CDDA)
+CD
+CD Video
+CD-R
+CD-RW
+Video CD
+Super Video CD
+Mini CD
+Nintendo optical discs
+CD-ROM
+Hyper CD-ROM
+DVD
+DVD+R
+DVD-Video
+DVD card
+DVD-RAM
+MiniDVD
+HD DVD
+Blu-ray
+Ultra HD Blu-ray
+Holographic Versatile Disc
+WORM
+
+In development
+CBRAM
+Racetrack memory
+NRAM
+Millipede memory
+ECRAM
+Patterned media
+Holographic data storage
+Electronic quantum holography
+5D optical data storage
+DNA digital data storage
+Universal memory
+Time crystal
+Quantum memory
+UltraRAM
+
+Historical
+Paper data storage (1725)
+Punched card (1725)
+Punched tape (1725)
+Plugboard
+Drum memory (1932)
+Magnetic-core memory (1949)
+Plated-wire memory (1957)
+Core rope memory (1960s)
+Thin-film memory (1962)
+Disk pack (1962)
+Twistor memory (~1968)
+Bubble memory (~1970)
+Floppy disk (1971)
+vte
+The memory cell is the fundamental building block of computer memory. The memory cell is an electronic circuit that stores one bit of binary information and it must be set to store a logic 1 (high voltage level) and reset to store a logic 0 (low voltage level). Its value is maintained/stored until it is changed by the set/reset process. The value in the memory cell can be accessed by reading it.
+Over the history of computing, different memory cell architectures have been used, including core memory and bubble memory. Today[as of?], the most common memory cell architecture is MOS memory, which consists of metal–oxide–semiconductor (MOS) memory cells. Modern random-access memory (RAM) uses MOS field-effect transistors (MOSFETs) as flip-flops, along with MOS capacitors for certain types of RAM.
+The SRAM (static RAM) memory cell is a type of flip-flop circuit, typically implemented using MOSFETs. These require very low power to maintain the stored value when not being accessed. A second type, DRAM (dynamic RAM), is based on MOS capacitors. Charging and discharging a capacitor can store either a '1' or a '0' in the cell. However, since the charge in the capacitor slowly dissipates, it must be refreshed periodically. Due to this refresh process, DRAM consumes more power, but it can achieve higher storage densities.
+Most non-volatile memory (NVM), on the other hand, is based on floating-gate memory cell architectures. Non-volatile memory technologies such as EPROM, EEPROM, and flash memory utilize floating-gate memory cells, which rely on floating-gate MOSFET transistors.
+
+
+Description[edit]
+The memory cell is the fundamental building block of memory. It can be implemented using different technologies, such as bipolar, MOS, and other semiconductor devices. It can also be built from magnetic material such as ferrite cores or magnetic bubbles.[1] Regardless of the implementation technology used, the purpose of the binary memory cell is always the same. It stores one bit of binary information that can be accessed by reading the cell and it must be set to store a 1 and reset to store a 0.[2]
+
+Significance[edit]
+Square array of DRAM memory cells being read
+Logic circuits without memory cells are called combinational, meaning the output depends only on the present input.
+But memory is a key element of digital systems. In computers, it allows to store both programs and data and memory cells are also used for temporary storage of the output of combinational circuits to be used later by digital systems.
+Logic circuits that use memory cells are called sequential circuits, meaning the output depends not only on the present input, but also on the history of past inputs.
+This dependence on the history of past inputs makes these circuits stateful and it is the memory cells that store this state. 
+These circuits require a timing generator or clock for their operation.[3]
+Computer memory used in most contemporary computer systems is built mainly out of DRAM cells; since the layout is much smaller than SRAM, it can be more densely packed yielding cheaper memory with greater capacity. Since the DRAM memory cell stores its value as the charge of a capacitor, and there are current leakage issues, its value must be constantly rewritten. This is one of the reasons that make DRAM cells slower than the larger SRAM (static RAM) cells, which has its value always available. That is the reason why SRAM memory is used for on-chip cache included in modern microprocessor chips.[4]
+
+History[edit]
+Further information: Computer memory § History
+32x32 core memory plane storing 1024 bits of data
+On December 11, 1946 Freddie Williams applied for a patent on his cathode-ray tube (CRT) storing device (Williams tube) with 128 40-bit words. It was operational in 1947 and is considered the first practical implementation of random-access memory (RAM).[5] In that year, the first patent applications for magnetic-core memory were filed by Frederick Viehe.[6][7] Practical magnetic-core memory was developed by An Wang in 1948, and improved by Jay Forrester and Jan A. Rajchman in the early 1950s, before being commercialised with the Whirlwind computer in 1953.[8] Ken Olsen also contributed to its development.[9]
+Semiconductor memory began in the early 1960s with bipolar memory cells, made of bipolar transistors. While it improved performance, it could not compete with the lower price of magnetic-core memory.[10]
+
+MOS memory cells[edit]
+Further information: Semiconductor memory and Random-access memory § History
+Intel 1103, a 1970 metal-oxide-semiconductor (MOS) dynamic random-access memory (DRAM) chip
+In 1957, Frosch and Derick were able to manufacture the first silicon dioxide field effect transistors at Bell Labs, the first transistors in which drain and source were adjacent at the surface.[11] Subsequently, a team demonstrated a working MOSFET at Bell Labs 1960.[12][13] The invention of the MOSFET enabled the practical use of metal–oxide–semiconductor (MOS) transistors as memory cell storage elements, a function previously served by magnetic cores.[14]
+The first modern memory cells were introduced in 1964, when John Schmidt designed the first 64-bit p-channel MOS (PMOS) static random-access memory (SRAM).[15][16]
+SRAM typically has six-transistor cells, whereas DRAM (dynamic random-access memory) typically has single-transistor cells.[17][15] In 1965, Toshiba's Toscal BC-1411 electronic calculator used a form of capacitive bipolar DRAM, storing 180-bit data on discrete memory cells, consisting of germanium bipolar transistors and capacitors.[18][19] MOS technology is the basis for modern DRAM. In 1966, Robert H. Dennard at the IBM Thomas J. Watson Research Center was working on MOS memory. While examining the characteristics of MOS technology, he found it was capable of building capacitors, and that storing a charge or no charge on the MOS capacitor could represent the 1 and 0 of a bit, while the MOS transistor could control writing the charge to the capacitor. This led to his development of a single-transistor DRAM memory cell.[20] In 1967, Dennard filed a patent for a single-transistor DRAM memory cell, based on MOS technology.[21]
+The first commercial bipolar 64-bit SRAM was released by Intel in 1969 with the 3101 Schottky TTL. One year later, it released the first DRAM integrated circuit chip, the Intel 1103, based on MOS technology. By 1972, it beat previous records in semiconductor memory sales.[22] DRAM chips during the early 1970s had three-transistor cells, before single-transistor cells became standard since the mid-1970s.[17][15]
+CMOS memory was commercialized by RCA, which launched a 288-bit CMOS SRAM memory chip in 1968.[23] CMOS memory was initially slower than NMOS memory, which was more widely used by computers in the 1970s.[24] In 1978, Hitachi introduced the twin-well CMOS process, with its HM6147 (4 kb SRAM) memory chip, manufactured with a 3 μm process. The HM6147 chip was able to match the performance of the fastest NMOS memory chip at the time, while the HM6147 also consumed significantly less power. With comparable performance and much less power consumption, the twin-well CMOS process eventually overtook NMOS as the most common semiconductor manufacturing process for computer memory in the 1980s.[24]
+The two most common types of DRAM memory cells since the 1980s have been trench-capacitor cells and stacked-capacitor cells.[25] Trench-capacitor cells are where holes (trenches) are made in a silicon substrate, whose side walls are used as a memory cell, whereas 
+stacked-capacitor cells are the earliest form of three-dimensional memory (3D memory), where memory cells are stacked vertically in a three-dimensional cell structure.[26] Both debuted in 1984, when Hitachi introduced trench-capacitor memory and Fujitsu introduced stacked-capacitor memory.[25]
+
+Floating-gate MOS memory cells[edit]
+See also: Floating-gate MOSFET and Nonvolatile memory
+The floating-gate MOSFET (FGMOS) was invented by Dawon Kahng and Simon Sze at Bell Labs in 1967.[27] They proposed the concept of floating-gate memory cells, using FGMOS transistors, which could be used to produce reprogrammable ROM (read-only memory).[28] Floating-gate memory cells later became the basis for non-volatile memory (NVM) technologies including EPROM (erasable programmable ROM), EEPROM (electrically erasable programmable ROM) and flash memory.[29]
+Flash memory was invented by Fujio Masuoka at Toshiba in 1980.[30][31] Masuoka and his colleagues presented the invention of NOR flash in 1984,[32] and then NAND flash in 1987.[33] Multi-level cell (MLC) flash memory was introduced by NEC, which demonstrated quad-level cells in a 64 Mb flash chip storing 2-bit per cell in 1996.[25] 3D V-NAND, where flash memory cells are stacked vertically using 3D charge trap flash (CTP) technology, was first announced by Toshiba in 2007,[34] and first commercially manufactured by Samsung Electronics in 2013.[35][36]
+
+Implementation[edit]
+The following schematics detail the three most used implementations for memory cells: 
+
+The dynamic random access memory cell (DRAM);
+The static random access memory cell (SRAM);
+Flip-flops like the J/K shown below, using only logic gates.
+
+
+DRAM cell (1 transistor and one capacitor)
+SRAM cell (6 transistors)
+Clocked J/K flip-flop
+
+Operation[edit]
+DRAM memory cell[edit]
+Die of the MT4C1024 (1994) integrating one-mebibit of DRAM memory cells
+Storage[edit]
+The storage element of the DRAM memory cell is the capacitor labeled (4) in the diagram above. The charge stored in the capacitor degrades over time, so its value must be refreshed (read and rewritten) periodically. The nMOS transistor (3) acts as a gate to allow reading or writing when open or storing when closed.[37]
+Reading[edit]
+For reading the Word line (2) drives a logic 1 (voltage high) into the gate of the nMOS transistor (3) which makes it conductive and the charge stored at the capacitor (4) is then transferred to the bit line (1). The bit line will have a parasitic capacitance (5) that will drain part of the charge and slow the reading process. The capacitance of the bit line will determine the needed size of the storage capacitor (4). It is a trade-off. If the storage capacitor is too small, the voltage of the bit line would take too much time to raise or not even rise above the threshold needed by the amplifiers at the end of the bit line. Since the reading process degrades the charge in the storage capacitor (4) its value is rewritten after each read.[38]
+Writing[edit]
+The writing process is the easiest, the desired value logic 1 (high voltage) or logic 0 (low voltage) is driven into the bit line. The word line activates the nMOS transistor (3) connecting it to the storage capacitor (4). The only issue is to keep it open enough time to ensure that the capacitor is fully charged or discharged before turning off the nMOS transistor (3).[38]
+SRAM memory cell[edit]
+SRAM memory cell depicting Inverter Loop as gates
+An animated SR latch. Black and white mean logical '1' and '0', respectively. (A) S = 1, R = 0: set  (B) S = 0, R = 0: hold  (C) S = 0, R = 1: reset  (D) S = 1, R = 1: not allowed  Transitioning from the restricted combination (D) to (A) leads to an unstable state.
+Storage[edit]
+The working principle of SRAM memory cell can be easier to understand if the transistors M1 through M4 are drawn as logic gates. That way it is clear that at its heart, the cell storage is built by using two cross-coupled inverters. This simple loop creates a bi-stable circuit. A logic 1 at the input of the first inverter turns into a 0 at its output, and it is fed into the second inverter which transforms that logic 0 back to a logic 1 feeding back the same value to the input of the first inverter. That creates a stable state that does not change over time. Similarly the other stable state of the circuit is to have a logic 0 at the input of the first inverter. After being inverted twice it will also feedback the same value.[39]
+Therefore there are only two stable states that the circuit can be in:
+
+
+
+
+
+Q
+
+
+
+{\displaystyle \scriptstyle Q}
+
+ = 0 and   
+
+
+
+
+
+
+Q
+¯
+
+
+
+
+
+{\displaystyle \scriptstyle {\overline {Q}}}
+
+ = 1
+
+
+
+
+
+Q
+
+
+
+{\displaystyle \scriptstyle Q}
+
+ = 1 and   
+
+
+
+
+
+
+Q
+¯
+
+
+
+
+
+{\displaystyle \scriptstyle {\overline {Q}}}
+
+ = 0
+Reading[edit]
+To read the contents of the memory cell stored in the loop, the transistors M5 and M6 must be turned on. when they receive voltage to their gates from the word line (
+
+
+
+
+W
+L
+
+
+
+{\displaystyle \scriptstyle WL}
+
+), they become conductive and so the 
+
+
+
+
+Q
+
+
+
+{\displaystyle \scriptstyle Q}
+
+ and  
+
+
+
+
+
+
+Q
+¯
+
+
+
+
+
+{\displaystyle \scriptstyle {\overline {Q}}}
+
+  values get transmitted to the bit line (
+
+
+
+
+B
+L
+
+
+
+{\displaystyle \scriptstyle BL}
+
+) and to its complement (
+
+
+
+
+
+
+
+B
+L
+
+¯
+
+
+
+
+
+{\displaystyle \scriptstyle {\overline {BL}}}
+
+).[39] Finally this values get amplified at the end of the bit lines.[39]
+Writing[edit]
+The writing process is similar, the difference is that now the new value that will be stored in the memory cell is driven into the bit line (
+
+
+
+
+B
+L
+
+
+
+{\displaystyle \scriptstyle BL}
+
+) and the inverted one into its complement (
+
+
+
+
+
+
+
+B
+L
+
+¯
+
+
+
+
+
+{\displaystyle \scriptstyle {\overline {BL}}}
+
+). Next transistors M5 and M6 are open by driving a logic 1 (voltage high) into the word line (
+
+
+
+
+W
+L
+
+
+
+{\displaystyle \scriptstyle WL}
+
+). This effectively connects the bit lines to the by-stable inverter loop. There are two possible cases:
+If the value of the loop is the same as the new value driven, there is no change;
+if the value of the loop is different from the new value driven there are two conflicting values, in order for the voltage in the bit lines to overwrite the output of the inverters, the size of the M5 and M6 transistors must be larger than that of the M1-M4 transistors. This allows more current to flow through first ones and therefore tips the voltage in the direction of the new value, at some point the loop will then amplify this intermediate value to full rail.[39]
+Flip-flop[edit]
+Main article: Flip-flop (electronics)
+The flip-flop has many different implementations, its storage element is usually a latch consisting of a NAND gate loop or a NOR gate loop with additional gates used to implement clocking. Its value is always available for reading as an output. The value remains stored until it is changed through the set or reset process. Flip-flops are typically implemented using MOSFETs.
+
+Floating gate[edit]
+A flash memory cell
+See also: Floating-gate MOSFET and Charge trap flash
+Floating-gate memory cells, based on floating-gate MOSFETs, are used for most non-volatile memory (NVM) technologies, including EPROM, EEPROM and flash memory.[29] According to R. Bez and A. Pirovano:
+
+A floating-gate memory cell is basically an MOS transistor with a gate completely surrounded by dielectrics (Fig. 1.2), the floating-gate (FG), and electrically governed by a capacitive-coupled control-gate (CG). Being electrically isolated, the FG acts as the storing electrode for the cell device. Charge injected into the FG is maintained there, allowing modulation of the ‘apparent’ threshold voltage (i.e. VT seen from the CG) of the cell transistor.[29]
+See also[edit]
+Dynamic random-access memory
+Flip-flop (electronics)
+Row hammer
+Static random-access memory
+References[edit]
+
+
+^ D. Tang, Denny; Lee, Yuan-Jen (2010). Magnetic memory: Fundamentals and technology. Cambridge University Press. p. 91. ISBN 978-1139484497. Retrieved 13 December 2015.
+
+^ Fletcher, William (1980). An engineering approach to digital design. Prentice-Hall. p. 283. ISBN 0-13-277699-5.
+
+^ Microelectronic circuits (Second ed.). Holt, Rinehart and Winston, Inc. 1987. p. 883. ISBN 0-03-007328-6.
+
+^ "The technical question: the cache, how does it work?". PC World Fr (in French). Archived from the original on 30 March 2014.
+
+^ O’Regan, Gerard (2013). Giants of computing: A compendium of select, pivotal pioneers. Springer. p. 267. ISBN 978-1447153405. Retrieved 13 December 2015.
+
+^ Reilly, Edwin D. (2003). Milestones in computer science and information technology. Greenwood publishing group. p. 164. ISBN 9781573565219.
+
+^ W. Pugh, Emerson; R. Johnson, Lyle; H. Palmer, John (1991). IBM's 360 and early 370 systems. MIT Press. p. 706. ISBN 0262161230. Retrieved 9 December 2015.
+
+^ "1953: Whirlwind computer debuts core memory". Computer History Museum. Retrieved 2 August 2019.
+
+^ Taylor, Alan (18 June 1979). Computerworld: Mass. Town has become computer capital. IDG Enterprise. p. 25.
+
+^ "1966: Semiconductor RAMs serve high-speed storage needs". Computer History Museum. Retrieved 19 June 2019.
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Berlin, Heidelberg: Springer-Verlag Berlin Heidelberg. p. 321. ISBN 978-3-540-34258-8.
+
+^ "Transistors - an overview". ScienceDirect. Retrieved 8 August 2019.
+
+^ a b c "1970: Semiconductors compete with magnetic cores". Computer history museum. Retrieved 19 June 2019.
+
+^ Solid state design - vol. 6. Horizon house. 1965.
+
+^ a b "Late 1960s: Beginnings of MOS memory" (PDF). Semiconductor history museum of Japan. 23 January 2019. Retrieved 27 June 2019.
+
+^ "Spec sheet for Toshiba "TOSCAL" BC-1411". Old calculator web museum. Archived from the original on 3 July 2017. Retrieved 8 May 2018.
+
+^ "Toshiba "Toscal" BC-1411 desktop calculator". Archived from the original on 20 May 2007.
+
+^ "DRAM". IBM100. IBM. 9 August 2017. Retrieved 20 September 2019.
+
+^ "Robert Dennard". Encyclopædia Britannica. Retrieved 8 July 2019.
+
+^ Kent, Allen; Williams, James G. (6 January 1992). Encyclopedia of microcomputers: volume 9 - Icon programming language to knowledge-based systems: APL techniques. CRC press. p. 131. ISBN 9780824727086.
+
+^ "1963: Complementary MOS circuit configuration is invented". Computer history museum. Retrieved 6 July 2019.
+
+^ a b "1978: Double-well fast CMOS SRAM (Hitachi)" (PDF). Semiconductor history museum of Japan. Archived (PDF) from the original on 5 July 2019. Retrieved 5 July 2019.
+
+^ a b c "Memory". Semiconductor technology online (STOL). Retrieved 25 June 2019.
+
+^ "1980s: DRAM capacity increases, the shift to CMOS advances, and Japan dominates the market" (PDF). Semiconductor history museum of Japan. Retrieved 19 July 2019.
+
+^ Kahng, D.; Sze, S.M. (1967). "A floating-gate and its application to memory devices". The Bell System Technical Journal. 46 (6): 1288–95. doi:10.1002/j.1538-7305.1967.tb01738.x.
+
+^ "1971: Reusable semiconductor ROM introduced". Computer history museum. Retrieved 19 June 2019.
+
+^ a b c Bez, R.; Pirovano, A. (2019). Advances in non-volatile memory and storage technology. Woodhead Publishing. ISBN 9780081025857.
+
+^ Fulford, Benjamin (24 June 2002). "Unsung hero". Forbes. Archived from the original on 3 March 2008. Retrieved 18 March 2008.
+
+^ US 4531203  Fujio Masuoka
+
+^ "Toshiba: Inventor of flash memory". Toshiba. Archived from the original on 20 June 2019. Retrieved 20 June 2019.
+
+^ Masuoka, F.; Momodomi, M.; Iwata, Y.; Shirota, R. (1987). "New ultra high density EPROM and flash EEPROM with NAND structure cell". Electron Devices Meeting, 1987 International. IEDM 1987. IEEE. doi:10.1109/IEDM.1987.191485.
+
+^ "Toshiba announces new "3D" NAND flash technology". Engadget. 12 June 2007. Retrieved 10 July 2019.
+
+^ "Samsung introduces world's first 3D V-NAND based SSD for enterprise applications". Samsung semiconductor global website. Archived from the original on 15 April 2021.
+
+^ Clarke, Peter (2013). "Samsung confirms 24 layers in 3D NAND". EE Times.
+
+^ Jacob, Bruce; Ng, Spencer; Wang, David (28 July 2010). Memory systems: Cache, DRAM, disk. Morgan Kaufmann. p. 355. ISBN 9780080553849.
+
+^ a b Siddiqi, Muzaffer A. (19 December 2012). Dynamic RAM: Technology advancements. CRC Press. p. 10. ISBN 9781439893739.
+
+^ a b c d Li, Hai; Chen, Yiran (19 April 2016). Nonvolatile memory design: Magnetic, resistive, and phase change. CRC press. pp. 6, 7. ISBN 9781439807460.
+
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal-oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck–boost
+Split-pi
+Ćuk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Memory_cell_(computing)&oldid=1248363738"
+Categories: Computer memoryDigital electronicsDigital systemsElectronic engineeringMOSFETsHidden categories: CS1 French-language sources (fr)CS1 errors: ISBN dateUse American English from April 2019All Wikipedia articles written in American EnglishArticles with short descriptionShort description is different from WikidataAll articles with vague or ambiguous timeVague or ambiguous time from September 2023
+
+
+
+
+
+
+ This page was last edited on 29 September 2024, at 03:14 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Memory cell (computing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

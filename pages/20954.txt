@@ -1,0 +1,1283 @@
+https://en.wikipedia.org/wiki/Integrated_development_environment
+
+
+
+
+Integrated development environment - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+Topics
+
+
+
+
+Toggle Topics subsection
+
+
+
+
+
+3.1
+Syntax highlighting
+
+
+
+
+
+
+
+
+3.2
+Code completion
+
+
+
+
+
+
+3.2.1
+Intelligent code completion
+
+
+
+
+
+
+
+
+
+
+3.3
+Refactoring
+
+
+
+
+
+
+
+
+3.4
+Version control
+
+
+
+
+
+
+
+
+3.5
+Debugging
+
+
+
+
+
+
+
+
+3.6
+Code search
+
+
+
+
+
+
+
+
+3.7
+Visual programming
+
+
+
+
+
+
+
+
+3.8
+Language support
+
+
+
+
+
+
+
+
+3.9
+Implementation
+
+
+
+
+
+
+
+
+3.10
+Attitudes across different computing platforms
+
+
+
+
+
+
+
+
+
+
+4
+Online
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Integrated development environment
+
+
+
+55 languages
+
+
+
+
+العربيةAsturianuAzərbaycancaবাংলা閩南語 / Bân-lâm-gúБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançais한국어हिन्दीIdoBahasa IndonesiaItalianoעבריתქართულიҚазақшаລາວLietuviųMagyarമലയാളംBahasa MelayuNederlands日本語Norsk bokmålOʻzbekcha / ўзбекчаភាសាខ្មែរPolskiPortuguêsQaraqalpaqshaRomânăРусскийShqipSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSuomiSvenskaதமிழ்ไทยTürkçeУкраїнськаTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Software engineering toolkit
+This article is about software development. For the PC storage connector, see Parallel ATA.
+
+
+Part of a series onSoftware development
+Core activities
+Data modeling
+Processes
+Requirements
+Design
+Construction
+Engineering
+Testing
+Debugging
+Deployment
+Maintenance
+
+Paradigms and models
+Agile
+Cleanroom
+Incremental
+Prototyping
+Spiral
+V model
+Waterfall
+
+Methodologies and frameworks
+ASD
+DAD
+DevOps
+DSDM
+FDD
+IID
+Kanban
+Lean SD
+LeSS
+MDD
+MSF
+PSP
+RAD
+RUP
+SAFe
+Scrum
+SEMAT
+TDD
+TSP
+UP
+XP
+
+Supporting disciplines
+Configuration management
+Deployment management
+Documentation
+Project management
+Quality assurance
+User experience
+
+Practices
+ATDD
+BDD
+CCO
+CD
+CI
+DDD
+PP
+SBE
+Stand-up
+TDD
+
+Tools
+Build automation
+Compiler
+Debugger
+GUI builder
+IDE
+Infrastructure as code
+Profiler
+Release automation
+UML Modeling
+
+Standards and bodies of knowledge
+CMMI
+IEEE standards
+IREB
+ISO 9001
+ISO/IEC standards
+ITIL
+OMG
+PMBOK
+SWEBOK
+
+Glossaries
+Artificial intelligence
+Computer science
+Electrical and electronics engineering
+
+Outlines
+Outline of software development
+vte
+An integrated development environment (IDE) is a software application that provides comprehensive facilities for software development. An IDE normally consists of at least a source-code editor, build automation tools, and a debugger. Some IDEs, such as IntelliJ IDEA, Eclipse and Lazarus contain the necessary compiler, interpreter or both; others, such as SharpDevelop and NetBeans, do not.
+The boundary between an IDE and other parts of the broader software development environment is not well-defined; sometimes a version control system or various tools to simplify the construction of a graphical user interface (GUI) are integrated. Many modern IDEs also have a class browser, an object browser, and a class hierarchy diagram for use in object-oriented software development.
+
+
+Overview[edit]
+Vim with integrated auto-completion and linting through an external plugin
+Integrated development environments are designed to maximize programmer productivity by providing tight-knit components with similar user interfaces. IDEs present a single program in which all development is done. This program typically provides many features for authoring, modifying, compiling, deploying and debugging software. This contrasts with software development using unrelated tools, such as vi, GDB, GNU Compiler Collection, or make.
+One aim of the IDE is to reduce the configuration necessary to piece together multiple development utilities. Instead, it provides the same set of capabilities as one cohesive unit. Reducing setup time can increase developer productivity, especially in cases where learning to use the IDE is faster than manually integrating and learning all of the individual tools. Tighter integration of all development tasks has the potential to improve overall productivity beyond just helping with setup tasks. For example, code can be continuously parsed while it is being edited, providing instant feedback when syntax errors are introduced, thus allowing developers to debug code much faster and more easily with an IDE.
+Some IDEs are dedicated to a specific programming language, allowing a feature set that most closely matches the programming paradigms of the language. However, there are many multiple-language IDEs.
+While most modern IDEs are graphical, text-based IDEs such as Turbo Pascal were in popular use before the availability of windowing systems like Microsoft Windows and the X Window System (X11). They commonly use function keys or hotkeys to execute frequently used commands or macros.
+
+History[edit]
+GNU Emacs, an extensible editor that is commonly used as an IDE on Unix-like systems
+IDEs initially became possible when developing via a console or terminal. Early systems could not support one, since programs were submitted to a compiler or assembler via punched cards, paper tape, etc. Dartmouth BASIC was the first language to be created with an IDE (and was also the first to be designed for use while sitting in front of a console or terminal).[citation needed] Its IDE (part of the Dartmouth Time-Sharing System) was command-based, and therefore did not look much like the menu-driven, graphical IDEs popular after the advent of the graphical user interface. However it integrated editing, file management, compilation, debugging and execution in a manner consistent with a modern IDE.
+Maestro I is a product from Softlab Munich and was the world's first integrated development environment[1] for software. Maestro I was installed for 22,000 programmers worldwide. Until 1989, 6,000 installations existed in the Federal Republic of Germany. Maestro was arguably the world leader in this field during the 1970s and 1980s. Today one of the last Maestro I can be found in the Museum of Information Technology at Arlington in Texas.
+One of the first IDEs with a plug-in concept was Softbench. In 1995 Computerwoche commented that the use of an IDE was not well received by developers since it would fence in their creativity.
+As of August 2023[update], the most commonly searched for IDEs on Google Search were Visual Studio, Visual Studio Code, and Eclipse.[2]
+
+Topics[edit]
+Syntax highlighting[edit]
+Main article: Syntax highlighting
+The IDE editor usually provides syntax highlighting, it can show both the structures, the language keywords and the syntax errors with visually distinct colors and font effects.[3]
+
+Code completion[edit]
+Code completion is an important IDE feature, intended to speed up programming. Modern IDEs even have intelligent code completion.
+
+Intelligent code completion[edit]
+This section is an excerpt from Code completion.[edit]
+Code completion in Visual Studio 2008
+Code completion is an autocompletion feature in many integrated development environments (IDEs) that speeds up the process of coding applications by fixing common mistakes and suggesting lines of code. This usually happens through popups while typing, querying parameters of functions, and query hints related to syntax errors. Modern code completion software typically uses generative artificial intelligence systems to predict lines of code. Code completion and related tools serve as documentation and disambiguation for variable names, functions, and methods, using static analysis.[4][5]
+
+The feature appears in many programming environments.[6][7] Implementations include IntelliSense in Visual Studio Code. The term was originally popularized as "picklist" and some implementations still refer to it as such.[8]
+Refactoring[edit]
+Advanced IDEs provide support for automated refactoring.[3]
+
+Version control[edit]
+An IDE is expected to provide integrated version control, in order to interact with source repositories.[3]
+
+Debugging[edit]
+IDEs are also used for debugging, using an integrated debugger, with support for setting breakpoints in the editor, visual rendering of steps, etc.[9]
+
+Code search[edit]
+IDEs may provide support for code search. Code search has two different meanings. First, it means searching for class and function declarations, usages, variable and field read/write, etc. IDEs can use different kinds of user interface for code search, for example form-based widgets[10] and natural-language based interfaces.
+Second, it means searching for a concrete implementation of some specified functionality.[11]
+
+Visual programming[edit]
+Visual programming is a usage scenario in which an IDE is generally required. Visual Basic allows users to create new applications by moving programming, building blocks, or code nodes to create flowcharts or structure diagrams that are then compiled or interpreted. These flowcharts often are based on the Unified Modeling Language.
+This interface has been popularized with the Lego Mindstorms system and is being actively perused by a number of companies wishing to capitalize on the power of custom browsers like those found at Mozilla. KTechlab supports flowcode and is a popular open-source IDE and Simulator for developing software for microcontrollers. Visual programming is also responsible for the power of distributed programming (cf. LabVIEW and EICASLAB software). An early visual programming system, Max, was modeled after an analog synthesizer design and has been used to develop real-time music performance software since the 1980s. Another early example was Prograph, a dataflow-based system originally developed for the Macintosh. The graphical programming environment "Grape" is used to program qfix robot kits.
+This approach is also used in specialist software such as Openlab, where the end-users want the flexibility of a full programming language, without the traditional learning curve associated with one.
+
+Language support[edit]
+Some IDEs support multiple languages, such as GNU Emacs, IntelliJ IDEA, Eclipse, MyEclipse, NetBeans, MonoDevelop, JDoodle or PlayCode.
+Support for alternative languages is often provided by plugins, allowing them to be installed on the same IDE at the same time. For example, Flycheck is a modern on-the-fly syntax checking extension for GNU Emacs 24 with support for 39 languages.[12] Another example is JDoodle, an online cloud-based IDE that supports 88 languages.[1] Eclipse, and Netbeans have plugins for C/C++, Ada, GNAT (for example AdaGIDE), Perl, Python, Ruby, and PHP, which are selected between automatically based on file extension, environment or project settings.
+
+Implementation[edit]
+IDEs can be implemented in various languages, for example:
+
+GNU Emacs using Emacs Lisp and C;
+IntelliJ IDEA, Eclipse and NetBeans, using Java;
+MonoDevelop using C#.
+Attitudes across different computing platforms[edit]
+Unix programmers can combine command-line POSIX tools into a complete development environment, capable of developing large programs such as the Linux kernel and its environment.[13] In this sense, the entire Unix system functions as an IDE.[14] The free software GNU toolchain (including GNU Compiler Collection (GCC), GNU Debugger (GDB), and GNU make) is available on many platforms, including Windows.[15] The pervasive Unix philosophy of "everything is a text stream" enables developers who favor command-line oriented tools to use editors with support for many of the standard Unix and GNU build tools, building an IDE with programs like
+Emacs[16][17][18]
+or Vim. Data Display Debugger is intended to be an advanced graphical front-end for many text-based debugger standard tools. Some programmers prefer managing makefiles and their derivatives to the similar code building tools included in a full IDE. For example, most contributors to the PostgreSQL database use make and GDB directly to develop new features.[19] Even when building PostgreSQL for Microsoft Windows using Visual C++, Perl scripts are used as a replacement for make rather than relying on any IDE features.[20] Some Linux IDEs such as Geany attempt to provide a graphical front end to traditional build operations.
+On the various Microsoft Windows platforms, command-line tools for development are seldom used. Accordingly, there are many commercial and non-commercial products. However, each has a different design commonly creating incompatibilities. Most major compiler vendors for Windows still provide free copies of their command-line tools, including Microsoft (Visual C++, Platform SDK, .NET Framework SDK, nmake utility).
+IDEs have always been popular on the Apple Macintosh's classic Mac OS and macOS, dating back to Macintosh Programmer's Workshop, Turbo Pascal, THINK Pascal and THINK C environments of the mid-1980s. Currently macOS programmers can choose between native IDEs like Xcode and open-source tools such as Eclipse and Netbeans. ActiveState Komodo is a proprietary multilanguage IDE supported on macOS.
+
+Online[edit]
+Main article: Online integrated development environment
+An online integrated development environment, also known as a web IDE or cloud IDE, is a browser based IDE that allows for software development or web development.[21] An online IDE can be accessed from a web browser, allowing for a portable work environment. An online IDE does not usually contain all of the same features as a traditional or desktop IDE although all of the basic IDE features, such as syntax highlighting, are typically present.
+A Mobile-Based Integrated Development Environment (IDE) is a software application that provides a comprehensive suite of tools for software development on mobile platforms. Unlike traditional desktop IDEs, mobile-based IDEs are designed to run on smartphones and tablets, allowing developers to write, debug, and deploy code directly from their mobile devices.
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Integrated development environments.
+
+
+Computer programming portal
+
+Comparison of integrated development environments
+Collaborative development environment (CDE)
+Computer-aided software engineering (CASE)
+Game integrated development environment
+Software engine
+Multiple document interface § IDE-style interface (MDI)
+Rapid application development (RAD)
+Read–Eval–Print Loop (REPL)
+Notebook interface
+Code analysis tools
+Source code refactoring tools
+Software building tools (the compiler, linker, etc., and the build automation tool used to control them)
+Version control, also called source repository (configuration management)
+Language Server Protocol
+Structured Programming Facility
+Transportable Applications Environment
+References[edit]
+
+
+^ "Interaktives Programmieren als Systems-Schlager" from Computerwoche (German)
+
+^ "TOP IDE Top Integrated Development Environment index". pypl.github.io. Retrieved 8 August 2023.
+
+^ a b c "Course CS350 Integrated Development Environments". cs.odu.edu. Old Dominion University. Retrieved 10 October 2018.
+
+^ Robbes, Romain; Lanza, Michele (2008). "How Program History Can Improve Code Completion". 2008 23rd IEEE/ACM International Conference on Automated Software Engineering. pp. 317–326. doi:10.1109/ASE.2008.42. ISBN 978-1-4244-2187-9. S2CID 2093640.
+
+^ "Code Completion, Episode 1: Scenarios and Requirements". The JetBrains Blog. 28 May 2021. Retrieved 17 November 2023.
+
+^ FAQ - CodeBlocks. Wiki.codeblocks.org (2014-02-01). Retrieved on 2014-04-04.
+
+^ Qt Documentation - Completing Code.  Retrieved on 2015-07-07.
+
+^ Using Dynamic Apex to retrieve Picklist Values | Developer Force Blog. Blogs.developerforce.com (2008-12-09). Retrieved on 2014-04-04.
+
+^ "Programming software and the IDE". BBC Bitesize. Archived from the original on 9 October 2018. Retrieved 10 October 2018.
+
+^ "Eclipse Cookbook - Searching Code". O’Reilly.
+
+^ Stolee, Kathryn T.; Elbaum, Sebastian; Dobos, Daniel (2014). "Solving the Search for Source Code". ACM Transactions on Software Engineering and Methodology. 23 (3): 1–45. doi:10.1145/2581377. ISSN 1049-331X. S2CID 8558710.
+
+^ "Introduction - Flycheck 0.18-cvs". Read the Docs. Archived from the original on 10 March 2014. Retrieved 10 March 2014.
+
+^ 
+Rehman, Christopher Paul, Christopher R. Paul.
+"The Linux Development Platform: Configuring, Using and Maintaining a Complete Programming Environment".
+2002.
+ISBN 0-13-009115-4
+
+^ "UnixIsAnIde".
+
+^ ""Use Emacs with Microsoft Visual C++ ... use Emacs as an IDE"". Archived from the original on 4 July 2013.
+
+^ "Emacs: the Free Software IDE | Linux Journal". www.linuxjournal.com.
+
+^ "The Common Lisp Cookbook - Using Emacs as a Lisp IDE". cl-cookbook.sourceforge.net.
+
+^ "Emacs as a Perl IDE". obsidianrook.com. Archived from the original on 21 May 2016. Retrieved 11 May 2011.
+
+^ "Developer FAQ - PostgreSQL wiki". wiki.postgresql.org.
+
+^ "Chapter 18. Installation from Source Code on Windows". PostgreSQL Documentation. 29 September 2021.
+
+^ "Web-based vs. desktop-based Tools – EclipseSource". eclipsesource.com. 19 June 2018.
+
+
+vteIntegrated development environmentsC, C++Open source
+Arduino IDE
+Code::Blocks
+CodeLite
+Dev-C++
+Eclipse
+Emacs
+Geany
+GNOME Builder
+Kakoune
+KDevelop
+NetBeans
+QDevelop
+Qt Creator
+TheIDE
+Vi–Vim
+OpenWatcom
+Freeware
+DevEco Studio
+Oracle Developer Studio
+Visual Studio Code
+Visual Studio Community
+Xcode
+Retail
+C++Builder
+Eclipse-based
+CodeWarrior
+MyEclipse
+Visual Studio
+By JetBrains
+IntelliJ IDEA
+CLion
+LabWindows/CVI
+IBM Rational Software Architect
+Understand
+SlickEdit
+Discontinued
+Anjuta
+By JetBrains
+AppCode
+VisualAge
+Visual C++ Express
+MonoDevelop
+SharpDevelop
+Borland Turbo C, C++
+QuickC
+JavaOpen source
+Anjuta
+BlueJ
+DrJava
+Eclipse
+Geany
+Greenfoot
+IntelliJ IDEA Community Edition
+Android Studio
+NetBeans
+DevEco Studio
+Freeware
+jGRASP
+JDeveloper
+Retail
+JCreator
+MyEclipse
+JetBrains IntelliJ IDEA
+SlickEdit
+Understand
+Discontinued
+Metrowerks CodeWarrior Pro for Java
+JBuilder
+Sun Java Studio Creator (superseded by NetBeans)
+VisualAge (superseded by Eclipse)
+Visual Café (aka Espresso, superseded by JBuilder)
+Visual J++
+Xelfi (became NetBeans)
+JavaScriptOpen source
+Vim
+Visual Studio Code
+Atom
+Chromium
+DevEco Studio
+CLI (.NET)Open source
+Visual Studio Code
+PascalABC.NET
+Freeware
+Visual Studio Community
+Retail
+Visual Studio
+Rider
+Understand
+Discontinued
+Xamarin Studio
+MonoDevelop
+SharpDevelop
+Visual Basic Express
+Visual Web Developer Express
+Visual J# Express
+Visual Studio Express for Windows Phone
+Visual C++ Express
+Visual C# Express
+Express for Desktop
+Express for Web
+Express for Windows
+Flash
+Adobe Flash Builder
+FlashDevelop
+Powerflasher FDT
+PHPOpen source
+Aptana
+NetBeans
+Komodo Edit
+Komodo IDE
+KDevelop
+Proprietary
+Codelobster
+PhpStorm
+PHPEdit
+SlickEdit
+Zend Studio
+R
+RStudio
+R Tools for Visual Studio
+PythonOpen source
+Anjuta
+IDLE
+Eric
+Light Table
+Ninja-IDE
+PyDev
+PyScripter
+PIDA
+Spyder
+Komodo Edit
+Komodo IDE
+KDevelop
+Vim
+Visual Studio Code
+Thonny
+DevEco Studio
+Proprietary
+PyCharm
+PythonAnywhere
+Visual Studio Code
+SlickEdit
+Wing IDE
+Pascal,Object PascalOpen source
+Free Pascal IDE
+Lazarus
+Dev-Pascal
+GNAVI
+PascalABC.NET
+Freeware
+Delphi Community
+Retail
+Delphi
+Discontinued
+Turbo Pascal
+Virtual Pascal
+Borland Kylix
+QuickPascal
+BASICOpen source
+Basic-256
+Microsoft Small Basic
+SdlBasic
+Gambas
+Basic4GL
+VisualFBEditor / WinFBE
+InForm
+Freeware
+FutureBASIC
+RapidQ
+Visual Studio Community
+Retail
+Visual Studio
+NS Basic
+PureBasic
+GLBasic
+Liberty BASIC
+Xojo
+Discontinued
+CA-Realizer
+MonoDevelop
+QuickBASIC
+QBasic
+SharpDevelop
+Visual Basic
+Visual Basic Express
+GoOpen source
+Vim
+Visual Studio Code (VSCode)
+Eclipse
+Freeware
+Cloud9 IDE
+Retail
+GoLand
+Haxe
+IntelliJ IDEA
+VS Code
+Sublime Text
+Powerflasher FDT
+POP-11
+Poplog
+Online
+AWS Cloud9 IDE
+Eclipse Che
+SourceLair
+
+Comparison
+Category
+
+vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Processor
+Size / Form
+Computer systems organization
+Computer architecture
+Computational complexity
+Dependability
+Embedded system
+Real-time computing
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Control variable
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software engineering
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Stochastic
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematics of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Theoretical computer science
+Information systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security hacker
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computer interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Extended reality
+Augmented
+Mixed
+Virtual
+Virtuality
+Rendering
+Photograph manipulation
+Graphics processing unit
+Image compression
+Solid modeling
+Applied computing
+Quantum Computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Differentiable computing
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Category
+ Outline
+ Glossaries
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Integrated_development_environment&oldid=1283543835"
+Categories: Integrated development environmentsSoftware engineeringHidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from December 2020All articles with unsourced statementsArticles with unsourced statements from April 2016Articles containing potentially dated statements from August 2023All articles containing potentially dated statementsArticles with excerptsCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 2 April 2025, at 04:39 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Integrated development environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

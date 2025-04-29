@@ -1,0 +1,860 @@
+https://en.wikipedia.org/wiki/Debugger
+
+
+
+
+Debugger - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Features
+
+
+
+
+Toggle Features subsection
+
+
+
+
+
+1.1
+Record and replay debugging
+
+
+
+
+
+
+
+
+1.2
+Reverse debugging
+
+
+
+
+
+
+
+
+1.3
+Time travel debugging
+
+
+
+
+
+
+
+
+
+
+2
+Language dependency
+
+
+
+
+
+
+
+
+3
+Memory protection
+
+
+
+
+
+
+
+
+4
+Hardware support for debugging
+
+
+
+
+
+
+
+
+5
+Debugger front-ends
+
+
+
+
+
+
+
+
+6
+Ethical or legal debugging
+
+
+
+
+
+
+
+
+7
+List of debuggers
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+9.1
+Citations
+
+
+
+
+
+
+
+
+9.2
+Sources
+
+
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Debugger
+
+
+
+45 languages
+
+
+
+
+العربيةAzərbaycancaБългарскиBosanskiCatalàČeštinaDanskDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançais한국어HrvatskiIdoBahasa IndonesiaÍslenskaItalianoעבריתქართულიҚазақшаMagyarമലയാളംBahasa MelayuNederlands日本語Norsk bokmålOccitanPolskiPortuguêsРусскийSimple EnglishSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаTiếng Việt粵語中文Betawi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer program used to test and debug other programs
+Part of a series onSoftware development
+Core activities
+Data modeling
+Processes
+Requirements
+Design
+Construction
+Engineering
+Testing
+Debugging
+Deployment
+Maintenance
+
+Paradigms and models
+Agile
+Cleanroom
+Incremental
+Prototyping
+Spiral
+V model
+Waterfall
+
+Methodologies and frameworks
+ASD
+DAD
+DevOps
+DSDM
+FDD
+IID
+Kanban
+Lean SD
+LeSS
+MDD
+MSF
+PSP
+RAD
+RUP
+SAFe
+Scrum
+SEMAT
+TDD
+TSP
+UP
+XP
+
+Supporting disciplines
+Configuration management
+Deployment management
+Documentation
+Project management
+Quality assurance
+User experience
+
+Practices
+ATDD
+BDD
+CCO
+CD
+CI
+DDD
+PP
+SBE
+Stand-up
+TDD
+
+Tools
+Build automation
+Compiler
+Debugger
+GUI builder
+IDE
+Infrastructure as code
+Profiler
+Release automation
+UML Modeling
+
+Standards and bodies of knowledge
+CMMI
+IEEE standards
+IREB
+ISO 9001
+ISO/IEC standards
+ITIL
+OMG
+PMBOK
+SWEBOK
+
+Glossaries
+Artificial intelligence
+Computer science
+Electrical and electronics engineering
+
+Outlines
+Outline of software development
+vte
+Winpdb debugging itself
+A debugger is a computer program used to test and debug other programs (the "target" programs). Common features of debuggers include the ability to run or halt the target program using breakpoints, step through code line by line, and display or modify the contents of memory, CPU registers, and stack frames.
+The code to be examined might alternatively be running on an instruction set simulator (ISS), a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate (or the same) processor. Some debuggers offer two modes of operation, full or partial simulation, to limit this impact.
+An exception occurs when the program cannot normally continue because of a programming bug or invalid data. For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory. When the program "traps" or reaches a preset condition, the debugger typically shows the location in the original code if it is a source-level debugger or symbolic debugger, commonly now seen in integrated development environments. If it is a low-level debugger or a machine-language debugger it shows the line in the disassembly (unless it also has online access to the original source code and can display the appropriate section of code from the assembly or compilation).
+
+
+Features[edit]
+Typically, debuggers offer a query processor, a symbol resolver, an expression interpreter, and a debug support interface at its top level.[1] Debuggers also offer more sophisticated functions such as running a program step by step (single-stepping or program animation), stopping (breaking) (pausing the program to examine the current state) at some event or specified instruction by means of a breakpoint, and tracking the values of variables.[2] Some debuggers have the ability to modify the program state while it is running. It may also be possible to continue execution at a different location in the program to bypass a crash or logical error.
+The same functionality which makes a debugger useful for correcting bugs allows it to be used as a software cracking tool to evade copy protection, digital rights management, and other software protection features. It often also makes it useful as a general verification tool, fault coverage, and performance analyser, especially if instruction path lengths are shown.[3] Early microcomputers with disk-based storage often benefitted from the ability to diagnose and recover corrupted directory or registry data records, to "undelete" files marked as deleted, or to crack file password protection.
+Most mainstream debugging engines, such as gdb and dbx, provide console-based command line interfaces. Debugger front-ends are popular extensions to debugger engines that provide IDE integration, program animation, and visualization features.
+
+Record and replay debugging[edit]
+Record and replay debugging,[4] also known as "software flight recording" or "program execution recording", captures application state changes and stores them to disk as each instruction in a program executes. The recording can then be replayed over and over, and interactively debugged to diagnose and resolve defects. Record and replay debugging is very useful for remote debugging and for resolving intermittent, non-deterministic, and other hard-to-reproduce defects.
+
+Reverse debugging[edit]
+Some debuggers include a feature called "reverse debugging", also known as "historical debugging" or "backwards debugging". These debuggers make it possible to step a program's execution backwards in time. Various debuggers include this feature. Microsoft Visual Studio (2010 Ultimate edition, 2012 Ultimate, 2013 Ultimate, and 2015 Enterprise edition) offers IntelliTrace reverse debugging for C#, Visual Basic .NET, and some other languages, but not C++. Reverse debuggers also exist for C, C++, Java, Python, Perl, and other languages. Some are open source; some are proprietary commercial software. Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2× or less. Reverse debugging is very useful for certain types of problems, but is still not commonly used yet.[5]
+
+Time travel debugging[edit]
+In addition to the features of reverse debuggers, time travel debugging also allow users to interact with the program, changing the history if desired, and watch how the program responds.
+
+Language dependency[edit]
+Some debuggers operate on a single specific language while others can handle multiple languages transparently. For example, if the main target program is written in COBOL but calls assembly language subroutines and PL/1 subroutines, the debugger may have to dynamically switch modes to accommodate the changes in language as they occur.
+
+Memory protection[edit]
+Some debuggers also incorporate memory protection to avoid storage violations such as buffer overflow. This may be extremely important in transaction processing environments where memory is dynamically allocated from memory 'pools' on a task by task basis.
+
+Hardware support for debugging[edit]
+Most modern microprocessors have at least one of these features in their CPU design to make debugging easier:
+
+Hardware support for single-stepping a program, such as the trap flag.
+An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged; such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control.
+In-system programming allows an external hardware debugger to reprogram a system under test (for example, adding or removing instruction breakpoints). Many systems with such ISP support also have other hardware debug support.
+Hardware support for code and data breakpoints, such as address comparators and data value comparators or, with considerably more work involved, page fault hardware.[6]
+JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set. Processors used in embedded systems typically have extensive JTAG debug support.
+Micro controllers with as few as six pins need to use low pin-count substitutes for JTAG, such as BDM, Spy-Bi-Wire, or debugWIRE on the Atmel AVR. DebugWIRE, for example, uses bidirectional signaling on the RESET pin.
+Debugger front-ends[edit]
+Some of the most capable and popular debuggers implement only a simple command line interface (CLI)—often to maximize portability and minimize resource consumption. Developers typically consider debugging via a graphical user interface (GUI) easier and more productive.[citation needed] This is the reason for visual front-ends, that allow users to monitor and control subservient CLI-only debuggers via graphical user interface. Some GUI debugger front-ends are designed to be compatible with a variety of CLI-only debuggers, while others are targeted at one specific debugger.
+
+Ethical or legal debugging[edit]
+Debugging is often used to illegally crack or pirate software, which is usually illegal even when done non-maliciously. Crackme's are programs specifically designed to be cracked or debugged. These programs allow those with debuggers to practice their debugging ability without getting into legal trouble.
+
+List of debuggers[edit]
+Main article: List of debuggers
+Some widely used debuggers are:
+
+Arm DTT, formerly known as Allinea DDT
+Eclipse debugger API used in a range of IDEs: Eclipse IDE (Java), Nodeclipse (JavaScript)
+Firefox JavaScript debugger
+GDB - the GNU debugger
+LLDB
+Microsoft Visual Studio Debugger
+Radare2
+Valgrind
+WinDbg
+x64dbg/x32dbg
+Cheat Engine
+Earlier minicomputer debuggers include:
+
+Dynamic debugging technique (DDT)
+On-line Debugging Tool (ODT)
+Mainframe debuggers include:
+
+CA/EZTEST
+See also[edit]
+
+Computer programming portal
+
+Comparison of debuggers
+Core dump
+Kernel debugger
+List of tools for static code analysis
+Memory debugger
+Packet analyzer
+Profiling
+Time travel debugging
+GNU Debugger
+Rubber duck debugging
+
+
+References[edit]
+Citations[edit]
+
+
+^ Aggarwal and Kumar, p. 302.
+
+^ Aggarwal and Kumar 2003, p. 301.
+
+^ Aggarwal and Kumar, pp. 307-312.
+
+^ O'Callahan, Robert; Jones, Chris; Froyd, Nathan; Huey, Kyle; Noll, Albert; Partush, Nimrod (2017). "Engineering Record And Replay For Deployability Extended Technical Report". arXiv:1705.05937 [cs.PL].
+
+^ Philip Claßen; Undo Software. "Why is reverse debugging rarely used?". Programmers Stack Exchange. Stack Exchange, Inc. Retrieved 12 April 2015.
+
+^ Aggarwal and Kumar 2003, pp. 299-301.
+
+
+Sources[edit]
+
+Sanjeev Kumar Aggarwal; M. Sarath Kumar (2003). "Debuggers for Programming Languages". In Y.N. Srikant; Priti Shankar (eds.). The Compiler Design Handbook: Optimizations and Machine Code Generation. Boca Raton, Florida: CRC Press. pp. 295–327. ISBN 978-0-8493-1240-3.
+Jonathan B. Rosenberg (1996). How Debuggers Work: Algorithms, Data Structures, and Architecture. John Wiley & Sons. ISBN 0-471-14966-7.
+
+External links[edit]
+
+
+
+Look up debugger in Wiktionary, the free dictionary.
+
+Debugging Tools for Windows
+OpenRCE: Various Debugger Resources and Plug-ins
+IntelliTrace MSDN, Visual Studio 2015
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Debugger&oldid=1283360812"
+Categories: DebuggersDebuggingUtility software typesHidden categories: Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from November 2019
+
+
+
+
+
+
+ This page was last edited on 1 April 2025, at 01:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Debugger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,643 @@
+https://en.wikipedia.org/wiki/Computer_Conservation_Society
+
+
+
+
+Computer Conservation Society - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+Projects
+
+
+
+
+
+
+
+
+3
+Locations
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Computer Conservation Society
+
+
+
+Add languages
+
+
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+British organisation
+
+
+Computer Conservation SocietyFounded1989TypeProfessional OrganisationFocusHistory of Computing in the UKOriginsThe British Computer Society, Science Museum, MOSIArea served UK and worldwideMethodResearch, Education, Restorations and ReconstructionsMembers1,000+Websitewww.computerconservationsociety.org
+The Computer Conservation Society (CCS) is a British organisation, founded in 1989. It is under the joint umbrella of the British Computer Society (BCS),[1] the London Science Museum and the Manchester Museum of Science and Industry.[2][3]
+
+
+Overview[edit]
+The CCS is interested in the history of computing in general and the conservation and preservation of early British historical computers in particular.[4]
+The society runs a series of monthly public lectures between September and May each year in both London and Manchester.  The events are detailed on the society's website.[5]
+The CCS publishes a quarterly journal, Resurrection.[6][7]
+The society celebrated its 25th anniversary in 2014.[8][9]
+Dr Doron Swade,[10] formerly the curator of the computing collection at the London Science Museum, was a founding committee member and As of 2021[update] is the current chair of the society. David Morriss, Rachel Burnett, and Roger Johnson are previous chairs, also all previous presidents of the BCS.
+
+Projects[edit]
+The society organises a number of projects to reconstruct and maintain early computers and to conserve early software. For example:
+
+Restorations
+Elliott 401
+Elliott 803
+Elliott 903 and 905
+DEC Systems
+Pegasus
+ICT 1301 Project
+Harwell Dekatron Computer
+Differential Analyser
+HEC 1
+Reconstructions
+Colossus Rebuild
+Manchester Baby
+Bombe Rebuild
+EDSAC Replica Project[11][12]
+Babbage's Analytical Engine
+Other projects
+Software preservation
+"Our Computer Heritage" website[13]
+Tony Sale Award for computer conservation and restoration[14][15]
+Locations[edit]
+London Science Museum:
+
+Ferranti Pegasus (Not currently being displayed working)
+Museum of Science and Industry, Manchester:
+
+Manchester Baby
+Hartree Differential Analyser
+The National Museum of Computing:
+
+Colossus
+Harwell Dekatron or WITCH
+ICL 2966
+Elliot 803
+Elliott 905
+EDSAC Replica
+Bletchley Park Trust:
+
+Bombe
+Currently not on public display:
+
+ICT 1301 (Currently in storage at The National Museum of Computing)
+Elliott 401
+References[edit]
+
+
+^ "Computer Conservation Society". British Computer Society. Retrieved 8 January 2018.
+
+^ "Computer Conservation Society: Aims and Objectives of the Society". Digital 60. UK: University of Manchester. Retrieved 8 January 2018.
+
+^ "Computer Conservation Society". FOLDOC. Retrieved 8 January 2018.
+
+^ Johnson, Roger (2013). "Computer Conservation Society (CCS) – itItstory and Experience". Making the History of Computing Relevant. IFIP Advances in Information and Communication Technology book series (IFIPAICT). Vol. 416. Springer. pp. 249–257. doi:10.1007/978-3-642-41650-7_22. ISBN 978-3-642-41649-1.
+
+^ "Events". Computer Conservation Society. Retrieved 8 January 2018.
+
+^ The CCS Journal – Resurrection, British Computer Society, retrieved 8 January 2018
+
+^ Resurrection – The CCS Journal, Computer Conservation Society, retrieved 8 January 2018
+
+^ Halfacree, Gareth (15 October 2014). "Computer Conservation Society turns 25". www.bit-tech.net. bit-tech. Retrieved 8 January 2018.
+
+^ "The British Computer Conservation Society is 25 years old". ajovomultja.hu. 27 October 2014. Retrieved 8 January 2018.
+
+^ Swade, Doron (20 January 2017). "Winter 2016 report to the Computer Conservation Society". blog.plan28.org. Plan 28 Blog. Retrieved 8 January 2018.
+
+^ "The EDSAC Replica Project – Computer Conservation in the UK". Computer History Museum. Retrieved 8 January 2018.
+
+^ "Electronic Delay Storage Automatic Computer EDSAC Replica Project" (PDF). chiphack.org. Retrieved 8 January 2018.
+
+^ "Our Computer Heritage". Computer Conservation Society.
+
+^ "CCS launches the Tony Sale Award". The National Museum of Computing. 8 May 2012. Archived from the original on 9 January 2018. Retrieved 8 January 2018.
+
+^ "Tony Sale Award". Computer Conservation Society.
+
+
+External links[edit]
+CCS website
+Our Computer Heritage – a project led by the CCS
+Authority control databases InternationalVIAFNationalUnited States
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Computer_Conservation_Society&oldid=1193609033"
+Categories: Scientific organizations established in 1989Information technology organisations based in the United KingdomHistory of science organizationsHistory of computing in the United KingdomBCS Specialist GroupsScience Museum, London1989 establishments in the United KingdomHidden categories: Articles with short descriptionShort description is different from WikidataUse British English from November 2015Use dmy dates from December 2019Articles containing potentially dated statements from 2021All articles containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 4 January 2024, at 18:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Computer Conservation Society
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

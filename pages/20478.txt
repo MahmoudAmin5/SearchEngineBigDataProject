@@ -1,0 +1,1713 @@
+https://en.wikipedia.org/wiki/Intel_8008
+
+
+
+
+Intel 8008 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Design
+
+
+
+
+Toggle Design subsection
+
+
+
+
+
+2.1
+Related processor designs
+
+
+
+
+
+
+
+
+2.2
+Features
+
+
+
+
+
+
+
+
+
+
+3
+Instruction set
+
+
+
+
+Toggle Instruction set subsection
+
+
+
+
+
+3.1
+Code example 1
+
+
+
+
+
+
+
+
+3.2
+Code example 2
+
+
+
+
+
+
+
+
+
+
+4
+Interrupts
+
+
+
+
+
+
+
+
+5
+Designers
+
+
+
+
+
+
+
+
+6
+Second sources
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+Notes
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Intel 8008
+
+
+
+32 languages
+
+
+
+
+БългарскиCatalàČeštinaDeutschEestiΕλληνικάEspañolفارسیFrançais한국어HrvatskiBahasa IndonesiaItalianoעבריתLietuviųMagyarമലയാളംNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSlovenčinaСрпски / srpskiSuomiSvenskaTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+8-bit microprocessor
+Intel 8008An Intel C8008-1 processor variant with purple ceramic, gold-plated metal lid and pinsGeneral informationLaunchedApril 1972Discontinued1983[1]Marketed byIntelDesigned byComputer Terminal Corporation (CTC)Common manufacturerIntelPerformanceMax. CPU clock rate500 kHz to 800 kHzData width8 bitsAddress width14 bitsArchitecture and classificationApplicationComputer terminals, calculators, bottling machines, 1970s ASEA industrial robots[2] (IRB 6), simple computers, etc.Technology node10 μmInstruction set8008Physical specificationsTransistors3,500Package18-pin dual in-line packageSocketDIP18HistorySuccessorIntel 8080Support statusUnsupported
+The Intel 8008 ("eight-thousand-eight" or "eighty-oh-eight") is an early 8-bit microprocessor capable of addressing 16 KB of memory, introduced in April 1972. The 8008 architecture was designed by Computer Terminal Corporation (CTC) and was implemented and manufactured by Intel. While the 8008 was originally designed for use in CTC's Datapoint 2200 programmable terminal, an agreement between CTC and Intel permitted Intel to market the chip to other customers after Seiko expressed an interest in using it for a calculator.
+
+
+History[edit]
+In order to address several issues with the Datapoint 3300, including excessive heat radiation, Computer Terminal Corporation (CTC) designed the architecture of the 3300's planned successor with a CPU as part of the internal circuitry re-implemented on a single chip. Looking for a company able to produce their chip design, CTC co-founder Austin O. "Gus" Roche turned to Intel, then primarily a vendor of memory chips.[3] Roche met with Bob Noyce, who expressed concern with the concept; John Frassanito recalls that: "Noyce said it was an intriguing idea, and that Intel could do it, but it would be a dumb move. He said that if you have a computer chip, you can only sell one chip per computer, while with memory, you can sell hundreds of chips per computer."[3] Another major concern was that Intel's existing customer base purchased their memory chips for use with their own processor designs; if Intel introduced their own processor, they might be seen as a competitor, and their customers might look elsewhere for memory. Nevertheless, Noyce agreed to a US$50,000 development contract in early 1970 (equivalent to $405,000 in 2024). Texas Instruments (TI) was also brought in as a second supplier.[citation needed]
+In December 1969, Intel engineer Stan Mazor and a representative of CTC met to discuss options for the logic chipset to power a new CTC business terminal. Mazor, who had been working with Ted Hoff on the development of the Intel 4004, proposed that a one-chip programmable microprocessor might be less cumbersome and ultimately more cost effective than building a custom logic chipset. CTC agreed and development work began on the chip, which at the time was known as the 1201.[4]
+TI was able to make samples of the 1201 based on Intel drawings, calling it the TMX 1795. These proved to be buggy and were rejected.[5] Intel's own versions were delayed. CTC decided to re-implement the new version of the terminal using serial discrete TTL instead of waiting for a single-chip CPU. The new system was released as the Datapoint 2200 in the spring of 1970, with their first sale to General Mills on 25 May 1970.[3] CTC paused development of the 1201 after the 2200 was released, as it was no longer needed. Later in early 1971, Seiko approached Intel, expressing an interest in using the 1201 in a scientific calculator, likely after seeing the success of the simpler 4004 used by Busicom in their business calculators.[4] A small re-design followed, under the leadership of Federico Faggin, the designer of the 4004, now project leader of the 1201, expanding from a 16-pin to 18-pin design, and the new 1201 was delivered to CTC in late 1971.[3]
+By that point, CTC had once again moved on, this time to the parallel-architecture Datapoint 2200 II, which was faster than the 1201. CTC voted to end their involvement with the 1201, leaving the design's intellectual property to Intel instead of paying the $50,000 contract. Intel renamed it the 8008 and put it in their catalog in April 1972 priced at US$120 (equivalent to $902 in 2024). This renaming tried to ride off the success of the 4004 chip, by presenting the 8008 as simply a 4 to 8 port, but the 8008 is not based on the 4004.[6] The 8008 went on to be a commercially successful design. This was followed by the popular Intel 8080, and then the hugely successful Intel x86 family.[3]
+One of the first teams to build a complete system around the 8008 was Bill Pentz's team at California State University, Sacramento. The Sac State 8008 was possibly the first true microcomputer, with a disk operating system built with IBM Basic assembly language in PROM,[disputed – discuss] all driving a color display, hard drive, keyboard, modem, audio/paper tape reader, and printer.[7] The project started in the spring of 1972, and with key help from Tektronix, the system was fully functional a year later.
+In the UK, a team at S. E. Laboratories Engineering (EMI) led by Tom Spink in 1972 built a microcomputer based on a pre-release sample of the 8008. Joe Hardman extended the chip with an external stack. This, among other things, gave it power-fail save and recovery. Joe also developed a direct screen printer. The operating system was written using a meta-assembler developed by L. Crawford and J. Parnell for a Digital Equipment Corporation PDP-11.[8] The operating system was burnt into a PROM. It was interrupt-driven, queued, and based on a fixed page size for programs and data. An operational prototype was prepared for management, who decided not to continue with the project.[citation needed]
+The 8008 was the CPU for the very first commercial non-calculator personal computers (excluding the Datapoint 2200 itself): the US SCELBI kit and the pre-built French Micral N and Canadian MCM/70. It was also the controlling microprocessor for the first several models in Hewlett-Packard's 2640 family of computer terminals.[citation needed]
+In 1973, Intel offered an instruction set simulator for the 8008 named INTERP/8.[9] It was written in FORTRAN IV by Gary Kildall while he worked as a consultant for Intel.[10][11]
+
+Design[edit]
+i8008 microarchitecture
+
+Intel 8008 registers
+
+
+13
+
+12
+
+11
+
+10
+
+09
+
+08
+
+07
+
+06
+
+05
+
+04
+
+03
+
+02
+
+01
+
+00
+
+(bit position)
+
+
+Main registers
+
+
+ 
+
+A
+
+Accumulator
+
+
+ 
+
+B
+
+B register
+
+
+ 
+
+C
+
+C register
+
+
+ 
+
+D
+
+D register
+
+
+ 
+
+E
+
+E register
+
+
+ 
+
+H
+
+H register (indirect)
+
+
+ 
+
+L
+
+L register (indirect)
+
+
+Program counter
+
+
+PC
+
+Program Counter
+
+
+Push-down address call stack
+
+
+AS
+
+Call level 1
+
+
+AS
+
+Call level 2
+
+
+AS
+
+Call level 3
+
+
+AS
+
+Call level 4
+
+
+AS
+
+Call level 5
+
+
+AS
+
+Call level 6
+
+
+AS
+
+Call level 7
+
+
+Flags
+
+
+ 
+
+C
+
+P
+
+Z
+
+S
+
+Flags[12][a]
+
+The 8008 was implemented in 10 μm silicon-gate enhancement-mode PMOS logic. Initial versions could work at clock frequencies up to 0.5 MHz. This was later increased in the 8008-1 to a specified maximum of 0.8 MHz. Instructions take between 3 and 11 T-states, where each T-state is 2 clock cycles.[13]
+Register–register loads and ALU operations take 5T (20 μs at 0.5 MHz), register–memory 8T (32 μs), while calls and jumps (when taken) take 11 T-states (44 μs).[14]
+The 8008 is a little slower in terms of instructions per second (36,000 to 80,000 at 0.8 MHz) than the 4-bit Intel 4004 and Intel 4040.[15] but since the 8008 processes data 8 bits at a time and can access significantly more RAM, in most applications it has a significant speed advantage over these processors. The 8008 has 3,500 transistors.[16][17][18]
+The chip, limited by its 18-pin DIP, has a single 8-bit bus working triple duty to transfer 8 data bits, 14 address bits, and two status bits. The small package requires about 30 TTL support chips to interface to memory.[19] For example, the 14-bit address, which can access "16 K × 8 bits of memory", needs to be latched by some of this logic into an external memory address register (MAR). The 8008 can access 8 input ports and 24 output ports.[13]
+For controller and CRT terminal use, this is an acceptable design, but it is rather cumbersome to use for most other tasks, at least compared to the next generations of microprocessors. A few early computer designs were based on it, but most would use the later and greatly improved Intel 8080 instead.[citation needed]
+
+Related processor designs[edit]
+The subsequent 40-pin NMOS Intel 8080 expanded upon the 8008 registers and instruction set and implements a more efficient external bus interface (using the 22 additional pins). Despite a close architectural relationship, the 8080 was not made binary compatible with the 8008, so an 8008 program would not run on an 8080. However, as two different assembly syntaxes were used by Intel at the time, the 8080 could be used in an 8008 assembly-language backward-compatible fashion.
+The Intel 8085 is an electrically modernized version of the 8080 that uses depletion-mode transistors and also added two new instructions.
+The Intel 8086, the original x86 processor, is a non-strict extension of the 8080, so it loosely resembles the original Datapoint 2200 design as well. Almost every Datapoint 2200 and 8008 instruction has an equivalent not only in the instruction set of the 8080, 8085, and Z80, but also in the instruction set of modern x86 processors (although the instruction encodings are different).
+
+Features[edit]
+The 8008 architecture includes the following features:[citation needed]
+
+Seven 8-bit "scratchpad" registers: The main accumulator (A) and six other registers (B, C, D, E, H, and L).
+14-bit program counter (PC).
+Seven-level push-down address call stack. Eight registers are actually used, with the top-most register being the PC.
+Four condition code status flags: carry (C), even parity (P), zero (Z), and sign (S).
+Indirect memory access using the H and L registers (HL) as a 14-bit data pointer (the upper two bits are ignored).
+Instruction set[edit]
+Instructions are all one to three bytes long, consisting of an initial opcode byte, followed by up to two bytes of operands which can be an immediate operand or a program address. Instructions operate on 8-bits only; there are no 16-bit operations. There is only one mechanism to address data memory: indirect addressing pointed to by a concatenation of the H and L registers, referenced as M. The 8008 does, however, support 14-bit program addresses. It has automatic CAL and RET instructions for multi-level subroutine calls and returns which can be conditionally executed, like jumps. Eight one-byte call instructions (RST) for subroutines exist at the fixed addresses 00h, 08h, 10h, ..., 38h. These are intended to be supplied by external hardware in order to invoke interrupt service routines, but can employed as fast calls. Direct copying may be made between any two registers or a register and memory. Eight math/logic functions are supported between the accumulator (A) and any register, memory, or an immediate value. Results are always deposited in A. Increments and decrements are supported for most registers but, curiously, not A. Register A does, however, support four different rotate instructions. All instructions are executed in 3 to 11 states. Each state requires two clocks.
+
+
+
+Opcode
+Operands
+Mnemonic
+States
+Description
+
+
+7
+6
+5
+4
+3
+2
+1
+0
+b2
+b3
+
+
+0
+0
+0
+0
+0
+0
+0
+X
+—
+—
+HLT
+4
+Halt
+
+
+0
+0
+DDD
+0
+0
+0
+—
+—
+INr
+5
+DDD ← DDD + 1 (except A and M)
+
+
+0
+0
+DDD
+0
+0
+1
+—
+—
+DCr
+5
+DDD ← DDD - 1 (except A and M)
+
+
+0
+0
+0
+0
+0
+0
+1
+0
+—
+—
+RLC
+5
+A1-7 ← A0-6; A0 ← Cy ← A7
+
+
+0
+0
+CC
+0
+1
+1
+—
+—
+Rcc (RET conditional)
+3/5
+If cc true, P ← (stack)
+
+
+0
+0
+ALU
+1
+0
+0
+data
+—
+ADI ACI SUI SBI NDI XRI ORI CPI data
+8
+A ← A [ALU operation] data
+
+
+0
+0
+N
+1
+0
+1
+—
+—
+RST n
+5
+(stack) ← P, P ← N x 8
+
+
+0
+0
+DDD
+1
+1
+0
+data
+—
+LrI data (Load r with immediate data)
+8/9
+DDD ← data
+
+
+0
+0
+X
+X
+X
+1
+1
+1
+—
+—
+RET
+5
+P ← (stack)
+
+
+0
+0
+0
+0
+1
+0
+1
+0
+—
+—
+RRC
+5
+A0-6 ← A1-7; A7 ← Cy ← A0
+
+
+0
+0
+0
+1
+0
+0
+1
+0
+—
+—
+RAL
+5
+A1-7 ← A0-6; Cy ← A7; A0 ← Cy
+
+
+0
+0
+0
+1
+1
+0
+1
+0
+—
+—
+RAR
+5
+A0-6 ← A1-7; Cy ← A0; A7 ← Cy
+
+
+0
+1
+CC
+0
+0
+0
+addlo
+addhi
+Jcc add (JMP conditional)
+9/11
+If cc true, P ← add
+
+
+0
+1
+0
+0
+port
+1
+—
+—
+INP port
+8
+A ← Port (ports 0-7 only)
+
+
+0
+1
+port
+1
+—
+—
+OUT port
+6
+Port ← A (ports 8-31 only)
+
+
+0
+1
+CC
+0
+1
+0
+addlo
+addhi
+Ccc add (CAL conditional)
+9/11
+If cc true, (stack) ← P, P ← add
+
+
+0
+1
+X
+X
+X
+1
+0
+0
+addlo
+addhi
+JMP add
+11
+P ← add
+
+
+0
+1
+X
+X
+X
+1
+1
+0
+addlo
+addhi
+CAL add
+11
+(stack) ← P, P ← add
+
+
+1
+0
+ALU
+SSS
+—
+—
+ADr ACr SUr SBr NDr XRr ORr CPr
+5/8
+A ← A [ALU operation] SSS
+
+
+1
+1
+DDD
+SSS
+—
+—
+Lds (Load d with s)
+5/7/8
+DDD ← SSS
+
+
+1
+1
+1
+1
+1
+1
+1
+1
+—
+—
+HLT
+4
+Halt
+
+
+7
+6
+5
+4
+3
+2
+1
+0
+b2
+b3
+Mnemonic
+States
+Description
+
+
+
+
+
+SSS DDD
+2
+1
+0
+CC
+ALU
+
+
+A
+0
+0
+0
+FC, C false
+ADr ADI (A ← A + arg)
+
+
+B
+0
+0
+1
+FZ, Z false
+ACr ACI (A ← A + arg + Cy)
+
+
+C
+0
+1
+0
+FS, S false
+SUr SUI (A ← A - arg)
+
+
+D
+0
+1
+1
+FP, P odd
+SBr SBI (A ← A - arg - Cy)
+
+
+E
+1
+0
+0
+TC, C true
+NDr NDI (A ← A ∧ arg)
+
+
+H
+1
+0
+1
+TZ, Z true
+XRr XRI (A ← A ⊻ arg)
+
+
+L
+1
+1
+0
+TS, S true
+ORr ORI (A ← A ∨ arg)
+
+
+M
+1
+1
+1
+TP, P even
+CPr CPI (A - arg)
+
+
+SSS DDD
+2
+1
+0
+CC
+ALU
+
+Code example 1[edit]
+Intel 8008 wafer and two processors, closed and open
+The following 8008 assembly source code is for a subroutine named MEMCPY that copies a block of data bytes of a given size from one location to another. Intel's 8008 assembler supported only + and - operators. This example borrows the 8080's assembler AND and SHR (shift right) operators to select the low and high bytes of a 14-bit address for placement into the 8 bit registers. A contemporaneous 8008 programmer was expected to calculate the numbers and type them in for the assembler.
+
+
+
+
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+001700  000        
+001701  000        
+001702  000        
+001703  000        
+001704  000        
+001705  000        
+                   
+                   
+002000  066 304    
+002002  056 003    
+002004  327        
+002005  060        
+002006  317        
+002007  302        
+002010  261        
+002011  053        
+002012  302        
+002013  024 001    
+002015  320        
+002016  301        
+002017  034 000    
+002021  310        
+002022  066 300    
+002024  056 003    
+002026  302        
+002027  207        
+002030  340        
+002031  060        
+002032  301        
+002033  217        
+002034  350        
+002035  364        
+002036  337        
+002037  066 302    
+002041  056 003    
+002043  302        
+002044  207        
+002045  340        
+002046  060        
+002047  301        
+002050  217        
+002051  350
+002052  364
+002053  373        
+002054  104 007 004
+002057             
+
+
+
+; MEMCPY --
+; Copy a block of memory from one location to another.
+;
+; Entry parameters
+;       SRC: 14-bit address of source data block
+;       DST: 14-bit address of target data block
+;       CNT: 14-bit count of bytes to copy
+ 
+            ORG     1700Q       ;Data at 001700q
+SRC         DFB     0           ;SRC, low byte
+            DFB     0           ;     high byte
+DST         DFB     0           ;DST, low byte
+            DFB     0           ;     high byte
+CNT         DFB     0           ;CNT, low byte
+            DFB     0           ;     high byte
+ 
+            ORG     2000Q       ;Code at 002000q
+MEMCPY      LLI     CNT AND 255 ;HL = addr(CNT)
+            LHI     CNT SHR 8   ;(AND and SHR not supported)
+            LCM                 ;BC = CNT
+            INL
+            LBM
+LOOP        LAC                 ;If BC = 0,
+            ORB
+            RTZ                 ;Return
+DECCNT      LAC                 ;BC = BC - 1
+            SUI     1
+            LCA
+            LAB
+            SBI     0
+            LBA
+GETSRC      LLI     SRC AND 255 ;HL = addr(SRC)
+            LHI     SRC SHR 8
+            LAC                 ;HL = SRC + BC
+            ADM                 ;E = C + (HL)
+            LEA                 ;(lower sum)
+            INL                 ;point to upper SRC
+            LAB
+            ACM                 ;H = B + (HL) + CY
+            LHA                 ;(upper sum)
+            LLE                 ;L = E
+            LDM                 ;Load D from (HL)
+GETDST      LLI     DST AND 255 ;HL = addr(DST)
+            LHI     DST SHR 8
+            LAC                 ;HL = DST + BC
+            ADM                 ;ADD code same as above
+            LEA
+            INL 
+            LAB
+            ACM
+            LHA
+            LLE
+            LMD                 ;Store D to (HL)
+            JMP     LOOP        ;Repeat the loop
+            END
+
+
+In the code above, all values are given in octal. Locations SRC, DST, and CNT are 16-bit parameters for the subroutine named MEMCPY. In actuality, only 14 bits of the values are used, since the CPU has only a 14-bit addressable memory space. The values are stored in little-endian format, although this is an arbitrary choice, since the CPU is incapable of reading or writing more than a single byte into memory at a time. Since there is no instruction to load a register directly from a given memory address, the HL register pair must first be loaded with the address, and the target register can then be loaded from the M operand, which is an indirect load from the memory location in the HL register pair. The BC register pair is loaded with the CNT parameter value and decremented at the end of the loop until it becomes zero. Note that most of the instructions used occupy a single 8-bit opcode.
+
+Code example 2[edit]
+The following 8008 assembly source code is for a simplified subroutine named MEMCPY2 that copies a block of data bytes from one location to another. By reducing the byte counter to 8 bits, there is enough room to load all the subroutine parameters into the 8008's register file.
+
+
+
+
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+    
+002000  307    
+002001  206 015 004
+002004  370        
+002005  206 015 004
+002010  021        
+002011  110 000 004
+002014  007        
+        
+          
+002015  316
+002016  364        
+002017  341        
+002020  315
+002021  353        
+002022  331
+002023  040
+002024  013 
+002025  030 
+002026  007        
+002027             
+
+
+
+; MEMCPY2 --
+; Copy a block of memory from one location to another
+;
+; Entry parameters in registers
+;       HL: 14-bit address of source data block
+;       DE: 14-bit address of target data block
+;       C: 8-bit count of bytes to copy. (1 to 256 bytes)
+ 
+            ORG     2000Q       ;Code at 002000q
+MEMCPY2     LAM                 ;Read source byte into A
+            CAL     XCHGI       ;Exchange HL<->DE and increment DE
+            LMA                 ;Save A to target byte
+            CAL     XCHGI       ;Exchange HL<->DE and increment DE
+            DCC                 ;Decrement byte counter
+            JFZ     MEMCPY2     ;Continue for all bytes
+            RET
+            
+;Exchange DE and HL register pairs then increment DE as 16 bits
+XCHGI       LBL                 ;Exchange L and E
+            LLE
+            LEB
+            LBH                 ;Exchange H and D
+            LHD
+            LDB
+            INE                 ;Inc E, low byte of DE
+            RFZ                 ;Return if no carry
+            IND                 ;Otherwise inc high byte D
+            RET
+            END
+
+
+Interrupts[edit]
+Intel SIM8-01 CPU board, possibly the first use of the 8008. Contains 1K bytes of RAM in 32 chips and 2K byte of EPROM in eight chips. No provision for interrupts.
+Interrupts on the 8008 are only partially implemented. After the INT line is asserted, the 8008 acknowledges the interrupt by outputting a state code of S0,S1,S2 = 011 at T1I time. At the subsequent instruction fetch cycle, an instruction is "jammed" (Intel's word) by external hardware on the bus. Typically this is a one-byte RST instruction.
+At this point, there is a problem. The 8008 has no provision to save its architectural state. The 8008 can only write to memory via an address in the HL register pair. When interrupted, there is no mechanism to save HL so there is no way to save the other registers and flags via HL. Because of this, some sort of external memory device such as a hardware stack or a pair of read/write registers must be attached to the 8008 via the I/O ports to help save the state of the 8008.[20]
+
+Designers[edit]
+CTC (Instruction set and architecture): Victor Poor and Harry Pyle.
+Intel (Implementation in silicon):
+Ted Hoff and Stan Mazor proposed a single-chip implementation of the CTC architecture, using RAM-register memory rather than shift-register memory, and also added a few instructions and interrupt facility. The 8008 (originally called 1201) chip design started before the 4004 development. Hoff and Mazor, however, could not and did not develop a "silicon design" because they were neither chip designers nor process developers, and furthermore the necessary bootstrap load silicon-gate-based design methodology and circuits, under development by Federico Faggin for the 4004, were not yet available.[21]
+Federico Faggin, having finished the design of the 4004, became leader of the project from January 1971 until its successful completion in April 1972, after it had been suspended – for lack of progress – for about seven months.
+Hal Feeney, project engineer, did the detailed logic design, circuit design, and physical layout under Faggin's supervision, employing the same design methodology that Faggin had originally developed for the Intel 4004 microprocessor, and utilizing the basic circuits he had developed for the 4004. A combined "HF" logo was etched onto the chip about halfway between the D5 and D6 bonding pads.
+Second sources[edit]
+
+Intel 8008 second sources
+
+
+VEB Mikroelektronik "Karl Marx" Erfurt (MME) U808 (GDR)
+
+
+
+MicroSystems International (MIL) MF8008
+
+
+
+Siemens SAB8008
+
+
+See also[edit]
+Intel Intellec 8
+Mark-8 and SCELBI, 8008-based computer kits
+MCM/70 and Micral, pioneering microcomputers
+PL/M, the first programming language targeting a microprocessor, the Intel 8008, developed by Gary Kildall
+Notes[edit]
+
+
+^ CPZS flags are presented as a group in this order during state 4 of the PCC cycle of the INP instruction.
+
+
+References[edit]
+
+
+^ "The Life Cycle of a CPU". www.cpushack.com.
+
+^ "Thirty years in robotics – Robotics". 2014-05-19. Archived from the original on 2014-03-19. Retrieved 2018-04-11.
+
+^ a b c d e Wood, Lamont (2008-04-08), "Forgotten PC history: The true origins of the personal computer", Computerworld, archived from the original on 2018-11-16, retrieved 2014-12-02
+
+^ a b "The Intel 8008". Intel. Retrieved 2024-12-15.
+
+^ Shirriff, Ken. "The Texas Instruments TMX 1795: the (almost) first, forgotten microprocessor". righto.com. Retrieved 2025-03-06.
+
+^ Ken Shirriff (2021-01-26). "On the Metal: Ken Shirriff". Oxide Computing Podcast (Interview). Interviewed by Bryan Cantrill; Jessie Frazelle; Steve Tuck.  Event occurs at 19:52. First, the 4004 and the 8008 are entirely different chips. Marketing makes them sound like it's just a 4-bit and 8-bit version, but they're totally different.
+
+^ "Inside the world's long-lost first microcomputer". cnet.com. 2010-01-08. Retrieved 2024-10-09.
+
+^ Brunel University, 1974. Master of Technology dissertation, L. R. Crawford.
+
+^ "XI. Appendices III. MCS-8 Software Package - Simulator". MCS-8 Microcomputer Set - 8008 - 8 Bit Parallel Central Processor Unit - Users Manual (PDF). Revision 4, Second Printing. Santa Clara, California, USA: Intel Corporation. 1974 [November 1973]. pp. 84–94. MCS-056-0574/25K. Archived (PDF) from the original on 2023-11-25. Retrieved 2023-11-25. (132 pages)
+
+^ Kildall, Gary Arlen (1974-06-27). "High-level language simplifies microcomputer programming" (PDF). Electronics. McGraw-Hill Education. pp. 103–109 [108]. Archived (PDF) from the original on 2021-11-14. Retrieved 2021-11-14.
+
+^ "8008 Simulator INTERP/8" (PDF). Microcomputer Software. Santa Clara, California, USA: Intel Corporation. March 1975. Product Code 98-118A. MCS-514-0375/27.5K. Archived (PDF) from the original on 2023-11-25. Retrieved 2023-11-25. (2 pages)
+
+^ 8008 8 Bit Parallel Central Processor Unit (PDF) (Rev 4, Second Printing ed.). Intel. November 1973. pp. 14, 17. Retrieved 2024-04-30.
+
+^ a b "MCS-8 Micro Computer Set Users Manual" (PDF). Intel Corporation. 1972. Retrieved 2010-12-04.
+
+^ "Intel 8008 Opcodes". Retrieved 2010-12-04.
+
+^ "Intel 8008 (i8008) microprocessor family". CPU World. 2003–2010. Retrieved 2010-12-04.
+
+^ Intel. "Gordon Moore and Moore's Law". Archived from the original on 2009-09-04. Retrieved 2009-06-28.
+
+^ Intel (2012). "Intel Chips: timeline poster".
+
+^ Intel (2008). "Microprocessor Quick Reference Guide".
+
+^ Oral History of Federico Faggin (PDF) (X2941.2005 ed.). Computer History Museum. 2004-09-22. p. 82. Retrieved 2023-07-14.
+
+^ Chamberklin, Hal (October 1975). ""Add a Stack to your 8008". Byte. 0 (2): 52–56. Retrieved 2024-10-05.
+
+^ Faggin, Federico; Hoff, Jr., Marcian E.; Mazor, Stanley; Shima, Masatoshi (December 1996). "The History of the 4004". IEEE Micro. 16 (6). Los Alamitos, USA: IEEE Computer Society: 10–19. doi:10.1109/40.546561. ISSN 0272-1732.
+
+
+External links[edit]
+MCS-8 User Manual with 8008 data sheet (1972)
+Wood, Lamont (2008-08-08). "Forgotten PC history: The true origins of the personal computer". Computer World. Archived from the original on 2018-11-16. Retrieved 2014-12-02.
+The Intel 8008 support page unofficial
+The DigiBarn Computer Museum's page on Bill Pentz' Sacramento State machine, a full microcomputer built around the 8008
+Martin, Donald P. (1974). Microcomputer Design. Martin Research.
+— (1976). Microcomputer Design (2 ed.). Martin Research. OCLC 911808003.
+Runyan, Grant (April 1977). "Now — BASIC for the 8008 — Even!". Kilobaud Magazine: 116–118.
+"A BASIC language interpreter for the Intel 8008 microprocessor". University of Illinois. 1974.
+8008 Assembly Language Reference Card
+Shirriff, Ken (December 2016). "Die photos and analysis of the revolutionary 8008 microprocessor, 45 years old".
+— (February 2017). "Reverse-engineering the surprisingly advanced ALU of the 8008 microprocessor".
+— (October 2020). "How the bootstrap load made the historic Intel 8008 processor possible".
+— (November 2020). "Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor".
+vteIntel processorsLists
+Processors
+Atom
+Celeron
+Pentium
+Pro
+II
+III
+4
+D
+M
+Core
+2
+i3
+i5
+i7
+i9
+M
+Xeon
+Quark
+Itanium
+Microarchitectures
+Chipsets
+MicroarchitecturesIA-32 (32-bit x86)
+P5
+P6
+P6 variant (Pentium M)
+P6 variant (Enhanced Pentium M)
+NetBurst
+x86-64 (64-bit)
+Core
+Penryn
+Nehalem
+Westmere
+Sandy Bridge
+Ivy Bridge
+Haswell
+Broadwell
+Skylake
+Cannon Lake
+Sunny Cove
+Cypress Cove
+Willow Cove
+Golden Cove
+Raptor Cove
+Redwood Cove
+Lion Cove
+x86 ULV
+Bonnell
+Saltwell
+Silvermont
+Goldmont
+Goldmont Plus
+Tremont
+Gracemont
+Current productsx86-64 (64-bit)
+Atom
+Celeron
+Pentium
+Core
+10th gen
+11th gen
+12th gen
+13th gen
+14th gen
+Core Ultra
+1st gen
+2nd gen
+Xeon
+DiscontinuedBCD oriented (4-bit)
+4004 (1971)
+4040 (1974)
+pre-x86 (8-bit)
+8008 (1972)
+8080 (1974)
+8085 (1977)
+Early x86 (16-bit)
+8086 (1978)
+8088 (1979)
+80186 (1982)
+80188 (1982)
+80286 (1982)
+x87 (external FPUs)
+8/16-bit databus
+8087 (1980)
+16-bit databus
+80C187
+80287
+80387SX
+32-bit databus
+80387DX
+80487
+IA-32 (32-bit x86)
+i386
+SX
+376
+EX
+i486
+SX
+DX2
+DX4
+SL
+RapidCAD
+OverDrive
+A100/A110
+Atom
+CE
+SoC
+Celeron (1998)
+M
+D (2004)
+Pentium
+Original i586
+OverDrive
+Pro
+II
+III
+4
+M
+Dual-Core
+Core
+Xeon
+P6-based
+NetBurst-based
+Core-based
+Quark
+Tolapai
+x86-64 (64-bit)
+Atom
+SoC
+CE
+Celeron
+D
+Dual-Core
+Pentium
+4
+D
+Extreme Edition
+Dual-Core
+Core
+2
+1st gen
+2nd gen
+3rd gen
+4th gen
+5th gen
+6th gen
+7th gen
+8th gen
+9th gen
+10th gen
+11th gen
+M
+Xeon
+Nehalem-based
+Sandy Bridge-based
+Ivy Bridge-based
+Haswell-based
+Broadwell-based
+Skylake-based
+Other
+CISC
+iAPX 432
+EPIC
+Itanium
+RISC
+i860
+i960
+StrongARM
+XScale
+Related
+Tick–tock model
+Process–architecture–optimization model
+Intel GPUs
+GMA
+Intel HD, UHD, and Iris Graphics
+Xe
+Arc
+PCHs
+SCHs
+ICHs
+PIIXs
+Stratix
+Codenames
+Larrabee
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Intel_8008&oldid=1285044906"
+Categories: Intel microprocessors8-bit microprocessorsComputer-related introductions in 1972Hidden categories: Use dmy dates from October 2018Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from April 2024All accuracy disputesArticles with disputed statements from November 2024Articles with unsourced statements from February 2017
+
+
+
+
+
+
+ This page was last edited on 11 April 2025, at 10:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Intel 8008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

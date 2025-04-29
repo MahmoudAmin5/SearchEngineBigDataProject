@@ -1,0 +1,605 @@
+https://en.wikipedia.org/wiki/Metal_gate
+
+
+
+
+Metal gate - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Aluminum gate
+
+
+
+
+
+
+
+
+2
+Polysilicon
+
+
+
+
+
+
+
+
+3
+NMOS and CMOS
+
+
+
+
+
+
+
+
+4
+Modern processes return to metal
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Metal gate
+
+
+
+4 languages
+
+
+
+
+DeutschEspañolفارسی日本語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Aluminum alloying into < 1 1 1 > silicon due to excessive aluminum annealing. The integrated circuit aluminum layer was removed via chemical etching to reveal this detail.
+A metal gate, in the context of a lateral metal–oxide–semiconductor (MOS) stack, is the gate electrode separated by an oxide from the transistor's channel – the gate material is made from a metal. In most MOS transistors since about the mid-1970s, the "M" for metal has been replaced by polysilicon, but the name remained.
+
+
+Aluminum gate[edit]
+The first MOSFET (metal–oxide–semiconductor field-effect transistor) was made by Mohamed Atalla and Dawon Kahng at Bell Labs in 1959, and demonstrated in 1960.[1] They used silicon as channel material and a non-self-aligned aluminum gate.[2]  Aluminum gate metal (typically deposited in an evaporation vacuum chamber onto the wafer surface) was common through the early 1970s.
+
+Polysilicon[edit]
+Further information: Self-aligned gate
+By the late 1970s, the industry had moved away from aluminum as the gate material in the metal–oxide–semiconductor stack due to fabrication complications and performance issues.[citation needed] A material called polysilicon (polycrystalline silicon, highly doped with donors or acceptors to reduce its electrical resistance) was used to replace aluminum.
+Polysilicon can be deposited easily via chemical vapor deposition (CVD) and is tolerant to subsequent manufacturing steps which involve extremely high temperatures (in excess of 900–1000 °C), where metal was not.  Particularly, metal (most commonly aluminum –  a Type III (P-type) dopant) has a tendency to disperse into (alloy with) silicon during these thermal annealing steps. [3][4] In particular, when used on a silicon wafer with a < 1 1 1 > crystal orientation, excessive alloying of aluminum (from extended high temperature processing steps) with the underlying silicon can create a short circuit between the diffused FET source or drain areas under the aluminum and across the metallurgical junction into the underlying substrate –  causing irreparable circuit failures. These shorts are created by pyramidal-shaped spikes of silicon-aluminum alloy –  pointing vertically "down" into the silicon wafer.  The practical high-temperature limit for annealing aluminum on silicon is on the order of 450 °C.
+Polysilicon is also attractive for the easy manufacturing of self-aligned gates. The implantation or diffusion of source and drain dopant impurities is carried out with the gate in place, leading to a channel perfectly aligned to the gate without additional lithographic steps with the potential for misalignment of the layers.
+
+NMOS and CMOS[edit]
+Further information: NMOS logic and CMOS
+In NMOS and CMOS technologies, over time and elevated temperatures, the positive voltages employed by the gate structure can cause any existing positively charged sodium impurities directly under the positively charged gate to diffuse through the gate dielectric and migrate to the less-positively-charged channel surface, where the positive sodium charge has a higher effect on the channel creation –  thus lowering the threshold voltage of an N-channel transistor and potentially causing failures over time. Earlier PMOS technologies were not sensitive to this effect because the positively charged sodium was naturally attracted towards the negatively charged gate, and away from the channel, minimizing threshold voltage shifts. N-channel, metal gate processes (in the 1970s) imposed a very high standard of cleanliness (absence of sodium) –  difficult to achieve in that timeframe, resulting in high manufacturing costs. Polysilicon gates –  while sensitive to the same phenomenon, could be exposed to small amounts of HCl gas during subsequent high-temperature processing (commonly called "gettering") to react with any sodium, binding with it to form NaCl and carrying it away in the gas stream, leaving an essentially sodium-free gate structure –  greatly enhancing reliability.
+However, polysilicon doped at practical levels does not offer the near-zero electrical resistance of metals, and is therefore not ideal for charging and discharging the gate capacitance of the transistor –  potentially resulting in slower circuitry.
+
+Modern processes return to metal[edit]
+From the 45 nm node onward, the metal gate technology returns, together with the use of high-dielectric (high-κ) materials, pioneered by Intel developments.
+The candidates for the metal gate electrode are, for NMOS, Ta, TaN, Nb (single metal gate) and for PMOS WN/RuO2 (the PMOS metal gate is normally composed by two layers of metal). Due to this solution, the strain capacity on the channel can be improved (by the metal gate). Moreover, this enables less current perturbations (vibrations) in the gate (due to the disposition of electrons inside the metal).
+
+See also[edit]
+Gate oxide
+Multigate device
+References[edit]
+
+
+^ "1960 - Metal Oxide Semiconductor (MOS) Transistor Demonstrated". The Silicon Engine. Computer History Museum. Retrieved 25 September 2019.
+
+^ Voinigescu, Sorin (2013). High-Frequency Integrated Circuits. Cambridge University Press. p. 164. ISBN 9780521873024.
+
+^ "Metallization: Aluminum Technology".
+
+^ Fujikawa, Shin-ichiro; Hirano, Ken-ichi; Fukushima, Yoshiaki (December 1978). "Diffusion of silicon in aluminum". Metallurgical Transactions A. 9: 1811-1815. doi:10.1007/BF02663412.
+
+
+External links[edit]
+ Media related to Metal gates at Wikimedia Commons
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Metal_gate&oldid=1280891609"
+Categories: MOSFETsSemiconductor structuresMetal buildings and structuresHidden categories: All articles with unsourced statementsArticles with unsourced statements from December 2018Commons category link is locally defined
+
+
+
+
+
+
+ This page was last edited on 17 March 2025, at 01:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Metal gate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

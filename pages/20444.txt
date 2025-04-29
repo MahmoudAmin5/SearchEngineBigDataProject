@@ -1,0 +1,648 @@
+https://en.wikipedia.org/wiki/Summit_(supercomputer)
+
+
+
+
+Summit (supercomputer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Uses
+
+
+
+
+
+
+
+
+3
+Design
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Summit (supercomputer)
+
+
+
+24 languages
+
+
+
+
+العربيةAzərbaycancaБългарскиBosanskiCatalàČeštinaDeutschEspañolفارسیFrançais한국어Italianoעבריתമലയാളം日本語PolskiPortuguêsРусскийSuomiTürkçeУкраїнськаTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Supercomputer developed by IBM
+SummitSponsorsUnited States Department of EnergyOperatorsIBMArchitecture9,216 POWER9 22-core CPUs27,648 Nvidia Tesla V100 GPUs[1]Power13 MW[2]Operating systemRed Hat Enterprise Linux (RHEL)[3][4]Storage250 PBSpeed200 petaFLOPS (peak)RankingTOP500: 7 (1H2024)PurposeScientific researchWebsitewww.olcf.ornl.gov/olcf-resources/compute-systems/summit/
+Summit components
+POWER9 wafer with TOP500 certificates for Summit and Sierra
+Summit or OLCF-4 was a supercomputer developed by IBM for use at Oak Ridge Leadership Computing Facility (OLCF), a facility at the Oak Ridge National Laboratory, United States of America. It held the number 1 position on the TOP500 list from June 2018 to June 2020.[5][6] As of June 2024, its LINPACK benchmark was clocked at 148.6 petaFLOPS.[7] Summit was decommissioned on November 15, 2024.[8]
+As of November 2019, the supercomputer had ranked as the 5th most energy efficient in the world with a measured power efficiency of 14.668 gigaFLOPS/watt.[9] Summit was the first supercomputer to reach exaflop (a quintillion operations per second) speed, on a non-standard metric, achieving 1.88 exaflops during a genomic analysis and is expected to reach 3.3 exaflops using mixed-precision calculations.[10]
+
+
+History[edit]
+The United States Department of Energy awarded a $325 million contract in November 2014 to IBM, Nvidia and Mellanox. The effort resulted in  construction of Summit and Sierra. Summit is tasked with civilian scientific research and is located at the Oak Ridge National Laboratory in Tennessee. Sierra is designed for nuclear weapons simulations and is located at the Lawrence Livermore National Laboratory in California.[11]
+Summit was estimated to cover 5,600 square feet (520 m2)[12] and require 219 kilometres (136 mi) of cabling,[13] and was designed to be used for research in diverse fields such as cosmology, medicine, and climatology.[14]
+In 2015, the project called Collaboration of Oak Ridge, Argonne and Lawrence Livermore (CORAL) included a third supercomputer named Aurora and was planned for installation at Argonne National Laboratory.[15] By 2018, Aurora was re-engineered with completion anticipated in 2021 as an exascale computing project along with Frontier and El Capitan to be completed shortly thereafter.[16] Aurora was completed in late 2022.[17]
+
+Uses[edit]
+The Summit supercomputer was built for research in energy, artificial intelligence, human health, and other areas.[18] It has been used in earthquake simulation, extreme weather simulation, materials science, genomics, and predicting the lifetime of neutrinos.[19]
+
+Design[edit]
+This section may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (May 2020) (Learn how and when to remove this message)
+Each of its 4,608 nodes consist of 2 IBM POWER9 CPUs, 6 Nvidia Tesla GPUs,[20] with over 600 GB of coherent memory (96 GB HBM2 plus 512 GB DDR4) which is addressable by all CPUs and GPUs, plus 800 GB of non-volatile RAM that can be used as a burst buffer or as extended memory.[21] The POWER9 CPUs and Nvidia Volta GPUs are connected using Nvidia's high speed NVLink. This allows for a heterogeneous computing model.[22]
+To provide a high rate of data throughput, the nodes are connected in a non-blocking fat-tree topology using a dual-rail Mellanox EDR InfiniBand interconnect for both storage and inter-process communications traffic, which delivers both 200 Gbit/s bandwidth between nodes and in-network computing acceleration for communications frameworks such as MPI and SHMEM/PGAS.
+The storage for Summit [23] has a fast in-system layer and a center-wide parallel filesystem layer. The in-system layer is optimized for fast storage with SSDs on each node, while the center-wide parallel file system provides easy to access data stored on hard drives. The two layers work together seamlessly so users do not have to differentiate their storage needs. The center-wide parallel file system is GPFS (IBM Storage Scale). It provides 250PB of storage. The cluster delivers 2.5 TB/s of single stream read peak throughput and 1 TB/s of 1M file throughput. It was one of the first supercomputers that also required extremely fast metadata performance to support AI/ML workloads exemplified by the 2.6M 32k file creates per second it delivers.
+
+See also[edit]
+Titan (supercomputer) – OLCF-3
+Frontier (supercomputer) – OLCF-5
+TOP500
+OpenBMC
+Red Hat Enterprise Linux
+References[edit]
+
+
+^ "ORNL Launches Summit Supercomputer". www.ornl.gov. June 8, 2018.
+
+^ Liu, Zhiye (26 June 2018). "US Dethrones China With IBM Summit Supercomputer". Tom's Hardware. Retrieved 19 July 2018.
+
+^ Kerner, Sean Michael (8 June 2018). "IBM Unveils Summit, the World's Fastest Supercomputer (For Now)". Server Watch. Retrieved 24 February 2020.
+
+^ Nestor, Marius (11 June 2018). "Meet IBM Summit, World's Fastest and Smartest Supercomputer Powered by Linux". Softpedia News. Retrieved 24 February 2020.
+
+^ Lohr, Steve (8 June 2018). "Move Over, China: U.S. Is Again Home to World's Speediest Supercomputer". The New York Times. Retrieved 19 July 2018.
+
+^ "Top 500 List - November 2022". TOP500. November 2022. Retrieved 13 April 2022.
+
+^ "November 2022 | TOP500 Supercomputer Sites". TOP500. Retrieved 13 April 2022.
+
+^ "2024 Notable System Changes — OLCF User Documentation". 31 October 2024. Retrieved 1 January 2025.
+
+^ "Green500 List - November 2019". TOP500. Retrieved 7 April 2020.
+
+^ Holt, Kris (8 June 2018). "The US again has the world's most powerful supercomputer". Engadget. Retrieved 20 July 2018.
+
+^ Shankland, Steven (14 September 2015). "IBM, NVIDIA land $325M supercomputer deal". C|Net. Retrieved 29 December 2015.
+
+^ "America's most powerful supercomputer is a machine for scientific discovery" (PDF). www.olcf.ornl.gov.
+
+^ Alcorn, Paul (20 November 2017). "Regaining America's Supercomputing Supremacy With The Summit Supercomputer". Tom's Hardware. Retrieved 20 November 2017.
+
+^ Noyes, Katherine (16 March 2015). "IBM, NVIDIA rev HPC engines in next-gen supercomputer push". PC World. Retrieved 29 December 2015.
+
+^ R. Johnson, Colin (15 April 2015). "IBM vs. Intel in Supercomputer Bout". EE Times. Retrieved 29 December 2015.
+
+^ Morgan, Timothy Prickett (9 April 2018). "Bidders Off And Running After $1.8 Billion DOE Exascale Super Deals". The Next Platform. Retrieved 20 July 2018.
+
+^ Hemsoth, Nicole (2021-09-23). "A Status Check on Global Exascale Ambitions". The Next Platform. Retrieved 2021-10-15.
+
+^ "Introducing Summit". Retrieved 24 December 2019.
+
+^ "Summit Supercomputer is Already Making its Mark on Science". 20 September 2018. Retrieved 5 August 2020.
+
+^ "The most powerful computers on the planet - Summit and Sierra". IBM. 6 June 2018. Retrieved 4 April 2019.
+
+^ Lilly, Paul (January 25, 2017). "NVIDIA 12nm FinFET Volta GPU Architecture Reportedly Replacing Pascal In 2017". HotHardware.
+
+^ "Summit and Sierra Supercomputers: An Inside Look at the U.S. Department of Energy's New Pre-Exascale Systems" (PDF). November 1, 2014.
+
+^ Oral, Sarp; Vazhkudai, Sudharshan; Wang, Feiyi; Zimmer, Christopher; Brumgard, Christopher; Hanley, Jesse; Markomanolis, George; Miller, Ross; Leverman, Dustin B. (2019-11-01). End-to-end I/O portfolio for the summit supercomputing ecosystem (Report). Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States). OSTI 1619016.
+
+
+External links[edit]
+A time-lapse video of Summit construction
+
+
+Records
+
+
+Preceded bySunway TaihuLight93.01 petaFLOPS
+
+ World's most powerful supercomputer June 2018 - June 2020148.6 petaFLOPS
+
+Succeeded byRIKEN Fugaku0.54 exaFLOPS
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Summit_(supercomputer)&oldid=1287155544"
+Categories: GPGPU supercomputersIBM supercomputersOak Ridge National LaboratoryPetascale computers64-bit computersHidden categories: Articles with short descriptionShort description matches WikidataWikipedia articles that are too technical from May 2020All articles that are too technical
+
+
+
+
+
+
+ This page was last edited on 24 April 2025, at 10:52 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Summit (supercomputer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1411 @@
+https://en.wikipedia.org/wiki/History_of_the_transistor
+
+
+
+
+History of the transistor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Origins of transistor concept
+
+
+
+
+
+
+
+
+2
+First working transistor
+
+
+
+
+
+
+
+
+3
+Etymology
+
+
+
+
+
+
+
+
+4
+Early conflict
+
+
+
+
+
+
+
+
+5
+Improvements in Transistor Design
+
+
+
+
+Toggle Improvements in Transistor Design subsection
+
+
+
+
+
+5.1
+Switch to silicon
+
+
+
+
+
+
+
+
+
+
+6
+Silicon surface passivation
+
+
+
+
+Toggle Silicon surface passivation subsection
+
+
+
+
+
+6.1
+Planar process
+
+
+
+
+
+
+
+
+6.2
+MOSFET
+
+
+
+
+
+
+
+
+
+
+7
+Early commercialization
+
+
+
+
+Toggle Early commercialization subsection
+
+
+
+
+
+7.1
+Transistor radios
+
+
+
+
+
+
+
+
+7.2
+Hobby use
+
+
+
+
+
+
+
+
+7.3
+Transistor computers
+
+
+
+
+
+
+
+
+
+
+8
+MOSFET (MOS transistor)
+
+
+
+
+Toggle MOSFET (MOS transistor) subsection
+
+
+
+
+
+8.1
+PMOS and NMOS
+
+
+
+
+
+
+
+
+8.2
+CMOS
+
+
+
+
+
+
+
+
+8.3
+Self-aligned gate
+
+
+
+
+
+
+
+
+
+
+9
+MOSFET commercialization
+
+
+
+
+Toggle MOSFET commercialization subsection
+
+
+
+
+
+9.1
+Integrated circuits
+
+
+
+
+
+
+
+
+9.2
+Semiconductor memory
+
+
+
+
+
+
+
+
+9.3
+Microprocessors
+
+
+
+
+
+
+
+
+9.4
+Pocket calculators
+
+
+
+
+
+
+
+
+9.5
+Personal computers
+
+
+
+
+
+
+
+
+9.6
+Power electronics
+
+
+
+
+
+
+
+
+9.7
+Sustainable transistors
+
+
+
+
+
+
+
+
+
+
+10
+Patents
+
+
+
+
+
+
+
+
+11
+References
+
+
+
+
+
+
+
+
+12
+Books and literature
+
+
+
+
+
+
+
+
+13
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+History of the transistor
+
+
+
+9 languages
+
+
+
+
+العربيةবাংলাEspañolEsperantoՀայերենहिन्दीNederlandsРусскийУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This article may misquote or misrepresent many of its sources. Please see the cleanup page for more information. Editors: please remove this warning only after the diffs listed [[Wikipedia talk:Requests for comment/Jagged 85/{{{subpage}}}|here]] have been checked for accuracy. (August 2022)
+
+Transistor technology timeline (summary)
+
+
+Year
+
+Technology
+
+Organization
+
+
+1947
+Point contact
+Bell Labs
+
+
+1948
+Grown junction
+Bell Labs
+
+
+1951
+Alloy junction
+General Electric
+
+
+1953
+Surface barrier
+Philco
+
+
+1953
+JFET
+Bell Labs
+
+
+1954
+Diffused base
+Bell Labs
+
+
+1954
+Mesa
+Bell Labs
+
+
+1959
+Planar
+Fairchild
+
+
+1959
+MOSFET
+Bell Labs
+
+A transistor is a semiconductor device with at least three terminals for connection to an electric circuit. In the common case, the third terminal controls the flow of current between the other two terminals. This can be used for amplification, as in the case of a radio receiver, or for rapid switching, as in the case of digital circuits. The transistor replaced the vacuum-tube triode, also called a (thermionic) valve, which was much larger in size and used significantly more power to operate. The first transistor was successfully demonstrated on December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey. Bell Labs was the research arm of American Telephone and Telegraph (AT&T). The three individuals credited with the invention of the transistor were William Shockley, John Bardeen and Walter Brattain. The introduction of the transistor is often considered one of the most important inventions in history.[1][2]
+Transistors are broadly classified into two categories: bipolar junction transistor (BJT) and field-effect transistor (FET).[3]
+The principle of a field-effect transistor was proposed by Julius Edgar Lilienfeld in 1925.[4] John Bardeen, Walter Brattain and William Shockley invented the first working transistors at Bell Labs, the point-contact transistor in 1947. Shockley introduced the improved bipolar junction transistor in 1948, which entered production in the early 1950s and led to the first widespread use of transistors.
+The MOSFET was invented at Bell Labs between 1955 and 1960, after Frosch and Derick discovered surface passivation by silicon dioxide and used their finding to create the first planar transistors, the first in which drain and source were adjacent at the same surface.[5][6][7][8][9][10] This breakthrough led to mass-production of MOS transistors for a wide range of uses, becoming the basis of processors and solid memories. The MOSFET has since become the most widely manufactured device in history.
+
+
+Origins of transistor concept[edit]
+Julius Edgar Lilienfeld, c. 1934
+The first patent[11] for the field-effect transistor principle was filed in Canada by Austrian-Hungarian physicist Julius Edgar Lilienfeld on October 22, 1925, but Lilienfeld published no research articles about his devices, and his work was ignored by industry. In 1934 German physicist Dr. Oskar Heil patented another field-effect transistor.[12] There is no direct evidence that these devices were built, but later work in the 1990s show that one of Lilienfeld's designs worked as described and gave substantial gain. Legal papers from the Bell Labs patent show that William Shockley and a co-worker at Bell Labs, Gerald Pearson, had built operational versions from Lilienfeld's patents, though their final transistor designs were based on different principles.[13]
+
+John Bardeen, William Shockley and Walter Brattain at Bell Labs, 1948
+The Bell Lab's work on the transistor emerged from war-time efforts to produce extremely pure germanium "crystal" mixer diodes, used in radar units as a frequency mixer element in microwave radar receivers. A parallel project on germanium diodes at Purdue University succeeded in producing the good-quality germanium semiconducting crystals that were used at Bell Labs.[14] Early tube-based circuits did not switch fast enough for this role, leading the Bell team to use solid-state diodes instead.
+After the war, Shockley decided to attempt the building of a triode-like semiconductor device. He secured funding and lab space, and went to work on the problem with Bardeen and Brattain. John Bardeen eventually developed a new branch of quantum mechanics known as surface physics to account for the "odd" behavior they saw, and Bardeen and Walter Brattain eventually succeeded in building a working device.
+The key to the development of the transistor was the further understanding of the process of the electron mobility in a semiconductor. It was realized that if there was some way to control the flow of the electrons from the emitter to the collector of this newly discovered diode (discovered 1874; patented 1906), one could build an amplifier. For instance, if one placed contacts on either side of a single type of crystal, the current would not flow through it. However, if a third contact could then "inject" electrons or holes into the material, the current would flow.
+Actually doing this appeared to be very difficult. If the crystal were of any reasonable size, the number of electrons (or holes) required to be injected would have to be very large, making it less useful as an amplifier because it would require a large injection current to start with. That said, the whole idea of the crystal diode was that the crystal itself could provide the electrons over a very small distance, the depletion region. The key appeared to be to place the input and output contacts very close together on the surface of the crystal on either side of this region.
+Brattain started working on building such a device, and tantalizing hints of amplification continued to appear as the team worked on the problem. Sometimes the system would work, but then stop working unexpectedly. In one instance a non-working system started working when placed in water. The electrons in any one piece of the crystal would migrate about due to nearby charges. Electrons in the emitters, or the "holes" in the collectors, would cluster at the surface of the crystal, where they could find their opposite charge "floating around" in the air (or water). Yet they could be pushed away from the surface with the application of a small amount of charge from any other location on the crystal. Instead of needing a large supply of injected electrons, a very small number in the right place on the crystal would accomplish the same thing.
+Their understanding solved the problem of needing a very small control area to some degree. Instead of needing two separate semiconductors connected by a common, but tiny, region, a single larger surface would serve. The emitter and collector leads would both be placed very close together on the top, with the control lead placed on the base of the crystal. When current was applied to the "base" lead, the electrons or holes would be pushed out, across the block of semiconductor, and collect on the far surface. As long as the emitter and collector were very close together, this should allow enough electrons or holes between them to allow conduction to start.
+An early witness of the phenomenon was Ralph Bray, a young graduate student. He joined the germanium effort at Purdue University in November 1943 and was given the tricky task of measuring the spreading resistance at the metal–semiconductor contact. Bray found a great many anomalies, such as internal high-resistivity barriers in some samples of germanium. The most curious phenomenon was the exceptionally low resistance observed when voltage pulses were applied. This effect remained a mystery because nobody realised, until 1948, that Bray had observed minority-carrier injection –  the effect that was identified by William Shockley at Bell Labs and made the transistor a reality.
+Bray wrote: "That was the one aspect that we missed, but even had we understood the idea of minority carrier injection... we would have said, 'Oh, this explains our effects.' We might not necessarily have gone ahead and said, 'Let's start making transistors,' open up a factory and sell them... At that time the important device was the high back voltage rectifier".[15]
+Shockley's research team initially attempted to build a field-effect transistor (FET), by trying to modulate the conductivity of a semiconductor, but was unsuccessful, mainly due to problems with the surface states, the dangling bond, and the germanium and copper compound materials. In the course of trying to understand the mysterious reasons behind their failure to build a working FET, this led them to instead inventing the bipolar point-contact and junction transistors.[16][17]
+
+First working transistor[edit]
+A stylized replica of the first transistor
+The Bell team made many attempts to build such a system with various tools, but generally failed. Setups where the contacts were close enough were invariably as fragile as the original cat's whisker detectors had been, and would only work briefly, if at all. Eventually they had a practical breakthrough. A piece of gold foil was glued to the edge of a triangular plastic wedge, and then the foil was sliced with a razor at the tip of the triangle. The result was two very closely spaced contacts of gold. When the plastic was pushed down onto the surface of a crystal and voltage applied to the other side (on the base of the crystal), current started to flow from one contact to the other as the base voltage pushed the electrons away from the base towards the other side near the contacts. The point-contact transistor had been invented.
+From Walter Brattain's laboratory notebook entry of 15 December 1947, "When the points were very close together got voltage amp about 2 but not power amp. This voltage amplification was independent of frequency 10 to 10,000 cycles".[18]
+And in the 16 December 1947 notes, "Using this double point contact, contact was made to a germanium surface that had been anodized to 90 volts, electrolyte washed off in H2O and then had some gold spots evaporated on it. The gold contacts were pressed down on the bare surface. Both gold contacts to the surface rectified nicely... The separation between points was about 4x10−3 cm. One point was used as a grid and the other point as a plate. The bias (D.C.) on the grid had to be positive to get amplification... power gain 1.3 voltage gain 15 on a plate bias of about 15 volts".[19]
+Brattain and H. R. Moore made a demonstration to several of their colleagues and managers at Bell Labs on the afternoon of 23 December 1947, often given as the birth date of the transistor. The "PNP point-contact germanium transistor" operated as a speech amplifier with a power gain of 18 in that trial. In 1956 John Bardeen, Walter Houser Brattain, and William Bradford Shockley were honored with the Nobel Prize in Physics "for their researches on semiconductors and their discovery of the transistor effect".
+Twelve people are mentioned as directly involved in the invention of the transistor in the Bell Laboratory.[20]
+At the same time some European scientists were led by the idea of solid-state amplifiers. The German physicist Herbert F. Mataré (1912–2011) had conducted experiments at Telefunken with what he called "Duodiode" (double diode) from 1942, when he first observed transconductance effects with silicon diodes manufactured for German radar equipment for WWII. Finally on 13 August 1948, Mataré and Heinrich Welker (1912–1981), working at Compagnie des Freins et Signaux Westinghouse in Aulnay-sous-Bois, France applied for a patent on an amplifier based on the minority carrier injection process which they called the "Transistron".[21][22][23][24] The device was shown publicly on 18 May 1949. Transistrons were commercially manufactured for the French telephone company and military, and in 1953 a solid-state radio receiver with four transistrons was demonstrated at the Düsseldorf Radio Fair.
+As Bell Labs did not make a public announcement of their transistor before June 1948, the transistron was an independent parallel discovery and development.
+
+Etymology[edit]
+Bell Telephone Laboratories needed a generic name for the new invention: "Semiconductor Triode", "Surface States Triode", "Crystal Triode", "Solid Triode" and "Iotatron" were all considered, but "Transistor," coined by John R. Pierce, was the clear winner of an internal ballot (owing in part to the affinity that Bell engineers had developed for the suffix "-istor").[25][26] The rationale for the name is described in the following extract from the company's Technical Memorandum calling for votes:
+
+Transistor. This is an abbreviated combination of the words "transconductance" or "transfer", and "varistor". The device logically belongs in the varistor family, and has the transconductance or transfer impedance of a device having gain, so that this combination is descriptive.— Bell Telephone Laboratories — Technical Memorandum (May 28, 1948)
+Pierce recalled the naming somewhat differently:
+
+The way I provided the name, was to think of what the device did. And at that time, it was supposed to be the dual of the vacuum tube. The vacuum tube had transconductance, so the transistor would have 'transresistance.' And the name should fit in with the names of other devices, such as varistor and thermistor. And. . . I suggested the name 'transistor.'— John R. Pierce, interviewed for PBS show "Transistorized!"
+The Nobel Foundation states that the term is a combination of the words "transfer" and "resistor".[27]
+
+Early conflict[edit]
+Shockley was upset about the device being credited to Brattain and Bardeen, who he felt had built it "behind his back" to take the glory.  Matters became worse when Bell Labs lawyers found that some of Shockley's own writings on the transistor were close enough to those of an earlier 1925 patent by Julius Edgar Lilienfeld that they thought it best that his name be left off the patent application.
+
+Improvements in Transistor Design[edit]
+Switch to silicon[edit]
+Germanium was difficult to purify and had a limited operational temperature range. Scientists theorized that silicon would be easier to fabricate, but few bothered to investigate this possibility. Morris Tanenbaum et al. at Bell Laboratories[28] were the first to develop a working silicon transistor on January 26, 1954.[29] A few months later, Gordon Teal, working independently at Texas Instruments, developed a similar device. Both of these devices were made by controlling the doping of single silicon crystals while they were grown from molten silicon. A superior method was developed by Morris Tanenbaum and Calvin S. Fuller at Bell Laboratories in early 1955 by the gaseous diffusion of donor and acceptor impurities into single crystal silicon chips.[30]
+Up until the late 1950s, however, germanium remained the dominant semiconductor material for transistors and other semiconductor devices. Germanium was initially considered the more effective semiconductor material, as it was able to demonstrate better performance due to higher carrier mobility.[31][32] The relative lack of performance in early silicon semiconductors was due to electrical conductivity being limited by unstable quantum surface states,[33] preventing electricity from reliably penetrating the surface to reach the semiconducting silicon layer.[34][35]
+
+Silicon surface passivation[edit]
+Main article: Surface passivation
+See also: Thermal oxidationSurface passivation, the process by which a semiconductor surface is rendered inert, and does not change semiconductor properties as a result of interaction with air or other materials in contact with the surface or edge of the crystal, was first discovered by Carl Frosch and Lincoln Derrick at Bell Labs between 1955 and 1957.[36][37][38][39] Frosch and Derrick showed that a silicon dioxide (SiO2) layer protected silicon wafers against the environment, masked against dopant diffusion into silicon and electrically insulated and demonstrated it by creating the first silicon dioxide transistors, the first transistors in which drain and source were adjacent at the surface insulated by a SiO2 layer.[37]
+Planar process[edit]
+Main articles: Planar process and Planar transistor
+Jean Hoerni was aware of the work done by Frosch and Derick at Bell Labs.[40] Later, Hoerni attended a meeting where Atalla presented a paper about passivation based on the previous results at Bell Labs.[40] Taking advantage of silicon dioxide's passivating effect on the silicon surface, Hoerni proposed to make transistors that were protected by a layer of silicon dioxide[40] and issued a first patent in 1959,[41][42] while working at Fairchild Semiconductor.
+
+MOSFET[edit]
+Main article: MOSFET
+In 1959, the MOSFET was introduced. In 2020, it was still the dominant transistor type in use, with  an estimated total of 13 sextillion (1.3×1022) MOSFETs manufactured between 1960 and 2018. The key advantages of a MOSFET transistors over BJTs are that they consume no current except when switching states and they have faster switching speed (ideal for digital signals).
+
+Early commercialization[edit]
+The world's first commercial transistor production line was at the Western Electric plant on Union Boulevard in Allentown, Pennsylvania. Production began on Oct. 1, 1951 with the point contact germanium transistor.[43]
+The first commercial application of transistors in telecommunication was in the Fall of 1952 in tone generators for multifrequency signaling of the No. 5 Crossbar switching system in the Englewood, NJ installation, used for the first field trial of direct distance dialing (DDD).[44]
+By 1953, the transistor was being used in some products, such as hearing aids and telephone exchanges, but there were still significant issues preventing its broader application, such as sensitivity to moisture and the fragility of the wires attached to germanium crystals.[45] Donald G. Fink, Philco's director of research, summarized the status of the transistor's commercial potential with an analogy:  "Is it a pimpled adolescent, now awkward, but promising future vigor? Or has it arrived at maturity, full of languor, surrounded by disappointments?"[45]
+Semiconductor companies initially focused on junction transistors in the early years of the semiconductor industry. However, the junction transistor was a relatively bulky device that was difficult to manufacture on a mass-production basis, which limited it to a number of specialised applications.[46]
+
+Transistor radios[edit]
+Main article: Transistor radio
+The Regency TR-1 which used Texas Instruments' NPN transistors, was the world's first commercially produced transistor radio.
+Prototypes of all-transistor AM radio receivers were demonstrated, but were really only laboratory curiosities. However, in 1950 Shockley developed a radically different type of solid-state amplifier which became known as the bipolar junction transistor, which works on a completely different principle than the point-contact transistor. Morgan Sparks made the bipolar junction transistor into a practical device.[47][48] These were also licensed to a number of other electronics companies, including Texas Instruments, who produced a limited run of transistor radios as a sales tool. Early transistors were chemically unstable and only suitable for low-power, low-frequency applications, but as transistor design developed, these problems were slowly overcome.
+There are numerous claimants to the title of the first company to produce practical transistor radios. Texas Instruments had demonstrated all-transistor AM radios as early as 1952, but their performance was well below that of equivalent vacuum tube models. A workable all-transistor radio was demonstrated in August 1953 at the Düsseldorf Radio Fair by the German firm Intermetall. It was built with four of Intermetall's hand-made transistors, based upon the 1948 invention of Herbert Mataré and Heinrich Welker. However, as with the early Texas units (and others) only prototypes were ever built; it was never put into commercial production.
+The first transistor radio is often incorrectly attributed to Sony (originally Tokyo Tsushin Kogyo), which released the TR-55 in 1955. However, it was predated by the Regency TR-1, made by the Regency Division of I.D.E.A. (Industrial Development Engineering Associates) of Indianapolis, Indiana, which was the first practical transistor radio.[citation needed] The TR-1 was announced on October 18, 1954, and put on sale in November 1954 for US$49.95 (the equivalent of about US$500 in year-2020 dollars) and sold about 150,000 units.[citation needed]
+The TR-1 used four Texas Instruments NPN transistors and had to be powered by a 22.5-volt battery, since the only way to get adequate radio frequency performance out of early transistors was to run them close to their collector-to-emitter breakdown voltage. This made the TR-1 very expensive to run, and it was far more popular for its novelty or status value than its actual performance, rather in the fashion of the first MP3 players.
+Still, aside from its indifferent performance, the TR-1 was a very advanced product for its time, using printed circuit boards, and what were then considered micro-miniature components.
+Masaru Ibuka, co-founder of the Japanese firm Sony, was visiting the United States when Bell Labs announced the availability of manufacturing licenses, including detailed instructions on how to manufacture junction transistors. Ibuka obtained special permission from the Japanese Ministry of Finance to pay the $50,000 license fee, and in 1955 the company introduced their own five-transistor "coatpocket" radio, the TR-55, under the new brand name Sony. This product was soon followed by more ambitious designs, but it is generally regarded as marking the commencement of Sony's growth into a manufacturing superpower.
+The TR-55 was quite similar to the Regency TR-1 in many ways, being powered by the same sort of 22.5-volt battery, and was not much more practical. Note: according to the schematic, the TR-55 used a 6 volt supply.[49] Very few were distributed outside Japan. It was not until 1957 that Sony produced their ground-breaking "TR-63" shirt pocket radio, a much more advanced design that ran on a standard 9-volt battery and could compete favorably with vacuum tube portables. The TR-63 was also the first transistor radio to use all miniature components. (The term "pocket" was a matter of some interpretation, as Sony allegedly had special shirts made with oversized pockets for their salesmen.)
+
+1955 Chrysler–Philco all transistor car radio – "Breaking News" radio broadcast announcement
+In the April 28th 1955 edition of the Wall Street Journal, Chrysler and Philco announced that they had developed and produced the world's first all-transistor car radio.[50] Chrysler made the all-transistor car radio, Mopar model 914HR, available as an "option" in Fall 1955 for its new line of 1956 Chrysler and Imperial cars, which hit the showroom floor on October 21, 1955. The all-transistor car radio was a $150 option.[51][52][53]
+The Sony TR-63, released in 1957, was the first mass-produced transistor radio, leading to the mass-market penetration of transistor radios.[54] The TR-63 went on to sell seven million units worldwide by the mid-1960s.[55]  With the visible success of the TR-63, Japanese competitors such as Toshiba and Sharp Corporation  joined the market.[56] Sony's success with transistor radios led to transistors replacing vacuum tubes as the dominant electronic technology in the late 1950s.[57]
+
+Hobby use[edit]
+The  first low-cost junction transistor available to the general public was the CK722, a PNP germanium small signal unit introduced by Raytheon in early 1953 for $7.60 each. In the 1950s and 1960s, hundreds of hobbyist electronics projects based around the CK722 transistor were published in popular books and magazines.[58][59] Raytheon also participated in expanding the role of the CK722 as a hobbyist electronics device by publishing "Transistor Applications" and "Transistor Applications- Volume 2" during the mid-1950s.
+
+Transistor computers[edit]
+Main article: Transistor computer
+The world's first transistor computer was built at the University of Manchester in November 1953. The computer was built by Richard Grimsdale, then a research student in the Department of Electrical Engineering and later a professor of Electronic Engineering at Sussex University. The machine used point-contact transistors, made in small quantities by STC and Mullard. These consisted of a single crystal of germanium with two fine wires, resembling the crystal and cat's whisker of the 1920s. These transistors had the useful property that a single transistor could possess two stable states. ... The development of the machine was severely hampered by the unreliability of the transistors. It consumed 150 watts.[60]
+Metropolitan Vickers Ltd rebuilt the full 200 transistor (& 1300 diode) design in 1956 using junction transistors (for internal use).[61]
+The IBM 7070 (1958), IBM 7090 (1959), and CDC 1604 (1960) were the first computers (as products for sale) based on transistors.
+
+MOSFET (MOS transistor)[edit]
+Main article: MOSFET
+1957, Diagram of one of the SiO2 transistor devices made by Frosch and Derrick[62]
+In 1955, Carl Frosch and Lincoln Derick accidentally grew a layer of silicon dioxide over the silicon wafer, for which they observed surface passivation effects.[63][64] By 1957 Frosch and Derick, using masking and predeposition, were able to manufacture silicon dioxide field effect transistors; the first planar transistors, in which drain and source were adjacent at the same surface.[65]
+Following this research, Mohamed Atalla and Dawon Kahng proposed a silicon MOS transistor in 1959[66] and successfully demonstrated a working MOS device with their Bell Labs team in 1960.[67][68] Their team included E. E. LaBate and E. I. Povilonis who fabricated the device; M. O. Thurston, L. A. D’Asaro, and J. R. Ligenza who developed the diffusion processes, and H. K. Gummel and R. Lindner who characterized the device.[69][70]
+With its high scalability,[71] and much lower power consumption and higher density than bipolar junction transistors,[72] the MOSFET made it possible to build high-density integrated circuits (ICs),[73] allowing the integration of more than 10,000 transistors in a single IC.[74]
+The first gallium-arsenide Schottky-gate field-effect transistor (MESFET) was made by Carver Mead and reported in 1966.[75] The first report of a floating-gate MOSFET (FGMOS) was made by Dawon Kahng and Simon Sze in 1967.[76]
+The MOSFET has since become the most widely manufactured device in history.[77][78]  As of 2018, an estimated total of 13 sextillion MOS transistors have been manufactured.[77]
+
+PMOS and NMOS[edit]
+There were originally two types of MOSFET logic, PMOS (p-type MOS) and NMOS (n-type MOS).[79] Both types were developed by Frosch and Derrick in 1957 at Bell Labs.[80]
+
+CMOS[edit]
+Main article: CMOS
+In 1948, Bardeen and Brattain patented at Bell Labs an insulated-gate transistor (IGFET) with an inversion layer, this concept forms the basis of CMOS technology today.[81] A new type of MOSFET logic, CMOS (complementary MOS), was invented by Chih-Tang Sah and Frank Wanlass at Fairchild Semiconductor, and in February 1963 they published the invention in a research paper.[82][83]
+
+Self-aligned gate[edit]
+The self-aligned gate (silicon-gate) MOSFET transistor was invented by Robert Kerwin, Donald Klein and John Sarace at Bell Labs in 1967. Fairchild Semiconductor researchers Federico Faggin and Tom Klein later used self-aligned gate MOSFETs to develop the first silicon-gate MOS integrated circuit.[84]
+
+MOSFET commercialization[edit]
+Main article: MOSFET § Applications
+The MOSFET, also known as the MOS transistor, was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses.[46] It revolutionized the wider electronics industry,[85] including power electronics,[86] consumer electronics, control systems, and computers.[87] The MOSFET has since become the most common type of transistor in the world, with uses including computers, electronics,[35] and communications technology (such as smartphones).[88] The MOS transistor has been described as the "workhorse of the electronics industry" due to being the building block of every microprocessor, memory chip and telecommunication circuit in use.[89] Billions of MOS transistors are manufactured every day, as of 2013.[73]
+
+Integrated circuits[edit]
+General Microelectronics introduced the first commercial MOS integrated circuits in 1964, consisting of 120 p-channel transistors.[90] It was a 20-bit shift register, developed by Robert Norman[91] and Frank Wanlass.[92] In 1967, Bell Labs researchers Robert Kerwin, Donald Klein and John Sarace developed the self-aligned gate (silicon-gate) MOS transistor, which Fairchild Semiconductor researchers Federico Faggin and Tom Klein used to develop the first silicon-gate MOS IC.[84]
+By 1972, MOS LSI (large-scale integration) circuits were commercialized for numerous applications, including automobiles, trucks, home appliances, business machines, electronic musical instruments, computer peripherals, cash registers, calculators, data transmission and telecommunication equipment.[93]
+
+Semiconductor memory[edit]
+Further information: Computer memory, Memory cell (computing), and Semiconductor memory
+The first modern memory cells were introduced in 1965, when John Schmidt designed the first 64-bit MOS SRAM (static RAM).[94] In 1967, Robert H. Dennard of IBM filed a patent for a single-transistor DRAM (dynamic RAM) memory cell, using a MOSFET.[95]
+The earliest practical application of floating-gate MOSFET (FGMOS) was floating-gate memory cells, which Dawon Kahng and Simon Sze proposed could be used to produce reprogrammable ROM (read-only memory).[96] Floating-gate memory cells later became the basis for non-volatile memory (NVM) technologies including EPROM (erasable programmable ROM), EEPROM (electrically erasable programmable ROM) and flash memory.
+
+Microprocessors[edit]
+The MOSFET is the basis of every microprocessor.[89] The earliest microprocessors were all MOS microprocessors, built with MOS LSI circuits. The first multi-chip microprocessors, the Four-Phase Systems AL1 in 1969 and the Garrett AiResearch MP944 in 1970, were developed with multiple MOS LSI chips. The first commercial single-chip microprocessor, the Intel 4004, was developed by Federico Faggin, using his silicon-gate MOS IC technology, with Intel engineers Marcian Hoff and Stan Mazor, and Busicom engineer Masatoshi Shima.[97] With the arrival of CMOS microprocessors in 1975, the term "MOS microprocessors" began to refer to chips fabricated entirely from PMOS logic or fabricated entirely from NMOS logic, contrasted with "CMOS microprocessors" and "bipolar bit-slice processors".[98]
+
+Pocket calculators[edit]
+One of the earliest influential consumer electronic products enabled by MOS transistors was the electronic pocket calculator.[74] In 1965, the Victor 3900 desktop calculator was the first MOS LSI calculator, with 29 MOS LSI chips.[99] In 1967 the Texas Instruments Cal-Tech was the first prototype electronic handheld calculator, with three MOS LSI chips, and it was later released as the Canon Pocketronic in 1970.[100] The Sharp QT-8D desktop calculator was the first mass-produced LSI MOS calculator in 1969,[99] and the Sharp EL-8 which used four MOS LSI chips was the first commercial electronic handheld calculator in 1970.[100] The first true electronic pocket calculator was the Busicom LE-120A HANDY LE, which used a single MOS LSI calculator-on-a-chip from Mostek, and was released in 1971.[100]
+
+Personal computers[edit]
+In the 1970s, the MOS microprocessor was the basis for home computers, microcomputers (micros) and personal computers (PCs). This led to the start of what is known as the personal computer revolution or microcomputer revolution.[101]
+
+Power electronics[edit]
+The power MOSFET is the most widely used power device in the world.[102] Advantages over bipolar junction transistors in power electronics include MOSFETs not requiring a continuous flow of drive current to remain in the ON state, offering higher switching speeds, lower switching power losses, lower on-resistances, and reduced susceptibility to thermal runaway.[103] The power MOSFET had an impact on power supplies, enabling higher operating frequencies, size and weight reduction, and increased volume production.[104]
+The power MOSFET, which is commonly used in power electronics, was developed in the early 1970s.[105] The power MOSFET enables low gate drive power, fast switching speed, and advanced paralleling capability.[102]
+
+Sustainable transistors[edit]
+In late April 2023, researchers at Linköping University and KTH Royal Institute of Technology successfully developed the world's first wooden transistor, potentially paving the way for more sustainable electronics and even the control of electronic plants, according to an article on Hackster.io. The team created a functional transistor to switch electronic signals using cellulose-based electrolyte and lignin-derived organic semiconductors. This breakthrough could lead to further research in creating environmentally friendly electronic devices and exploring the possibility of integrating electronics into living plants for monitoring and control purposes.[106]
+
+Patents[edit]
+US 1745175  Julius Edgar Lilienfeld: "Method and apparatus for controlling electric current" first filed in Canada on 1925-10-22, describing a field-effect transistor
+US 1900018  Julius Edgar Lilienfeld: "Device for controlling electric current" filed on 1928-03-28, a thin film field-effect transistor
+GB 439457  Oskar Heil: "Improvements in or relating to electrical amplifiers and other control arrangements and devices" first filed in Germany on 1934-03-02
+US 2524035  John Bardeen et al.: "Three-electrode circuit element utilizing semiconductive materials" oldest priority 1948-02-26
+US 2569347  William Shockley: "Circuit element utilizing semiconductive material" oldest priority 1948-06-26
+US 3206670  Mohamed Atalla: "Semiconductor devices having dielectric coatings" filed in 1960-08-03, describing a MOSFET
+US 3102230  Dawon Kahng: "Electric field controlled semiconductor device" filed in 1960-08-03, describing a MOSFET
+References[edit]
+
+
+^ Gaudin, Sharon. "The transistor: The most important invention of the 20th century?". ComputerWorld.
+
+^ "History of the Transistor". www.sjsu.edu. Retrieved 17 January 2021.
+
+^ "Types of Transistors – Junction Transistors and FETs". Electronics Hub. 23 April 2019. Retrieved 17 January 2021.
+
+^ "What is a FET: Field Effect Transistor » Electronics Notes". www.electronics-notes.com. Retrieved 16 January 2021.
+
+^ US2802760A, Lincoln, Derick & Frosch, Carl J., "Oxidation of semiconductive surfaces for controlled diffusion", issued 1957-08-13 
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Berlin, Heidelberg: Springer-Verlag Berlin Heidelberg. p. 321. ISBN 978-3-540-34258-8.
+
+^ Ligenza, J.R.; Spitzer, W.G. (1960). "The mechanisms for silicon oxidation in steam and oxygen". Journal of Physics and Chemistry of Solids. 14: 131–136. Bibcode:1960JPCS...14..131L. doi:10.1016/0022-3697(60)90219-5.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ US 1745175  Julius Edgar Lilienfeld: "Method and apparatus for controlling electric current" first filed in Canada on 22.10.1925, describing a field-effect transistor
+
+^ GB 439457  Oskar Heil: "Improvements in or relating to electrical amplifiers and other control arrangements and devices" first filed in Germany on March 2, 1934
+
+^ Arns, R. G. (October 1998). "The other transistor: early history of the metal–oxide–semiconductor field-effect transistor". Engineering Science and Education Journal. 7 (5): 233–240. doi:10.1049/esej:19980509. Archived from the original (PDF) on June 25, 2017. Retrieved October 28, 2012.
+
+^ Bray, Ralph "The Origin of Semiconductor Research at Purdue". Purdue University, Department of Physics.
+
+^ R. Bray, interview with P. Henriksen, 14 May 1982, Niels Bohr Library, American Institute of Physics, New York.
+
+^ Lee, Thomas H. (2003). The Design of CMOS Radio-Frequency Integrated Circuits (PDF). Cambridge University Press. ISBN 978-1-139-64377-1. Archived from the original (PDF) on 2019-12-09. Retrieved 2019-07-25.
+
+^ Puers, Robert; Baldi, Livio; Voorde, Marcel Van de; Nooten, Sebastiaan E. van (2017). Nanoelectronics: Materials, Devices, Applications, 2 Volumes. John Wiley & Sons. p. 14. ISBN 978-3-527-34053-8.
+
+^ W. H. Brattain, entry of 15 December 1947, laboratory notebook, case 38139-7. Bell Laboratories archives.
+
+^ Brattain, entry of 16 December 1947 (ibid)
+
+^ W. S. Gorton, "Genesis of the Transistor," written in December 1949 and intended for volume 3 of A History of Engineering and Science in the Bell System.
+
+^ FR 1010427  H. F. Mataré/H. Welker/Westinghouse: "Nouveau système cristallin à plusieurs électrodes réalisant des effects de relais électroniques" filed on 13.08.1948
+
+^ US 2673948  H. F. Mataré/H. Welker/Westinghouse: "Crystal device for controlling electric currents by means of a solid semiconductor" FR priority 13.08.1948
+
+^ Van Dormael, Armand (June 2004). "The "French" Transistor" (PDF). Proceedings of the 2004 IEEE Conference on the History of Electronics, Bletchley Park. Archived from the original (PDF) on March 10, 2012. Retrieved October 28, 2012.
+
+^ "Transistron image". Computer History Museum
+
+^ Gertner, Jon (2012). The Idea Factory: Bell Labs and the Great Age of American Innovation. New York: Penguin. p. 98. ISBN 978-0-14-312279-1.
+
+^ The Genesis of the Transistor, with Bonus Introduction (AT&T Archives video, posted 2012Jul19)
+
+^ Nobelprize.org – The Transistor
+
+^ M. Tanenbaum; L. B. Valdes; E. Buehler; N. B. Hannay (1955). "Silicon n-p-n Grown Junction Transistors". J. Appl. Phys. 26 (6): 686–692. Bibcode:1955JAP....26..686T. doi:10.1063/1.1722071.
+
+^ IEEE Spectrum, The Lost History of the Transistor, Author: Michael Riordan, May 2004, pp. 48–49.
+
+^ Bell System Technical J., 35, 1–34, 1955.
+
+^ Dabrowski, Jarek; Müssig, Hans-Joachim (2000). "6.1. Introduction". Silicon Surfaces and Formation of Interfaces: Basic Science in the Industrial World. World Scientific. pp. 344–346. ISBN 978-981-02-3286-3.
+
+^ Heywang, W.; Zaininger, K. H. (2013). "2.2. Early history". Silicon: Evolution and Future of a Technology. Springer Science & Business Media. pp. 26–28. ISBN 978-3-662-09897-4.
+
+^ Feldman, Leonard C. (2001). "Introduction". Fundamental Aspects of Silicon Oxidation. Springer Science & Business Media. pp. 1–11. ISBN 978-3-540-41682-1.
+
+^ "Martin (John) M. Atalla". National Inventors Hall of Fame. 2009. Retrieved 21 June 2013.
+
+^ a b "Dawon Kahng". National Inventors Hall of Fame. Retrieved 27 June 2019.
+
+^ Huff, Howard; Riordan, Michael (2007-09-01). "Frosch and Derick: Fifty Years Later (Foreword)". The Electrochemical Society Interface. 16 (3): 29. doi:10.1149/2.F02073IF. ISSN 1064-8208.
+
+^ a b Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ US2802760A, Lincoln, Derick & Frosch, Carl J., "Oxidation of semiconductive surfaces for controlled diffusion", issued 1957-08-13 
+
+^ a b c Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ US 3025589  Hoerni, J. A.: "Method of Manufacturing Semiconductor Devices" filed May 1, 1959
+
+^ US 3064167  Hoerni, J. A.: "Semiconductor device" filed May 15, 1960
+
+^ Bonner, Jeanne (2007-03-04). "Transistor transition began in Allentown". The Morning Call. Retrieved 2023-07-10. On Oct. 1, 1951, the world's first commercial transistor production line went live at the Western Electric plant on Union Boulevard in Allentown.
+
+^ Transistors Enter Telephone Service, Bell Laboratory Record, Volume 30(11), p.439 (November 1952)
+
+^ a b "Problem Child". Time. 1953-09-07. Archived from the original on November 14, 2007. Retrieved 2009-05-28.
+
+^ a b Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. pp. 165–168. ISBN 978-0-470-50892-3.
+
+^ Melanie Dabovich (Associated Press) (2008-05-06). "Former Sandia labs director dies". New Mexico: Las Cruces Sun-News. Archived from the original on 2008-05-10. Retrieved 2008-05-07.
+
+^ "Morgan Sparks". PBS. Retrieved 2008-05-06.
+
+^ radiomuseum.org
+
+^ Wall Street Journal, "Chrysler Promises Car Radio With Transistors Instead of Tubes in '56", April 28th 1955, page 1
+
+^ "1955: Chrysler's All-Transistor Mopar Car Radio". www.allpar.com. November 16, 2020.
+
+^ "Mopar 914-HR Ch= C-5690HR Car Radio Philco, Philadelphia" (in German). Radiomuseum.org. Retrieved 2021-11-24.
+
+^ "Heritage 1950-1959". FCA North America. Archived from the original on 2 April 2015.
+
+^ Skrabec, Quentin R. Jr. (2012). The 100 Most Significant Events in American Business: An Encyclopedia. ABC-CLIO. pp. 195–7. ISBN 978-0-313-39863-6.
+
+^ Snook, Chris J. (29 November 2017). "The 7 Step Formula Sony Used to Get Back On Top After a Lost Decade". Inc.
+
+^ David Lane & Robert Lane (1994). Transistor Radios: A Collector's Encyclopedia and Price Guide. Wallace-Homestead Book Company. ISBN 0-87069-712-9. pages 2-7
+
+^ Kozinsky, Sieva (8 January 2014). "Education and the Innovator's Dilemma". Wired. Retrieved 14 October 2019.
+
+^ "How to Build Experimental Transistor Receivers". Popular Mechanics. Vol. 100, no. 4. Chicago: Popular Mechanics Co. October 1953. pp. 246–248.
+
+^ Garner, Lou (November 1957). "Transistorized Instrument Amplifier". Popular Mechanics. Vol. 108, no. 5. Chicago: Popular Mechanics Co. pp. 160–162.
+
+^ The University of Manchester Celebrates the Birth of the Modern Computer Archived 2012-05-04 at the Wayback Machine from Computer50.org
+
+^ The Transistor Computer
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Huff, Howard; Riordan, Michael (2007-09-01). "Frosch and Derick: Fifty Years Later (Foreword)". The Electrochemical Society Interface. 16 (3): 29. doi:10.1149/2.F02073IF. ISSN 1064-8208.
+
+^ US2802760A, Lincoln, Derick & Frosch, Carl J., "Oxidation of semiconductive surfaces for controlled diffusion", issued 1957-08-13 
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Bassett, Ross Knox (2007). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology. Johns Hopkins University Press. pp. 22–23. ISBN 978-0-8018-8639-3.
+
+^ Atalla, M.; Kahng, D. (1960). "Silicon-silicon dioxide field induced surface devices". IRE-AIEE Solid State Device Research Conference.
+
+^ "1960 – Metal Oxide Semiconductor (MOS) Transistor Demonstrated". The Silicon Engine. Computer History Museum. Retrieved 2023-01-16.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Berlin, Heidelberg: Springer-Verlag Berlin Heidelberg. p. 321. ISBN 978-3-540-34258-8.
+
+^ Motoyoshi, M. (2009). "Through-Silicon Via (TSV)". Proceedings of the IEEE. 97 (1): 43–48. doi:10.1109/JPROC.2008.2007462. ISSN 0018-9219. S2CID 29105721.
+
+^ "Transistors Keep Moore's Law Alive". EETimes. 12 December 2018. Retrieved 18 July 2019.
+
+^ a b "Who Invented the Transistor?". Computer History Museum. 4 December 2013. Retrieved 20 July 2019.
+
+^ a b Hittinger, William C. (1973). "Metal-Oxide-Semiconductor Technology". Scientific American. 229 (2): 48–59. Bibcode:1973SciAm.229b..48H. doi:10.1038/scientificamerican0873-48. ISSN 0036-8733. JSTOR 24923169.
+
+^ C. A. Mead (February 1966). "Schottky barrier gate field effect transistor" (PDF). Proceedings of the IEEE. 54 (2): 307–308. doi:10.1109/PROC.1966.4661.
+
+^ D. Kahng and S. M. Sze, "A floating-gate and its application to memory devices", The Bell System Technical Journal, vol. 46, no. 4, 1967, pp. 1288–1295
+
+^ a b "13 Sextillion & Counting: The Long & Winding Road to the Most Frequently Manufactured Human Artifact in History". Computer History Museum. April 2, 2018. Retrieved 28 July 2019.
+
+^ Baker, R. Jacob (2011). CMOS: Circuit Design, Layout, and Simulation. John Wiley & Sons. p. 7. ISBN 978-1-118-03823-9.
+
+^ "1960 - Metal Oxide Semiconductor (MOS) Transistor Demonstrated". The Silicon Engine. Computer History Museum.
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Howard R. Duff (2001). "John Bardeen and transistor physics". AIP Conference Proceedings. Vol. 550. pp. 3–32. doi:10.1063/1.1354371.
+
+^ "1963: Complementary MOS Circuit Configuration is Invented". Computer History Museum. Retrieved 6 July 2019.
+
+^ Sah, Chih-Tang; Wanlass, Frank (1963). Nanowatt logic using field-effect metal-oxide semiconductor triodes. 1963 IEEE International Solid-State Circuits Conference. Digest of Technical Papers. Vol. VI. pp. 32–33. doi:10.1109/ISSCC.1963.1157450.
+
+^ a b "1968: Silicon Gate Technology Developed for ICs". Computer History Museum. Retrieved 22 July 2019.
+
+^ Chan, Yi-Jen (1992). Studies of InAIAs/InGaAs and GaInP/GaAs heterostructure FET's for high speed applications. University of Michigan. p. 1. The Si MOSFET has revolutionized the electronics industry and as a result impacts our daily lives in almost every conceivable way.
+
+^ "Rethink Power Density with GaN". Electronic Design. 21 April 2017. Retrieved 23 July 2019.
+
+^ Grant, Duncan Andrew; Gowar, John (1989). Power MOSFETS: theory and applications. Wiley. p. 1. ISBN 978-0-471-82867-9. The metal–oxide–semiconductor field-effect transistor (MOSFET) is the most commonly used active device in the very large-scale integration of digital integrated circuits (VLSI). During the 1970s these components revolutionized electronic signal processing, control systems and computers.
+
+^ "Remarks by Director Iancu at the 2019 International Intellectual Property Conference". United States Patent and Trademark Office. June 10, 2019. Retrieved 20 July 2019.
+
+^ a b Colinge, Jean-Pierre; Greer, James C. (2016). Nanowire Transistors: Physics of Devices and Materials in One Dimension. Cambridge University Press. p. 2. ISBN 978-1-107-05240-6.
+
+^ "1964 – First Commercial MOS IC Introduced". Computer History Museum.
+
+^ "Tortoise of Transistors Wins the Race - CHM Revolution". Computer History Museum. Retrieved 22 July 2019.
+
+^ Kilby, J. S. (2007). "Miniaturized electronic circuits [US Patent No. 3,138, 743]". IEEE Solid-State Circuits Society Newsletter. 12 (2): 44–54. doi:10.1109/N-SSC.2007.4785580. ISSN 1098-4232.
+
+^ "Design News". Design News. 27 (1–8). Cahners Publishing Company: 275. 1972. Today, under contracts with some 20 major companies, we're working on nearly 30 product programs—applications of MOS/LSI technology for automobiles, trucks, appliances, business machines, musical instruments, computer peripherals, cash registers, calculators, data transmission and telecommunication equipment.
+
+^ Solid State Design - Vol. 6. Horizon House. 1965.
+
+^ "Robert Dennard". Encyclopedia Britannica. Retrieved 8 July 2019.
+
+^ "1971: Reusable semiconductor ROM introduced". Computer History Museum. Retrieved 19 June 2019.
+
+^ "1971: Microprocessor Integrates CPU Function onto a Single Chip | The Silicon Engine". Computer History Museum. Retrieved 22 July 2019.
+
+^ Cushman, Robert H. (20 September 1975). "2-1/2-generation μP's-$10 parts that perform like low-end mini's" (PDF). EDN.
+
+^ a b Nigel Tout. "Sharp QT-8D "micro Compet"". Vintage Calculators Web Museum. Retrieved September 29, 2010.
+
+^ a b c "Hand-held Calculators". Vintage Calculators Web Museum. Retrieved 22 July 2019.
+
+^ Malmstadt, Howard V.; Enke, Christie G.; Crouch, Stanley R. (1994). Making the Right Connections: Microcomputers and Electronic Instrumentation. American Chemical Society. p. 389. ISBN 978-0-8412-2861-0. The relative simplicity and low power requirements of MOSFETs have fostered today's microcomputer revolution.
+
+^ a b "Power MOSFET Basics" (PDF). Alpha & Omega Semiconductor. Retrieved 29 July 2019.
+
+^ "Power Supply Technology - Buck DC/DC Converters". Mouser Electronics. Retrieved 11 August 2019.
+
+^ Grant, Duncan Andrew; Gowar, John (1989). Power MOSFETS: theory and applications. Wiley. p. 239. ISBN 978-0-471-82867-9.
+
+^ Irwin, J. David (1997). The Industrial Electronics Handbook. CRC Press. p. 218. ISBN 978-0-8493-8343-4.
+
+^ Halfacree, Gareth. "Researchers Build the World's First Wooden Transistor, Aim at Control of Electronic Plants". Hackster.io. Retrieved 30 April 2023.
+
+
+Books and literature[edit]
+Gertner, John (2012). The Idea Factory: Bell Labs and the Great Age of American Innovation. Penguin Books. ISBN 978-0-14-312279-1. A history of Bell Laboratories and its technological innovations
+Riordan, Michael; Hoddeson, Lillian (1998). Crystal Fire. W.W Norton & Company Limited. ISBN 978-0-393-31851-7. The invention of the transistor & the birth of the information age
+Kai Handel (1999-06-29). "Anfänge der Halbleiterforschung und -entwicklung. Dargestellt an den Biographien von vier deutschen Halbleiterpionieren". PhD Thesis RWTH Aachen.
+Out of the Crystal Maze Chapters from The History of Solid State Physics (728s)
+Electronic Genie: THE TANGLED HISTORY OF SILICON (304s)
+The INVENTION THAT CHANGED THE WORLD: HOW A SMALL GROUP OF RADAR PIONEERS WON THE SECOND WORLD WAR AND LAUNCHED A TECH (576s)
+External links[edit]
+
+
+
+Wikibooks has a book on the topic of: Transistors
+
+The Bell Systems Memorial on Transistors.
+IEEE Global History Network, The Transistor and Portable Electronics. All about the history of transistors and integrated circuits.
+Transistorized. Historical and technical information from the Public Broadcasting Service
+This Month in Physics History: November 17 to December 23, 1947: Invention of the First Transistor. From the American Physical Society
+50 Years of the Transistor. From Science Friday, December 12, 1997
+Jack Ganssle "The transistor: 60 years old and still switching". EEtimes article, November 28, 2007
+John Markoff "Parallel Inventor of the Transistor Has His Moment." New York Times, 24 February 2003
+Michael Riordan "How Europe Missed The Transistor". IEEE Spectrum, Vol. 42, Issue 11 S. 52 - 57 November 2005
+Armand Van Dormael "The 'French' Transistor Archived 2016-06-24 at the Wayback Machine". doi:10.1109/MSPEC.2005.1526906
+Mark P D Burgess (2008) "Semiconductor History: Faraday to Shockley"
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal-oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck–boost
+Split-pi
+Ćuk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=History_of_the_transistor&oldid=1283061693"
+Categories: TransistorsHistory of electronic engineeringHistory of technologyHidden categories: CS1 errors: ISBN dateCS1 German-language sources (de)Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataAccuracy disputes from August 2022All accuracy disputesArticles containing German-language textAll articles with unsourced statementsArticles with unsourced statements from October 2010
+
+
+
+
+
+
+ This page was last edited on 30 March 2025, at 06:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+History of the transistor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

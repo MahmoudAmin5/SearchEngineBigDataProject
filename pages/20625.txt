@@ -1,0 +1,2249 @@
+https://en.wikipedia.org/wiki/Windows_11
+
+
+
+
+Windows 11 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Development
+
+
+
+
+Toggle Development subsection
+
+
+
+
+
+1.1
+Announcement
+
+
+
+
+
+
+
+
+1.2
+Release and marketing
+
+
+
+
+
+
+
+
+
+
+2
+Features
+
+
+
+
+Toggle Features subsection
+
+
+
+
+
+2.1
+User interface
+
+
+
+
+
+
+
+
+2.2
+Windows Subsystem for Android
+
+
+
+
+
+
+
+
+2.3
+Setup
+
+
+
+
+
+
+
+
+2.4
+System security
+
+
+
+
+
+
+
+
+2.5
+Artificial intelligence
+
+
+
+
+
+
+
+
+
+
+3
+Editions
+
+
+
+
+Toggle Editions subsection
+
+
+
+
+
+3.1
+Other editions
+
+
+
+
+
+
+
+
+
+
+4
+Supported languages
+
+
+
+
+
+
+
+
+5
+Updates and support
+
+
+
+
+Toggle Updates and support subsection
+
+
+
+
+
+5.1
+Preview releases
+
+
+
+
+
+
+
+
+5.2
+Versions
+
+
+
+
+
+
+
+
+5.3
+Known issues
+
+
+
+
+
+
+
+
+
+
+6
+System requirements
+
+
+
+
+Toggle System requirements subsection
+
+
+
+
+
+6.1
+Official
+
+
+
+
+
+
+
+
+6.2
+Unofficial
+
+
+
+
+
+
+
+
+6.3
+Firmware compatibility
+
+
+
+
+
+
+
+
+6.4
+Third-party software
+
+
+
+
+
+
+
+
+6.5
+IoT Enterprise editions
+
+
+
+
+
+
+
+
+
+
+7
+Reception
+
+
+
+
+Toggle Reception subsection
+
+
+
+
+
+7.1
+Pre-release
+
+
+
+
+
+
+
+
+7.2
+Launch
+
+
+
+
+
+
+
+
+7.3
+Longer term views
+
+
+
+
+
+
+
+
+7.4
+Market share
+
+
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+Notes
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Windows 11
+
+
+
+76 languages
+
+
+
+
+AfrikaansالعربيةAragonésঅসমীয়াAzərbaycancaবাংলাБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBosanskiCatalàČeštinaDanskDavvisámegiellaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançais한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaItalianoעבריתಕನ್ನಡქართულიKiswahiliLatviešuLietuviųMagyarമലയാളംमराठीმარგალურიمصرىBahasa Melayuမြန်မာဘာသာNederlandsनेपाली日本語Norsk bokmålNouormandOʻzbekcha / ўзбекчаਪੰਜਾਬੀپنجابیPolskiPortuguêsRomânăRuna SimiРусскийСаха тылаShqipSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்తెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوVènetoTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer operating system by Microsoft
+
+
+Operating system
+Windows 11Version of the Windows NT operating systemScreenshot of Windows 11, showing the Start menu and centered taskbar, with the Search box open[1]DeveloperMicrosoftWritten inC, C++, C#, Rust,[2][3] assembly languageOS familyMicrosoft WindowsSource modelClosed-sourceSource-available (through Shared Source Initiative)Some components open source[4][5][6][7]GeneralavailabilityOctober 5, 2021; 3 years ago (2021-10-05)[8]Latest release24H2 (10.0.26100.3915) (April 25, 2025; 1 day ago (2025-04-25)[9]) [±]Latest preview
+Release Preview Channel
+24H2 (10.0.26100.3915) (April 25, 2025; 1 day ago (2025-04-25)[10][11]) [±]
+
+Beta Channel
+24H2 (10.0.26120.3941) (April 25, 2025; 1 day ago (2025-04-25)[12]) [±]
+
+Dev Channel
+24H2 (10.0.26200.5570) (April 25, 2025; 1 day ago (2025-04-25)[13]) [±]
+
+Canary Channel
+10.0.27842.1000 (April 23, 2025; 3 days ago (2025-04-23)[14]) [±]Marketing targetPersonal computingAvailable in88 languages[15][16]List of languages
+Afrikaans - Afrikaans
+Azərbaycan - Azerbaijani
+Bosanski - Bosnian
+Català (Espanya, valencià) - Catalan (Spain, Valencian)
+Català (Espanya) - Catalan (Spain)
+Čeština - Czech
+Cymraeg - Welsh
+Dansk - Danish
+Deutsch - German
+Eesti - Estonian
+English (United Kingdom) - English (United Kingdom)
+English (United States) - English (United States)
+Español (España) - Spanish (Spain)
+Español (México) - Spanish (Mexico)
+Euskara - Basque
+Filipino - Filipino
+Français (Canada) - French (Canada)
+Français (France) - French (France)
+Gaeilge - Irish
+Gàidhlig - Scottish Gaelic
+Galego - Galician
+Hrvatski - Croatian
+Indonesia - Indonesian
+Íslenska - Icelandic
+Italiano - Italian
+Latviešu - Latvian
+Lëtzebuergesch - Luxembourgish
+Lietuvių - Lithuanian
+Magyar - Hungarian
+Malti - Maltese
+Māori - Maori
+Melayu - Malay
+Nederlands - Dutch
+Norsk bokmål - Norwegian Bokmål
+Norsk nynorsk - Norwegian Nynorsk
+O‘zbek - Uzbek
+Polski - Polish
+Português (Brasil) - Portuguese (Brazil)
+Português (Portugal) - Portuguese (Portugal)
+Română - Romanian
+Runasimi - Quechua
+Shqip - Albanian
+Slovenčina - Slovak
+Slovenščina - Slovenian
+Srpski - Serbian (Latin)
+Suomi - Finnish
+Svenska - Swedish
+Tiếng Việt - Vietnamese
+Türkçe - Turkish
+Ελληνικά - Greek
+Беларуская - Belarusian
+Български - Bulgarian
+Қазақ тілі - Kazakh
+Македонски - Macedonian
+Русский - Russian
+Српски (ћирилица, Босна и Херцеговина) - Serbian (Cyrillic, Bosnia & Herzegovina)
+Српски (ћирилица, Србија) - Serbian (Cyrillic, Serbia)
+Српски (ћирилица, Црна Гора) - Serbian (Cyrillic, Montenegro)
+Татар - Tatar
+Українська - Ukrainian
+ქართული - Georgian
+Հայերեն - Armenian
+עברית - Hebrew
+ئۇيغۇرچە - Uyghur
+اردو - Urdu
+العربية - Arabic
+فارسی - Persian
+አማርኛ - Amharic
+कोंकणी - Konkani
+नेपाली - Nepali
+मराठी - Marathi
+हिन्दी - Hindi
+অসমীয়া - Assamese
+বাংলা - Bangla
+ਪੰਜਾਬੀ - Punjabi
+ગુજરાતી - Gujarati
+ଓଡ଼ିଆ - Odia
+தமிழ் - Tamil
+తెలుగు - Telugu
+ಕನ್ನಡ - Kannada
+മലയാളം - Malayalam
+ไทย - Thai
+ລາວ - Lao
+ខ្មែរ - Khmer
+ᏣᎳᎩ - Cherokee
+한국어 - Korean
+中文 (简体) - Chinese (Simplified)
+中文 (繁體) - Chinese (Traditional)
+日本語 - Japanese
+Update method
+Windows Update
+Windows Server Update Services (WSUS)
+Package manager.exe, APPX, appxbundle and APK-based (deprecated in March 2024, scheduled for removal in March 2025) [needs update]Platformsx86-64, ARM64 (ARMv8.1)[17]Kernel typeHybrid (Windows NT kernel)UserlandNative APIWindows API.NET FrameworkUniversal Windows Platform Windows Subsystem for AndroidWindows Subsystem for LinuxDefaultuser interfaceWindows shell (graphical)LicenseProprietaryPreceded byWindows 10 (2015)Official websitewww.microsoft.com/windows/windows-11 Support statusSupportedSee § Updates and support for more details.
+Part of a series of articles onWindows 11
+Editions
+New features
+Removed features
+Version history
+
+Siblings
+Windows Server 2025
+
+Related
+Windows Insider
+Microsoft Store
+Universal Windows Platform
+Fluent Design System
+vte
+Windows 11 is the latest major release of Microsoft's Windows NT operating system, released on October 5, 2021 as the successor to Windows 10 (2015). It is provided for free for any Windows 10 devices that meet the new Windows 11 system requirements. A server version, Windows Server 2025, was released in 2024. Windows 11 is the first major version of Windows NT without a companion mobile version following the discontinuation of Windows Phone with Windows 10 Mobile.
+Windows 11 features major changes to the Windows shell influenced by the canceled Windows 10X, including a redesigned Start menu, the replacement of its "live tiles" with a separate "Widgets" panel on the taskbar, the ability to create tiled sets of windows that can be minimized and restored from the taskbar as a group, and new gaming technologies inherited from Xbox Series X and Series S such as Auto HDR and DirectStorage on compatible hardware. Internet Explorer (IE) has been replaced by the Chromium-based Microsoft Edge as the default web browser, like its predecessor, Windows 10, and Microsoft Teams is integrated into the Windows shell. Microsoft also announced plans to allow more flexibility in software that can be distributed via the Microsoft Store and to support Android apps on Windows 11 (including a partnership with Amazon to make its app store available for the purpose).
+Citing security considerations, the system requirements for Windows 11 were increased over Windows 10; Microsoft only officially supports the operating system on devices using an eighth-generation Intel Core CPU or newer (with some minor exceptions), a second-generation AMD Ryzen CPU or newer, or a Qualcomm Snapdragon 850 ARM system-on-chip or newer, with UEFI and Trusted Platform Module (TPM) 2.0 supported and enabled. There are some exceptions to these requirements, however (see: § System requirements for details). While the OS can be installed on devices with unsupported configurations, Microsoft does not guarantee the availability of updates. Furthermore, Windows 11 completely removes support for 32-bit CPUs, including both 32-bit x86 and 32-bit ARM processors, ensuring compatibility only with 64-bit x86-64 and ARM64 processors.
+Windows 11 received a mixed reception at launch. Pre-release coverage of the operating system focused on its stricter hardware requirements, with discussions over whether they were legitimately intended to improve the security of Windows, or as a ploy to upsell customers to newer devices, and over the e-waste associated with the changes. Upon release, it was praised for its improved visual design, window management, and stronger focus on security, but was criticized for various modifications to aspects of its user interface that were seen as worse than its predecessor; some were seen as an attempt to dissuade users from switching to competing applications.[18] Additionally, some users have pointed out disadvantages such as the removal of features like the ability to move the taskbar and increased system requirements that may exclude older devices.[19]
+
+
+Development
+At the 2015 Ignite conference, Microsoft employee Jerry Nixon stated that Windows 10 would be the "last version of Windows".[20][21] The operating system was considered to be a service, with new builds and updates to be released over time.[22] PC World argued that the widely reported comment was however taken out of context, noting that the official event transcript marks it only as a segue rather than a core part of the talk. It argues that Nixon was referring to the fact that he could talk freely at the event because 10 was the last version in current development.[23]
+In October 2019, Microsoft announced "Windows 10X", a future edition of Windows 10 designed exclusively for dual-touchscreen devices such as the then-upcoming Surface Neo. It featured a modified user interface designed around context-sensitive "postures" for different screen configurations and usage scenarios, and changes such as a centered taskbar and updated Start menu without Windows 10's "live tiles". Legacy Windows applications would also be required to run in "containers" to ensure performance and power optimization. Microsoft stated that it planned to release Windows 10X devices by the end of 2020.[24][25][26]
+In May 2020, during the COVID-19 pandemic, Panos Panay, Microsoft's chief product officer for Microsoft Windows and Microsoft Office, stated that "as we continue to put customers' needs at the forefront, we need to focus on meeting customers where they are now", and announced that Windows 10X would only launch on single-screen devices at first, and that Microsoft would "continue to look for the right moment, in conjunction with our OEM partners, to bring dual-screen devices to market".[27][28]
+In October 2020, reports emerged that Microsoft was working on a user interface refresh for Windows 10 codenamed "Sun Valley", scheduled to be included in a late-2021 feature update codenamed "Cobalt". Internal documentation stated that the aim for "Sun Valley" was to "reinvigorat[e]" the Windows user interface and make it more "fluid", with a more consistent application of WinUI, while reports suggested Microsoft planned to adapt UI elements seen in Windows 10X.[29] In January 2021, it was reported that a job listing referring to a "sweeping visual rejuvenation of Windows" had been posted by Microsoft.[30]
+By December 2020, Microsoft had begun to implement and announce some of these visual changes and other new features on Windows 10 Insider Preview builds, such as new system icons (which also included the replacement of shell resources dating back as far as Windows 95),[31] improvements to Task View to allow changing the wallpaper on each virtual desktop, x86-64 emulation on ARM, and adding the Auto HDR feature from Xbox Series X.[32][33][34]
+On May 18, 2021, Head of Windows Servicing and Delivery John Cable stated that Windows 10X had been canceled and that Microsoft would be "accelerating the integration of key foundational 10X technology into other parts of Windows and products at the company".[35]
+
+Announcement
+At the Microsoft Build 2021 developer conference, CEO and chairman Satya Nadella teased about the existence of the next generation of Windows during his keynote speech. According to Nadella, he had been self-hosting it for several months. He also teased that an official announcement would come very soon.[36] Just a week after Nadella's keynote, Microsoft started sending invitations for a dedicated Windows media event at 11:00 a.m. ET on June 24, 2021.[37][38] Microsoft also posted an 11-minute video of Windows start-up sounds to YouTube on June 10, 2021, with many people speculating both the time of the Microsoft event and the duration of the Windows start-up sound video to be a reference to the name of the operating system as Windows 11.[39][40]
+On June 24, 2021, Windows 11 was officially announced at a virtual event hosted by Chief Product Officer Panos Panay.[38][41][42] According to Nadella, Windows 11 is "a re-imagining of the operating system".[43] Further details for developers such as updates to the Microsoft Store, the new Windows App SDK (code-named "Project Reunion"), new Fluent Design guidelines, and more were discussed during another developer-focused event on the same day.[44][45][46]
+
+Release and marketing
+The Windows 11 name was accidentally released in an official Microsoft support document in June 2021.[47][48] Leaked images of a purported beta build of Windows 11's desktop surfaced online later on June 15, 2021,[49][50] which were followed by a leak of the aforementioned build on the same day.[51] The screenshots and leaked build show an interface resembling that of the canceled Windows 10X, alongside a redesigned out-of-box experience (OOBE) and Windows 11 branding.[52] Microsoft would later confirm the authenticity of the leaked beta, with Panay stating that it was an "early weird build".[53][54]
+At the June 24 media event, Microsoft also announced that Windows 11 would be released in "Holiday 2021".[55][56] Its release will be accompanied by a free upgrade for compatible Windows 10 devices through Windows Update.[57] On June 28, Microsoft announced the release of the first preview build and SDK of Windows 11 to Windows Insiders.[58]
+On August 31, 2021, Microsoft announced that Windows 11 was to be released on October 5, 2021.[59] The release would be phased, with newer eligible devices to be offered the upgrade first.[8] Since its predecessor Windows 10 was released on July 29, 2015, more than six years earlier, this is the longest time span between successive releases of Microsoft Windows operating systems, beating the time between Windows XP (released on October 25, 2001) and Windows Vista (released on January 30, 2007).[60]
+The first television commercial for Windows 11 premiered during the 2021 NFL Kickoff Game on September 9, 2021; it was intended to showcase a "feeling of immersion and fluidity", with imagery of operating system features and Xbox Game Studios' Halo Infinite.[61] Other promotional campaigns on release day included the Burj Khalifa in Dubai being illuminated with imagery of the Windows 11 logo and default "Bloom" wallpaper,[62] and Mikey Likes It ice cream parlors in New York City distributing free cups of "Bloomberry" ice cream.[63][64]
+Though a support document listed October 4, 2021, as the initial release date,[65] Microsoft officially released Windows 11 on October 5, 2021,[8][66] as an opt-in, in-place upgrade through either the Windows 11 Installation Assistant application (which can perform the upgrade, or generate an ISO image or USB install media), or via Windows Update in a phased rollout; Microsoft anticipated that Windows 11 would be available via Windows Update to all eligible devices by mid-2022.[67][68][69] New installations of Windows 10 on eligible hardware may present an option to upgrade during the OOBE.[70] Retail copies of Windows 11 (consisting of a license key and USB flash drive) were released on May 9, 2022,[71][72] and digital licenses became available via Microsoft Store on July 28, 2022.[73] On September 20, 2023, around two years after the release date of Windows 11, Microsoft announced that users would no longer be able to use Windows 7 or Windows 8/8.1 product keys to activate Windows 10/11.[74] However, as of 2024, there are some reports that they still work, under certain conditions.[75][76]
+
+Features
+Main article: Features new to Windows 11
+See also: List of features removed in Windows 11
+Windows 11, the first major Windows release since 2015, builds upon its predecessor by revamping the user interface to follow Microsoft's new Fluent Design guidelines. The redesign, which focuses on ease of use and flexibility,[57] comes alongside new productivity and social features and updates to security and accessibility, addressing some of the deficiencies of Windows 10.[77]
+The Microsoft Store, which serves as a unified storefront for apps and other content, is also redesigned in Windows 11. Microsoft now allows developers to distribute Win32, progressive web applications, and other packaging technologies in the Microsoft Store, alongside Universal Windows Platform apps.[78] Microsoft also announced plans to allow third-party application stores (such as Epic Games Store) to distribute their clients on Microsoft Store.[79] Windows 11 supports x86-64 software emulation on ARM-based platforms.[80]
+The collaboration platform Microsoft Teams is integrated into the Windows 11 user interface, and is accessible via the taskbar.[81] Skype will no longer be bundled with the OS by default.[82][83][84] In early 2023, the Phone Link app gained limited support for iMessage.[85][86][87]
+Microsoft claims performance improvements such as smaller update sizes, faster web browsing in "any browser", faster wake time from sleep mode, and faster Windows Hello authentication.[82][88]
+Windows 11 ships with the Chromium-based Microsoft Edge web browser (for compatibility[89][90] with Google Chrome web browser[91]), and does not include or support Internet Explorer.[92] Its rendering engine MSHTML (Trident) is still included with the operating system for backwards compatibility reasons, and Edge can be configured with Group Policy to render whitelisted websites in "IE Mode" (which still uses IE's rendering engine MSHTML, instead of Blink layout engine).[93] Windows 11 is the first version of Windows since the original retail release of Windows 95 to not ship with Internet Explorer.[94] To comply with the Digital Markets Act, Microsoft is allowing users in the European Economic Area to remove the Microsoft Edge browser, Microsoft Bing search engine, and advertisements to comply with users' interests.[95][96][97]
+The updated Xbox app,[98][99] along with the Auto HDR and DirectStorage technologies introduced by the Xbox Series X and Series S, will be integrated into Windows 11; the latter requiring a graphics card supporting DirectX 12 and an NVMe solid-state drive.[99][100]
+
+User interface
+A redesigned user interface is present frequently throughout the operating system, building upon the Fluent Design System; translucency, shadows, a new color palette, and a rounded geometry are prevalent throughout the UI. A prevalent aspect of the design is an appearance known as "Mica", described as an "opaque, dynamic material that incorporates theme and desktop wallpaper to paint the background of long-lived windows such as apps and settings".[101][102] Much of the interface and start menu takes heavy inspiration from the now-canceled Windows 10X.[103] The Segoe UI font used since Windows Vista has been updated to a variable version, improving its ability to scale between different display resolutions.[104]
+
+The flyout for the volume and brightness control in Windows 11 version 22H2 onwards
+The taskbar's buttons are center-aligned by default, and it is permanently pinned to the bottom edge of the screen; it cannot be moved to the top, left, or right edges of the screen as in previous versions of Windows without manual changes to the registry.[105] The notifications sidebar is now accessed by clicking the date and time, with other Quick Actions toggles, as well as volume, brightness, and media playback controls, moved to a new settings pop-up displayed by clicking on the system tray. The "Widgets" button on the taskbar displays a panel with Microsoft Start,[106] a news aggregator with personalized stories and content (expanding upon the "news and interests" panel introduced in later builds of Windows 10).[88][101] Microsoft Teams is similarly integrated with the taskbar, with a pop-up showing a list of recent conversations.[84]
+The Start menu has been significantly redesigned, replacing the "live tiles" used by Windows 8.x and 10 with a grid of "pinned" applications, and a list of recent applications and documents.[82][88] File Explorer was updated to replace its ribbon toolbar with a more traditional toolbar, while its context menus have been redesigned to move some tasks (such as copy and paste) to a toolbar along the top of the menu, and hide other operations under an overflow menu.[101]
+
+The redesigned Task View in Windows 11, featuring a separate wallpaper support for individual desktops
+Task View, a feature introduced in Windows 10, features a refreshed design, and supports giving separate wallpapers to each virtual desktop. The window snapping functionality has been enhanced with two additional features; hovering over a window's maximize button displays pre-determined "Snap Layouts" for tiling multiple windows onto a display, and tiled arrangement of windows can be minimized and restored from the taskbar as a "snap group".[88][107] When a display is disconnected in a multi-monitor configuration, the windows that were previously on that display will be minimized rather than automatically moved to the main display. If the same display is reconnected, the windows are restored to their prior location.[108]
+
+
+Windows Subsystem for Android
+Further information: Project Astoria and Windows Subsystem for Linux
+On October 21, 2021, Windows Subsystem for Android (WSA) became available to Beta channel builds of Windows 11 for users in the United States,[109] which allowed users to install and run Android apps on their devices. Users could install Android apps through any source using the APK file format.[110] An Amazon Appstore client for Microsoft Store was also available.[111][112][113][114] The Windows Subsystem for Android and Amazon Appstore became available to Release channel users in the United States on February 15, 2022, in Windows 11 Release build 22000.527.[115] On March 5, 2024, Microsoft announced deprecation of WSA with support ending on March 5, 2025.[116]
+WSA was based on the Intel Bridge runtime compiler; Intel stated that the technology was not dependent on its CPUs, and would also be supported on x86-64 and ARM CPUs from other vendors.[114]
+
+Setup
+Home and Pro (since version 22H2) edition installation requires internet connection and Microsoft account login (only if for personal use on Pro) is mandatory unless manually bypassed to create a local user.[117][118][119][120][121] However, Microsoft has since blocked one of the last remaining easy bypass methods that allowed local account creation during initial setup, complicating the bypass process further.[122][123] All other editions are excluded from this requirement.[105][124]
+
+System security
+As part of the minimum system requirements, Windows 11 only runs on devices with a Trusted Platform Module 2.0 security coprocessor,[125][126] albeit with some exceptions, see § System requirements for details. According to Microsoft, the TPM 2.0 coprocessor is a "critical building block" for protection against firmware and hardware attacks. In addition, Microsoft now requires devices with Windows 11 to include virtualization-based security (VBS), hypervisor-protected code integrity (HVCI), and Secure Boot built-in and enabled by default.[127] The operating system also features hardware-enforced stack protection for supported Intel and AMD processors for protection against zero-day exploits.[128]
+Like its predecessor, Windows 11 also supports multi-factor authentication and biometric authentication through Windows Hello.[127]
+
+Artificial intelligence
+In subsequent updates, Microsoft added several features based on artificial intelligence (AI), like live captions, background noise removal in videoconferencing, webcam auto-framing that follows the user's movements,[87] and AI-powered Bing Chat in the taskbar's search field.[129] Following the integration of GPT-4 in Microsoft's other products, the company announced that by summer 2023, the newly released Microsoft Copilot would add GPT-4 integration to the Windows taskbar.[130]
+On May 20, 2024, Microsoft officially announced Recall, a feature that uses a hardware AI accelerator to locally store snapshots of the user's activity (including content transcribed using live captions), and which allows users to search through them. This feature is exclusive to devices certified under the "Copilot+ PC" branding.[131][132][133] Following pushback from the cyber security community, Microsoft delayed the feature in June 2024. A preview version will be added to the Microsoft Insider program at later date in order to test added security measures.[134]
+
+Editions
+Windows 11 is available in two main editions; the Home edition, which is intended for consumer users, and the Pro edition, which contains additional networking and security features (such as BitLocker), as well as the ability to join a domain.[135] Windows 11 Home may be restricted by default to verified software obtained from Microsoft Store ("S Mode").[136] Windows 11 Home requires an Internet connection and a Microsoft account in order to complete first-time setup.[137] This restriction is also applied to Windows 11 Pro since version 22H2[121] as it was announced in February 2022, although a Microsoft account isn't required if it's not for personal use.[138]
+Windows 11 SE was announced on November 9, 2021, as an edition exclusively for low-end devices sold in the education market; it is intended as a successor to Windows 10 S, and also competes primarily with ChromeOS. It is designed to be managed via Microsoft Intune. Based on feedback from educators, Windows 11 SE has multiple UI differences and limitations, including Snap Layouts not containing layouts for more than two applications at once, all applications opening maximized by default, and Widgets being removed. It is bundled with applications such as Microsoft Office for Microsoft 365, Minecraft Education Edition, and Flipgrid, while OneDrive is used to save files by default. Windows 11 SE does not include Microsoft Store; third-party software is provisioned or installed by administrators. To target organizations migrating from Google Chrome, Microsoft Edge is configured by default to enable the installation of extensions from the Chrome Web Store.[139][140]
+
+Other editions
+See also: Windows 10 editions
+Other editions include Pro Education, Pro for Workstations, Education, Enterprise, Enterprise multi-session, IoT Enterprise, Enterprise LTSC, IoT Enterprise LTSC, Home Single Language, and Team; along with regional variations. These editions remain fundamentally the same as their Windows 10 edition counterparts.
+Two new edition variants called IoT Enterprise Subscription and IoT Enterprise Subscription LTSC have been introduced in version 24H2.[141]
+
+Supported languages
+Before the launch of Windows 11, OEMs (as well as mobile operators) and businesses were offered two options for device imaging: Component-Based Servicing lp.cab files (for the languages to be preloaded on the first boot) and Local Experience Pack .appx files (for the languages available for download on supported PCs). The 38 fully-localized Language Pack (LP) languages were available as both lp.cab and .appx packages, while the remaining 72 partially-localized Language Interface Pack (LIP) languages were only available as .appx packages.[142]
+With Windows 11, that process has changed. Five new LP languages were added — Catalan, Basque, Galician, Indonesian, and Vietnamese — bringing the total number of LP languages to 43. Furthermore, these 43 languages can only be imaged using lp.cab packages. This is to ensure a fully supported language-imaging and cumulative update experience.
+The remaining 67 LIP languages that are LXP-based will move to a self-service model, and can only be added by Windows users themselves via the Microsoft Store and Windows Settings apps, not during the Windows imaging process. Any user, not just admins, can now add both the display language and its features, which can help users in business environments, but these exact options for languages (both LP and LIP) still depend on the OEM and mobile operator.
+
+Updates and support
+Main article: Windows 11 version history
+Like Windows 10, Windows 11 follows Microsoft's Modern Lifecycle Policy. Each annual feature update has its own support lifecycle: two years for the Home and Pro editions, and three years for the Education and Enterprise editions. Microsoft has stated that Windows 11 provides no lifecycle guarantee if it has been installed on a machine that does not meet its minimum hardware requirements.[143]
+Windows 11 receives annual major updates, though Microsoft sometimes adds major features in mid-cycle releases. Starting in 2022, in the Enterprise and Education editions, major features added in yearly releases will be turned off by default until the next yearly release, though these features can be manually enabled as a group policy.[144]
+
+Preview releases
+The Windows Insider program carries over from Windows 10, with pre-release builds divided into "Dev" (unstable builds used to test features for future feature updates), "Beta" (test builds for the next feature update; relatively stable in comparison to Dev channel), and "Release Preview" (pre-release builds for final testing of upcoming feature updates) channels.[145]
+
+Versions
+
+Windows 11 versionsvte
+
+
+Version
+
+Codename
+
+Marketing name
+
+Build
+
+Release date
+
+Supported until (and support status by color)
+
+
+GAC[a]
+
+LTSC[b]
+
+
+Home, Pro, SE,Pro Education,Pro for Workstations
+
+Education,Enterprise,IoT Enterprise
+
+Enterprise
+
+IoT Enterprise
+
+
+21H2
+
+Sun Valley
+
+—
+
+22000
+
+October 5, 2021
+
+October 10, 2023
+
+October 8, 2024
+
+—
+
+
+22H2
+
+Sun Valley 2
+
+2022 Update[c]
+
+22621
+
+September 20, 2022
+
+October 8, 2024
+
+October 14, 2025
+
+
+23H2
+
+Sun Valley 3
+
+2023 Update[d]
+
+22631
+
+October 31, 2023
+
+November 11, 2025
+
+November 10, 2026
+
+
+24H2
+
+Hudson Valley[citation needed]
+
+2024 Update
+
+26100
+
+October 1, 2024[e]
+
+October 13, 2026
+
+October 12, 2027
+
+October 9, 2029
+
+October 10, 2034[f]
+
+
+Legend:   Unsupported version[g]   Old version, still maintained[h]   Latest version[i]
+
+
+Notes:
+
+
+^ General Availability Channel.
+
+^ Long-Term Servicing Channel.
+
+^ Five updates were released:"Moment 1" with build 22621.675 on October 18, 2022"Moment 2" with build 22621.1344 on February 28, 2023"Moment 3" with build 22621.1778 on May 24, 2023"Moment 4" with build 22621.2361 on September 26, 2023"Moment 5" with build 22621.3235 on February 29, 2024
+
+^ An update codenamed "Moment 5" was released on February 29, 2024 with build 22631.3235
+
+^ Windows 11, version 24H2 was generally available for Copilot Plus PCs from June 15, 2024
+
+^ Mainstream support until October 9, 2029.
+
+^ Windows 11 builds that have this color have reached their expiration dates and are no longer supported by Microsoft.
+
+^ Windows 11 builds that have this color are no longer the latest version of Windows 11, but are still supported by Microsoft.
+
+^ Windows 11 builds that have this color are the latest (by SKU) public version of Windows 11.
+
+
+
+Known issues
+Version 24H2, notably, has a longer than usual list of known issues. Some require updated drivers or [free] software updates to fix, while others have yet to be fixed as of March 2025. E.g., broken biometrics and camera support on a limited number of devices, and some older games and applications not functioning properly or not working at all; e.g., Asphalt 8 and Dirac audio improvement software (if cridspapo.dll is utilized).[146][147][148]
+
+System requirements
+
+Hardware requirements for Windows 11[125][149][150](excludes IoT Enterprise version 24H2 editions)
+
+
+Component
+
+Minimum
+
+
+Processor
+
+A compatible 64-bit processor (x86-64 or ARM64) with at least 1 GHz clock rate and at least 2 processor cores[note 1]
+
+
+Memory (RAM)
+
+At least 4 GB
+
+
+Storage space
+
+At least 64 GB
+
+
+System firmware
+
+Unified Extensible Firmware Interface (UEFI)
+
+
+Security
+
+Secure Boot (recommended and required to be available, but does not need to be enabled)
+
+
+Trusted Platform Module (TPM) version 2.0
+
+
+Graphics card
+
+Compatible with DirectX 12 or later with WDDM 2.0 driver
+
+
+Display
+
+High definition (720p) display that is greater than 9" diagonally, 8 bits per color channel[note 2]
+
+
+Internet connection and Microsoft accounts
+
+Internet connection and Microsoft account required to complete first-time setup on Home and Pro (for personal use) editions.[138][105][124]
+
+
+Additional requirements for optional functionality
+
+
+Feature
+
+Requirements
+
+
+5G support
+
+5G capable modem
+
+
+Auto HDR
+
+HDR capable monitor
+
+
+Biometric authentication and Windows Hello
+
+Illuminated infrared camera or fingerprint reader
+
+
+BitLocker to Go
+
+USB flash drive (available in Windows 11 Pro and higher editions)
+
+
+Hyper-V
+
+Second Level Address Translation (SLAT) (available in Windows 11 Pro and higher editions)
+
+
+DirectStorage
+
+NVMe Solid-state drive[151]
+
+
+DirectX 12 Ultimate
+
+Available with supported games and graphics cards
+
+
+Spatial sound
+
+Supporting hardware and software
+
+
+Two-factor authentication
+
+Use of PIN, biometric authentication, or a phone with Wi-Fi or Bluetooth capabilities
+
+
+Speech recognition
+
+Microphone
+
+
+Wi-Fi 6E support
+
+New WLAN IHV hardware and driver, Wi-Fi 6E capable AP/router
+
+
+Windows Projection
+
+Wi-Fi adapter that supports Wi-Fi Direct, WDDM 2.0
+
+
+Windows Subsystem for Android (public preview)
+
+A supported processor and a solid-state driveAt least 8 GB of RAM (minimum)At least 16 GB of RAM (recommended)
+
+Official
+The basic system requirements of Windows 11 differ significantly from Windows 10. Windows 11 only supports 64-bit systems such as those using an x86-64 or ARM64 processor; IA-32 and ARM32 processors are no longer supported.[126] Thus, Windows 11 is the first consumer version of Windows not to support 32-bit processors (although Windows Server 2008 R2 is the first version of Windows Server to not support them).[152][153] The minimum RAM and storage requirements were also increased; Windows 11 now requires at least 4 GB of RAM and 64 GB of storage.[154] Also for the first time, TPM 2.0 is now required, however, Original equipment manufacturers (OEM) can still ship computers without TPM 2.0 enabled upon Microsoft's approval.[125][155] S mode is only supported for the Home edition of Windows 11.[156]
+In addition, for the first time, Microsoft enforces a processor model check before installation (although not on all editions, e.g., some IoT editions are excluded), where the processor model is checked against a Microsoft whitelist. As of March 2025, the officially supported lists of processors includes eighth generation Intel Core CPUs (Coffee Lake) and later, AMD Zen+ CPUs/APUs and later (which include the "AF" revisions of Ryzen 1000 CPUs, which are underclocked Zen+ CPUs that supplant Ryzen 1000 parts that could no longer be manufactured due to a change in process),[157] and Qualcomm Snapdragon 850 and later.[158][159][160] The Intel compatibility list also includes the Intel Core i7-7820HQ, a seventh-generation processor used by the Surface Studio 2,[161] although only on devices that shipped with DCH-based drivers.[162]
+The processor compatibility lists Microsoft provides are cumulative, e.g., all processors listed as compatible with version 21H2 are also compatible with version 24H2. However, newer version lists (post version 21H2) may omit older processor models, as these lists are primarily intended for use by OEMs, for newly manufactured devices. Regardless, as of February 2025, Microsoft now recommends that consumers simply ignore these lists and instead verify processor compatibility via the Microsoft PC Health Check app. This change was due to previous consumer confusion, initially perpetuated by erroneous reports from some news outlets.[163][164]
+On May 20, 2024, Microsoft announced "Copilot+ PC"—a brand of Windows 11 devices that are designed to support enhanced artificial intelligence features. Copilot+ PCs require an on-board AI accelerator, at least 256 GB of storage, and at least 16 GB of RAM. The first wave of Copilot+ PCs run the Qualcomm Snapdragon X Elite system-on-chip. x86-64-based Copilot+ PCs began to be announced later in the year, which are based on AMD Ryzen AI and Intel Core Ultra CPUs.[131][132][165][133]
+
+Unofficial
+Devices with unsupported 64-bit processors are not blocked from installing or running Windows 11; however, a clean install or upgrade using ISO installation media must be performed as Windows Update will not offer an upgrade from Windows 10.[166] Additionally, users must also accept an on-screen disclaimer stating that they will not be entitled to receive updates, and that damage caused by using Windows 11 on an unsupported configuration are not covered by the manufacturer's warranty.[167][168]
+In addition, various unofficial methods to bypass other Windows 11 official requirements, such as, but not limited to, TPM 2.0 exist; furthermore there also exists an official bypass method provided directly by Microsoft (whereas the installation itself remains unofficially supported).[169]
+In April 2024, Windows Insider version 24H2 builds began to have a dependency of the SSE4.2 and POPCNT CPU instructions (corresponding to the x86-64 v2 microarchitecture level), increasing the unofficial minimum compatibility to Bulldozer microarchitecture-based processors like the AMD FX (2011) processors and first-generation Intel Core i (2008) processors. Intel Core 2 (like the Core 2 Duo and Core 2 Quad), AMD K10 CPUs (such as Phenom II and Athlon II) and older are no longer supported.[170][171] Finally, version 24H2 now requires ARMv8.1, dropping unofficial support for ARMv8.0, e.g., the Snapdragon 835 and older are no longer supported.[172]
+
+Firmware compatibility
+Legacy BIOS is no longer officially supported; a UEFI system and a Trusted Platform Module (TPM) 2.0 security coprocessor is now officially required.[105][149][173][174] The TPM requirement in particular has led to confusion as many motherboards do not have TPM support, or require a compatible TPM to be physically installed onto the motherboard. Many newer CPUs also include a TPM implemented at the CPU level (with AMD referring to this as "fTPM", and Intel referring to it as "Platform Trust Technology" [PTT]),[175] which might be disabled by default and require changing settings in the computer's UEFI firmware,[176] or a UEFI firmware update that changes the default settings to reflect these requirements.[177]
+ARM64 version of Windows 11 requires the UEFI firmware with ACPI protocol.
+Starting with version 24H2, IoT Enterprise editions have officially reintroduced legacy BIOS support and eliminated the requirement for a TPM.[124]
+
+Third-party software
+Some third-party software may refuse to run on configurations of Windows 11 that do not comply with the hardware security requirement. After the release of Windows 11, Riot Games' kernel-level anti-cheat system Vanguard—used in Valorant and since May 2024 by League of Legends[178]—began to enforce the operating system security requirements, and will not allow the games to be run on the OS if secure boot and a TPM 2.0-compliant coprocessor are not enabled.[179]
+
+IoT Enterprise editions
+
+Hardware requirements for Windows 11 IoT Enterprise version 24H2 editions[124][141]
+
+
+Component
+
+Minimum
+
+
+Processor
+
+A 64-bit processor (x86-64 v2[170][171] or ARMv8.1[172]) with at least 1 GHz clock rate and at least 2 processor cores.
+
+
+Memory (RAM)
+
+LTSC: At least 2 GBNon-LTSC: At least 4 GB
+
+
+Storage space
+
+LTSC: At least 16 GBNon-LTSC: At least 64 GB
+
+
+System firmware
+
+Basic Input/Output System (BIOS)
+
+
+Security
+
+Optional
+
+
+Graphics card
+
+Compatible with DirectX 10/Not required
+
+
+Display
+
+Optional
+
+
+Internet connection and Microsoft accounts
+
+Not required
+
+While IoT Enterprise editions have always had slightly reduced official requirements compared to other Windows 11 editions, notably starting with version 24H2, minimum requirements were further reduced and now differ significantly. These updated 24H2 requirements were announced on May 22, 2024, for both LTSC and non-LTSC editions. 
+
+For the first time since Windows 11 release, Microsoft has officially eliminated a TPM and UEFI minimum requirement for all systems running these editions and dropped the minimum DirectX version down to 10 (version 12 was previously required on 23H2). Finally, the IoT Enterprise LTSC edition further drops the minimum required RAM to 2 GB and storage space to 16 GB.[124][141]
+Reception
+Pre-release
+Reception of Windows 11 upon its reveal was positive, with critics praising the new design and productivity features.[180] However, Microsoft was criticized for creating confusion over the minimum system requirements for Windows 11.[181] The increased system requirements (compared to those of Windows 10) initially published by Microsoft meant that up to 60% of existing Windows 10 PCs were unable to upgrade to Windows 11,[182] which has faced concerns that this will contribute to electronic waste.[183]
+Microsoft has not specifically acknowledged this when discussing the cutoff, it was also acknowledged that the sixth and seventh generation of Intel Core processors were prominently afflicted by CPU-level security vulnerabilities such as Meltdown and Spectre, and that newer CPUs manufactured since then had increased mitigations against the flaws.[101][184]
+Speaking to IT news outlet CRN, a dozen solution providers all felt that they "believe Windows 11 will be a meaningful step up in security, and they agree with Microsoft's strategy of putting security first."[184]
+Research Vice President of Gartner Stephen Kleynhans felt that Microsoft was "looking at the entire stack from the hardware up through the applications and the user experience and trying to make the entire stack work better and more securely.[184]
+
+Launch
+Andrew Cunningham of Ars Technica gave a mixed but overall cautiously positive review of Windows 11 upon its release. He praised the improvements to its visual design (describing the new "Mica" appearance as reminiscent of the visual appearance of iOS and macOS, and arguing that Microsoft had "[made] a serious effort" at making the user-facing aspects of Windows 11 more consistent visually. He also praised window management, performance (assessed as being equivalent to if not better than Windows 10), other "beneficial tweaks". Criticism was raised towards Widgets' lack of support for third-party content, thus limiting it to Microsoft services only, regressions in taskbar functionality and customization. He also noted the inability to easily select default applications for common tasks such as web browsing, as it requires the user to select the browser application for each file type individually. Apart from the user interface, system requirements and Microsoft's unclear justification for its processor compatibility criteria remained a major sticking point for him. While some of the system requirements have brought greater public attention to hardware security features present on modern PCs, he argued that these could already be employed on Windows 10, albeit optionally. Cunningham concluded that "as I've dug into [Windows 11] and learned its ins and outs for this review, I've warmed to it more", but argued that the OS was facing similar "public perception" issues to Windows Vista and Windows 8. However, he noted that 11 did not have as many performance issues or bugs as Vista had upon its release, nor was as "disjointed" as 8, and recommended that users who were unsure about the upgrade should stay on Windows 10 in anticipation of future updates to 11.[101]
+Tom Warren of The Verge described Windows 11 as being akin to a house in the middle of renovations, but that "actually using Windows 11 for the past few months hasn't felt as controversial as I had expected"—praising its updated user interface as being more modern and reminiscent of iOS and ChromeOS, the new start menu for feeling less cluttered than the Windows 10 iteration, updates to some of its stock applications, and Snap Assist. Warren noted that he rarely used the Widgets panel or Microsoft Teams, citing that he preferred the weather display that later versions of Windows 10 offered, and did not use Teams to communicate with his friends and family. He also acknowledged the expansion of the Microsoft Store to include more "traditional" desktop applications. However, he felt that Windows 11 still felt like a work in progress, noting UI inconsistencies (such as dark mode and new context menu designs not being uniform across all dialogues and applications, and the UWP Settings app still falling back upon legacy Control Panel applets for certain settings), regressions to the taskbar (including the inability to move it, drag files onto taskbar buttons to focus the corresponding application, and the clock only shown on the primary display in multi-monitor configurations), and promised features (such as dynamic refresh rate support and a universal microphone mute button) not being present on the initial release. Overall, he concluded that "I wouldn't rush out to upgrade to Windows 11, but I also wouldn't avoid it. After all, Windows 11 still feels familiar and underneath all the UI changes, it's the same Windows we've had for decades."[185]
+Mark Hatchman of PC World was more critical of Windows 11, arguing that it "sacrifices productivity for personality, but without cohesion", commenting upon changes such as the inability to use local "offline" accounts on Windows 11 Home, regressions to the taskbar, a "functionally worse" start menu, Microsoft Teams integration having privacy implications and being a ploy to coerce users into switching to the service, File Explorer obscuring common functions under unclear icons, forcing users to scroll through many options to discourage changing the default web browser from Microsoft Edge, and that the OS "anecdotally feels less responsive, slower, and heavier than Windows 10". He concluded that Windows 11 "feels practical and productive, but less so than its predecessor in many aspects", while its best features were either "hidden deeper within", required specific hardware (DirectStorage, Auto HDR) or were not available on launch (Android app support).[186]
+
+Longer term views
+Windows 11 was slow to be adopted, with Microsoft relying on "annoying" ads and pop-ups to convince Windows 10 users to upgrade. Adoption remained slow until early 2025, ahead of the end-of-life for Windows 10.[187][188] PC Mag commented that "Windows 10 does everything just as well, and in some cases even better."[189]
+Critics have also noted that as of 2024, Windows 11 was slower for gaming than Windows 10. Some games, such as Cyberpunk 2077 and A Plague Tale: Requiem, ran 10% faster on Windows 10 than on Windows 11. This was a reversal of early profiling which suggested an advantage for Windows 11.[190] Adoption briefly overtook Windows 10 among Steam users in early 2025, only for this to be dramatically reversed that March with a 10% rise in Windows 10 users. This may be related to consumer changes in China.[191]
+
+Market share
+As of February 2025[update], Windows 11, accounting for 38% of Windows installations worldwide,[192] is the second most popular Windows version in use, with its predecessor Windows 10 still being the most used version in virtually all countries (with Guyana being an exception, where Windows 11 is the most used[193]), having over 2 times the market share globally. Windows 11 has an estimated  23% share of all PCs (the rest being other Windows editions and other operating systems such as macOS and Linux), and an estimated  8.6% share of all devices (including mobile, tablet and console)[194] are running Windows 11.
+
+See also
+List of operating systems
+Notes
+
+
+^ Processor must either appear on one of the official Windows 11 lists of approved processors, or have its compatibility verified via the Microsoft PC Health Check app to be considered officially supported, and thus be entitled to receive updates.
+
+^ Optional on IoT Enterprise editions.[124]
+
+
+References
+
+
+^ Warren, Tom (June 15, 2021). "Windows 11 leak reveals new UI, Start menu, and more". The Verge. Archived from the original on June 18, 2021. Retrieved September 12, 2021.
+
+^ Poloboc, Alexandru (May 11, 2023). "Rust is now up and running in Windows 11 kernel". Windows Report. Retrieved July 5, 2023.
+
+^ Claburn, Thomas (April 27, 2023). "Microsoft is busy rewriting core Windows code in memory-safe Rust". The Register. Retrieved July 5, 2023.
+
+^ Tung, Liam. "Programming language tools: Windows gets versatile new open-source terminal". ZDNet. Archived from the original on August 3, 2020. Retrieved August 31, 2020.
+
+^ "Microsoft is open-sourcing Windows Calculator on GitHub". ZDNet. Archived from the original on July 3, 2019. Retrieved August 31, 2020.
+
+^ "GitHub – microsoft/Windows-Driver-Frameworks". GitHub. Archived from the original on January 14, 2017. Retrieved August 31, 2020.
+
+^ "windows forms". Microsoft. Archived from the original on September 13, 2020. Retrieved August 31, 2020.
+
+^ a b c Panay, Panos (October 4, 2021). "Windows 11: A new era for the PC begins today". Windows Experience Blog. Archived from the original on October 4, 2021. Retrieved October 4, 2021.
+
+^ "April 25, 2025—KB5055627 (OS Build 26100.3915) Preview". Microsoft Support. Microsoft.
+
+^ "Releasing Windows 11 Build 26100.3902 to the Release Preview Channel". Windows Insider Blog. April 10, 2025.
+
+^ "April 25, 2025—KB5055627 (OS Build 26100.3915) Preview". Microsoft Support. Microsoft.
+
+^ "Announcing Windows 11 Insider Preview Build 26120.3941 (Beta Channel)". Windows Insider Blog. April 25, 2025.
+
+^ "Announcing Windows 11 Insider Preview Build 26200.5570 (Dev Channel)". Windows Insider Blog. April 25, 2025.
+
+^ "Announcing Windows 11 Insider Preview Build 27842 (Canary Channel)". Windows Insider Blog. April 23, 2025.
+
+^ "Available Language Packs for Windows 11". Microsoft Learn. January 7, 2022.
+
+^ "Language Packs for Windows 11". Microsoft Support.
+
+^ "Windows 11 Minimum Hardware Requirements" (PDF). Microsoft. June 2021. Retrieved November 17, 2022.
+
+^ Warren, Tom (August 18, 2021). "Microsoft is making it harder to switch default browsers in Windows 11". The Verge. Retrieved January 10, 2023.
+
+^ Raymond, Daniel (January 21, 2024). "Top 10 Disadvantages of Windows 11". ProjectManagers.net. Retrieved September 2, 2024.
+
+^ Hachman, Mark (April 30, 2015). "Windows forever: Windows 10 builds will continue even after Microsoft ships it". PCWorld. Archived from the original on March 2, 2021. Retrieved June 16, 2021.
+
+^ Bekker, Scott (July 1, 2019). "Windows 10 Takes Its Place as Microsoft's 'Forever OS'". Redmond Magazine. Archived from the original on April 9, 2021. Retrieved June 16, 2021.
+
+^ Loeb, Larry (July 28, 2015). "Windows 10: Microsoft Attempts A SaaS Model". InformationWeek. Archived from the original on May 8, 2021. Retrieved June 27, 2021.
+
+^ Hachman, Mark (June 18, 2021). "Why is there a Windows 11 if Windows 10 is the last Windows?". PCWorld. Archived from the original on October 14, 2021. Retrieved December 13, 2023.
+
+^ Warren, Tom (October 2, 2019). "Microsoft Surface Neo first look: the future of Windows 10X is dual-screen". The Verge. Archived from the original on October 2, 2019. Retrieved May 4, 2020.
+
+^ Hollister, Sean (October 2, 2019). "Windows 10X is Microsoft's latest stab at a 'Lite' operating system, exclusively for dual-screens". The Verge. Archived from the original on October 2, 2019. Retrieved May 4, 2020.
+
+^ Warren, Tom (October 2, 2019). "Windows 10X has a new Start Menu and no more Live Tiles". The Verge. Archived from the original on October 16, 2021. Retrieved October 16, 2021.
+
+^ Warren, Tom (May 4, 2020). "Microsoft confirms Windows 10X is coming to laptops amid big jump in Windows usage". The Verge. Archived from the original on May 4, 2020. Retrieved May 4, 2020.
+
+^ Panay, Panos (May 4, 2020). "Accelerating innovation in Windows 10 to meet customers where they are". Windows Experience Blog. Archived from the original on October 14, 2021. Retrieved October 16, 2021.
+
+^ Bowden, Zac (October 28, 2020). "Microsoft plans big Windows 10 UI refresh in 2021 codenamed 'Sun Valley'". Windows Central. Retrieved October 27, 2022.
+
+^ Warren, Tom (January 4, 2021). "Microsoft planning 'sweeping visual rejuvenation of Windows'". The Verge. Archived from the original on June 10, 2021. Retrieved June 16, 2021.
+
+^ Warren, Tom (March 4, 2021). "Microsoft's Windows 10 UI overhaul continues with new system icons". The Verge. Archived from the original on October 16, 2021. Retrieved October 16, 2021.
+
+^ Warren, Tom (March 17, 2021). "Microsoft is bringing its Xbox Auto HDR feature to Windows". The Verge. Archived from the original on October 16, 2021. Retrieved October 16, 2021.
+
+^ Shilov, Anton (December 11, 2020). "Microsoft Brings x64 Emulation to Windows 10 on Arm PCs". Tom's Hardware. Archived from the original on March 8, 2022. Retrieved November 14, 2021.
+
+^ Endicott, Sean (April 26, 2021). "Floating menus, rounded corners, and more coming to Windows 10 21H2". Windows Central. Archived from the original on May 18, 2022. Retrieved May 18, 2022.
+
+^ Warren, Tom (May 18, 2021). "Microsoft confirms Windows 10X is dead". The Verge. Archived from the original on May 18, 2021. Retrieved May 18, 2021.
+
+^ Bowden, Zac (May 25, 2021). "Satya Nadella teases major updates coming soon to Windows during Build 2021 keynote". Windows Central. Archived from the original on June 5, 2021. Retrieved June 15, 2021.
+
+^ Warren, Tom (June 2, 2021). "Microsoft to reveal its next generation of Windows on June 24". The Verge. Archived from the original on June 11, 2021. Retrieved June 15, 2021.
+
+^ a b "Microsoft Windows Event – Watch the June 24 LIVE stream". Microsoft. June 2, 2021. Archived from the original on June 16, 2021. Retrieved June 15, 2021.
+
+^ Windows | Startup Sounds – Slo-fi Remix. Microsoft. June 10, 2021. Archived from the original on June 12, 2021. Retrieved June 15, 2021 – via YouTube.
+
+^ Warren, Tom (June 10, 2021). "Microsoft teases new Windows 11 startup sound with 11-minute video". The Verge. Archived from the original on June 12, 2021. Retrieved June 15, 2021.
+
+^ Warren, Tom (June 24, 2021). "Live blog: Microsoft's Windows 11 event". The Verge. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Novet, Jordan; Leswing, Kif; Haselton, Todd (June 24, 2021). "Microsoft just unveiled Windows 11: Here's everything it announced". CNBC. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ @satyanadella (June 25, 2021). "Today marks the beginning of a new generation of Windows" (Tweet). Retrieved June 25, 2021 – via Twitter.
+
+^ Join us to see what's next for developers. Microsoft. Archived from the original on June 23, 2021. Retrieved June 24, 2021 – via YouTube.
+
+^ Gallo, Kevin (June 24, 2021). "What Windows 11 Means for Developers". Windows Developer Blog. Archived from the original on June 24, 2021. Retrieved June 25, 2021.
+
+^ Jones, Luke (June 18, 2021). "Microsoft Announces Windows 11 Developer Event on June 24". WinBuzzer. Archived from the original on June 18, 2021. Retrieved June 25, 2021.
+
+^ Parmar, Mayank (June 21, 2021). "Windows 11 confirmed in a new Microsoft support document". Windows Latest. Archived from the original on June 20, 2021. Retrieved June 25, 2021.
+
+^ Allan, Darren (June 21, 2021). "Windows 11 name confirmed in fresh leak from Microsoft". Tech Radar. Archived from the original on June 22, 2021. Retrieved June 24, 2021.
+
+^ "传说中的Windows11，测试版" [The legendary Windows 11, beta version]. Baidu (in Chinese). Archived from the original on June 15, 2021. Retrieved June 17, 2021.
+
+^ Reichert, Corinne (June 15, 2021). "Windows 11 screenshots leak online, report says". CNET. Archived from the original on June 28, 2021. Retrieved June 25, 2021.
+
+^ Mott, Nathaniel (June 17, 2021). "Windows 11: Everything We Know About Microsoft's Next OS". Tom's Hardware. Archived from the original on June 25, 2021. Retrieved June 17, 2021.
+
+^ Humphries, Suzanne (June 15, 2021). "Windows 11 Build Leaks, Shows a New Desktop UI, Start Menu, and More". reviewgeek. Archived from the original on June 16, 2021. Retrieved June 15, 2021.
+
+^ Warren, Tom (June 25, 2021). "Microsoft's Panos Panay on building Windows 11 during a pandemic, Android, and the leak". The Verge. Archived from the original on July 7, 2021. Retrieved July 5, 2021.
+
+^ Rubino, Daniel (June 18, 2021). "Microsoft issues DMCA complaint against site hosting Windows 11 ISO, confirms authenticity". Windows Central. Archived from the original on June 28, 2021. Retrieved July 5, 2021.
+
+^ "Upgrade to the New Windows 11 OS". Windows. Microsoft. June 24, 2021. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Rayome, Alison DeNisco (October 24, 2021). "Windows 11 release date: Here's when you can install Microsoft's free update". CNET. Archived from the original on June 26, 2021. Retrieved June 26, 2021.
+
+^ a b Panay, Panos (June 24, 2021). "Introducing Windows 11". Windows Experience Blog. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Langowski, Amanda (June 28, 2021). "Announcing the first Insider Preview for Windows 11". Windows Insider Blog. Archived from the original on June 29, 2021. Retrieved June 29, 2021.
+
+^ Rayome, Alison DeNisco (October 24, 2021). "Windows 11 release date: Here's when Microsoft's new OS comes out". CNET. Archived from the original on August 31, 2021. Retrieved August 31, 2021.
+
+^ Rayome, Alison DeNisco (October 16, 2021). "Windows 11: What you need to know about the beta, release date, new features and more". CNET. Archived from the original on August 31, 2021. Retrieved August 31, 2021.
+
+^ Schultz, E.J. (September 9, 2021). "See how Microsoft is marketing Windows 11". Ad Age. Retrieved September 21, 2022.
+
+^ "Microsoft lights up Burj Khalifa to promote Windows 11". The Times of India. October 6, 2021. Archived from the original on February 17, 2022. Retrieved February 23, 2022.
+
+^ Warren, Tom (October 5, 2021). "Microsoft is giving away free Windows 11 ice cream in NYC today". The Verge. Archived from the original on February 17, 2022. Retrieved February 20, 2022.
+
+^ Endicott, Sean (November 10, 2021). "Get a taste of Windows 11 with some Bloomberry ice cream". Windows Central. Archived from the original on February 17, 2022. Retrieved February 20, 2022.
+
+^ "Windows 11, version 21H2 update history". Microsoft Support. October 4, 2021. Archived from the original on October 3, 2022.
+
+^ Woodman, Aaron (August 31, 2021). "Windows 11 available on October 5". Windows Experience Blog. Archived from the original on August 31, 2021. Retrieved October 6, 2021.
+
+^ Rayome, Alison DeNisco (May 24, 2022). "Download Windows 11 now with this workaround: How to skip the wait for Microsoft's OS". CNET. Archived from the original on November 2, 2021. Retrieved November 2, 2021.
+
+^ Warren, Tom (October 4, 2021). "Microsoft releases Windows 11 a day early". The Verge. Archived from the original on October 4, 2021. Retrieved October 4, 2021.
+
+^ Foley, Mary Jo (October 4, 2021). "Microsoft's Windows 11: How to get it now (or later)". ZDNet. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ "KB5005716: Out of Box Experience update for Windows 10, version 2004, 20H2, 21H1, and 21H2: October 4, 2021". Microsoft Support. Archived from the original on November 2, 2021. Retrieved November 2, 2021.
+
+^ O'Donnell, Deirdre (May 9, 2022). "Microsoft releases physical copies of Windows 11 to retail partners". NotebookCheck. Archived from the original on May 9, 2022.
+
+^ Baxter, Daryl (May 10, 2022). "You can now buy a physical copy of Windows 11, because, why not?". TechRadar. Future plc. Archived from the original on May 10, 2022.
+
+^ Endicott, Sean (July 28, 2022). "Windows 11 digital licenses now available through Microsoft". Windows Central. Retrieved September 21, 2022.
+
+^ Warren, Tom (October 11, 2023). "Microsoft has closed the free Windows 11 loophole — Windows 7 keys no longer work". The Verge. Retrieved January 8, 2024.
+
+^ Bott, Ed (May 13, 2024). "Can you still get a Windows 10 upgrade for free?". ZDNet. Archived from the original on May 29, 2024. Retrieved June 12, 2024.
+
+^ Windows 10 clean installation can still be activated with Windows 7 Product Key in 2024!. Tuxhardware. March 12, 2024. Archived from the original on June 12, 2024. Retrieved June 12, 2024 – via YouTube.
+
+^ Rutherford, Sam (June 24, 2021). "Windows 11 Is the Overhaul Microsoft Needed". Gizmodo. Archived from the original on June 25, 2021. Retrieved June 25, 2021.
+
+^ Endicott, Sean (June 24, 2021). "Microsoft is committed to the Microsoft Store with Windows 11". Windows Central. Archived from the original on June 25, 2021. Retrieved June 25, 2021.
+
+^ Warren, Tom (September 28, 2021). "Microsoft opens its Windows store up to third-party app stores". The Verge. Archived from the original on October 16, 2021. Retrieved October 16, 2021.
+
+^ Warren, Tom (November 16, 2021). "Windows 10 on Arm will no longer get x64 app emulation". The Verge. Archived from the original on November 16, 2021. Retrieved November 16, 2021.
+
+^ Brown, Shelby (December 10, 2022). "Windows 11: How to Use Microsoft Teams in the New OS". CNET. Retrieved January 17, 2023.
+
+^ a b c Warren, Tom (June 24, 2021). "Microsoft announces Windows 11, with a new design, Start menu, and more". The Verge. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Lawler, Richard (June 24, 2021). "Microsoft didn't kill Skype, but Windows 11 is shoving it out of sight". The Verge. Archived from the original on June 25, 2021. Retrieved June 25, 2021.
+
+^ a b Welch, Chris (June 24, 2021). "Microsoft Teams will be directly integrated as part of Windows 11". The Verge. Archived from the original on June 24, 2021. Retrieved June 25, 2021.
+
+^ Warren, Tom (February 28, 2023). "Microsoft's Phone Link app now lets you use iMessage from your PC". The Verge. Retrieved May 26, 2023.
+
+^ O'Hara, Andrew (April 30, 2023). "Hands on: Testing iMessage on Windows 11 using Microsoft's Phone Link app". AppleInsider. Retrieved May 26, 2023.
+
+^ a b Kelly, Samantha Murphy (February 28, 2023). "Microsoft Windows 11 update puts AI front and center". CNN Business. Retrieved May 26, 2023.
+
+^ a b c d Salter, Jim (June 24, 2021). "Windows 11 is much more than a new theme slapped onto Windows 10". Ars Technica. Archived from the original on June 25, 2021. Retrieved June 25, 2021.
+
+^ Howley, Daniel (January 15, 2020). "Microsoft swallows its pride and releases new Chrome-based browser". Yahoo! Finance. Archived from the original on November 17, 2021. Retrieved November 17, 2021.
+
+^ Shankland, Stephen (November 30, 2020). "Google is loosening its grip on Chrome's foundations, but outside allies still help it control the web itself". CNET. Archived from the original on November 17, 2021. Retrieved November 17, 2021.
+
+^ Microsoft Edge and Chromium Open Source: Our Intent, Microsoft Edge, October 18, 2020, archived from the original on November 17, 2021, retrieved November 17, 2021, [...] our unique web-platform codebase still faces occasional compatibility problems as web developers focus less on HTML standards and rationally focus on widely used platforms like Chrome [...]
+
+^ Tom Warren (June 25, 2021). "Windows 11 is deleting Internet Explorer". The Verge. Archived from the original on June 25, 2021. Retrieved August 12, 2021.
+
+^ "What is Internet Explorer (IE) mode?". Microsoft Docs. September 28, 2021. Archived from the original on October 17, 2021. Retrieved October 12, 2021. IE mode on Microsoft Edge [...] uses the Trident MSHTML engine from Internet Explorer 11 (IE11) for legacy sites.
+
+^ Bott, Ed (August 23, 2019). "How Microsoft lost its monopoly in web browsers". ZDNet. Archived from the original on August 13, 2021. Retrieved August 13, 2021.
+
+^ Purdy, Kevin (November 16, 2023). "No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon". Ars Technica.
+
+^ Warren, Tom (November 16, 2023). "The EU will finally free Windows users from Bing". The Verge.
+
+^ Zac Bowden (November 16, 2023). "Microsoft will let users uninstall Edge, Bing, and disable ads on Windows 11 as it complies with the Digital Markets Act". Windows Central.
+
+^ Sarkar, Samit (June 24, 2021). "Xbox Game Pass is built into Windows 11". Polygon. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ a b Machkovech, Sam (June 24, 2021). "DirectStorage on Windows 11: Next-gen gaming performance, with PC requirements". Ars Technica. Archived from the original on June 25, 2021. Retrieved June 25, 2021.
+
+^ Rishi Alwani (June 24, 2021). "Windows 11 Gets Xbox Series X Auto HDR, Direct Storage API, and Game Pass". IGN. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ a b c d e Cunningham, Andrew (October 4, 2021). "Windows 11: The Ars Technica review". Ars Technica. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ hickeys (June 30, 2021). "Mica material – Windows apps". Microsoft Docs. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ Warren, Tom (June 15, 2021). "Windows 11 leak reveals new UI, Start menu, and more". The Verge. Archived from the original on June 18, 2021. Retrieved June 17, 2021.
+
+^ hickeys (June 24, 2021). "Typography in Windows 11 – Windows apps". Microsoft Docs. Archived from the original on October 6, 2021. Retrieved September 7, 2021.
+
+^ a b c d "Windows 11 Specs and System Requirements". Microsoft. Archived from the original on June 3, 2024. Retrieved June 7, 2024.
+
+^ Warren, Tom (September 7, 2021). "Microsoft Start is a personalized news feed designed for Windows 11, mobile, and more". The Verge. Archived from the original on September 7, 2021. Retrieved September 7, 2021.
+
+^ Krasnoff, Barbara (October 5, 2021). "How to use snap layouts in Windows 11". The Verge. Archived from the original on November 9, 2021. Retrieved November 9, 2021.
+
+^ Chacos, Brad (October 6, 2021). "Windows 11 multi-monitor tweaks are toying with my emotions". PCWorld. Archived from the original on November 9, 2021. Retrieved November 9, 2021.
+
+^ Bisson, Simon (October 21, 2021). "How to get started with the Windows Subsystem for Android in Windows 11". TechRepublic. Archived from the original on November 3, 2021. Retrieved November 3, 2021.
+
+^ Woods, Rich (June 25, 2021). "Windows 11 will support Android apps from outside the Amazon Appstore". XDA Developers. Archived from the original on June 26, 2021. Retrieved June 26, 2021.
+
+^ "Amazon and Microsoft create new opportunities for developers and increase return on investment in the Amazon Appstore". Amazon Developer. June 24, 2021. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Jordan, Novet; Leswing, Kif; Haselton, Todd (June 24, 2021). "Microsoft Windows 11 will support Android apps". CNBC. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Warren, Tom (June 24, 2021). "Microsoft is bringing Android apps to Windows 11 with Amazon's Appstore". The Verge. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ a b Gartenberg, Chaim (June 24, 2021). "Windows 11's Intel-powered Android apps will run on AMD and Arm processors, too". The Verge. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Panay, Panos (February 15, 2022). "Bringing you closer to what you love with new experiences in Windows 11". Windows Blogs. Archived from the original on February 15, 2022. Retrieved August 5, 2022.
+
+^ Warren, Tom (March 5, 2024). "Microsoft to end its Android apps on Windows 11 subsystem in 2025". The Verge. Retrieved March 5, 2024.
+
+^ "Setup Windows 11 Home requires Microsoft account and internet connection". July 3, 2021.
+
+^ "Windows 11 Pro users will force users to login to their Microsoft account during the set up process – gHacks Tech News". February 18, 2022.
+
+^ "Microsoft Account and Internet Connection Mandatory for Windows 11 Home Setup". June 24, 2021.
+
+^ "Microsoft Local Account: Set It Up in Windows 10 and Windows 11". PCMAG. February 28, 2024.
+
+^ a b Humphries, Matthew (February 18, 2022). "Installing Windows 11 Pro to Require Internet Connection, Microsoft Account". PC Magazine.
+
+^ Morales, Jowi (June 3, 2024). "Door slammed on last remaining easy Windows 11 local account setup workaround". Tom's Hardware. Retrieved June 8, 2024.
+
+^ Pippig, Laura (June 3, 2024). "Microsoft blocks Windows 11 workaround that enabled local accounts". PCWorld. Retrieved June 8, 2024.
+
+^ a b c d e f "Minimum System Requirements for Windows IoT Enterprise". Microsoft Learn. May 22, 2024. Retrieved June 7, 2024.
+
+^ a b c "Windows 11: Minimum Hardware Requirements" (PDF). Microsoft. June 2021. Archived (PDF) from the original on June 24, 2021. Retrieved June 25, 2021.
+
+^ a b Abrams, Lawrence (June 25, 2021). "Windows 11 won't work without a TPM – What you need to know". BleepingComputer. Archived from the original on June 25, 2021. Retrieved June 25, 2021.
+
+^ a b Weston, David (June 25, 2021). "Windows 11 enables security by design from the chip to the cloud". Microsoft Security Blog. Archived from the original on June 26, 2021. Retrieved June 26, 2021.
+
+^ Abrams, Lawrence (April 25, 2023). "How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11". BleepingComputer. Retrieved May 28, 2023.
+
+^ Warren, Tom (February 28, 2023). "Microsoft brings its new AI-powered Bing to the Windows 11 taskbar". The Verge. Retrieved May 26, 2023.
+
+^ Cunningham, Andrew (May 23, 2023). "Built-in ChatGPT-driven Copilot will transform Windows 11 starting in June". Ars Technica. Retrieved May 26, 2023.
+
+^ a b Shakir, Umar (May 20, 2024). "Recall is Microsoft's key to unlocking the future of PCs". The Verge. Retrieved May 20, 2024.
+
+^ a b Kastrenakes, Jacob (May 20, 2024). "Microsoft announces Copilot Plus PCs with built-in AI hardware". The Verge. Retrieved May 20, 2024.
+
+^ a b Null, Christopher. "Everything You Need to Know About Microsoft Copilot+ PCs". Wired. ISSN 1059-1028. Retrieved September 28, 2024.
+
+^ Warren, Tom (June 13, 2024). "Microsoft's all-knowing Recall AI feature is being delayed". The Verge. Retrieved June 25, 2024.
+
+^ "Compare Windows 11 Home vs Pro Versions". Windows. Microsoft. Archived from the original on October 14, 2021. Retrieved October 14, 2021.
+
+^ "Windows 10 and Windows 11 in S mode FAQ". Microsoft Support. Archived from the original on October 23, 2021. Retrieved October 23, 2021.
+
+^ Lyons, Kim (June 24, 2021). "Windows 11 Home and Windows 11 Pro for personal use will require a Microsoft account and an internet connection at setup". The Verge. Archived from the original on October 6, 2021. Retrieved October 15, 2021.
+
+^ a b Warren, Tom (February 18, 2022). "Windows 11 Pro will soon require a Microsoft Account". The Verge. Archived from the original on February 24, 2022. Retrieved February 24, 2022.
+
+^ Warren, Tom (November 9, 2021). "Microsoft announces Windows 11 SE, a new Chrome OS competitor". The Verge. Archived from the original on November 9, 2021. Retrieved November 9, 2021.
+
+^ Cunningham, Andrew (November 9, 2021). "The latest Surface is a $250 laptop that takes a swing at cheap Chromebooks". Ars Technica. Archived from the original on November 10, 2021. Retrieved November 10, 2021.
+
+^ a b c Parmar, Mayank (May 27, 2024). "Microsoft details Windows 11 24H2 LTSC requirements, TPM optional for IoT". Windows Latest. Retrieved June 9, 2024.
+
+^ Rudra, Rittwika (September 16, 2021). "Update to language imaging in Windows 11". Microsoft Communities. Archived from the original on January 26, 2022. Retrieved January 26, 2022.
+
+^ Bott, Ed (December 19, 2022). "When will Microsoft end support for your version of Windows or Office?". ZDNet. Retrieved March 29, 2023.
+
+^ Cunningham, Andrew (September 20, 2022). "Microsoft commits to updating Windows 11 once per year, and also all the time". Ars Technica. Retrieved May 26, 2023.
+
+^ Gralla, Preston (October 29, 2021). "Windows 11 Insider Previews: What's in the latest build?". Computerworld. Archived from the original on November 3, 2021. Retrieved November 3, 2021.
+
+^ "Windows 11, version 24H2 known issues and notifications". learn.microsoft.com. February 11, 2025. Retrieved February 16, 2025.
+
+^ Sergiu Gatlan (February 26, 2025). "Windows 11 24H2 upgrades now blocked for some AutoCAD users". Bleeping Computer. Retrieved February 28, 2025.
+
+^ Kristian Kask; Joel Lee (February 26, 2025). "Windows 11 24H2 now blocked on PCs running older AutoCAD software". PCWorld. Retrieved February 28, 2025.
+
+^ a b "Compatibility for Windows 11 – Compatibility Cookbook". Microsoft Docs. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ "Windows 11 System Requirements – Minimum and Recommended". Next Tech Blog. February 23, 2023. Archived from the original on February 28, 2023. Retrieved February 28, 2023.
+
+^ Hagedoorn, Hilbert (June 29, 2021). "Microsoft removes mandatory >1TB storage requirement for DirectStorage NVMe SSDs". Guru3D. Archived from the original on September 24, 2021. Retrieved September 24, 2021.
+
+^ Hruska, Joel (May 18, 2007). "Windows Server 2008 declared 32-bit's last hurrah". Ars Technica. Archived from the original on August 24, 2021. Retrieved August 24, 2021.
+
+^ Perlow, Jason (April 30, 2009). "Make no bones about it: Server 2008 R2 is really Windows Server 7". ZDNet. Archived from the original on September 30, 2021. Retrieved September 30, 2021.
+
+^ Hachman, Mark (October 5, 2021). "Want Windows 11? Your PC better have these specs". PCWorld. Retrieved December 20, 2022.
+
+^ Parmar, Mayank (June 27, 2021). "Microsoft: OEMs can still ship some Windows 11 PCs without TPM". Windows Latest. Archived from the original on June 27, 2021. Retrieved June 28, 2021.
+
+^ "Windows 11 requirements – What's new in Windows". Microsoft Docs. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Walton, Steven (January 27, 2020). "AMD Ryzen 5 1600 AF Review". TechSpot. Archived from the original on October 6, 2021. Retrieved October 6, 2021.
+
+^ "Windows 11 supported Intel processors (version 21H2)". Microsoft Learn. Retrieved February 28, 2025.
+
+^ "Windows 11 supported AMD processors (version 21H2)". Microsoft Learn. Retrieved February 28, 2025.
+
+^ "Windows 11 supported Qualcomm processors (version 21H2)". Microsoft Learn. Retrieved February 28, 2025.
+
+^ Lilly, Paul (September 9, 2021). "Asus is issuing BIOS updates to support Windows 11 on unsupported Intel CPUs". PC Gamer. Archived from the original on October 6, 2021. Retrieved October 6, 2021.
+
+^ "Update on Windows 11 minimum system requirements and the PC Health Check app". Windows Insider Blog. August 27, 2021. Archived from the original on August 27, 2021. Retrieved August 28, 2021.
+
+^ Sean Endicott (February 19, 2025). "The latest Windows 11 update did not end support for older Intel chips. Here's the source of the confusion". Windows Central. Retrieved February 20, 2025.
+
+^ Parmar, Mayank (February 16, 2025). "No, Microsoft is NOT dropping Windows 11 support for Intel 8th, 9th, and 10th Gen chips". Windows Latest. Retrieved February 20, 2025.
+
+^ "Asus Unleashes Swarm of Copilot+ PC Laptops With Fresh Intel, Qualcomm Chips". PCMag. September 4, 2024. Retrieved September 28, 2024.
+
+^ Warren, Tom (August 27, 2021). "Microsoft won't stop you installing Windows 11 on older PCs". The Verge. Archived from the original on August 27, 2021. Retrieved August 28, 2021.
+
+^ Hollister, Sean (September 21, 2021). "Windows 11 won't stop older PCs, but it might make you sign this waiver". The Verge. Archived from the original on September 21, 2021. Retrieved September 22, 2021.
+
+^ Hollister, Sean (August 28, 2021). "Microsoft is threatening to withhold Windows 11 updates if your CPU is old". The Verge. Archived from the original on September 22, 2021. Retrieved September 22, 2021.
+
+^ Piltch, Avram; Pounder, Les (July 18, 2022). "How to Bypass Windows 11's TPM, CPU and RAM Requirements". Tom's Hardware. Retrieved July 3, 2024.
+
+^ a b Sen, Sayan (December 17, 2024). "Acronis backup, cloning app gets Windows 11 24H2 BitLocker support; won't work on old CPUs". Neowin. Sadly, though, if you are on a Core 2 Duo or something similar that does not have x86_64-v2 instructions like SSE4.2 and PopCnt, you will not be able to install Windows 11 24H2, and no trick or hack exists that will be able to work around this requirement.
+
+^ a b Klotz, Aaron (April 24, 2024). "Microsoft blocks some PCs from Windows 11 24H2 — CPU must support SSE4.2 or the OS will not boot". Tom's Hardware. POPCNT and the SSE 4.2 requirements are new and have been added specifically to 24H2 and will be applied to future iterations of Windows 11 going forward.
+
+^ a b Carrasqueira, João (May 6, 2024). "Windows phones say goodbye to Windows 11 starting with version 24H2". XDA Developers. Retrieved June 9, 2024. the Windows 11 2024 Update will only run on processors based on Arm v8.1 or later
+
+^ Thurrott, Paul (June 24, 2021). "Microsoft Unveils Windows 11". Thurrott.com. Archived from the original on June 24, 2021. Retrieved June 24, 2021.
+
+^ Hanson, Matt (June 24, 2021). "Windows 11 system requirements are bad news for old laptops and PCs". TechRadar. Archived from the original on June 25, 2021. Retrieved June 24, 2021.
+
+^ Cunningham, Andrew (October 6, 2021). "How to upgrade to Windows 11, whether your PC is supported or not". Ars Technica. Archived from the original on October 6, 2021. Retrieved October 6, 2021.
+
+^ Burns, Chris (June 24, 2021). "Windows 11 update: TPM 2.0 and PC Health Check confusion". SlashGear. Archived from the original on June 24, 2021. Retrieved June 25, 2021.
+
+^ Warren, Tom (August 5, 2021). "Asus releases Windows 11-ready BIOS updates with automatic TPM support". The Verge. Archived from the original on October 6, 2021. Retrieved October 6, 2021.
+
+^ Chalk, Andy (May 3, 2024). "'We have not confirmed any instance of Vanguard bricking anyone's hardware' following its League of Legends rollout, Riot says, but there are definitely problems for some players". PC Gamer. Retrieved May 20, 2024.
+
+^ Stanton, Rich (September 7, 2021). "Valorant leads the charge enforcing Windows TPM to perma-ban cheaters' hardware on". PC Gamer. Archived from the original on November 18, 2021. Retrieved November 18, 2021.
+
+^ Hardawar, Devindra (June 29, 2021). "Windows 11 hands-on: A cleaner OS to keep you productive". Engadget. Archived from the original on July 1, 2021. Retrieved July 3, 2021.
+
+^ Bott, Ed (June 25, 2021). "Will your PC run Windows 11? Even Microsoft can't say for sure". ZDNet. Archived from the original on July 1, 2021. Retrieved July 1, 2021.
+
+^ Kingsley-Hughes, Adrian (July 1, 2021). "Windows 11 chaos, and how copying Apple could have helped Microsoft avoid it". ZDNet. Archived from the original on July 1, 2021. Retrieved July 1, 2021.
+
+^ Warren, Tom (June 29, 2021). "Windows 11 Will Leave Millions of PCs Behind, And Microsoft is Struggling to Explain Why". The Verge. Vox Media. Archived from the original on July 13, 2021. Retrieved July 17, 2021.
+
+^ a b c Alspach, Kyle (September 9, 2021). "Windows 11: Partners Say It's A 'Smart Play' By Microsoft To Put Security First". CRN. Archived from the original on October 4, 2021. Retrieved October 5, 2021.
+
+^ Warren, Tom (October 4, 2021). "Windows 11 review: a familiar home that's still being renovated". The Verge. Archived from the original on October 4, 2021. Retrieved October 5, 2021.
+
+^ Hachman, Mark (October 4, 2021). "Windows 11 review: An unnecessary replacement for Windows 10". PCWorld. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ Guyton, Christian (April 13, 2025). "Microsoft is digging its own grave with Windows 11, and it has to stop". TechRadar.
+
+^ Hale, Craig (April 7, 2025). "Windows 11 adoption grows as businesses finally get around to upgrading their devices". TechRadar.
+
+^ "10 Big Reasons Not to Upgrade to Windows 11". PCMAG. May 13, 2024.
+
+^ Temsamani, Fahd (August 5, 2024). "Windows 10 is still the fastest OS for gaming". Club386.
+
+^ Mason, Damien (March 6, 2025). "Windows 10 has replaced Windows 11 as Steam's top OS again". Club386.
+
+^ "Desktop Windows Version Market Share Worldwide". StatCounter Global Stats. Retrieved March 5, 2025.
+
+^ "Desktop Windows Version Market Share Guyana". StatCounter Global Stats. Retrieved September 30, 2024.
+
+^ "Operating System Market Share Worldwide". StatCounter Global Stats. Retrieved January 4, 2024.
+
+
+External links
+
+
+
+Wikimedia Commons has media related to Microsoft Windows 11.
+
+Official website 
+Windows 11 release information from Microsoft
+Windows Roadmap from Microsoft
+
+
+Preceded byWindows 10
+
+ Windows 11 2021
+
+Succeeded byTBA
+
+
+vteMicrosoft Windows
+Components
+Versions
+History
+Comparison
+Criticism
+DOS-based
+1.0
+2.0
+2.1
+3.0
+3.1
+Windows 9x
+95
+98
+Me
+Windows NTBase  releases
+NT 3.1
+NT 3.5
+NT 3.51
+NT 4.0
+2000
+XP
+Pro x64
+Media Center
+Vista
+7
+8
+8.1
+10
+11
+Windows  Server
+Server 2003
+Home Server
+Server 2008
+EBS 2008
+HPC Server 2008
+Server 2008 R2
+Home Server 2011
+Server 2012
+Server 2012 R2
+Server 2016
+Server 2019
+Server 2022
+Server 2025
+Other  releases
+Fundamentals for Legacy PCs
+RT
+Specialized
+Preinstallation Environment
+MultiPoint Server
+Windows  Embedded /  Windows IoTEmbedded  Compact
+CE 5.0
+Embedded CE 6.0
+Embedded Compact 7
+Other
+Embedded Automotive
+Embedded Industry
+Windows Mobile
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+Windows Phone
+Phone 7
+Phone 8
+Phone 8.1
+10 Mobile
+Cancelled
+Cairo
+Nashville
+Neptune
+Odyssey
+Polaris
+10X
+Related
+Development
+95
+XP
+Vista
+Editions
+XP
+Vista
+7
+8
+10
+11
+New features
+XP
+Vista
+7
+8
+10
+11
+Removed features
+XP
+Vista
+7
+8
+10
+11
+Version history
+Phone
+10
+10 Mobile
+11
+Version comparison
+Vista and XP
+Criticism
+XP
+Vista
+10
+Windows for Pen Computing
+Microsoft Plus!
+Microsoft PowerToys
+Windows Server Essentials
+
+ Category
+
+vteMicrosoft Windows components
+APIs
+Architecture
+9x
+NT
+Booting process
+Games
+Managementtools
+App Installer
+Command Prompt
+Control Panel
+Device Manager
+DirectX Diagnostic Tool
+Disk Cleanup
+Drive Optimizer
+Driver Verifier
+Event Viewer
+IExpress
+Management Console
+Netsh
+Performance Monitor
+PowerShell
+Recovery Console
+Resource Monitor
+Settings
+Sysprep
+System Configuration
+System File Checker
+System Information
+System Policy Editor
+System Restore
+Task Manager
+Windows Error Reporting
+Windows Ink
+Windows Installer
+Windows Update
+Windows Insider
+WinRE
+WMI
+Apps
+3D Viewer
+Calculator
+Calendar
+Camera
+Character Map
+City Art Search
+Clipchamp
+Clock
+Company Portal
+Copilot
+Edge
+Fax and Scan
+Feedback Hub
+Get Help
+Magnifier
+Mail
+Maps
+Media Player
+2022
+Mesh
+Messaging
+Mobility Center
+Money
+Movies & TV
+Narrator
+Notepad
+OneDrive
+OneNote
+Paint
+PC Manager
+People
+Phone Link
+Photos
+Quick Assist
+Remote Desktop Connection
+Skype
+Snipping Tool
+Speech Recognition
+Sports
+Start
+Sticky Notes
+Store
+Terminal
+Tips
+Voice Recorder
+Weather
+Whiteboard
+Windows App
+Xbox
+Shell
+Action Center
+Aero
+AutoPlay
+AutoRun
+ClearType
+Explorer
+Search
+IFilter
+Indexing Service
+Namespace
+Saved search
+Special folder
+Start menu
+Task View
+Taskbar
+Windows Spotlight
+Windows XP visual styles
+Services
+BITS
+CLFS
+Error Reporting
+Multimedia Class Scheduler
+Service Control Manager
+Shadow Copy
+Task Scheduler
+Wireless Zero Configuration
+File systems
+CDFS
+DFS
+exFAT
+FAT
+IFS
+NTFS
+EFS
+Hard link
+links
+Mount Point
+Reparse point
+TxF
+ReFS
+UDF
+Server
+Active Directory
+Active DRM Services
+DFS Replication
+Distributed Transaction Coordinator
+DNS
+Domains
+Folder redirection
+Group Policy
+Hyper-V
+IIS
+MSMQ
+Network Access Protection
+Print Services for UNIX
+PWS
+Remote Desktop Services
+Remote Differential Compression
+Remote Installation Services
+Roaming user profiles
+Server Core
+SharePoint
+System Resource Manager
+Windows Deployment Services
+Windows Media Services
+WSUS
+Architecture
+Boot Manager
+Console
+CSRSS
+Desktop Window Manager
+Enhanced Write Filter
+Graphics Device Interface
+Hardware Abstraction Layer
+I/O request packet
+Imaging Format
+Kernel Transaction Manager
+Library files
+Logical Disk Manager
+LSASS
+MinWin
+NTLDR
+Ntoskrnl.exe
+Object Manager
+Open XML Paper Specification
+Portable Executable
+DLL
+EXE
+Registry
+Resource Protection
+Security Account Manager
+Server Message Block
+Shadow Copy
+SMSS
+System Idle Process
+USER
+WHEA
+Winlogon
+WinUSB
+Security
+Security and Maintenance
+AppLocker
+BitLocker
+Credential Guard
+Data Execution Prevention
+Defender
+Family features
+Kernel Patch Protection
+Mandatory Integrity Control
+Protected Media Path
+User Account Control
+User Interface Privilege Isolation
+Windows Firewall
+Compatibility
+COMMAND.COM
+Windows Subsystem for Linux
+WoW64
+API
+Active Scripting
+JScript
+VBScript
+WSH
+COM
+ActiveX
+ActiveX Document
+COM Structured storage
+DCOM
+OLE
+OLE Automation
+Transaction Server
+DirectX
+Native
+.NET
+Universal Windows Platform
+WinAPI
+Windows Mixed Reality
+Windows Runtime
+WinUSB
+Games
+Solitaire Collection
+Surf
+DiscontinuedGames
+3D Pinball
+Chess Titans
+FreeCell
+Hearts
+Hold 'Em
+InkBall
+Purble Place
+Solitaire
+Spider Solitaire
+Tinker
+Apps
+ActiveMovie
+Address Book
+Anytime Upgrade
+Backup and Restore
+Cardfile
+CardSpace
+CD Player
+Chat
+Contacts
+Cortana
+Desktop Gadgets
+Diagnostics
+DriveSpace
+DVD Maker
+Easy Transfer
+Edge Legacy
+Fax
+Food & Drink
+Groove Music
+Health & Fitness
+Help and Support Center
+HyperTerminal
+Imaging
+Internet Explorer
+Journal
+Make Compatible
+Media Center
+Meeting Space
+Messaging
+Messenger
+Mobile Device Center
+Movie Maker
+MSN Dial-up
+NetMeeting
+NTBackup
+Outlook Express
+Paint 3D
+Pay
+Phone Companion
+Photo Gallery
+Photo Viewer
+Program Manager
+Steps Recorder
+Syskey
+Travel
+WinHelp
+WordPad
+Write
+Others
+Desktop Cleanup Wizard
+File Protection
+Games for Windows
+HPFS
+Interix
+Media Control Interface
+MS-DOS 7
+Next-Generation Secure Computing Base
+POSIX subsystem
+ScanDisk
+Video for Windows
+Virtual DOS machine
+Windows on Windows
+Windows Services for UNIX
+Windows SideShow
+Windows System Assessment Tool
+Windows To Go
+WinFS
+Spun off toMicrosoft Store
+DVD Player
+File Manager
+Hover!
+Mahjong
+Minesweeper
+
+ Category
+ List
+
+vteWindows 11 version history2020s
+Version 21H2
+Version 22H2
+Version 23H2
+Version 24H2
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Windows_11&oldid=1287508079"
+Categories: Windows 11Windows NT2021 softwareAndroid (operating system)ARM operating systemsProprietary operating systemsTablet operating systemsX86-64 operating systemsMicrosoft WindowsHidden categories: CS1 Chinese-language sources (zh)Articles with short descriptionShort description is different from WikidataWikipedia semi-protected pagesUse American English from June 2021All Wikipedia articles written in American EnglishUse mdy dates from August 2023Wikipedia articles in need of updating from April 2025All Wikipedia articles in need of updatingAll articles with unsourced statementsArticles with unsourced statements from April 2025Articles containing potentially dated statements from February 2025All articles containing potentially dated statementsCommons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 26 April 2025, at 18:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Windows 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

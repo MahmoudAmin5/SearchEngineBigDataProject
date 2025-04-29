@@ -1,0 +1,2206 @@
+https://en.wikipedia.org/wiki/MOS_integrated_circuit
+
+
+
+
+List of MOSFET applications - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Integrated circuits
+
+
+
+
+Toggle Integrated circuits subsection
+
+
+
+
+
+1.1
+Chips
+
+
+
+
+
+
+
+
+1.2
+Large-scale integration
+
+
+
+
+
+
+
+
+1.3
+Microprocessors
+
+
+
+
+
+
+
+
+
+
+2
+CMOS circuits
+
+
+
+
+Toggle CMOS circuits subsection
+
+
+
+
+
+2.1
+Digital
+
+
+
+
+
+
+
+
+2.2
+Analog
+
+
+
+
+
+
+
+
+2.3
+RF CMOS
+
+
+
+
+
+
+
+
+
+
+3
+Analog switches
+
+
+
+
+Toggle Analog switches subsection
+
+
+
+
+
+3.1
+Single-type
+
+
+
+
+
+
+
+
+3.2
+Dual-type (CMOS)
+
+
+
+
+
+
+
+
+
+
+4
+MOS memory
+
+
+
+
+Toggle MOS memory subsection
+
+
+
+
+
+4.1
+Types of MOS memory
+
+
+
+
+
+
+
+
+
+
+5
+MOS sensors
+
+
+
+
+Toggle MOS sensors subsection
+
+
+
+
+
+5.1
+Image sensors
+
+
+
+
+
+
+
+
+5.2
+Other sensors
+
+
+
+
+
+
+
+
+
+
+6
+Power MOSFET
+
+
+
+
+Toggle Power MOSFET subsection
+
+
+
+
+
+6.1
+DMOS and VMOS
+
+
+
+
+
+
+
+
+6.2
+RF DMOS
+
+
+
+
+
+
+
+
+
+
+7
+Consumer electronics
+
+
+
+
+Toggle Consumer electronics subsection
+
+
+
+
+
+7.1
+Pocket calculators
+
+
+
+
+
+
+
+
+7.2
+Audio-visual (AV) media
+
+
+
+
+
+
+
+
+7.3
+Power MOSFET applications
+
+
+
+
+
+
+
+
+
+
+8
+Information and communications technology (ICT)
+
+
+
+
+Toggle Information and communications technology (ICT) subsection
+
+
+
+
+
+8.1
+Computers
+
+
+
+
+
+
+
+
+8.2
+Telecommunications
+
+
+
+
+
+
+
+
+8.3
+Power MOSFET applications
+
+
+
+
+
+
+
+
+
+
+9
+Insulated-gate bipolar transistor (IGBT)
+
+
+
+
+
+
+
+
+10
+Quantum physics
+
+
+
+
+Toggle Quantum physics subsection
+
+
+
+
+
+10.1
+2D electron gas and quantum Hall effect
+
+
+
+
+
+
+
+
+10.2
+Quantum technology
+
+
+
+
+
+
+
+
+
+
+11
+Transportation
+
+
+
+
+Toggle Transportation subsection
+
+
+
+
+
+11.1
+Automotive industry
+
+
+
+
+
+
+
+
+11.2
+Power MOSFET applications
+
+
+
+
+
+
+
+
+11.3
+IGBT applications
+
+
+
+
+
+
+
+
+11.4
+Space industry
+
+
+
+
+
+
+
+
+
+
+12
+Other applications
+
+
+
+
+
+
+
+
+13
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of MOSFET applications
+
+
+
+2 languages
+
+
+
+
+हिन्दीBahasa Indonesia
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from MOS integrated circuit)
+
+
+This article may misquote or misrepresent many of its sources. Please see the cleanup page for more information. Editors: please remove this warning only after the diffs listed [[Wikipedia talk:Requests for comment/Jagged 85/{{{subpage}}}|here]] have been checked for accuracy. (July 2022)
+
+
+MOSFET, showing gate (G), body (B), source (S), and drain (D) terminals. The gate is separated from the body by an insulating layer (pink).
+The MOSFET (metal–oxide–semiconductor field-effect transistor)[1] is a type of insulated-gate field-effect transistor (IGFET) that is fabricated by the controlled oxidation of a semiconductor, typically silicon. The voltage of the covered gate determines the electrical conductivity of the device; this ability to change conductivity with the amount of applied voltage can be used for amplifying or switching electronic signals.
+The MOSFET is the basic building block of most modern electronics, and the most frequently manufactured device in history, with an estimated total of 13 sextillion (1.3 × 1022) MOSFETs manufactured between 1960 and 2018.  It is the most common semiconductor device in digital and analog circuits, and the most common power device. It was the first truly compact transistor that could be miniaturized and mass-produced for a wide range of uses. MOSFET scaling and miniaturization has been driving the rapid exponential growth of electronic semiconductor technology since the 1960s, and enable high-density integrated circuits (ICs) such as memory chips and microprocessors.
+MOSFETs in integrated circuits are the primary elements of computer processors, semiconductor memory, image sensors, and most other types of integrated circuits. Discrete MOSFET devices are widely used in applications such as switch mode power supplies, variable-frequency drives, and other power electronics applications where each device may be switching thousands of watts. Radio-frequency amplifiers up to the UHF spectrum use MOSFET transistors as analog signal and power amplifiers. Radio systems also use MOSFETs as oscillators, or mixers to convert frequencies. MOSFET devices are also applied in audio-frequency power amplifiers for public address systems, sound reinforcement, and home and automobile sound systems.
+
+
+Integrated circuits[edit]
+See also: Integrated circuit, Invention of the integrated circuit, and Three-dimensional integrated circuit
+The MOSFET is the most widely used type of transistor and the most critical device component in integrated circuit (IC) chips.[2] Planar process, developed by Jean Hoerni at Fairchild Semiconductor in early 1959, was critical to the invention of the monolithic integrated circuit chip by Robert Noyce later in 1959.[3][4][5] The MOSFET was invented at Bell Labs between 1955 and 1960.[6][7][8][9][10] This was followed by the development of clean rooms to reduce contamination to levels never before thought necessary, and coincided with the development of photolithography[11] which, along with surface passivation and the planar process, allowed circuits to be made in few steps.
+Atalla realised that the main advantage of a MOS transistor was its ease of fabrication, particularly suiting it for use in the recently invented integrated circuits.[12] In contrast to bipolar transistors which required a number of steps for the p–n junction isolation of transistors on a chip, MOSFETs required no such steps but could be easily isolated from each other.[13] Its advantage for integrated circuits was re-iterated by Dawon Kahng in 1961.[14] The Si–SiO2 system possessed the technical attractions of low cost of production (on a per circuit basis) and ease of integration. These two factors, along with its rapidly scaling miniaturization and low energy consumption, led to the MOSFET becoming the most widely used type of transistor in IC chips.
+The earliest experimental MOS IC to be demonstrated was a 16-transistor chip built by Fred Heiman and Steven Hofstein at RCA in 1962.[15] General Microelectronics later introduced the first commercial MOS integrated circuits in 1964, consisting of 120 p-channel transistors.[16] It was a 20-bit shift register, developed by Robert Norman[15] and Frank Wanlass.[17] In 1967, Bell Labs researchers Robert Kerwin, Donald Klein and John Sarace developed the self-aligned gate (silicon-gate) MOS transistor, which Fairchild Semiconductor researchers Federico Faggin and Tom Klein used to develop the first silicon-gate MOS IC.[18]
+
+Chips[edit]
+Intel 4004 (1971), the first single-chip microprocessor. It is a 4-bit central processing unit (CPU), fabricated on a silicon-gate PMOS large-scale integration (LSI) chip with a 10 μm process.
+There are various different types of MOS IC chips, which include the following.[19]
+
+
+Digital integrated circuit[20][21]
+Analog integrated circuit[22]
+Application-specific integrated circuit (ASIC)[23]
+Arithmetic logic unit (ALU)[21]
+MOS large-scale integration (MOS LSI)[24] – Very Large Scale Integration (VLSI),[25][20][21] microcontroller,[24] application-specific standard product (ASSP),[21] chipset, co-processor,[26] system-on-a-chip,[27] graphics processing unit (GPU)[28]
+IC packaging[29]
+Microprocessors[30][24] – central processing unit (CPU),[24] Microarchitectures (such as x86,[31] ARM architecture, MIPS architecture, SPARC),[21] multi-core processor[32]
+Mixed-signal integrated circuit[33][34]
+Programmable logic device (PLD) – CPLD, EPLD, FPGA[21]
+Three-dimensional integrated circuit (3D IC) – through-silicon via (TSV)[35]
+Large-scale integration[edit]
+See also: Large-scale integration and Very large-scale integration
+With its high scalability,[36] and much lower power consumption and higher density than bipolar junction transistors,[37] the MOSFET made it possible to build high-density IC chips.[1] By 1964, MOS chips had reached higher transistor density and lower manufacturing costs than bipolar chips. MOS chips further increased in complexity at a rate predicted by Moore's law, leading to large-scale integration (LSI) with hundreds of MOSFETs on a chip by the late 1960s.[24] MOS technology enabled the integration of more than 10,000 transistors on a single LSI chip by the early 1970s,[38] before later enabling very large-scale integration (VLSI).[25][20]
+
+Microprocessors[edit]
+See also: Microcontroller and Microprocessor chronology
+The MOSFET is the basis of every microprocessor,[30] and was responsible for the invention of the microprocessor.[39] The origins of both the microprocessor and the microcontroller can be traced back to the invention and development of MOS technology. The application of MOS LSI chips to computing was the basis for the first microprocessors, as engineers began recognizing that a complete computer processor could be contained on a single MOS LSI chip.[24]
+The earliest microprocessors were all MOS chips, built with MOS LSI circuits. The first multi-chip microprocessors, the Four-Phase Systems AL1 in 1969 and the Garrett AiResearch MP944 in 1970, were developed with multiple MOS LSI chips. The first commercial single-chip microprocessor, the Intel 4004, was developed by Federico Faggin, using his silicon-gate MOS IC technology, with Intel engineers Marcian Hoff and Stan Mazor, and Busicom engineer Masatoshi Shima.[40] With the arrival of CMOS microprocessors in 1975, the term "MOS microprocessors" began to refer to chips fabricated entirely from PMOS logic or fabricated entirely from NMOS logic, contrasted with "CMOS microprocessors" and "bipolar bit-slice processors".[41]
+
+CMOS circuits[edit]
+Main article: CMOS
+Nvidia GeForce 256 (1999), an early graphics processing unit (GPU), fabricated on TSMC's 220 nm CMOS integrated circuit (IC) chip[42]
+Complementary metal–oxide–semiconductor (CMOS) logic[43] was developed by Chih-Tang Sah and Frank Wanlass at Fairchild Semiconductor in 1963.[44] CMOS had lower power consumption, but was initially slower than NMOS, which was more widely used for computers in the 1970s. In 1978, Hitachi introduced the twin-well CMOS process, which allowed CMOS to match the performance of NMOS with less power consumption. The twin-well CMOS process eventually overtook NMOS as the most common semiconductor manufacturing process for computers in the 1980s.[45] By the 1980s CMOS logic consumed over 7 times less power than NMOS logic,[45] and about 100,000 times less power than bipolar transistor-transistor logic (TTL).[46]
+
+Digital[edit]
+The growth of digital technologies like the microprocessor has provided the motivation to advance MOSFET technology faster than any other type of silicon-based transistor.[47] A big advantage of MOSFETs for digital switching is that the oxide layer between the gate and the channel prevents DC current from flowing through the gate, further reducing power consumption and giving a very large input impedance. The insulating oxide between the gate and channel effectively isolates a MOSFET in one logic stage from earlier and later stages, which allows a single MOSFET output to drive a considerable number of MOSFET inputs. Bipolar transistor-based logic (such as TTL) does not have such a high fanout capacity. This isolation also makes it easier for the designers to ignore to some extent loading effects between logic stages independently. That extent is defined by the operating frequency: as frequencies increase, the input impedance of the MOSFETs decreases.
+
+Analog[edit]
+Further information: CMOS amplifier and Mixed-signal integrated circuit
+The MOSFET's advantages in digital circuits do not translate into supremacy in all analog circuits. The two types of circuit draw upon different features of transistor behavior. Digital circuits switch, spending most of their time either fully on or fully off. The transition from one to the other is only of concern with regards to speed and charge required. Analog circuits depend on operation in the transition region where small changes to Vgs can modulate the output (drain) current. The JFET and bipolar junction transistor (BJT) are preferred for accurate matching (of adjacent devices in integrated circuits), higher transconductance and certain temperature characteristics which simplify keeping performance predictable as circuit temperature varies.
+Nevertheless, MOSFETs are widely used in many types of analog circuits because of their own advantages (zero gate current, high and adjustable output impedance and improved robustness vs. BJTs which can be permanently degraded by even lightly breaking down the emitter-base).[vague] The characteristics and performance of many analog circuits can be scaled up or down by changing the sizes (length and width) of the MOSFETs used. By comparison, in bipolar transistors the size of the device does not significantly affect its performance.[citation needed] MOSFETs' ideal characteristics regarding gate current (zero) and drain-source offset voltage (zero) also make them nearly ideal switch elements, and also make switched capacitor analog circuits practical. In their linear region, MOSFETs can be used as precision resistors, which can have a much higher controlled resistance than BJTs. In high power circuits, MOSFETs sometimes have the advantage of not suffering from thermal runaway as BJTs do.[dubious – discuss] Also, MOSFETs can be configured to perform as capacitors and gyrator circuits which allow op-amps made from them to appear as inductors, thereby allowing all of the normal analog devices on a chip (except for diodes, which can be made smaller than a MOSFET anyway) to be built entirely out of MOSFETs. This means that complete analog circuits can be made on a silicon chip in a much smaller space and with simpler fabrication techniques. MOSFETS are ideally suited to switch inductive loads because of tolerance to inductive kickback.
+Some ICs combine analog and digital MOSFET circuitry on a single mixed-signal integrated circuit, making the needed board space even smaller. This creates a need to isolate the analog circuits from the digital circuits on a chip level, leading to the use of isolation rings and silicon on insulator (SOI). Since MOSFETs require more space to handle a given amount of power than a BJT, fabrication processes can incorporate BJTs and MOSFETs into a single device. Mixed-transistor devices are called bi-FETs (bipolar FETs) if they contain just one BJT-FET and BiCMOS (bipolar-CMOS) if they contain complementary BJT-FETs. Such devices have the advantages of both insulated gates and higher current density.
+
+RF CMOS[edit]
+Main article: RF CMOS
+Bluetooth dongle. RF CMOS mixed-signal integrated circuits are widely used in nearly all modern Bluetooth devices.[33]
+In the late 1980s, Asad Abidi pioneered RF CMOS technology, which uses MOS VLSI circuits, while working at UCLA. This changed the way in which RF circuits were designed, away from discrete bipolar transistors and towards CMOS integrated circuits. As of 2008, the radio transceivers in all wireless networking devices and modern mobile phones are mass-produced as RF CMOS devices. RF CMOS is also used in nearly all modern Bluetooth and wireless LAN (WLAN) devices.[33]
+
+Analog switches[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2023) (Learn how and when to remove this message)
+MOSFET analog switches use the MOSFET to pass analog signals when on, and as a high impedance when off. Signals flow in both directions across a MOSFET switch. In this application, the drain and source of a MOSFET exchange places depending on the relative voltages of the source/drain electrodes. The source is the more negative side for an N-MOS or the more positive side for a P-MOS. All of these switches are limited on what signals they can pass or stop by their gate–source, gate–drain, and source–drain voltages; exceeding the voltage, current, or power limits will potentially damage the switch.
+
+Single-type[edit]
+This analog switch uses a four-terminal simple MOSFET of either P or N type.
+In the case of an n-type switch, the body is connected to the most negative supply (usually GND) and the gate is used as the switch control. Whenever the gate voltage exceeds the source voltage by at least a threshold voltage, the MOSFET conducts. The higher the voltage, the more the MOSFET can conduct. An N-MOS switch passes all voltages less than Vgate − Vtn. When the switch is conducting, it typically operates in the linear (or ohmic) mode of operation, since the source and drain voltages will typically be nearly equal.
+In the case of a P-MOS, the body is connected to the most positive voltage, and the gate is brought to a lower potential to turn the switch on. The P-MOS switch passes all voltages higher than Vgate − Vtp (threshold voltage Vtp is negative in the case of enhancement-mode P-MOS).
+
+Dual-type (CMOS)[edit]
+This "complementary" or CMOS type of switch uses one P-MOS and one N-MOS FET to counteract the limitations of the single-type switch. The FETs have their drains and sources connected in parallel, the body of the P-MOS is connected to the high potential (VDD) and the body of the N-MOS is connected to the low potential (gnd). To turn the switch on, the gate of the P-MOS is driven to the low potential and the gate of the N-MOS is driven to the high potential. For voltages between VDD − Vtn and gnd − Vtp, both FETs conduct the signal; for voltages less than gnd − Vtp, the N-MOS conducts alone; and for voltages greater than VDD − Vtn, the P-MOS conducts alone.
+The voltage limits for this switch are the gate–source, gate–drain and source–drain voltage limits for both FETs. Also, the P-MOS is typically two to three times wider than the N-MOS, so the switch will be balanced for speed in the two directions.
+Tri-state circuitry sometimes incorporates a CMOS MOSFET switch on its output to provide for a low-ohmic, full-range output when on, and a high-ohmic, mid-level signal when off.
+
+MOS memory[edit]
+Main article: MOS memory
+Further information: Computer memory and Memory cell (computing)
+DDR4 SDRAM dual in-line memory module (DIMM). It is a type of DRAM (dynamic random-access memory), which uses MOS memory cells consisting of MOSFETs and MOS capacitors.
+The advent of the MOSFET enabled the practical use of MOS transistors as memory cell storage elements, a function previously served by magnetic cores in computer memory. The first modern computer memory was introduced in 1965, when John Schmidt at Fairchild Semiconductor designed the first MOS semiconductor memory, a 64-bit MOS SRAM (static random-access memory).[48] SRAM became an alternative to magnetic-core memory, but required six MOS transistors for each bit of data.[49]
+MOS technology is the basis for DRAM (dynamic random-access memory). In 1966, Dr. Robert H. Dennard at the IBM Thomas J. Watson Research Center was working on MOS memory. While examining the characteristics of MOS technology, he found it was capable of building capacitors, and that storing a charge or no charge on the MOS capacitor could represent the 1 and 0 of a bit, while the MOS transistor could control writing the charge to the capacitor. This led to his development of a single-transistor DRAM memory cell.[49] In 1967, Dennard filed a patent under IBM for a single-transistor DRAM (dynamic random-access memory) memory cell, based on MOS technology.[50] MOS memory enabled higher performance, was cheaper, and consumed less power, than magnetic-core memory, leading to MOS memory overtaking magnetic core memory as the dominant computer memory technology by the early 1970s.[51]
+Frank Wanlass, while studying MOSFET structures in 1963, noted the movement of charge through oxide onto a gate. While he did not pursue it, this idea would later become the basis for EPROM (erasable programmable read-only memory) technology.[52] In 1967, Dawon Kahng and Simon Sze proposed that floating-gate memory cells, consisting of floating-gate MOSFETs (FGMOS), could be used to produce reprogrammable ROM (read-only memory).[53] Floating-gate memory cells later became the basis for non-volatile memory (NVM) technologies including EPROM, EEPROM (electrically erasable programmable ROM) and flash memory.[54]
+
+Types of MOS memory[edit]
+Further information: MOS memory § Applications
+USB flash drive. It uses flash memory, a type of MOS memory consisting of floating-gate MOSFET memory cells.
+There are various different types of MOS memory. The following list includes various different MOS memory types.[55]
+
+
+Analog memory – analog storage[22]
+BIOS storage – nonvolatile BIOS memory (CMOS memory)[56]
+Cache memory – CPU cache[56]
+Digital memory – digital storage[22]
+Floating-gate memory – non-volatile memory, EPROM, EEPROM[53][54]
+Flash memory[53][54][57] – solid-state drive (SSD),[58] memory cards (such as SD card and microSD),[30] USB flash drive,[59] charge trap flash (CTF)[32]
+Memory cells[48] – memory chips, data storage,[30] data buffer,[60] code storage, embedded logic, embedded memory, main memory[56]
+Memory registers[61] – shift register[15][62]
+Random-access memory (RAM) – static RAM (SRAM), dynamic RAM (DRAM),[48][50] eDRAM, eSRAM, non-volatile RAM (NVRAM),[56] FeRAM,[63] PCRAM, ReRAM[32]
+Synchronous DRAM (SDRAM) – DDR SDRAM (double data rate SDRAM), RDRAM, XDR DRAM[64]
+Read-only memory (ROM) – mask ROM (MROM) and programmable ROM (PROM)[64]
+MOS sensors[edit]
+A number of MOSFET sensors have been developed, for measuring physical, chemical, biological and environmental parameters.[65] The earliest MOSFET sensors include the open-gate FET (OGFET) introduced by Johannessen in 1970,[65] the ion-sensitive field-effect transistor (ISFET) invented by Piet Bergveld in 1970,[66] the adsorption FET (ADFET) patented by P.F. Cox in 1974, and a hydrogen-sensitive MOSFET demonstrated by I. Lundstrom, M.S. Shivaraman, C.S. Svenson and L. Lundkvist in 1975.[65] The ISFET is a special type of MOSFET with a gate at a certain distance,[65] and where the metal gate is replaced by an ion-sensitive membrane, electrolyte solution and reference electrode.[67]
+By the mid-1980s, numerous other MOSFET sensors had been developed, including the gas sensor FET (GASFET), surface accessible FET (SAFET), charge flow transistor (CFT), pressure sensor FET (PRESSFET), chemical field-effect transistor (ChemFET), reference ISFET (REFET), biosensor FET (BioFET), enzyme-modified FET (ENFET) and immunologically modified FET (IMFET).[65] By the early 2000s, BioFET types such as the DNA field-effect transistor (DNAFET), gene-modified FET (GenFET) and cell-potential BioFET (CPFET) had been developed.[67]
+The two main types of image sensors used in digital imaging technology are the charge-coupled device (CCD) and the active-pixel sensor (CMOS sensor). Both CCD and CMOS sensors are based on MOS technology, with the CCD based on MOS capacitors and the CMOS sensor based on MOS transistors.[68]
+
+Image sensors[edit]
+Main articles: Image sensor, Charge-coupled device, and Active-pixel sensor
+CMOS image sensor. MOS image sensors are the basis for digital cameras, digital imaging,[69] camera phones, action cameras,[70] and optical mouse devices.[71]
+MOS technology is the basis for modern image sensors, including the charge-coupled device (CCD) and the CMOS active-pixel sensor (CMOS sensor), used in digital imaging and digital cameras.[68] Willard Boyle and George E. Smith developed the CCD in 1969. While researching the MOS process, they realized that an electric charge was the analogy of the magnetic bubble and that it could be stored on a tiny MOS capacitor. As it was fairly straightforward to fabricate a series of MOS capacitors in a row, they connected a suitable voltage to them so that the charge could be stepped along from one to the next.[68] The CCD is a semiconductor circuit that was later used in the first digital video cameras for television broadcasting.[72]
+The MOS active-pixel sensor (APS) was developed by Tsutomu Nakamura at Olympus in 1985.[73] The CMOS active-pixel sensor was later developed by Eric Fossum and his team at NASA's Jet Propulsion Laboratory in the early 1990s.[74]
+MOS image sensors are widely used in optical mouse technology. The first optical mouse, invented by Richard F. Lyon at Xerox in 1980, used a 5 μm NMOS sensor chip.[75][76] Since the first commercial optical mouse, the IntelliMouse introduced in 1999, most optical mouse devices use CMOS sensors.[71]
+
+Other sensors[edit]
+MOS sensors, also known as MOSFET sensors, are widely used to measure physical, chemical, biological and environmental parameters.[65] The ion-sensitive field-effect transistor (ISFET), for example, is widely used in biomedical applications.[67]
+MOSFETs are also widely used in microelectromechanical systems (MEMS), as silicon MOSFETs could interact and communicate with the surroundings and process things such as chemicals, motions and light.[77] An early example of a MEMS device is the resonant-gate transistor, an adaptation of the MOSFET, developed by Harvey C. Nathanson in 1965.[78]
+Common applications of other MOS sensors include the following.
+
+
+Audio sensor[79]
+Biosensors – BioFET,[65] biotechnology[67]
+Biomedical applications – detection of DNA hybridization, biomarker detection from blood, antibody detection, glucose measurement, pH sensing, genetic technology[67]
+Chemical sensors[65]
+Environmental sensors[65]
+Gas detectors – carbon monoxide, sulfur dioxide, hydrogen sulfide and ammonia sensors[80]
+Intelligent sensors[22]
+Microelectromechanical systems (MEMS)[77][79]
+Monitoring sensors – house monitoring, office and agriculture monitoring, temperature, humidity, air pollution, fire, health, security, lighting, weather monitoring (rain, wind, lightning, storms)[81]
+Traffic monitoring sensors[81]
+Physical sensors[65]
+Pressure sensors – barometric air pressure (BAP) sensor[82]
+Wireless sensor network (WSN)[83]
+Power MOSFET[edit]
+See also: Power MOSFET, LDMOS § Applications, VMOS, FET amplifier, MOS-controlled thyristor, Power electronics, and Power semiconductor device
+Two power MOSFETs in D2PAK surface-mount packages. Operating as switches, each of these components can sustain a blocking voltage of 120 V in the off state, and can conduct a con­ti­nuous current of 30 A in the on state, dissipating up to about 100 W and controlling a load of over 2000 W. A matchstick is pictured for scale.
+The power MOSFET, which is commonly used in power electronics, was developed in the early 1970s.[84] The power MOSFET enables low gate drive power, fast switching speed, and advanced paralleling capability.[85]
+The power MOSFET is the most widely used power device in the world.[85] Advantages over bipolar junction transistors in power electronics include MOSFETs not requiring a continuous flow of drive current to remain in the ON state, offering higher switching speeds, lower switching power losses, lower on-resistances, and reduced susceptibility to thermal runaway.[86] The power MOSFET had an impact on power supplies, enabling higher operating frequencies, size and weight reduction, and increased volume production.[87]
+Switching power supplies are the most common applications for power MOSFETs.[88] They are also widely used for MOS RF power amplifiers, which enabled the transition of mobile networks from analog to digital in the 1990s. This led to the wide proliferation of wireless mobile networks, which revolutionised telecommunications systems.[89] The LDMOS in particular is the most widely used power amplifier in mobile networks such as 2G, 3G,[89] 4G and 5G,[90] as well as broadcasting and amateur radio.[91] Over 50 billion discrete power MOSFETs are shipped annually, as of 2018. They are widely used for automotive, industrial and communications systems in particular.[92] Power MOSFETs are commonly used in automotive electronics, particularly as switching devices in electronic control units,[93] and as power converters in modern electric vehicles.[94] The insulated-gate bipolar transistor (IGBT), a hybrid MOS-bipolar transistor, is also used for a wide variety of applications.[95]
+LDMOS, a power MOSFET with lateral structure, is commonly used in high-end audio amplifiers and high-power PA systems. Their advantage is a better behaviour in the saturated region (corresponding to the linear region of a bipolar transistor) than the vertical MOSFETs. Vertical MOSFETs are designed for switching applications.[96]
+
+DMOS and VMOS[edit]
+Further information: LDMOS § Applications
+Power MOSFETs, including DMOS, LDMOS and VMOS devices, are commonly used for a wide range of other applications, which include the following.
+
+
+Agriculture[97]
+Amplifiers – class AB peak power amplifier (PPA),[98] class-D amplifier,[99] RF power amplifier,[89][90] video amplifier[100]
+Analog electronics[101]
+Audio power amplifiers[88][57] – analog audio,[88][57] digital audio[102]
+Diode reverse recovery[103]
+Electric power conversion[94] – AC-DC converters,[104] DC-to-DC converters,[105] buck converters,[106][103] voltage converters,[107] synchronous converters[103]
+Synchronous rectification (SR)[108][103] – integrated Schottky and pseudo-Schottky operations, SR flyback converters, SR forward converters[103]
+Inverters[109] – DC/AC power inverters[110]
+Electronic signal processing[20] – pulse train, square waves,[88] pulse-width modulation (PWM)[82]
+Industrial technology[109] – instrumentation, electronic test equipment applications,[111] power tools, forklifts, mining vehicles,[103] measurement, monitoring, pumps, relay drivers[97]
+3D printing[112][113]
+Electric power distribution – solid-state power switch (SSPS) and circuit breakers[114]
+High-voltage electronics[107] – high-voltage MOSFET (HV MOSFET),[102] high-voltage electronic systems,[107] analog high-voltage circuits[100]
+Low-voltage electronics[115] – low-voltage motor drives,[103] low-voltage motor controllers[116]
+Medical electronics[117] – medical devices[107]
+Multi-chip module (MCM)[118]
+Power electronics – commutation,[103] gate drivers,[109] load switching,[118] power-factor correction (PFC),[109] power management,[119] solid-state relay (SSR)[120]
+Driver circuits – stepper motors[100]
+Electric motors – motor drives,[103][104] stepper motor, DC motor,[88] AC motor, AC/DC motor[97]
+Power control – pulse-width modulation (PWM),[121][103] controlled power in everyday devices[102]
+Power integrated circuit (power IC) chips[122][103] – bipolar–CMOS–DMOS (BCD),[117][103][57] smart power IC,[102] motor controller, application-specific standard product (ASSP)[79]
+Power-system protection – electrostatic discharge (ESD) protection, overvoltage protection, short circuit protection, temperature protection[82]
+Quadrant III operations – Schottky effect[103]
+Power supplies – power supply unit (PSU),[107][103] short-circuit protection (SCP)[103]
+Switched-mode power supply (SMPS)[86][100][88] – synchronous rectifier, Vienna rectifier[109]
+Uninterruptible power supply (UPS) – active rectification, bridge rectifier[109]
+Printed circuit board (PCB) layouts[103]
+Solar energy[109]
+Solar power[81] – solar cell,[123] solar panel,[95] rechargeable battery applications[81]
+Solar inverters – solar micro-inverter[109]
+Voltage regulators[118][97] – voltage regulator module (VRM)[118]
+RF DMOS[edit]
+Further information: RF CMOS § Applications
+RF DMOS, also known as RF power MOSFET, is a type of DMOS power transistor designed for radio-frequency (RF) applications. It is used in various radio and RF applications, which include the following.[123][124]
+
+
+Defrosting[123]
+Excitation[124]
+FM broadcasting[123]
+High frequency (HF) technology – HF transceiver,[123][125] very high frequency (VHF),[124] ultra high frequency (UHF)[126]
+Industrial, Scientific and Medical band (ISM band) applications[125] – RF cavity technology[79]
+Plasma technology – plasma-enhanced chemical vapor deposition (PECVD), plasma sputtering,[125] RF plasma signal generator[123]
+Large-signal applications[126]
+Laser drivers[123][127] – carbon dioxide laser (CO2 laser) driver[125]
+Medical technology[79][97] – medical devices[79]
+Medical imaging[79] – magnetic resonance imaging (MRI)[123][79]
+Pulse applications[128]
+RF heating[123]
+Consumer electronics[edit]
+MOSFETs are fundamental to the consumer electronics industry.[111] According to Colinge, numerous consumer electronics would not exist without the MOSFET, such as digital wristwatches, pocket calculators, and video games, for example.[129]
+MOSFETs are commonly used for a wide range of consumer electronics, which include the following devices listed. Computers or telecommunication devices (such as phones) are not included here, but are listed separately in the Information and communications technology (ICT) section below.
+
+Casio pocket calculator with liquid-crystal display (LCD). MOSFETs are the basis for pocket calculators and LCDs.
+
+Calculators[130][131] – handheld calculator,[132] pocket calculator[129][38][133]
+Disk storage[56]
+Disk buffer cache – disk drives, optical disc drives (DVD and CD-ROM drives), optical disc players (CD and DVD players)[56]
+Hard drives – spindle speed control,[57] disk buffer cache[56]
+Electric clocks – digital clocks[131]
+Watches[45] – electronic wristwatch,[134][133] quartz watch[135] digital watch,[132][15][136] digital wristwatch,[129]
+Electronic voting machine[137]
+Entertainment[132]
+Airsoft – airsoft gun[138]
+Toys – electronic toys[139]
+Gadgets[140][131] – electric meter reader, electronic key, electronic lock[131]
+Gate drivers – air conditioner, fan, sewing machine[109]
+Heating – electric heating,[141] heating control system,[142] RF heating[127][143]
+Home appliances[130]
+Kitchen appliances – cooker, food processor, toaster,[142] blender[131]
+RF energy appliances – cooking appliances,[144] defrosting,[127][143][144] freezer, oven, refrigerator,[144] microwave cooking[145]
+Lighting[146] – dimmable light switch,[57] fluorescent lamp, electrical ballast,[100] light dimmer[57]
+Smart lighting – wireless light switch[145]
+Light-emitting diode (LED) technology – dimmable LED driver circuits (such as for LED lamps and LED flashlights)[147][57]
+Payment card technology – credit card,[142] smart card[56]
+Card readers – embossed credit card reader,[148][149] magnetic stripe card reader[148]
+Portable electronics[150]
+RF energy technology[151][143][146] – smart appliances[143]
+Smart devices[152] – smartwatch[152]
+Pocket calculators[edit]
+One of the earliest influential consumer electronic products enabled by MOS LSI circuits was the electronic pocket calculator,[38] as MOS LSI technology enabled large amounts of computational capability in small packages.[153] In 1965, the Victor 3900 desktop calculator was the first MOS LSI calculator, with 29 MOS LSI chips.[154] In 1967 the Texas Instruments Cal-Tech was the first prototype electronic handheld calculator, with three MOS LSI chips, and it was later released as the Canon Pocketronic in 1970.[155] The Sharp QT-8D desktop calculator was the first mass-produced LSI MOS calculator in 1969,[154] and the Sharp EL-8 which used four MOS LSI chips was the first commercial electronic handheld calculator in 1970.[155] The first true electronic pocket calculator was the Busicom LE-120A HANDY LE, which used a single MOS LSI calculator-on-a-chip from Mostek, and was released in 1971.[155] By 1972, MOS LSI circuits were commercialized for numerous other applications.[130]
+
+Audio-visual (AV) media[edit]
+Sony home cinema setup, with full HD LCD television, digital TV set-top box, DVD player, PlayStation 3 video game console, and loudspeakers. MOSFETs are used in all of these consumer electronic devices.
+MOSFETs are commonly used for a wide range of audio-visual (AV) media technologies, which include the following list of applications.[142]
+
+
+Audio technology – loudspeaker, public announcement (PA) system,[156] high-fidelity (hi‑fi),[156][142] microphone[79]
+Digital audio[102] – audio coding,[34][133] sound chip, audio codec, pulse-code modulation (PCM), μ-law algorithm, audio filter, anti-aliasing filter, low-pass filter,[34] pulse-density modulation (PDM)[79]
+Electronic musical instruments[130] – electronic organ[131]
+Speech processing – speech coding,[34][133] speech digitization, voice synthesis/simulation,[150] speech recognition, voice data storage[157]
+Cameras[133] – video camera[70] camcorder,[56] color video camera[22]
+Digital cameras[68] – action camera, webcam,[70] HD video camera[70]
+Digital media[158]
+Digital cinema – digital cinematography and digital movie camera[159]
+Digital imaging[69] – digital image and digital photography[68][70]
+Digital video – digital video processing,[160] HD video[70]
+Display technology – electronic visual displays,[161][162] flat-panel displays[163]
+Display drivers – EL display, plasma display, vacuum fluorescent display and LED drivers[164]
+Light-emitting diode (LED) displays[165][136] – OLED[166]
+Liquid-crystal display (LCD)[136] – active-matrix LCD (AM LCD),[166][167] thin-film transistor LCD (TFT LCD), LCD television (LCD TV),[2][167] in-plane switching (IPS) panel,[168] ferroelectric liquid crystal display (FLCD), liquid crystal on silicon (LCoS)[169]
+Television (TV)[170] – TV receiver,[162] TV receiver circuits,[111] large-screen television technology,[167] terrestrial broadcast,[171] TV tuner,[172] color TV video-signal generator,[173] remote control,[174][172] color TV,[174] digital TV,[175] portable television,[133] set-top box[56][150]
+Touchscreens[176] – capacitive sensing,[176][79] multi-touch, DSP touch processor,[176] ASIC touch controller[177]
+Electronic games – arcade game, handheld electronic game[139]
+Video games[129][178][133] – game console,[140][26][179] game controller,[180] ROM cartridge,[56][179] full motion video,[133] online game,[181] video game audio, video game graphics[179]
+Entertainment devices[132]
+Flexible electronics[163][167] – electronic reader (e-reader)[167]
+Flexible displays – bendable display technology,[163] electronic paper (e-paper)[163][167]
+Home entertainment[111] – home video[142]
+Image processing – image processor[22]
+Multimedia[182]
+Optical disc players – CD player,[56] DVD player[56][150]
+Portable media players – Walkman, portable CD player, portable video player,[133] MP3 player[56]
+Video – video editing[179]
+Video decoder chips – for video and teletext decoding[21]
+Power MOSFET applications[edit]
+Power MOSFETs are commonly used for a wide range of consumer electronics.[104][109] Power MOSFETs are widely used in the following consumer applications.
+
+Mobile phone battery charger, a type of switched-mode power supply (SMPS) AC adapter. Power MOSFETs are widely used in most SMPS power supplies[88] and mobile device AC adapters.[183]
+
+Adapters[107] – AC adapter,[183] automatic supply voltage adapters[100]
+Air conditioning (AC)[97]
+Audio technology – loudspeakers,[156] speaker drivers,[103] high-fidelity (hi-fi) equipment, public address system,[156] electronic musical instruments,[130] power supplies[109]
+Cameras – single-lens reflex camera (SLR), autofocus, rewind,[184] digital camera[175]
+Display technology
+Flat-panel display (FPD)[102][123] – display drivers for liquid-crystal display (LCD)[185] and plasma display[100]
+Television (TV) – TV circuits,[111] TV broadcasting,[186] digital television (DTV),[175] power supplies[109]
+Electric battery technology[133][187] – battery chargers,[100][107][102] rechargeable batteries,[81] reverse battery protection[82]
+Battery-powered applications[109][187] – mobile devices with long battery life[187]
+Lithium-ion battery (LIB) technology[103] – battery management system (BMS),[188] battery protection,[103][189] disconnect switches[103]
+Electric fan[97]
+Electric razors[100]
+Heating – electric heating,[97] RF heating[127][143][141]
+Home appliances – major appliances,[109] smart appliances[143]
+RF energy appliances – kitchen appliances, cooking appliances,[144] defrosting,[127][143][144] freezer, refrigerator, oven,[144] microwave cooking[145]
+Home entertainment equipment[111]
+Internet[190][118] – critical Internet infrastructure,[118] communications infrastructure,[122] computer servers,[109] World Wide Web (WWW),[187] Internet of things (IoT)[81]
+Lighting[100][57][97] – dimmable light switch,[57] LED lighting,[109] light bulbs[97]
+Smart lighting – wireless light switch[145]
+Light-emitting diode (LED) technology[147][97] – LED driver circuits, LED lamps, LED flashlights,[147] LED bulb,[97] LED dimmers[57]
+Information and communications technology (ICT)[edit]
+MOSFETs are fundamental to information and communications technology (ICT),[191][192] including modern computers,[190][129][20] modern computing,[193] telecommunications, the communications infrastructure,[190][122] the Internet,[190][187][194] digital telephony,[34] wireless telecommunications,[89][90] and mobile networks.[90] According to Colinge, the modern computer industry and digital telecommunication systems would not exist without the MOSFET.[129] Advances in MOS technology has been the most important contributing factor in the rapid rise of network bandwidth in telecommunication networks, with bandwidth doubling every 18 months, from bits per second to terabits per second (Edholm's law).[195]
+
+Computers[edit]
+MOSFETs are commonly used in a wide range of computers and computing applications, which include the following.
+
+
+Business machines[130]
+Computer industry[129][178] – PC market[187]
+Computer graphics[196] – graphics card[197][60]
+Video memory[56] – character generator,[56] framebuffer,[198][199] video RAM (VRAM),[200][64] synchronous graphics RAM (SGRAM), GDDR SDRAM[64]
+Computer hardware – computer processor,[187] computer memory, computer data storage,[30] computer power supply,[111] instrument control,[61] motherboard, voltage regulator module (VRM), overclocking[197]
+Controllers – display controller, peripheral controller, tape drive control,[201] ATA controller,[56] keyboard controller[26][201]
+Peripherals[130][61] – display monitor,[153] computer keyboard,[26][201] optical mouse[75][76][71]
+Computer printers[56] – laser printer[56]
+Digital computers[131] – computer terminals,[153][61][131] cloud computing,[81][150] mainframes, multimedia computers, supercomputers,[56] server computers,[56][118] workstations[56][179]
+Personal computer (PC)[132][140][118] – desktop computer,[197] notebook computer[122][133]
+Computer science[22]
+Artificial intelligence (AI) – neural network, artificial neural network (ANN), neural processing unit,[22][202] feedback and feedforward neural networks, maze solving algorithm[22]
+Computer vision[22] – optical character recognition (OCR),[149] augmented reality (AR),[203] computer stereo vision, virtual reality (VR)[204]
+Data centers[81]
+Information technology (IT)[81]
+Mobile devices[90] – mobile computers,[175] handheld PC,[205] personal digital assistant (PDA)[205][133]
+Smart devices[152] – laptop,[206] portable computer,[207] tablet computer[181]
+Parallel computing – fine-grained parallelism[22]
+Word processors[56]
+Telecommunications[edit]
+Further information: RF CMOS § Applications
+Apple iPhone smartphone (2007). MOSFETs are the basis for smartphones, each typically containing billions of MOSFETs.[191]
+MOSFETs are commonly used in a wide range of telecommunications, which include the following applications.
+
+
+Communication systems[56][142] – broadband,[208][209][210] data transmission,[130][157] digital telecommunication,[129][132] digital loop carriers,[157] fibre-optic communication,[208] packet switching,[211][209][210] telecommunication circuits[30]
+Mobile devices[90] – mobile communication,[212] pager[206]
+Cellular networks[175] – cellular voice and data traffic,[143] digital networks,[133] GSM,[83] 2G, 3G,[89] 4G,[90] 5G[90][107]
+Mobile phones[56][142]
+Smartphones[191][140][150] – application processor, flash memory, cellular modem, RF transceiver, CMOS image sensor, power management IC, display driver, wireless communication, sound chip, gyroscope, touchscreen controller[213]
+Quantum communication – quantum teleportation, quantum information processing[214]
+Telecommunications equipment[130][61][162] – fax,[182] modem,[56][62][215] crosspoint switch, mail sorter machine, multimeter, multiplexer, push-button signal receiver,[162] optical fiber circuits,[208] personal communications device[137]
+Telecommunication networks[195]
+Internet[190][187] – Internet infrastructure,[118] the Web,[187] broadband Internet,[216][194] Internet of things,[81][60] online communication,[150] online service, search engine,[181] social media,[70] social communications infrastructure[190]
+Telephone networks – public switched telephone network (PSTN), electronic switching system,[157] telephone exchange,[217][157] private branch exchange, key telephone system, telephone loop extender,[157] Digital switching network,[34] Integrated Services Digital Network (ISDN)[157]
+Telephony – telephone switching,[218] digital telephony,[34] voice mail, digital tapeless answering machine, pair gain multiplexer[157]
+Telephones[219][142] – push-button telephone, digital telephone, speed dial,[219][220][61] touch-tone phone,[221] payphone,[162] cordless telephone,[56] cell phone,[122] digital phone, digital telephone,[157] camera phone,[70] videophone[182]
+Teleprinters[162]
+Wireless technology – wireless networks,[90][222] wireless communication,[33] base stations, routers, transceivers,[90] baseband processors,[223][224] end-user terminals,[225] ALOHAnet,[226] Bluetooth, Wi-Fi, satellite communication, GPS, GPS receiver, near-field communication,[171] DECT,[227] WLAN[228]
+Radio technology – radio-frequency (RF) technology, RF engineering, RF power amplifier,[90] radio-frequency communication, radio network,[34] FM radio,[170] mobile radio,[162] radio transceiver, RF CMOS,[33] RF switch,[212] millimetre wave,[208] digital radio, packet radio,[226] software-defined radio (SDR),[229] car radio, radio-frequency identification,[56] radio-controlled model[206]
+Radar[171]
+Power MOSFET applications[edit]
+Further information: LDMOS § Applications
+
+Computers[118]
+Computer hardware – motherboard, video card, overclocking,[197] computer bus[230]
+Computer power[109] – power supply unit (PSU),[111] central processing unit (CPU) power supply[118]
+Computing[104][109] – mobile computing,[118]
+Mobile devices[104]  – handheld computers, mobile computer,[175] notebook computer,[122][109] tablet computer[109]
+Peripherals[102] – printers[102]
+Data storage[150]
+Embedded non-volatile memory (NVM) – electrically erasable programmable ROM (EEPROM), flash memory[57]
+Hard disk drive (HDD) technology[102] – motor drive,[103] spindle speed control[57]
+Internet[190][118] – critical Internet infrastructure,[118] communications infrastructure,[122] computer servers,[109] World Wide Web (WWW),[187] Internet of things (IoT)[81]
+Mobile devices[187] – mobile communication,[186] mobile computing,[118] portable applications,[103] smartphone[109]
+Mobile networks[175] – Global System for Mobile Communications (GSM),[83] 2G, 3G,[89] 4G,[90] 5G[107]
+Mobile phones[122] – phone charger[109]
+Radio[89][90][231] – analog radio, digital radio, mobile radio, digital mobile radio (DMR)[232]
+Radio-frequency (RF) technology – RF circuits,[89][90] radar[186][231]
+RF energy technology[151][143][146]
+Telecommunications[195][186][109] – telecommunications networks,[195] data transmission,[132] telecommunication circuits,[30] military communications,[233] RF power amplifier[90][107]
+Cellular networks[175] – cellular voice and data traffic,[143] transceivers, base station modules, routers[90][107]
+Telecommunications equipment[130]
+Wireless technology – wireless networks,[89][90][222] base stations, routers, transceivers,[90][107] satellite communication,[186] wideband[186][233]
+Insulated-gate bipolar transistor (IGBT)[edit]
+See also: Insulated-gate bipolar transistor
+The insulated-gate bipolar transistor (IGBT) is a power transistor with characteristics of both a MOSFET and bipolar junction transistor (BJT).[234] As of 2010[update], the IGBT is the second most widely used power transistor, after the power MOSFET. The IGBT accounts for 27% of the power transistor market, second only to the power MOSFET (53%), and ahead of the RF amplifier (11%) and bipolar junction transistor (9%).[235] The IGBT is widely used in consumer electronics, industrial technology, the energy sector, aerospace electronic devices, and transportation.
+The IGBT is widely used in the following applications.
+
+
+Consumer electronics[236] – battery charger, multi-function printer (MFP),[109] power-factor correction (PFC)[237]
+Household appliances[95] – home appliance control,[238] compressor[109]
+Major appliances – microwave ovens,[237] induction cooking,[109] induction cooking range, dishwashers, heat pumps,[237] air conditioning, refrigerators, washing machines[238]
+Small appliances – vacuum cleaners, induction cooktops, rice cookers,[237] food processors[237] (blenders, juicers,[237] mixers)[238]
+Defense technology – naval frequency changers, shunt active power filters, electric boats, warships, aircraft carriers, nuclear submarines, diesel-electric submarines, military vehicles, military jets, missile defense, pulsed power[237]
+Display technology
+Flat-panel display (FPD) – plasma display[236]
+Television (TV) – cathode-ray tube (CRT) TV sets, plasma TV sets, voltage regulator circuits[237]
+Heat pump[109]
+High-voltage direct current (HVDC) – telecommunications, data centers[109]
+Industrial technology[236] – adjustable-speed drive (ASD),[236] pulse-width modulation (PWM),[237] factory automation, robotics,[238] electric heating, milling machines, drilling machines, metal industry, paper mills, electrostatic precipitator (ESP), textile mills, mining, digging excavations[237]
+Alternative energy systems – renewable energy technology[236]
+Coal-fired power plants – reduces annual carbon dioxide emissions by over 1 trillion pounds[238]
+Electric motor drives[237] – braking chopper[109]
+Electric power transmission systems[236]
+Energy storage[236]
+Solar power – solar panel,[95] solar inverter, solar-assisted heat pump (SAHP)[109]
+Welding[237][109] – welding power supply[109]
+Inverters – three phase inverter, solar inverter[109]
+Lighting[236] – incandescent lamps, light-emitting diode (LED), strobe light, flashlights, xenon short-arc lamps, stroboscopes, dimmers, rapid thermal annealing[237]
+Fluorescent lighting[95] – compact fluorescent lamps, which reduce annual power consumption by an estimated 30 gigawatts[238]
+Medical equipment[95] – uninterruptible power supplies,[238] computed tomography (CT) scanners, defibrillators,[238][237] automated external defibrillator (AED), X-ray machines, magnetic resonance imaging (MRI), medical ultrasonography (ultrasound), synchrotron, medical lasers[237]
+Microwave technology[109]
+Motor control[109]
+Power supplies – switched-mode power supply (SMPS), uninterruptible power supply (UPS)[238][109]
+Switch[109]
+Variable-frequency drive (VFD) – reduces annual power consumption by an estimated 70 gigawatts[238]
+Quantum physics[edit]
+2D electron gas and quantum Hall effect[edit]
+Main articles: Two-dimensional electron gas and Quantum Hall effect
+A two-dimensional electron gas (2DEG) is present when a MOSFET is in inversion mode, and is found directly beneath the gate oxide.
+In quantum physics and quantum mechanics, the MOSFET is the basis for two-dimensional electron gas (2DEG)[239] and the quantum Hall effect.[239][240] The MOSFET enables physicists to study electron behavior in a two-dimensional gas, called a two-dimensional electron gas. In a MOSFET, conduction electrons travel in a thin surface layer, and a "gate" voltage controls the number of charge carriers in this layer. This allows researchers to explore quantum effects by operating high-purity MOSFETs at liquid helium temperatures.[239]
+In 1978, the Gakushuin University researchers Jun-ichi Wakabayashi and Shinji Kawaji observed the Hall effect in experiments carried out on the inversion layer of MOSFETs.[241] In 1980, Klaus von Klitzing, working at the high magnetic field laboratory in Grenoble with silicon-based MOSFET samples developed by Michael Pepper and Gerhard Dorda, made the unexpected discovery of the quantum Hall effect.[239][240]
+
+Quantum technology[edit]
+Further information: QFET
+The MOSFET is used in quantum technology.[242] A quantum field-effect transistor (QFET) or quantum well field-effect transistor (QWFET) is a type of MOSFET[243][244][245] that takes advantage of quantum tunneling to greatly increase the speed of transistor operation.[246]
+
+Transportation[edit]
+MOSFETs are widely used in transportation.[110][82][97] For example, they are commonly used for automotive electronics in the automotive industry.[70][57] MOS technology is commonly used for a wide range of vehicles and transportation, which include the following applications.
+
+
+Aircraft[150][131] – on-board computer,[131] aircraft flight control system,[56] electric aircraft[237]
+Construction vehicles – forklift, mining vehicles[103]
+Electric vehicle (EV)[94]
+Gasoline-powered vehicles[237]
+Hybrid electric vehicle (HEV)[237]
+Gate drivers – automatic door, electric gate, elevator, escalator, agricultural vehicles, commercial vehicles, electric bus (e-bus)[109]
+Marine propulsion[237]
+Rail transport – railway locomotive,[236] bullet trains,[95][238] electric tram, subway train, airport train, electric locomotive, diesel–electric locomotive, high-speed rail (HSR)[237]
+Traffic monitoring sensors – car speed, traffic jams, traffic accidents[81]
+Space industry – spacecraft, satellite,[247] space research,[248] space exploration, Interplanetary Monitoring Platform (IMP),[249] Apollo program, Moon landings,[247] space monitoring (Moon, Sun, stars, meteorites, astronomical phenomena)[81]
+Automotive industry[edit]
+Further information: Automotive electronics
+Tesla Model S electric car.[250][251] MOSFETs are the basis for modern electric road vehicles.[94]
+MOSFETs are widely used in the automotive industry,[70][57] particularly for automotive electronics[93] in motor vehicles. Automotive applications include the following.
+
+
+Adaptive cruise control (ACC)[131]
+Airbag[56][103]
+Automobiles[130][150]
+Automotive radar[171]
+Anti-lock braking system (ABS)[56] – ABS valves[82]
+Automotive lighting, barometric air pressure (BAP) sensor, body control module (BCM), car seat comfort system, daytime running light (DRL), fuel injection, fuel vapors, DC motor control, brushless DC (BLDC) motor control, start-stop system[82]
+Cars[142][95] – car alarm, car maintenance monitor,[131] electric car[250]
+Smart cars[107] – self-driving car[251]
+Drivers – load driver,[110] relay driver[82]
+Electronic control unit (ECU)[93] – engine control unit,[26] transmission control unit (TCU)[131]
+Electronic Skid Prevention (ESP)[131]
+Motor controller[57]
+Heating, ventilation, and air conditioning[131]
+Trucks[130][82]
+Power MOSFET applications[edit]
+Power MOSFETs are widely used in transportation technology,[110][82][97] which includes the following vehicles.
+
+
+Electric vehicle (EV)[94][103] – hybrid electric vehicle (HEV),[103] battery-driven airport vehicle, Segway transport, electric skateboard, motorized wheelchair,[103] on-board DC–DC converter[109]
+Auxiliary gate drivers – fans, pumps, HVAC, heat pump, PTC heater[109]
+Light electric vehicle (LEV)[103][252] – electric forklift (e-forklift), electric golf cart (e-golf cart), electric motorbike (e-motorbike), light utility vehicle (LUV), low-speed electric vehicle (LSEV), electric bike (e-bike), electric rickshaw (e-rickshaw), electric three-wheeler (e-three-wheeler),[252] electric scooter (e-scooter)[103][252]
+On-board battery charger – wireless in-cabin phone charger[109]
+Aircraft
+Airplane – electrical relay[107]
+Space industry – space research,[248] space monitoring (Moon, Sun, stars, meteorites, astronomical phenomena)[81]
+Spacecraft – satellites,[247] space exploration[249]
+Avionics[186][231]
+In the automotive industry,[70][57][118] power MOSFETs are widely used in automotive electronics,[93][103][104] which include the following.
+
+
+Airbags[103] – Supplementary Restraint System (SRS), squib driver system (with safety redundancy)[103]
+Automotive safety[253][117] – active suspension control system, electric brake booster, electric power-steering (EPS), fail-operational EPS, reversible seatbelt pre-tensioner[253]
+Brakes[103] – anti-lock braking system (ABS),[184] brake fluid pressure control, emergency brake assist (EBA),[103] vehicle stability control (VSC)[253]
+Solenoid valve drivers – ABS (with repeated avalanche operation)[103]
+Clutch – dual-clutch transmission (DCT)[253]
+Clutch control[184] – electric clutch control, hydraulic clutch control[253]
+Electrical load drivers – electric motors, solenoids, ignition coils, relays, heaters, lamps[110]
+Electronic control unit (ECU)[93] – transmission control unit (TCU)[184]
+Engine control unit[26][184] – air pump, carburetor, idle speed, ignition timing, valve, torque converter[184]
+Motor control[57][104] – mirrors, windscreen wipers, car seat positioning[57]
+Electronic locks – power door locks, fuel filler cap lock, mirror lock, steering-wheel lock[82]
+Fuel injection[103][253] – gasoline direct injection,[253] gasoline port injection,[82] fuel injection valves[103]
+Headrest adjustment[82]
+Heating, ventilation, and air conditioning (HVAC) – HVAC control system[254]
+Heaters – auxiliary heater, diesel engine, electric heater, preheater[254]
+Motor vehicles[110] – automobiles,[130] cars,[95] trucks,[130] smart cars[107]
+Electric vehicle (EV) and hybrid electric vehicle (HEV) – auxiliary inverter, traction motor inverter, battery charger, high-voltage (HV), low-voltage (LV),[253] EV charging[253][109]
+Powertrain applications[82][253] – alternator, fans, micro-hybrid[253]
+Pumps – electric water pump, fuel pump, auxiliary pumps, on-board EV charging[253]
+Start-stop system[253]
+IGBT applications[edit]
+See also: Insulated-gate bipolar transistor § Applications
+The insulated-gate bipolar transistor (IGBT) is a power transistor with characteristics of both a MOSFET and bipolar junction transistor (BJT).[234] IGBTs are widely used in the following transportation applications.[237]
+
+
+Aircraft – electric aircraft,[237] carrier-based aircraft, Electromagnetic Aircraft Launch System (EALS)[255]
+Drive train in electric cars and hybrid cars – reduces urban pollution[238]
+Electric vehicle (EV) – hybrid electric vehicle (HEV), electric transit bus, trolley[237]
+Electronic ignition systems[236]
+EV charging – DC–DC converter,[109] EV charging station[237]
+Gasoline-powered vehicles[237]
+Marine propulsion[237]
+Motor vehicles[236] – cars,[95] electric street cars[238]
+Rail transport – railway locomotives,[236] bullet trains,[95][238] electric tram, subway train, airport train, electric locomotive, diesel–electric locomotive, high-speed rail (HSR)[237]
+Space industry[edit]
+Cassini–Huygens spacecraft to Saturn used MOSFET power switch devices for power distribution.
+In the space industry, MOSFET devices were adopted by NASA for space research in 1964, for its Interplanetary Monitoring Platform (IMP) program[248] and Explorers space exploration program.[249] The use of MOSFETs was a major step forward in the electronics design of spacecraft and satellites.[247] The IMP D (Explorer 33), launched in 1966, was the first spacecraft to use the MOSFET.[249] Data gathered by IMP spacecraft and satellites were used to support the Apollo program, enabling the first crewed Moon landing with the Apollo 11 mission in 1969.[247]
+The Cassini–Huygens to Saturn in 1997 had spacecraft power distribution accomplished 192 solid-state power switch (SSPS) devices, which also functioned as circuit breakers in the event of an overload condition. The switches were developed from a combination of two semiconductor devices with switching capabilities: the MOSFET and the ASIC (application-specific integrated circuit). This combination resulted in advanced power switches that had better performance characteristics than traditional mechanical switches.[114]
+
+Other applications[edit]
+MOSFETs are commonly used for a wide range of other applications, which include the following.
+
+
+Accelerometer[256]
+Alternative energy systems – renewable energy technology[236]
+Solar power[81] – solar cells,[163] solar battery applications[81]
+Amplifiers[170] – Differential amplifiers,[257] op-amp,[257][34] video amplifier[257]
+Analog electronics – analog circuit, analog amplifier, comparator,[257] integrator, summer, multiplier,[22] analog filter,[129] inverter[187]
+Biomedical engineering[34]
+Business[81] – banking,[142] Internet commerce[150]
+Capacitors – MOS capacitor,[258][259][34] switched capacitor, capacitor filter[129][34]
+Cash registers[130]
+CMOS circuits – phase-locked loop,[260] CMOS inverter[187]
+Digital electronics[261][131] – digital circuits[257]
+Electronics industry[262][30] – semiconductor industry[263][264]
+Electronic signal processing[20][34] – digital signal processing,[34][265] digital signal processor,[265][266] analog signal processing, transducer,[22] mixed-signal, data conversion,[34] pulse train, square waves[88]
+Analog-to-digital converter (ADC)[129][267][34] – delta-sigma,[229][34] time-interleaved ADC[34]
+Digital-to-analog converter (DAC)[21][267][34] – CD players[21]
+Electronic switch[268]
+Environmental technology[181] – environmental sensors[65]
+Industrial technology – instrumentation,[111][61] CAD,[269][270] industrial control system,[61] test gear applications,[111] coal-fired power plants[238]
+Automation[148] – motion control[109]
+Control systems[20] – industrial control system,[61] automated machine control system[131]
+Electric motor drives – braking chopper[109]
+Manufacturing[150]
+Gate drivers – compressor, hydraulic pump inverter, robotics, servo motor[109]
+Laser drivers[127]
+Medical industry[70] – medical imaging (such as dental imaging)[70] portable medical devices (such as hearing aid and implantable heart control),[133] medical technology[146]
+Microtechnology – microelectronics,[192] logic circuits,[30] microelectromechanical systems (MEMS)[77]
+Military technology – data storage,[56] military communication,[233] defense monitoring sensors[81]
+Nanotechnology – nanoelectronics[271][272]
+Optical technology – optoelectronics and optical communication
+Photonics – silicon photonics
+Power-system protection – electrostatic discharge (ESD) protection, overvoltage protection, short circuit protection, temperature protection[82]
+Printing technology – 3D printing[273][274]
+Quality-of-life improvements[81]
+Resistors[275] – variable resistor[276]
+Robotics[22]
+Silicon semiconductor devices[277][278] – silicon integrated circuit (IC) chips[19]
+Surveillance industry[70]
+X-ray – X-ray detector,[166] digital radiography,[279] flat-panel detector[280]
+Other uses – drones, robots, telescopic lens[281]
+References[edit]
+
+
+^ a b "Who Invented the Transistor?". Computer History Museum. 4 December 2013. Retrieved 20 July 2019.
+
+^ a b Kuo, Yue (1 January 2013). "Thin Film Transistor Technology—Past, Present, and Future" (PDF). The Electrochemical Society Interface. 22 (1): 55–61. Bibcode:2013ECSIn..22a..55K. doi:10.1149/2.F06131if. ISSN 1064-8208.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. pp. 120 & 321–323. ISBN 9783540342588.
+
+^ Bassett, Ross Knox (2007). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology. Johns Hopkins University Press. p. 46. ISBN 9780801886393.
+
+^ Sah, Chih-Tang (October 1988). "Evolution of the MOS transistor-from conception to VLSI" (PDF). Proceedings of the IEEE. 76 (10): 1280–1326 (1290). Bibcode:1988IEEEP..76.1280S. doi:10.1109/5.16328. ISSN 0018-9219. Those of us active in silicon material and device research during 1956–1960 considered this successful effort by the Bell Labs group led by Atalla to stabilize the silicon surface the most important and significant technology advance, which blazed the trail that led to silicon integrated circuit technology developments in the second phase and volume production in the third phase.
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Berlin, Heidelberg: Springer-Verlag Berlin Heidelberg. p. 321. ISBN 978-3-540-34258-8.
+
+^ Ligenza, J.R.; Spitzer, W.G. (1960). "The mechanisms for silicon oxidation in steam and oxygen". Journal of Physics and Chemistry of Solids. 14: 131–136. Bibcode:1960JPCS...14..131L. doi:10.1016/0022-3697(60)90219-5.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ "Computer History Museum – The Silicon Engine | 1955 – Photolithography Techniques Are Used to Make Silicon Devices". Computerhistory.org. Retrieved 2 June 2012.
+
+^ Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. pp. 165–167. ISBN 9780470508923.
+
+^ Bassett, Ross Knox (2002). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology. Johns Hopkins University Press. pp. 53–4. ISBN 978-0-8018-6809-2.
+
+^ Bassett, Ross Knox (2007). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology. Johns Hopkins University Press. p. 22. ISBN 9780801886393.
+
+^ a b c d "Tortoise of Transistors Wins the Race – CHM Revolution". Computer History Museum. Retrieved 22 July 2019.
+
+^ "1964 – First Commercial MOS IC Introduced". Computer History Museum.
+
+^ Kilby, J. S. (2007). "Miniaturized electronic circuits [US Patent No. 3,138, 743]". IEEE Solid-State Circuits Society Newsletter. 12 (2): 44–54. doi:10.1109/N-SSC.2007.4785580. ISSN 1098-4232.
+
+^ "1968: Silicon Gate Technology Developed for ICs". Computer History Museum. Retrieved 22 July 2019.
+
+^ a b Memories: A Personal History of Bell Telephone Laboratories (PDF). Institute of Electrical and Electronics Engineers. 2011. p. 59. ISBN 978-1463677978.
+
+^ a b c d e f g Grant, Duncan Andrew; Gowar, John (1989). Power MOSFETS: theory and applications. Wiley. p. 1. ISBN 9780471828679. The metal–oxide–semiconductor field-effect transistor (MOSFET) is the most commonly used active device in the very-large-scale integration of digital integrated circuits (VLSI). During the 1970s these components revolutionized electronic signal processing, control systems and computers.
+
+^ a b c d e f g h i Veendrick, Harry (2000). Deep-Submicron CMOS ICs: From Basics to ASICs (PDF) (2nd ed.). Kluwer Academic Publishers. pp. 273–82. ISBN 9044001116. Archived from the original (PDF) on 6 December 2020. Retrieved 29 December 2019.
+
+^ a b c d e f g h i j k l m n Mead, Carver A.; Ismail, Mohammed, eds. (8 May 1989). Analog VLSI Implementation of Neural Systems (PDF). The Kluwer International Series in Engineering and Computer Science. Vol. 80. Norwell, MA: Kluwer Academic Publishers. doi:10.1007/978-1-4613-1639-8. ISBN 978-1-4613-1639-8.
+
+^ "1967: Application Specific Integrated Circuits employ Computer-Aided Design". The Silicon Engine. Computer History Museum. Retrieved 9 November 2019.
+
+^ a b c d e f Shirriff, Ken (30 August 2016). "The Surprising Story of the First Microprocessors". IEEE Spectrum. 53 (9). Institute of Electrical and Electronics Engineers: 48–54. doi:10.1109/MSPEC.2016.7551353. S2CID 32003640. Retrieved 13 October 2019.
+
+^ a b Sze, Simon Min. "Metal–oxide–semiconductor field-effect transistors". Encyclopædia Britannica. Retrieved 21 July 2019.
+
+^ a b c d e f Waclawek, Jan (2006). Culver, John (ed.). "The Unofficial History of 8051". The CPU Shack Museum. Retrieved 15 November 2019.
+
+^ Lin, Youn-Long Steve (2007). Essential Issues in SOC Design: Designing Complex Systems-on-Chip. Springer Science & Business Media. p. 176. ISBN 9781402053528.
+
+^ "MOSFET: Toward the Scaling Limit". Semiconductor Technology Online. Retrieved 29 July 2019.
+
+^ Veendrick, Harry (2000). Deep-Submicron CMOS ICs: From Basics to ASICs (PDF) (2nd ed.). Kluwer Academic Publishers. p. 466. ISBN 9044001116. Archived from the original (PDF) on 6 December 2020. Retrieved 29 December 2019.
+
+^ a b c d e f g h i Colinge, Jean-Pierre; Greer, James C. (2016). Nanowire Transistors: Physics of Devices and Materials in One Dimension. Cambridge University Press. p. 2. ISBN 9781107052406.
+
+^ Iniewski, Krzysztof, ed. (2010). CMOS Processors and Memories. Springer Science & Business Media. p. 4. ISBN 9789048192168.
+
+^ a b c Iniewski, Krzysztof (2010). CMOS Processors and Memories. Springer Science & Business Media. ISBN 9789048192168.
+
+^ a b c d e O'Neill, A. (2008). "Asad Abidi Recognized for Work in RF-CMOS". IEEE Solid-State Circuits Society Newsletter. 13 (1): 57–58. doi:10.1109/N-SSC.2008.4785694. ISSN 1098-4232.
+
+^ a b c d e f g h i j k l m n o p q r s Allstot, David J. (2016). "Switched Capacitor Filters" (PDF). In Maloberti, Franco; Davies, Anthony C. (eds.). A Short History of Circuits and Systems: From Green, Mobile, Pervasive Networking to Big Data Computing. IEEE Circuits and Systems Society. pp. 105–110. ISBN 9788793609860. Archived from the original (PDF) on 30 September 2021. Retrieved 29 December 2019.
+
+^ Macchiolo, A.; Andricek, L.; Moser, H. G.; Nisius, R.; Richter, R. H.; Weigell, P. (1 January 2012). "SLID-ICV Vertical Integration Technology for the ATLAS Pixel Upgrades". Physics Procedia. 37: 1009–1015. arXiv:1202.6497. Bibcode:2012PhPro..37.1009M. doi:10.1016/j.phpro.2012.02.444. ISSN 1875-3892. S2CID 91179768.
+
+^ Motoyoshi, M. (2009). "Through-Silicon Via (TSV)" (PDF). Proceedings of the IEEE. 97 (1): 43–48. doi:10.1109/JPROC.2008.2007462. ISSN 0018-9219. S2CID 29105721. Archived from the original (PDF) on 19 July 2019.
+
+^ "Transistors Keep Moore's Law Alive". EETimes. 12 December 2018. Retrieved 18 July 2019.
+
+^ a b c Hittinger, William C. (1973). "Metal–Oxide–Semiconductor Technology". Scientific American. 229 (2): 48–59. Bibcode:1973SciAm.229b..48H. doi:10.1038/scientificamerican0873-48. ISSN 0036-8733. JSTOR 24923169.
+
+^ Schwarz, A. F. (2014). Handbook of VLSI Chip Design and Expert Systems. Academic Press. p. 16. ISBN 9781483258058.
+
+^ "1971: Microprocessor Integrates CPU Function onto a Single Chip". The Silicon Engine. Computer History Museum. Retrieved 22 July 2019.
+
+^ Cushman, Robert H. (20 September 1975). "2-1/2-generation μP's-$10 parts that perform like low-end mini's" (PDF). EDN.
+
+^ Singer, Graham (3 April 2013). "History of the Modern Graphics Processor, Part 2". TechSpot. Retrieved 21 July 2019.
+
+^ "Computer History Museum – The Silicon Engine | 1963 – Complementary MOS Circuit Configuration is Invented". Computerhistory.org. Retrieved 2 June 2012.
+
+^ "1963: Complementary MOS Circuit Configuration is Invented". Computer History Museum. Retrieved 6 July 2019.
+
+^ a b c "1978: Double-well fast CMOS SRAM (Hitachi)" (PDF). Semiconductor History Museum of Japan. Retrieved 5 July 2019.
+
+^ Higgins, Richard J. (1983). Electronics with digital and analog integrated circuits. Prentice-Hall. p. 101. ISBN 9780132507042. The dominant difference is power: CMOS gates can consume about 100,000 times less power than their TTL equivalents!
+
+^ "Computer History Museum – Exhibits – Microprocessors". Computerhistory.org. Retrieved 2 June 2012.
+
+^ a b c Solid State Design – Vol. 6. Horizon House. 1965.
+
+^ a b "DRAM". IBM100. IBM. 9 August 2017. Retrieved 20 September 2019.
+
+^ a b "Robert Dennard". Encyclopædia Britannica. Retrieved 8 July 2019.
+
+^ "1970: MOS Dynamic RAM Competes with Magnetic Core Memory on Price". Computer History Museum. Retrieved 29 July 2019.
+
+^ "People | the Silicon Engine | Computer History Museum". People. Computer History Museum. Retrieved 17 August 2019.
+
+^ a b c "1971: Reusable semiconductor ROM introduced". Computer History Museum. Retrieved 19 June 2019.
+
+^ a b c Bez, R.; Pirovano, A. (2019). Advances in Non-Volatile Memory and Storage Technology. Woodhead Publishing. ISBN 9780081025857.
+
+^ Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs (2nd ed.). Springer. pp. 314–5. ISBN 9783319475974.
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs (2nd ed.). Springer. p. 315. ISBN 9783319475974.
+
+^ a b c d e f g h i j k l m n o p q r s Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs. Springer. p. 245. ISBN 9783319475974.
+
+^ Hutchinson, Lee (4 June 2012). "Solid-state revolution: in-depth on how SSDs really work". Ars Technica. Retrieved 27 September 2019.
+
+^ Windbacher, Thomas (June 2010). "Flash Memory". TU Wien. Retrieved 20 December 2019.
+
+^ a b c Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs (2nd ed.). Springer. p. 264. ISBN 9783319475974.
+
+^ a b c d e f g h i Electronic Components. U.S. Government Printing Office. 1974. p. 23.
+
+^ a b Powers, E.; Zimmermann, M. (1968). TADIM—A Digital Implementation of a Multichannel Data Modem. International Conference on Communications. IEEE. p. 706. With the advent of digital microelectronic integrated circuits and MOS FET shift register memories the application of "wholesale" technology to the implementation of a digital multichannel modem became extremely attractive for providing the advantages of extremely small size, light weight, high reliability and low cost, in addition to the inherent stability and freedom from adjustment provided by digital circuitry.
+
+^ Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs (2nd ed.). Springer. pp. 305–6. ISBN 9783319475974.
+
+^ a b c d Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs (2nd ed.). Springer. pp. 276–9. ISBN 9783319475974.
+
+^ a b c d e f g h i j k Bergveld, Piet (October 1985). "The impact of MOSFET-based sensors" (PDF). Sensors and Actuators. 8 (2): 109–127. Bibcode:1985SeAc....8..109B. doi:10.1016/0250-6874(85)87009-8. ISSN 0250-6874. Archived from the original (PDF) on 26 April 2021. Retrieved 29 December 2019.
+
+^ Chris Toumazou; Pantelis Georgiou (December 2011). "40 years of ISFET technology:From neuronal sensing to DNA sequencing". Electronics Letters. Retrieved 13 May 2016.
+
+^ a b c d e Schöning, Michael J.; Poghossian, Arshak (10 September 2002). "Recent advances in biologically sensitive field-effect transistors (BioFETs)" (PDF). Analyst. 127 (9): 1137–1151. Bibcode:2002Ana...127.1137S. doi:10.1039/B204444G. ISSN 1364-5528. PMID 12375833.
+
+^ a b c d e Williams, J. B. (2017). The Electronics Revolution: Inventing the Future. Springer. pp. 245, 249–50. ISBN 9783319490885.
+
+^ a b Cressler, John D. (2017). "Let There Be Light: The Bright World of Photonics". Silicon Earth: Introduction to Microelectronics and Nanotechnology, Second Edition. CRC Press. p. 29. ISBN 978-1-351-83020-1.
+
+^ a b c d e f g h i j k l m n "CMOS Sensors Enable Phone Cameras, HD Video". NASA Spinoff. NASA. Retrieved 6 November 2019.
+
+^ a b c Brain, Marshall; Carmack, Carmen (24 April 2000). "How Computer Mice Work". HowStuffWorks. Retrieved 9 October 2019.
+
+^ Boyle, William S; Smith, George E. (1970). "Charge Coupled Semiconductor Devices". Bell Syst. Tech. J. 49 (4): 587–593. Bibcode:1970BSTJ...49..587B. doi:10.1002/j.1538-7305.1970.tb01790.x.
+
+^ Matsumoto, Kazuya; et al. (1985). "A new MOS phototransistor operating in a non-destructive readout mode". Japanese Journal of Applied Physics. 24 (5A): L323. Bibcode:1985JaJAP..24L.323M. doi:10.1143/JJAP.24.L323. S2CID 108450116.
+
+^ Eric R. Fossum (1993), "Active Pixel Sensors: Are CCD's Dinosaurs?" Proc. SPIE Vol. 1900, p. 2–14, Charge-Coupled Devices and Solid State Optical Sensors III, Morley M. Blouke; Ed.
+
+^ a b Lyon, Richard F. (2014). "The Optical Mouse: Early Biomimetic Embedded Vision". Advances in Embedded Computer Vision. Springer. pp. 3–22 [3]. ISBN 9783319093871.
+
+^ a b Lyon, Richard F. (August 1981). "The Optical Mouse, and an Architectural Methodology for Smart Digital Sensors" (PDF). In H. T. Kung; Robert F. Sproull; Guy L. Steele (eds.). VLSI Systems and Computations. Computer Science Press. pp. 1–19. doi:10.1007/978-3-642-68402-9_1. ISBN 978-3-642-68404-3. S2CID 60722329.
+
+^ a b c Rai-Choudhury, P. (2000). MEMS and MOEMS Technology and Applications. SPIE Press. pp. ix, 3–4. ISBN 9780819437167.
+
+^ Nathanson HC, Wickstrom RA (1965). "A Resonant-Gate Silicon Surface Transistor with High-Q Band-Pass Properties". Appl. Phys. Lett. 7 (4): 84–86. Bibcode:1965ApPhL...7...84N. doi:10.1063/1.1754323.
+
+^ a b c d e f g h i j k "Semiconductor solutions for healthcare applications" (PDF). ST Microelectronics. 19 September 2019. Retrieved 22 December 2019.
+
+^ Sun, Jianhai; Geng, Zhaoxin; Xue, Ning; Liu, Chunxiu; Ma, Tianjun (17 August 2018). "A Mini-System Integrated with Metal–Oxide–Semiconductor Sensor and Micro-Packed Gas Chromatographic Column". Micromachines. 9 (8): 408. doi:10.3390/mi9080408. ISSN 2072-666X. PMC 6187308. PMID 30424341.
+
+^ a b c d e f g h i j k l m n o p q r s Omura, Yasuhisa; Mallik, Abhijit; Matsuo, Naoto (2017). MOS Devices for Low-Voltage and Low-Energy Applications. John Wiley & Sons. pp. 3–4. ISBN 9781119107354.
+
+^ a b c d e f g h i j k l m n o "Infineon Solutions for Transportation" (PDF). Infineon. June 2013. Archived from the original (PDF) on 19 March 2022. Retrieved 23 December 2019.
+
+^ a b c Oliveira, Joao; Goes, João (2012). Parametric Analog Signal mplification Applied to Nanoscale CMOS Technologies. Springer Science & Business Media. p. 7. ISBN 9781461416708.
+
+^ Irwin, J. David (1997). The Industrial Electronics Handbook. CRC Press. p. 218. ISBN 9780849383434.
+
+^ a b "Power MOSFET Basics" (PDF). Alpha & Omega Semiconductor. Retrieved 29 July 2019.
+
+^ a b "Power Supply Technology – Buck DC/DC Converters". Mouser Electronics. Retrieved 11 August 2019.
+
+^ Grant, Duncan Andrew; Gowar, John (1989). Power MOSFETS: theory and applications. Wiley. p. 239. ISBN 9780471828679.
+
+^ a b c d e f g h "Applying MOSFETs to Today's Power-Switching Designs". Electronic Design. 23 May 2016. Retrieved 10 August 2019.
+
+^ a b c d e f g h i Baliga, B. Jayant (2005). Silicon RF Power MOSFETS. World Scientific. ISBN 9789812561213.
+
+^ a b c d e f g h i j k l m n o p q r Asif, Saad (2018). 5G Mobile Communications: Concepts and Technologies. CRC Press. pp. 128–134. ISBN 9780429881343.
+
+^ "A 600W broadband HF/6m amplifier using affordable LDMOS devices". 27 October 2019.
+
+^ Carbone, James (September–October 2018). "Buyers can expect 30-week lead times and higher tags to continue for MOSFETs" (PDF). Electronics Sourcing: 18–19.
+
+^ a b c d e "Automotive Power MOSFETs" (PDF). Fuji Electric. Retrieved 10 August 2019.
+
+^ a b c d e Gosden, D.F. (March 1990). "Modern Electric Vehicle Technology using an AC Motor Drive". Journal of Electrical and Electronics Engineering. 10 (1). Institution of Engineers Australia: 21–7. ISSN 0725-2986.
+
+^ a b c d e f g h i j k "NIHF Inductee Bantval Jayant Baliga Invented IGBT Technology". National Inventors Hall of Fame. Retrieved 17 August 2019.
+
+^ "Power MOSFET Basics: Understanding Gate Charge and Using It To Assess Switching Performance". element14. Archived from the original on 30 June 2014. Retrieved 27 November 2010.
+
+^ a b c d e f g h i j k l m n "HITFETs: Smart, Protected MOSFETs" (PDF). Infineon. Retrieved 23 December 2019.
+
+^ "AN4016: Application note – 2 kW PPA for ISM applications" (PDF). ST Microelectronics. December 2011. Retrieved 22 December 2019.
+
+^ Duncan, Ben (1996). High Performance Audio Power Amplifiers. Newnes. pp. 147–148. ISBN 9780750626293.
+
+^ a b c d e f g h i j Veendrick, Harry (2000). Deep-Submicron CMOS ICs: From Basics to ASICs (PDF) (2nd ed.). Kluwer Academic Publishers. p. 220. ISBN 9044001116. Archived from the original (PDF) on 6 December 2020. Retrieved 29 December 2019.
+
+^ Mysiński, W. (September 2017). "SiC mosfet transistors in power analog application". 2017 19th European Conference on Power Electronics and Applications (EPE'17 ECCE Europe). pp. P1 – P7. doi:10.23919/EPE17ECCEEurope.2017.8099305. ISBN 978-90-75815-27-6. S2CID 33650463.
+
+^ a b c d e f g h i j Alagi, Filippo (29 October 2014). "Compact Modelling of the Hot-Carrier Degradation of Integrated HV MOSFETs". In Grasser, Tibor (ed.). Hot Carrier Degradation in Semiconductor Devices. Springer. p. 341. ISBN 978-3319089942.
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak Williams, R. K.; Darwish, M. N.; Blanchard, R. A.; Siemieniec, R.; Rutter, P.; Kawaguchi, Y. (2017). "The Trench Power MOSFET—Part II: Application Specific VDMOS, LDMOS, Packaging, Reliability". IEEE Transactions on Electron Devices. 64 (3): 692–712. Bibcode:2017ITED...64..692W. doi:10.1109/TED.2017.2655149. ISSN 0018-9383. S2CID 38550249.
+
+^ a b c d e f g "MOSFET". Infineon Technologies. Retrieved 24 December 2019.
+
+^ Patel, Mukund R. (2004). Spacecraft Power Systems. CRC Press. p. 97. ISBN 9781420038217.
+
+^ Kularatna, Nihal (2000). Modern Component Families and Circuit Block Design. Newnes. p. 33. ISBN 9780750699921.
+
+^ a b c d e f g h i j k l m n o "MDmesh: 20 Years of Superjunction STPOWER™ MOSFETs, A Story About Innovation". STMicroelectronics. 11 September 2019. Retrieved 2 November 2019.
+
+^ Ali Emadi (2009). Integrated power electronic converters and digital control. CRC Press. pp. 145–146. ISBN 978-1-4398-0069-0.
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au "Infineon EiceDRIVER™ gate driver ICs" (PDF). Infineon. August 2019. Retrieved 26 December 2019.
+
+^ a b c d e f Emadi, Ali (2017). Handbook of Automotive Power Electronics and Motor Drives. CRC Press. p. 117. ISBN 9781420028157.
+
+^ a b c d e f g h i j Amos, S. W.; James, Mike (2013). Principles of Transistor Circuits: Introduction to the Design of Amplifiers, Receivers and Digital Circuits. Elsevier. p. 332. ISBN 9781483293905.
+
+^ "3D Printers". STMicroelectronics. Retrieved 19 December 2019.
+
+^ "3D printers". Infineon Technologies. Retrieved 19 December 2019.
+
+^ a b Meltzer, Michael (2015). The Cassini-Huygens Visit to Saturn: An Historic Mission to the Ringed Planet. Springer. p. 70. ISBN 9783319076089.
+
+^ Korec, Jacek (2011). Low Voltage Power MOSFETs: Design, Performance and Applications. Springer Science+Business Media. p. v. ISBN 978-1-4419-9320-5.
+
+^ McGowan, Kevin (2012). Semiconductors: From Book to Breadboard. Cengage. p. 207. ISBN 9781111313876.
+
+^ a b c "BCD (Bipolar-CMOS-DMOS) — Key Technology for Power ICs". STMicroelectronics. Archived from the original on 6 June 2016. Retrieved 27 November 2019.
+
+^ a b c d e f g h i j k l m n o p Korec, Jacek (2011). Low Voltage Power MOSFETs: Design, Performance and Applications. Springer Science+Business Media. pp. 9–14. ISBN 978-1-4419-9320-5.
+
+^ Korec, Jacek (2011). Low Voltage Power MOSFETs: Design, Performance and Applications. Springer Science+Business Media. p. 5. ISBN 978-1-4419-9320-5.
+
+^ Andrea, Davide (2010). Battery Management Systems for Large Lithium Ion Battery Packs. Artech House. p. 215. ISBN 978-1-60807-105-0.
+
+^ Heftman, Gene (1 October 2005). "PWM: From a Single Chip To a Giant Industry". Power Electronics. Retrieved 16 November 2019.
+
+^ a b c d e f g h Whiteley, Carol; McLaughlin, John Robert (2002). Technology, Entrepreneurs, and Silicon Valley. Institute for the History of Technology. ISBN 9780964921719. These active electronic components, or power semiconductor products, from Siliconix are used to switch and convert power in a wide range of systems, from portable information appliances to the communications infrastructure that enables the Internet. The company's power MOSFETs – tiny solid-state switches, or metal oxide semiconductor field-effect transistors – and power integrated circuits are widely used in cell phones and notebook computers to manage battery power efficiently
+
+^ a b c d e f g h i j "RF DMOS Transistors". STMicroelectronics. Retrieved 22 December 2019.
+
+^ a b c "AN1256: Application note – High-power RF MOSFET targets VHF applications" (PDF). ST Microelectronics. July 2007. Retrieved 22 December 2019.
+
+^ a b c d "SD49xx: 50 V RF MOSFETs for ISM applications" (PDF). ST Microelectronics. August 2015. Retrieved 22 December 2019.
+
+^ a b "STAC2942B – RF power transistor: HF/VHF/UHF RF power N-channel MOSFETs" (PDF). ST Microelectronics. Retrieved 22 December 2019.
+
+^ a b c d e f "ISM & Broadcast". ST Microelectronics. Retrieved 3 December 2019.
+
+^ "STAC4932B: HF/VHF/UHF RF power N-channel MOSFET" (PDF). ST Microelectronics. January 2014. Retrieved 22 December 2019.
+
+^ a b c d e f g h i j k Colinge, Jean-Pierre; Colinge, C. A. (2005). Physics of Semiconductor Devices. Springer Science & Business Media. p. 165. ISBN 9780387285238.
+
+^ a b c d e f g h i j k l m n o "Design News". Design News. 27 (1–8). Cahners Publishing Company: 275. 1972. Today, under contracts with some 20 major companies, we're working on nearly 30 product programs—applications of MOS/LSI technology for automobiles, trucks, appliances, business machines, musical instruments, computer peripherals, cash registers, calculators, data transmission and telecommunication equipment.
+
+^ a b c d e f g h i j k l m n o p q Benrey, Ronald M. (October 1971). "Microelectronics in the '70s". Popular Science. 199 (4). Bonnier Corporation: 83–5, 150–2. ISSN 0161-7370.
+
+^ a b c d e f g "13 Sextillion & Counting: The Long & Winding Road to the Most Frequently Manufactured Human Artifact in History". Computer History Museum. 2 April 2018. Retrieved 28 July 2019.
+
+^ a b c d e f g h i j k l m n Veendrick, Harry (2000). Deep-Submicron CMOS ICs: From Basics to ASICs (PDF) (2nd ed.). Kluwer Academic Publishers. pp. 337–8. ISBN 9044001116. Archived from the original (PDF) on 6 December 2020. Retrieved 29 December 2019.
+
+^ Stephens, Carlene; Dennis, Maggie (2000). "Engineering Time: Inventing the Electronic Wristwatch" (PDF). The British Journal for the History of Science. 33 (4). Cambridge University Press: 477–497 (485). doi:10.1017/S0007087400004167. ISSN 0007-0874. Archived from the original (PDF) on 1 December 2017. Retrieved 29 December 2019.
+
+^ "Early 1970s: Evolution of CMOS LSI circuits for watches" (PDF). Semiconductor History Museum of Japan. Retrieved 6 July 2019.
+
+^ a b c Valéry, Nicholas (30 October 1975). "Electronics in search of temps perdu". New Scientist. 68 (973): 284–5.
+
+^ a b Mishra, Vimal Kumar; Yadava, Narendra; Nigam, Kaushal (2018). "Analysis of RSNM and WSNM of 6T SRAM Cell Using Ultra Thin Body FD-SOI MOSFET". Advances in Signal Processing and Communication: Select Proceedings of ICSC 2018. Springer: 620. ISBN 978-981-13-2553-3.
+
+^ Major, Liam (1 December 2018). "What is an Airsoft Mosfet? An Airsof Mosfet Introduction". Major Airsoft. Retrieved 11 November 2019.
+
+^ a b "Amendment to Clarify Which Electronic Games Are Exempted From Commission Clarification". Federal Register. 47 (189). Office of the Federal Register, National Archives and Records Service, General Services Administration: 42, 748–50. 29 September 1982.
+
+^ a b c d Sridharan, K.; Pudi, Vikramkumar (2015). Design of Arithmetic Circuits in Quantum Dot Cellular Automata Nanotechnology. Springer. p. 1. ISBN 9783319166889.
+
+^ a b "1–600 MHz – Broadcast and ISM". NXP Semiconductors. Retrieved 12 December 2019.
+
+^ a b c d e f g h i j k Paul, D. J. (2003). "Nanoelectronics". In Meyers, Robert Allen (ed.). Encyclopedia of Physical Science and Technology (3rd ed.). Academic Press. pp. 285–301 (285–6). doi:10.1016/B0-12-227410-5/00469-5. ISBN 978-0-12-227420-6. Many new technologies appeared during the 20th century. If one had to decide on which new technology had the largest impact on mankind, the microelectronics industry would certainly be one of the main contenders. Microelectronic components in the form of microprocessors and memory are used in computers, audiovisual components from hi-fis and videos to televisions, cars (the smallest Daimler-Benz car has over 60 microprocessors), communications systems including telephones and mobile phones, banking, credit cards, cookers, heating controllers, toasters, food processors – the list is almost endless. (...) The microelectronics industry has therefore become nanoelectronics named after the Greek for a dwarf "nanos." This article will review the silicon nanoelectronic field and discuss how far the silicon MOSFET can be scaled down.
+
+^ a b c d e f g h i j "LDMOS Products and Solutions". NXP Semiconductors. Retrieved 4 December 2019.
+
+^ a b c d e f "RF Defrosting". NXP Semiconductors. Retrieved 12 December 2019.
+
+^ a b c d Theeuwen, S. J. C. H.; Qureshi, J. H. (June 2012). "LDMOS Technology for RF Power Amplifiers" (PDF). IEEE Transactions on Microwave Theory and Techniques. 60 (6): 1755–1763. Bibcode:2012ITMTT..60.1755T. doi:10.1109/TMTT.2012.2193141. ISSN 1557-9670. S2CID 7695809.
+
+^ a b c d Torres, Victor (21 June 2018). "Why LDMOS is the best technology for RF energy". Microwave Engineering Europe. Ampleon. Archived from the original on 10 December 2019. Retrieved 10 December 2019.
+
+^ a b c Winder, Steve (2011). Power Supplies for LED Driving. Newnes. pp. 20–22, 39–41. ISBN 9780080558578.
+
+^ a b c Business Automation. Hitchcock Publishing Company. 1972. p. 28. In addition, electro-optical technology and MOS/LSI electronics combine to provide a highly accurate embossed credit card reader which can be part of a POS terminal or standalone unit. It detects embossed numbers for direct checking with a central computer to verify a customer's credit and initiate the purchasing transaction. Also, the same electronics can be used to read data contained on magnetic tape and other types of credit card
+
+^ a b Klinger, A.; Fu, K. S.; Kunii, T. L. (2014). Data Structures, Computer Graphics, Pattern Recognition. Academic Press. p. 331. ISBN 9781483267258.
+
+^ a b c d e f g h i j k l Hsu, Charles Ching-Hsiang; Lin, Yuan-Tai; Yang, Evans Ching-Sung, eds. (2014). "Preface". Logic Non-volatile Memory: The NVM Solutions from EMemory. World Scientific. p. vii. ISBN 978-981-4460-91-0.
+
+^ a b "915 MHz RF Cooking". NXP Semiconductors. Retrieved 7 December 2019.
+
+^ a b c Sahay, Shubham; Kumar, Mamidala Jagadesh (2019). Junctionless Field-Effect Transistors: Design, Modeling, Simulation. John Wiley & Sons. ISBN 9781119523536.
+
+^ a b c Cherry, Robert William (June 1973). A calculator option for the Tektronix 4010 computer graphics terminal. Compilation of Abstracts of Dissertations, Theses and Research Papers Submitted by Candidates for Degrees (Thesis). Naval Postgraduate School.
+
+^ a b Nigel Tout. "Sharp QT-8D "micro Compet"". Vintage Calculators Web Museum. Retrieved 29 September 2010.
+
+^ a b c "Hand-held Calculators". Vintage Calculators Web Museum. Retrieved 22 July 2019.
+
+^ a b c d Duncan, Ben (1996). High Performance Audio Power Amplifiers. Elsevier. pp. 177–8, 406. ISBN 9780080508047.
+
+^ a b c d e f g h i Floyd, Michael D.; Hillman, Garth D. (8 October 2018) [1st pub. 2000]. "Pulse-Code Modulation Codec-Filters". The Communications Handbook (2nd ed.). CRC Press. pp. 26–1, 26–2, 26–3. ISBN 9781420041163.
+
+^ Vernallis, Carol; Herzog, Amy; Richardson, John (2015). The Oxford Handbook of Sound and Image in Digital Media. Oxford University Press. p. 495. ISBN 978-0-19-025817-7.
+
+^ Stump, David (2014). Digital Cinematography: Fundamentals, Tools, Techniques, Workflows. CRC Press. pp. 19–22. ISBN 978-1-136-04042-9.
+
+^ Dhanani, Suhel; Parker, Michael (2012). Digital Video Processing for Engineers: A Foundation for Embedded Systems Design. Newnes. p. 11. ISBN 978-0-12-415761-3.
+
+^ Kimizuka, Noboru; Yamazaki, Shunpei (2016). Physics and Technology of Crystalline Oxide Semiconductor CAAC-IGZO: Fundamentals. John Wiley & Sons. p. 217. ISBN 9781119247401.
+
+^ a b c d e f g Zeidler, G.; Becker, D. (1974). "MOS LSI Custom Circuits Offer New Prospects for Communications Equipment Design". Electrical Communication. 49–50. Western Electric Company: 88–92. In many fields of communications equipment design, MOS LSI custom built circuits provide the only practical and economic solution. Important examples include the coin telephone NT 2000, the QUICKSTEP*push button set, a push button signal receiver. (...) A complete list of all applications is beyond the scope of this paper since new MOS developments are constantly being initiated in the various technical areas. Typical examples of completed and present MOS developments are:— crosspoints— multiplexers— modems— mobile radios— push button signal receivers— mail sorting machines— multimeters— telephone sets— coin telephones— teleprinters— screen displays— television receivers.
+
+^ a b c d e Shanmugam, S. (2019). Nanotechnology. MJP Publisher. p. 83.
+
+^ Digital Principles & Applications. McGraw-Hill Education. 1975. p. 662. ISBN 978-0-07-014170-4.
+
+^ "Companies" (PDF). Information Display. 3 (8). Society for Information Display: 41. September 1987.
+
+^ a b c Kuo, Y. (2008). Thin Film Transistors 9 (TFT 9). The Electrochemical Society. p. 365. ISBN 9781566776554.
+
+^ a b c d e f Brotherton, S. D. (2013). Introduction to Thin Film Transistors: Physics and Technology of TFTs. Springer Science & Business Media. ISBN 9783319000022.
+
+^ U.S. patent 5,598,285: K. Kondo, H. Terao, H. Abe, M. Ohta, K. Suzuki, T. Sasaki, G. Kawachi, J. Ohwada, Liquid crystal display device, filed 18 September 1992 and 20 January 1993.
+
+^ Peddie, Jon (2017). Augmented Reality: Where We Will All Live. Springer. p. 214. ISBN 978-3-319-54502-8.
+
+^ a b c Harrison, Linden T. (2005). Current Sources and Voltage References: A Design Reference for Electronics Engineers. Elsevier. p. 185. ISBN 978-0-08-045555-6.
+
+^ a b c d Veendrick, Harry J. M. (2017). Nanometer CMOS ICs: From Basics to ASICs (2nd ed.). Springer. p. 243. ISBN 9783319475974.
+
+^ a b Electronic Components. U.S. Government Printing Office. 1974. p. 9.
+
+^ Hamaoui, H.; Chesley, G.; Schlageter, J. (February 1972). "A low-cost color-TV sync generator on a single chip". 1972 IEEE International Solid-State Circuits Conference. Digest of Technical Papers. 1972 IEEE International Solid-State Circuits Conference. Digest of Technical Papers. Vol. XV. pp. 124–125. doi:10.1109/ISSCC.1972.1155048.
+
+^ a b "Remote control for color tv goes the all-electronic route". Electronics. 43. McGraw-Hill Publishing Company: 102. April 1970. RCA's Wayne Evans, Carl Moeller and Edward Milbourn tell how digital signals and MOS FET memory modules are used to replace motor-driven tuning controls
+
+^ a b c d e f g h Grabinski, Wladyslaw; Gneiting, Thomas (2010). POWER/HVMOS Devices Compact Modeling. Springer Science & Business Media. pp. 33–4. ISBN 9789048130467.
+
+^ a b c Kent, Joel (May 2010). "Touchscreen technology basics & a new development". CMOS Emerging Technologies Conference. 6. CMOS Emerging Technologies Research: 1–13. ISBN 9781927500057.
+
+^ "Carroll Releases ASIC-Based Touch System Controller". InfoWorld. 10 (12): 34. 21 March 1988. ISSN 0199-6649.
+
+^ a b Colinge, Jean-Pierre; Greer, Jim (2010). "Chapter 12: Transistor Structures for Nanoelectronics". Handbook of Nanophysics: Nanoelectronics and Nanophotonics. CRC Press. pp. 12–1. ISBN 9781420075519.
+
+^ a b c d e Shaw, Dan (1 April 2020). "Hot chips: the uniquely digital story of video games". Happy Mag. Retrieved 1 April 2020.
+
+^ LaMothe, André (2006). "Chapter 6: Game Controller Hardware" (PDF). Game Programming for the Propeller Powered HYDRA. Parallax, Inc. pp. 95–102. ISBN 1928982409.
+
+^ a b c d Omura, Yasuhisa; Mallik, Abhijit; Matsuo, Naoto (2017). MOS Devices for Low-Voltage and Low-Energy Applications. John Wiley & Sons. ISBN 9781119107354.
+
+^ a b c Veendrick, Harry (2000). Deep-Submicron CMOS ICs: From Basics to ASICs (PDF) (2nd ed.). Kluwer Academic Publishers. p. 215. ISBN 9044001116. Archived from the original (PDF) on 6 December 2020. Retrieved 29 December 2019.
+
+^ a b Dixon-Warren, Sinjin (16 July 2019). "AC Adapters: GaN, SiC or Si?". EE Times. Retrieved 21 December 2019.
+
+^ a b c d e f Frank, Randy (1 November 2005). "Top 30 Power Milestones and Products". Power Electronics. Retrieved 16 November 2019.
+
+^ Alagi, Filippo (29 October 2014). "Compact Modelling of the Hot-Carrier Degradation of Integrated HV MOSFETs". In Grasser, Tibor (ed.). Hot Carrier Degradation in Semiconductor Devices. Springer. p. 343. ISBN 978-3319089942.
+
+^ a b c d e f g "Radio Frequency Transistors". ST Microelectronics. Retrieved 23 December 2019.
+
+^ a b c d e f g h i j k l m Baker, R. Jacob (2011). CMOS: Circuit Design, Layout, and Simulation. John Wiley & Sons. p. 7. ISBN 978-1118038239.
+
+^ Andrea, Davide (2010). Battery Management Systems for Large Lithium Ion Battery Packs. Artech House. pp. 131, 159, 204, 215, 218. ISBN 978-1-60807-105-0.
+
+^ Andrea, Davide (2010). Battery Management Systems for Large Lithium Ion Battery Packs. Artech House. p. 218. ISBN 978-1-60807-105-0.
+
+^ a b c d e f g Omura, Yasuhisa; Mallik, Abhijit; Matsuo, Naoto (2017). MOS Devices for Low-Voltage and Low-Energy Applications. John Wiley & Sons. p. 53. ISBN 9781119107354.
+
+^ a b c "Remarks by Director Iancu at the 2019 International Intellectual Property Conference". United States Patent and Trademark Office. 10 June 2019. Archived from the original on 17 December 2019. Retrieved 20 July 2019.
+
+^ a b "Advanced information on the Nobel Prize in Physics 2000" (PDF). Nobel Prize. June 2018. Retrieved 17 August 2019.
+
+^ Chen, Tom (1996). "Integrated Circuits". In Whitaker, Jerry C. (ed.). The Electronics Handbook. CRC Press. p. 644. ISBN 978-0-8493-8345-8.
+
+^ a b Green, M. M. (November 2010). "An overview on wireline communication systems for high-speed broadband communication". Proceedings of Papers 5th European Conference on Circuits and Systems for Communications (ECCSC'10): 1–8.
+
+^ a b c d Jindal, R. P. (2009). "From millibits to terabits per second and beyond - over 60 years of innovation". 2009 2nd International Workshop on Electron Devices and Semiconductor Technology. pp. 1–6. doi:10.1109/EDST.2009.5166093. ISBN 978-1-4244-3831-0. S2CID 25112828.
+
+^ Parslow, R. (2013). Computer Graphics: Techniques and Applications. Springer Science & Business Media. p. 96. ISBN 9781475713206.
+
+^ a b c d Harding, Scharon (17 September 2019). "What Is a MOSFET? A Basic Definition". Tom's Hardware. Retrieved 7 November 2019.
+
+^ Richard Shoup (2001). "SuperPaint: An Early Frame Buffer Graphics System" (PDF). Annals of the History of Computing. IEEE. Archived from the original (PDF) on 12 June 2004.
+
+^ Goldwasser, S.M. (June 1983). Computer Architecture For Interactive Display Of Segmented Imagery. Computer Architectures for Spatially Distributed Data. Springer Science & Business Media. pp. 75–94 (81). ISBN 9783642821509.
+
+^ Peddie, Jon. "Famous Graphics Chips: TI TMS34010 and VRAM". IEEE Computer Society. Institute of Electrical and Electronics Engineers. Retrieved 1 November 2019.
+
+^ a b c O'Regan, Gerard (2016). Introduction to the History of Computing: A Computing History Primer. Springer. p. 132. ISBN 9783319331386.
+
+^ Holler, M.; Tam, S.; Castro, H.; Benson, R. (1989). "An electrically trainable artificial neural network (ETANN) with 10240 'floating gate' synapses". International Joint Conference on Neural Networks. Vol. 2. Washington, D.C. pp. 191–196. doi:10.1109/IJCNN.1989.118698. S2CID 17020463.{{cite book}}:  CS1 maint: location missing publisher (link)
+
+^ Schmalstieg, Dieter; Hollerer, Tobias (2016). Augmented Reality: Principles and Practice. Addison-Wesley Professional. pp. 209–10. ISBN 978-0-13-315320-0.
+
+^ Westwood, James D. (2012). Medicine Meets Virtual Reality 19: NextMed. IOS Press. p. 93. ISBN 978-1-61499-021-5.
+
+^ a b Proceedings of the Ninth International Symposium on Silicon-on-Insulator Technology and Devices. The Electrochemical Society. 1999. p. 305. ISBN 9781566772259.
+
+^ a b c Jacob, J. (2001). Power Electronics: Principles and Applications. Cengage Learning. p. 280. ISBN 9780766823327.
+
+^ Forester, Tom (1987). High-tech Society: The Story of the Information Technology Revolution. MIT Press. p. 144. ISBN 978-0-262-56044-3.
+
+^ a b c d Voinigescu, Sorin (2013). High-Frequency Integrated Circuits. Cambridge University Press. ISBN 9780521873024.
+
+^ a b Hayward, G.; Gottlieb, A.; Jain, S.; Mahoney, D. (October 1987). "CMOS VLSI Applications in Broadband Circuit Switching". IEEE Journal on Selected Areas in Communications. 5 (8): 1231–1241. doi:10.1109/JSAC.1987.1146652. ISSN 1558-0008.
+
+^ a b Hui, J.; Arthurs, E. (October 1987). "A Broadband Packet Switch for Integrated Transport". IEEE Journal on Selected Areas in Communications. 5 (8): 1264–1273. doi:10.1109/JSAC.1987.1146650. ISSN 1558-0008.
+
+^ Gibson, Jerry D. (2018). The Communications Handbook. CRC Press. pp. 34–4. ISBN 9781420041163.
+
+^ a b "Infineon Hits Bulk-CMOS RF Switch Milestone". EE Times. 20 November 2018. Retrieved 26 October 2019.
+
+^ Kim, Woonyun (2015). "CMOS power amplifier design for cellular applications: an EDGE/GSM dual-mode quad-band PA in 0.18 μm CMOS". In Wang, Hua; Sengupta, Kaushik (eds.). RF and mm-Wave Power Generation in Silicon. Academic Press. pp. 89–90. ISBN 978-0-12-409522-9.
+
+^ "First chip-to-chip quantum teleportation harnessing silicon photonic chip fabrication". University of Bristol. 23 December 2019. Retrieved 28 January 2020.
+
+^ "Milgo Modems Out". Computerworld. 6 (48). IDG Enterprise: 34. 29 November 1972. ISSN 0010-4841.
+
+^ Geerts, Yves; Steyaert, Michiel; Sansen, Willy (2013) [1st pub. 2004]. "Chapter 8: Single-Loop Multi-Bit Sigma-Delta Modulators". In Rodríguez-Vázquez, Angel; Medeiro, Fernando; Janssens, Edmond (eds.). CMOS Telecom Data Converters. Springer Science & Business Media. p. 277. ISBN 978-1-4757-3724-0.
+
+^ Debenham, M. J. (October 1974). "MOS in Telecommunications". Microelectronics Reliability. 13 (5): 417. Bibcode:1974MiRe...13..417D. doi:10.1016/0026-2714(74)90466-1. ISSN 0026-2714.
+
+^ Chapuis, Robert J.; Joel, Amos E. (2003). 100 Years of Telephone Switching. IOS Press. pp. 21, 135, 141–6, 214. ISBN 9781586033729.
+
+^ a b "Push-button telephone chips" (PDF). Wireless World: 383. August 1970.
+
+^ Valéry, Nicholas (11 April 1974). "Debut for the telephone on a chip". New Scientist. 62 (893): 65–7. ISSN 0262-4079.
+
+^ Gust, Victor; Huizinga, Donald; Paas, Terrance (January 1976). "Call anywhere at the touch of a button" (PDF). Bell Laboratories Record. 54: 3–8.[permanent dead link]
+
+^ a b Srivastava, Viranjay M.; Singh, Ghanshyam (2013). MOSFET Technologies for Double-Pole Four-Throw Radio-Frequency Switch. Springer Science & Business Media. p. 1. ISBN 9783319011653.
+
+^ Chen, Wai-Kai (2018). The VLSI Handbook. CRC Press. pp. 60–2. ISBN 9781420005967.
+
+^ Morgado, Alonso; Río, Rocío del; Rosa, José M. de la (2011). Nanometer CMOS Sigma-Delta Modulators for Software Defined Radio. Springer Science & Business Media. p. 1. ISBN 9781461400370.
+
+^ Daneshrad, Babal; Eltawil, Ahmed M. (2002). "Integrated Circuit Technologies for Wireless Communications". Wireless Multimedia Network Technologies. The International Series in Engineering and Computer Science. Vol. 524. Springer US. pp. 227–244. doi:10.1007/0-306-47330-5_13. ISBN 0-7923-8633-7.
+
+^ a b Fralick, Stanley C.; Brandin, David H.; Kuo, Franklin F.; Harrison, Christopher (19–22 May 1975). "Digital Terminals For Packet Broadcasting" (PDF). Proceedings of the May 19-22, 1975, national computer conference and exposition on - AFIPS '75. AFIPS '75. American Federation of Information Processing Societies. p. 253. doi:10.1145/1499949.1499990. Archived (PDF) from the original on 16 November 2019.
+
+^ Nathawad, L.; Zargari, M.; Samavati, H.; Mehta, S.; Kheirkhaki, A.; Chen, P.; Gong, K.; Vakili-Amini, B.; Hwang, J.; Chen, M.; Terrovitis, M.; Kaczynski, B.; Limotyrakis, S.; Mack, M.; Gan, H.; Lee, M.; Abdollahi-Alibeik, B.; Baytekin, B.; Onodera, K.; Mendis, S.; Chang, A.; Jen, S.; Su, D.; Wooley, B. "20.2: A Dual-band CMOS MIMO Radio SoC for IEEE 802.11n Wireless LAN" (PDF). IEEE Entity Web Hosting. IEEE. Archived from the original (PDF) on 23 October 2016. Retrieved 22 October 2016.
+
+^ Olstein, Katherine (Spring 2008). "Abidi Receives IEEE Pederson Award at ISSCC 2008" (PDF). SSCC: IEEE Solid-State Circuits Society News. 13 (2): 12. doi:10.1109/N-SSC.2008.4785734. S2CID 30558989. Archived from the original (PDF) on 7 November 2019.
+
+^ a b Morgado, Alonso; Río, Rocío del; Rosa, José M. de la (2011). Nanometer CMOS Sigma-Delta Modulators for Software Defined Radio. Springer Science & Business Media. ISBN 9781461400370.
+
+^ Kularatna, Nihal (1998). Power Electronics Design Handbook: Low-Power Components and Applications. Elsevier. p. 4. ISBN 978-0-08-051423-9.
+
+^ a b c "RF LDMOS Transistors". ST Microelectronics. Retrieved 2 December 2019.
+
+^ "UM0890: User manual – 2-stage RF power amplifier with LPF based on the PD85006L-E and STAP85050 RF power transistors" (PDF). ST Microelectronics. Retrieved 23 December 2019.
+
+^ a b c "Mobile & Wideband Comms". ST Microelectronics. Retrieved 4 December 2019.
+
+^ a b "IGBT Definition". PC Magazine. Retrieved 17 August 2019.
+
+^ "Power Transistor Market Will Cross $13.0 Billion in 2011". IC Insights. 21 June 2011. Retrieved 15 October 2019.
+
+^ a b c d e f g h i j k l m Baliga, B. Jayant (2015). The IGBT Device: Physics, Design and Applications of the Insulated Gate Bipolar Transistor. William Andrew. ISBN 9781455731534.
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa Baliga, B. Jayant (2015). The IGBT Device: Physics, Design and Applications of the Insulated Gate Bipolar Transistor. William Andrew. pp. x–xiv. ISBN 9781455731534.
+
+^ a b c d e f g h i j k l m n o Baliga, B. Jayant (2010). Advanced Power MOSFET Concepts. Springer Science & Business Media. p. 554. ISBN 9781441959171.
+
+^ a b c d Lindley, David (15 May 2015). "Focus: Landmarks—Accidental Discovery Leads to Calibration Standard". Physics. 8: 46. doi:10.1103/Physics.8.46.
+
+^ a b K. v. Klitzing; G. Dorda; M. Pepper (1980). "New method for high-accuracy determination of the fine-structure constant based on quantized Hall resistance". Phys. Rev. Lett. 45 (6): 494–497. Bibcode:1980PhRvL..45..494K. doi:10.1103/PhysRevLett.45.494.
+
+^ Jun-ichi Wakabayashi; Shinji Kawaji (1978). "Hall effect in silicon MOS inversion layers under strong magnetic fields". J. Phys. Soc. Jpn. 44 (6): 1839. Bibcode:1978JPSJ...44.1839W. doi:10.1143/JPSJ.44.1839.
+
+^ Gilder, George (1990). Microcosm: The Quantum Revolution In Economics And Technology. Simon and Schuster. pp. 86-9, 95, 145–8, 300. ISBN 9780671705923.
+
+^ Datta, Kanak; Khosru, Quazi D. M. (1 April 2016). "III–V tri-gate quantum well MOSFET: Quantum ballistic simulation study for 10nm technology and beyond". Solid-State Electronics. 118: 66–77. arXiv:1802.09136. Bibcode:2016SSEle.118...66D. doi:10.1016/j.sse.2015.11.034. ISSN 0038-1101. S2CID 101934219.
+
+^ Kulkarni, Jaydeep P.; Roy, Kaushik (2010). "Technology/Circuit Co-Design for III-V FETs". In Oktyabrsky, Serge; Ye, Peide (eds.). Fundamentals of III-V Semiconductor MOSFETs. Springer Science & Business Media. pp. 423–442. doi:10.1007/978-1-4419-1547-4_14. ISBN 978-1-4419-1547-4.
+
+^ Lin, Jianqiang (2015). InGaAs Quantum-Well MOSFETs for logic applications (Thesis). Massachusetts Institute of Technology. hdl:1721.1/99777.
+
+^ "WHAT'S NEWS: A review of the latest happenings in electronics", Radio-Electronics, vol. 62, no. 5, Gernsback, May 1991
+
+^ a b c d e Butler, P. M. (29 August 1989). Interplanetary Monitoring Platform (PDF). NASA. pp. 1, 11, 134. Retrieved 12 August 2019.
+
+^ a b c White, H. D.; Lokerson, D. C. (1971). "The Evolution of IMP Spacecraft Mosfet Data Systems". IEEE Transactions on Nuclear Science. 18 (1): 233–236. Bibcode:1971ITNS...18..233W. doi:10.1109/TNS.1971.4325871. ISSN 0018-9499.
+
+^ a b c d Butrica, Andrew J. (2015). "Chapter 3: NASA's Role in the Manufacture of Integrated Circuits" (PDF). In Dick, Steven J. (ed.). Historical Studies in the Societal Impact of Spaceflight. NASA. pp. 149-250 (239-42). ISBN 978-1-62683-027-1.
+
+^ a b Avron, Alex (11 February 2019). "Is Tesla's production creating a SiC MOSFET shortage?". PntPower. Retrieved 21 December 2019.
+
+^ a b "Tesla claims its latest self-driving chip is 7 times more powerful than its rivals'". VentureBeat. 22 April 2019. Retrieved 21 December 2019.
+
+^ a b c "Light electric vehicles". Infineon Technologies. Retrieved 24 December 2019.
+
+^ a b c d e f g h i j k l m "Automotive application guide" (PDF). Infineon. November 2018. Retrieved 23 December 2019.
+
+^ a b Wilson, Peter H. (May 2005). "Automotive MOSFETs in Linear Applications: Thermal Instability" (PDF). Infineon. Retrieved 24 December 2019.
+
+^ Schweber, Bill (18 August 2015). "Linear Motor Aircraft Launch System Takes the Steam Out of Catapults". GlobalSpec. Institute of Electrical and Electronics Engineers. Retrieved 29 December 2019.
+
+^ Riethmuller, W.; Benecke, W.; Schnakenberg, U.; Wagner, B. (June 1991). "Development of commercial CMOS process-based technologies for the fabrication of smart accelerometers". TRANSDUCERS '91: 1991 International Conference on Solid-State Sensors and Actuators. Digest of Technical Papers. pp. 416–419. doi:10.1109/SENSOR.1991.148900. ISBN 0-87942-585-7. S2CID 111284977.
+
+^ a b c d e "MOSFET DIFFERENTIAL AMPLIFIER" (PDF). Boston University. Retrieved 10 August 2019.
+
+^ Hu, Chenming (13 February 2009). "MOS Capacitor" (PDF). UC Berkeley. Retrieved 6 October 2019.
+
+^ Sze, Simon Min; Lee, Ming-Kwei (May 2012). "MOS Capacitor and MOSFET". Semiconductor Devices: Physics and Technology. John Wiley & Sons. ISBN 9780470537947. Retrieved 6 October 2019.
+
+^ Baker, R. Jacob (2011). CMOS: Circuit Design, Layout, Simulation. John Wiley & Sons. ISBN 9781118038239.
+
+^ "The Foundation of Today's Digital World: The Triumph of the MOS Transistor". Computer History Museum. 13 July 2010. Retrieved 21 July 2019.
+
+^ Chan, Yi-Jen (1992). Studies of InAIAs/InGaAs and GaInP/GaAs heterostructure FET's for high speed applications. University of Michigan. p. 1. The Si MOSFET has revolutionized the electronics industry and as a result impacts our daily lives in almost every conceivable way.
+
+^ Lécuyer, Christophe (2006). Making Silicon Valley: Innovation and the Growth of High Tech, 1930–1970. Chemical Heritage Foundation. pp. 253–6 & 273. ISBN 9780262122818.
+
+^ "60s Trends in the Semiconductor Industry". Semiconductor History Museum of Japan. Retrieved 7 August 2019.
+
+^ a b "1979: Single Chip Digital Signal Processor Introduced". The Silicon Engine. Computer History Museum. Retrieved 13 May 2019.
+
+^ Hays, Patrick (16 April 2004). "DSPs: Back to the Future". ACM Queue. 2 (1): 42–51. doi:10.1145/984458.984485.
+
+^ a b Electronic Components. U.S. Government Printing Office. 1974. p. 46.
+
+^ Bapat, Y. N. (1992). Electronic Circuits and Systems : Analog and Digital,1e. Tata McGraw-Hill Education. p. 119. ISBN 978-0-07-460040-5.
+
+^ Lewallen, D. R. (1969). "Mos LSI computer aided design system". Proceedings of the 6th annual conference on Design Automation - DAC '69. DAC '69 Proceedings of the 6th annual Design Automation Conference. pp. 91–101. doi:10.1145/800260.809019.
+
+^ Van Beek, H. W. (May 1972). "Computer-aided design of MOS/LSI circuits". Proceedings of the November 16-18, 1971, fall joint computer conference on - AFIPS '71 (Fall). AFIPS '72 (Spring) Proceedings of the 16–18 May 1972, spring joint computer conference. pp. 1059–1063. doi:10.1145/1478873.1479014.
+
+^ Tsu-Jae King, Liu (11 June 2012). "FinFET: History, Fundamentals and Future". University of California, Berkeley. Symposium on VLSI Technology Short Course. Archived from the original on 28 May 2016. Retrieved 9 July 2019.
+
+^ Hisamoto, Digh; Hu, Chenming; Liu, Tsu-Jae King; Bokor, Jeffrey; Lee, Wen-Chin; Kedzierski, Jakub; Anderson, Erik; Takeuchi, Hideki; Asano, Kazuya (December 1998). "A folded-channel MOSFET for deep-sub-tenth micron era". International Electron Devices Meeting 1998. Technical Digest (Cat. No.98CH36217). pp. 1032–1034. doi:10.1109/IEDM.1998.746531. ISBN 0-7803-4774-9. S2CID 37774589.
+
+^ Jayant, Hemang Kumar; Arora, Manish (24–28 July 2019). "Induction Heating Based 3D Metal Printing of Eutectic Alloy Using Vibrating Nozzle". In Nicolantonio, Massimo Di; Rossi, Emilio; Alexander, Thomas (eds.). Advances in Additive Manufacturing, Modeling Systems and 3D Prototyping: Proceedings of the AHFE 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping. Springer International Publishing. pp. 71–80. doi:10.1007/978-3-030-20216-3_7. ISBN 978-3-030-20216-3. S2CID 197613137.
+
+^ Evans, Brian (2012). Practical 3D Printers: The Science and Art of 3D Printing. Apress. p. 31. ISBN 978-1-4302-4393-9.
+
+^ Lee, Thomas H. (2004). The Design of CMOS Radio-Frequency Integrated Circuits. Cambridge University Press. p. 121. ISBN 978-0-521-83539-8.
+
+^ Ballou, Glen (2013). Handbook for Sound Engineers. Taylor & Francis. ISBN 9781136122538.
+
+^ Feldman, Leonard C. (2001). "Introduction". Fundamental Aspects of Silicon Oxidation. Springer Science & Business Media. pp. 1–11. ISBN 9783540416821.
+
+^ Dabrowski, Jarek; Müssig, Hans-Joachim (2000). "1.2. The Silicon Age". Silicon Surfaces and Formation of Interfaces: Basic Science in the Industrial World. World Scientific. pp. 3–13. ISBN 9789810232863.
+
+^ Lança, Luís; Silva, Augusto (2013). "Digital Radiography Detectors: A Technical Overview". Digital Imaging Systems for Plain Radiography. New York: Springer. pp. 14–17. doi:10.1007/978-1-4614-5067-2_2. hdl:10400.21/1932. ISBN 978-1-4614-5066-5.
+
+^ Kump, K; Grantors, P; Pla, F; Gobert, P (December 1998). "Digital X-ray detector technology". RBM-News. 20 (9): 221–226. doi:10.1016/S0222-0776(99)80006-6.
+
+^ "CMOS Image Sensors Market 2020 to 2025 By Technology Growth and Demand: STMicroelectronics N.V, Sony Corporation, Samsung Electronics". MarketWatch. 9 March 2020. Retrieved 17 April 2020.
+
+
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal-oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck–boost
+Split-pi
+Ćuk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+
+vteLogic familiesMOS technology
+PMOS logic
+NMOS logic
+Depletion-load NMOS logic (including HMOS)
+Complementary MOS (CMOS)
+Pass transistor logic (PTL)
+Bipolar–CMOS (BiCMOS)
+Other technologies
+Diode logic
+Diode–transistor logic (DTL)
+Open collector (OC)
+Direct-coupled transistor logic (DCTL)
+Emitter-coupled logic (ECL)
+Gunning transceiver logic (GTL)
+Integrated injection logic (I2L)
+Resistor–transistor logic (RTL)
+Transistor–transistor logic (TTL)
+Current mode logic / Source-coupled logic (CML/SCL)
+Types
+Static
+Dynamic
+Domino logic
+Four-phase logic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_MOSFET_applications&oldid=1279162200#MOS_integrated_circuit"
+Categories: MOSFETs1960 introductions20th-century inventionsArab inventionsBiosensorsDigital electronicsElectronic designIntegrated circuitsSemiconductor devicesSensorsSiliconSolid state switchesSouth Korean inventionsTransistor amplifiersTransistor typesTransistorsHidden categories: CS1 errors: ISBN dateCS1: long volume valueCS1 maint: location missing publisherAll articles with dead external linksArticles with dead external links from July 2023Articles with permanently dead external linksArticles with short descriptionShort description is different from WikidataAccuracy disputes from July 2022All accuracy disputesUse dmy dates from April 2020All Wikipedia articles needing clarificationWikipedia articles needing clarification from January 2016All articles with unsourced statementsArticles with unsourced statements from January 2016Articles with disputed statements from January 2016Articles needing additional references from February 2023All articles needing additional referencesArticles containing potentially dated statements from 2010All articles containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 6 March 2025, at 22:16 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of MOSFET applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

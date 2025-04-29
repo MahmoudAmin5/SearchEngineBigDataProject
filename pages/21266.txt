@@ -1,0 +1,522 @@
+https://en.wikipedia.org/wiki/Multimedia_computer
+
+
+
+
+Multimedia computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Multimedia computer
+
+
+
+1 language
+
+
+
+
+العربية
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+A computer that is optimized for multimedia performance
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Multimedia computer" – news · newspapers · books · scholar · JSTOR (January 2022) (Learn how and when to remove this message)
+A multimedia computer is a computer that is optimized for multimedia performance.
+Early home computers lacked the power and storage necessary for true multimedia. The games for these systems, along with the demo scene, were able to achieve high sophistication and technical polish using only simple, blocky graphics and digitally generated sound.
+The Amiga 1000 from Commodore International has been called the first multimedia computer.[1] Its groundbreaking animation, graphics and sound technologies enabled multimedia content to flourish. Famous demos such as the Boing Ball[2] and Juggler[3] showed off the Amiga's abilities. Later the Atari ST series and Apple Macintosh II extended the concept; the Atari integrated a MIDI port and was the first computer under US$1000 to have 1 megabyte of RAM, which is a realistic minimum for multimedia content, and the Macintosh was the first computer able to display true photorealistic graphics as well as integrating a CD-ROM drive, whose high capacity was essential for delivering multimedia content in the pre-Internet era.
+While the Commodore machines had the hardware to present multimedia of the kinds listed above, they lacked a way to create it easily. One of the earliest authoring systems on the market for creating and deploying multimedia content can be found in the archives of the Smithsonian Institution and is called VirtualVideo.[4] It consisted of a standard PC with an added digital imaging board, an added digital audio capture board (that was sold as a phone answering device), and the DOS authoring software, VirtualVideo Producer. The system stored content on a local hard drive but could use networked computer storage as well. The name for the software was used because at the time, the mid-1980s, the term multimedia was used to describe slide shows with sound. This software was later sold as Tempra,[5] and in 1993 was included with Tay Vaugh's first edition of Multimedia: Making It Work. 
+Multimedia capabilities were not common on IBM PC compatibles until the advent of Windows 3.0 and the MPC standards in the early 1990s. The original PCs were devised as "serious" business machines and colorful graphics and powerful sound abilities weren't a priority. The few games available suffered from slow video hardware, PC speaker sound and limited color palette when compared to its contemporaries. But as PCs penetrated the home market in the late 1980s, a thriving industry arose to equip PCs to take advantage of the latest sound, graphics and animation technologies. Creative's SoundBlaster series of sound cards, as well as video cards from ATI, Nvidia and Matrox, soon became standard equipment for most PCs sold.
+As of 2021[update], most PCs have good multimedia features. They have dual or more core CPUs clocked at 2.0 GHz or faster, at least 4 GB of RAM and an integrated graphics processing unit.  Popular graphics cards include Nvidia GeForce or AMD Radeon. The Intel Core and AMD Ryzen platform, and Microsoft Windows 10 and Windows 11 are some of today's products that excel at multimedia computing.
+More recently, high-performance devices have become more compact, and multimedia computer capabilities are found in mobile devices such as the Apple iPhone and many Android phones, featuring DVD-like video quality, multi-megapixel cameras, music and video players, and internet call (VoIP) functionality.
+
+References[edit]
+
+
+^ Tom R. Halfhill (August 1994). "R.I.P. Commodore 1954-1994". www.byte.com. Archived from the original on 7 April 2007.
+
+^ Archived at Ghostarchive and the Wayback Machine: Amiga Boing Ball. YouTube.
+
+^ Archived at Ghostarchive and the Wayback Machine: Behold the Juggler. YouTube.
+
+^ "AT&T 6300 Microcomputer and VirtualVideo Producer Software".
+
+^ "Software, TEMPRA Media Author! And Documentation, Tempra Show Reference Guide".
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Multimedia_computer&oldid=1284485944"
+Categories: Classes of computersMicrocomputersMultimedia1990s fads and trends1980s fads and trendsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from January 2022All articles needing additional referencesArticles containing potentially dated statements from 2021All articles containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 7 April 2025, at 21:45 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Multimedia computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 language
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

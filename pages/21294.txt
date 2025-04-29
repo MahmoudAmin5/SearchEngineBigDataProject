@@ -1,0 +1,648 @@
+https://en.wikipedia.org/wiki/System_in_a_package
+
+
+
+
+System in a package - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Technology
+
+
+
+
+
+
+
+
+2
+Suppliers
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+System in a package
+
+
+
+9 languages
+
+
+
+
+AzərbaycancaCatalàDeutschفارسیFrançais한국어Nederlands日本語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Electronic component
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "System in a package" – news · newspapers · books · scholar · JSTOR (February 2014) (Learn how and when to remove this message)
+CAD drawing of a SiP multi-chip which contains a processor, memory and storage on a single substrate
+A system in a package (SiP) or system-in-package is a number of integrated circuits (ICs) enclosed in one  chip carrier package or encompassing an IC package substrate that may include passive components and perform the functions of an entire system. The ICs may be stacked using package on package, placed side by side, and/or embedded in the substrate.[1] The SiP performs all or most of the functions of an electronic system, and is typically used when designing components for mobile phones, digital music players, etc.[2] Dies containing integrated circuits may be stacked vertically on the package substrate. They are internally connected by fine wires that are bonded to the package substrate. Alternatively, with a flip chip technology, solder bumps are used to join stacked chips together and to the package substrate, or even both techniques can be used in a single package. SiPs are like systems on a chip (SoCs) but less tightly integrated and not on a single semiconductor die.[3]
+SIPs can be used either to reduce the size of a system, improve performance or to reduce costs.[4][5] The technology evolved from multi chip module (MCM) technology, the difference being that SiPs also use die stacking, which stacks several chips or dies on top of each other.[6][7]
+
+
+Technology[edit]
+SiP dies can be stacked vertically or tiled horizontally, with techniques like chiplets or quilt packaging. SiPs connect the dies with standard off-chip wire bonds or solder bumps, unlike slightly denser three-dimensional integrated circuits which connect stacked silicon dies with conductors running through the die using through-silicon vias. Many different 3D packaging techniques have been developed for stacking many fairly standard chip dies into a compact area.[8]
+SiPs can contain several chips or dies—such as a specialized processor, DRAM, flash memory—combined with passive components—resistors and capacitors—all mounted on the same substrate. This means that a complete functional unit can be built in a single package, so that few external components need to be added to make it work. This is particularly valuable in space constrained environments like MP3 players and mobile phones as it reduces the complexity of the printed circuit board and overall design. Despite its benefits, this technique decreases the yield of fabrication since any defective chip in the package will result in a non-functional packaged integrated circuit, even if all other modules in that same package are functional.
+SiPs are in contrast to the common system on a chip (SoC) integrated circuit architecture which integrates components based on function into a single circuit die. An SoC will typically integrate a CPU, graphics and memory interfaces, hard-disk and USB connectivity, random-access and read-only memories, and secondary storage and/or their controllers on a single die. In comparison an SiP would connect these modules as discrete components in one or more chip packages or dies. An SiP resembles the common traditional motherboard-based PC architecture, as it separates components based on function and connects them through a central interfacing circuit board. An SiP has a lower grade of integration in comparison to an SoC. Hybrid integrated circuits (HICs) are somewhat similar to SiPs, however they tend to handle analog signals[9] whereas SiPs usually handle digital signals,[10][11][12][13][14] because of this HICs use older or less advanced technology (tend to use single layer circuit boards or substrates, not use die stacking, do not use flip chip or BGA for connecting components or dies, use only wire bonding for connecting dies or Small outline integrated circuit packages, use Dual in-line packages, or Single in-line packages for interfacing outside the Hybrid IC instead of BGA, etc.).[15]
+SiP technology is primarily being driven by early market trends in wearables, mobile devices and the internet of things which do not demand the high numbers of produced units as in the established consumer and business SoC market. As the internet of things becomes more of a reality and less of a vision, there is innovation going on at the system on a chip and SiP level so that microelectromechanical (MEMS) sensors can be integrated on a separate die and control the connectivity.[16]
+SiP solutions may require multiple packaging technologies, such as flip chip, wire bonding, wafer-level packaging, Through-silicon vias (TSVs), chiplets and more.[17][7]
+
+Suppliers[edit]
+
+Advanced Micro Devices
+Amkor Technology
+Atmel
+AMPAK Technology Inc.
+NANIUM, S.A.
+ASE Group
+CeraMicro
+ChipSiP Technology
+Cypress Semiconductor
+STATS ChipPAC Ltd
+Toshiba
+Renesas
+SanDisk
+Samsung
+Silicon Labs
+Octavo Systems
+Nordic Semiconductor
+JCET
+Desay Sip
+Universal Scientific Industrial (USI)
+
+See also[edit]
+Advanced packaging (semiconductors)
+Multi-chip module
+System on a chip (SoC)
+Hybrid integrated circuit (HIC)
+References[edit]
+
+
+^ INEMI System in Package Technology, thor.inemi.org, June 2005, Retrieved 2024-01-24
+
+^  By Pushkar Apte, W. R. Bottoms, William Chen and George Scalise, IEEE Spectrum. “Advanced Chip Packaging Satisfies Smartphone Needs.” February 8, 2011. Retrieved July 31, 2015.
+
+^ System-in-Package (SiP), a success story // AnySilicon, February 21, 2020
+
+^ "System-in-Package (SiP), a success story". 21 February 2020.
+
+^ "Here's why System-in-Package is a big deal for Apple's upcoming iWatch, and everything else". 30 April 2014.
+
+^ "MCM, SiP, SoC, and Heterogeneous Integration Defined and Explained". 7 August 2017.
+
+^ a b "SiP is the new SoC @ 56thDAC". 21 February 2024.
+
+^ By R. Wayne Johnson, Mark Strickland and David Gerke, NASA Electronic Parts and Packaging Program. “3-D Packaging: A Technology Review.” June 23, 2005. Retrieved July 31, 2015.
+
+^ "Definition of hybrid microcircuit".
+
+^ "The Apple Watch Review".
+
+^ "Apple Watch Teardown". 23 April 2015.
+
+^ "Analysis of Apple Watch's S1 chip reveals 30 individual components in 'very unique' package". 7 May 2015.
+
+^ "Introduction to MEMS Microphone Technology—Analog vs Digital Microphones - Technical Articles".
+
+^  All components in the Apple S1 SIP have digital interfaces for example amplifiers, the STM32 microcontroller, gyroscopes, MEMS microphones, power management ICs, NFC chips which can be seen by looking at their datasheets or datasheets of similar products from the same manufacturers like https://www.analog.com/media/en/technical-documentation/data-sheets/MAX98390.pdf https://www.renesas.com/us/en/document/dst/da9080-datasheet https://www.st.com/resource/en/datasheet/lsm6dsox.pdf www.sensors.ch/doc/wearables_eloy_markets.pdf 
+ www.alldatasheet.com/datasheet-pdf/pdf/1132058/BOARDCOM/BCM4334X.html
+
+^ Ko, Cheng-Ta; Yang, Henry; Lau, John; Li, Ming; Li, Margie; Lin, Curry; Lin, J. W.; Chang, Chieh-Lin; Pan, Jhih-Yuan; Wu, Hsing-Hui; Chen, Yu-Hua; Chen, Tony; Xu, Iris; Lo, Penny; Fan, Nelson (2018-10-01). "Design, Materials, Process, and Fabrication of Fan-Out Panel-Level Heterogeneous Integration". Journal of Microelectronics and Electronic Packaging. 15 (4): 141–147. doi:10.4071/imaps.734552. ISSN 1551-4897. S2CID 226940879.
+
+^ By Ed Sperling, Semiconductor Engineering. “Why Packaging Matters.” November 19, 2015. Retrieved March 16, 2016.
+
+^ By Tech Search International and Chip Scale Review Staff, Chip Scale Review. “Major OSATs positioned for growth opportunities in SiP.” May/June Issue. Retrieved June 22, 2016.
+
+
+vteSystem on a chip (SoC)Components
+Microprocessor
+cores
+controllers
+Graphics processing unit (GPU)
+Image processor
+Media processor
+AI accelerator
+ASIC
+Types
+Network on a chip (NoC)
+Multiprocessor SoC (MPSoC)
+Programmable SoC (PSoC)
+Microcontroller (MCU)
+Alternatives
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+Related
+Processor
+chronology
+design
+CPLD
+Digital signal processor (DSP)
+Embedded systems
+FPGA
+List of SoC suppliers
+Mobile computing
+Unified memory
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=System_in_a_package&oldid=1256832041"
+Categories: Packaging (microfabrication)Integrated circuitsElectronic designMicrotechnologyComputer systemsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from February 2014All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 11 November 2024, at 20:00 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+System in a package
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

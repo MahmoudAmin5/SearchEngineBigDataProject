@@ -1,0 +1,866 @@
+https://en.wikipedia.org/wiki/Outline_of_computers
+
+
+
+
+Outline of computers - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+What type of thing is a computer?
+
+
+
+
+
+
+
+
+2
+Types of computers
+
+
+
+
+
+
+
+
+3
+Computer architecture
+
+
+
+
+Toggle Computer architecture subsection
+
+
+
+
+
+3.1
+Computer components
+
+
+
+
+
+
+
+
+
+
+4
+Computer performance
+
+
+
+
+
+
+
+
+5
+Computing
+
+
+
+
+
+
+
+
+6
+Computer science
+
+
+
+
+
+
+
+
+7
+History of computers
+
+
+
+
+
+
+
+
+8
+Computers and culture
+
+
+
+
+
+
+
+
+9
+Computer industry
+
+
+
+
+Toggle Computer industry subsection
+
+
+
+
+
+9.1
+Computer manufacturing
+
+
+
+
+
+
+
+
+9.2
+Computer engineering
+
+
+
+
+
+
+
+
+9.3
+Software industry
+
+
+
+
+
+
+9.3.1
+Software development
+
+
+
+
+
+
+
+
+9.3.2
+Software engineering
+
+
+
+
+
+
+
+
+
+
+
+
+10
+Computer organizations
+
+
+
+
+
+
+
+
+11
+Computer publications
+
+
+
+
+
+
+
+
+12
+Persons influential in computers
+
+
+
+
+
+
+
+
+13
+See also
+
+
+
+
+
+
+
+
+14
+References
+
+
+
+
+
+
+
+
+15
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Outline of computers
+
+
+
+2 languages
+
+
+
+
+فارسیTürkçe
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Overview of and topical guide to computers
+The following outline is provided as an overview of and topical guide to computers:
+Computers – programmable machines designed to automatically carry out sequences of arithmetic or logical operations. The sequences of operations can be changed readily, allowing computers to solve more than one kind of problem.
+
+
+What type of thing is a computer?[edit]
+Computers can be described as all of the following:
+
+Tools –
+Machines –
+Business machines –
+Systems –
+Types of computers[edit]
+Mainframe computer –
+Super computer –
+Midrange computer –
+Personal computer –
+Desktop computer –
+Microcomputer –
+Mobile computer and mobile device –
+Smartphone –
+Tablet computer –
+Laptop –
+Computer appliance –
+Business machine –
+Information appliance –
+Smartphone –
+Smart TV –
+Computer architecture[edit]
+Computer architecture –
+
+Computer components[edit]
+Motherboard –
+Processor –
+Graphics processor –
+RAM –
+ROM –
+Floppy disk –
+Hard drive –
+Input devices –
+Keyboard –
+Keyboard technology –
+Projection keyboard –
+Roll-up keyboard
+Virtual keyboard –
+Wireless keyboard –
+Mouse –
+Computer performance[edit]
+Computer performance by orders of magnitude
+Computing[edit]
+See: Outline of computing
+Computer science[edit]
+See: Outline of computer science
+History of computers[edit]
+History of computing hardware
+
+Analog computers
+History of computer components
+Punched cards
+History of general purpose CPUs
+History of the floppy disk
+History of personal computers
+Computers and culture[edit]
+Social media
+memes
+Computer industry[edit]
+Computer manufacturing[edit]
+List of computer hardware manufacturers
+Hewlett-Packard
+Toshiba
+Dell
+Apple
+Acer
+Asus
+Computer engineering[edit]
+See: Outline of computer engineering
+Software industry[edit]
+Personal computers
+Microsoft
+Apple
+Linux
+Business computers
+IBM
+Oracle
+Internet
+Google
+Facebook
+Yahoo!
+AOL
+eBay
+PayPal
+Software development[edit]
+Software development –
+
+List of software development philosophies
+Programming language
+Software engineering[edit]
+See: Outline of software engineering
+Computer organizations[edit]
+Users' group   (list)
+Computer publications[edit]
+Computer magazines –
+See List of computer magazines
+Online –
+
+CNET
+ZDNet
+Wired.com
+Wired.co.uk
+Huffington Post
+Techcrunch
+Engadget
+News Corp
+All things D
+Persons influential in computers[edit]
+List of pioneers in computer science
+Charles Babbage
+Alan Turing
+Grace Hopper
+Thomas J. Watson
+Thomas Watson, Jr.
+Bill Gates
+Paul Allen
+Steve Jobs
+Steve Wozniak
+Robert Noyce
+Andrew Grove
+Linus Torvalds
+See also[edit]
+Outline of computer engineering
+Outline of computer programming
+Outline of computer science
+Outline of computer security
+Outline of computer vision
+Outline of computing
+
+References[edit]
+
+
+External links[edit]
+
+
+Computers  at Wikipedia's sister projects
+
+Definitions from WiktionaryMedia from CommonsNews from WikinewsQuotations from WikiquoteTexts from WikisourceTextbooks from WikibooksResources from Wikiversity
+
+vteWikipedia outlines
+General reference
+Culture and the arts
+Geography and places
+Health and fitness
+History and events
+Mathematics and logic
+Natural and physical sciences
+People and self
+Philosophy and thinking
+Religion and belief systems
+Society and social sciences
+Technology and applied sciences
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Outline_of_computers&oldid=1209986703"
+Categories: ComputersOutlines of sciencesOutlinesHidden categories: Articles with short descriptionShort description matches WikidataPages using Sister project links with default search
+
+
+
+
+
+
+ This page was last edited on 24 February 2024, at 13:02 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Outline of computers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

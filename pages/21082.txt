@@ -1,0 +1,936 @@
+https://en.wikipedia.org/wiki/Organic_electronics
+
+
+
+
+Organic electronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Electrically conductive polymers
+
+
+
+
+
+
+
+
+1.2
+Electrically conductive charge transfer salts
+
+
+
+
+
+
+
+
+1.3
+Light and electrical conductivity
+
+
+
+
+
+
+
+
+
+
+2
+Conductive organic materials
+
+
+
+
+
+
+
+
+3
+Organic light-emitting diode
+
+
+
+
+
+
+
+
+4
+Organic field-effect transistor
+
+
+
+
+
+
+
+
+5
+Organic electronic devices
+
+
+
+
+Toggle Organic electronic devices subsection
+
+
+
+
+
+5.1
+Fabrication methods
+
+
+
+
+
+
+
+
+5.2
+Organic solar cells
+
+
+
+
+
+
+
+
+5.3
+Organic field-effect transistors
+
+
+
+
+
+
+
+
+
+
+6
+Features
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Further reading
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Organic electronics
+
+
+
+11 languages
+
+
+
+
+العربيةCatalàDeutschEestiEspañolفارسیFrançaisМонголРусскийTürkçe中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Field of materials science
+
+
+Organic CMOS logic circuit. Total thickness is less than 3 μm. Scale bar: 25 mm
+Organic electronics is a field of materials science concerning the design, synthesis, characterization, and application of organic molecules or polymers that show desirable electronic properties such as conductivity. Unlike conventional inorganic conductors and semiconductors, organic electronic materials are constructed from organic (carbon-based) molecules or polymers using synthetic strategies developed in the context of organic chemistry and polymer chemistry.
+One of the promised benefits of organic electronics is their potential low cost compared to traditional electronics.[1][2][3] Attractive properties of polymeric conductors include their electrical conductivity (which can be varied by the concentrations of dopants) and comparatively high mechanical flexibility. Challenges to the implementation of organic electronic materials are their inferior thermal stability, high cost, and diverse fabrication issues.
+
+
+History[edit]
+Electrically conductive polymers[edit]
+Traditional conductive materials are inorganic, especially metals such as copper and aluminum as well as many alloys.[citation needed]
+In 1862 Henry Letheby described polyaniline, which was subsequently shown to be electrically conductive. Work on other polymeric organic materials began in earnest in the 1960s. For example in 1963, a derivative of tetraiodopyrrole was shown to exhibit conductivity of 1 S/cm (S = Siemens).[4] In 1977, it was discovered that oxidation enhanced the conductivity of polyacetylene. The 2000 Nobel Prize in Chemistry was awarded to Alan J. Heeger, Alan G. MacDiarmid, and Hideki Shirakawa jointly for their work on polyacetylene and related conductive polymers.[5] Many families of electrically conducting polymers have been identified including polythiophene, polyphenylene sulfide, and others.
+J.E. Lilienfeld[6] first proposed the field-effect transistor in 1930, but the first OFET was not reported until 1987, when Koezuka et al. constructed one using Polythiophene[7] which shows extremely high conductivity. Other conductive polymers have been shown to act as semiconductors, and newly synthesized and characterized compounds are reported weekly in prominent research journals. Many review articles exist documenting the development of these materials.[8][9][10][11][12]
+In 1987, the first organic diode was produced at Eastman Kodak by Ching W. Tang and Steven Van Slyke.[13]
+
+Electrically conductive charge transfer salts[edit]
+In the 1950s, organic molecules were shown to exhibit electrical conductivity. Specifically, the organic compound pyrene was shown to form semiconducting charge-transfer complex salts with halogens.[14] In 1972, researchers found metallic conductivity (conductivity comparable to a metal) in the charge-transfer complex TTF-TCNQ.
+
+Light and electrical conductivity[edit]
+André Bernanose[15][16] was the first person to observe electroluminescence in organic materials. Ching W. Tang and Steven Van Slyke,[17] reported fabrication of the first practical OLED device in 1987. The OLED device incorporated a double-layer structure motif composed of  copper phthalocyanine and a derivative of perylenetetracarboxylic dianhydride.[18]
+In 1990, a polymer light emitting diodes was demonstrated by Bradley, Burroughes, Friend. Moving from molecular to macromolecular materials solved the problems previously encountered with the long-term stability of the organic films and enabled high-quality films to be easily made.[19] In the late 1990's, highly efficient electroluminescent dopants were shown to dramatically increase the light-emitting efficiency of OLEDs[20]  These results suggested that electroluminescent materials could displace traditional hot-filament lighting. Subsequent research developed multilayer polymers and the new field of plastic electronics and organic light-emitting diodes (OLED) research and device production grew rapidly.[21]
+
+Conductive organic materials[edit]
+Edge-on view of portion of crystal structure of hexamethylene TTF-TCNQ charge transfer salt, highlighting the segregated stacking.  Such molecular semiconductors exhibit anisotropic electrical conductivity.[22]
+Organic conductive materials can be grouped into two main classes: polymers and conductive molecular solids and salts.  Polycyclic aromatic compounds such as pentacene and rubrene often form semiconducting materials when partially oxidized.
+Conductive polymers are often typically intrinsically conductive or at least semiconductors. They sometimes show mechanical properties comparable to those of conventional organic polymers. Both organic synthesis and advanced dispersion techniques can be used to tune the electrical properties of conductive polymers, unlike typical inorganic conductors. Well-studied class of conductive polymers include polyacetylene, polypyrrole, polythiophenes, and polyaniline. Poly(p-phenylene vinylene) and its derivatives are electroluminescent semiconducting polymers. Poly(3-alkythiophenes) have been incorporated into prototypes of solar cells and transistors.
+
+Organic light-emitting diode[edit]
+Main articles: OLED and AMOLED
+An OLED (organic light-emitting diode) consists of a thin film of organic material that emits light under stimulation by an electric current. A typical OLED consists of an anode, a cathode, OLED organic material and a conductive layer.[23]
+
+Br6A, a next generation pure organic light emitting crystal family
+Schematic of a bilayer OLED: 1. Cathode (−), 2. Emissive layer, 3. Emission of radiation, 4. Conductive layer, 5. Anode (+)
+OLED organic materials can be divided into two major families: small-molecule-based and polymer-based. Small molecule OLEDs (SM-OLEDs) include tris(8-hydroxyquinolinato)aluminium[17] fluorescent and phosphorescent dyes, and conjugated dendrimers. Fluorescent dyes can be selected according to the desired range of emission wavelengths; compounds like perylene and rubrene are often used. Devices based on small molecules are usually fabricated by thermal evaporation under vacuum. While this method enables the formation of well-controlled homogeneous film; is hampered by high cost and limited scalability.[24]
+[25] Polymer light-emitting diodes (PLEDs) are generally more efficient than SM-OLEDs. Common polymers used in PLEDs include derivatives of poly(p-phenylene vinylene)[26] and polyfluorene. The emitted color is determined by the structure of the polymer. Compared to thermal evaporation, solution-based methods are more suited to creating films with large dimensions.
+
+Organic field-effect transistor[edit]
+Main article: Organic field-effect transistor
+Rubrene-OFET with the highest charge mobility
+An organic field-effect transistor (OFET) is a field-effect transistor utilizing organic molecules or polymers as the active semiconducting layer. A field-effect transistor (FET) is any semiconductor material that utilizes electric field to control the shape of a channel of one type of charge carrier, thereby changing its conductivity. Two major classes of FET are n-type and p-type semiconductor, classified according to the charge type carried. In the case of organic FETs (OFETs), p-type OFET compounds are generally more stable than n-type due to the susceptibility of the latter to oxidative damage.
+As for OLEDs, some OFETs are molecular and some are polymer-based system. Rubrene-based OFETs show high carrier mobility of 20–40 cm2/(V·s). Another popular OFET material is Pentacene. Due to its low solubility in most organic solvents, it's difficult to fabricate thin film transistors (TFTs) from pentacene itself using conventional spin-cast or, dip coating methods, but this obstacle can be overcome by using the derivative TIPS-pentacene.
+
+Organic electronic devices[edit]
+Main articles: Organic solar cell and Photovoltaics
+Organics-based flexible display
+Five structures of organic photovoltaic materials
+Organic solar cells could cut the cost of solar power compared with conventional solar-cell manufacturing.[27] Silicon thin-film solar cells on flexible substrates allow a significant cost reduction of large-area photovoltaics for several reasons:[28]
+
+The so-called 'roll-to-roll'-deposition on flexible sheets is much easier to realize in terms of technological effort than deposition on fragile and heavy glass sheets.
+Transport and installation of lightweight flexible solar cells also saves cost as compared to cells on glass.
+Inexpensive polymeric substrates like polyethylene terephthalate (PET) or polycarbonate (PC) have the potential for further cost reduction in photovoltaics. Protomorphous solar cells prove to be a promising concept for efficient and low-cost photovoltaics on cheap and flexible substrates for large-area production as well as small and mobile applications.[28]
+One advantage of printed electronics is that different electrical and electronic components can be printed on top of each other, saving space and increasing reliability and sometimes they are all transparent. One ink must not damage another, and low temperature annealing is vital if low-cost flexible materials such as paper and plastic film are to be used. There is much sophisticated engineering and chemistry involved here, with iTi, Pixdro, Asahi Kasei, Merck & Co.|Merck, BASF, HC Starck, Sunew, Hitachi Chemical, and Frontier Carbon Corporation among the leaders.[29]
+Electronic devices based on organic compounds are now widely used, with many new products under development. Sony reported the first full-color, video-rate, flexible, plastic display made purely of organic materials;[30][31] television screen based on OLED materials; biodegradable electronics based on organic compound and low-cost organic solar cell are also available.
+
+Fabrication methods[edit]
+Small molecule semiconductors are often insoluble, necessitating deposition via vacuum sublimation. Devices based on conductive polymers can be prepared by solution processing methods. Both solution processing and vacuum based methods produce amorphous and polycrystalline films with variable degree of disorder. "Wet" coating techniques require polymers to be dissolved in a volatile solvent, filtered and deposited onto a substrate. Common examples of solvent-based coating techniques include drop casting, spin-coating, doctor-blading, inkjet printing and screen printing. Spin-coating is a widely used technique for small area thin film production. It may result in a high degree of material loss. The doctor-blade technique results in a minimal material loss and was primarily developed for large area thin film production. Vacuum based thermal deposition of small molecules requires evaporation of molecules from a hot source. The molecules are then transported through vacuum onto a substrate. The process of condensing these molecules on the substrate surface results in thin film formation. Wet coating techniques can in some cases be applied to small molecules depending on their solubility.
+
+Organic solar cells[edit]
+Bilayer organic photovoltaic cell
+Organic semiconductor diodes convert light into electricity. Figure to the right shows five commonly used organic photovoltaic materials. Electrons in these organic molecules can be delocalized in a delocalized π orbital with a corresponding π* antibonding orbital. The difference in energy between the π orbital, or highest occupied molecular orbital (HOMO), and π* orbital, or lowest unoccupied molecular orbital (LUMO) is called the band gap of organic photovoltaic materials. Typically, the band gap lies in the range of 1-4eV.[32][33][34]
+The difference in the band gap of organic photovoltaic materials leads to different chemical structures and forms of organic solar cells. Different forms of solar cells includes single-layer organic photovoltaic cells, bilayer organic photovoltaic cells and heterojunction photovoltaic cells. However, all three of these types of solar cells share the approach of sandwiching the organic electronic layer between two metallic conductors, typically indium tin oxide.[35]
+
+Illustration of thin film transistor device
+Organic field-effect transistors[edit]
+An organic field-effect transistor is a three terminal device (source, drain and gate). The charge carriers move between source and drain, and the gate serves to control the path's conductivity. There are mainly two types of organic field-effect transistor, based on the semiconducting layer's charge transport, namely p-type (such as dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene, DNTT),[36] and n-type (such phenyl C61 butyric acid methyl ester, PCBM).[37] Certain organic semiconductors can also present both p-type and n-type (i.e., ambipolar) characteristics.[38]
+Such technology allows for the fabrication of large-area, flexible, low-cost electronics.[39] One of the main advantages is that being mainly a low temperature process compared to CMOS, different type of materials can be utilized. This makes them in turn great candidates for sensing.[40]
+
+Features[edit]
+Main article: Printed electronics
+Conductive polymers are lighter, more flexible, and less expensive than inorganic conductors. This makes them a desirable alternative in many applications. It also creates the possibility of new applications that would be impossible using copper or silicon.
+Organic electronics not only includes organic semiconductors, but also organic dielectrics, conductors and light emitters.
+New applications include smart windows and electronic paper. Conductive polymers are expected to play an important role in the emerging science of molecular computers.
+
+See also[edit]
+
+Electronics portal
+
+Annealing
+Bioplastic
+Carbon nanotube
+Circuit deposition
+Conductive ink
+Flexible electronics
+Laminar
+Melanin
+Organic field-effect transistor (OFET)
+Organic semiconductor
+Organic light-emitting diode
+Photodetector
+Printed electronics
+Radio frequency identification
+Radio tag
+Schön scandal
+Spin coating
+
+References[edit]
+
+
+^ Hagen Klauk (Ed.) Organic Electronics: Materials, Manufacturing and Applications  2006, Wiley-VCH, Weinheim. Print ISBN 9783527312641.
+
+^ Hagen Klauk (Ed.) Organic electronics. More materials and applications 2010, Wiley-VCH, Weinheim. ISBN 9783527640218 electronic bk.
+
+^ Paolo Samori, Franco Cacialli  Functional Supramolecular Architectures: for Organic Electronics and Nanotechnology 2010 Wiley ISBN 978-3-527-32611-2
+
+^ McNeill, R.; Siudak, R.; Wardlaw, J. H.; Weiss, D. E. (1963). "Electronic Conduction in Polymers. I. The Chemical Structure of Polypyrrole". Aust. J. Chem. 16 (6): 1056–1075. doi:10.1071/CH9631056.
+
+^ "The Nobel Prize in Chemistry 2000". Nobelprize.org. Nobel Media.
+
+^ CA 272437, Lilienfeld, Julius Edgar, "Electric current control mechanism", published 19 July 1927 
+
+^ Koezuka, H.; Tsumura, A.; Ando, T. (1987). "Field-effect transistor with polythiophene thin film". Synthetic Metals. 18 (1–3): 699–704. doi:10.1016/0379-6779(87)90964-7.
+
+^ Hasegawa, Tatsuo; Takeya, Jun (2009). "Organic field-effect transistors using single crystals". Sci. Technol. Adv. Mater. (free download). 10 (2): 024314. Bibcode:2009STAdM..10b4314H. doi:10.1088/1468-6996/10/2/024314. PMC 5090444. PMID 27877287.
+
+^ Yamashita, Yoshiro (2009). "Organic semiconductors for organic field-effect transistors". Sci. Technol. Adv. Mater. (free download). 10 (2): 024313. Bibcode:2009STAdM..10b4313Y. doi:10.1088/1468-6996/10/2/024313. PMC 5090443. PMID 27877286.
+
+^ Dimitrakopoulos, C.D.; Malenfant, P.R.L. (2002). "Organic Thin Film Transistors for Large Area Electronics". Adv. Mater. 14 (2): 99. Bibcode:2002AdM....14...99D. doi:10.1002/1521-4095(20020116)14:2<99::AID-ADMA99>3.0.CO;2-9.
+
+^ Reese, Colin; Roberts, Mark; Ling, Mang-Mang; Bao, Zhenan (2004). "Organic thin film transistors". Mater. Today. 7 (9): 20. doi:10.1016/S1369-7021(04)00398-0.
+
+^ Klauk, Hagen (2010). "Organic thin-film transistors". Chem. Soc. Rev. 39 (7): 2643–66. doi:10.1039/B909902F. PMID 20396828.
+
+^ Forrest, S. (2012). "Energy efficiency with organic electronics: Ching W. Tang revisits his days at Kodak". MRS Bulletin. 37 (6): 552–553. Bibcode:2012MRSBu..37..552F. doi:10.1557/mrs.2012.125.
+
+^ Mulliken, Robert S. (January 1950). "Structures of Complexes Formed by Halogen Molecules with Aromatic and with Oxygenated Solvents 1". Journal of the American Chemical Society. 72 (1): 600–608. Bibcode:1950JAChS..72..600M. doi:10.1021/ja01157a151. ISSN 0002-7863.
+
+^ Bernanose, A.; Comte, M.; Vouaux, P. (1953). "A new method of light emission by certain organic compounds". J. Chim. Phys. 50: 64–68. doi:10.1051/jcp/1953500064.
+
+^ Bernanose, A.; Vouaux, P. (1953). "Organic electroluminescence type of emission". J. Chim. Phys. 50: 261–263. doi:10.1051/jcp/1953500261.
+
+^ a b Tang, C. W.; Vanslyke, S. A. (1987). "Organic electroluminescent diodes". Applied Physics Letters. 51 (12): 913. Bibcode:1987ApPhL..51..913T. doi:10.1063/1.98799.
+
+^ Forrest, Stephen R. (2020). "Waiting for Act 2: What lies beyond organic light-emitting diode (OLED) displays for organic electronics?". Nanophotonics. 10 (1): 31–40. Bibcode:2020Nanop..10..322F. doi:10.1515/nanoph-2020-0322.
+
+^ Burroughes, J. H.; Bradley, D. D. C.; Brown, A. R.; Marks, R. N.; MacKay, K.; Friend, R. H.; Burns, P. L.; Holmes, A. B. (1990). "Light-emitting diodes based on conjugated polymers". Nature. 347 (6293): 539–541. Bibcode:1990Natur.347..539B. doi:10.1038/347539a0. S2CID 43158308.
+
+^ Baldo, M. A.; O'Brien, D. F.; You, Y.; Shoustikov, A.; Sibley, S.; Thompson, M. E.; Forrest, S. R. (1998). "Highly efficient phosphorescent emission from organic electroluminescent devices". Nature. 395 (6698): 151–154. Bibcode:1998Natur.395..151B. doi:10.1038/25954. S2CID 4393960.
+
+^ National Research Council (2015). The Flexible Electronics Opportunity. The National Academies Press. pp. 105–6. ISBN 978-0-309-30591-4.
+
+^ D. Chasseau; G. Comberton; J. Gaultier; C. Hauw (1978). "Réexamen de la structure du complexe hexaméthylène-tétrathiafulvalène-tétracyanoquinodiméthane". Acta Crystallographica Section B. 34 (2): 689. Bibcode:1978AcCrB..34..689C. doi:10.1107/S0567740878003830.
+
+^ Daniel J. Gaspar, Evgueni Polikarpov, ed. (2015). OLED Fundamentals: Materials, Devices, and Processing of Organic Light-Emitting Diodes (1 ed.). CRC Press. ISBN 978-1466515185.
+
+^ Piromreun, Pongpun; Oh, Hwansool; Shen, Yulong; Malliaras, George G.; Scott, J. Campbell; Brock, Phil J. (2000). "Role of CsF on electron injection into a conjugated polymer". Applied Physics Letters. 77 (15): 2403. Bibcode:2000ApPhL..77.2403P. doi:10.1063/1.1317547.
+
+^ Holmes, Russell; Erickson, N.; Lüssem, Björn; Leo, Karl (27 August 2010). "Highly efficient, single-layer organic light-emitting devices based on a graded-composition emissive layer". Applied Physics Letters. 97 (1): 083308. Bibcode:2010ApPhL..97a3308S. doi:10.1063/1.3460285.
+
+^ Burroughes, J. H.; Bradley, D. D. C.; Brown, A. R.; Marks, R. N.; MacKay, K.; Friend, R. H.; Burns, P. L.; Holmes, A. B. (1990). "Light-emitting diodes based on conjugated polymers". Nature. 347 (6293): 539. Bibcode:1990Natur.347..539B. doi:10.1038/347539a0. S2CID 43158308.
+
+^ Bullis, Kevin (17 October 2008). "Mass Production of Plastic Solar Cells". Technology Review.
+
+^ a b Koch, Christian (2002) Niedertemperaturabscheidung von Dünnschicht-Silicium für Solarzellen auf Kunststofffolien, Doctoral Thesis, ipe.uni-stuttgart.de
+
+^ Raghu Das, IDTechEx (25 September 2008). "Printed electronics, is it a niche? – 25 September 2008". Electronics Weekly. Retrieved 14 February 2010.
+
+^ プラスチックフィルム上の有機TFT駆動有機ELディスプレイで世界初のフルカラー表示を実現. sony.co.jp (in Japanese)
+
+^ Flexible, full-color OLED display. pinktentacle.com (24 June 2007).
+
+^ Nelson J. (2002). "Organic photovoltaic films". Current Opinion in Solid State and Materials Science. 6 (1): 87–95. Bibcode:2002COSSM...6...87N. doi:10.1016/S1359-0286(02)00006-2.
+
+^ Halls J.J.M. & Friend R.H. (2001). Archer M.D. & Hill R.D. (eds.). Clean electricity from photovoltaics. London: Imperial College Press. pp. 377–445. ISBN 978-1860941610.
+
+^ Hoppe, H.; Sarıçiftçi, N. S. (2004). "Organic solar cells: An overview". J. Mater. Res. 19 (7): 1924–1945. Bibcode:2004JMatR..19.1924H. doi:10.1557/JMR.2004.0252.
+
+^ McGehee D.G. & Topinka M.A. (2006). "Solar cells: Pictures from the blended zone". Nature Materials. 5 (9): 675–676. Bibcode:2006NatMa...5..675M. doi:10.1038/nmat1723. PMID 16946723. S2CID 43074502.
+
+^ Sugiyama, Masahiro; Jancke, Sophie; Uemura, Takafumi; Kondo, Masaya; Inoue, Yumi; Namba, Naoko; Araki, Teppei; Fukushima, Takanori; Sekitani, Tsuyoshi (September 2021). "Mobility enhancement of DNTT and BTBT derivative organic thin-film transistors by triptycene molecule modification". Organic Electronics. 96: 106219. doi:10.1016/j.orgel.2021.106219.
+
+^ Anthony, John E.; Facchetti, Antonio; Heeney, Martin; Marder, Seth R.; Zhan, Xiaowei (8 September 2010). "n-Type Organic Semiconductors in Organic Electronics". Advanced Materials. 22 (34): 3876–3892. Bibcode:2010AdM....22.3876A. doi:10.1002/adma.200903628. PMID 20715063. S2CID 205235378.
+
+^ Zhao, Yan; Guo, Yunlong; Liu, Yunqi (11 October 2013). "25th Anniversary Article: Recent Advances in n-Type and Ambipolar Organic Field-Effect Transistors". Advanced Materials. 25 (38): 5372–5391. Bibcode:2013AdM....25.5372Z. doi:10.1002/adma.201302315. PMID 24038388. S2CID 6042903.
+
+^ Di, Chong-an; Zhang, Fengjiao; Zhu, Daoben (18 January 2013). "Multi-Functional Integration of Organic Field-Effect Transistors (OFETs): Advances and Perspectives". Advanced Materials. 25 (3): 313–330. Bibcode:2013AdM....25..313D. doi:10.1002/adma.201201502. PMID 22865814. S2CID 26645918.
+
+^ Dudhe, Ravishankar S.; Sinha, Jasmine; Kumar, Anil; Rao, V. Ramgopal (30 June 2010). "Polymer composite-based OFET sensor with improved sensitivity towards nitro based explosive vapors". Sensors and Actuators B: Chemical. 148 (1): 158–165. Bibcode:2010SeAcB.148..158D. doi:10.1016/j.snb.2010.04.022. ISSN 0925-4005.
+
+
+Further reading[edit]
+Grasser, Tibor., Meller, Gregor. Baldo, Marc. (Eds.) (2010) Organic electronics Springer, Heidelberg. ISBN 978-3-642-04537-0 (Print) 978-3-642-04538-7 (Online)
+Baracus, B. A.; Weiss, D. E. (1963). "Electronic Conduction in Polymers. II. The Electrochemical Reduction of Polypyrrole at Controlled Potential". Aust. J. Chem. 16 (6): 1076–1089. doi:10.1071/CH9631076.
+Bolto, B. A.; McNeill, R.; Weiss, D. E. (1963). "Electronic Conduction in Polymers. III. Electronic Properties of Polypyrrole". Aust. J. Chem. 16 (6): 1090–1103. doi:10.1071/CH9631090.
+Hush, Noel S. (2003). "An Overview of the First Half-Century of Molecular Electronics". Ann. N.Y. Acad. Sci. 1006 (1): 1–20. Bibcode:2003NYASA1006....1H. doi:10.1196/annals.1292.016. PMID 14976006. S2CID 24968273.
+Electronic Processes in Organic Crystals and Polymers, 2 ed.  by Martin Pope and Charles E. Swenberg, Oxford University Press (1999), ISBN 0-19-512963-6
+Handbook of Organic Electronics and Photonics (3-Volume Set) by Hari Singh Nalwa, American Scientific Publishers. (2008), ISBN 1-58883-095-0
+External links[edit]
+ Media related to Organic electronics at Wikimedia Commons
+orgworld – Organic Semiconductor World homepage.
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+Authority control databases: National Czech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Organic_electronics&oldid=1286007611"
+Categories: Organic electronicsArtificial materialsHidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from January 2020All articles with unsourced statementsArticles with unsourced statements from August 2022Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 17 April 2025, at 03:46 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Organic electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

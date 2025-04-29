@@ -1,0 +1,607 @@
+https://en.wikipedia.org/wiki/James_Thomson_(engineer)
+
+
+
+
+James Thomson (engineer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Biography
+
+
+
+
+
+
+
+
+2
+Legacy
+
+
+
+
+
+
+
+
+3
+Publications
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+James Thomson (engineer)
+
+
+
+12 languages
+
+
+
+
+العربيةDeutschفارسیFrançaisItalianoҚазақшаMalagasy日本語PortuguêsРусскийУкраїнськаاردو
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikisourceWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+British engineer and physicist (1822–1892)
+For other people named James Thomson, see James Thomson (disambiguation).
+
+
+James ThomsonPhoto of James Thomson (1822–1892) taken from the book Collected Papers in Physics and Engineering by James Thomson.Born(1822-02-16)16 February 1822Died8 May 1892(1892-05-08) (aged 70)Known forBall-and-disk integratorDifferential analyserTea leaf paradoxTears of wineParentJames Thomson (father)RelativesLord Kelvin (brother)AwardsBakerian Medal (1892)FRS (1877)
+The grave of the Thomson family, Glasgow Necropolis
+James Thomson FRS FRSE LLD (16 February 1822 – 8 May 1892) was a British engineer and physicist, born in Belfast, and older brother of William Thomson (Lord Kelvin).
+
+
+Biography[edit]
+Born in Belfast, much of his youth was spent in Glasgow. His father James was professor of mathematics at the University of Glasgow from 1832 onward and his younger brother William was to become Baron Kelvin. James attended Glasgow University from a young age and graduated (1839) with high honours in his late teens. After graduation, he served brief apprenticeships with practical engineers in several domains; and then gave a considerable amount of his time to theoretical and mathematical engineering studies, often in collaboration with his brother, during his twenties in Glasgow. In his late twenties he entered into private practice as a professional engineer with special expertise in water transport. In his early thirties, in 1855, he was appointed professor of civil engineering at Queen's University Belfast. He remained there until 1873, when he accepted the Regius professorship of Civil Engineering and Mechanics at the University of Glasgow (in which post he was successor to the influential William Rankine) until he resigned with failing eyesight in 1889.
+In 1875 he was elected a Fellow of the Royal Society of Edinburgh. His proposers were his younger brother William Thomson, Peter Guthrie Tait, Alexander Crum Brown, and John Hutton Balfour.[1] He was elected a Fellow of the Royal Society of London in June 1877.[2]
+He served as President of the Institution of Engineers and Shipbuilders in Scotland from 1884 to 1886.
+In later life he lived at 2 Florentine Gardens, off Hillhead Street.[3]
+He died of cholera in Glasgow on 8 May 1892. He is buried on the northern slopes of the Glasgow Necropolis overlooking Glasgow Cathedral. One obituary described Thomson as “a man of singular purity of mind and simplicity of character“, whose “gentle kindness and unfailing courtesy will be long remembered.”[4]
+
+Legacy[edit]
+James Thomson is known for his work on the improvement of water wheels, water pumps and turbines. Also his innovations in the analysis of regelation, i.e., the effect of pressure on the freezing point of water, and his studies in glaciology including glacier motion, where he extended the work of James David Forbes. He studied the experimental work of his colleague Thomas Andrews, concerning the continuity of the liquid and gaseous states of matter, and strengthened understanding of it by applying his strong knowledge of thermodynamics. He derived a simplified form of the Clapeyron equation for the solid-liquid phase boundary. He proposed the term triple point to describe the conditions for which solid, liquid and vapour states are all in equilibrium.[5]
+He also had contributions in the realm of fluid dynamics of rivers. It is claimed that the term torque was introduced into English scientific literature by Thomson, in 1884.[6]
+
+Publications[edit]
+James Thomson's main published research reports in physics and engineering were republished as a 500-page collection after his death. The collection is freely available online (see below) and is prefaced by a lengthy (80-page) biography plus a more concise (10-page) biography. It is stated in this book that Thomson is the first to use the words radian, interface and apocentric in English, though he used a number of other neologisms that have not survived.
+
+See also[edit]
+Marangoni effect
+Rayleigh–Bénard convection
+References[edit]
+
+
+^ Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002 (PDF). The Royal Society of Edinburgh. July 2006. ISBN 0-902-198-84-X. Archived from the original (PDF) on 4 March 2016. Retrieved 4 June 2017.
+
+^ "Library and Archive Catalogue". Royal Society. Retrieved 25 October 2010.[permanent dead link]
+
+^ Glasgow Post Office Directory 1889-90
+
+^ "The Late Professor James Thomson, FRS DSc LLD". The Practical Engineer. Manchester. 20 May 1892.
+
+^ James Thomson (1873) "A quantitative investigation of certain relations between the gaseous, the liquid, and the solid states of water-substance," Proceedings of the Royal Society, 22 :  27–36.  From a footnote on page 28:  " … the three curves would meet or cross each other in one point, which I have called the triple point."
+
+^ Collected Papers in Physics and Engineering. University Press. 1912.
+
+
+External links[edit]
+
+
+
+Wikisource has the text of the 1911 Encyclopædia Britannica article "Thomson, James (physicist)".
+
+"Thomson, James (1822-1892)" . Dictionary of National Biography. London: Smith, Elder & Co. 1885–1900.
+Thomson, James (1912). Joseph Larmor & James Thomson (ed.). Collected Papers in Physics and Engineering by James Thomson. Cambridge University Press.
+Authority control databases InternationalISNIVIAFFASTWorldCatNationalGermanyUnited StatesItalyNetherlandsIsraelPeopleIrelandOtherIdRefSNAC
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=James_Thomson_(engineer)&oldid=1230299081"
+Categories: 1822 births1892 deathsPresidents of the Institution of Engineers and Shipbuilders in ScotlandEngineers from BelfastBritish civil engineersBritish glaciologistsFellows of the Royal SocietyUlster Scots peopleWilliam Thomson, 1st Baron Kelvin19th-century Irish physicists19th-century British physicists19th-century Irish engineers19th-century British engineers19th-century Scottish businesspeopleHidden categories: All articles with dead external linksArticles with dead external links from November 2017Articles with permanently dead external linksArticles with short descriptionShort description is different from WikidataUse dmy dates from January 2018Use British English from January 2018Articles with hCardsArticles incorporating Cite DNB template
+
+
+
+
+
+
+ This page was last edited on 21 June 2024, at 22:22 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+James Thomson (engineer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

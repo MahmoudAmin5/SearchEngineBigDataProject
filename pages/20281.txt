@@ -1,0 +1,1364 @@
+https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit
+
+
+
+
+Three-dimensional integrated circuit - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Types
+
+
+
+
+Toggle Types subsection
+
+
+
+
+
+1.1
+3D ICs vs. 3D packaging
+
+
+
+
+
+
+
+
+1.2
+3D SiCs
+
+
+
+
+
+
+
+
+1.3
+Monolithic 3D ICs
+
+
+
+
+
+
+
+
+
+
+2
+Manufacturing technologies for 3D SiCs
+
+
+
+
+
+
+
+
+3
+Benefits
+
+
+
+
+
+
+
+
+4
+Challenges
+
+
+
+
+
+
+
+
+5
+Design styles
+
+
+
+
+
+
+
+
+6
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+6.1
+Demonstrations (1983–2012)
+
+
+
+
+
+
+6.1.1
+Japan (1983–2005)
+
+
+
+
+
+
+
+
+6.1.2
+Europe (1988–2005)
+
+
+
+
+
+
+
+
+6.1.3
+United States (1999–2012)
+
+
+
+
+
+
+
+
+
+
+6.2
+Commercial 3D ICs (2004–present)
+
+
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+Notes
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+Further reading
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Three-dimensional integrated circuit
+
+
+
+8 languages
+
+
+
+
+العربيةCatalàDeutschEestiEspañol한국어Português中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Integrated circuit composed of several vertically stacked chips
+A three-dimensional integrated circuit (3D IC) is a MOS (metal-oxide semiconductor) integrated circuit (IC) manufactured by stacking as many as 16 or more ICs and interconnecting them vertically using, for instance, through-silicon vias (TSVs) or Cu-Cu connections,[1][2] so that they behave as a single device to achieve performance improvements at reduced power and smaller footprint than conventional two dimensional processes. The 3D IC is one of several 3D integration schemes that exploit the z-direction to achieve electrical performance benefits in microelectronics and nanoelectronics.
+3D integrated circuits can be classified by their level of interconnect hierarchy at the global (package), intermediate (bond pad) and local (transistor) level.[3]  In general, 3D integration is a broad term that includes such technologies as 3D wafer-level packaging (3DWLP); 2.5D and 3D interposer-based integration; 3D stacked ICs (3D-SICs); 3D heterogeneous integration; and 3D systems integration;[4][5] as well as true monolithic 3D ICs.
+International organizations such as the Jisso Technology Roadmap Committee (JIC) and the International Technology Roadmap for Semiconductors (ITRS) have worked to classify the various 3D integration technologies to further the establishment of standards and roadmaps of 3D integration.[6] As of the 2010s, 3D ICs are widely used for NAND flash memory and in mobile devices.
+
+
+Types[edit]
+3D ICs vs. 3D packaging[edit]
+3D packaging refers to 3D integration schemes that rely on traditional interconnection methods such as wire bonding and flip chip to achieve vertical stacking. 3D packaging can be divided into 3D system in package (3D SiP) and 3D wafer level package (3D WLP). 3D SiPs that have been in mainstream manufacturing for some time and have a well-established infrastructure include stacked memory dies interconnected with wire bonds and package on package (PoP) configurations interconnected with wire bonds or flip chip technology. PoP is used for vertically integrating disparate technologies. 3D WLP uses wafer level processes such as redistribution layers (RDLs) and wafer bumping processes to form interconnects.
+2.5D interposer is a 3D WLP that interconnects dies side-by-side on a silicon, glass, or organic interposer using through silicon vias (TSVs) and an RDL. In all types of 3D packaging, chips in the package communicate using off-chip signaling, much as if they were mounted in separate packages on a normal printed circuit board. The interposer may be made of silicon, and is under the dies it connects together. A design can be split into several dies, and then mounted on the interposer with micro bumps.[7][8][9]
+3D ICs can be divided into 3D Stacked ICs (3D SIC), which refers to advanced packaging techniques[10][11][12] stacking IC chips using TSV interconnects, and monolithic 3D ICs, which use fab processes to realize 3D interconnects at the local levels of the on-chip wiring hierarchy as set forth by the ITRS, this results in direct vertical interconnects between device layers. The first examples of a monolithic approach are seen in Samsung's 3D V-NAND devices.[13]
+As of the 2010s, 3D IC packages are widely used for NAND flash memory in mobile devices.[14]
+
+One master die and three slave dies
+3D SiCs[edit]
+The digital electronics market requires a higher density semiconductor memory chip to cater to recently released CPU components, and the multiple die stacking technique has been suggested as a solution to this problem. JEDEC disclosed the upcoming DRAM technology includes the "3D SiC" die stacking plan at "Server Memory Forum", November 1–2, 2011, Santa Clara, CA. In August 2014, Samsung Electronics started producing 64 GB SDRAM modules for servers based on emerging DDR4 (double-data rate 4) memory using 3D TSV package technology.[15] Newer proposed standards for 3D stacked DRAM include Wide I/O, Wide I/O 2, Hybrid Memory Cube, High Bandwidth Memory.
+
+Monolithic 3D ICs[edit]
+True monolithic 3D ICs are built in layers on a single semiconductor wafer, which is then diced into 3D ICs. There is only one substrate, hence no need for aligning, thinning, bonding, or through-silicon vias.  In general, monolithic 3D ICs are still a developing technology and are considered by most to be several years away from production.
+Process temperature limitations can be addressed by partitioning the transistor fabrication into two phases. A high temperature phase which is done before layer transfer followed by a layer transfer using ion-cut, also known as layer transfer, which has been used to produce Silicon on Insulator (SOI) wafers for the past two decades. Multiple thin (10s–100s nanometer scale) layers of virtually defect-free Silicon can be created by utilizing low temperature (<400 °C) bond and cleave techniques, and placed on top of active transistor circuitry, followed by permanent finalization of the transistors using etch and deposition processes. This monolithic 3D IC technology has been researched at Stanford University under a DARPA-sponsored grant.
+CEA-Leti also developed monolithic 3D IC approaches, called sequential 3D IC. In 2014, the French research institute introduced its CoolCube™, a low-temperature process flow that provides a true path to 3DVLSI.[16]
+At Stanford University, researchers designed monolithic 3D ICs using carbon nanotube (CNT) structures vs. silicon using a wafer-scale low temperature CNT transfer processes that can be done at 120 °C.[17]
+
+Manufacturing technologies for 3D SiCs[edit]
+There are several methods for 3D IC design, including recrystallization and wafer bonding methods. There are two major types of wafer bonding, Cu-Cu connections (copper-to-copper connections between stacked ICs, used in TSVs)[18][19] and through-silicon via (TSV). 3D ICs with TSVs may use solder microbumps, small solder balls as an interface between two individual dies in a 3D IC.[20] As of 2014, a number of memory products such as High Bandwidth Memory (HBM) and the Hybrid Memory Cube have been launched that implement 3D IC stacking with TSVs. There are a number of key stacking approaches being implemented and explored. These include die-to-die, die-to-wafer, and wafer-to-wafer.
+
+Die-to-Die
+Electronic components are built on multiple die, which are then aligned and bonded. Thinning and TSV creation may be done before or after bonding. One advantage of die-to-die is that each component die can be tested first, so that one bad die does not ruin an entire stack.[21] Moreover, each die in the 3D IC can be binned beforehand, so that they can be mixed and matched to optimize power consumption and performance (e.g. matching multiple dice from the low power process corner for a mobile application).
+Die-to-Wafer
+Electronic components are built on two semiconductor wafers. One wafer is diced; the singulated dice are aligned and bonded onto die sites of the second wafer. As in the wafer-on-wafer method, thinning and TSV creation are performed either before or after bonding. Additional die may be added to the stacks before dicing.[22]
+Wafer-to-Wafer
+Electronic components are built on two or more semiconductor wafers, which are then aligned, bonded, and diced into 3D ICs. Each wafer may be thinned before or after bonding. Vertical connections are either built into the wafers before bonding or else created in the stack after bonding. These "through-silicon vias" (TSVs) pass through the silicon substrate(s) between active layers and/or between an active layer and an external bond pad. Wafer-to-wafer bonding can reduce yields, since if any 1 of N chips in a 3D IC are defective, the entire 3D IC will be defective. Moreover, the wafers must be the same size, but many exotic materials (e.g. III-Vs) are manufactured on much smaller wafers than CMOS logic or DRAM (typically 300 mm), complicating heterogeneous integration.
+Benefits[edit]
+While traditional CMOS scaling processes improves signal propagation speed, scaling from current manufacturing and chip-design technologies is becoming more difficult and costly, in part because of power-density constraints, and in part because interconnects do not become faster while transistors do.[23] 3D ICs address the scaling challenge by stacking 2D dies and connecting them in the 3rd dimension. This promises to speed up communication between layered chips, compared to planar layout.[24] 3D ICs promise many significant benefits, including:
+
+Footprint
+More functionality fits into a small space. The smaller form factors are of great importance in embedded devices such as mobile phones, IoT systems for which 3D non-volatile memory stacks have been developed (e.g. 3D NAND chips) [1] :: Moore's Law Extension: The increased number of transistors being packed in the same footprint is seen as an extension to Moore's law by some researchers. This enables extending the Moore's Law without its traditional pair of Dennard Scaling towards a new generation of chips with increased computing capacity for the same footprint.[2]:
+Cost
+Partitioning a large chip into multiple smaller dies with 3D stacking can improve the yield and reduce the fabrication cost if individual dies are tested separately.[25][26]
+Heterogeneous Integration
+Circuit layers can be built with different processes, or even on different types of wafers. This means that components can be optimized to a much greater degree than if they were built together on a single wafer. Moreover, components with incompatible manufacturing could be combined in a single 3D IC.[27][5]
+Shorter Interconnect
+The average wire length is reduced. Common figures reported by researchers are on the order of 10–15%, but this reduction mostly applies to longer interconnect, which may affect circuit delay by a greater amount. Given that 3D wires have much higher capacitance than conventional in-die wires, circuit delay may or may not improve.
+Power
+Keeping a signal on-chip can reduce its power consumption by 10–100 times.[28] Shorter wires also reduce power consumption by producing less parasitic capacitance.[29] Reducing the power budget leads to less heat generation, extended battery life, and lower cost of operation.
+Design
+The vertical dimension adds a higher order of connectivity and offers new design possibilities.[5]
+Circuit Security
+3D integration can achieve security through obscurity; the stacked structure complicates attempts to reverse engineer the circuitry. Sensitive circuits may also be divided among the layers in such a way as to obscure the function of each layer.[30] Moreover, 3D integration allows to integrate dedicated, system monitor-like features in separate layers.[5] The objective here is to implement some kind of hardware firewall for any commodity components/chips to be monitored at runtime, seeking to protect the whole electronic system against run-time attacks as well as malicious hardware modifications.
+Bandwidth
+3D integration allows large numbers of vertical vias between the layers. This allows construction of wide bandwidth buses between functional blocks in different layers. A typical example would be a processor+memory 3D stack, with the cache memory stacked on top of the processor. This arrangement allows a bus much wider than the typical 128 or 256 bits between the cache and processor.[31] Wide buses in turn alleviate the memory wall problem.[32]
+Modularity
+3D integration modular integration a wide range of custom stacks through standardizing the layer interfaces for numerous stacking options. As a result, custom stack designs can be manufactured with modular building blocks (e.g. custom number of DRAM or eDRAM layers, custom accelerator layers, customizable Non-Volatile Memory layers can be integrated to meet different design requirements). This provides design and cost advantages to semiconductor firms.[3]
+Other potential advantages include better integration of neuromorphic chips in computing systems. Despite being low power alternatives to general purpose CPUs and GPUs, neuromorphic chips use a fundamentally different "spike-based" computation, which is not directly compatible with legacy digital computation. 3D integration provides key opportunities in this integration.[4]
+
+Challenges[edit]
+Because this technology is new, it carries new challenges, including:
+
+Cost
+While cost is a benefit when compared with scaling, it has also been identified as a challenge to the commercialization of 3D ICs in mainstream consumer applications. However, work is being done to address this. Although 3D technology is new and fairly complex, the cost of the manufacturing process is surprisingly straightforward when broken down into the activities that build up the entire process. By analyzing the combination of activities that lay at the base, cost drivers can be identified. Once the cost drivers are identified, it becomes a less complicated endeavor to determine where the majority of cost comes from and, more importantly, where cost has the potential to be reduced.[33]
+Yield
+Each extra manufacturing step adds a risk for defects. In order for 3D ICs to be commercially viable, defects could be repaired or tolerated, or defect density can be improved.[34][35]
+Heat
+Heat building up within the stack must be dissipated. This is an inevitable issue as electrical proximity correlates with thermal proximity. Specific thermal hotspots must be more carefully managed.
+Design Complexity
+Taking full advantage of 3D integration requires sophisticated design techniques and new CAD tools.[36]
+TSV-introduced Overhead
+TSVs are large compared to gates and impact floorplans. At the 45 nm technology node, the area footprint of a 10μm x 10μm TSV is comparable to that of about 50 gates.[37] Furthermore, manufacturability demands landing pads and keep-out zones which further increase TSV area footprint. Depending on the technology choices, TSVs block some subset of layout resources.[37] Via-first TSVs are manufactured before metallization, thus occupy the device layer and result in placement obstacles. Via-last TSVs are manufactured after metallization and pass through the chip. Thus, they occupy both the device and metal layers, resulting in placement and routing obstacles. While the usage of TSVs is generally expected to reduce wirelength, this depends on the number of TSVs and their characteristics.[37] Also, the granularity of inter-die partitioning impacts wirelength. It typically decreases for moderate (blocks with 20-100 modules) and coarse (block-level partitioning) granularities, but increases for fine (gate-level partitioning) granularities.[37]
+Testing
+To achieve high overall yield and reduce costs, separate testing of independent dies is essential.[35][38] However, tight integration between adjacent active layers in 3D ICs entails a significant amount of interconnect between different sections of the same circuit module that were partitioned to different dies. Aside from the massive overhead introduced by required TSVs, sections of such a module, e.g., a multiplier, cannot be independently tested by conventional techniques. This particularly applies to timing-critical paths laid out in 3D.
+Lack of Standards
+There are few standards for TSV-based 3D IC design, manufacturing, and packaging, although this issue is being addressed.[39][40] In addition, there are many integration options being explored such as via-last, via-first, via-middle;[41] interposers[42] or direct bonding; etc.
+Heterogeneous Integration Supply Chain
+In heterogeneously integrated systems, the delay of one part from one of the different parts suppliers delays the delivery of the whole product, and so delays the revenue for each of the 3D IC part suppliers.
+Lack of Clearly Defined Ownership
+It is unclear who should own the 3D IC integration and packaging/assembly. It could be assembly houses like ASE or the product OEMs.
+Thermomechanical Stress and Reliability
+3D stacks have more complex material compositions and thermomechanical profiles compared to 2D designs. The stacking of multiple thinned silicon layers, multiple wiring (BEOL) layers, insulators, through silicon vias, micro-C4s result in complex thermomechanical  forces and stress patterns being exerted to the 3D stacks. As a result, local heating in one part of the stack (e.g. on thinned device layers) may result reliability challenges. This requires design-time analysis and reliability-aware design processes. [5]
+
+Design styles[edit]
+Depending on partitioning granularity, different design styles can be distinguished. Gate-level integration faces multiple challenges and currently appears less practical than block-level integration.[43]
+
+Gate-level Integration
+This style partitions standard cells between multiple dies. It promises wirelength reduction and great flexibility. However, wirelength reduction may be undermined unless modules of certain minimal size are preserved. On the other hand, its adverse effects include the massive number of necessary TSVs for interconnects. This design style requires 3D place-and-route tools, which are unavailable yet. Also, partitioning a design block across multiple dies implies that it cannot be fully tested before die stacking. After die stacking (post-bond testing), a single failed die can render several good dies unusable, undermining yield. This style also amplifies the impact of process variation, especially inter-die variation. In fact, a 3D layout may yield more poorly than the same circuit laid out in 2D, contrary to the original promise of 3D IC integration.[44] Furthermore, this design style requires to redesign available Intellectual Property, since existing IP blocks and EDA tools do not provision for 3D integration.
+Block-level Integration
+This style assigns entire design blocks to separate dies. Design blocks subsume most of the netlist connectivity and are linked by a small number of global interconnects. Therefore, block-level integration promises to reduce TSV overhead. Sophisticated 3D systems combining heterogeneous dies require distinct manufacturing processes at different technology nodes for fast and low-power random logic, several memory types, analog and RF circuits, etc. Block-level integration, which allows separate and optimized manufacturing processes, thus appears crucial for 3D integration. Furthermore, this style might facilitate the transition from current 2D design towards 3D IC design. Basically, 3D-aware tools are only needed for partitioning and thermal analysis.[45] Separate dies will be designed using (adapted) 2D tools and 2D blocks. This is motivated by the broad availability of reliable IP blocks. It is more convenient to use available 2D IP blocks and to place the mandatory TSVs in the unoccupied space between blocks instead of redesigning IP blocks and embedding TSVs.[43] Design-for-testability structures are a key component of IP blocks and can therefore be used to facilitate testing for 3D ICs. Also, critical paths can be mostly embedded within 2D blocks, which limits the impact of TSV and inter-die variation on manufacturing yield. Finally, modern chip design often requires last-minute engineering changes. Restricting the impact of such changes to single dies is essential to limit cost.
+History[edit]
+Several years after the MOS integrated circuit (MOS IC) chip was first proposed by Mohamed Atalla at Bell Labs in 1960,[46] the concept of a three-dimensional MOS integrated circuit was proposed by Texas Instruments researchers Robert W. Haisty, Rowland E. Johnson and Edward W. Mehal in 1964.[47] In 1969, the concept of a three-dimensional MOS integrated circuit memory chip was proposed by NEC researchers Katsuhiro Onoda, Ryo Igarashi, Toshio Wada, Sho Nakanuma and Toru Tsujide.[48]
+Arm has made a high-density 3D logic test chip,[49] and Intel with its Foveros 3D logic chip packing is planning to ship CPUs using it.[50] IBM demonstrated a fluid that could be used for both power delivery and cooling 3D ICs.[51]
+
+Demonstrations (1983–2012)[edit]
+Japan (1983–2005)[edit]
+3D ICs were first successfully demonstrated in 1980s Japan, where research and development (R&D) on 3D ICs was initiated in 1981 with the "Three Dimensional Circuit Element R&D Project" by the Research and Development Association for Future (New) Electron Devices.[52] There were initially two forms of 3D IC design being investigated, recrystallization and wafer bonding, with the earliest successful demonstrations using recrystallization.[19] In October 1983, a Fujitsu research team including S. Kawamura, Nobuo Sasaki and T. Iwai successfully fabricated a three-dimensional complementary metal–oxide–semiconductor (CMOS) integrated circuit, using laser beam recrystallization. It consisted of a structure in which one type of transistor is fabricated directly above a transistor of the opposite type, with separate gates and an insulator in between. A double-layer of silicon nitride and phosphosilicate glass (PSG) film was used as an intermediate insulating layer between the top and bottom devices. This provided the basis for realizing a multi-layered 3D device composed of vertically stacked transistors, with separate gates and an insulating layer in between.[53] In December 1983, the same Fujitsu research team fabricated a 3D integrated circuit with a silicon-on-insulator (SOI) CMOS structure.[54] The following year, they fabricated a 3D gate array with vertically stacked dual SOI/CMOS structure using beam recrystallization.[55]
+In 1986, Mitsubishi Electric researchers Yoichi Akasaka and Tadashi Nishimura laid out the basic concepts and proposed technologies for 3D ICs.[56][57] The following year, a Mitsubishi research team including Nishimura, Akasaka and Osaka University graduate Yasuo Inoue fabricated an image signal processor (ISP) on a 3D IC, with an array of photosensors, CMOS A-to-D converters, arithmetic logic units (ALU) and shift registers arranged in a three-layer structure.[58] In 1989, an NEC research team led by Yoshihiro Hayashi fabricated a 3D IC with a four-layer structure using laser beam crystallisation.[59][56] In 1990, a Matsushita research team including K. Yamazaki, Y. Itoh and A. Wada fabricated a parallel image signal processor on a four-layer 3D IC, with SOI (silicon-on-insulator) layers formed by laser recrystallization, and the four layers consisting of an optical sensor, level detector, memory and ALU.[60]
+The most common form of 3D IC design is wafer bonding.[19] Wafer bonding was initially called "cumulatively bonded IC" (CUBIC), which began development in 1981 with the "Three Dimensional Circuit Element R&D Project" in Japan and was completed in 1990 by Yoshihiro Hayashi's NEC research team, who demonstrated a method where several thin-film devices are bonded cumulatively, which would allow a large number of device layers. They proposed fabrication of separate devices in separate wafers, reduction in the thickness of the wafers, providing front and back leads, and connecting the thinned die to each other. They used CUBIC technology to fabricate and test a two active layer device in a top-to-bottom fashion, having a bulk-Si NMOS FET lower layer and a thinned NMOS FET upper layer, and proposed CUBIC technology that could fabricate 3D ICs with more than three active layers.[56][52][61]
+The first 3D IC stacked chips fabricated with a through-silicon via (TSV) process were invented in 1980s Japan. Hitachi filed a Japanese patent in 1983, followed by Fujitsu in 1984. In 1986, a Japanese patent filed by Fujitsu described a stacked chip structure using TSV.[52] In 1989, Mitsumasa Koyonagi of Tohoku University pioneered the technique of wafer-to-wafer bonding with TSV, which he used to fabricate a 3D LSI chip in 1989.[52][62][63] In 1999, the Association of Super-Advanced Electronics Technologies (ASET) in Japan began funding the development of 3D IC chips using TSV technology, called the "R&D on High Density Electronic System Integration Technology" project.[52][64] The term "through-silicon via" (TSV) was coined by Tru-Si Technologies researchers Sergey Savastiouk, O. Siniaguine, and E. Korczynski, who proposed a TSV method for a 3D wafer-level packaging (WLP) solution in 2000.[65]
+The Koyanagi Group at Tohoku University, led by Mitsumasa Koyanagi, used TSV technology to fabricate a three-layer memory chip in 2000, a three-layer artificial retina chip in 2001, a three-layer microprocessor in 2002, and a ten-layer memory chip in 2005.[62] The same year, a Stanford University research team consisting of Kaustav Banerjee, Shukri J. Souri, Pawan Kapur and Krishna C. Saraswat presented a novel 3D chip design that exploits the vertical dimension to alleviate the interconnect related problems and facilitates heterogeneous integration of technologies to realize a system-on-a-chip (SoC) design.[66][67]
+In 2001, a Toshiba research team including T. Imoto, M. Matsui and C. Takubo developed a "System Block Module" wafer bonding process for manufacturing 3D IC packages.[56][68]
+
+Europe (1988–2005)[edit]
+Fraunhofer and Siemens began research on 3D IC integration in 1987.[52] In 1988, they fabricated 3D CMOS IC devices based on re-crystallization of poly-silicon.[69] In 1997, the inter-chip via (ICV) method was developed by a Fraunhofer–Siemens research team including Peter Ramm, Manfred Engelhardt, Werner Pamler, Christof Landesberger and Armin Klumpp.[70] It was a first industrial 3D IC process, based on Siemens CMOS fab wafers. A variation of that TSV process was later called TSV-SLID (solid liquid inter-diffusion) technology.[71] It was an approach to 3D IC design based on low temperature wafer bonding and vertical integration of IC devices using inter-chip vias, which they patented.
+Ramm went on to develop industry-academic consortia for production of relevant 3D integration technologies. In the German funded cooperative VIC project between Siemens and Fraunhofer, they demonstrated a complete industrial 3D IC stacking process (1993–1996). With his Siemens and Fraunhofer colleagues, Ramm published results showing the details of key processes such as 3D metallization [T. Grassl, P. Ramm, M. Engelhardt, Z. Gabric, O. Spindler, First International Dielectrics for VLSI/ULSI Interconnection Metallization Conference – DUMIC, Santa Clara, CA, 20–22 Feb, 1995] and at ECTC 1995 they presented early investigations on stacked memory in processors.[72]
+In the early 2000s, a team of Fraunhofer and Infineon Munich researchers investigated 3D TSV technologies with particular focus on die-to-substrate stacking within the German/Austrian EUREKA project VSI and initiated the European Integrating Projects e-CUBES, as a first European 3D technology platform, and e-BRAINS with a.o., Infineon, Siemens, EPFL, IMEC and Tyndall, where heterogeneous 3D integrated system demonstrators were fabricated and evaluated. A particular focus of the e-BRAINS project was the development of novel low-temperature processes for highly reliable 3D integrated sensor systems.[73]
+
+United States (1999–2012)[edit]
+Copper-to-copper wafer bonding, also called Cu-Cu connections or Cu-Cu wafer bonding, was developed at MIT by a research team consisting of Andy Fan, Adnan-ur Rahman and Rafael Reif in 1999.[19][74] Reif and Fan further investigated Cu-Cu wafer bonding with other MIT researchers including Kuan-Neng Chen, Shamik Das, Chuan Seng Tan and Nisha Checka during 2001–2002.[19] In 2003, DARPA and the Microelectronics Center of North Carolina (MCNC) began funding R&D on 3D IC technology.[52]
+In 2004, Tezzaron Semiconductor[75] built working 3D devices from six different designs.[76]  The chips were built in two layers with "via-first" tungsten TSVs for vertical interconnection.  Two wafers were stacked face-to-face and bonded with a copper process.  The top wafer was thinned and the two-wafer stack was then diced into chips.  The first chip tested was a simple memory register, but the most notable of the set was an 8051 processor/memory stack[77] that exhibited much higher speed and lower power consumption than an analogous 2D assembly.
+In 2004, Intel presented a 3D version of the Pentium 4 CPU.[78] The chip was manufactured with two dies using face-to-face stacking, which allowed a dense via structure. Backside TSVs are used for I/O and power supply. For the 3D floorplan, designers manually arranged functional blocks in each die aiming for power reduction and performance improvement. Splitting large and high-power blocks and careful rearrangement allowed to limit thermal hotspots. The 3D design provides 15% performance improvement (due to eliminated pipeline stages) and 15% power saving (due to eliminated repeaters and reduced wiring) compared to the 2D Pentium 4.
+The Teraflops Research Chip introduced in 2007 by Intel is an experimental 80-core design with stacked memory. Due to the high demand for memory bandwidth, a traditional I/O approach would consume 10 to 25 W.[38] To improve upon that, Intel designers implemented a TSV-based memory bus. Each core is connected to one memory tile in the SRAM die with a link that provides 12 GB/s bandwidth, resulting in a total bandwidth of 1 TB/s while consuming only 2.2 W.
+An academic implementation of a 3D processor was presented in 2008 at the University of Rochester by Professor Eby Friedman and his students. The chip runs at a 1.4 GHz and it was designed for optimized vertical processing between the stacked chips which gives the 3D processor abilities that the traditional one layered chip could not reach.[79] One challenge in manufacturing of the three-dimensional chip was to make all of the layers work in harmony without any obstacles that would interfere with a piece of information traveling from one layer to another.[80]
+In ISSCC 2012, two 3D-IC-based multi-core designs using GlobalFoundries' 130 nm process and Tezzaron's FaStack technology were presented and demonstrated:
+
+3D-MAPS,[81] a 64 custom core implementation with two-logic-die stack, was demonstrated by researchers from the School of Electrical and Computer Engineering at Georgia Institute of Technology.
+Centip3De,[82] near-threshold design based on ARM Cortex-M3 cores, was from the Department of Electrical Engineering and Computer Science at University of Michigan.
+Though released much layer IBM Research and Semiconductor Research and Development Groups design and manufactured a number of 3D processor stacks successfully starting from 2007-2008. These stacks (dubbed Escher internally) have demonstrated successful implementation of eDRAM, logic and processor stacks as well as key experiments in power, thermal, noise and reliability characterization of 3D chips. [6]
+
+Commercial 3D ICs (2004–present)[edit]
+Sony's PlayStation Portable (PSP) handheld game console, released in 2004, is the earliest commercial product to use a 3D IC, an eDRAM memory chip manufactured by Toshiba in a 3D system-in-package.
+The earliest known commercial use of a 3D IC chip was in Sony's PlayStation Portable (PSP) handheld game console, released in 2004. The PSP hardware includes eDRAM (embedded DRAM) memory manufactured by Toshiba in a 3D system-in-package chip with two dies stacked vertically.[14] Toshiba called it "semi-embedded DRAM" at the time, before later calling it a stacked "chip-on-chip" (CoC) solution.[14][83]
+In April 2007, Toshiba commercialized an eight-layer 3D IC, the 16 GB THGAM embedded NAND flash memory chip, which was manufactured with eight stacked 2 GB NAND flash chips.[84] In September 2007, Hynix introduced 24-layer 3D IC technology, with a 16 GB flash memory chip that was manufactured with 24 stacked NAND flash chips using a wafer bonding process.[85] Toshiba also used an eight-layer 3D IC for their 32 GB THGBM flash chip in 2008.[86] In 2010, Toshiba used a 16-layer 3D IC for their 128 GB THGBM2 flash chip, which was manufactured with 16 stacked 8 GB chips.[87] In the 2010s, 3D ICs came into widespread commercial use in the form of multi-chip package and package on package solutions for NAND flash memory in mobile devices.[14]
+Elpida Memory developed the first 8 GB DRAM chip (stacked with four DDR3 SDRAM dies) in September 2009, and released it in June 2011.[88] TSMC announced plans for 3D IC production with TSV technology in January 2010.[88] In 2011, SK Hynix introduced 16 GB DDR3 SDRAM (40 nm class) using TSV technology,[89] Samsung Electronics introduced 3D-stacked 32 GB DDR3 (30 nm class) based on TSV in September, and then Samsung and Micron Technology announced TSV-based Hybrid Memory Cube (HMC) technology in October.[88]
+
+Cut through a graphics card that uses High Bandwidth Memory (HBM), based on through-silicon via (TSV) 3D IC technology.
+High Bandwidth Memory (HBM), developed by Samsung, AMD, and SK Hynix, uses stacked chips and TSVs. The first HBM memory chip was manufactured by SK Hynix in 2013.[89] In January 2016, Samsung Electronics announced early mass production of HBM2, at up to 8 GB per stack.[90][91]
+In 2017, Samsung Electronics combined 3D IC stacking with its 3D V-NAND technology (based on charge trap flash technology), manufacturing its 512 GB KLUFG8R1EM flash memory chip with eight stacked 64-layer V-NAND chips.[92] In 2019, Samsung produced a 1 TB flash chip with 16 stacked V-NAND dies.[93][94] As of 2018, Intel is considering the use of 3D ICs to improve performance.[95] As of 2022[update], 232-layer NAND, i.e. memory device, chips are made by Micron,[96] that previously in April 2019 were making 96-layer chips; and Toshiba made 96-layer devices in 2018.
+In 2022, AMD has introduced Zen 4 processors, and some Zen 4 processors have 3D Cache included.
+
+See also[edit]
+Advanced packaging (semiconductors)
+Charge trap flash (CTF)
+FinFET (3D transistor)
+MOSFET
+Multigate device (MuGFET)
+V-NAND (3D NAND)
+
+Notes[edit]
+
+
+^ Hu, Y.H.; Liu, C.S.; Lii, M.J.; Rebibis, K. J.; Jourdain, A.; La Manna, A.; Beyne, E.; Yu, C.H. (2012). "Cu-Cu hybrid bonding as option for 3D IC stacking". 2012 IEEE International Interconnect Technology Conference. pp. 1–3. doi:10.1109/IITC.2012.6251571. ISBN 978-1-4673-1137-3.
+
+^ Wafer Bonding: Applications and Technology. Springer. 9 March 2013. ISBN 978-3-662-10827-7.
+
+^ "SEMI.ORG" (PDF). Archived (PDF) from the original on 2015-09-24.
+
+^ "What is 3D Integration? - 3D InCites". Archived from the original on 2014-12-30.
+
+^ a b c d J. Knechtel, O. Sinanoglu, I. M. Elfadel, J. Lienig, C. C. N. Sze, "Large-Scale 3D Chips: Challenges and Solutions for Design Automation, Testing, and Trustworthy Integration" Archived 2017-08-07 at the Wayback Machine, in IPSJ Transactions on System LSI Design Methodology, vol. 10, pp. 45–62, Aug. 2017
+
+^ "INTERNATIONAL TECHNOLOGY ROADMAP FOR SEMICONDUCTORS 2011 EDITION" (PDF). Archived from the original (PDF) on 2014-12-30. Retrieved 2014-12-30.
+
+^ Lau, John & Tzeng, Pei-Jer & Lee, Ching-Kuan & Zhan, C. & Li, Ming & Cline, J. & Saito, K. & Hsin, Y. & Chang, P. & Chang, Yiu-Hsiang & Chen, J. & Chen, Shang-Chun & Wu, C. & Chang, H. & Chien, C. & Lin, C. & Ku, Tzu Kun & Lo, Robert & Kao, M.. (2013). Redistribution layers (RDLs) for 2.5D/3D IC integration. International Symposium on Microelectronics. 2013. 000434-000441. 10.4071/isom-2013-WA12.
+
+^ "Xilinx and TSMC: Volume Production of 3D Parts". 31 July 2023.
+
+^ Lau, John H. (3 April 2019). Heterogeneous Integrations. Springer. ISBN 9789811372247.
+
+^ "Advanced Packaging". Semiconductor Engineering.
+
+^ "Next-Gen 3D Chip/Packaging Race Begins". 31 January 2022.
+
+^ "Advanced 2.5D/3D Packaging Roadmap". 31 July 2023.
+
+^ "Comparing Samsung's 3D NAND with Traditional 3D ICs". 2013-08-16.
+
+^ a b c d James, Dick (2014). "3D ICs in the real world". 25th Annual SEMI Advanced Semiconductor Manufacturing Conference (ASMC 2014). pp. 113–119. doi:10.1109/ASMC.2014.6846988. ISBN 978-1-4799-3944-2. S2CID 42565898.
+
+^ "Samsung starts production of 3D DDR4 DRAM modules". 2014-08-27. Archived from the original on 2014-12-31.
+
+^ Michallet, Jean-Eric. "CoolCube™: A True 3DVLSI Alternative to Scaling". www.3DInCites.com. Archived from the original on January 22, 2016. Retrieved March 24, 2014.
+
+^ von Trapp, Francoise (2015-03-16). "Monolithic 3D IC Heats Up at DATE 2015". 3D InCites. Archived from the original on April 2, 2015. Retrieved March 16, 2015.
+
+^ Maestre Caro, A.; Travaly, Y.; Maes, G.; Borghs, G.; Armini, S. (2011). "Enabling Cu-Cu connection in (Dual) damascene interconnects by selective deposition of two different SAM molecules". 2011 IEEE International Interconnect Technology Conference. pp. 1–3. doi:10.1109/IITC.2011.5940263. ISBN 978-1-4577-0503-8. S2CID 30235970.
+
+^ a b c d e Reif, Rafael; Tan, Chuan Seng; Fan, Andy; Chen, Kuan-Neng; Das, Shamik; Checka, Nisha (2002). "3-D Interconnects Using Cu Wafer Bonding: Technology and Applications" (PDF). Advanced Metallization Conference: 37–44. S2CID 2514964. Archived from the original (PDF) on 15 July 2019. Retrieved 15 July 2019.
+
+^ Yoon, Seung Wook; Ku, Jae Hoon; Suthiwongsunthorn, Nathapong; Marimuthu, Pandi Chelvam; Carson, Flynn (2009). "Fabrication and packaging of microbump interconnections for 3D TSV". 2009 IEEE International Conference on 3D System Integration. pp. 1–5. doi:10.1109/3DIC.2009.5306554. ISBN 978-1-4244-4511-0. S2CID 11139525.
+
+^ Real World Technologies. "3D Integration: A Revolution in Design". May 2, 2007. "3D Integration: A Revolution in Design". Archived from the original on 2010-12-22. Retrieved 2011-03-18.
+
+^ Chen, D.Y.; Chiou, W.C.; Chen, M.F.; Wang, T.D.; Ching, K.M.; Tu, H.J.; Wu, W.J.; Yu, C.L.; Yang, K.F.; Chang, H.B.; Tseng, M.H.; Hsiao, C.W.; Lu, Y.J.; Hu, H.P.; Lin, Y.C.; Hsu, C.S.; Shue, Winston S.; Yu, C.H. (2009). "Enabling 3D-IC foundry technologies for 28 nm node and beyond: Through-silicon-via integration with high throughput die-to-wafer stacking". 2009 IEEE International Electron Devices Meeting (IEDM). pp. 1–4. doi:10.1109/IEDM.2009.5424350. ISBN 978-1-4244-5639-0. S2CID 35980364.
+
+^ Developer, Shed. "3D Processors, Stacking Core". September 20, 2005. "3D Processors, Stacking Cores". Archived from the original on 2012-03-16. Retrieved 2012-10-29.,
+
+^ Developer, Shed. "3D Processors, Stacking Core". September 20, 2005. "Page 2 - 3D Processors, Stacking Cores". Archived from the original on 2011-07-09. Retrieved 2011-02-24.
+
+^ Xiangyu Dong and Yuan Xie, "System-level Cost Analysis and Design Exploration for 3D ICs", Proc. of Asia and South Pacific Design Automation Conference, 2009, "Yuan Xie's 3D IC Research Page". Archived from the original on 2010-04-24. Retrieved 2010-05-20.
+
+^ "3D IC Technology Delivers The Total Package" "3D IC Technology Delivers the Total Package". Archived from the original on 2010-10-31. Retrieved 2011-01-27. Electronic Design July 02, 2010
+
+^ James J-Q Lu, Ken Rose, & Susan Vitkavage "3D Integration: Why, What, Who, When?" "3D Integration: Why, What, Who, When?". Archived from the original on 2008-02-12. Retrieved 2008-01-22. Future Fab Intl. Volume 23, 2007
+
+^ William J. Dally, "Future Directions for On-Chip Interconnection Networks" page 17, "Archived copy" (PDF). Archived (PDF) from the original on 2010-06-12. Retrieved 2008-01-22.{{cite web}}:  CS1 maint: archived copy as title (link) Computer Systems Laboratory Stanford University, 2006
+
+^ Johnson, R Colin. "3-D chip stacks standardized". July 10, 2008. "3-D chip stacks standardized". Archived from the original on 2012-09-30. Retrieved 2014-05-15.
+
+^ "3D-ICs and Integrated Circuit Security" "Archived copy" (PDF). Archived (PDF) from the original on 2008-09-07. Retrieved 2008-02-08.{{cite web}}:  CS1 maint: archived copy as title (link) Tezzaron Semiconductor, 2008
+
+^ Dong Hyuk Woo, Nak Hee Seong, Dean L. Lewis, and Hsien-Hsin S. Lee. "An Optimized 3D-Stacked Memory Architecture by Exploiting Excessive, High-Density TSV Bandwidth". In Proceedings of the 16th International Symposium on High-Performance Computer Architecture, pp. 429–440, Bangalore, India, January 2010.
+
+^ "Predicting the Performance of a 3D Processor-Memory Chip Stack" Jacob, P., McDonald, J.F. et al. Design & Test of Computers, IEEE
+Volume 22, Issue 6, Nov.–Dec. 2005 Page(s):540–547
+
+^ A. Palesko, The Cost of 3D ICs, 3D InCites Knowledge Portal, January 9, 2015 "The Cost of 3D ICs". 2015-01-09. Archived from the original on 2015-01-09. Retrieved 2015-01-09.
+
+^ Robert Patti (2007). "Impact of Wafer-Level 3D Stacking on the Yield of ICs". Future Fab International. No. 23. Archived from the original on 2014-05-17. Retrieved 2014-05-15.
+
+^ a b Hsien-Hsin S. Lee and Krishnendu Chakrabarty, "Test challenges for 3D integrated circuits", IEEE Design and Test of Computers, Special issue on 3D IC Design and Test, vol. 26, no. 5, pp. 26–35, Sep/Oct 2009
+
+^ ""EDA's big three unready for 3D chip packaging". EE Times Asia, October 25, 2007". Eetasia.com. Archived from the original on July 18, 2008. Retrieved 2014-05-15.
+
+^ a b c d D. H. Kim, S. Mukhopadhyay, S. K. Lim, "Through-silicon-via aware interconnect prediction and optimization for 3D stacked ICs", in Proc. of Int. Workshop Sys.-Level Interconn. Pred., 2009, pp. 85–92.
+
+^ a b S. Borkar, "3D integration for energy efficient system design", in Proc. Design Autom. Conf., 2011, pp. 214–219.
+
+^ ""3-D chip stacks standardized". EE Times November 7, 2008". Eetimes.com. 2014-05-09. Archived from the original on September 30, 2012. Retrieved 2014-05-15.
+
+^ ""SEMI International Standards Program Forms 3D Stacked IC Standards Committee". SEMI press release December 7, 2010". Semi.org. 2010-12-07. Archived from the original on May 17, 2014. Retrieved 2014-05-15.
+
+^ ""ADVANCED PACKAGING: 3D TSV Technologies Scenarios: Via First or Via Last? 2010 report". Yole report, 2010". I-micronews.com. 2010-01-01. Archived from the original on 2014-05-17. Retrieved 2014-05-15.
+
+^ "Si, glass interposers for 3D packaging: analysts' takes". Advanced Packaging August 10, 2010 Archived March 14, 2011, at the Wayback Machine
+
+^ a b J. Knechtel, I. L. Markov, J. Lienig, "Assembling 2D Blocks into 3D Chips" Archived 2016-03-04 at the Wayback Machine, in IEEE Trans. on CAD of ICs and Systems, vol. 31, no. 2, pp. 228–241, Feb. 2012
+
+^ S. Garg, D. Marculescu, "3D-GCP: An analytical model for the impact of process variations on the critical path delay distribution of 3D ICs", in Proc. Int. Symp. Quality Electron. Des., 2009, pp. 147–155
+
+^ L. K. Scheffer, "CAD implications of new interconnect technologies", in Proc. Design Autom. Conf., 2007, pp. 576–581.
+
+^ Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. pp. 165–167. ISBN 978-0-470-50892-3.
+
+^ U.S. patent 3,613,226
+
+^ U.S. patent 3,651,490
+
+^ "A Look At Trishul: Arm's First High-Density 3D Logic Stacked Test-Chip". WikiChip Fuse. 2021-06-11. Retrieved 2022-10-05.
+
+^ Lobo, Savia (2018-12-13). "Intel unveils the first 3D Logic Chip packaging technology, 'Foveros', powering its new 10nm chips, 'Sunny Cove'". Packt Hub. Retrieved 2025-03-26.
+
+^ "IBM is trying to solve all of computing's scaling issues with 5D electronic blood". 7 November 2015.
+
+^ a b c d e f g Kada, Morihiro (2015). "Research and Development History of Three-Dimensional Integration Technology" (PDF). Three-Dimensional Integration of Semiconductors: Processing, Materials, and Applications. Springer. pp. 8–13. ISBN 978-3-319-18675-7. Archived from the original (PDF) on 2021-10-23. Retrieved 2019-07-19.
+
+^ Kawamura, S.; Sasaki, Nobuo; Iwai, T.; Nakano, M.; Takagi, M. (October 1983). "Three-dimensional CMOS IC's Fabricated by using beam recrystallization". IEEE Electron Device Letters. 4 (10): 366–368. Bibcode:1983IEDL....4..366K. doi:10.1109/EDL.1983.25766. ISSN 0741-3106. S2CID 35184408.
+
+^ Kawamura, S.; Sasaki, N.; Iwai, T.; Mukai, R.; Nakano, M.; Takagi, M. (December 1983). "3-Dimensional SOI/CMOS IC's fabricated by beam recrystallization". 1983 International Electron Devices Meeting. pp. 364–367. doi:10.1109/IEDM.1983.190517. S2CID 11689645.
+
+^ Kawamura, S.; Sasaki, Nobuo; Iwai, T.; Mukai, R.; Nakano, M.; Takagi, M. (1984). 3-Dimensional Gate Array with Vertically Stacked Dual SOI/CMOS Structure Fabricated by Beam Recrystallization. pp. 44–45.
+
+^ a b c d Garrou, Philip (6 August 2008). "Introduction to 3D Integration" (PDF). Handbook of 3D Integration: Technology and Applications of 3D Integrated Circuits. Wiley-VCH. p. 4. doi:10.1002/9783527623051.ch1. ISBN 978-3-527-62305-1.
+
+^ Akasaka, Yoichi; Nishimura, T. (December 1986). "Concept and basic technologies for 3-D IC structure". 1986 International Electron Devices Meeting. pp. 488–491. doi:10.1109/IEDM.1986.191227. S2CID 10393330.
+
+^ Nishimura, T.; Inoue, Yasuo; Sugahara, K.; Kusunoki, S.; Kumamoto, T.; Nakagawa, S.; Nakaya, M.; Horiba, Yasutaka; Akasaka, Yoichi (December 1987). "Three dimensional IC for high performance image signal processor". 1987 International Electron Devices Meeting. pp. 111–114. doi:10.1109/IEDM.1987.191362. S2CID 12936958.
+
+^ Hayashi, Yoshihiro; Kunio, T.; Oyama, K.; Morimoto, M. (December 1989). "Three dimensional ICs, having four stacked active device layers". International Technical Digest on Electron Devices Meeting. pp. 837–840. doi:10.1109/IEDM.1989.74183. S2CID 113995937.
+
+^ Yamazaki, K.; Itoh, Y.; Wada, A.; Morimoto, K.; Tomita, Y. (December 1990). "4-layer 3-D IC technologies for parallel signal processing". International Technical Digest on Electron Devices: 599–602. doi:10.1109/IEDM.1990.237127. S2CID 114856400.
+
+^ Hayashi, Yoshihiro; Wada, S.; Kajiyana, K.; Oyama, K.; Koh, R.; Takahashi, S.; Kunio, T. (1990). "Fabrication of three-dimensional IC using 'cumulatively bonded IC' (CUBIC) technology". Digest of Technical Papers.1990 Symposium on VLSI Technology: 95–96. doi:10.1109/VLSIT.1990.111025. S2CID 27465273.
+
+^ a b Fukushima, T.; Tanaka, T.; Koyanagi, Mitsumasa (2007). "Thermal Issues of 3D ICs" (PDF). SEMATECH. Tohoku University. Archived from the original (PDF) on 16 May 2017. Retrieved 16 May 2017.
+
+^ Tanaka, Tetsu; Lee, Kang Wook; Fukushima, Takafumi; Koyanagi, Mitsumasa (2011). "3D Integration Technology and Heterogeneous Integration". IEICE Transactions on Electronics. J94-C (11): 355–364. S2CID 62780117.
+
+^ Takahashi, Kenji; Tanida, Kazumasa (2011). "Vertical Interconnection by ASET". Handbook of 3D Integration, Volume 1: Technology and Applications of 3D Integrated Circuits. John Wiley & Sons. p. 339. ISBN 978-3-527-62306-8.
+
+^ Savastionk, S.; Siniaguine, O.; Korczynski, E. (2000). "Thru-silicon vias for 3D WLP". Proceedings International Symposium on Advanced Packaging Materials Processes, Properties and Interfaces (Cat. No.00TH8507). pp. 206–207. doi:10.1109/ISAPM.2000.869271. ISBN 0-930815-59-9. S2CID 110397071.
+
+^ Lavanyashree, B.J. (August 2016). "3-Dimensional (3D) ICs: A Survey" (PDF). International Journal of Digital Application & Contemporary Research. 5 (1). Archived from the original (PDF) on 2019-03-04.
+
+^ Banerjee, Kaustav; Souri, Shukri J.; Kapur, Pawan; Saraswat, Krishna C. (2001). "3-D ICs: a novel chip design for improving deep-submicrometer interconnect performance and systems-on-chip integration". Proceedings of the IEEE. 89 (5): 602–633. doi:10.1109/5.929647. ISSN 0018-9219. S2CID 5786126.
+
+^ Imoto, T.; Matsui, M.; Takubo, C.; Akejima, S.; Kariya, T.; Nishikawa, T.; Enomoto, R. (2001). "Development of 3-Dimensional Module Package, "System Block Module"". Electronic Components and Technology Conference (51). Institute of Electrical and Electronics Engineers: 552–7. ISBN 0780370384.
+
+^ Ramm, Peter (22 January 2016). "Fraunhofer EMFT: Our Early and Ongoing Work in 3D Integration". 3D InCites. Retrieved 22 September 2019.
+
+^ Ramm, P.; Bollmann, D.; Braun, R.; Buchner, R.; Cao-Minh, U.; et al. (November 1997). "Three dimensional metallization for vertically integrated circuits". Microelectronic Engineering. 37–38: 39–47. doi:10.1016/S0167-9317(97)00092-0. S2CID 22232571.
+
+^ Macchiolo, A.; Andricek, L.; Moser, H. G.; Nisius, R.; Richter, R. H.; Weigell, P. (1 January 2012). "SLID-ICV Vertical Integration Technology for the ATLAS Pixel Upgrades". Physics Procedia. 37: 1009–1015. arXiv:1202.6497. Bibcode:2012PhPro..37.1009M. doi:10.1016/j.phpro.2012.02.444. ISSN 1875-3892. S2CID 91179768.
+
+^ M.B. Kleiner, S.A. Kuehn, P. Ramm, W. Weber, IEEE Transactions on Components, Packaging, and Manufacturing Technology - Part B, Vol. 19, No. 4 (1996)
+
+^ "HOME". Archived from the original on December 12, 2007.
+
+^ Fan, Andy; Rahman, Adnan-ur; Reif, Rafael (February 2, 1999). "Copper Wafer Bonding". Electrochemical and Solid-State Letters. 2 (10): 534. doi:10.1149/1.1390894. S2CID 98300746.
+
+^ "Tezzaron Semiconductor: The Z Path Forward". Tezzaron Semiconductor. Retrieved 19 July 2019.
+
+^ "Six 3D designs precede 90% power-saving claims from Tezzaron - EE Times". Archived from the original on 2014-10-31.
+
+^ Cole, Bernard (22 May 2005). "Terrazon applies 3D stacking technology to 8051 MCU core". EETimes. Retrieved 10 August 2020.
+
+^ B. Black, D. Nelson, C. Webb, and N. Samra, "3D Processing Technology and Its Impact on iA32 Microprocessors", in Proc. of Int. Conf. on Computer Design, pp. 316–318, 2004.
+
+^ Steve Seguin (2008-09-16). "Seguin, Steve. "World's First Stacked 3D Processor Created". September 16, 2008". Tomshardware.com. Retrieved 2014-05-15.
+
+^ "Science Daily. "3-D Computer Processor: 'Rochester Cube' Points Way To More Powerful Chip Designs". September 17, 2008". Sciencedaily.com. Archived from the original on May 17, 2014. Retrieved 2014-05-15.
+
+^ 3D-MAPS project webpage at Georgia Tech "3D-MAPS Many-Core Processor". Archived from the original on 2015-03-08. Retrieved 2012-04-02.
+
+^ "Centip3De: A 64-Core, 3D Stacked, Near-Threshold System" (PDF).
+
+^ "System-in-Package (SiP)". Toshiba. Archived from the original on 3 April 2010. Retrieved 3 April 2010.
+
+^ "TOSHIBA COMMERCIALIZES INDUSTRY'S HIGHEST CAPACITY EMBEDDED NAND FLASH MEMORY FOR MOBILE CONSUMER PRODUCTS". Toshiba. April 17, 2007. Archived from the original on November 23, 2010. Retrieved 23 November 2010.
+
+^ "Hynix Surprises NAND Chip Industry". Korea Times. 5 September 2007. Retrieved 8 July 2019.
+
+^ "Toshiba Launches the Largest Density Embedded NAND Flash Memory Devices". Toshiba. 7 August 2008. Retrieved 21 June 2019.
+
+^ "Toshiba Launches Industry's Largest Embedded NAND Flash Memory Modules". Toshiba. 17 June 2010. Retrieved 21 June 2019.
+
+^ a b c Kada, Morihiro (2015). "Research and Development History of Three-Dimensional Integration Technology". Three-Dimensional Integration of Semiconductors: Processing, Materials, and Applications. Springer. pp. 15–8. ISBN 978-3-319-18675-7.
+
+^ a b "History: 2010s". SK Hynix. Archived from the original on 17 May 2021. Retrieved 8 July 2019.
+
+^ "Samsung Begins Mass Producing World's Fastest DRAM – Based on Newest High Bandwidth Memory (HBM) Interface". news.samsung.com.
+
+^ Hruska, Joel (19 January 2016). "Samsung announces mass production of next-generation HBM2 memory – ExtremeTech". Extremetech.
+
+^ Shilov, Anton (December 5, 2017). "Samsung Starts Production of 512 GB UFS NAND Flash Memory: 64-Layer V-NAND, 860 MB/s Reads". AnandTech. Retrieved 23 June 2019.
+
+^ Manners, David (30 January 2019). "Samsung makes 1TB flash eUFS module". Electronics Weekly. Retrieved 23 June 2019.
+
+^ Tallis, Billy (October 17, 2018). "Samsung Shares SSD Roadmap for QLC NAND And 96-layer 3D NAND". AnandTech. Retrieved 27 June 2019.
+
+^ "Intel unveils a groundbreaking way to make 3D chips". Engadget. 8 August 2019.
+
+^ Smith, Ryan. "Micron's 232 Layer NAND Now Shipping: 1Tbit, 6-Plane Dies With 50% More I/O Bandwidth". www.anandtech.com. Retrieved 2022-08-03.
+
+
+References[edit]
+
+JEDECが「DDR4」とTSVを使う「3DS」メモリ技術の概要を明らかに - 後藤弘茂のWeekly海外ニュース Impress Watch Co. (issued:2011-11-08, 2011-11-08)
+貫通電極を用いたチップ積層技術の開発 (Japanese) –  oki technical review #211 Vol.74 #3 (issued:2007-10, 2011-11-08)
+TSV (Through Silicon Via:Si貫通電極) Archived 2012-04-25 at the Wayback Machine (Japanese) –  Akita Elpida Memory, inc (2011-11-08)
+
+Further reading[edit]
+Philip Garrou, Christopher Bower, Peter Ramm: Handbook of 3D Integration, Technology and Applications of 3D Integrated Circuits Vol. 1 and Vol. 2, Wiley-VCH, Weinheim 2008, ISBN 978-3-527-32034-9.
+Yuan Xie, Jason Cong, Sachin Sapatnekar: Three-Dimensional Integrated Circuit Design: Eda, Design And Microarchitectures, Publisher: Springer, ISBN 1-4419-0783-1, ISBN 978-1-4419-0783-7, 978–1441907837, Publishing Date: Dec. 2009.
+Philip Garrou, Mitsumasa Koyanagi, Peter Ramm: Handbook of 3D Integration, 3D Process Technology Vol. 3, Wiley-VCH, Weinheim 2014, ISBN 978-3-527-33466-7.
+Paul D. Franzon, Erik Jan Marinissen, Muhannad S. Bakir, Philip Garrou, Mitsumasa Koyanagi, Peter Ramm: Handbook of 3D Integration: "Design, Test, and Thermal Management of 3D Integrated Circuits", Vol. 4, Wiley-VCH, Weinheim 2019, ISBN 978-3-527-33855-9.
+External links[edit]
+Euronymous (2007-05-02). "3D Integration: A Revolution in Design". Real World Technologies. Retrieved 2014-05-15.
+Semiconductors (2006). "Mapping progress in 3D IC integration". Solid State Technology. Archived from the original on January 31, 2013. Retrieved 2014-05-15.
+Peter Ramm; et al. (2010-09-16). "3D Integration technology: Status and application development". 2010 Proceedings of ESSCIRC. IEEE. pp. 9–16. doi:10.1109/ESSCIRC.2010.5619857. hdl:11250/2463188. ISBN 978-1-4244-6664-1. S2CID 1239311.
+Mingjie Lin; Abbas El Gamal; Yi-chang Lu & Simon Wong (2006-02-22). "Performance benefits of monolithically stacked 3D-FPGA". Proceedings of the 2006 ACM/SIGDA 14th international symposium on Field programmable gate arrays. Vol. 26. p. 113. doi:10.1145/1117201.1117219. ISBN 1595932925. S2CID 7818893.
+"Joint Project for Mechanical Qualification of Next Generation High Density Package-on-Package (PoP) with Through Mold Via Technology". Retrieved 2014-05-15.[permanent dead link]
+"Advancements in Stacked Chip Scale Packaging (S-CSP), Provides System-in-a-Package Functionality for Wireless and Handheld Applications". Retrieved 2014-05-15.[permanent dead link]
+Smith, Lee (July 6, 2010). "Achieving the 3rd Generation From 3D Packaging to 3D IC Architectures". Future Fab International. Amkor Technology. Retrieved 2014-05-15.[permanent dead link]
+"Factors Affecting Electromigration and Current Carrying Capacity of Flip Chip and 3D IC Interconnects". Retrieved 2014-05-15.[permanent dead link]
+"Evaluation for UV Laser Dicing Process and its Reliability for Various Designs of Stack Chip Scale Package". Retrieved 2014-05-15.[permanent dead link]
+"High Density PoP (Package-on-Package) and Package Stacking Development". Retrieved 2014-05-15.[permanent dead link]
+"3D Interconnect Technology Coming to Light". EDN. 2004. Archived from the original on 2008-12-03. Retrieved 2008-01-22.
+"Three-dimensional SoCs perform for future". EE Design. 2003. Retrieved 2014-05-15.
+"MagnaChip, Tezzaron form partnership for 3D chips". EE Times. 2004. Archived from the original on 2013-01-21.
+"Matrix preps 64-Mbyte write-once memory". EE Times. 2001. Archived from the original on 2008-05-15. Retrieved 2014-05-15.
+"Samsung starts mass producing first 3D vertical NAND flash, August 2013". Electroiq.com. 2013-08-06. Archived from the original on 2013-08-18. Retrieved 2014-05-15.
+"CEA Leti placed monolithic 3D as the next generation technology as alternative to dimension scaling, August 2013". Electroiq.com. Archived from the original on 2013-08-19. Retrieved 2014-05-15.
+"3D integration: A status report". 2009. Archived from the original on 2013-01-22. Retrieved 2011-01-21.
+Deepak C. Sekar & Zvi Or-Bach. "Monolithic 3D-ICs with Single Crystal Silicon Layers" (PDF). Retrieved 2014-05-15.
+"Global 3D Chips/3D IC Market to Reach US$5.2 Billion by 2015". PRWeb. 2010. Archived from the original on September 1, 2010. Retrieved 2014-05-15.
+"Samsung Develops 30nm-class 32GB Green DDR3 for Next-generation Servers, Using TSV Package Technology". Samsung.com. 2011. Retrieved 2014-05-15.
+"How Might 3-D ICs Come Together?". Semiconductor International. 2008. Archived from the original on 2010-03-04. Retrieved 2009-06-11.
+"Three-Dimensional ICs Solve the Interconnect Paradox". Semiconductor International. 2005. Archived from the original on 2008-02-12. Retrieved 2008-01-22.
+"Ziptronix, Raytheon Prove 3-D Integration of 0.5 µm CMOS Device". Semiconductor International. 2007. Archived from the original on 2007-11-06. Retrieved 2008-01-22.
+Peter Ramm; Armin Klumpp; Josef Weber; Maaike Taklo (2010). "3D System-on-Chip Technologies for More than Moore Systems". Journal of Microsystem Technologies. 16 (7): 1051–1055. Bibcode:2010MiTec..16.1051R. doi:10.1007/s00542-009-0976-1. S2CID 55824967.
+Philip Garrou, James Lu & Peter Ramm (2012). "Chapter 15". Three-Dimensional Integration. Wiley-VCH. Retrieved 2014-05-15. {{cite book}}: |work= ignored (help)
+vteEmerging technologiesFieldsInformation andcommunications
+Ambient intelligence
+Internet of things
+Artificial intelligence
+Applications of artificial intelligence
+Machine translation
+Machine vision
+Mobile translation
+Progress in artificial intelligence
+Semantic Web
+Speech recognition
+Atomtronics
+Carbon nanotube field-effect transistor
+Cybermethodology
+Extended reality
+Fourth-generation optical discs
+3D optical data storage
+Holographic data storage
+GPGPU
+Memory
+CBRAM
+ECRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+Racetrack memory
+RRAM
+SONOS
+UltraRAM
+Optical computing
+RFID
+Chipless RFID
+Software-defined radio
+Three-dimensional integrated circuit
+Topics
+Automation
+Collingridge dilemma
+Differential technological development
+Disruptive innovation
+Ephemeralization
+Ethics
+Bioethics
+Cyberethics
+Neuroethics
+Robot ethics
+Exploratory engineering
+Proactionary principle
+Technological change
+Technological unemployment
+Technological convergence
+Technological evolution
+Technological paradigm
+Technology forecasting
+Accelerating change
+Future-oriented technology analysis
+Horizon scanning
+Moore's law
+Technological singularity
+Technology scouting
+Technology in science fiction
+Technology readiness level
+Technology roadmap
+Transhumanism
+
+ List
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal-oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck–boost
+Split-pi
+Ćuk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Three-dimensional_integrated_circuit&oldid=1282503946"
+Categories: Integrated circuitsSemiconductor device fabricationPackaging (microfabrication)Japanese inventionsMOSFETsHidden categories: Webarchive template wayback linksCS1 maint: archived copy as titleCS1: long volume valueCS1: unfit URLArticles with short descriptionShort description is different from WikidataArticles containing potentially dated statements from 2022All articles containing potentially dated statementsAll articles with dead external linksArticles with dead external links from February 2020Articles with permanently dead external linksCS1 errors: periodical ignored
+
+
+
+
+
+
+ This page was last edited on 26 March 2025, at 20:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Three-dimensional integrated circuit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

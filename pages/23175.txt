@@ -1,0 +1,140 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_display-position
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+The w3-display-container Class
+
+Display content inside a div element with a specific height:
+
+  Top Left
+  Top Right
+  Bottom Left
+  Bottom Right
+  Left
+  Right
+  Middle
+  Top Mid
+  Bottom Mid
+
+
+Display text inside an image:
+
+  
+  Top Left
+  Top Right
+  Bottom Left
+  Bottom Right
+  Top Mid
+  Left
+  Right
+  Middle
+  Bottom Mid
+  Positioned
+
+
+(We have added w3-container classes and p elements to get correct padding)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

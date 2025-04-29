@@ -1,0 +1,972 @@
+https://en.wikipedia.org/wiki/Machine_code
+
+
+
+
+Machine code - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Instruction set
+
+
+
+
+
+
+
+
+2
+Assembly languages
+
+
+
+
+
+
+
+
+3
+Examples
+
+
+
+
+Toggle Examples subsection
+
+
+
+
+
+3.1
+IBM 709x
+
+
+
+
+
+
+
+
+3.2
+MIPS
+
+
+
+
+
+
+
+
+
+
+4
+Overlapping instructions
+
+
+
+
+
+
+
+
+5
+Relationship to microcode
+
+
+
+
+
+
+
+
+6
+Relationship to bytecode
+
+
+
+
+
+
+
+
+7
+Storing in memory
+
+
+
+
+
+
+
+
+8
+Readability by humans
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+Notes
+
+
+
+
+
+
+
+
+11
+References
+
+
+
+
+
+
+
+
+12
+Sources
+
+
+
+
+
+
+
+
+13
+Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Machine code
+
+
+
+75 languages
+
+
+
+
+العربيةAzərbaycancaবাংলা閩南語 / Bân-lâm-gúБеларускаяБългарскиBosanskiBrezhonegCatalàČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego한국어Հայերենहिन्दीHornjoserbsceHrvatskiIdoBahasa IndonesiaIsiZuluÍslenskaItalianoעבריתქართულიҚазақшаКыргызчаLatviešuLietuviųLa .lojban.LombardMagyarമലയാളംBahasa MelayuMinangkabauMirandésМонголမြန်မာဘာသာNederlands日本語Norsk bokmålNorsk nynorskОлык марийOʻzbekcha / ўзбекчаPolskiPortuguêsQaraqalpaqshaRomânăРусскийShqipSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Lowest level instructions executed by a computer
+For code that is completely internal to some CPUs and normally inaccessible to programmers, see Microcode.
+"Native code" redirects here. For the French colonial legal system, see Native code (France).
+
+
+Program execution
+General concepts
+Code
+Translation
+Compiler
+Compile time
+Optimizing compiler
+Intermediate representation (IR)
+Execution
+Runtime system
+Runtime
+Executable
+Interpreter
+Virtual machine
+
+Types of code
+Source code
+Object code
+Bytecode
+Machine code
+Microcode
+
+Compilation strategies
+Ahead-of-time (AOT)
+Just-in-time (JIT)
+Tracing just-in-time
+Compile and go system
+Precompilation
+Transcompilation
+Recompilation
+
+Notable runtimes
+Android Runtime (ART)
+BEAM (Erlang)
+Common Language Runtime (CLR) and Mono
+CPython and PyPy
+crt0 (C target-specific initializer)
+Java virtual machine (JVM)
+LuaJIT
+Objective-C and Swift's
+V8 and Node.js
+Zend Engine (PHP)
+
+Notable compilers & toolchains
+GNU Compiler Collection (GCC)
+LLVM and Clang
+MSVC
+Glasgow Haskell Compiler (GHC)
+vte
+Machine language monitor running on a W65C816S microprocessor, displaying code disassembly and dumps of processor register and memory
+In computer programming, machine code is computer code consisting of machine language instructions, which are used to control a computer's central processing unit (CPU). For conventional binary computers, machine code is the binary[nb 1] representation of a computer program that is actually read and interpreted by the computer. A program in machine code consists of a sequence of machine instructions (possibly interspersed with data).[1]
+Each machine code instruction causes the CPU to perform a specific task. Examples of such tasks include:
+
+Load a word from memory to a CPU register
+Execute an arithmetic logic unit (ALU) operation on one or more registers or memory locations
+Jump or skip to an instruction that is not the next one
+In general, each architecture family (e.g., x86, ARM) has its own instruction set architecture (ISA), and hence its own specific machine code language. There are exceptions, such as the VAX architecture, which includes optional support of the PDP-11 instruction set; the IA-64 architecture, which includes optional support of the IA-32 instruction set; and the PowerPC 615 microprocessor, which can natively process both PowerPC and x86 instruction sets.
+Machine code is a strictly numerical language, and it is the lowest-level interface to the CPU intended for a programmer. Assembly language provides a direct map between the numerical machine code and a human-readable mnemonic. In assembly, numerical opcodes and operands are replaced with mnemonics and labels. For example, the x86 architecture has available the 0x90 opcode; it is represented as NOP in the assembly source code. While it is possible to write programs directly in machine code, managing individual bits and calculating numerical addresses is tedious and error-prone. Therefore, programs are rarely written directly in machine code. However, an existing machine code program may be edited if the assembly source code is not available.
+The majority of programs today are written in a high-level language. A high-level program may be translated into machine code by a compiler.
+
+
+Instruction set[edit]
+Main article: Instruction set
+Every processor or processor family has its own instruction set. Machine instructions are patterns of bits[nb 2] that specify some particular action.[2] An instruction set is described by its instruction format. Some ways in which instruction formats may differ:[2]
+
+all instructions may have the same length or instructions may have different lengths;
+the number of instructions may be small or large;
+instructions may or may not align with the architecture's word length.
+A processor's instruction set needs to execute the circuits of a computer's digital logic level. At the digital level, the program needs to control the computer's registers, bus, memory, ALU, and other hardware components.[3] To control a computer's architectural features, machine instructions are created. Examples of features that are controlled using machine instructions:
+
+segment registers[4]
+protected address mode[5]
+binary-coded decimal (BCD) arithmetic[6]
+The criteria for instruction formats include:
+
+Instructions most commonly used should be shorter than instructions rarely used.[2]
+The memory transfer rate of the underlying hardware determines the flexibility of the memory fetch instructions.
+The number of bits in the address field requires special consideration.[7]
+Determining the size of the address field is a choice between space and speed.[7] On some computers, the number of bits in the address field may be too small to access all of the physical memory. Also, virtual address space needs to be considered. Another constraint may be a limitation on the size of registers used to construct the address. Whereas a shorter address field allows the instructions to execute more quickly, other physical properties need to be considered when designing the instruction format. 
+Instructions can be separated into two types: general-purpose and special-purpose. Special-purpose instructions exploit architectural features that are unique to a computer. General-purpose instructions control architectural features common to all computers.[8]
+General-purpose instructions control:
+
+Data movement from one place to another
+Monadic operations that have one operand to produce a result
+Dyadic operations that have two operands to produce a result
+Comparisons and conditional jumps
+Procedure calls
+Loop control
+Input/output
+Assembly languages[edit]
+Main article: Assembly language
+Translation of assembly language into machine language
+A much more human-friendly rendition of machine language, named assembly language, uses mnemonic codes to refer to machine code instructions, rather than using the instructions' numeric values directly, and uses symbolic names to refer to storage locations and sometimes registers.[9] For example, on the Zilog Z80 processor, the machine code 00000101, which causes the CPU to decrement the B general-purpose register, would be represented in assembly language as DEC B.[10]
+
+Examples[edit]
+IBM 709x[edit]
+The IBM 704, 709, 704x and 709x store one instruction in each instruction word; IBM numbers the bit from the left as S, 1, ..., 35. Most instructions have one of two formats:
+
+Generic
+S,1-11
+12-13 Flag, ignored in some instructions
+14-17 unused
+18-20 Tag
+21-35 Y
+Index register control, other than TSX
+S,1-2 Opcode
+3-17 Decrement
+18-20 Tag
+21-35 Y
+For all but the IBM 7094 and 7094 II, there are three index registers designated A, B and C; indexing with multiple 1 bits in the tag subtracts the logical or of the selected index registers and loading with multiple 1 bits in the tag loads all of the selected index registers. The 7094 and 7094 II have seven index registers, but when they are powered on they are in multiple tag mode, in which they use only the three of the index registers in a fashion compatible with earlier machines, and require a Leave Multiple Tag Mode (LMTM) instruction in order to access the other four index registers.
+The effective address is normally Y-C(T), where C(T) is either 0 for a tag of 0, the logical or of the selected index registers in multiple tag mode or the selected index register if not in multiple tag mode. However, the effective address for index register control instructions is just Y.
+A flag with both bits 1 selects indirect addressing; the indirect address word has both a tag and a Y field.
+In addition to transfer (branch) instructions, these machines have skip instruction that conditionally skip one or two words, e.g., Compare Accumulator with Storage (CAS) does a three way compare and conditionally skips to NSI, NSI+1 or NSI+2, depending on the result.
+
+MIPS[edit]
+The MIPS architecture provides a specific example for a machine code whose instructions are always 32 bits long.[11]: 299  The general type of instruction is given by the op (operation) field, the highest 6 bits. J-type (jump) and I-type (immediate) instructions are fully specified by op. R-type (register) instructions include an additional field funct to determine the exact operation. The fields used in these types are:
+
+   6      5     5     5     5      6 bits
+[  op  |  rs |  rt |  rd |shamt| funct]  R-type
+[  op  |  rs |  rt | address/immediate]  I-type
+[  op  |        target address        ]  J-type
+
+rs, rt, and rd indicate register operands; shamt gives a shift amount; and the address or immediate fields contain an operand directly.[11]: 299–301 
+For example, adding the registers 1 and 2 and placing the result in register 6 is encoded:[11]: 554 
+
+[  op  |  rs |  rt |  rd |shamt| funct]
+    0     1     2     6     0     32     decimal
+ 000000 00001 00010 00110 00000 100000   binary
+
+Load a value into register 8, taken from the memory cell 68 cells after the location listed in register 3:[11]: 552 
+
+[  op  |  rs |  rt | address/immediate]
+   35     3     8           68           decimal
+ 100011 00011 01000 00000 00001 000100   binary
+
+Jumping to the address 1024:[11]: 552 
+
+[  op  |        target address        ]
+    2                 1024               decimal
+ 000010 00000 00000 00000 10000 000000   binary
+
+Overlapping instructions[edit]
+On processor architectures with variable-length instruction sets[12] (such as Intel's x86 processor family) it is, within the limits of the control-flow resynchronizing phenomenon known as the Kruskal count,[13][12][14][15][16] sometimes possible through opcode-level programming to deliberately arrange the resulting code so that two code paths share a common fragment of opcode sequences.[nb 3] These are called overlapping instructions, overlapping opcodes, overlapping code, overlapped code, instruction scission, or jump into the middle of an instruction.[17][18][19]
+In the 1970s and 1980s, overlapping instructions were sometimes used to preserve memory space. One example were in the implementation of error tables in Microsoft's Altair BASIC, where interleaved instructions mutually shared their instruction bytes.[20][12][17] The technique is rarely used today, but might still be necessary to resort to in areas where extreme optimization for size is necessary on byte-level such as in the implementation of boot loaders which have to fit into boot sectors.[nb 4]
+It is also sometimes used as a code obfuscation technique as a measure against disassembly and tampering.[12][15]
+The principle is also used in shared code sequences of fat binaries which must run on multiple instruction-set-incompatible processor platforms.[nb 3]
+This property is also used to find unintended instructions called gadgets in existing code repositories and is used in return-oriented programming as alternative to code injection for exploits such as return-to-libc attacks.[21][12]
+
+Relationship to microcode[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2024) (Learn how and when to remove this message)
+In some computers, the machine code of the architecture is implemented by an even more fundamental underlying layer called microcode, providing a common machine language interface across a line or family of different models of computer with widely different underlying dataflows. This is done to facilitate porting of machine language programs between different models. An example of this use is the IBM System/360 family of computers and their successors.
+
+Relationship to bytecode[edit]
+Machine code is generally different from bytecode (also known as p-code), which is either executed by an interpreter or itself compiled into machine code for faster (direct) execution. An exception is when a processor is designed to use a particular bytecode directly as its machine code, such as is the case with Java processors.
+Machine code and assembly code are sometimes called native code when referring to platform-dependent parts of language features or libraries.[22]
+
+Storing in memory[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2024) (Learn how and when to remove this message)
+From the point of view of the CPU, machine code is stored in RAM, but is typically also kept in a set of caches for performance reasons. There may be different caches for instructions and data, depending on the architecture.
+The CPU knows what machine code to execute, based on its internal program counter. The program counter points to a memory address and is changed based on special instructions which may cause programmatic branches. The program counter is typically set to a hard coded value when the CPU is first powered on, and will hence execute whatever machine code happens to be at this address.
+Similarly, the program counter can be set to execute whatever machine code is at some arbitrary address, even if this is not valid machine code. This will typically trigger an architecture specific protection fault.
+The CPU is oftentimes told, by page permissions in a paging based system, if the current page actually holds machine code by an execute bit — pages have multiple such permission bits (readable, writable, etc.) for various housekeeping functionality. E.g. on Unix-like systems memory pages can be toggled to be executable with the mprotect() system call, and on Windows, VirtualProtect() can be used to achieve a similar result. If an attempt is made to execute machine code on a non-executable page, an architecture specific fault will typically occur. Treating data as machine code, or finding new ways to use existing machine code, by various techniques, is the basis of some security vulnerabilities.
+Similarly, in a segment based system, segment descriptors can indicate whether a segment can contain executable code and in what rings that code can run.
+From the point of view of a process, the code space is the part of its address space where the code in execution is stored. In multitasking systems this comprises the program's code segment and usually shared libraries. In multi-threading environment, different threads of one process share code space along with data space, which reduces the overhead of context switching considerably as compared to process switching.
+
+Readability by humans[edit]
+Machine code can be seen as a set of electrical pulses that make the instructions readable to the computer; it is not readable by humans,[23] with Douglas Hofstadter comparing it to examining the atoms of a DNA molecule.[24] However, various tools and methods exist to decode machine code to human-readable source code. One such method is disassembly, which easily decodes it back to its corresponding assembly language source code because assembly language forms a one-to-one mapping to machine code.[25]
+Machine code may also be decoded to high-level language under two conditions. The first condition is to accept an obfuscated reading of the source code. An obfuscated version of source code is displayed if the machine code is sent to a decompiler of the source language. The second condition requires the machine code to have information about the source code encoded within. The information includes a symbol table that contains debug symbols. The symbol table may be stored within the executable, or it may exist in separate files. A debugger can then read the symbol table to help the programmer interactively debug the machine code in execution.
+
+The SHARE Operating System (1959) for the IBM 709, IBM 7090, and IBM 7094 computers allowed for an loadable code format named SQUOZE. SQUOZE was a compressed binary form of assembly language code and included a symbol table.
+Modern IBM mainframe operating systems, such as z/OS, have available a symbol table named Associated data (ADATA). The table is stored in a file that can be produced by the IBM High-Level Assembler (HLASM),[26][27] IBM's COBOL compiler,[28] and IBM's PL/I compiler,[29] either as a separate SYSADATA file or as ADATA records in a Generalized object output file (GOFF).[30]
+Microsoft Windows has available a symbol table[31] that is stored in a program database (.pdb) file.[32]
+Most Unix-like operating systems have available symbol table formats named stabs and DWARF. In macOS and other Darwin-based operating systems, the debug symbols are stored in DWARF format in a separate .dSYM file.
+See also[edit]
+
+
+
+Look up machine code in Wiktionary, the free dictionary.
+
+Assembly language
+Endianness
+List of machine languages
+Machine code monitor
+Overhead code
+P-code machine
+Reduced instruction set computer (RISC)
+Very long instruction word
+Teaching Machine Code: Micro-Professor MPF-I
+Notes[edit]
+
+
+^ On nonbinary machines it is, e.g., a decimal representation.
+
+^ On early decimal machines, patterns of characters, digits and digit sign
+
+^ a b While overlapping instructions on processor architectures with variable-length instruction sets can sometimes be arranged to merge different code paths back into one through control-flow resynchronization, overlapping code for different processor architectures can sometimes also be crafted to cause execution paths to branch into different directions depending on the underlying processor, as is sometimes used in fat binaries.
+
+^  For example, the DR-DOS master boot records (MBRs) and boot sectors (which also hold the partition table and BIOS Parameter Block, leaving less than 446 respectively 423 bytes for the code) were traditionally able to locate the boot file in the FAT12 or FAT16 file system by themselves and load it into memory as a whole, in contrast to their counterparts in MS-DOS and PC DOS, which instead rely on the system files to occupy the first two directory entry locations in the file system and the first three sectors of IBMBIO.COM to be stored at the start of the data area in contiguous sectors containing a secondary loader to load the remainder of the file into memory (requiring SYS to take care of all these conditions). When FAT32 and logical block addressing (LBA) support was added, Microsoft even switched to require i386 instructions and split the boot code over two sectors for code size reasons, which was no option to follow for DR-DOS as it would have broken backward- and cross-compatibility with other operating systems in multi-boot and chain load scenarios, and as with older IBM PC–compatible PCs. Instead, the DR-DOS 7.07 boot sectors resorted to self-modifying code, opcode-level programming in machine language, controlled utilization of (documented) side effects, multi-level data/code overlapping and algorithmic folding techniques to still fit everything into a physical sector of only 512 bytes without giving up any of their extended functions.
+
+
+References[edit]
+
+
+^ Stallings, William (2015). Computer Organization and Architecture 10th edition. Pearson Prentice Hall. p. 776. ISBN 9789332570405.
+
+^ a b c Tanenbaum 1990, p. 251
+
+^ Tanenbaum 1990, p. 162
+
+^ Tanenbaum 1990, p. 231
+
+^ Tanenbaum 1990, p. 237
+
+^ Tanenbaum 1990, p. 236
+
+^ a b Tanenbaum 1990, p. 253
+
+^ Tanenbaum 1990, p. 283
+
+^ Dourish, Paul (2004). Where the Action is: The Foundations of Embodied Interaction. MIT Press. p. 7. ISBN 0-262-54178-5. Retrieved 2023-03-05.
+
+^ Zaks, Rodnay (1982). Programming the Z80 (Third Revised ed.). Sybex. pp. 67, 120, 609. ISBN 0-89588-094-6. Retrieved 2023-03-05.
+
+^ a b c d e Harris, David; Harris, Sarah L. (2007). Digital Design and Computer Architecture. Morgan Kaufmann Publishers. ISBN 978-0-12-370497-9. Retrieved 2023-03-05.
+
+^ a b c d e Jacob, Matthias; Jakubowski, Mariusz H.; Venkatesan, Ramarathnam [at Wikidata] (20–21 September 2007). Towards Integral Binary Execution: Implementing Oblivious Hashing Using Overlapped Instruction Encodings (PDF). Proceedings of the 9th workshop on Multimedia & Security (MM&Sec '07). Dallas, Texas, US: Association for Computing Machinery. pp. 129–140. CiteSeerX 10.1.1.69.5258. doi:10.1145/1288869.1288887. ISBN 978-1-59593-857-2. S2CID 14174680. Archived (PDF) from the original on 2018-09-04. Retrieved 2021-12-25. (12 pages)
+
+^ Lagarias, Jeffrey "Jeff" Clark; Rains, Eric Michael; Vanderbei, Robert J. (2009) [2001-10-13]. "The Kruskal Count". In Brams, Stephen; Gehrlein, William V.; Roberts, Fred S. (eds.). The Mathematics of Preference, Choice and Order. Studies in Choice and Welfare. Berlin / Heidelberg, Germany: Springer-Verlag. pp. 371–391. arXiv:math/0110143. doi:10.1007/978-3-540-79128-7_23. ISBN 978-3-540-79127-0. (22 pages)
+
+^ Andriesse, Dennis; Bos, Herbert [at Wikidata] (2014-07-10).  Written at Vrije Universiteit Amsterdam, Amsterdam, Netherlands. Dietrich, Sven (ed.). Instruction-Level Steganography for Covert Trigger-Based Malware (PDF). 11th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA). Lecture Notes in Computer Science. Egham, UK; Switzerland: Springer International Publishing. pp. 41–50 [45]. doi:10.1007/978-3-319-08509-8_3. eISSN 1611-3349. ISBN 978-3-31908508-1. ISSN 0302-9743. S2CID 4634611. LNCS 8550. Archived (PDF) from the original on 2023-08-26. Retrieved 2023-08-26. (10 pages)
+
+^ a b Jakubowski, Mariusz H. (February 2016). "Graph Based Model for Software Tamper Protection". Microsoft. Archived from the original on 2019-10-31. Retrieved 2023-08-19.
+
+^ Jämthagen, Christopher (November 2016). On Offensive and Defensive Methods in Software Security (PDF) (Thesis). Lund, Sweden: Department of Electrical and Information Technology, Lund University. p. 96. ISBN 978-91-7623-942-1. ISSN 1654-790X. Archived (PDF) from the original on 2023-08-26. Retrieved 2023-08-26. (1+xvii+1+152 pages)
+
+^ a b "Unintended Instructions on x86". Hacker News. 2021. Archived from the original on 2021-12-25. Retrieved 2021-12-24.
+
+^ Kinder, Johannes (2010-09-24). Static Analysis of x86 Executables [Statische Analyse von Programmen in x86 Maschinensprache] (PDF) (Dissertation). Munich, Germany: Technische Universität Darmstadt. D17. Archived from the original on 2020-11-12. Retrieved 2021-12-25. (199 pages)
+
+^ "What is "overlapping instructions" obfuscation?". Reverse Engineering Stack Exchange. 2013-04-07. Archived from the original on 2021-12-25. Retrieved 2021-12-25.
+
+^ Gates, William "Bill" Henry, Personal communication (NB. According to Jacob et al.)
+
+^ Shacham, Hovav (2007). The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86) (PDF). Proceedings of the ACM, CCS 2007. ACM Press. Archived (PDF) from the original on 2021-12-15. Retrieved 2021-12-24.
+
+^ "Managed, Unmanaged, Native: What Kind of Code Is This?". developer.com. 2003-04-28. Retrieved 2008-09-02.
+
+^ Samuelson 1984, p. 683.
+
+^ Hofstadter 1979, p. 290.
+
+^ Tanenbaum 1990, p. 398.
+
+^ "Associated Data Architecture". High Level Assembler and Toolkit Feature.
+
+^ "Associated data file output" (PDF). High Level Assembler for z/OS & z/VM & z/VSE - 1.6 -HLASM Programmer's Guide (PDF) (Eighth ed.). IBM. October 2022. pp. 278–332. SC26-4941-07. Retrieved 2025-02-14.
+
+^ "COBOL SYSADATA file contents". Enterprise COBOL for z/OS.
+
+^ "SYSADATA message information". Enterprise PL/I for z/OS 6.1 information.
+
+^ "Appendix C. Generalized object file format (GOFF)" (PDF). z/OS - 3.1 - MVS Program Management: Advanced Facilities (PDF). IBM. 2024-12-18. pp. 201–240. SA23-1392-60. Retrieved 2025-02-14.
+
+^ "Symbols for Windows debugging". Microsoft Learn. 2022-12-20.
+
+^ "Querying the .Pdb File". Microsoft Learn. 2024-01-12.
+
+
+Sources[edit]
+Hofstadter, Douglas R. (1979). Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books. ISBN 0-465-02685-0. Retrieved 2025-02-10.
+Samuelson, Pamela (1984). "CONTU Revisited: The Case Against Copyright Protection for Computer Programs in Machine-Readable Form". Duke Law Journal. 33 (4): 663–769. doi:10.2307/1372418. hdl:hein.journals/duklr1984. JSTOR 1372418. Retrieved 2025-02-10.
+Tanenbaum, Andrew S. (1990). Structured Computer Organization, Third Edition. Prentice Hall. p. 398. ISBN 978-0-13-854662-5.
+Further reading[edit]
+Hennessy, John L.; Patterson, David A. (1994). Computer Organization and Design. The Hardware/Software Interface. Morgan Kaufmann Publishers. ISBN 1-55860-281-X.
+Tanenbaum, Andrew S. (1999). Structured Computer Organization (Fourth ed.). Prentice Hall. ISBN 0-13-020435-8. Retrieved 2025-02-10.
+Brookshear, J. Glenn (2007). Computer Science: An Overview (Ninth ed.). Addison Wesley. ISBN 978-0-321-38701-1. Retrieved 2025-02-10.
+vteApplication binary interface (ABI)Parts,conventions
+Alignment
+Calling convention
+Call stack
+Library
+static
+Machine code
+Memory segmentation
+Name mangling
+Object code
+Opaque pointer
+Position-independent code
+Relocation
+System call
+Virtual method table
+Related topics
+Binary-code compatibility
+Foreign function interface
+Language binding
+Linker
+dynamic
+Loader
+Year 2038 problem
+
+vteTypes of programming languagesLevel
+Machine
+Assembly
+Compiled
+Interpreted
+Low-level
+High-level
+Very high-level
+Esoteric
+Generation
+First
+Second
+Third
+Fourth
+Fifth
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Machine_code&oldid=1283806105"
+Categories: Machine codeAssembly languagesLow-level programming languagesHidden categories: CS1 interproject-linked namesCS1 location testArticles with short descriptionShort description is different from WikidataUse dmy dates from December 2021Use list-defined references from December 2021Articles needing additional references from September 2024All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 3 April 2025, at 19:35 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Machine code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

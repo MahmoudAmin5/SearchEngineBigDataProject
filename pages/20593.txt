@@ -1,0 +1,903 @@
+https://en.wikipedia.org/wiki/Small_form_factor_(desktop_and_motherboard)
+
+
+
+
+Small form factor PC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Features
+
+
+
+
+
+
+
+
+3
+Enthusiast community and crowdfunding
+
+
+
+
+
+
+
+
+4
+SFF types
+
+
+
+
+Toggle SFF types subsection
+
+
+
+
+
+4.1
+Cubic / Shoebox
+
+
+
+
+
+
+
+
+4.2
+Sandwich
+
+
+
+
+
+
+
+
+4.3
+Console
+
+
+
+
+
+
+
+
+4.4
+Nettop
+
+
+
+
+
+
+
+
+4.5
+Home theatre boxes
+
+
+
+
+
+
+
+
+4.6
+Computer-on-module
+
+
+
+
+
+
+
+
+4.7
+Ultra-Small Form Factor
+
+
+
+
+
+
+4.7.1
+Micro
+
+
+
+
+
+
+
+
+
+
+4.8
+Ultra-compact Form Factor
+
+
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Small form factor PC
+
+
+
+6 languages
+
+
+
+
+বাংলাCatalàDeutschEspañolFrançais日本語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Small form factor (desktop and motherboard))
+Form factor for desktop computers and motherboards
+Mac mini, a popular small form factor computer made by Apple
+Small form factor (SFF) is a classification of desktop computers and for some of their components, chassis and motherboard, to indicate that they are designed in accordance with one of several standardized form factors intended to minimize the volume and footprint of a desktop computer compared to the standard ATX form factor.
+For comparison purposes, the size of an SFF case is usually measured in litres. SFFs are available in a variety of sizes and shapes, including shoeboxes, cubes, and book-sized PCs. Their smaller and often lighter construction has made them popular as home theater PCs and as gaming computers for attending LAN parties. Manufacturers also emphasize the aesthetic and ergonomic design of SFFs since users are more likely to place them on top of a desk or carry them around. Advancements in technology combined with a reduced size enables a powerful computer to be a smaller size.[1]
+
+Small form factor designs do not include computing devices that have traditionally been small, such as embedded or mobile systems.[2] However, "small form factor" lacks a normative definition and is consequently open to interpretation and misuse. Manufacturers often provide definitions that serve the interests of their products.[3] According to marketing strategy, one manufacturer may decide to mark their product as "small form factor" while other manufacturers are using different marketing name (such as "Minitower", "Microtower" or "Desktop") for personal computers of similar or even smaller footprint.Motherboard form factor comparison, as of 2007 (pen for scale)
+
+History[edit]
+The acronym SFF originally stood for "Shuttle Form Factor," describing shoebox-sized personal computers with two expansion slots.[4] The meaning of SFF evolved to include other, similar PC designs from brands such as AOpen and First International Computer, with the word "Small" replacing the word "Shuttle".
+The term SFF is used in contrast with terms for larger systems such as "mini-towers" and "desktops."[5]
+
+Features[edit]
+Inside an HP SFF desktop computer
+Small form factor computers are generally designed to support the same features as modern desktop computers, but in a smaller space. Most accept standard x86 microprocessors, standard DIMM memory modules, standard 8.9 cm (3.5") hard disks, and standard 13.3 cm (5.25") optical drives.
+However, the small size of SFF cases may limit expansion options; many commercial offerings provide only one 8.9 cm (3.5") drive bay and one or two 13.3 cm (5.25") external bays. Standard CPU heatsinks do not always fit inside an SFF computer, so some manufacturers provide custom cooling systems. Though limited to one or two expansion cards, a few have the space for 3⁄4-length cards such as the GeForce GTX-295.[6]  Most SFF computers use highly integrated motherboards containing many on-board peripherals, reducing the need for expansion cards. As of 2020 many SFF PC cases do not include any expansion bays larger than 2.5 inches[7] (large enough to accommodate SATA SSDs), due to the declining popularity of optical disc drives[8][9][10][11] and 3.5-inch hard drives in the consumer space.[12]
+Even if labeled "SFF," cube-style cases that support full-sized (PS2 form factor) power supplies actually have a microATX form factor. True SFF systems use SFX, TFX or smaller power supplies  [citation needed], and some require a laptop-style external "power brick."
+Some SFF computers even include compact components designed for mobile computers, such as notebook optical drives, notebook memory modules, notebook processors, and external AC adapters, rather than the internal power supply units found in full-size desktop computers.
+
+Enthusiast community and crowdfunding[edit]
+Crowdfunding and availability of rapid prototyping tools has enabled the production of several mini-ITX cases focusing on efficiently organizing commercial computer components into small volumes including the Ghost S1,[13][14] DAN A4-SFX,[15][16] and Thor Zone MJOLNIR.[17][18] Communities of enthusiasts[19][20][21] and reviewers[22] now develop and promote enhanced SFF assembly, maintenance, and performance criteria. 3D printing and laser cutting have enabled customization and one-off production by both manufacturers like Lazer3D[23] and individual users[24] with access to the relevant equipment.
+
+SFF types[edit]
+The many different types of SFFs[25] are categorized loosely by their shape and size. The types below are available as of 2013[update].
+
+Cubic / Shoebox[edit]
+Shoebox case (Shuttle SP35 Pro)
+Many SFF computers have a cubic shape. Smaller models are typically sold as barebones units, including a case, motherboard, and power supply designed to fit together. The motherboard lies flat against the base of the case. Upgrade options may be limited by the non-standard motherboards, cramped interior space, and power and airflow concerns. The Power Mac G4 Cube, released in 2000, and the Shuttle XPC are good examples of this design. MSI and Asus produce similar designs. The Xi3 Modular Computer is an example of a cube computer with a little more upgrade possibilities.
+Shuttle has adapted several of its XPC models (some 5-series and most later) to alternately accept mini-ITX motherboards. The base of the XPC is provided with mounting points which accommodate both "Shuttle form factor" (ShFF) and mini-ITX motherboards. In order to accommodate mini-ITX motherboards, two of the ShFF mounting points are simply relocated (the remaining mini-ITX mounting points are in common with the remaining ShFF mounting points). A "standard" ShFF motherboard is 20.6 cm (8 1/8″) wide by 27.3 cm (10 3/4″) deep, with the I/O shield and the two PCI slots being located in common with mini-ITX motherboards. Most ShFF systems utilize Shuttle's proprietary heat pipe (liquid cooling) system, "Integrated Cooling Engine" (ICE), for the processor, although several also feature heat pipe cooling for the voltage regulator and/or the chip set (Northbridge). When an ShFF system is upgraded to a mini-ITX motherboard, an Intel or compatible processor fan must replace the ICE cooler. The ShFF's ICE computer fan is so designed that it may be repurposed as a case fan when the case is upgraded to mini-ITX use. When so upgraded, the repurposed fan would be connected to the motherboard's case fan connector (3-pin) while the new CPU fan would be connected to the motherboard's CPU fan connector (4-pin).
+AOpen Inc. produced a stackable S120[26] case, allowing the user to stack up to four components vertically or horizontally. These layers can be for add-on cards, optical drives, and hard drives, using either internal power supplies or external AC adapter power sources. After the S120, AOpen made more small form factor cases for systems with Micro ATX and Mini-ITX.
+
+Sandwich[edit]
+Sandwich caseRight side, showing the power supply and CPU coolerLeft side, showing the graphics card
+The graphics card is placed behind the motherboard and PSU, connecting to it via a PCI Express x16 extension cable. This design is popular with SFF enthusiasts as it packs high-performance hardware into a small space while providing adequate cooling. Water cooling radiators may be added on to the top, bottom or sides to further increase cooling capacity. An electrically insulating sheet, such as thermoplastic polyurethane, may be placed between the motherboard/PSU and graphics card to implement separate airflow zones, isolating heat sources from each other to improve cooling.[27][28]
+
+Console[edit]
+Resembling a gaming console (such as Xbox One or PlayStation 4), the graphics card is placed directly above or below the motherboard and PSU. The graphics card is connected to motherboard with a PCIe x16 extension cable. This form factor is popular for those with a lack of desk or floor space as the footprint is small when placed vertically. It may also fit nicely into a TV cabinet/shelf and act as a cheaper, faster, upgradable alternative to gaming consoles. The graphics card may be sectioned off internally as to isolate it from the heat produced by the CPU.[29][30]
+
+Nettop[edit]
+Main article: Nettop
+ Acer Aspire Revo (2009)
+Until 2005, SFF cases were usually sold as barebones units (case, power supply, and motherboard) to system integrators and home-based builders. In 2005, Apple Inc. introduced its Mac Mini (volume of 1.4 L, excluding external power brick). Later in the same year, the first AOpen mini PC MP915 (renamed to XC mini in 2007 since "mini PC" could not be registered as a trademark), was announced. The size of the XC mini series PC—16.5(W) × 5.0(H) × 16.5(D) cm—makes it one of the smallest desktop PC systems (1.3L volume). It was criticized for looking like the Apple Mac Mini but Apple has not taken action on this subject. In February 2007, AOpen redesigned the case of the mini PC MP945 series.
+Since 2006, major OEM PC brands such as HP and Dell have begun to sell fully assembled SFF systems. These are often described as bookshelf units since they resemble a miniature tower case small enough to fit on a bookshelf. The HP Slimline series and Dell Dimension C521 (volume 1.65 L) are good examples of this trend. The Maxdata Favorite 300XS is another mini computer. The HP Slimline uses a non-standard motherboard that is very similar in size to Mini-ITX.[31]
+In addition to its industrial use, the extremely small Mini-ITX motherboard form factor has also been incorporated into SFF computers. These are often extremely compact, incorporating low-power components such as the VIA C3 processors. The Travla C134 is an example of this design. At 17.8 x 25.4 x 5.1 cm (7 × 10 × 2") the Travla C134 is somewhat larger than the Mac mini which is 16.5 x 16.5 x 5.1 cm (6.5 × 6.5 × 2") and barely bigger than a standard 13.3 cm (5.25") optical drive.
+Beginning in 2007, several other companies have released other very small computers that besides a small size, focus on a low price, and extremely high power efficiency (typically 10 W or below in use). These include the Zonbu, fit-PC, Linutop, and A9home. With the release of Intel Atom CPU, AOpen also made Nettop systems: the uBox series with model LE200 and LE210.[32] The uBox series equips a dual-core Intel Atom 270/330 processor, single-channel DDR-II 533/667 memory, Intel 945GC+ICH7 chipset, three SATA connectors and 5.1-channel high-definition audio output.
+
+Home theatre boxes[edit]
+Essentially a bookshelf-style case lying on its side, a miniature HTPC replicates the look of other smaller-than-rack-sized home theatre components such as a DVR or mini audio receiver. The front panel interface is emphasized, with the optical disc drive rotated relative to the case in order to maintain horizontal mounting, and more motherboard port connectors (such as for USB) are routed to the front panel, they normally are as powerful as PC desktops.
+
+Computer-on-module[edit]
+A computer-on-module (COM) is a complete computer built on a single circuit board. They are often used as embedded systems due to their small physical size and low power consumption. Gumstix is one manufacturer of COMs.
+
+Ultra-Small Form Factor[edit]
+Each model of Dell's OptiPlex line of computers typically includes an Ultra-Small Form Factor (USFF) chassis option. In the Core 2 era, these machines used 8.9 cm (3.5") desktop hard drives and external power supplies, such as the OptiPlex 745 and 755. More recent units use 6.4 cm (2.5") laptop hard drives and have integrated power supplies, such as the OptiPlex 990 USFF. The compact size comes at the cost of restricted expandability, as USFF models have no PCI or PCIe slots and may have limited CPU and memory options.
+
+Micro[edit]
+Starting from Series 5, USFF was replaced with Micro variants, an even smaller size option that uses external power supplies and does not have optical drives.
+
+Ultra-compact Form Factor[edit]
+An Intel NUC (2013)
+Understood as comprising nano-ITX (12 × 12 cm) and pico-ITX (10 × 7.2 cm) boards, the format was championed by VIA Technologies.[33] Intel now describes its own Next Unit of Computing (NUC) products (10.2 x 10.2 cm or 4 × 4") as UCFF.[34]
+
+See also[edit]
+ATX
+Case modding
+Mac mini
+Mini PC
+Nettop
+PC-on-a-stick
+Business SFF-class nettops:  Dell OptiPlex, Fujitsu Esprimo, Lenovo ThinkCentre, HP ProDesk and EliteDesk
+Single-board microcontroller
+List of Arduino compatibles
+Small Form Factor Committee
+Small Form Factor Special Interest Group (SFF-SIG)
+Low-profile video card
+Mini-ITX
+References[edit]
+
+
+^ "Small Form Factor PCs - Fierce PC". www.fiercepc.co.uk. Retrieved 2016-10-05.
+
+^ Joe Rybicki (May 2007). "The Incredible Shrinking Game Machine! Part One: The Small-Form-Factor PC". Games for Windows: The Official Magazine (6): 92–96. Yes, early small-form-factor machines (let's just call 'em SFFs) had some issues. OK, a lot of issues. Designed for the gimpiest casual user, these mini-PCs didn't offer many options in the way of upgrades or power. The cases were often too small to fit a full-size videocard [...] Still, two very specific users saw the SFFs' potential. First, home theater enthusiasts realized that these pint-sized PCs made for ideal media center hubs, and second, LAN partygoers naturally glommed on to them for the portability factor. [...] we could see the SFF market gaining a lot more momentum. Until then, enjoy being the first on your block to squeeze a full-size tower's worth of top-level gear into a shoebox-size package.
+
+^ "SilverStone Technology Co., Ltd. What is SFF (SG03)?". silverstonetek.com. Archived from the original on 11 September 2007. Retrieved 23 April 2018.
+
+^ "Choosing the PC Case That's Right For You - www.sysopt.com". 2012-05-10. Archived from the original on 2012-05-10. Retrieved 2020-12-02.
+
+^ "Choosing the PC Case That's Right For You - www.sysopt.com". 2012-05-10. Archived from the original on 2012-05-10. Retrieved 2020-12-02.
+
+^ "Assembly And BIOS - Shuttle's SX58H7 Ultra-Portable Core i7 Platform". tomshardware.com. 1 May 2009. Retrieved 23 April 2018.
+
+^ James, Dave (December 1, 2020). "The best mini-ITX case in 2020". PC Gamer.
+
+^ "Q&A: Why do new laptops not come with optical drives?". October 23, 2020.
+
+^ "Why Do Most New PCs Not Come With DVD or Blu-Ray Drives?". Lifewire.
+
+^ "Disc Deathbed: Is the Optical Drive Obsolete? | Laptop Mag". www.laptopmag.com. 23 July 2011.
+
+^ "Why you might still want an optical drive | PCWorld". www.pcworld.com.
+
+^ "The death of disk? HDDs still have an important role to play". September 2, 2019.
+
+^ "Ghost S1 MkII". Kickstarter. Retrieved 2020-02-16.
+
+^ "Louqe". Retrieved 2020-02-16.
+
+^ "DAN Cases A4-SFX v2 - an ultra-compact SFF case". Kickstarter. Retrieved 2020-02-16.
+
+^ "DAN Cases". Retrieved 2020-02-16.
+
+^ "MJOLNIR: The minimalistic – but not boring – PC Case". Kickstarter. Retrieved 2020-02-16.
+
+^ "MJOLNIR". Retrieved 2020-02-16.
+
+^ "SFF.Network". Retrieved 2020-02-16.
+
+^ "Small Form Factor PC". reddit. Retrieved 2020-02-16.
+
+^ "Small Form Factor Systems | [H]ard|Forum". 2022-01-08. Archived from the original on 2022-01-08. Retrieved 2022-01-08.
+
+^ "Optimum Tech". YouTube. Retrieved 2020-02-16.
+
+^ "Lazer3D - High Performance SFF PC Cases". Retrieved 2020-02-16.
+
+^ "THINGS TAGGED WITH 'SFF'". Retrieved 2020-02-16.
+
+^ "List of Small Form Factors," PC/104 and Small Form Factors, 2008
+
+^ S120 spec: http://global.aopen.com/products_detail.aspx?auno=2367
+
+^ "NCASE". NCASE. Retrieved 2024-03-01.
+
+^ "DAN Cases". www.dan-cases.com. Retrieved 2024-03-01.
+
+^ "Console | Sliger". sliger.com. Retrieved 2024-03-01.
+
+^ "DR ZĄBER SENTRY 2.0 - Console-sized gaming PC case". zaber.com.pl. Retrieved 2024-03-01.
+
+^ "HP and Compaq Desktop PCs - Motherboard Specifications, PTGV-DM (Onyx2)". hp.com. Retrieved 23 April 2018.
+
+^ uBox news: http://global.aopen.com/news_detail.aspx?auno=10309&ntype=Product%20News
+
+^ "GIGABYTE's Haswell BRIX Lineup Updated with BRIX s Models". AnandTech. Retrieved 2014-01-13.
+
+^ "Intel® NUC Board D33217GKE". Intel.com. Retrieved 2014-01-13.
+
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Small_form_factor_PC&oldid=1285418463"
+Category: Motherboard form factorsHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from August 2023Articles containing potentially dated statements from 2013All articles containing potentially dated statementsPages using multiple image with auto scaled images
+
+
+
+
+
+
+ This page was last edited on 13 April 2025, at 16:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Small form factor PC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

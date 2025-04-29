@@ -1,0 +1,679 @@
+https://en.wikipedia.org/wiki/Harvard_Mark_III
+
+
+
+
+Harvard Mark III - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Technical overview
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+Further reading
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harvard Mark III
+
+
+
+3 languages
+
+
+
+
+EspañolFrançais日本語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Electromechanical computer built at Harvard University in 1949
+Harvard Mark IIIThe Mark III computer room at DahlgrenAlso known asADEC (for Aiken Dahlgren Electronic Calculator)DeveloperHoward AikenManufacturerHarvard UniversityRelease dateMarch 1950; 75 years ago (1950-03)CPU5,000 vacuum tubesWeight10 tons[1]PredecessorHarvard Mark IISuccessorHarvard Mark IV
+The Harvard Mark III, also known as ADEC (for Aiken Dahlgren Electronic Calculator) was an early computer that was partially electronic and partially electromechanical.  It was built at Harvard University under the supervision of Howard Aiken for use at Naval Surface Warfare Center Dahlgren Division.
+
+
+Technical overview[edit]
+The Mark III processed numbers of 16 decimal digits (plus sign), each digit was  encoded by four bits, though using a form of encoding that is different to conventional binary-coded decimal today. Numbers were read and processed serially, meaning one decimal digit at a time, but the four bits for the digit were read in parallel. The instruction length, however, was 38 bits, read in parallel.[2]
+It used 5,000 vacuum tubes and 1,500 crystal diodes. It weighed 10 tons.[1][3] It used magnetic drum memory of 4,350 words. Its addition time was 4,400 microseconds and the multiplication time was 13,200 microseconds (times include memory access time). Aiken boasted that the Mark III was the fastest electronic computer in the world.
+The Mark III used nine magnetic drums (one of the first computers to do so). One drum could contain 4,000 instructions and has an access time of 4,400 microseconds; thus it was a stored-program computer. The arithmetic unit could access two other drums – one contained 150 words of constants and the other contained 200 words of variables. Both of these drums also had an access time of 4,400 microseconds. This separation of data and instructions is now sometimes referred to as the Harvard architecture although that term was not coined until the 1970s (in the context of microcontrollers).[4] There were six other drums that held a total of 4,000 words of data, but the arithmetic unit could not access these drums directly. Data had to be transferred between these drums and the drum the arithmetic unit could access via registers implemented by electromechanical relays. This was a bottleneck in the computer and made the access time to data on these drums long – 80,000 microseconds. This was partially compensated for by the fact that twenty words could be transferred on each access.
+The Mark III was finished in September 1949 and delivered to the U.S. Naval Proving Ground at the U.S. Navy base at Dahlgren, Virginia in March 1950.[5] Rebuilding the computer in its new location took the remainder of the year.[6][7] It became operational in 1951, and was being operated 24 hours a day, 6 days a week by October.[8]
+
+See also[edit]
+Harvard Mark I
+Harvard Mark II
+Harvard Mark IV
+Howard Aiken
+List of vacuum-tube computers
+References[edit]
+
+
+^ a b "Yesterday's News". Harvard Magazine. Circulation Department. September–October 2009.
+
+^ Staff of the Computation Laboratory (1952). Description of a Magnetic Drum Calculator (PDF). Annals of the Computation Laboratory of Harvard University, Vol. XXV. Harvard University Press, Cambridge, Mass.
+
+^ Magazines, Hearst (November 1949). Popular Mechanics. Hearst Magazines. p. 112.
+
+^ Pawson, Richard (30 September 2022). "The Myth of the Harvard Architecture". IEEE Annals of the History of Computing. 44 (3): 59–69. doi:10.1109/MAHC.2022.3175612. S2CID 252018052.
+
+^ "Naval Proving Ground Calculators". Digital Computer Newsletter. 2 (2): 1. May 1950. Archived from the original on January 30, 2022.
+
+^ The sound of freedom: Naval Weapons Technology at Dahlgren, Virginia 1918-2006. Government Printing Office. 2006. pp. 96–97. ISBN 9780160872488. ADEC 1951.
+
+^ "Naval Proving Ground Calculators". Digital Computer Newsletter. 2 (4): 2. December 1950. Archived from the original on January 30, 2022. The Mark III Calculator has been reassembled and is undergoing tests. It is expected to be in a production status by January 1951.
+
+^ "Naval Proving Ground Calculators". Digital Computer Newsletter. 3 (3): 2. October 1951. Archived from the original on January 30, 2022.
+
+
+Further reading[edit]
+A History of Computing Technology, Michael R. Williams, 1997, IEEE Computer Society Press, ISBN 0-8186-7739-2
+External links[edit]
+BRL report, 1955 - see ADEC
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Harvard_Mark_III&oldid=1280201226"
+Categories: 1950s computersComputer-related introductions in 1951Electro-mechanical computersOne-of-a-kind computersVacuum tube computersHarvard UniversityHistory of the United States NavyHidden categories: Articles with short descriptionShort description matches Wikidata
+
+
+
+
+
+
+ This page was last edited on 13 March 2025, at 04:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harvard Mark III
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

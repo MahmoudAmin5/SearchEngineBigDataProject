@@ -1,0 +1,742 @@
+https://en.wikipedia.org/wiki/Raster_graphics_editor
+
+
+
+
+Raster graphics editor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Comparison to vector graphic editors
+
+
+
+
+
+
+
+
+2
+Popular editors
+
+
+
+
+
+
+
+
+3
+Common features
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Raster graphics editor
+
+
+
+27 languages
+
+
+
+
+العربيةБеларускаяБеларуская (тарашкевіца)BosanskiCatalàČeštinaEspañolEuskaraفارسیFrançais한국어ՀայերենМакедонскиമലയാളംNederlands日本語Олык марийپنجابیPolskiРусскийSlovenčinaSlovenščinaTürkçeУкраїнськаاردوTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (May 2014)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Raster graphics editor" – news · newspapers · books · scholar · JSTOR (January 2024) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+Type of application software
+Darktable, a raw photo post-processing application
+GIMP, a feature-rich general-purpose raster graphics editor
+A raster graphics editor (also called bitmap graphics editor) is a computer program that allows users to create and edit images interactively on the computer screen and save them in one of many raster graphics file formats (also known as bitmap images) such as JPEG, PNG, and GIF.
+
+
+Comparison to vector graphic editors[edit]
+Vector graphics editors are often contrasted with raster graphics editors, yet their capabilities complement each other. The technical difference between vector and raster editors stem from the difference between vector and raster images. Vector graphics are created mathematically, using geometric formulas. Each element is created and manipulated numerically; essentially using Cartesian coordinates for the placement of key points, and then a mathematical algorithm to connect the dots and define the colors.
+Raster images include digital photos. A raster image is made up of rows and columns of dots, called pixels,[1][2] and is generally more photo-realistic. This is the standard form for digital cameras; whether it be a .raw file or .jpg file, the concept is the same. The image is represented pixel by pixel, like a microscopic jigsaw puzzle.
+Vector editors tend to be better suited for graphic design, page layout, typography, logos, sharp-edged artistic illustrations, e.g., cartoons, clip art, complex geometric patterns, technical illustrations, diagramming and flowcharting.
+Advanced raster editors, like GIMP and Adobe Photoshop, use vector methods (mathematics) for general layout and elements such as text, but are equipped to deal with raster images down to the pixel and often have special capabilities in doing so, such as brightness/contrast, and even adding "lighting" to a raster image or photograph.
+
+Popular editors[edit]
+Adobe Photoshop: Industry standard for photography, design, and digital art
+GIMP: Free, open-source alternative with similar features to Photoshop
+Corel Painter: Focuses on digital painting with traditional art simulation
+Affinity Photo: Professional-grade tools with a one-time purchase model
+Procreate(iOS): Popular app for digital painting on iPad
+Krita : A popular software for Windows.
+Common features[edit]
+Select a region for editing
+Draw lines with simulated brushes of different color, size, shape and pressure
+Fill a region with a single color, gradient of colors, or a texture
+Select a color using different color models, e.g., RGB, HSV, or by using a color dropper
+Edit and convert between various color models.
+Add typed letters in various font styles
+Remove imperfections from photo images
+Composite editing using layers
+Apply filters for effects including sharpening and blurring
+Convert between various image file formats
+
+See also[edit]
+Comparison of raster graphics editors
+Vector graphics editor
+Texture mapping
+Text editor
+3D modeling
+References[edit]
+
+
+^ "Raster image". MDN Web Docs. Retrieved 2024-02-01. A raster image is an image file defined as a grid of pixels. They're also referred to as bitmaps. Common raster image formats on the Web are JPEG, PNG, GIF, and ICO.
+
+^ "GIMP 2.10 User Manual". GIMP Documentation. Retrieved 2024-02-01. Digital images consist of a grid of square pixels. Each image has a size measured in two dimensions, such as 900 pixels wide by 600 pixels high
+
+
+External links[edit]
+ Media related to Raster graphics software at Wikimedia Commons
+vteRaster graphics editorsFree softwareFree-form drawingSimple
+GNU Paint
+GrafX2
+KolourPaint
+LazPaint
+mtPaint
+Pinta
+Tux Paint
+GIMP
+GimPhoto
+GIMPshop
+Seashore
+Photo editorsSimple
+Fotografix
+RAW
+darktable
+LightZone
+Rawstudio
+RawTherapee
+UFRaw
+Stitching
+Hugin
+Panorama Tools
+Image organizers
+DigiKam
+Eye of GNOME
+F-Spot
+gThumb
+Shotwell
+Digital painting
+Krita
+MyPaint
+Pencil2D
+CLI
+GraphicsMagick
+ImageMagick
+Specialized
+CinePaint
+CVIPtools
+ImageJ
+Phatch
+ProprietaryFreeware
+Adobe Photoshop Express
+AndreaMosaic
+Artweaver
+Brush Strokes Image Editor
+Chasys Draw IES
+Fatpaint
+Fresh Paint
+Microsoft Photos
+FastStone Image Viewer
+Fotografix
+IrfanView
+Paint 3D
+paint.net
+Photopea
+PhotoScape
+Pixia
+Windows Photo Gallery
+XnView
+Commercial
+ACD Canvas
+ACDSee
+Acorn
+Adobe Photoshop
+Adobe Photoshop Album
+Adobe Photoshop Elements
+Adobe Photoshop Lightroom
+Affinity Photo
+Aldus PhotoStyler
+Aperture
+Artipic
+ArtRage
+Bibble
+Barco Creator
+Brilliance
+Clip Studio Paint
+CodedColor PhotoStudio Pro
+Corel Painter Essentials
+Corel Painter
+Corel Photo-Paint
+Dazzle Draw
+Deluxe Paint
+Deluxe Paint Animation
+Erdas Imagine
+GraphicConverter
+HDR PhotoStudio
+Helicon Filter
+Kid Pix
+KoalaPainter
+LiveQuartz
+LView Pro
+MacPaint
+Microsoft Digital Image
+NEOchrome
+NeoPaint
+OCP Art Studio
+OpenCanvas
+PC Paintbrush
+PCPaint
+PaintShop Pro
+Paint Tool SAI
+Photo Mechanic
+Photo Raster
+PhotoImpression
+PhotoLine
+Photon Paint
+PhotoPerfect
+PicMaster
+Picnik
+Pixelmator
+PMview
+Portrait Professional
+Procreate
+Project Dogwaffle
+QFX
+Quantel Paintbox
+Retouch4me
+Serif PhotoPlus
+SilverFast HDR
+Sketchbook
+SuperPaint
+TVPaint
+Ulead PhotoImpact
+Xara Photo & Graphic Designer
+Zoner Photo Studio
+Bundled
+Ability Photopaint
+Microsoft Photo Editor
+Microsoft Office Picture Manager
+Microsoft Paint
+Photos (Windows)
+ Comparison  Category
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Raster_graphics_editor&oldid=1277414283"
+Category: Raster graphics editorsHidden categories: Wikipedia articles needing rewrite from May 2014All articles needing rewriteArticles needing additional references from January 2024All articles needing additional referencesArticles with multiple maintenance issuesArticles with short descriptionShort description is different from WikidataCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 24 February 2025, at 14:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Raster graphics editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

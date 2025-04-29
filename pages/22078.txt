@@ -1,0 +1,3354 @@
+https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp
+
+
+
+
+Pizza Restaurant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Tutorials
+        
+
+
+
+        Exercises
+        
+
+
+
+        Certificates
+        
+
+
+
+        Services
+        
+
+
+
+
+      Menu
+      
+
+
+
+
+
+          Search field
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+        Log in
+      
+
+        Sign Up
+      
+
+
+
+
+
+
+
+
+
+
+
+★
++1
+
+
+
+
+
+
+
+
+        Get Certified
+      
+
+
+
+
+        For Teachers
+      
+
+
+
+
+        Spaces
+      
+
+
+
+
+
+
+        Plus
+      
+
+
+
+
+
+
+        Get Certified
+      
+
+
+
+
+        For Teachers
+      
+
+
+
+
+        Spaces
+      
+
+
+
+
+
+
+        Plus
+      
+
+
+
+
+
+
+My W3Schools
+
+
+
+Tutorials
+
+
+
+           
+        
+
+
+
+Exercises
+
+
+
+           
+        
+
+
+
+Certificates
+
+
+
+           
+        
+
+
+
+Services
+
+
+
+           
+        
+
+
+Spaces
+
+
+
+
+
+Get Certified
+
+
+
+
+
+Plus
+
+
+
+
+
+
+
+Academy
+
+
+Logout
+
+
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+
+                    Tutorials filter input
+                  
+
+
+×
+
+
+
+
+
+
+
+                  HTML and CSS
+                
+
+
+Learn
+                    HTML
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    CSS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    RWD
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Bootstrap
+                  
+
+                    Overview
+                  
+
+
+
+Learn
+                    W3.CSS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Sass
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Colors
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Icons
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    SVG
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Canvas
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Graphics
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Character Sets
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    How To
+                  
+
+                    Tutorial
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+Learn
+                    AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Generative AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-3.5
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-4
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Bard
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Machine Learning
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    DSA
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Data Science
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    NumPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Pandas
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    SciPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Matplotlib
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Statistics
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Excel
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Sheets
+                  
+
+                    Tutorial
+                  
+
+
+
+
+                  Web Building
+                
+
+
+                    Create a Website
+                    
+                      HOT!
+                    
+
+
+
+
+                    Create a Server
+                    NEW
+
+
+
+
+                    Where To Start
+                  
+
+
+
+                    Web Templates
+                  
+
+
+
+                    Web Statistics
+                  
+
+
+
+                    Web Certificates
+                  
+
+
+
+                    Web Development
+                  
+
+
+
+                    Introduction to Programming
+                  
+
+
+
+                    Code Editor
+                  
+
+
+
+                    Test Your Typing Speed
+                  
+
+
+
+                    Play a Code Game
+                  
+
+
+
+                    Cyber Security
+                  
+
+
+
+                    Accessibility
+                  
+
+
+
+                    Join our Newsletter
+                  
+
+
+
+
+
+
+                  JavaScript
+                
+
+
+Learn
+                    JavaScript
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    React
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    jQuery
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Vue
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    AngularJS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    JSON
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    AJAX
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    AppML
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    W3.JS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+
+                  Web Building
+                
+
+
+                    Create a Website
+                    
+                      HOT!
+                    
+
+
+
+
+                    Create a Server
+                    NEW
+
+
+
+
+                    Where To Start
+                  
+
+
+
+                    Web Templates
+                  
+
+
+
+                    Web Statistics
+                  
+
+
+
+                    Web Certificates
+                  
+
+
+
+                    Web Development
+                  
+
+
+
+                    Introduction to Programming
+                  
+
+
+
+                    Code Editor
+                  
+
+
+
+                    Test Your Typing Speed
+                  
+
+
+
+                    Play a Code Game
+                  
+
+
+
+                    Cyber Security
+                  
+
+
+
+                    Accessibility
+                  
+
+
+
+                    Join our Newsletter
+                  
+
+
+
+
+
+
+                  Backend
+                
+
+
+Learn
+                    Python
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    SQL
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    MySQL
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    PHP
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Java
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    C
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    C++
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    C#
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    R
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Kotlin
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Go
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Django
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    PostgreSQL
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    TypeScript
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ASP
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Node.js
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Raspberry Pi
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Git
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Bash
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    MongoDB
+                  
+
+                    Tutorial
+                  
+
+
+
+
+Learn
+                    XML
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+Learn
+                    AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Generative AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-3.5
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-4
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Bard
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Machine Learning
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    DSA
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Data Science
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    NumPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Pandas
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    SciPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Matplotlib
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Statistics
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Excel
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Sheets
+                  
+
+                    Tutorial
+                  
+
+
+
+
+                  Web Building
+                
+
+
+                    Create a Website
+                    
+                      HOT!
+                    
+
+
+
+
+                    Create a Server
+                    NEW
+
+
+
+
+                    Where To Start
+                  
+
+
+
+                    Web Templates
+                  
+
+
+
+                    Web Statistics
+                  
+
+
+
+                    Web Certificates
+                  
+
+
+
+                    Web Development
+                  
+
+
+
+                    Introduction to Programming
+                  
+
+
+
+                    Code Editor
+                  
+
+
+
+                    Test Your Typing Speed
+                  
+
+
+
+                    Play a Code Game
+                  
+
+
+
+                    Cyber Security
+                  
+
+
+
+                    Accessibility
+                  
+
+
+
+                    Join our Newsletter
+                  
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+Exercises
+
+
+
+
+                    Excercises filter input
+                  
+
+
+×
+
+
+
+
+
+
+
+                  HTML and CSS
+                
+
+
+                    HTML
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    CSS
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bootstrap 3
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bootstrap 4
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bootstrap 5
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    NumPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Pandas
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    SciPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Excel
+                  
+
+                    Exercise
+                  
+
+
+
+                    What is an Exercise?
+                  
+
+                    What is a Quiz?
+                  
+
+
+
+
+
+                JavaScript
+              
+
+
+                  JavaScript
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+                  React
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+                  jQuery
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+                  Vue
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+
+
+                  Backend
+                
+
+
+                    Python
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    SQL
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    MySQL
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    PHP
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Java
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    C
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    C++
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    C#
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    R
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Kotlin
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Django
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    PostgreSQL
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    TypeScript
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Git
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bash
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Go
+                  
+
+                    Exercise
+                  
+
+
+
+                    MongoDB
+                  
+
+                    Exercise
+                  
+
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    NumPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Pandas
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    SciPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Excel
+                  
+
+                    Exercise
+                  
+
+
+
+                    What is an Exercise?
+                  
+
+                    What is a Quiz?
+                  
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+Certificates
+
+
+
+
+                    Filter field for certifications
+                  
+
+
+×
+
+
+
+
+
+
+
+                  HTML and CSS
+                
+
+
+                    HTML
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    CSS
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Bootstrap 3
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Bootstrap 4
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Bootstrap 5
+                  
+
+                    Certificate
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Certificate
+                  
+
+
+
+                    Data Analytics
+                  
+
+                    Course
+                  
+
+
+
+                    NumPy
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Pandas
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Excel
+                  
+
+                    Certificate
+                  
+
+
+
+                    Social Media
+                  
+
+                    Course
+                  
+
+
+
+                    What is a Certificate?
+                  
+
+
+
+
+                  Programs
+                
+
+
+                    Full Access
+                    
+                      Best Value!
+                    
+
+
+
+
+                    Front End
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Dev.
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web App
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Design
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+
+
+                  JavaScript
+                
+
+
+                    JavaScript
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    React
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    jQuery
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Vue
+                  
+
+                    Certificate
+                  
+
+
+
+
+                  Programs
+                
+
+
+                    Full Access
+                    
+                      Best Value!
+                    
+
+
+
+
+                    Front End
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Dev.
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web App
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Design
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+                  Programs
+                
+
+
+                    Full Access
+                    
+                      Best Value!
+                    
+
+
+
+
+                    Front End
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Dev.
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web App
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Design
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+
+
+
+                  Backend
+                
+
+
+                    Python
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    SQL
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    MySQL
+                  
+
+                    Certificate
+                  
+
+
+
+                    PHP
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Java
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    C
+                  
+
+                    Certificate
+                  
+
+
+
+                    C++
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    C#
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    R
+                  
+
+                    Course
+                  
+
+
+
+                    Django
+                  
+
+                    Certificate
+                  
+
+
+
+                    NodeJS
+                  
+
+                    Certificate
+                  
+
+
+
+                    TypeScript
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    XML
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Cyber Security
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Accessibility
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Exam
+                  
+
+
+
+                    Data Analytics
+                  
+
+                    Course
+                  
+
+
+
+                    NumPy
+                  
+
+                    Course
+                  
+
+
+
+                    Pandas
+                  
+
+                    Course
+                  
+
+
+
+                    Excel
+                  
+
+                    Certificate
+                  
+
+
+
+                    Social Media
+                  
+
+                    Course
+                  
+
+
+
+                    What is a Certificate?
+                  
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+All Our Services
+
+
+
+
+                    Services filter input
+                  
+
+
+×
+
+
+
+
+
+
+                W3Schools offers a wide range of services and products for
+                beginners and professionals,
+                
+                helping millions of people everyday to learn and master new
+                skills.
+              
+
+
+
+
+
+Free Tutorials
+
+                      Enjoy our free tutorials like millions of other internet
+                      users since 1999
+                    
+
+
+
+
+
+
+References
+
+                      Explore our selection of references covering all popular
+                      coding languages
+                    
+
+
+
+
+
+
+Create a Website
+
+                      Create your own website with
+                      W3Schools Spaces
+                      - no setup required
+                    
+
+
+
+
+
+
+Exercises
+Test your skills with different exercises
+
+
+
+
+
+
+Quizzes
+Test yourself with multiple choice questions
+
+
+
+
+
+
+Get Certified
+Document your knowledge
+
+
+
+
+
+
+
+
+
+
+
+Log in / Sign Up
+
+                      Create a
+                      free
+                      W3Schools Account to Improve Your Learning Experience
+                    
+
+
+
+
+
+
+My Learning
+
+                      Track your learning progress at W3Schools and collect
+                      rewards
+                    
+
+
+
+
+
+
+Upgrade
+
+                      Become a PLUS user and unlock powerful features (ad-free,
+                      hosting, support,..)
+                    
+
+
+
+
+
+
+
+
+
+
+
+Where To Start
+
+                      Not sure where you want to start? Follow our guided path
+                    
+
+
+
+
+
+
+Code Editor (Try it)
+
+                      With our online code editor, you can edit code and view
+                      the result in your browser
+                    
+
+
+
+
+
+
+Videos
+
+                      Learn the basics of HTML in a fun and engaging video
+                      tutorial
+                    
+
+
+
+
+
+
+
+
+
+
+
+Templates
+
+                      We have created a bunch of responsive website templates
+                      you can use - for free!
+                    
+
+
+
+
+
+
+Web Hosting
+
+                      Host your own website, and share it to the world with
+                      W3Schools Spaces
+
+
+
+
+
+
+
+Create a Server
+
+                      Create your own server using Python, PHP, React.js,
+                      Node.js, Java, C#, etc.
+                    
+
+
+
+
+
+
+
+
+
+
+
+How To's
+
+                      Large collection of code snippets for HTML, CSS and
+                      JavaScript
+                    
+
+
+
+
+
+
+CSS Framework
+
+                      Build fast and responsive sites using our free
+                      W3.CSS
+                      framework
+                    
+
+
+
+
+
+
+Browser Statistics
+Read long term trends of browser usage
+
+
+
+
+
+
+Typing Speed
+Test your typing speed
+
+
+
+
+
+
+
+Color Picker
+
+                      Use our color picker to find different RGB, HEX and HSL
+                      colors.
+                      
+
+
+
+
+
+
+
+Code Game
+
+                      W3Schools Coding Game! Help the lynx collect pine cones
+                      
+
+
+
+
+
+
+
+
+Newsletter
+
+                      Join our newsletter and get access to exclusive content
+                      every month
+                    
+
+
+
+
+
+
+For Teachers
+
+                      Contact us about W3Schools Academy for educational
+                      institutions
+                    
+
+
+
+
+
+
+For Businesses
+
+                      Contact us about W3Schools Academy for your organization
+                    
+
+
+
+
+
+
+Contact Us
+
+                      About sales:
+                      sales@w3schools.com
+
+                      About errors:
+                      help@w3schools.com
+
+
+
+
+
+
+
+
+
+  
+
+
+
+                    
+                  
+
+
+  
+
+
+  
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ❮     
+
+
+     ❯   
+
+
+
+
+
+
+HTML
+CSS
+JAVASCRIPT
+SQL
+PYTHON
+JAVA
+PHP
+HOW TO
+W3.CSS
+C
+C++
+C#
+BOOTSTRAP
+REACT
+MYSQL
+JQUERY
+EXCEL
+XML
+DJANGO
+NUMPY
+PANDAS
+NODEJS
+DSA
+TYPESCRIPT
+ANGULAR
+GIT
+POSTGRESQL
+MONGODB
+ASP
+AI
+R
+GO
+KOTLIN
+SASS
+VUE
+GEN AI
+SCIPY
+
+CYBERSECURITY
+DATA SCIENCE
+INTRO TO PROGRAMMING
+BASH
+
+
+
+
+
+
+
+
+
+
+
+
+W3.CSS
+W3.CSS HOME
+W3.CSS Intro
+W3.CSS Colors
+W3.CSS Containers
+W3.CSS Panels
+W3.CSS Borders
+W3.CSS Cards
+W3.CSS Defaults
+W3.CSS Fonts
+W3.CSS Google
+W3.CSS Text
+W3.CSS Round
+W3.CSS Padding
+W3.CSS Margins
+W3.CSS RTL
+W3.CSS Display
+W3.CSS Buttons
+W3.CSS Notes
+W3.CSS Quotes
+W3.CSS Alerts
+W3.CSS Tables
+W3.CSS Lists
+W3.CSS Images
+W3.CSS Inputs
+W3.CSS Badges
+W3.CSS Tags
+W3.CSS Icons
+W3.CSS Grid
+W3.CSS Flexbox
+W3.CSS Flex Items
+W3.CSS Rows
+W3.CSS Cells
+W3.CSS Responsive
+W3.CSS Animations
+W3.CSS Effects
+W3.CSS Bars
+W3.CSS Dropdowns
+W3.CSS Accordions
+W3.CSS Navigation
+W3.CSS Sidebar
+W3.CSS Tabs
+W3.CSS Pagination
+W3.CSS Progress Bars
+W3.CSS Slideshow
+W3.CSS Modal
+W3.CSS Tooltips
+W3.CSS Code
+W3.CSS Filters
+W3.CSS Trends
+W3.CSS Case
+W3.CSS Material
+W3.CSS Validation
+W3.CSS Versions
+W3.CSS Mobile
+
+W3.CSS Colors
+W3.CSS Color Classes
+W3.CSS Color Material
+W3.CSS Color Flat UI
+W3.CSS Color Metro UI
+W3.CSS Color Win8
+W3.CSS Color iOS
+W3.CSS Color Fashion
+W3.CSS Color Libraries
+W3.CSS Color Schemes
+W3.CSS Color Themes
+W3.CSS Color Generator
+
+Web Building
+Web Intro
+Web HTML
+Web CSS
+Web JavaScript
+Web Layout
+Web Band
+Web Catering
+Web Restaurant
+Web Architect
+
+Examples
+W3.CSS Examples
+W3.CSS Demos
+W3.CSS Templates
+W3.CSS Certificate
+
+References
+W3.CSS Reference
+W3.CSS Downloads
+
+
+
+
+
+
+
+
+
+
+Pizza Restaurant
+
+❮ Previous
+Next ❯
+
+
+How to Create a Web Page
+How to create fully responsive web page
+that will look nice on all devices (desktop, laptop, tablet, and phone):
+
+
+
+Create a Skeleton
+
+
+HOME
+MENU
+ABOUT
+CONTACT
+
+
+
+
+Open from 10am to 12pm
+
+
+thinCRUST PIZZA
+Let me see the menu
+
+
+
+Example
+
+  <!DOCTYPE html><html><title>Pizza</title><meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link 
+  rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css"><script 
+  src="https://www.w3schools.com/lib/w3.js"></script><link rel="stylesheet" 
+  href="https://fonts.googleapis.com/css?family=Amatic+SC"><style>
+  body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}</style>
+  <body><!-- Start Content --><div id="home" class="w3-content">
+  <!-- Navbar (Sits on top) --><div class="w3-top w3-bar w3-xlarge w3-black 
+  w3-opacity-min"><a href="#home" class="w3-bar-item w3-button">HOME</a>
+  <a href="#menu" class="w3-bar-item w3-button">MENU</a><a href="#about" 
+  class="w3-bar-item w3-button">ABOUT</a><a href="#contact" 
+  class="w3-bar-item w3-button">CONTACT</a></div><!-- Header image 
+  --><div 
+  style="height:800px;background-image:url('img_pizza.jpg');background-size:cover"
+  class="w3-display-container w3-grayscale-min"><div 
+  class="w3-display-bottomleft"><span class="w3-tag w3-xlarge">Open from 
+  10am to 12pm</span></div><div class="w3-display-middle w3-center">
+  <span class="w3-text-white" style="font-size:100px">thin<br>CRUST PIZZA</span>
+  <p><a href="#menu" class="w3-button w3-xxlarge w3-black">Let me see the 
+  menu</a></p></div></div><!-- End Content --></div>
+  </body></html>
+
+Try it Yourself »
+
+
+
+
+
+
+
+
+
+Add a Menu
+
+
+
+THE MENU
+
+Pizza
+Pasta
+Starters
+
+
+Margherita $12.50
+Fresh tomatoes, fresh mozzarella, fresh basil
+
+Formaggio $15.50
+Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)
+
+Meat Town Hot!
+$20.00
+Fresh tomatoes, mozzarella, hot pepporoni, hot sausage, beef, chicken
+
+PASTA
+
+Lasagna Popular
+$13.50
+Special sauce, mozzarella, parmesan, ground beef
+
+Ravioli $14.50
+Ravioli filled with cheese
+
+Spaghetti Classica $11.00
+Fresh tomatoes, onions, ground beef
+
+STARTERS
+
+Today's Soup Seasonal
+$5.50
+Ask the waiter
+
+Bruschetta $8.50
+Bread with pesto, tomatoes, onion, garlic
+
+Garlic bread $9.50
+Grilled ciabatta, garlic butter, onions
+
+
+
+
+Example
+
+  <!-- Menu --><div id="menu" class="w3-container w3-black w3-xxlarge 
+  w3-padding-64"><h1 class="w3-center w3-jumbo w3-padding-32">THE MENU</h1>
+  <div class="w3-row w3-center w3-border w3-border-dark-grey"><a 
+  href="#pizza"><div class="w3-third w3-padding-large w3-red">Pizza</div></a>
+  <a href="#pasta"><div class="w3-third w3-padding-large 
+  w3-hover-red">Pasta</div></a><a href="#starters"><div class="w3-third 
+  w3-padding-large w3-hover-red">Starters</div></a></div>
+<div id="pizza" 
+  class="w3-container w3-white w3-padding-32"><h1><b>Margherita</b> <span 
+  class="w3-right w3-tag w3-dark-grey w3-round">$12.50</span></h1><p 
+  class="w3-text-grey">Fresh tomatoes, fresh mozzarella, fresh basil</p><hr>
+<h1><b>Formaggio</b> <span class="w3-right w3-tag w3-dark-grey 
+  w3-round">$15.50</span></h1><p class="w3-text-grey">Four cheeses 
+  (mozzarella, parmesan, pecorino, jarlsberg)</p><hr><h1><b>Meat 
+  Town</b> <span class="w3-tag w3-red w3-round">Hot!</span><span 
+  class="w3-right w3-tag w3-dark-grey w3-round">$20.00</span></h1><p 
+  class="w3-text-grey">Fresh tomatoes, mozzarella, hot pepporoni, hot sausage, 
+  beef, chicken</p></div><h1 id="pasta" class="w3-center w3-jumbo 
+  w3-padding-32">PASTA</h1><div class="w3-container w3-white w3-padding-32">
+<h1><b>Lasagna</b> <span class="w3-tag w3-grey w3-round">Popular</span>
+  <span class="w3-right w3-tag w3-dark-grey w3-round">$13.50</span></h1><p 
+  class="w3-text-grey">Special sauce, mozzarella, parmesan, ground beef</p>
+  <hr><h1><b>Ravioli</b> <span class="w3-right w3-tag w3-dark-grey 
+  w3-round">$14.50</span></h1><p class="w3-text-grey">Ravioli filled with 
+  cheese</p><hr><h1><b>Spaghetti Classica</b> <span class="w3-right 
+  w3-tag w3-dark-grey w3-round">$11.00</span></h1><p 
+  class="w3-text-grey">Fresh tomatoes, onions, ground beef</p></div>
+<h1 
+  id="starters" class="w3-center w3-jumbo w3-padding-32">STARTERS</h1><div 
+  class="w3-container w3-white w3-padding-32"><h1><b>Today's Soup</b> <span 
+  class="w3-tag w3-grey w3-round">Seasonal</span><span class="w3-right 
+  w3-tag w3-dark-grey w3-round">$5.50</span></h1><p class="w3-text-grey">Ask 
+  the waiter</p><hr><h1><b>Bruschetta</b> <span class="w3-right w3-tag 
+  w3-dark-grey w3-round">$8.50</span></h1><p class="w3-text-grey">Bread with 
+  pesto, tomatoes, onion, garlic</p><hr><h1><b>Garlic bread</b> <span 
+  class="w3-right w3-tag w3-dark-grey w3-round">$9.50</span></h1><p 
+  class="w3-text-grey">Grilled ciabatta, garlic butter, onions</p></div>
+  </div>
+
+Try it Yourself »
+Try Full »
+
+
+
+Add About
+
+
+
+About
+The Pizza Restaurant was founded in blabla by Mr. Italiano in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Chef? Mr. Italiano himself
+We are proud of our interiors.
+
+
+
+Opening Hours
+
+
+Mon & Tue CLOSED
+Wednesday 10.00 - 24.00
+Thursday 10:00 - 24:00
+
+
+Friday 10:00 - 12:00
+Saturday 10:00 - 23:00
+Sunday Closed
+
+
+
+
+Example
+
+  <!-- About --><div id="about" class="w3-container w3-red w3-grayscale 
+  w3-xlarge w3-padding-64"><h1 class="w3-center w3-jumbo">About</h1>
+<p>The Pizza Restaurant was founded in blabla by Mr. Italiano in lorem ipsum 
+  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><strong>The Chef?</strong> Mr. Italiano himself<img 
+  src="/w3images/chef.jpg" style="width:150px" class="w3-circle w3-right" 
+  alt="Chef"></p><p>We are proud of our interiors.</p><p 
+  class="w3-padding-16 w3-stretch"><img src="img_restaurant.jpg" 
+  style="width:100%" alt="Restaurant"></p><h1><b>Opening Hours</b></h1>
+  <div class="w3-row"><div class="w3-half"><p>Mon &amp; Tue CLOSED</p>
+  <p>Wednesday 10.00 - 24.00</p><p>Thursday 10:00 - 24:00</p></div>
+  <div class="w3-half"><p>Friday 10:00 - 12:00</p><p>Saturday 10:00 - 
+  23:00</p><p>Sunday Closed</p></div></div> 
+</div>
+
+
+Try it Yourself »
+Try Full »
+
+
+
+Add Contact
+
+
+
+
+Contact
+Find us at some [address] or call us at 05050515-122330
+We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste.
+Reserve a table, ask for today's special or just send us a message:
+
+
+
+
+
+SEND MESSAGE
+
+Powered by w3.css
+
+
+Example
+
+  <!-- Contact --><img id="contact" src="map.jpg" class="w3-image 
+  w3-greyscale" alt="Map" style="width:100%">
+<div class="w3-container 
+  w3-blue-grey w3-grayscale-min w3-xlarge w3-padding-top-32"><h1 
+  class="w3-center w3-jumbo">Contact</h1><p>Find us at some 
+  [address] or call us at 05050515-122330</p><p>We offer full-service catering 
+  for any event, large or small. We understand your needs and we will cater the 
+  food to satisfy the biggerst criteria of them all, both look and taste.</p>
+<p class="w3-xxlarge"><b>Reserve</b> a table, ask for today's special or just 
+  send us a message:</p><form action="/action_page.php" target="_blank">
+  <p><input class="w3-input w3-padding-16 w3-border" type="text" 
+  placeholder="Name" required name="Name"></p>
+<p><input class="w3-input 
+  w3-padding-16 w3-border" type="number" placeholder="How many people" required 
+  name="People"></p><p><input class="w3-input w3-padding-16 w3-border" 
+  type="datetime-local" placeholder="Date and time" required name="date" 
+  value="2020-11-16T20:00"></p><p><input class="w3-input w3-padding-16 
+  w3-border" type="text" placeholder="Message \ Special requirements" required 
+  name="Message"></p><p><button class="w3-button w3-light-grey w3-block" 
+  type="submit">SEND MESSAGE</button></p></form>
+<p class="w3-center 
+  w3-xlarge w3-padding-32">Powered by <a 
+  href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" 
+  target="_blank">w3.css</a></p></div>
+
+
+Try it Yourself »
+Try Full »
+
+
+
+
+❮ Previous
+Next ❯
+
+
+
+
+
+
+
+
+
+
+
+
+★
++1
+
+
+
+ 
+
+
+
+Track your progress - it's free!
+
+
+ 
+
+
+
+
+
+
+
+          Log in
+        
+
+          Sign Up
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COLOR PICKER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLUS
+SPACES
+GET CERTIFIED
+FOR TEACHERS
+FOR BUSINESS
+CONTACT US
+
+
+
+×
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+
+
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+
+
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+
+
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+
+
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+
+
+
+
+
+
+
+
+
+FORUM
+ABOUT
+ACADEMY
+
+
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness
+of all content. While using W3Schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+Copyright 1999-2025 by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS.
+
+
+
+
+
+
+
+
+
+

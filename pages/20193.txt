@@ -1,0 +1,784 @@
+https://en.wikipedia.org/wiki/SMIL_(computer)
+
+
+
+
+SMIL (computer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+SMIL (computer)
+
+
+
+2 languages
+
+
+
+
+PortuguêsSvenska
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Swedish first-generation computer
+Manoeuver panel to the Swedish SMIL computer, now at the "Teknikens och sjöfartens hus" in Malmö, Sweden (2022)
+Carousel memory for SMIL, now at the "Teknikens och sjöfartens hus" in Malmö, Sweden (2013)
+SMIL (Swedish: Siffermaskinen i Lund, "The Number Machine in Lund") was a first-generation computer built at Lund University in Lund, Sweden. SMIL was based on the IAS architecture developed by John von Neumann.
+Carl-Erik Fröberg belonged to the group of five young Swedish scientists 1947–48 that IVA[clarification needed] sent to the U.S. to gather information about the early computer development, and then came to strongly influence the development in Sweden. Fröberg visited with Erik Stemme the Institute for Advanced Study, and John von Neumann's research group. Back in Lund, he played a leading role in the creation of SMIL, which was the first computer developed in Lund and among the first in Sweden. SMIL was introduced in 1956[1][2] and then was in operation until 1970.
+In February 1962 SMIL was fitted with a compiler for ALGOL 60. The compiler was constructed by Torgil Ekman and Leif Robertson.
+Carl-Erik Fröberg was also behind the early emergence of numerical analysis as a separate university subject. In this context, he wrote himself and collaborated with others on several textbooks in computer education, for example, Textbook on Numerical Analysis (1962) and Textbook of Algol (1964). These books were widely distributed and translated into several languages.
+Parts of SMIL are exhibited at Malmö Technical Museum.
+On January 4, 2006, an emulator of SMIL named SMILemu was released with a Java and Mac OS X version.[3]
+
+See also[edit]
+BARK - Binär Aritmetisk Relä-Kalkylator - Sweden's first computer
+BESK - Binär Elektronisk Sekvens-Kalkylator - Sweden's second computer
+Torsten Hägerstrand – a Swedish geographer (and friend of Fröberg) who used SMIL
+References[edit]
+
+
+^ Jarlskog, Cecilia (2013). Portrait of Gunnar Källén: A Physics Shooting Star and Poet of Early Quantum Field Theory. Springer Science & Business Media. p. 141. ISBN 9783319006277.
+
+^ "COMPUTERS, OVERSEAS: 4. Institute of Theoretical Physics, Univ. of Lund, Sweden". Digital Computer Newsletter. 9 (2): 15. Apr 1957. Archived from the original on May 25, 2018.
+
+^ "SMILemu, The SMIL Emulator". smilemu.org. Retrieved 29 October 2018.
+
+
+vteALGOLImplementationsTechnicalstandards
+ALGOL 58
+ALGOL 60
+ALGOL 68
+Dialects
+ABC ALGOL
+ALCOR
+ALGO
+ALGOL 68C
+ALGOL 68-R
+ALGOL 68RS (ELLA)
+ALGOL 68S
+ALGOL N
+ALGOL W
+ALGOL X
+Atlas Autocode (Edinburgh IMP)
+Burroughs ALGOL
+CORAL 66
+Dartmouth ALGOL 30
+DASK ALGOL
+DG/L
+Elliott ALGOL
+Executive Systems Problem Oriented Language (ESPOL) → New Executive Programming Language (NEWP)
+FLACC
+IMP
+JOVIAL
+Kidsgrove Algol
+MAD
+Mary
+NELIAC
+RTL/2
+S-algol, PS-algol, Napier88
+Simula
+Small Machine ALGOL Like Language (SMALL)
+SMIL ALGOL
+Formalisms
+Jensen's device
+Van Wijngaarden grammar
+CommunityOrganizationsProfessionalassociations
+ALCOR Group
+Association for Computing Machinery (ACM)
+BSI Group
+Euro-Asian Council for Standardization, Metrology and Certification (EASC)
+International Federation for Information Processing (IFIP) IFIP Working Group 2.1
+Society of Applied Mathematics and Mechanics (GAMM)
+Business
+Burroughs Corporation
+Elliott Brothers
+Regnecentralen
+Education
+Case Institute of Technology
+University of Edinburgh
+University of St Andrews
+Manchester University
+Massachusetts Institute of Technology (MIT)
+Government
+Royal Radar Establishment (RRE)
+PeopleALGOL 58
+John Backus
+Friedrich L. Bauer
+Hermann Bottenbruch
+Charles Katz
+Alan Perlis
+Heinz Rutishauser
+Klaus Samelson
+Joseph Henry Wegstein
+MAD
+Bruce Arden
+Bernard Galler
+Robert M. Graham
+ALGOL 60
+Backus^
+Roland Carl Backhouse
+Bauer^
+Richard Bird
+Stephen R. Bourne
+Edsger W. Dijkstra
+Andrey Ershov
+Robert W. Floyd
+Jeremy Gibbons
+Julien Green
+David Gries
+Eric Hehner
+Tony Hoare
+Jørn Jensen
+Katz^
+Peter Landin
+Tom Maibaum
+Conor McBride
+John McCarthy
+Carroll Morgan
+Peter Naur
+Maurice Nivat
+John E. L. Peck
+Perlis^
+Brian Randell
+Rutishauser^
+Samelson^
+Jacob T. Schwartz
+Micha Sharir
+David Turner
+Bernard Vauquois
+Eiiti Wada
+Wegstein^
+Adriaan van Wijngaarden
+Mike Woodger
+Simula
+Ole-Johan Dahl
+Kristen Nygaard
+ALGOL 68
+Bauer^
+Susan G. Bond
+Bourne^
+Robert Dewar
+Dijkstra^
+Gerhard Goos
+Michael Guy
+Hoare^
+Cornelis H. A. Koster
+Peter Landin
+Charles H. Lindsey
+Barry J. Mailloux
+McCarthy^
+Lambert Meertens
+Naur^
+Peck^
+Willem van der Poel
+Randell^
+Douglas T. Ross
+Samelson^
+Michel Sintzoff
+van Wijngaarden^
+Niklaus Wirth
+Woodger^
+Philip Woodward
+Nobuo Yoneda
+
+Hal Abelson
+John Barnes
+Tony Brooker
+Ron Morrison
+Peter O'Hearn
+John C. Reynolds
+ALGOL BulletinComparison
+ALGOL 58 influence on ALGOL 60
+ALGOL 68 to other languages
+
+^ = full name and link in prior ALGOL version above Category: ALGOL  Category: ALGOL 60
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+This computer hardware article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=SMIL_(computer)&oldid=1254214909"
+Categories: IAS architecture computersLund UniversityComputer hardware stubsHidden categories: Articles with short descriptionShort description matches WikidataArticles containing Swedish-language textWikipedia articles needing clarification from October 2018All stub articles
+
+
+
+
+
+
+ This page was last edited on 29 October 2024, at 23:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+SMIL (computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

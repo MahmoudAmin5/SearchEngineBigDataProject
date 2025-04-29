@@ -1,0 +1,1020 @@
+https://en.wikipedia.org/wiki/Intel_8048
+
+
+
+
+Intel MCS-48 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Variants
+
+
+
+
+
+
+
+
+2
+Uses
+
+
+
+
+
+
+
+
+3
+Derived microcontrollers
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+Bibliography
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Intel MCS-48
+
+
+
+13 languages
+
+
+
+
+ČeštinaDeutschEspañolFrançaisItalianoMagyar日本語PolskiPortuguêsРусскийSlovenčinaTürkçeУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Intel 8048)
+Family of 8-bit microcontrollers
+Intel 8048 microcontroller 
+The 8749 with UV EPROM
+An Intel 8049 microcontroller, as used in a HP3478A multimeter. This chip was manufactured in the second week of 1984.
+Intel 8749 die 
+
+Intel 8048 registers
+
+
+
+
+
+09
+
+08
+
+07
+
+06
+
+05
+
+04
+
+03
+
+02
+
+01
+
+00
+
+(bit position)
+
+
+Main registers
+
+
+ 
+
+A
+
+Accumulator
+
+
+PC
+
+Program Counter
+
+
+Program Status Word
+
+
+ 
+
+CY
+
+AC
+
+FO
+
+BS
+
+1
+
+Stack
+
+
+Note: All other programmer-visible registers and stack are allocated in RAM.
+
+
+The MCS-48 microcontroller series, Intel's first microcontroller, was originally released in 1976. Its first members were 8048, 8035 and 8748. The 8048[1] is arguably the most prominent member of the family. Initially, this family was produced using NMOS (n-type metal–oxide–semiconductor) technology. In the early 1980s, it became available in CMOS technology. It was manufactured into the 1990s to support older designs that still used it.
+The MCS-48 series has a modified Harvard architecture, with internal or external program ROM and 64 to 256 bytes of internal (on-chip) RAM. The I/O is mapped into its own address space, separate from programs and data.
+Though the MCS-48 series was eventually replaced by the very successful MCS-51 series, it remained quite popular even by the year 2000 due to its low cost, wide availability, memory-efficient one-byte instruction set, and mature development tools. Because of this, it is used in high-volume, cost-sensitive consumer electronics devices such as TV remotes, computer keyboards, and toys.
+
+
+Variants[edit]
+The 8049 has 2 KB of masked ROM (the 8748 and 8749 had EPROM) that can be replaced with a 4 KB external ROM, as well as 128 bytes of RAM and 27 I/O ports.[2] The microcontroller's oscillator block divides the clock input frequency by three and then further divides the result into five machine states. Using the 11 MHz maximum crystal frequency will produce 0.73 MIPS of single-cycle instructions. Some 70% of instructions are single byte and single cycle ones, but 30% need two cycles or two bytes, so its typical performance would be closer to 0.5 MIPS.
+
+
+Microcontroller[citation needed]
+
+
+Device
+Internal
+Memory
+Remarks
+
+
+8020
+1K × 8 ROM
+64 × 8 RAM
+subset of 8048, 20 pins, only 13 I/O lines
+
+
+8021
+1K × 8 ROM
+64 × 8 RAM
+subset of 8048, 28 pins, 21 I/O lines
+
+
+8022
+2K × 8 ROM
+64 × 8 RAM
+subset of 8048, A/D-converter
+
+
+8035
+none
+64 × 8 RAM
+
+
+
+8038
+none
+64 × 8 RAM
+
+
+
+8039
+none
+128 × 8 RAM
+
+
+
+8040
+none
+256 × 8 RAM
+
+
+
+8048
+1K × 8 ROM
+64 × 8 RAM
+27× I/O ports
+
+
+8049
+2K × 8 ROM
+128 × 8 RAM
+27× I/O ports
+
+
+8050
+4K x 8 ROM
+256 × 8 RAM
+
+
+
+8648
+1K × 8 OTP EPROM
+64 × 8 RAM
+Factory OTP EPROM
+
+
+8748
+1K × 8 EPROM[3]
+64 × 8 RAM[3]
+4K program memory expandable,[3] 2× 8-bit timers, 27× I/O ports
+
+
+8749
+2K × 8 EPROM
+128 × 8 RAM
+2× 8-bit timers, 27× I/O ports
+
+
+87P50
+ext. ROM socket
+256 × 8 RAM
+Has piggy-back socket for 2758/2716/2732 EPROM
+
+Intel P8242 - keyboard controller with Phoenix firmware for AT-compatible computers
+National Semiconductor NS87P50D-6 – Second source for the 87P50 piggyback microcontroller
+
+Universal Peripheral Interface
+
+
+Device
+Internal
+Memory
+Remarks
+
+
+8041
+1K × 8 ROM
+64 × 8 RAM
+Universal Peripheral Interface (UPI)
+
+
+8041AH
+1K × 8 ROM
+128 × 8 RAM
+UPI
+
+
+8741A
+1K × 8 EPROM
+64 × 8 RAM
+UPI, EPROM version of 8041
+
+
+8741AH
+1K × 8 OTP EPROM
+128 × 8 RAM
+UPI, OTP EPROM version of 8041AH
+
+
+8042AH
+2K × 8 ROM
+256 × 8 RAM
+UPI
+
+
+8242
+2K × 8 ROM
+256 × 8 RAM
+UPI, preprogrammed with keyboard controller firmware[4]
+
+
+8742
+2K × 8 EPROM
+128 × 8 RAM
+UPI, EPROM version
+
+
+8742AH
+2K × 8 OTP EPROM
+256 × 8 RAM
+UPI, OTP EPROM version of 8042AH
+
+Uses[edit]
+The MCS-48 series was commonly used in computer and terminal keyboards, converting key presses into protocols that can be understood by digital circuits. This also allows the possibility of serial communication, reducing the amount of conductors needed in cables on external keyboards. Microprocessors had been used in keyboards since at least 1972, simplifying earlier discrete designs. The 8048 has been used in this application since its introduction in 1978.[citation needed]
+The Tandy/Radio Shack TRS-80 Model II, released in 1979, used the 8021 in its keyboard.[5] The 8021 processor scans the key matrix, converts switch closures to an 8-bit code and then transmits that code serially to the keyboard interface on the main system. It will also accept commands to turn indicator LEDs on or off. The 8021 was also used in the keyboards for the TRS-80 Model 12, 12B, 16, 16B and the Tandy 6000/6000HD.[6]
+The original IBM PC keyboard used an 8048 as its internal microcontroller.[7] The PC AT replaced the PC's Intel 8255 peripheral interface chip at I/O port addresses 0x60–63 with an 8042 accessible through port addresses 0x60 and 0x64.[8] As well as managing the keyboard interface, the 8042 controlled the A20 line gating function for the AT's Intel 80286 CPU and could be commanded by software to reset the 80286 (unlike the 80386 and later processors, the 80286 had no way of switching from protected mode back to real mode except by being reset). Later PC compatibles integrate the 8042's functions into their super I/O devices.
+The 8048 was used in the Magnavox Odyssey² video game console, the Korg Trident series,[9] and the Korg Poly-61,[10] Roland Jupiter-4 and Roland ProMars[11] analog synthesizers. The Sinclair QL used the closely related Intel 8049 to manage its keyboard, joystick ports, RS-232 inputs and audio. The ROM-less 8035 variant was used in Nintendo's arcade game Donkey Kong to generate the background music.
+
+Derived microcontrollers[edit]
+Philips Semiconductors (now NXP) owned a license to produce this series and developed their MAB8400-family based on this architecture. These were the first microcontrollers with an integrated I²C-interface and were used in the first Philips (Magnavox in the US) Compact Disc players (e.g. the CD-100).[12]
+
+
+Intel MCS-48 second sources
+
+
+Mitsubishi Electric M5M80C39P-6
+
+
+
+Fujitsu MBL8742H
+
+
+
+Kvazar Kiev KM1816VE48 (Soviet Union – 8748 clone)
+
+
+
+National Semiconductor NS87PC48D (piggyback variant)
+
+
+
+Signetics SCN8048A
+
+
+
+NEC μPD8749HD
+
+
+
+Philips MAF 8049H
+
+
+See also[edit]
+HSE-49 emulator
+References[edit]
+
+
+^ Laws, David; Blume Jr., Henry; Ekiss, John; Feng, Yung; Kline, Barbara; Raphael, Howard; Stamm, David (2008-07-30). Oral History Panel on the Development and Promotion of the Intel 8048 Microcontroller (PDF). Archived from the original (PDF) on 2014-12-27.
+
+^ Intel Corporation 1978.
+
+^ a b c Hayes, John P. (1978). Computer Architecture and Organization. McGraw-Hill International Book Company. pp. 57–59. ISBN 0-07-027363-4.
+
+^ "UPI-41AH/42AH Universal Peripheral Interface 8-bit Slave Microcontroller" (PDF). Intel. November 1994. p. 2. Retrieved 2022-07-19.
+
+^ TRS-80 Model II Technical Reference Manual. Radio Shack. p. 135.
+
+^ Tandy 6000/6000HD Service Manual. Tandy/Radio Shack. 1985. p. 213.
+
+^ "Section 4: Keyboard", Technical Reference: Personal Computer, Personal Computer Hardware Reference Library (Revised ed.), IBM, April 1984
+
+^ "Section 1: System Board", Technical Reference: Personal Computer AT, Personal Computer Hardware Reference Library, IBM, September 1985
+
+^ "Korg Trident Service Manual". Korg. p. 4. Retrieved 10 February 2018 – via Synthfool.
+
+^ "Korg Poly-61 Service Manual" (PDF). Archived from the original (PDF) on 2010-06-02. Retrieved 2013-03-07.
+
+^ Gordon Reid (November 2004). "The History Of Roland, Part 1: 1930–1978". The History Of Roland. Sound On Sound Magazine. Retrieved 29 November 2010.
+
+^ Datasheet (pdf) Philips MAB8400-Family
+
+
+Bibliography[edit]
+MCS-48
+MCS-48 Single Component Microcomputer (Applications Seminar Notebook). Intel Corporation. 1978.
+MCS-48 Microcomputer User's Manual (PDF). Intel Corporation. 1978.
+Smith, Lionel; Moore, Cecil (January 1979). "Serial I/O and Math Utilities for the 8049 Microcomputer". Intel Corporation. Application Note AP-49.
+A High-Speed Emulator for Intel MCS-48 Microcomputers. Intel Corporation. August 1979. Application Note AP-55A.
+Dahm, Phil; Rosenberg, Stuart (December 1979). Intel MCS-48 and UPI-41A Microcontrollers. Intel Corporation. Reliability Report RR-25.
+Microcontroller Handbook (PDF). Intel. 1984. Order number 210918-002.
+8-Bit Embedded Controllers (PDF). Intel. 1991. Order number 270645-003.
+UPI-41
+Intel (1980). UPI-41A User's Manual (PDF). Order number 9800504-02 Rev. B.
+Microprocessor Peripherals UPI-41A/41AH/42/42AH User's Manual (PDF). Intel Corporation. October 1993. 231318-006.
+Beaston, Johan; Kahn, Jim (May 1980). An 8741A/8041A Digital Cassette Controller. Intel Corporation. Application Note AP-90.
+External links[edit]
+MCS-48 family architecture
+Coprolite 8048 Projects at the Wayback Machine (archived 17 July 2014)
+Computer History Museum, Intel 8048 Microcontroller Oral History Panel
+Microcontroller NEC 8741 (image of the Silicon-Chip)
+vteMicrocontrollers by Intel
+MCS-48 (8048 family)
+MCS-51 (8051 family)
+MCS-151 (80151 family)
+MCS-251 (80251 family)
+8061
+MCS-96 (8x196 family)
+MCS-296 (8x296 family)
+
+vteMicrocontrollersMain
+Single-board microcontroller
+Special function register
+Architectures
+68000
+8051
+ARC
+ARM
+AVR
+MIPS
+MPS430
+PIC
+RISC-V
+x86
+Word length4-bit
+Am2900
+COP400
+MARC4
+PPS-4
+S1C6x
+TLCS-47
+TMS1000
+μCOM-4
+8-bit
+6800
+68HC05
+68HC08
+68HC11
+S08
+RS08
+6502
+65C134
+65C265
+MELPS 740
+78K
+8048
+8051
+XC800
+AVR
+COP8
+H8
+PIC10/12/16/17/18
+ST6/ST7
+STM8
+Z8
+Z80
+eZ80
+Rabbit 2000
+TLCS-870
+16-bit
+65C816
+68HC12/16
+80186
+C166
+CR16/C
+H8S
+MSP430
+PIC24/dsPIC
+R8C
+RL78
+TLCS-900
+Z8000
+32-bit
+Am29000
+ARC
+ARM Cortex-M
+EFM32
+LPC
+SAM
+STM32
+XMC
+ARM Cortex-R
+AVR32
+CRX
+FR
+FR-V
+H8SX
+M32R
+MN103
+68000
+ColdFire
+PIC32
+PowerPC
+MPC5xx
+Propeller
+SuperH
+TLCS-900
+TriCore
+V850
+RX
+Xtensa
+Z80000
+64-bit
+ARC
+ARM Cortex-R
+PowerPC64
+InterfacesProgramming
+In-circuit serial programming (ICSP)
+In-system programming (ISP)
+Program and Debug Interface (PDI)
+High-voltage serial programming (HVSP)
+High voltage parallel programming (HVPP)
+Bootloader
+ROM
+aWire
+Debugging
+Nexus (standard)
+Joint Test Action Group (JTAG)
+debugWIRE (Atmel)
+In-circuit debugging (ICD)
+In-circuit emulator (ICE)
+In-target probe (ITP)
+Lists
+List of common microcontrollers
+By manufacturer
+Intel
+NXP/Freescale
+Infineon
+Renesas Electronics
+List of Wi-Fi microcontrollers
+See also
+Embedded system
+Programmable logic controller
+List of microprocessors
+
+Authority control databases: National United StatesFranceBnF dataIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Intel_MCS-48&oldid=1267938913"
+Categories: Computer-related introductions in 1976Intel microcontrollersHidden categories: Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from November 2022Articles with unsourced statements from March 2023Webarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 7 January 2025, at 11:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Intel MCS-48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

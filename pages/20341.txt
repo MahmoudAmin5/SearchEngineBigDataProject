@@ -1,0 +1,904 @@
+https://en.wikipedia.org/wiki/IBM_SSEC
+
+
+
+
+IBM SSEC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Construction
+
+
+
+
+
+
+
+
+1.2
+Applications
+
+
+
+
+
+
+
+
+1.3
+Legacy
+
+
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+Further reading
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM SSEC
+
+
+
+6 languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語Suomi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+IBM Selective Sequence Electronic Calculator
+SSEC control desk
+The IBM Selective Sequence Electronic Calculator (SSEC) was an electromechanical computer built by IBM. Its design was started in late 1944 and it operated from January 1948 to August 1952. It had many of the features of a stored-program computer, and was the first operational machine able to treat its instructions as data, but it was not fully electronic.[1]
+Although the SSEC proved useful for several high-profile applications, it soon became obsolete. As the last large electromechanical computer ever built, its greatest success was the publicity it provided for IBM.
+
+
+History[edit]
+During World War II, International Business Machines Corporation (IBM) funded and built an Automatic Sequence Controlled Calculator (ASCC) for Howard H. Aiken at Harvard University. The machine, formally dedicated in August 1944, was widely known as the Harvard Mark I.[2] The President of IBM, Thomas J. Watson Sr., did not like Aiken's press release that gave no credit to IBM for its funding and engineering effort. Watson and Aiken decided to go their separate ways, and IBM began work on a project to build their own larger and more visible machine.[3]
+Astronomer Wallace John Eckert of Columbia University provided specifications for the new machine; the project budget of almost $1 million was an immense amount for the time.[4]
+Francis "Frank" E. Hamilton (1898–1972) supervised the construction of both the ASCC and the SSEC.[5] Robert Rex Seeber Jr. was also hired away from the Harvard group, and became known as the chief architect of the new machine.[6]
+Modules were manufactured in IBM's facility at Endicott, New York, under Director of Engineering John McPherson after the basic design was ready in December 1945.[7]
+
+Construction[edit]
+The February 1946 announcement of the fully electronic ENIAC energized the project.[8]
+The new machine, called the IBM Selective Sequence Electronic Calculator (SSEC), was ready to be installed by August 1947.[9]
+Watson called such machines calculators because computer then referred to humans employed to perform calculations and he wanted to convey the message that IBM's machines were not designed to replace people. Rather they were designed to help people, by relieving them of drudgery.[6]: 143 
+The SSEC was installed on three sides of a room on the ground floor of a building near IBM's headquarters at 590 Madison Avenue in New York City, behind a large window where it was visible to people passing by on the busy street. The space had formerly been occupied by a women's shoe store. The noisy SSEC was sometimes called Poppa by the viewing pedestrians.[10]
+It was dedicated and first demonstrated to the public on January 27, 1948. A. Wayne Brooke served as the chief electronic engineer for the machine's operation starting in 1950.[11]
+Herb Grosch, the second person with a Ph.D. hired by IBM, was one of its first programmers. Another early programmer was Edgar "Ted" Codd. Elizabeth "Betsy" Stewart was chief operator, and often appeared in publicity photos.[12]
+The SSEC was an unusual hybrid of vacuum tubes and electromechanical relays.  Approximately 12,500 vacuum tubes were used in the arithmetic unit, control, and its eight (relatively high-speed) registers, which had an access time of less than one millisecond.  About 21,400 relays were used for control and 150 lower-speed registers, with an access time of 20 milliseconds. The relay technology was similar to the ASCC, based on technology invented by Clair D. Lake (1888–1958).[13] The arithmetic logic unit of the SSEC was a modified IBM 603 electronic multiplier, which had been designed by James W. Bryce.[14] The bulky tubes were military surplus radar technology, which filled one entire wall. The memory was organized as signed 19-digit decimal numbers. Multiplication was computed with 14 digits in each factor. Most of the quoted 400,000 digit capacity was in the form of reels of punched paper tape.[15]
+
+IBM SSEC block diagram
+Addition took 285 microseconds and multiplication 20 milliseconds, making arithmetic operations much faster than the Harvard Mark I. Data that had to be retrieved quickly was held in electronic circuits; the remainder was stored in relays and as holes in three continuous card-stock tapes that filled another wall.  A chain hoist was needed to lift the heavy reels of paper into place. The machine read instructions or data from 30 paper tape readers connected to three punches, and another a table look-up unit consisted of another 36 paper tape readers. A punched card reader was used to load data, and results were produced on punched cards or high-speed printers.[15] The 19-digit word was stored on the card stock tape or registers in binary-coded decimal, resulting in 76 bits, with two extra bits for indicating positive or negative sign and parity, while the two side rows were used for sprockets. The familiar 80 columns of IBM punched card technology were recorded sideways as one column of the tape.[12]
+Using well-tested technology, the SSEC's calculations were accurate and precise for its time, but one early programmer, John Backus, said "you had to be there the entire time the program was running, because it would stop every three minutes, and only the people who had programmed it could see how to get it running again”.[16] ENIAC co-designer J. Presper Eckert (no relation to the IBM Eckert) called it "some big monstrosity over there that I don't think ever worked right".[17]
+Seeber had carefully designed the SSEC to treat instructions as data, so they could be modified and stored under program control. IBM filed a patent based on the SSEC on January 19, 1949, which was later upheld as supporting the machine's stored program ability.[6]: 136 [18]
+Each instruction could take input from any source (electronic or mechanical registers or tape readers) store the result in any destination (electronic or mechanical registers, tape or card punch or printer), and gave the address of the next instruction, which could also be any source. This made it powerful in theory.[15]
+However, in practice instructions were stored usually on paper tape, resulting in an overall rate of only about 50 instructions per second. 
+The serial nature of the paper tape memory made programming the SSEC more like the calculators from the World War II era. For example, "loops" were usually literal loops of paper tape glued together. For each new program, tapes and card decks were literally "loaded" on the readers, and a plugboard changed in the printer to modify output formatting.
+For these reasons, the SSEC is usually classified as the last of the "programmable calculator" machines instead of the first stored-program computer.[19]
+
+Applications[edit]
+The first application of the SSEC was calculating the positions of the Moon and planets, known as an ephemeris.[20]
+Each position of the Moon required about 11,000 additions, 9,000 multiplications, and 2,000 table look-ups, which took the SSEC about seven minutes.[9]
+This application used the machine for about six months; by then other users were lined up to keep the machine busy.[21]
+It has sometimes been said that the SSEC produced the Moon-position tables that were later used for plotting the course of the 1969 Apollo flight to the Moon.  Records closer to 1969 suggest, however, that while there was a relationship, it was most likely less immediate. Thus, Mulholland and Devine (1968), working at NASA Jet Propulsion Laboratory, reported[22]
+that the JPL Ephemeris Tape System was "used for virtually all computations of spacecraft trajectories in the US space program", and that it had, as its current lunar ephemeris, an evaluation of the Improved Lunar Ephemeris incorporating a number of corrections: sources are named as 'The Improved Lunar Ephemeris' (documentation which was the report of the Eckert computations carried out by the SSEC, complete with lunar position results from 1952 to 1971),[23] with corrections as described by Eckert et al. (1966),[24] and in the Supplement to the AE 1968.[25]  Taken together, the corrections thus referenced modify practically every individual element of the lunar computations, and thus the space program appears to have been using lunar data generated by a modified and corrected derivative of the computational procedure pioneered using the SSEC, rather than the directly resulting tables themselves.
+The first paying customer of the SSEC was General Electric. The SSEC was also used for calculations by the U.S. Atomic Energy Commission for the ANP project to power an airplane with a nuclear reactor. Robert D. Richtmyer of Los Alamos National Laboratory used the SSEC for some of the first large-scale applications of the Monte Carlo method.[26]
+Llewellyn Thomas solved problems with stability of laminar flow, programmed by Donald A. Quarles Jr. and Phyllis K. Brown.[27]
+In 1949, Cuthbert Hurd was hired (also after a visit to the SSEC) and started a department of applied science; the operation of SSEC was eventually put into that organization.[21]
+
+Legacy[edit]
+The SSEC room was one of the first computers to use a raised floor, so visitors would not see unsightly cables or trip over them.
+The large array of flashing lights and noisy electro-mechanical relays made IBM very visible to the public. The SSEC appeared in the film Walk East on Beacon, which is based on a book by J. Edgar Hoover.[11]
+It was widely covered positively by the press.[28][29]
+The SSEC attracted both customers and new employees. Both Hurd and Backus were hired after seeing demonstrations of the facility.
+The 1946 ENIAC had more tubes than the SSEC and was faster in some operations, but was originally less flexible, needing to be rewired for each new problem. At the end of 1948 a new IBM 604 multiplier was announced, which used newer tube technology that already made the bulky tubes of the SSEC obsolete. By May 1949 the Card-Programmed Electronic Calculator was announced, and shipped in September. It was effectively a much scaled-down version of the SSEC technology to allow customers to perform similar calculations.[6] Even by the end of 1948, the limited electronic memory of the SSEC was seen as a problem,[15] and IBM soon licensed the Williams tube technology developed on the Manchester Baby at the Victoria University of Manchester.[6]: 168  Subsequent computers would have electronic random access memory, and in fact the ability to execute instructions from processor registers was generally not adopted. The 77-bit wide programming word was also abandoned for fewer bits but much faster operation.
+By 1951 the Ferranti Mark I was marketed in the UK as a commercial computer using Williams tube technology, followed by the UNIVAC I using delay-line memory in the US. These memory technologies allowed stored-program features to be more practical. The stored-program concept had been first widely published in 1945 in the First Draft of a Report on the EDVAC and became known as the Von Neumann architecture. The EDVAC (first working in 1949) was the ENIAC successor, designed by the team who then marketed the UNIVAC.
+The SSEC ran until August 1952, when it was dismantled, having been made obsolete by fully electronic computers.
+An IBM 701 computer, known as the Defense Calculator, was installed in the same room for its April 7, 1953, public debut.[30]
+In July 1953 the much less expensive (and even better selling) IBM 650 was announced, which had been developed by the same Endicott team who developed the SSEC.[31]
+
+See also[edit]
+Self-modifying code
+History of IBM
+History of computer hardware
+List of vacuum-tube computers
+Electronic Delay Storage Automatic Calculator
+References[edit]
+
+
+^ Bashe, Charles J.; Buchholz, Werner; Hawkins, George V.; Ingram, J. James; Rochester, Nathaniel (September 1981). "The Architecture of IBM's Early Computers" (PDF). IBM Journal of Research and Development. 25 (5): 363–376. CiteSeerX 10.1.1.93.8952. doi:10.1147/rd.255.0363. ISSN 0018-8646. Archived (PDF) from the original on 2021-03-01. Retrieved 2021-11-24. p. 365: The SSEC was the first operating computer capable of treating its own stored instructions exactly like data, modifying them, and acting on the result.
+
+^ "IBM's ASCC introduction". IBM Archives. Archived from the original on January 14, 2005. Retrieved April 23, 2011.
+
+^ Interviewed by Grady Booch (September 5, 2006). "Oral History of John Backus" (PDF). Reference number: X3715.2007. Computer History Museum. Archived from the original (PDF) on February 25, 2012. Retrieved April 23, 2011.
+
+^ Kevin Maney (2004). The Maverick and His Machine: Thomas Watson, Sr. and the Making of IBM. John Wiley and Sons. pp. 347–355. ISBN 978-0-471-67925-7.
+
+^ "ASCC People and progeny: Frank E. Hamilton". IBM Archives. Archived from the original on January 24, 2005. Retrieved April 23, 2011.
+
+^ a b c d e Emerson W. Pugh (1995). Building IBM: Shaping an Industry and Its Technology. MIT Press. pp. 124–190. ISBN 978-0-262-16147-3.
+
+^ Frank da Cruz (February 17, 2005). "The IBM Selective Sequence Electronic Calculator". Columbia University Computing History. Retrieved April 23, 2011.
+
+^ Richard R. Mertz (August 24, 1970). "Herb Grosch Interview" (PDF). Computer Oral History Collection. Smithsonian National Museum of American History Archives Center. Archived from the original (PDF) on September 14, 2011. Retrieved April 30, 2011.
+
+^ a b Jean Ford Brennan (1971). "The Selective Sequence Electronic Calculator". The IBM Watson Laboratory at Columbia University: A History. International Business Machines Corporation. pp. 21–26. (See comments and corrections)
+
+^ Herman Heine Goldstine (1980). The computer from Pascal to von Neumann. Princeton University Press. p. 327. ISBN 978-0-691-02367-0.
+
+^ a b "Guide to the A. Wayne Brooke Papers, 1948 - 1986". North Carolina State University library. Retrieved April 23, 2011.
+
+^ a b Herbert R.J. Grosch (1991). Computer: Bit Slices From a Life. Third Millennium Books. ISBN 0-88733-085-1.
+
+^ "ASCC People and progeny: Clair D. Lake". IBM Archives. Archived from the original on April 8, 2005. Retrieved April 25, 2011.
+
+^ "ASCC People and progeny: James W. Bryce". IBM archives. Archived from the original on January 24, 2005. Retrieved April 23, 2011.
+
+^ a b c d W. J. Eckert (November 1948). "Electrons and Computation". The Scientific Monthly. ISBN 9783540113195. {{cite news}}: ISBN / Date incompatibility (help)
+
+^ "Pathfinder". Think. July 1979. pp. 18–24. Archived from the original on March 28, 2007. Retrieved April 22, 2011.
+
+^ "Nancy B. Stern interview with J. Presper Eckert". Oral History. Charles Babbage Institute, University of Minnesota. October 28, 1977. Retrieved April 22, 2011.
+
+^  F. E. Hamilton; R. R. Seeber; R. A. Rowley; E. S. Hughes (January 19, 1949). "Selective Sequence Electronic Calculator". US Patent 2,636,672. Archived from the original on February 2, 2017. Retrieved April 28, 2011. Issued April 28, 1953.
+
+^ Allan Olley (September 20–23, 2010). "Existence Precedes Essence—Meaning of the Stored-Program Concept". History of Computing:Learning from the Past: 169–178. ISBN 978-3-642-15198-9. (Proceedings of IFIP WG 9. 7 International Conference Held as Part of WCC 2010, Brisbane, Australia)
+
+^ Alexander Feinberg (September 12, 1949). "Mechanical Giant Calculator in a Few Days Charts Sky a Century Ahead for Navigators; Also for Atomic Physics; Tool of Several Sciences Has Used 10,000,000 Operations in Fixing Positions of Stars". The New York Times. p. 23.
+
+^ a b Robert Seidel (November 18, 1994). "An Interview with Cuthbert C. Hurd". Charles Babbage Institute, University of Minnesota. Retrieved April 25, 2011.
+
+^ J. D. Mulholland & C. J. Devine, Science (1968) 160, 874–875
+
+^ Eckert, W. J., et al., Improved Lunar Ephemeris, (US Government Printing Office, 1954).
+
+^ Eckert, W. J., et al., 1966, Transformations of the Lunar Coordinates and Orbital Parameters, Astron J 71, 314.
+
+^ Supplement to the Astronomical Ephemeris 1968 (US Government Printing Office, 1966)
+
+^ Nicholas Metropolis (1987). "The beginning of the Monte Carlo method" (PDF). Los Alamos Science (1987): 129. Special Issue dedicated to Stanislaw Ulam
+
+^ L. H. Thomas (August 1953). "The Stability of Plane Poiseuille Flow". Physical Review. 91 (4): 780–783. Bibcode:1953PhRv...91..780T. doi:10.1103/PhysRev.91.780.
+
+^ John Brooks; Brendan Gill (March 4, 1950). "Never Stumped". The New Yorker. pp. 20–21.
+
+^ William Laurence (January 28, 1948). "Mechanical 'Brain' is Given to Science: Giant Electronic Calculator Built by IBM, Can Do in Days What Once Took a Lifetime". The New York Times. p. 25.
+
+^ "A notable first: The IBM 701". IBM archives. Archived from the original on December 28, 2004. Retrieved April 29, 2011.
+
+^ "650 Chronology". IBM archives. Archived from the original on April 3, 2005. Retrieved April 29, 2011.
+
+
+Further reading[edit]
+Charles J. Bashe (October 1982). "The SSEC in Historical Perspective". IEEE Annals of the History of Computing. 4 (4): 296–312. doi:10.1109/MAHC.1982.10037. S2CID 6582435.
+John C. McPherson; Frank E. Hamilton; Robert R. Seeber Jr. (October 1982). "A Large-Scale, General-Purpose Electronic Digital Calculator: The SSEC". IEEE Annals of the History of Computing. 4 (4): 313–326. doi:10.1109/MAHC.1982.10041. S2CID 1108746. Originally written in 1948
+Ernest S. Hughes (January 1986). "The SSEC and Its Carry-Over Effects on the IBM Type 650". IEEE Annals of the History of Computing. 8 (1): 12–13. doi:10.1109/MAHC.1986.10002. S2CID 12432891.
+Byron E. Phelps (July 1980). "Early Electronic Computing Developments at IBM". IEEE Annals of the History of Computing. 2 (3): 253–267. doi:10.1109/MAHC.1980.10035. S2CID 34372610.
+Cuthbert C. Hurd (November 1980). "Computer Developments at IBM". In Nicholas Metropolis; Jack Howlett; Gian-Carlo Rota (eds.). A history of computing in the twentieth century: a collection of essays. Academic Press. ISBN 978-0-12-491650-0.
+René Moreau (1984). The Computer Comes of Age: The People, the Hardware, and the Software. MIT Press. ISBN 0-262-13194-3.
+"The IBM Selective Sequence Electronic Calculator" (PDF). www.bitsavers.org.
+External links[edit]
+IBM Archives: FAQ's for Products and Services
+IBM SSEC Control Desk photo, in better quality
+"Selective Sequence Electronic Calculator (SSEC)". IBM Archives. Archived from the original on January 14, 2005. Retrieved April 22, 2011. photo, better quality and other photos
+"SSEC Tape". Columbia University. Retrieved April 25, 2011. photos
+"Computer Pioneers: Pioneer Computers Part 1 - The Dawn of Electronic Computing 1935-1945". The Computer Museum, Boston. 1996. Archived from the original on 2021-12-13. Retrieved April 26, 2011. Video with Gordon Bell, SSEC about 42:00
+Scene from Walk East on Beacon showing the SSEC
+IBM film and photos of SSEC
+vteIBMHistory
+History
+Mergers and acquisitions
+PC business acquisition by Lenovo
+ProductsHardwareCurrent
+Mainframe
+IBM Z
+Power microprocessors
+Power Systems
+Storage
+FlashSystem
+DS8000
+Quantum
+Q System One
+Q System Two
+Eagle
+Osprey
+Heron
+Condor
+Former
+Blue Gene
+Cell microprocessors
+PowerPC
+Midrange computer
+Personal Computer
+Selectric
+ThinkPad
+
+Carbon Design System
+Cloud
+Cloudant
+Cognos Analytics
+Connections
+Criminal Reduction Utilising Statistical History
+Fortran
+ILOG
+Information Management Software
+Lotus Software
+Mainframe operating systems
+Mashup Center
+Planning Analytics
+PureQuery
+Quantum Platform
+Qiskit
+OpenQASM
+Rational Software
+SPSS
+Tivoli Software
+Service Automation Manager
+Watson
+Watsonx
+Granite
+WebSphere
+BusinessentitiesCurrent
+Apptio
+Center for The Business of Government
+Consulting
+Promontory
+Kenexa
+International subsidiaries
+India
+Press
+Red Hat
+Research
+Former
+AdStar
+AIM alliance
+Kaleida Labs
+Taligent
+Ambra Computer
+Cognos
+EduQuest
+Kyndryl
+Lexmark
+Merative
+Microelectronics
+Product Center
+Science Research Associates
+Service Bureau
+The Weather Company (Weather Underground)
+Facilities
+Towers
+1250 René-Lévesque, Montreal, QC
+One Atlantic Center, Atlanta, GA
+Software Labs
+Rome Software Lab
+Toronto Software Lab
+IBM Buildings
+330 North Wabash, Chicago, IL
+Honolulu
+Seattle
+Facilities
+Thomas J. Watson Research Center
+Hakozaki Facility
+Yamato Facility
+Cambridge Scientific Center
+IBM Hursley
+Canada Head Office Building
+IBM Rochester
+Initiatives
+Academy of Technology
+Deep Thunder
+Develothon
+Fellow
+The Great Mind Challenge
+Linux Technology Center
+SkillsBuild
+Smarter Planet
+Virtual Universe Community
+World Community Grid
+Think conference
+Inventions
+Automated teller machine
+Cynefin framework
+DRAM
+Electronic keypunch
+Floppy disk
+Hard disk drive
+Magnetic stripe card
+Relational model
+Sabre airline reservation system
+Scanning tunneling microscope
+Financial swaps
+Universal Product Code
+Terminology
+Big Blue
+Commercial Processing Workload
+Customer engineer
+Globally integrated enterprise
+e-business
+Think slogan
+CEOs
+Thomas J. Watson (1914–1956)
+Thomas Watson Jr. (1956–1971)
+T. Vincent Learson (1971–1973)
+Frank T. Cary (1973–1981)
+John R. Opel (1981–1985)
+John Fellows Akers (1985–1993)
+Louis V. Gerstner Jr. (1993–2002)
+Samuel J. Palmisano (2002–2011)
+Ginni Rometty (2012–2020)
+Arvind Krishna (since 2020)
+Board ofdirectors
+Thomas Buberl
+David Farr
+Alex Gorsky
+Michelle J. Howard
+Arvind Krishna
+Andrew Liveris
+Martha E. Pollack
+Joseph R. Swedish
+Peter R. Voser
+Other
+A Boy and His Atom
+Big Blue sports teams
+American football
+Rugby union
+Common Public License/IBM Public License
+Wallace v. International Business Machines Corp.
+Deep Blue
+Deep Thought
+Dynamic infrastructure
+GlobalFoundries
+GUIDE International
+IBM and the Holocaust
+International chess tournament
+Lucifer cipher
+Mathematica
+IBM Plex
+SHARE computing
+ScicomP
+Unions
+
+ Commons
+ Category
+ Navigational boxes
+FOSS
+Midrange computers
+Operating systems
+Personal computers
+System/360
+System/370
+Typewriters
+Vacuum tube computers
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_SSEC&oldid=1269961886"
+Categories: 1940s computersIBM computersIBM vacuum tube computersElectro-mechanical computersProgrammable calculatorsOne-of-a-kind computersComputer-related introductions in 19481952 disestablishmentsHidden categories: CS1 errors: ISBN dateArticles with short descriptionShort description matches Wikidata
+
+
+
+
+
+
+ This page was last edited on 17 January 2025, at 07:45 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM SSEC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

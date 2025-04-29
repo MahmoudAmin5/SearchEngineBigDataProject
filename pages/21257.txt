@@ -1,0 +1,736 @@
+https://en.wikipedia.org/wiki/EDVAC
+
+
+
+
+EDVAC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Project  and plan
+
+
+
+
+
+
+
+
+2
+Technical description
+
+
+
+
+
+
+
+
+3
+Impact on future computer design
+
+
+
+
+
+
+
+
+4
+Installation and operation
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+EDVAC
+
+
+
+30 languages
+
+
+
+
+AzərbaycancaБеларускаяБългарскиCatalàČeštinaDeutschEestiΕλληνικάEspañolEsperantoFrançais한국어ItalianoLatviešuMagyarമലയാളംBahasa Melayu日本語Norsk bokmålPolskiPortuguêsRomânăРусскийСаха тылаSimple EnglishСрпски / srpskiSuomiTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Early computer
+
+
+The EDVAC as installed in Building 328 at the Ballistic Research Laboratory
+EDVAC (Electronic Discrete Variable Automatic Computer) was one of the earliest electronic computers. It was built by Moore School of Electrical Engineering at the University of Pennsylvania.[1][2]: 626–628  Along with ORDVAC, it was a successor to the ENIAC. Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer.  
+ENIAC inventors, John Mauchly and J. Presper Eckert, proposed the EDVAC's construction in August 1945.  A contract to build the new computer was signed in April 1946 with an initial budget of US$100,000. EDVAC was delivered to the Ballistic Research Laboratory in 1949. The Ballistic Research Laboratory became a part of the US Army Research Laboratory in 1952.
+Functionally, EDVAC was a binary serial computer with automatic addition, subtraction, multiplication, programmed division and automatic checking with an ultrasonic serial memory[3] having a capacity of 1,024 44-bit words.  EDVAC's average addition time was 864 microseconds and its average multiplication time was 2,900 microseconds.
+
+
+Project  and plan[edit]
+ENIAC inventors John Mauchly and J. Presper Eckert proposed EDVAC's construction in August 1944, and design work for EDVAC commenced before ENIAC was fully operational.  The design would implement a number of important architectural and logical improvements conceived during the ENIAC's construction and would incorporate a high-speed serial-access memory.[3]  Like the ENIAC, the EDVAC was built for the U.S. Army's Ballistics Research Laboratory at the Aberdeen Proving Ground by the University of Pennsylvania's Moore School of Electrical Engineering.[2]: 626–628   Eckert and Mauchly and the other ENIAC designers were joined by John von Neumann in a consulting role; von Neumann summarized and discussed logical design developments in the 1945 First Draft of a Report on the EDVAC, written between February and June of that year.[4][5] Later in September 1945, Eckert and Mauchly followed up with a progress report on automatic high-speed computing for the EDVAC.[6]
+In early 1946, months after the completion of ENIAC, the University of Pennsylvania adopted a new patent policy, which would have required Eckert and Mauchly to assign all their patents to the university if they stayed beyond spring of that year. Unable to reach an agreement with the university, the duo left the Moore School of Electrical Engineering in March 1946, along with many of the senior engineering staff. Simultaneously, the duo founded the Electronic Control Company (later renamed the Eckert-Mauchly Computer Corporation) in Philadelphia.[7] A contract to build the new computer was signed in April 1946 with an initial budget of US$100,000. Later in August of that year, during the last of the Moore School Lectures, the Moore School team members were proposing new technological designs for the computer and its stored program concept. The contract named the device the Electronic Discrete Variable Automatic Calculator.  The final cost of EDVAC, however, was similar to the ENIAC's, at just under $500,000.
+The Raytheon Company was a subcontractor on EDVAC machines.[8]
+
+Technical description[edit]
+The EDVAC was a binary serial computer with automatic addition, subtraction, multiplication, programmed division and automatic checking with an ultrasonic serial memory[3] capacity of 1,024 44-bit words, thus giving a memory, in modern terms, of 5.6 kilobytes.[9]
+Physically, the computer comprised the following components:
+
+a magnetic tape reader-recorder (Wilkes 1956:36[3] describes this as a wire recorder.)
+a control unit with an oscilloscope
+a dispatcher unit to receive instructions from the control and memory and direct them to other units
+a computational unit to perform arithmetic operations on a pair of numbers and send the result to memory after checking on a duplicate unit
+a timer
+a dual memory unit consisting of two sets of 64 mercury acoustic delay lines of eight words capacity on each line
+three temporary delay-line tanks each holding a single word[3]
+EDVAC's average addition time was 864 microseconds (about 1,160 operations per second) and its average multiplication time was 2,900 microseconds (about 340 operations per second). Time for an operation depended on memory access time, which varied depending on the memory address and the current point in the serial memory's recirculation cycle.
+The computer had 5,937 vacuum tubes and 12,000 diodes, and consumed 56 kW of power. It covered 490 ft² (45.5 m2) of floor space and weighed 17,300 pounds (8.7 short tons; 7.8 t).[10] The full complement of operating personnel was thirty people per eight-hour shift.
+EDVAC could also do floating-point arithmetic.  It used 33 bits for the mantissa and one bit for its sign.  It used 10 bits for the power of 2, including the sign bit.
+For executable instructions, the 44-bit word was divided into four 10-bit addresses and four bits to encode the index of an operation.  The first two addresses were to the numbers in memory being used in the operation, the third address was for the memory location to store the result, and the fourth address was the location of the next instruction to be executed.  Only 12 of the possible 16 instructions were used.
+
+Impact on future computer design[edit]
+John Von Neumann's famous EDVAC monograph, First Draft of a Report on the EDVAC, proposed the main enhancement to its design that embodied the principal "stored-program" concept that we now call the Von Neumann architecture.  This was the storing of the program in the same memory as the data. The British computers EDSAC at Cambridge and the Manchester Baby were the first working computers that followed this design, and it has been followed by the great majority of computers made since. Having the program and data in different memories is now called the Harvard architecture to distinguish it.
+
+Installation and operation[edit]
+EDVAC was delivered to the Ballistics Research Laboratory in 1949. After a number of problems had been discovered and solved, the computer began operation in 1951 although only on a limited basis.[11][12]
+In 1952 (April/May), it was running over 7 hours a day (period from 15 April to 31 May, used for 341 hours).[13]
+By 1957, EDVAC was running over 20 hours a day with error-free run time averaging 8 hours. EDVAC received a number of upgrades including punch-card I/O in 1954, extra memory in slower magnetic drum form in 1955, and a floating-point arithmetic unit in 1958.
+EDVAC ran until 1962[11] when it was replaced by BRLESC.
+
+See also[edit]
+List of vacuum-tube computers
+References[edit]
+
+
+^ "The History of Computing at BRL". chimera.roma1.infn.it. Retrieved December 3, 2021.
+
+^ a b Encyclopedia of computer science. Edwin D. Reilly, Anthony Ralston, David Hemmendinger (4th ed.). Chichester, Eng.: Wiley. 2003. ISBN 978-1-84972-160-8. OCLC 436846454.{{cite book}}:  CS1 maint: others (link)
+
+^ a b c d e Wilkes, M. V. (1956). Automatic Digital Computers. New York: John Wiley & Sons. pp. 305 pages. QA76.W5 1956.
+
+^ "First Draft of a Report on the EDVAC" Archived 2004-04-23 at the Wayback Machine (PDF format) by John von Neumann, Contract No.W-670-ORD-4926, between the United States Army Ordnance Department and the University of Pennsylvania. Moore School of Electrical Engineering, University of Pennsylvania, June 30, 1945.  The report is also available in Stern, Nancy (1981). From ENIAC to UNIVAC: An Appraisal of the Eckert–Mauchly Computers. Digital Press.
+
+^ "The von Neumann Architecture". History of Information. Retrieved November 29, 2024.
+
+^ "The First Engineering Report on the EDVAC". History of Information. Retrieved November 29, 2024.
+
+^ Computer History Archives Project (May 14, 2015). Computer History: ENIAC - The First Electronic Computer. YouTube. Retrieved November 11, 2024.{{cite AV media}}:  CS1 maint: url-status (link)
+
+^ "Raytheon Company | Selling the Computer Revolution | Computer History Museum". www.computerhistory.org. Retrieved April 20, 2022.
+
+^ BRL report 1961
+
+^ Weik, Martin H. (December 1955). "EDVAC". ed-thelen.org. A Survey of Domestic Electronic Digital Computing Systems.
+
+^ a b Williams, Michael R. (1993). "The origins, uses, and fate of the edvac". IEEE Ann. Hist. Comput. 15 (1): 30, 32–33, 36–37. CiteSeerX 10.1.1.705.4726. doi:10.1109/85.194089. S2CID 7842904.
+
+^ "The EDVAC". Digital Computer Newsletter. 3 (1): 2. April 1951.[dead link]
+
+^ "6. Aberdeen Proving Ground Computers: The EDVAC". Digital Computer Newsletter. 4 (3): 4. July 1952.[dead link]
+
+
+External links[edit]
+Moore School of Electrical Engineering (1949). A Functional Description of the EDVAC: A Report of Development Work under Contract W36-034-ORD-7593 with the Ordnance Department, Department of the Army. Its Research Division Report50-9). Philadelphia: University of Pennsylvania. A complete technical description of EDVAC's original structure and operation in 1949; includes an errata dated 1950. Fully viewable online.
+Oral history interview with J. Presper Eckert, Charles Babbage Institute, University of Minnesota.
+Oral history interview with Carl Chambers, Charles Babbage Institute, University of Minnesota.
+Oral history interview with Irven A. Travis, Charles Babbage Institute, University of Minnesota.
+Oral history interview with S. Reid Warren, Charles Babbage Institute, University of Minnesota.
+Oral history interview with Frances E. Holberton, Charles Babbage Institute, University of Minnesota.
+Authority control databases: National United StatesIsraelvteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=EDVAC&oldid=1269970982"
+Categories: 1940s computersComputer-related introductions in 1951One-of-a-kind computersVacuum tube computersSerial computersHidden categories: CS1 maint: othersWebarchive template wayback linksCS1 maint: url-statusAll articles with dead external linksArticles with dead external links from June 2022Articles with short descriptionShort description is different from WikidataUse mdy dates from December 2021
+
+
+
+
+
+
+ This page was last edited on 17 January 2025, at 08:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+EDVAC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,681 @@
+https://en.wikipedia.org/wiki/ORACLE_(computer)
+
+
+
+
+ORACLE (computer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Summary
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+ORACLE (computer)
+
+
+
+1 language
+
+
+
+
+Русский
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Not to be confused with Oracle Corporation.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "ORACLE" computer – news · newspapers · books · scholar · JSTOR (January 2017) (Learn how and when to remove this message)
+The ORACLE being used to design the nuclear reactor core of the APPR-1 reactor[1]
+The ORACLE or Oak Ridge Automatic Computer and Logical Engine,[2] an early computer built by Oak Ridge National Laboratory, was based on the IAS architecture developed by John von Neumann.
+
+Summary[edit]
+The Oak Ridge National Laboratory Review states:
+
+
+[Oak Ridge National] Laboratory engineers assisted Argonne [National Laboratory] during the early 1950s in design and fabrication of the Oak Ridge Automatic Computer and Logical Engine. Its name was selected with reference to a lyrical acronym from Greek mythology—ORACLE, defined as 'a shrine in which a deity reveals hidden knowledge.'
+Assembled before the development of transistors and microchips, the ORACLE was a large scientific digital computer that used vacuum tubes. It had an original storage capacity of 1024 words of 40 bits each (later doubled to 2048 words). The computer also contained a magnetic-tape auxiliary memory and an on-line cathode-tube plotter, a recorder, and a typewriter. Operational in 1954, for a time the ORACLE had the fastest speed and largest data storage capacity of any computer in the world. Problems that would have required two mathematicians with electric calculators three years to solve could be done on the ORACLE in 20 minutes.
+[Alston] Householder and the Mathematics Panel used the ORACLE to analyze radiation and shielding problems. In 1957, Hezz Stringfield and Ward Foster, both of the Budget Office, also adopted the ORACLE for more mundane but equally important tasks—annual budgeting and monthly financial accounting. As one of the last 'homemade computers,' the ORACLE became obsolete by the 1960s. The Laboratory then purchased or leased its mainframe computers from commercial suppliers. From the initial applications of the ORACLE to nuclear aircraft problems, computer enthusiasm spread like lightning throughout the Laboratory, and in time, use of the machines became common in all the Laboratory's divisions.[3]
+
+
+ORACLE was operational (passed acceptance test) in 1953,[4][5][6][7][8] and replaced[2] the USAF-Fairchild Computer (or "SPEC" - Special Purpose Electronic Computer).[9]
+As with all computers of its era, the ORACLE computer was a one-of-a-kind machine that could not exchange programs with other computers (even other IAS machines).  It used vacuum tubes, transistors, and diodes.  It used a Williams tube for 2048 words of memory.  Its addition time was 70 microseconds, the multiplication time was 370-590 microseconds, and the division time was 590 microseconds.  These times include the storage access time, which was about 62 microseconds.
+The ORACLE pre-dated input from disks and the use of punch cards with computers; it used paper tape for input and breakage of the tape was a frequent problem.
+
+
+References[edit]
+
+
+^ Atomic Energy Commission. "Army Package Power Reactor (1957)". YouTube. Retrieved 17 March 2024.
+
+^ a b "CHARACTERISTICS OF THE ORACLE". Proceedings of a Symposium on Large Scale Digital Computing Machinery, August 3-5, 1953: 194–195. 1954-10-31. doi:10.2172/4416004.
+
+^ "Chapter 3: Accelerating Projects". Oak Ridge National Laboratory Review. 25 (3 and 4). Oak Ridge, Tennessee: Oak Ridge National Laboratory's Communications and Community Outreach. 1992. Archived from the original on 2017-02-06. Retrieved 2017-01-08. In 1947, Weinberg created a Mathematics and Computing Section within the Physics Division under the direction of Alston Householder, a mathematical biophysicist from the University of Chicago, who in 1948 converted the section into an independent Mathematics Panel to manage the Laboratory's acquisition of computers. [...] Before 1948, complex, multifaceted computations at the Y-12 and K-25 plants were done on electric calculators and card programming machines. Because of its participation in the nuclear aircraft project, the Laboratory obtained a matrix multiplier to solve linear equations. At the Laboratory's urging, the AEC also leased Harvard University's early Mark I computer. Householder and Weinberg insisted that the Laboratory should also acquire its own "automatic sequencing computer" to be used by staff scientists doing difficult computations for the nuclear aircraft project. The computer, they contended, could also serve to educate university faculty and researchers visiting the Laboratory. When purchased, it became the first electronic digital computer in the South. [...] Householder and the Laboratory's leadership were familiar with the pioneering work of Wigner's friend, John von Neumann, who had pursued experimental computer development near the end of the war for the Navy. Admiral Lewis Strauss thought the Navy needed computers to aid in weather forecasting, vital to ships at sea. With his urging, the Navy in 1946 sponsored fabrication of the first von Neumann digital computer at Princeton University. After considering Raytheon and other commercial computers, the Laboratory and Argonne National Laboratory decided to build their own von Neumann-type computers, tailored specifically to solve nuclear physics problems. Laboratory engineers assisted Argonne during the early 1950s in design and fabrication of the Oak Ridge Automatic Computer and Logical Engine. Its name was selected with reference to a lyrical acronym from Greek mythology—ORACLE, defined as 'a shrine in which a deity reveals hidden knowledge.' [...] Assembled before the development of transistors and microchips, the ORACLE was a large scientific digital computer that used vacuum tubes. It had an original storage capacity of 1024 words of 40 bits each (later doubled to 2048 words). The computer also contained a magnetic-tape auxiliary memory and an on-line cathode-tube plotter, a recorder, and a typewriter. Operational in 1954, for a time the ORACLE had the fastest speed and largest data storage capacity of any computer in the world. Problems that would have required two mathematicians with electric calculators three years to solve could be done on the ORACLE in 20 minutes. [...]Householder and the Mathematics Panel used the ORACLE to analyze radiation and shielding problems. In 1957, Hezz Stringfield and Ward Foster, both of the Budget Office, also adopted the ORACLE for more mundane but equally important tasks—annual budgeting and monthly financial accounting. As one of the last 'homemade computers,' the ORACLE became obsolete by the 1960s. The Laboratory then purchased or leased its mainframe computers from commercial suppliers. From the initial applications of the ORACLE to nuclear aircraft problems, computer enthusiasm spread like lightning throughout the Laboratory, and in time, use of the machines became common in all the Laboratory's divisions.{{cite journal}}:  CS1 maint: bot: original URL status unknown (link)
+
+^ "BRL Report 1961". ed-thelen.org. Retrieved 2017-11-22.
+
+^ Laboratory, Oak Ridge National (1992). Review. Vol. 25. No. 3. The Laboratory. pp. III.
+
+^ Nowak, E. S.; Grosh, R. J.; Commission, U. S. Atomic Energy; Laboratory, Argonne National (1959). An investigation of certain thermodynamic and transport properties of water and water vapor in the critical region. Argonne National Laboratory. p. 3.
+
+^ "ORNL Review v8n3 | ORNL". www.ornl.gov. Vol. 8, No. 3; Put a Brain in Your Rig. Microcomputers for ORNL. 1975. p. 13. Retrieved 2017-11-22.{{cite web}}:  CS1 maint: others (link)
+
+^ Belzer, Jack (1975-09-01). Encyclopedia of Computer Science and Technology: Volume 2 - AN/FSQ-7 Computer to Bivalent Programming by Implicit Enumeration. CRC Press. p. 143. ISBN 9780824722524.
+
+^ "Automatic Computing Machinery: Technical Developments - THE USAF-FAIRCHILD SPECIALIZED DIGITAL COMPUTER". Mathematics of Computation. 7 (41): 35–37. 1953. doi:10.1090/S0025-5718-53-99374-0. ISSN 0025-5718.
+
+
+External links[edit]
+BRL 1961 report
+vteOak Ridge National LaboratoryFacilities
+Aircraft Reactor Experiment
+Center for Nanophase Materials Sciences
+Freel Farm Mound Site
+High Flux Isotope Reactor
+Molten-Salt Reactor Experiment
+National Center for Computational Sciences
+Oak Ridge Institute for Science and Education
+Oak Ridge Leadership Computing Facility
+Frontier
+Oak Ridge School of Reactor Technology
+ORACLE
+Spallation Neutron Source
+UT–Battelle
+Battelle Memorial Institute
+University of Tennessee
+X-10 Graphite Reactor
+Products
+Parallel Virtual Machine
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ORACLE_(computer)&oldid=1279682646"
+Categories: IAS architecture computersOak Ridge National LaboratoryHidden categories: CS1 maint: bot: original URL status unknownCS1 maint: othersArticles needing additional references from January 2017All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 9 March 2025, at 23:25 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+ORACLE (computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 language
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

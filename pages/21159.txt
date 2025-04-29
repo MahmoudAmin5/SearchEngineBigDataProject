@@ -1,0 +1,826 @@
+https://en.wikipedia.org/wiki/Talk:Computer
+
+
+
+
+Talk:Computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Tim Berners-Lee
+
+
+11 comments
+
+
+
+
+
+
+2
+Cleanup request
+
+
+2 comments
+
+
+
+
+
+
+3
+Analog and Digital Computers
+
+
+12 comments
+
+
+
+
+
+
+4
+Job
+
+
+2 comments
+
+
+
+
+
+
+5
+Machine?
+
+
+2 comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Talk:Computer
+
+
+
+Add languages
+
+
+
+						Page contents not supported in other languages.
+					
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditAdd topicView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditAdd topicView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+This is the talk page for discussing improvements to the Computer article. This is not a forum for general discussion of the article's subject.
+
+
+
+
+
+Put new text under old text. Click here to start a new topic.
+New to Wikipedia? Welcome! Learn to edit; get help.
+
+
+Assume good faith
+Be polite and avoid personal attacks
+Be welcoming to newcomers
+Seek dispute resolution if needed
+
+Article policies
+Neutral point of view
+No original research
+Verifiability
+
+
+
+
+Find video game sources: "Computer" – news · newspapers · books · scholar · JSTOR · free images · free news sources · TWL · NYT · WP reference · VG/RS · VG/RL · WPVG/TalkArchives: 1, 2, 3, 4, 5Auto-archiving period: 2 months 
+
+ 
+
+
+
+Computer is a former featured article candidate. Please view the links under Article milestones below to see why the nomination was archived. For older candidates, please check the archive.Article milestonesDateProcessResultApril 7, 2006Featured article candidateNot promotedApril 7, 2006Good article reassessmentDelistedNovember 28, 2006Peer reviewReviewedDecember 19, 2006Featured article candidateNot promotedCurrent status: Former featured article candidateThis  level-2 vital article is rated B-class on Wikipedia's content assessment scale.It is of interest to the following WikiProjects:Computer science Top‑importanceThis article is within the scope of WikiProject Computer science, a collaborative effort to improve the coverage of Computer science related articles on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.Computer scienceWikipedia:WikiProject Computer scienceTemplate:WikiProject Computer scienceComputer scienceTopThis article has been rated as Top-importance on the project's importance scale.Things you can help WikiProject Computer science with:
+
+
+
+
+
+
+Here are some tasks awaiting attention: 
+  Article requests : 
+Requested articles/Applied arts and sciences/Computer science, computing, and Internet
+Cleanup : 
+Computer science articles needing attention
+Computer science articles needing expert attention
+Copyedit : 
+Computing
+Expand : 
+Computer science
+Infobox : 
+Computer science articles without infoboxes
+Maintain : 
+Timeline of computing 2020–present
+Photo : 
+Find pictures for the biographies of computer scientists (see List of computer scientists)
+Computing articles needing images
+Stubs : 
+Computer science stubs
+Unreferenced : 
+WikiProject Computer science/Unreferenced BLPs
+Project-related : 
+Tag all relevant articles in Category:Computer science and sub-categories with {{WikiProject Computer science}}
+
+
+
+
+Home Living Mid‑importance
+Housing portalThis article is within the scope of WikiProject Home Living, a collaborative effort to improve the coverage of home-related articles on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.Home LivingWikipedia:WikiProject Home LivingTemplate:WikiProject Home LivinghomeMidThis article has been rated as Mid-importance on the importance scale.
+Computing: Software Top‑importanceThis article is within the scope of WikiProject Computing, a collaborative effort to improve the coverage of computers, computing, and information technology on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.ComputingWikipedia:WikiProject ComputingTemplate:WikiProject ComputingComputingTopThis article has been rated as Top-importance on the project's importance scale.This article is supported by WikiProject Software (assessed as Mid-importance).This article is supported by Early computers task force (assessed as High-importance).This article is supported by Computer hardware task force (assessed as Top-importance).
+Engineering High‑importance
+Engineering portalThis article is within the scope of WikiProject Engineering, a collaborative effort to improve the coverage of engineering on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.EngineeringWikipedia:WikiProject EngineeringTemplate:WikiProject EngineeringEngineeringHighThis article has been rated as High-importance on the project's importance scale.
+Technology 
+Technology portalThis article is within the scope of WikiProject Technology, a collaborative effort to improve the coverage of technology on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.TechnologyWikipedia:WikiProject TechnologyTemplate:WikiProject TechnologyTechnology
+Video games Mid‑importance
+Video games portalThis article is within the scope of WikiProject Video games, a collaborative effort to improve the coverage of video games on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.Video gamesWikipedia:WikiProject Video gamesTemplate:WikiProject Video gamesvideo gameMidThis article has been rated as Mid-importance on the project's importance scale.Summary of Video games WikiProject open tasks:
+
+
+
+Summary of Video games WikiProject open tasks
+
+view
+watch
+edit
+history
+shell
+vg talk
+alerts
+purge
+
+
+
+
+
+AfDs
+
+Rise of Kingdoms (0 participants)
+Team Cherry (developer) (4 participants)
+Spinout (video game) (2 participants)
+Venti (Genshin Impact) (4 participants)
+Palm Kingdoms (1 participant)
+Pixel Twist (2 participants)
+The Relic (video game) (5 participants)
+PULSAR: Lost Colony (4 participants)
+Ladder scene (8 participants)
+Spyro the Dragon (2005 video game) (3 participants)
+John W. Ratcliff (2 participants)
+PC Chris (4 participants)
+The Elder Scrolls Renewal Project (5 participants)
+Squid Craft Games 2 (3 participants)
+Silver Ball Gardens (4 participants)
+Super Blood Hockey (4 participants)
+UPL Co., Ltd (3 participants; relisted)
+Matt (gamer) (4 participants; relisted)
+ZX Touch (6 participants; relisted)
+Zackray (6 participants; relisted)
+
+Merge discussions
+
+Microsoft Minesweeper (discussion)
+Pokémon Essentials (discussion)
+
+
+
+Other discussions
+No major discussions
+Featured content candidates 
+
+LittleBigPlanet (2008 video game) (nom)
+Yoshi's New Island (nom)
+Unreleased Sonic the Hedgehog games (nom)
+
+Good article nominations 
+
+Necromorph (start)
+Ayane (Dead or Alive) (start)
+Tetris (nom)
+Pokémon competitive play (start)
+Dying Light: The Following (nom)
+Clutch Gaming (start)
+Below the Root (video game) (start)
+AlphaBounce (nom)
+Nabbit (nom)
+Painter (video game) (start)
+Pokémon Trading Card Game Pocket (start)
+Kaboom! (video game) (start)
+The Battle of Polytopia (start)
+Mario Kart 64 (start)
+Crash Bandicoot 2: N-Tranced (nom)
+
+DYK nominations 
+
+Contradiction: Spot the Liar!
+Steve's Lava Chicken
+
+Reviews and reassessments 
+
+Chrono Trigger (nom)
+Star Wars Jedi Knight: Jedi Academy (nom)
+Kingdom Hearts (nom)
+Counter-Strike (video game) (rev)
+Pokémon Scarlet and Violet (rev)
+Wario Land: Shake It — Amazing Footage! (rev)
+24: The Game (nom)
+Rain World (rev)
+Castlevania: Portrait of Ruin (nom)
+
+
+
+Articles that need...
+assessment (8) (0)
+reassessment (0)
+cleanup (9)
+infoboxes (9)
+cover art (320)
+screenshots (9,136)
+photos (71)
+translation from japan (183)
+creation
+merging
+
+
+
+Systems: Software engineering Top‑importance
+Systems science portalThis article is within the scope of WikiProject Systems, which collaborates on articles related to systems and systems science.SystemsWikipedia:WikiProject SystemsTemplate:WikiProject SystemsSystemsTopThis article has been rated as Top-importance on the project's importance scale.This article is within the field of Software engineering.
+This article is written in American English, which has its own spelling conventions (color, defense, traveled) and some terms that are used in it may be different or absent from other varieties of English. According to the relevant style guide, this should not be changed without broad consensus.
+
+
+
+ To-do list for Computer: edit · history · watch · refresh · Updated 2022-10-18
+
+
+
+ 
+This article needs to be more focused on the topic. Here are good sources for people willing to improve it:
+
+Code, by Charles Petzold
+(feel free to add more books on the overall topic, not specific aspects)
+
+
+
+
+
+Tip: Anchors are case-sensitive in most browsers.
+
+This article contains broken links to one or more target anchors:
+
+
+[[Gaming computer#Gaming laptop computers|Gaming laptop]]  The anchor (Gaming laptop computers) has been deleted.
+
+The anchors may have been removed, renamed, or are no longer valid. Please fix them by following the link above, checking the page history of the target pages, or updating the links.
+
+Remove this template after the problem is fixed | Report an error
+
+Tim Berners-Lee[edit]
+Hello. 
+I was surprised at the absence of a mention of Tim Berners-Lee in this article, in the section about the internet. Having said that, I'm a perennial novice when it comes to computers, so I wonder if I've been misinformed that he 'invented' the internet (?)/the world wide web (?). I did recheck on Google and it seems that he did, but I'm aware that Google is not God, and I did only glance at the first few results. Paulb2210 (talk) 10:30, 14 September 2024 (UTC)[reply]
+
+The Internet is the network of computers themselves and the underlying protocols that make basic communication possible. The Internet was first developed in the mid-20th century, culminating in the the Internet Protocol we presently use first veing published in 1974, authored by Vint Cerf and Bob Kahn. Berners-Lee was instead the primary inventor of the World Wide Web in 1990, which is the specific later technology that uses the Internet to share hypertext documents. It's a relatively common error to confuse the two. Remsense ‥ 论 11:22, 14 September 2024 (UTC)[reply]
+Thanks, Remsense. Do you think Berners-Lee is worthy of a mention in the article for being the primary inventor of the World Wide Web? Paulb2210 (talk) 13:49, 15 September 2024 (UTC)[reply]
+I don't see him as a glaring omission from this article, as he only invented a particular piece of network software, rather than directly impacting the computer itself. Remsense ‥ 论 02:15, 16 September 2024 (UTC)[reply]
+Thanks. But it wasn't 'any old' piece of software, was it? How might the computer have developed without it? I'm guessing the majority, or at least a significant percentage, of computer users use their computer for social media and streaming entertainment; do those rely on the WWW? Or would those be possible without it? Paulb2210 (talk) 14:06, 24 September 2024 (UTC)[reply]
+How might the computer have developed without it?
+Desktop and laptop computers were in essentially the same architectural state in 1990 than they are in now, including network capabilities. I concede that the web mattered a lot for the development of mobile computer form factors, but I still think it is okay that we do not mention Berners-Lee by name, given we do not mention Cerf or many other important figures in the history of the Internet, and we only have so much space. Remsense ‥ 论 14:11, 24 September 2024 (UTC)[reply]
+Thanks, Remsense. Paulb2210 (talk) 15:26, 24 September 2024 (UTC)[reply]
+Can't think why STB-L would be mentioned here. 'Computer' is a much broader and older term than 'internet', let alone 'world-wide web' and STB-L's notability stems from the WWW. Andy Dingley (talk) 17:22, 24 September 2024 (UTC)[reply]
+Thanks, Andy. Paulb2210 (talk) 17:10, 7 October 2024 (UTC)[reply]
+How might the computer have developed without it?
+Hypercard stacks were already doing most of it, hypertext, scripting, integrating Quicktime VR in the 90s to give a Google Street-view -style perspective (as seen in Myst) and we already had eWorld so without the WWW we likely would have just seen eWorld host more interactive content via Stacks. It may have led to wikipedia earlier considering that wikipedia is ideologically like the Hitchhiker's Guide to the Galaxy and technologically like Hypercard.
+I'm guessing the majority, or at least a significant percentage, of computer users use their computer for social media and streaming entertainment; do those rely on the WWW?
+Some such services are available both by using web-browser protocols and by using their own independent API that's independent of the web. Some are served only via public web and others only via private API. I can appreciate that streaming cat videos is likely subjectively salient at the moment just as not getting killed by bombs was the benefit "the majority, or at least a significant percentage, of" people got from computers mid last century. I very much doubt Turing envisaged computers would be used to stream videos of cats, so I very much doubt that we can accurately speculate what computers will do in the very near future.
+There are other computer technologies "the majority, or at least a significant percentage, of" people do or will depend upon daily whether that's automatic transmission systems in cars, autopilots in aeroplanes, microwave ovens, pacemakers, hearing aids, et al and I just don't think the article would benefit from citing the names of the people who invented cars, human flight, cooking, medicine, etc. Turing's point is that if a process can be reduced to calculations, it can be automated -- and that's a lot more than just streaming cat videos. 49.195.26.187 (talk) 12:24, 11 October 2024 (UTC)[reply]
+Thanks. Paulb2210 (talk) 11:45, 31 December 2024 (UTC)[reply]
+Cleanup request[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+I just read the History section and a few segments seemed pretty rough / poorly formatted:
+
+In 1831–1835, mathematician and engineer Giovanni Plana devised a Perpetual Calendar machine, which, through a system of pulleys and cylinders and over, -- if content was deleted from "and over" it should be restored; otherwise "and over" should be deleted.
+after working on his difference engine he announced his invention in 1822, in a paper to the Royal Astronomical Society, titled "Note on the application of machinery to the computation of astronomical and mathematical tables",[23] he also -- a comma cannot do that; change to "tables. He also" as a new sentence.
+The metal–oxide–silicon field-effect transistor (MOSFET), also known as the MOS transistor, The MOSFET invented at Bell Labs between 1955 and 1960,[72][73][74][75][76][77] It was the -- merge several run-on sentence fragments here into a genuine sentence: "The metal–oxide–silicon field-effect transistor (MOSFET), also known as the MOS transistor, was invented at Bell Labs between 1955 and 1960 and was the".
+SoC, and the flash memory is usually placed right next to the SoC, this all done to improve data transfer speeds, as the -- this is already a long run-on sentence by this point so begin a new one: "next to the SoC. This is done to".
+modern SoCs (Such as the Snapdragon -- there is no need to capitalise "S" in "Such"; change to "such".
+Thanks. 49.195.26.187 (talk) 11:39, 11 October 2024 (UTC)[reply]
+
+ Done That whole section could use more care, but thanks for identifying some of the more egregious stuff. DrOrinScrivello (talk) 20:34, 11 October 2024 (UTC)[reply]
+Analog and Digital Computers[edit]
+
+
+WP:NOTFORUM. If there is a concrete proposal for an improvement to the article, please post a new section with the suggested text and reliable sources. Johnuniq (talk) 08:27, 17 January 2025 (UTC)[reply]
+
+
+The following discussion is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+
+
+I think there should be a paragraph on digital computers in relation to the fact that currently all what we currently call digital computers are in fact analog computers simulating a digital computer. Too many people think they are actually digital rather than analog with tolerances to infer a digital behaviour. Suggested paragraph...
+"While often referred to as 'digital computers,' modern computing devices are, in reality, analog computers that simulate digital behavior. These devices rely on analog components, such as transistors and electrical signals, to process information. By carefully controlling the tolerances and thresholds of these analog components, engineers can create the illusion of digital behavior, where discrete binary values (0s and 1s) are processed and manipulated. However, it's essential to recognize that this digital behavior is an abstraction, built upon the underlying analog nature of the physical components." 2405:6E00:2229:7BB:112A:78DC:C83D:41C4 (talk) 15:16, 20 December 2024 (UTC)[reply]
+
+That's completely missing the point and would be a bad change to make to the article. Andy Dingley (talk) 16:20, 20 December 2024 (UTC)[reply]
+Actually explaining misnomers is very educational and should be in every article. Wikipedia is supposed to be all factual, and so many people grow up not realizing facts because of such and wikipedia is becoming more and more the source of truth for a lot of people.
+Is it the actual fact you believe shouldn't be stated in the article or the way I worded it which should be factual and I doubt any computer scientist or physics expert would say otherwise. 2405:6E00:2229:7BB:112A:78DC:C83D:41C4 (talk) 16:48, 21 December 2024 (UTC)[reply]
+No, the point is to tell you what is the case, and only what is pertinent. Usually that does not require explicitly ruling out everything that is not the case or misconceptions not potentially implied from a plain reading of the text. You think a distinction one could identify is interesting, but that does not deserve to be extrapolated out to a primary point of focus for readers because you've decided to confuse yourself on purpose about it. Remsense ‥ 论 17:05, 21 December 2024 (UTC)[reply]
+You probably think ROM is not random access memory.  Its worth noting that Buchholz himself acknowledged the potential for confusion between the terms "random access" and "read/write," but the terminology had already become widespread by the time he expressed his concerns.
+Seems digital is similar, in this analog world there pretty much isn't anything digital outside of conceptual and any electronics engineer will know that. 2405:6E00:2229:7BB:112A:78DC:C83D:41C4 (talk) 06:36, 22 December 2024 (UTC)[reply]
+It's not a misnomer. Digital computers are digital, they work by digital electronics.
+Digital electronics is fundamentally analogue. Aspects such as signal noise margins, output impedance, fanout and (into the time domain) gate delay are all analogue and crucial to good design of their circuits. But once these low-level circuits are designed, they can be assembled into larger architectures with little thought as to their analogue behaviour, or at least by codifying this as some basic rules to follow. From that point on, they can be treated as digital functional blocks, without having to consider the underlying analogue implementation.
+Once we're into computers, then we're even further abstracted. We no longer see signal levels or logic families, we're reduced purely to a 'bit' or 'word', because we'd never get anywhere otherwise. Andy Dingley (talk) 20:22, 21 December 2024 (UTC)[reply]
+As stated, digital computers are purely simulated on an analog platform. 2405:6E00:2229:7BB:112A:78DC:C83D:41C4 (talk) 06:34, 22 December 2024 (UTC)[reply]
+Your observation that the physical world is unideal and noisy is not new, interesting, or useful here. You are trying to shove a fixation of yours where it doesn't belong, into a place where everyone already understands it but does not mention it because it doesn't matter. That's why we say what sources do in proportion to how often they say it. Remsense ‥ 论 06:39, 22 December 2024 (UTC)[reply]
+CMOS inverter The basic building block of any digital computer is the logic gate. The vast majority of these are nowadays made using FETs, which are connected in such a way that they operate either in cutoff mode or saturation mode - the FET either conducts, or it doesn't, and so it acts like a switch - either "off" or "on", usually represented by the binary values 0 and 1. Between these two modes, FETs also have a linear mode within which it is purely analogue and can amplify a signal. The same applies to BJTs, which were used to construct the majority of logic gates until the 1970s/1980s. It is perfectly possible to construct a logic gate using relays; one feature of the relay is that there is no linear mode - the output is either "off" or "on", there is nothing in between. Even if a slowly-increasing input is applied, at some point the output of the relay will snap instantaneously from one state to the other, without any graduation. Logic gates that use either FETs or BJTs must necessarily pass through the linear region when the transistor is changing state, but with careful design, this period is extremely short. One reason that CMOS devices get hot is that when a pair of FETs (see diagram of a CMOS inverter) is changing state, the power rail (Vdd) is briefly short-circuited to ground (Vss) whilst the two FETs are conducting simultaneously.
+As an aside, but on a related matter: just over 46 years ago, there was an article in Everyday Electronics magazine[1] showing how to construct a small AM radio receiver that used only two semiconductor devices: a Mullard OA91 germanium diode used as a detector, and a CD4001B integrated circuit, a device that contained four two-input NOR gates. In the finished radio, one NOR gate was unused (and tied to Vss), and the other three were wired as inverters and connected (basically, by feeding the output back to the input through a resistor) in such a fashion that they operated in linear mode, and functioned as amplifiers. So, it can be said that CMOS logic gates are analogue devices, but when used in a digital computer, the fact that the inputs will be at either of the two supply voltages means that the output will also be at one of these voltages.
+I should point out that all digital computers emply a clock signal, which is not just used for synchronisation, it is also used to verify the validity of logic levels. In its simplest form, when the clock is in one state, one set of data wires is stable and the other is in an indeterminate state, during which time these will be conditioned from the first set; and when the clock line changes to its other state, the second set then become stable and the first set will become indeterminate and are then conditioned from the second set. By checking the clock state, you can find which data wires are stable - and it will be found that all of these will be at one or the other of the two supply voltages. None will be at an intermediate voltage: their signals are not analogue, but digital. --Redrose64 🌹 (talk) 21:28, 22 December 2024 (UTC)[reply]
+yes the output is digital but the input is analog. Its inherently analog simulating digital behaviour. 2405:6E00:2229:7BB:112A:78DC:C83D:41C4 (talk) 02:57, 26 December 2024 (UTC)[reply]
+Next you will likely say digital computers can only be binary? Digital does not mean binary actually which is a fact. Yet the article is focusing on the fact that most digital computers are binary based. They can be but not necessarily are. But all are analog because analog is also digital. 2405:6E00:223C:91A:E5AD:1513:A920:7051 (talk) 08:09, 17 January 2025 (UTC)[reply]
+
+References
+
+
+^ Penfold, R.A. (October 1978). Bennett, Fred E. (ed.). "MW LW Radio". Everyday Electronics. Vol. 7, no. 14. London: IPC Magazines. pp. 740–4.
+
+
+
+The discussion above is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+Job[edit]
+As computer is also a job/position that a human can have, there should be some disambiguation in this article. So many computing related articles start with "in computer science," or similar, but computer today implies machine, not the job title. How to add this info? Stevebroshar (talk) 11:11, 13 January 2025 (UTC)[reply]
+
+Did you miss the standard disambiguation page hatnote? Or what, what are you asking? The other article as presently written isn't confusing as to what its subject is. However, it does mangle the use–mention distinction pretty badly, so that should be fixed. Remsense ‥ 论 11:24, 13 January 2025 (UTC)[reply]
+Machine?[edit]
+I’ve heard some debates over this term from more pedantic folks. Some argue that the word machine only applies to feats of mechanical engineering. Apple discourages the use of machine for its products, encouraging the word device instead. 
+I’m all for descriptivism, but I wonder if those who prefer a prescriptivist perspective would disagree with calling a fully solid state computer (bonus points if it’s fanless and has minimal/no switches on the unit itself, i.e. many microcontroller boards) a machine. 
+You could argue that it does mechanically move around electrons through various paths. But electrons aren’t generally considered moving parts. 99.160.153.214 (talk) 16:02, 19 January 2025 (UTC)[reply]
+
+The slightly broader sense of machine not limited to mechanical devices is as old as the narrower sense—just to cover my base of etymological fallacy—and more concretely is pretty unproblematic and universally understood as a result. I would have to conjecture that any objection to its use as such is primarily aesthetic, not lexical. Remsense ‥ 论 16:44, 19 January 2025 (UTC)[reply]
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Talk:Computer&oldid=1286280586"
+Categories: Old requests for peer reviewB-Class level-2 vital articlesWikipedia level-2 vital articles in TechnologyB-Class vital articles in TechnologyB-Class Computer science articlesTop-importance Computer science articlesWikiProject Computer science articlesB-Class home articlesMid-importance home articlesWikiProject Home Living articlesB-Class Computing articlesTop-importance Computing articlesB-Class software articlesMid-importance software articlesB-Class software articles of Mid-importanceAll Software articlesB-Class Early computers articlesHigh-importance Early computers articlesB-Class Early computers articles of High-importanceB-Class Computer hardware articlesTop-importance Computer hardware articlesB-Class Computer hardware articles of Top-importanceAll Computing articlesB-Class Engineering articlesHigh-importance Engineering articlesWikiProject Engineering articlesB-Class Technology articlesWikiProject Technology articlesB-Class video game articlesMid-importance video game articlesWikiProject Video games articlesB-Class Systems articlesTop-importance Systems articlesSystems articles in software engineeringWikiProject Systems articlesWikipedia articles that use American EnglishWikipedia pages with to-do listsHidden categories: All Wikipedia vital articlesPages with broken anchors
+
+
+
+
+
+
+ This page was last edited on 18 April 2025, at 21:46 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Talk:Computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

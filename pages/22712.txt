@@ -1,0 +1,171 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_grid
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+Mobile First Fluid Grid
+Try to resize the window
+
+
+
+Navigation
+12 colums (s12)on small screens
+4 columns (m4) on medium screens
+3 columns (l3)on large screens
+
+
+Content    
+12 colums (s12)on small screens
+8 columns (m8) on medium screens
+9 columns (l9)on large screens
+
+
+
+
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10
+  11
+  12
+
+
+
+  Default
+
+
+
+  m6
+  m6
+
+
+
+  m4
+  m4
+  m4
+
+
+
+  m3
+  m3
+  m3
+  m3
+
+     
+
+  m2
+  m2
+  m2
+  m2
+  m2
+  m2
+       
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

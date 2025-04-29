@@ -1,0 +1,1072 @@
+https://en.wikipedia.org/wiki/IBM_PC_DOS
+
+
+
+
+IBM PC DOS - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Version history
+
+
+
+
+
+
+
+
+
+
+2
+Versions
+
+
+
+
+Toggle Versions subsection
+
+
+
+
+
+2.1
+PC DOS 1.x
+
+
+
+
+
+
+
+
+2.2
+PC DOS 2.x
+
+
+
+
+
+
+
+
+2.3
+PC DOS 3.x
+
+
+
+
+
+
+
+
+2.4
+PC DOS 4.x
+
+
+
+
+
+
+
+
+2.5
+PC DOS 5
+
+
+
+
+
+
+
+
+2.6
+PC DOS 6.1
+
+
+
+
+
+
+
+
+2.7
+PC DOS 6.3
+
+
+
+
+
+
+
+
+2.8
+PC DOS 7
+
+
+
+
+
+
+
+
+2.9
+PC DOS 2000
+
+
+
+
+
+
+
+
+2.10
+PC DOS 7.1
+
+
+
+
+
+
+
+
+
+
+3
+PC DOS as a distributed file client
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+Notes
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM PC DOS
+
+
+
+23 languages
+
+
+
+
+العربيةБеларуская (тарашкевіца)CatalàČeštinaDeutschEspañolفارسی한국어Bahasa IndonesiaItalianoBahasa Melayu日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenskaไทยTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer operating system
+
+
+Operating system
+IBM PC DOSVersion 1.10 (1982) command lineDeveloperMicrosoftIBMWritten inAssembly language, COS familyDOSWorking stateNo longer supportedSource modelClosed sourceInitial releaseAugust 1981; 43 years ago (1981-08)Latest releasePC DOS 2000 / April 1998; 27 years ago (1998-04)Latest previewPC DOS 7.1 / 2003; 22 years ago (2003)Available inEnglish (US), English (UK), Danish, Dutch, Finnish, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, SwedishPlatformsx86Kernel typeMonolithic kernelDefaultuser interfaceCommand-line interface (COMMAND.COM)LicenseCommercial proprietary software
+IBM PC DOS (an acronym for IBM Personal Computer Disk Operating System),[nb 1] also known as PC DOS or IBM DOS, is a discontinued disk operating system for the IBM Personal Computer, its successors, and IBM PC compatibles. It was sold by IBM from the early 1980s into the 2000s. Developed by Microsoft, it was also sold by that company to the open market as MS-DOS. Both operating systems were identical or almost identical until 1993, when IBM began selling PC DOS 6.1 with its own new features. The collective shorthand for PC DOS and MS-DOS was DOS, which is also the generic term for disk operating system, and is shared with dozens of disk operating systems called DOS.
+
+
+History[edit]
+The IBM task force assembled to develop the IBM PC decided that critical components of the machine, including the operating system, would come from outside vendors. This radical break from company tradition of in-house development was one of the key decisions that made the IBM PC an industry standard. Microsoft, founded five years earlier by Bill Gates, was eventually selected for the operating system.
+IBM wanted Microsoft to retain ownership of whatever software it developed, and wanted nothing to do with helping Microsoft, other than making suggestions from afar. According to task force member Jack Sams: 
+
+The reasons were internal. We had a terrible problem being sued by people claiming we had stolen their stuff. It could be horribly expensive for us to have our programmers look at code that belonged to someone else because they would then come back and say we stole it and made all this money. We had lost a series of suits on this, and so we didn't want to have a product which was clearly someone else's product worked on by IBM people. We went to Microsoft on the proposition that we wanted this to be their product.[1][citation needed]
+IBM first contacted Microsoft to look the company over in July 1980. Negotiations continued over the months that followed, and the paperwork was officially signed in early November.[2]
+Although IBM expected that most customers would use PC DOS,[3] the IBM PC also supported CP/M-86, which became available six months after PC DOS,[4] and UCSD p-System operating systems.[5] IBM's expectation proved correct: one survey found that 96.3% of PCs were ordered with the $40 PC DOS compared to 3.4% with the $240 CP/M-86.[6]
+Over the history of IBM PC DOS, various versions were developed by IBM and Microsoft. By the time PC DOS 3.0 was completed, IBM had a team of developers covering the full OS. At that point in time, either IBM or Microsoft completely developed versions of IBM PC DOS going forward. By 1985, the joint development agreement (JDA) between IBM and Microsoft for the development of PC DOS had each company giving the other company a completely developed version. Most of the time branded versions were identical, but there were some cases in which each of the companies made minor modifications to their version of DOS. In the fall of 1984, IBM gave all the source code and documentation of the internally developed IBM TopView for DOS to Microsoft so that Microsoft could more fully understand how to develop an object-oriented operating environment, overlapping windows (for its development of Windows 2.0) and multitasking.
+
+Version history[edit]
+
+
+Version
+Release date
+References
+
+
+1.0
+August 12, 1981
+[7]
+
+
+1.1 (1.10)
+May 7, 1982
+[8]
+
+
+2.0
+March 8, 1983
+[9]
+
+
+2.1 (2.10)
+November 1, 1983
+[10]
+
+
+3.0
+September 14, 1984
+[11]
+
+
+3.1 (3.10)
+April 2, 1985
+[12]
+
+
+3.2 (3.20)
+April 2, 1986
+[13]
+
+
+3.3 (3.30)
+April 2, 1987
+[14]
+
+
+4.0
+July 19, 1988
+[15]
+
+
+5.0
+June 11, 1991
+[16]
+
+
+6.1
+July 26, 1993
+[17]
+
+
+6.3
+April 27, 1994
+[18]
+
+
+7.0
+February 28, 1995
+[19]
+
+
+2000
+May 29, 1998
+[20]
+
+Versions[edit]
+PC DOS 1.x[edit]
+ User manual and diskette for IBM PC DOS 1.1
+Microsoft first licensed,[21] then purchased[22] 86-DOS from Seattle Computer Products (SCP), which was modified for the IBM PC by Microsoft employee Bob O'Rear with assistance from SCP (later Microsoft) employee Tim Paterson.[23] O'Rear got 86-DOS to run on the prototype PC in February 1981. 86-DOS had to be converted from 8-inch to 5.25-inch floppy disks and integrated with the BIOS, which Microsoft was helping IBM to write.[24][25] IBM had more people writing requirements for the computer than Microsoft had writing code. O'Rear often felt overwhelmed by the number of people he had to deal with at the ESD (Entry Systems Division) facility in Boca Raton, Florida.
+Perhaps the first public mention of the operating system was in July 1981, when Byte discussed rumors of a forthcoming personal computer with "a CP/M-like DOS ... to be called, simply, 'IBM Personal Computer DOS'".[26] 86-DOS was rebranded IBM PC DOS 1.0 for its August 1981 release with the IBM PC. The initial version of DOS was largely based on CP/M-80 1.x and most of its architecture, function calls and file-naming conventions were copied directly from the older OS. The most significant difference was the fact that it introduced a different file system, FAT12. Unlike all later DOS versions, the DATE and TIME commands were separate executables rather than part of COMMAND.COM. Single-sided 160 kilobyte (KB) 5.25-inch floppies were the only disk format supported.
+In late 1981, Paterson, now at Microsoft, began writing PC DOS 1.10. It debuted in May 1982 along with the Revision B IBM PC. Support for the new double-sided drives was added, allowing 320 KB per disk. A number of bugs were fixed, and error messages and prompts were made less cryptic. The DEBUG.EXE was now able to load files greater than 64 KB in size.
+
+PC DOS 2.x[edit]
+Later, a group of Microsoft programmers (primarily Paul Allen, Mark Zbikowski and Aaron Reynolds)[25] began work on PC DOS 2.0. Completely rewritten, DOS 2.0 added subdirectories and hard disk support for the new IBM XT, which debuted in March 1983. A new 9-sector format bumped the capacity of floppy disks to 360 KB. The Unix-inspired kernel featured file handles in place of the CP/M-derivative file control blocks and loadable device drivers could now be used for adding hardware beyond that which the IBM PC BIOS supported. BASIC and most of the utilities provided with DOS were substantially upgraded as well. A major undertaking that took almost 10 months of work, DOS 2.0 was more than twice as big as DOS 1.x, occupying around 28 KB of RAM compared to the 12 KB of its predecessor. It would form the basis for all Microsoft consumer-oriented OSes until 2001, when Windows XP (based on Windows NT) was released.[25]
+In October 1983 (officially 1 November 1983)[27] DOS 2.1 debuted. It fixed some bugs and added support for half-height floppy drives and the new IBM PCjr.
+In 1983, Compaq released the Compaq Portable, the first 100% IBM PC compatible and licensed their own OEM version of DOS 1.10 (quickly replaced by DOS 2.00) from Microsoft. Other PC compatibles followed suit, most of which included hardware-specific DOS features, although some were generic.
+
+PC DOS 3.x[edit]
+Retail box of IBM PC DOS 3.30
+In August 1984, IBM introduced the Intel 80286-derived IBM PC/AT, its next-generation machine. Along with this was DOS 3.00. Despite jumping a whole version number, it again proved little more than an incremental upgrade, adding nothing more substantial than support for the AT's new 1.2 megabyte (MB) floppy disks. Planned networking capabilities in DOS 3.00 were judged too buggy to be usable and Microsoft disabled them prior to the OS's release. In any case, IBM's original plans for the AT had been to equip it with a proper next-generation OS that would use its extended features, but this never materialized.[2] PC DOS 3.1 (released March 1985) fixed the bugs in DOS 3.00 and supported IBM's Network Adapter card on the IBM PC Network. PC DOS 3.2 added support for 3+1⁄2-inch double-density 720 KB floppy disk drives, supporting the IBM PC Convertible, IBM's first computer to use 3+1⁄2-inch floppy disks, released April 1986, and later the IBM Personal System/2 in 1987.
+In June 1985, IBM and Microsoft signed a long-term Joint Development Agreement to share specified DOS code and create a new operating system from scratch, known at the time as Advanced DOS. On 2 April 1987 OS/2 was announced as the first product produced under the agreement.[28] At the same time, IBM released its next generation of personal computers, the IBM Personal System/2 (PS/2).[2] PC DOS 3.3, released with the PS/2 line, added support for high density 3+1⁄2-inch 1.44 MB floppy disk drives, which IBM introduced in its 80286-based and higher PS/2 models. The upgrade from DOS 3.2 to 3.3 was completely written by IBM, with no development effort on the part of Microsoft, who were working on "Advanced DOS 1.0". DOS 3.30 was the last version designed with the IBM XT and floppy-only systems in mind; it became one of the most popular versions and many users preferred it to its buggy successor.
+
+PC DOS 4.x[edit]
+PC DOS 4.0 (internally known as DOS 3.4 originally) shipped July 1988. DOS 4.0 had some compatibility issues with low-level disk utilities due to some internal data structure changes. DOS 4.0 used more memory than DOS 3.30 and it also had a few glitches. Newly added EMS drivers were only compatible with IBM's EMS boards and not the more common[citation needed] Intel and AST ones. DOS 4.0 is also notable for including the first version of the DOS Shell, a full-screen utility designed to make the command-line OS more user-friendly. Microsoft took back control of development and released a bug-fixed DOS 4.01.[29]
+
+PC DOS 5[edit]
+DOS 5 debuted in June 1991. DOS 5 supported the use of the High Memory Area (HMA) and Upper Memory Blocks (UMBs) on 80286 and later systems to reduce its conventional memory usage. Also all DOS commands now supported the /? option to display command syntax. Aside from IBM's PC DOS, MS-DOS was the only other version available as OEM editions vanished since by this time PCs were 100% compatible so customizations for hardware differences were no longer necessary.
+The POWER.EXE was introduced that has the APM standard in version 5.02.[30][31]
+This was the last version of DOS that IBM and Microsoft shared the full code for, and the DOS that was integrated into OS/2 2.0's, and later Windows NT's, virtual DOS machine.
+
+PC DOS 6.1[edit]
+PC DOS remained a rebranded version of MS-DOS until 1993. IBM and Microsoft parted ways—MS-DOS 6 was released in March, and PC DOS 6.1 (separately developed) followed in June. Most of the new features from MS-DOS 6.0 appeared in PC DOS 6.1 including the new boot menu support and the new commands CHOICE, DELTREE, and MOVE. QBasic was dropped and the MS-DOS Editor was replaced with the IBM E Editor. It also licensed components of Central Point's PC Tools, such as Central Point Backup Utility (CPBACKUP).[17][19] PC DOS 6.1 reports itself as DOS 6.00.
+
+PC DOS 6.3[edit]
+PC DOS 6.3 followed in December. PC DOS 6.3 was also used in OS/2 for the PowerPC. PC DOS 6.3 also featured SuperStor disk compression technology from Addstor.
+
+PC DOS 7[edit]
+PC DOS 7 was released in April 1995 and was the last release of DOS before IBM software development (other than the development IBM ViaVoice) moved to Austin. The REXX programming language was added, as well as support for a new floppy disk format, XDF, which extended a standard 1.44 MB floppy disk to 1.86 MB. SuperStor disk compression technology was replaced with Stac Electronics' STACKER. An algebraic command line calculator and a utility program to load device drivers from the command line were added. PC DOS 7 also included many optimizations to increase performance and reduce memory usage.[32]
+
+PC DOS 2000[edit]
+The most recent retail release was PC DOS 2000 – released from Austin in 1998 – which found its niche in the embedded software market and elsewhere. PC DOS 2000 is a slipstream of 7.0 with Y2K and other fixes applied. To applications, PC DOS 2000 reports itself as "IBM PC DOS 7.00, revision 1", in contrast to the original PC DOS 7, which reported itself as "IBM PC DOS 7.00, revision 0".[nb 2]
+PC-DOS 2000 was the last version of IBM PC-DOS that was sold at retail. IBM advertised it as a Y2K compliant DOS. As it reports itself as "IBM PC-DOS 7 Revision 1", it is often referred to as "IBM PC-DOS7R1" or just "PC-DOS7R1".
+Hitachi used PC DOS 2000 in their legacy Drive Fitness Test (4.15) and Hitachi Feature Tool (2.15) until 2009.[33] ThinkPad products had a copy of the latest version of PC DOS in their Rescue and Recovery partition.[34]
+
+PC DOS 7.1[edit]
+PC DOS 7.1 added support for Logical Block Addressing (LBA) and FAT32 partitions.[nb 2] Various builds from 1999 up to 2003 were not released in retail, but used in products such as the IBM ServerGuide Scripting Toolkit.[35] A build of this version of DOS appeared in Norton Ghost from Symantec.[36] Version 7.1 indicates support for FAT32 also in MS-DOS.[32]
+Most builds of this version of DOS are limited to the kernel files IBMBIO.COM, IBMDOS.COM, and COMMAND.COM. The updated programs FDISK32 and FORMAT32 allow one to prepare FAT32 disks. Additional utilities are taken from PC DOS 2000, where needed.
+
+PC DOS as a distributed file client[edit]
+In 1986, IBM announced PC DOS support for client access to the file services defined by Distributed Data Management Architecture (DDM). This enabled programs on PCs to create, manage, and access record-oriented files available on IBM System/36, IBM System/38 and IBM mainframe computers running CICS. In 1988, client support for stream-oriented files and hierarchical directories was added to PC DOS when they became available on the DDM server systems.
+
+See also[edit]
+Timeline of DOS operating systems
+Comparison of DOS operating systems
+List of DOS commands
+Notes[edit]
+
+
+^ Formally known as "The IBM Personal Computer DOS" from versions 1.0 through 3.30, as reported in those versions' respective COMMAND.COM outputs
+
+^ a b For PC DOS the DOS INT 21h function 30h Get DOS version returns OEM code 00h for IBM instead of FFh for Microsoft. This is particularly important for DOS 7, because various features introduced in MS-DOS 7.0 and 7.1 are not supported in PC DOS 7.x, and vice versa, e.g., MS-DOS does not support REXX, and PC DOS 7 and 2000 do not support LBA access.
+
+
+References[edit]
+
+
+^ Jakobsen, Remi. "The History of DOS". Remi's Classic Computers - My collection of vintage computers, game consoles, history, specs and repairs. Archived from the original on 2019-08-04. Retrieved 2017-11-10.
+
+^ a b c Wallace, James; Erickson, Jim (1992). Hard Drive: Bill Gates and the Making of the Microsoft Empire. John Wiley & Sons. pp. 190. ISBN 0-471-56886-4.
+
+^ Bunnell, David Hugh (February–March 1982). "The Man Behind The Machine? A PC Exclusive Interview With Software Guru Bill Gates". PC Magazine. p. 16. Retrieved 2016-07-12.
+
+^ Edlin, Jim (June–July 1982). "CP/M Arrives". PC Magazine. p. 43. Retrieved 2016-07-12.
+
+^ Lemmons, Phil (October 1981). "The IBM Personal Computer: First Impressions". Byte. p. 36. Retrieved 2016-07-12.
+
+^ "CP/M-86 Price Plunges to $60". PC Magazine. February 1983. p. 56. Retrieved 2017-10-11.
+
+^ "Product Announcement: The IBM Personal Computer" (PDF) (Press release). White Plains, New York: IBM. 1981-08-12. Retrieved 2023-02-08.
+
+^ Sedory, Daniel (2008-08-13). "IBM Personal Computer DOS Version 1.1.0 (1982)". The Starman's Realm. Retrieved 2023-02-08.
+
+^ "IBM Personal Computer DOS Version 2 And IBM Personal Computer BASIC Language Extensions Version 2 Are Now Available 6024061" (Announcement letter). IBM. 1983-03-08. 283-034. Retrieved 2025-01-19.
+
+^ "IBM Personal Computer DOS Version 2.1 Announced And Available" (Announcement letter). IBM. 1983-11-01. 283-389. Retrieved 2025-01-19.
+
+^ "IBM Personal Computer DOS Version 3.0" (Announcement letter). IBM. 1984-08-14. 284-283. Retrieved 2025-01-19.
+
+^ "IBM PC DOS 3.10". PCjs Machines. Retrieved 2023-02-08.
+
+^ "IBM Personal Computer Disk Operating System Version 3.2 On 3.5-Inch Diskette And IBM Personal Computer BASIC Reference Version 3.2 Available" (Announcement letter). IBM. 1986-04-02. 286-129. Retrieved 2025-01-19.
+
+^ "IBM Disk Operating System (DOS) Version 3.30" (Announcement letter). IBM. 1987-04-02. 287-098. Retrieved 2025-01-19.
+
+^ "IBM Disk Operating System (DOS) Version 4.00" (Announcement letter). IBM. 1988-07-19. 288-380. Retrieved 2025-01-19.
+
+^ "IBM DOS Version 5.00 and Upgrade" (Announcement letter). IBM. 1991-06-11. ZP91-0432. Retrieved 2025-01-19.
+
+^ a b "IBM PC DOS Version 6.1" (Announcement letter). IBM. 1993-06-29. 293-347. Retrieved 2025-01-19.
+
+^ "IBM PC DOS Version 6.3" (Announcement letter). IBM. 1994-04-27. 294-263. Retrieved 2025-01-19.
+
+^ a b "IBM PC DOS Version 7" (Announcement letter). 1995-02-28. ZP95-0102. Retrieved 2025-01-19.
+
+^ "IBM PC DOS 2000 Can Ease Your Transition to the Year 2000" (Announcement letter). IBM. 1998-05-26. 298-169. Retrieved 2025-01-19.
+
+^ "86-DOS version 0.3 (1980-11-15) License Agreement between Seattle Computer Products and Microsoft" (PDF). 1981-01-06. Archived (PDF) from the original on 2020-02-18. Retrieved 2013-04-01. (NB. Published as part of the Comes v. Microsoft case as exhibit #1.)
+
+^ "86-DOS Sales Agreement between Seattle Computer Products and Microsoft" (PDF). 1981-07-27. Archived from the original (PDF) on 2014-09-05. Retrieved 2013-04-01. (NB. Published as part of the Comes v. Microsoft case as exhibit #2/#3. The document also carries a typed date stamp as of 1981-07-22.)
+
+^ Paterson, Tim (2007-08-08). "Is DOS a Rip-Off of CP/M?". DosMan Drivel. Retrieved 2014-02-13.
+
+^ Allen, Paul; Gates, Bill; King, Adrian; Larson, Chris; Letwin, Gordon; O'Rear, Bob; Paterson, Tim; Peters, Chris; Phillips, Bruce; Reynolds, Aaron; Stillmaker, Betty; Zbikowski, Mark (1986). "Technical advisors". MS-DOS (Versions 1.0-3.2) Technical Reference Encyclopedia. By Bornstein, Howard; Bredehoeft, Lawrence; Duncan, Ray; Morris, Carol; Rose, David; Socha, John; Tomlin, Jim; Vian, Kathleen; Wolverton, Van. Beley, Jim; Preppernau, Barry; Beason, Pam; Lewis, Andrea; Rygmyr, David (eds.). Microsoft Reference Library. Vol. 1 (Original withdrawn ed.). Redmond, Washington, USA: Microsoft Press. ISBN 0-914845-69-1. LCCN 86-8640. OCLC 635600205. (xvii+1053 pages; 29 cm) (NB. This original edition contains flowcharts of the internal workings of the system. It was withdrawn by Microsoft before mass-distribution in 1986 because it contained many factual errors as well as some classified information which should not have been published. Few printed copies survived. It was replaced by a completely reworked edition in 1988. [1])
+
+^ a b c Zbikowski, Mark; Allen, Paul; Ballmer, Steve; Borman, Reuben; Borman, Rob; Butler, John; Carroll, Chuck; Chamberlain, Mark; Chell, David; Colee, Mike; Courtney, Mike; Dryfoos, Mike; Duncan, Rachel; Eckhardt, Kurt; Evans, Eric; Farmer, Rick; Gates, Bill; Geary, Michael; Griffin, Bob; Hogarth, Doug; Johnson, James W.; Kermaani, Kaamel; King, Adrian; Koch, Reed; Landowski, James; Larson, Chris; Lennon, Thomas; Lipkie, Dan; McDonald, Marc; McKinney, Bruce; Martin, Pascal; Mathers, Estelle; Matthews, Bob; Melin, David; Mergentime, Charles; Nevin, Randy; Newell, Dan; Newell, Tani; Norris, David; O'Leary, Mike; O'Rear, Bob; Olsson, Mike; Osterman, Larry; Ostling, Ridge; Pai, Sunil; Paterson, Tim; Perez, Gary; Peters, Chris; Petzold, Charles; Pollock, John; Reynolds, Aaron; Rubin, Darryl; Ryan, Ralph; Schulmeisters, Karl; Shah, Rajen; Shaw, Barry; Short, Anthony; Slivka, Ben; Smirl, Jon; Stillmaker, Betty; Stoddard, John; Tillman, Dennis; Whitten, Greg; Yount, Natalie; Zeck, Steve (1988). "Technical advisors". The MS-DOS Encyclopedia: versions 1.0 through 3.2. By Duncan, Ray; Bostwick, Steve; Burgoyne, Keith; Byers, Robert A.; Hogan, Thom; Kyle, Jim; Letwin, Gordon; Petzold, Charles; Rabinowitz, Chip; Tomlin, Jim; Wilton, Richard; Wolverton, Van; Wong, William; Woodcock, JoAnne (Completely reworked ed.). Redmond, Washington, USA: Microsoft Press. ISBN 1-55615-049-0. LCCN 87-21452. OCLC 16581341. (xix+1570 pages; 26 cm) (NB. This edition was published in 1988 after extensive rework of the withdrawn 1986 first edition by a different team of authors. [2])
+
+^ Morgan, Chris (July 1981). "IBM's Personal Computer". BYTE. p. 6. Retrieved 2013-10-18.
+
+^ "DOS 2.0 and 2.1 | OS/2 Museum".
+
+^ Necasek, Michal (2004-06-24). "Microsoft Operating System/2 With Windows Presentation Manager Provides Foundation for Next Generation of Personal Computer Industry". The History of OS/2. Archived from the original on 2010-04-10. (NB. A copy of Microsoft's 1987-04-02 press release announcing OS/2.)
+
+^ History of Microsoft Windows and MS-DOS (Miscellaneous) TACKtech Corp.
+
+^ Intel Corporation, "NewsBit: Microsoft, Intel Develop Power Standard", Microcomputer Solutions, March/April 1992, page 1
+
+^ IBM PC DOS 5.02
+
+^ a b Brooks, Vernon C. "Information and history about PC DOS and MS-DOS". PC DOS Retro. Archived from the original on 2020-02-21. Retrieved 2014-01-10.
+
+^ "Drivers and Software for Legacy (Discontinued) Products". HGST. 2009. Archived from the original on 2014-03-04. Retrieved 2014-02-13.
+
+^ "How to use the pre-boot service partition to recover your software". Lenovo. Retrieved 2014-02-11. An additional undocumented feature added to the User Interface is the ability to drop directly out to a DOS prompt. Pressing F3 (there is no prompt for this) will exit the recovery utility and go to a DOS prompt
+
+^ "IBM ServerGuide Scripting Toolkit, DOS Edition". 1.3.07. IBM. 2008-01-24. MIGR-53564. Archived from the original on 2016-03-11. Retrieved 2014-02-13.
+
+^ "Create a Standard Ghost Boot Disk". Symantec. 2004-01-03. TECH108761. Archived from the original on 2014-02-13. Retrieved 2014-02-13.
+
+
+Further reading[edit]
+IBM Corporation and Microsoft, Inc. DOS 3.30: User's Guide. IBM Corporation, 1987. Part number 80X0933.
+IBM Corporation and Microsoft, Inc. DOS 3.30: Reference (Abridged). IBM Corporation, 1987. Part number 94X9575.
+IBM Corporation. Getting Started with Disk Operating System Version 4.00. IBM Corporation, 1988. Part number 15F1370.
+IBM Corporation. Using Disk Operating System Version 4.00. IBM Corporation, 1988. Part number 15F1371.
+IBM Corporation. IBM Disk Operating System Version 5.0. User Guide and Reference. IBM Corporation, 1991. Part number 07G4584.
+Que Corporation. IBM PC DOS and Microsoft Windows User's Guide. Suzanne Weixel, 2nd ed., Indianapolis, 1995. ISBN 0-7897-0276-2.
+IBM Corporation. PC DOS 7 User's Guide. Margaret Averett, 1995. Part number 83G9260 (S83G-9260-00).
+IBM Corporation. PC DOS 7 Technical Update. IBM Redbooks, 1995. ISBN 0-7384-0677-5.
+vteOperating systems by IBMSupercomputer
+INK
+CNK
+Red Hat Enterprise Linux
+Server, mainframe
+IBSYS
+BOS/360
+TOS/360
+TSS/360
+RAX
+DOS/360 and successors
+VSE
+OS/360 and successors
+OS/VS1
+SVS
+MVS
+OS/390
+z/OS
+VM line
+ACP
+TPF
+CPF
+System/88 OS
+IBM i
+AIX
+zLinux
+DPCX
+DPPX
+SSP
+SRTOS
+Red Hat Enterprise Linux
+Desktop, workstation
+Textpack
+PC DOS
+DOS/V
+PC/IX
+AIX
+OS/2
+AOS
+Red Hat Enterprise Linux
+Point of sale
+4680 OS
+4690 OS
+Projects
+Taligent
+Workplace OS
+Monterey
+Trillian
+K42
+Related
+Fedora Linux
+ Category
+vteDisk operating systems (DOS)MS-DOS, IBM PC DOS,compatible systems
+API
+Timeline
+Comparison
+Commands
+Games
+
+MS-DOS
+Multitasking MS-DOS 4.0/4.1
+MS-DOS 7
+IBM PC DOS
+DOS/V
+DR-DOS
+H-DOS
+Novell DOS
+ROM-DOS
+SISNE plus
+PTS-DOS
+FreeDOSOther x86
+4680 OS
+4690 OS
+86-DOS
+ADOS
+Concurrent CP/M-86
+Concurrent DOS
+CP/M-86
+CP/K
+Datapac System Manager
+DOS Plus
+K8918-OS
+FlexOS
+MP/M-86
+Multiuser DOS
+NetWare PalmDOS
+Novell DOS
+OpenDOS
+PC-MOS/386
+REAL/32
+SB-86
+SCP1700
+Towns OS
+TurboDOS
+Other platforms
+AmigaDOS
+AMSDOS
+ANDOS
+Apple DOS
+Apple ProDOS
+Apple SOS
+Atari DOS
+Atari TOS
+BW-DOS
+Commodore DOS
+Concurrent DOS 68K
+Concurrent DOS V60
+CP/M
+Cromemco DOS
+CSI-DOS
+DEC BATCH-11/DOS-11
+DIP DOS
+DOS/360
+DOS XL
+Edos
+EOS
+FLEX
+GEMDOS
+IDEDOS
+IMDOS
+iS-DOS
+ISIS
+MDOS
+MicroDOS
+MP/M
+MSX-DOS
+MyDOS
+NewDos/80
+OS/M
+PTDOS
+RealDOS
+SB-80
+SCP
+Sinclair QDOS
+RDOS
+SmartDOS
+SpartaDOS
+SpartaDOS X
+Technical Support SuperDOS
+Top-DOS
+TR-DOS
+TRSDOS
+TurboDOS
+UDOS
+Z-DOS
+Z80-RIO
+
+ Category
+ List
+
+Authority control databases InternationalVIAFNationalUnited StatesFranceBnF dataCzech RepublicNorwayGreeceIsraelCataloniaOtherIdRef
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_PC_DOS&oldid=1282710330"
+Categories: 1981 softwareDiscontinued operating systemsDisk operating systemsDOS variantsFloppy disk-based operating systemsIBM operating systemsMicrocomputer softwareProprietary operating systemsAssembly language softwareHidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from May 2019All articles with unsourced statementsArticles with unsourced statements from July 2016Articles with unsourced statements from April 2012
+
+
+
+
+
+
+ This page was last edited on 28 March 2025, at 04:05 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM PC DOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

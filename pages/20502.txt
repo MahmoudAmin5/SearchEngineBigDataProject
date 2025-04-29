@@ -1,0 +1,986 @@
+https://en.wikipedia.org/wiki/Mobile_device
+
+
+
+
+Mobile device - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Characteristics
+
+
+
+
+
+
+
+
+2
+Types
+
+
+
+
+
+
+
+
+3
+History
+
+
+
+
+
+
+
+
+4
+Uses
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+Sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Mobile device
+
+
+
+47 languages
+
+
+
+
+ÆngliscالعربيةAsturianuAzərbaycancaবাংলাभोजपुरीБългарскиCatalàČeštinaCymraegDeutschEestiEspañolEuskaraفارسیFrançais한국어हिन्दीHrvatskiIdoBahasa IndonesiaÍslenskaItalianoעבריתKurdîLëtzebuergeschმარგალურიBahasa MelayuNederlands日本語PolskiPortuguêsRomânăРусскийShqipSimple EnglishSlovenčinaکوردیСрпски / srpskiSuomiSvenskaTürkçeVènetoTiếng ViệtVõro粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikiversityWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Small, hand-held computing device
+"Handheld" redirects here. For other uses, see Handheld (disambiguation).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Mobile device" – news · newspapers · books · scholar · JSTOR (October 2022) (Learn how and when to remove this message)
+Samsung Galaxy S25 Ultra - examples of mobile devices
+A mobile device or handheld device is a computer small enough to hold and operate in hand. Mobile devices are typically battery-powered and possess a flat-panel display and one or more built-in input devices, such as a touchscreen or keypad. Modern mobile devices often emphasize wireless networking, to both the Internet and to other devices in their vicinity, such as headsets or in-car entertainment systems, via Wi-Fi, Bluetooth, cellular networks, or near-field communication.[1]
+
+
+Characteristics[edit]
+Device mobility can be viewed in the context of several qualities:[2]
+
+Physical dimensions and weight
+Whether the device is mobile or some kind of host to which it is attached is mobile
+What kind of host devices it can be bound with
+How devices communicate with a host
+When mobility occurs
+Strictly speaking, many so-called mobile devices are not mobile. It is the host that is mobile, i.e., a mobile human host carries a non-mobile smartphone device. An example of a true mobile computing device, where the device itself is mobile, is a robot. Another example is an autonomous vehicle.
+There are three basic ways mobile devices can be physically bound to mobile hosts:
+
+Accompanied,
+Surface-mounted, or
+Embedded into the fabric of a host, e.g., an embedded controller in a host device.
+Accompanied refers to an object being loosely bound and accompanying a mobile host, e.g., a smartphone can be carried in a bag or pocket but can easily be misplaced.[2] Hence, mobile hosts with embedded devices such as an autonomous vehicle can appear larger than pocket-sized.
+The most common size of a mobile computing device is pocket-sized, but other sizes for mobile devices exist. Mark Weiser, known as the father of ubiquitous computing,[3] referred to device sizes that are tab-sized, pad, and board sized,[4] where tabs are defined as accompanied or wearable centimeter-sized devices, e.g. smartphones, phablets and tablets are defined as hand-held decimeter-sized devices. If one changes the form of the mobile devices in terms of being non-planar, one can also have skin devices and tiny dust-sized devices.[2]
+Dust refers to miniaturized devices without direct HCI interfaces, e.g., micro-electromechanical systems (MEMS), ranging from nanometers through micrometers to millimeters. See also Smart dust. Skin: fabrics based upon light emitting and conductive polymers and organic computer devices. These can be formed into more flexible non-planar display surfaces and products such as clothes and curtains, see OLED display. Also, see smart device.
+Although mobility is often regarded as synonymous with having wireless connectivity, these terms are different. Not all network access by mobile users, applications, and devices needs to be via wireless networks and vice versa. Wireless access devices can be static and mobile users can move between wired and wireless hotspots such as in Internet cafés.[2] Some mobile devices can be used as mobile Internet devices to access the Internet while moving, but they do not need to do this and many phone functions or applications are still operational even while disconnected from the Internet.
+What makes the mobile device unique compared to other technologies is the inherent flexibility in the hardware and software. Flexible applications include video chat, web browsing, payment systems, near field communication, audio recording etc.[5] As mobile devices become ubiquitous, there will be an increase of services which include the use of the cloud.[6] Although a common form of mobile device, a smartphone, has a display, another perhaps even more common form of smart computing device, the smart card, e.g., used as a bank card or travel card, does not have a display. This mobile device often has a CPU and memory but needs to connect or be inserted into a reader to display its internal data or state.
+
+Types[edit]
+Smartphones, handheld mobile devices
+Smartwatches, wearable mobile devices
+Smartglasses, wearable computer glasses
+There are many kinds of mobile devices, designed for different applications. They include, but are not limited to:
+
+
+Mobile computers
+Tablet computer
+Netbook
+Digital media player
+Enterprise digital assistant (EDA)
+Graphing calculator
+Handheld game console
+Handheld PC
+Laptop
+Mobile digital computer (MDC)
+Mobile Internet device (MID)
+Personal digital assistant (PDA)
+Pocket calculator
+Pocket computer
+Portable media player
+Ultra-mobile PC
+Mobile phone
+Camera phone
+Feature phone
+Smartphone
+Foldable smartphone
+Digital camera
+Digital camcorder
+Digital still camera (DSC)
+Digital video camera (DVC)
+Front-facing camera
+Pager
+Satellite navigation device
+Personal navigation assistant (PNA)
+Wearable computer
+Calculator watch
+Smartwatch
+Smartglasses
+Head-mounted display
+Smart ring
+Smart card
+
+History[edit]
+The history of the mobile device has been marked by increasing technological convergence. Early mobile devices—such as pocket calculators, portable media players, satellite navigation devices, and digital cameras—excelled at their intended use but were not multifaceted. Personal digital assistants (PDAs) proliferated in the 1990s as a way to quickly write down notes, schedule business appointments, and set personal reminders, as a handheld supplement to bulkier laptops.
+During the same period, the mobile phone evolved from supporting voice communication only to accommodating text messaging, Internet connectivity, multimedia, and videotelephony.[7] These feature phones eventually gave way to the modern smartphone, which combined all the aforementioned devices, and more, into one device. Since the late 2000s, smartphones have been the most common mobile device in the world, in terms of quantity sold, owing to their great convergence of technologies.[8][9][10]
+
+Uses[edit]
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (February 2020) (Learn how and when to remove this message)
+By the early 2010s, mobile devices began integrating sensors such as accelerometers, magnetometers, and gyroscopes, allowing the detection of orientation and motion.[11] Mobile devices may provide biometric user authentication, such as face recognition or fingerprint recognition.
+Handheld devices such as enterprise digital assistants have become more rugged for use in mobile field management. This involves tasks such as digitizing notes, sending and receiving invoices, asset management, recording signatures, managing parts, and scanning barcodes and RFID tags.
+In 2009, developments in mobile collaboration systems enabled the use of handheld devices that combine video, audio, and on-screen drawing capabilities to enable multi-party conferencing in real-time, independent of location.[12] Handheld computers are available in a variety of form factors, including smartphones, handheld PDAs, ultra-mobile PCs and tablet computers (Palm OS, WebOS).[13] Users can watch television through the Internet by IPTV on some mobile devices. Mobile television receivers have existed since 1960,[14] and, in the 21st-century, mobile phone providers began making television available on cellular phones.[15]
+In the 2010s, mobile devices were observed to frequently include the ability to sync and share a variety of data despite the distance or specifications of the devices. In the medical field, mobile devices are quickly becoming essential tools for accessing clinical information such as drugs, treatment, and even medical calculations.[16] Due to the popularity of mobile gaming, the gambling industry started offering casino games on mobile devices, which led to the inclusion of these devices in the anti-hazard legislature as devices that could potentially be used for illegal gambling. Additional potentially unlawful actions could encompass the utilization of mobile devices in disseminating explicit material involving minors. Moreover, the legitimate adult entertainment sector's incorporation of mobile apps and technology to advance its operations raises concerns. There is also a prospect of leveraging mobile devices to facilitate cross-border services, warranting regulatory attention.
+Within the military domain, mobile devices have introduced novel prospects for delivering training and educational resources to soldiers, irrespective of their stationed location.[17]
+
+See also[edit]
+Mobile interaction
+Problematic smartphone use
+References[edit]
+
+
+^ Iversen, Jakob; Michael Eierman (2014). Learning Mobile App Development: A Hands-on Guide to Building Apps with IOS and Android. Addison-Wesley. p. 3. ISBN 978-0-321-94786-4 – via Google Books.
+
+^ a b c d Poslad, Stefan (2009). Ubiquitous Computing Smart Devices, Smart Environments, and Smart Interaction. Wiley. ISBN 978-0-470-03560-3. Archived from the original on December 10, 2014. Retrieved January 7, 2015.
+
+^ Markoff, John (May 1, 1999). "Mark Weiser, a Leading Computer Visionary, Dies at 46". The New York Times. ISSN 0362-4331. Archived from the original on April 11, 2019. Retrieved April 9, 2019.
+
+^ Weiser, Mark (1991). "The Computer for the Twenty-First Century". Scientific American. 265 (3): 94–104. doi:10.1038/scientificamerican0991-94.
+
+^ Beddall-Hill, Nicola; Jabbar, Abdul & Al Shehri, Saleh (2011). "Social Mobile Devices as Tools for Qualitative Research in Education: iPhones and iPads in Ethnography, Interviewing, and Design-Based Research". Journal of the Research Center for Educational Technology. 7 (1): 67–90. ISSN 1948-075X. Archived from the original on June 18, 2017. Retrieved January 21, 2015.
+
+^ "Characteristics of Mobility in Wireless Networking". Lyna Griffin. Archived from the original on February 10, 2023. Retrieved February 10, 2023.
+
+^ Kjeldskov, Jesper (2022). Mobile Interactions in Context: A Designerly Way Toward Digital Ecology. Springer. pp. 11–15. ISBN 9783031022043 – via Google Books.
+
+^ Wang, Wen-Chia; Mark S. Young; Steve Love (2011). "Interaction Design for Mobile Phones". In Marcelo M. Soares; Neville A. Stanton; Waldemar Karwowski (eds.). Human Factors and Ergonomics in Consumer Product Design: Uses and Applications. CRC Press. pp. 285–300. ISBN 9781420046250 – via Google Books.
+
+^ Ng, Wan; Howard Nicholas (2015). "Sustaining innovation in learning with mobile devices". In Wan Ng; Therese M. Cumming (eds.). Sustaining Mobile Learning: Theory, Research and Practice. Taylor & Francis. pp. 1–2. ISBN 9781317660798.
+
+^ Sandars, J. E.; G. S. Frith (2013). "Mobile learning (m-learning)". In John Dent; Ronald M. Harden (eds.). A Practical Guide for Medical Teachers. Elsevier Health Sciences. pp. 22–23. ISBN 9780702054679 – via Google Books.
+
+^ Mondragón-González, Sirenia Lizbeth; Burguière, Eric; N’diaye, Karim (2023). "Mobile Devices, Connected Objects, and Sensors". In Colliot, Olivier (ed.). Machine Learning for Brain Disorders. Neuromethods. Vol. 197. New York, NY: Humana. pp. 355–388. doi:10.1007/978-1-0716-3195-9_12. ISBN 978-1-0716-3194-2. PMID 37988517. Retrieved January 24, 2024.
+
+^ Robbins, Renee (May 28, 2009). "Mobile video system visually connects global plant floor engineers". Control Engineering. Archived from the original on July 27, 2012.
+
+^ Mellow, P. (2005).The media generation: Maximise learning by getting mobile. In Ascilite, 470–476
+
+^ "Image of sony tv8-301 portable television receiver, 1960. by Science & Society Picture Library". www.scienceandsociety.co.uk. Retrieved September 19, 2023.
+
+^ Lotz, Amanda D. (2007). "The Television Will Be Revolutionized." New York, NY: New York University Press. p. 65–66
+
+^ Boruff, Jill; Storie, Dale (January 2014). "Mobile devices in medicine: a survey of how medical students, residents, and faculty use smartphones and other mobile devices to find information*". Journal of the Medical Library Association. 102 (1): 22–30. doi:10.3163/1536-5050.102.1.006. PMC 3878932. PMID 24415916.
+
+^ Casey, Mike (June 26, 2014). "Army seeks to increase use of mobile devices". ftleavenworthLamp.com. Archived from the original on July 12, 2018. Retrieved July 23, 2014.
+
+
+Sources[edit]
+"Mobile Devices". Library Technology Reports. 44 (5): 10–15. 2008.
+Hanson, C. W. (2011). "Chapter 2: Mobile Devices in 2011". Library Technology Reports. 47 (2): 11–23.
+vteMajor mobile device companiesCompanies with an annual revenue of over US$3 billion
+Acer
+Advan
+Alba
+Amazon
+Apple
+Asus
+BlackBerry Limited
+BLU Products
+Bush
+Dell
+Foxconn
+Sharp
+InFocus
+Nokia
+Fujitsu
+Gionee
+Google (Fitbit)
+Haier
+Hisense 
+Honor
+HTC
+HP
+Huawei
+Intel
+Kyocera
+Lenovo
+Motorola Mobility
+LG
+Meizu
+Microsoft
+Lumia
+HMD Global
+Nokia
+Nubia
+Onyx Boox
+Oppo
+OnePlus
+Realme
+Panasonic
+Samsung
+Sony
+TCL
+Alcatel Mobile
+BlackBerry Mobile
+RCA
+Palm
+Toshiba
+Transsion
+Tecno
+Infinix
+Itel
+Tinno Mobile
+Wiko
+True
+Vaio
+VinSmart
+Vivo
+iQOO
+Xiaomi
+Redmi
+POCO
+ZTE
+Zoostorm
+
+See also
+Largest IT companies
+Category:Mobile technology companies
+Category:Mobile phone manufacturers
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+vteMobile operating systems
+Comparison
+Open-source mobile phones, OSes
+Open Handset Alliance
+Open Mobile Alliance
+Mobile app distributions
+Mobile app development
+LinuxKernel
+Active: Android
+forks
+Android Go
+Wear OS
+EMUI, HarmonyOS (Linux kernel subsystem)
+ChromeOS
+ChromeOS Flex
+KaiOS
+Smart Feature OS
+Kindle firmware
+LuneOS
+Maemo Leste
+Tizen
+Defunct: Bada
+Firefox OS
+B2G OS
+MeeGo
+MontaVista
+MotoMagx
+Mobilinux
+OpenEmbedded
+Ångström
+Openmoko Linux
+QtMoko
+SHR
+OpenEZX
+WebOS
+GNU/Linux
+Active: Fedora Mobility
+Manjaro ARM
+postmarketOS
+PureOS
+Sailfish OS
+SteamOS
+Ubuntu Touch
+UBports
+Mobian
+Defunct: Maemo
+Mer
+Moblin
+XNU
+iOS
+iPadOS
+watchOS
+bridgeOS
+QNX
+BlackBerry 10
+BlackBerry Tablet OS
+MicrosoftWindows
+Windows XP Tablet PC Edition
+Windows Mobile
+Windows Phone
+7
+8
+8.1
+Windows RT
+Windows 10 Mobile
+Windows 8
+Windows 8.1
+Windows 10
+Windows 11
+Zircon
+Fuchsia
+FreeBSD, NetBSD
+PlayStation Vita system software
+OpenHarmony,HarmonyOS NEXT
+Active: OpenHarmony
+HarmonyOS
+HarmonyOS NEXT
+Defunct: EMUI (non GMS-based)
+LiteOS
+Huawei Band OS
+FreeRTOS
+Amazfit OS
+Zepp OS
+MIUI Band OS
+Nintendosystem software
+Nintendo 3DS system software
+Nintendo DSi system software
+Nintendo Switch system software
+Minix 3
+Intel Management Engine
+Symbian
+S60
+S80
+S90
+UIQ
+Others
+Binary Runtime Environment for Wireless (BREW)
+BlackBerry OS
+EPOC
+GEOS
+Magic Cap
+Nokia Asha platform
+PalmDOS
+Palm OS
+PlayStation Portable system software
+S30
+S30+
+S40
+Sony Ericsson Java Platform
+ThreadX
+
+Software
+ Mobile operating systems
+Mobile applications
+ Telecommunication
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mobile_device&oldid=1285323923"
+Categories: Information appliancesMobile computersHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from October 2022All articles needing additional referencesWikipedia articles with style issues from February 2020All articles with style issues
+
+
+
+
+
+
+ This page was last edited on 13 April 2025, at 01:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Mobile device
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

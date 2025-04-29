@@ -1,0 +1,693 @@
+https://en.wikipedia.org/wiki/Presentation_program
+
+
+
+
+Presentation program - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+List of presentation programs
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+Features
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+Further reading
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Presentation program
+
+
+
+32 languages
+
+
+
+
+AfrikaansالعربيةБългарскиCatalàČeštinaDeutschEestiEspañolEsperantoEuskaraفارسیFrançais한국어Bahasa IndonesiaÍslenskaItalianoעבריתNederlands日本語Norsk bokmålОлык марийPolskiPortuguêsРусскийSimple EnglishکوردیSuomiSvenskaதமிழ்TürkçeУкраїнськаTiếng Việt
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Software package used to display information in the form of a slide show
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Presentation program" – news · newspapers · books · scholar · JSTOR (May 2013) (Learn how and when to remove this message)
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (September 2008) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+LibreOffice Impress, one of the most popular free and open-source presentation programs
+In computing, a presentation program (also called presentation software) is a software package used to display information in the form of a slide show. It has three major functions:[1]
+
+an editor that allows text to be inserted and formatted
+a method for inserting and manipulating graphic images and media clips
+a slide-show system to display the content
+Presentation software can be viewed[by whom?] as enabling a functionally-specific category of electronic media, with its own distinct culture and practices as compared to traditional presentation media (such as blackboards, whiteboards and flip charts).
+Presentations in this mode of delivery have become pervasive in many aspects of business communication, especially in business planning, as well as in academic-conference and professional conference settings, and in the knowledge economy generally, where ideas are a primary work output. Presentations may also feature prominently in political settings, especially in workplace politics, where persuasion is a central determinant of group outcomes.[citation needed]
+Most modern meeting-rooms and conference halls are configured to include presentation electronics, such as projectors suitable for displaying presentation slides, often driven by the presenter's own laptop, under direct control of the presentation program used to develop the presentation. Often a presenter will present a lecture using the slides as a visual aid both for the presenter (to track the lecture's coverage) and for the audience (especially when an audience member mishears or misunderstands the verbal component).
+Generally in presentations, the visual material is considered[by whom?] supplemental to a strong aural presentation that accompanies the slide show, but in many cases, such as statistical graphics, it can be difficult to convey essential information other than by visual means; additionally, a well-designed infographic can be extremely effective in a way that words are not. Endemic over-reliance on slides with low information density and with a poor accompanying lecture has given presentation software a negative reputation as sometimes functioning as a crutch for the poorly informed or the poorly prepared.
+
+
+List of presentation programs[edit]
+Main article: List of presentation programs
+History[edit]
+Using Autographix and Dicomed, it became quite easy[dubious – discuss] to make last-minute changes compared to traditional typesetting and pasteup. It was also a lot easier to produce a large number of slides in a small amount of time. However, these workstations also required skilled operators, and a single workstation represented an investment of $50,000 to $200,000 (in 1979 dollars).
+In the mid-1980s developments in the world of computers changed the way presentations were created. Inexpensive, specialized applications now made it possible for anyone with a PC to create professional-looking presentation graphics.
+Originally these programs were used to generate 35 mm slides, to be presented using a slide projector. As these programs became more common in the late 1980s several companies set up services that would accept the shows on diskette and create slides using a film recorder or print transparencies. In the 1990s dedicated LCD-based screens that could be placed on the projectors started to replace the transparencies, and by the early 2000s they had almost all been replaced by video projectors.[citation needed]
+The first commercial computer software specifically intended for creating WYSIWYG presentations was developed at Hewlett-Packard in 1979 and called BRUNO and later HP-Draw. The first microcomputer-based presentation software was Cromemco's Slidemaster, developed by John F. Dunn and released by Cromemco in 1981.[2][3][4] The first software displaying a presentation on a personal computer screen was VCN ExecuVision, developed in 1982. This program allowed users to choose from a library of images to accompany the text of their presentation.  Harvard Graphics was introduced for MS-DOS and Lotus Freelance Graphics was introduced for DOS and OS/2 in 1986. PowerPoint was introduced for the Macintosh computer in 1987.[5]
+The first web-based presentation program was called ThinkFree Show, it launched in 2001 as part of the ThinkFree Office suite.[6] Another web-based presentation program called Google Docs Presentations was introduced a few years later in 2007, it later became Google Slides.[7]
+
+Features[edit]
+A presentation program is supposed to help both the speaker with an easier access to his ideas and the participants with visual information which complements the talk.
+There are many different types of presentations including professional (work-related), education, entertainment, and for general communication.  Presentation programs can either supplement or replace the use of older visual-aid technology, such as pamphlets, handouts, chalkboards, flip charts, posters, slides and overhead transparencies. Text, graphics, movies, and other objects are positioned on individual pages or "slides" or "foils"[citation needed]. The "slide" analogy is a reference to the slide projector, a device that has become somewhat obsolete due to the use of presentation software. Slides can be printed, or (more usually) displayed on-screen and navigated through at the command of the presenter. An entire presentation can be saved in video format.[8] The slides can also be saved as images of any image file formats for any future reference.[9] Transitions between slides can be animated in a variety of ways, as can the emergence of elements on a slide itself. Typically a presentation has many constraints and the most important being the limited time to present consistent information.
+Many presentation programs come with pre-designed images (clip art) and/or have the ability to import graphic images. Some tools also have the ability to search and import images from Flickr or Google directly from the tool. Custom graphics can also be created in other programs such as Adobe Photoshop or GIMP and then exported. The concept of clip art originated with the image library that came as a complement with VCN ExecuVision, beginning in 1983.
+With the growth of digital photography and video, many programs that handle these types of media also include presentation functions for displaying them in a similar "slide show" format, for example iPhoto.  These programs allow groups of digital photos to be displayed in a slide show with options such as selecting transitions, choosing whether or not the show stops at the end or continues to loop, and including music to accompany the photos.
+Similar to programming extensions for an operating system or web browser, "add ons" or plugins for presentation programs can be used to enhance their capabilities.
+Apps can enable a smartphone to be a remote control[10] for slideshow presentations, including slide previews, speaker notes, timer, stop watch, pointer, going directly to a given slide, blank screen and more. Presentation programs also offer an interactive integrated hardware element designed to engage an audience (e.g. audience response systems, second screen applications) or facilitate presentations across different geographical locations through the internet (e.g. web conferencing).[11]  Hardware devices such as laser pointers and interactive whiteboards can ease the job of a live presenter .
+
+See also[edit]
+Office suite
+Productivity software
+Wireless clicker
+References[edit]
+
+
+^ Rouse, Margaret (March 2011). "presentation software (presentation graphics)". WhatIs.com. Retrieved 25 May 2013.
+
+^ "About John Dunn". Algorithmic Arts. Retrieved 25 June 2018. Dunn ... developed the first ever professional paint program for a microcomputer, Cromemco's "Slidemaster," released in 1981.
+
+^ "Cromemco Unveils Desktop Unit with Business Software, DBMS". Computerworld. 15 (43): 61. October 26, 1981. Retrieved 25 June 2018.
+
+^ Shea, Tom; Freiberger, Paul (November 1, 1982). "Artists use computer graphics as new palette and canvas". InfoWorld. 4 (43): 18–20. Retrieved 25 June 2018.
+
+^ Brock, David (31 October 2017). "The Improbable Origins of PowerPoint". IEEE Spectrum.
+
+^ Cox, John (2000-06-20). "Free Java-based office suite to make debut". CNN. Retrieved 2025-03-24.
+
+^ Trapani, Gina (September 18, 2007). "Google Docs Adds Presentations". Lifehacker. Univision Communications. Retrieved 2025-03-24.
+
+^ "Turn your presentation into a video". www.support.office.com. Retrieved 2018-01-10.
+
+^ "Save a slide as a separate image file". www.support.office.com. Retrieved 2018-01-10.
+
+^ "LibreOffice Impress Remote". LibreOffice.org.
+
+^ Shiao, Dennis (28 August 2012). "Online Presentation Tips from an Online Presentation Coach". INXPO. Archived from the original on 13 October 2012. Retrieved 25 May 2013.
+
+
+Further reading[edit]
+Farkas, David K. (2006) "Toward a Better Understanding of PowerPoint Deck Design" Information Design Journal + Document Design 4(2): pp 162–171.
+Good, Lance & Bederson, Benjamin B. (2002) "Zoomable User Interfaces as a Medium for Slide Show Presentations" Journal on Information Visualization 1(1): pp 35–49.
+Gross, Alan G. & Harmon, Joseph E. (2009) "The Structure of PowerPoint Presentations: The Art of Grasping Things Whole" IEEE Transactions on Professional Communication 52(2): pp 121–137.
+Knoblauch, Hubert. (2014) "PowerPoint, Communication, and the Knowledge Society". Cambridge University Press.
+Tufte, Edward R. (2006) "The Cognitive Style of PowerPoint: Pitching Out Corrupts Within" 'Graphics Press LLC, Cheshire, USA.
+External links[edit]
+Historic look at presentation software in 1983. on YouTube
+Historic look at presentation software in 1987. on YouTube
+vtePresentation softwareSoftwareOpen source
+Beamer
+Calligra Stage
+Collabora Online Impress
+LibreOffice Impress
+OpenOffice Impress
+MagicPoint
+Powerdot
+Simple Slides
+Freeware
+Impressive
+PowerPoint Viewer
+SoftMaker FreeOffice Presentations
+Retail software
+Adobe Acrobat
+Apple Keynote
+Corel Presentations
+Microsoft PowerPoint
+SoftMaker Office Presentations
+Web applications
+Brainshark
+Collabora Online Impress
+Docstoc
+Google Slides
+Lucidchart
+Mentimeter
+Prezi
+Scribd
+SlideShare
+Sway
+wePapers
+Others...
+Discontinued
+Adobe Persuasion
+CA-Cricket Presents
+Harvard Graphics
+Impress
+StarOffice
+OpenOffice.org
+Go-oo
+NeoOffice
+Lotus Freelance Graphics
+Lotus Symphony Presentations
+SlideRocket
+Formats
+Opera Show Format
+S5
+OpenDocument Presentation
+
+ Category
+List
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Presentation_program&oldid=1282080075"
+Category: Presentation softwareHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from May 2013All articles needing additional referencesArticles that may contain original research from September 2008All articles that may contain original researchArticles with multiple maintenance issuesArticles with specifically marked weasel-worded phrases from September 2020All articles with unsourced statementsArticles with unsourced statements from September 2020All accuracy disputesArticles with disputed statements from February 2010Articles with unsourced statements from June 2021
+
+
+
+
+
+
+ This page was last edited on 24 March 2025, at 05:16 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Presentation program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

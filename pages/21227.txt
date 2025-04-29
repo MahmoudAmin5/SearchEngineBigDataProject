@@ -1,0 +1,1443 @@
+https://en.wikipedia.org/wiki/Counting_rods
+
+
+
+
+Counting rods - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Using counting rods
+
+
+
+
+Toggle Using counting rods subsection
+
+
+
+
+
+2.1
+Place value
+
+
+
+
+
+
+
+
+
+
+3
+Rod numerals
+
+
+
+
+
+
+
+
+4
+Fractions
+
+
+
+
+
+
+
+
+5
+Rod calculus
+
+
+
+
+
+
+
+
+6
+Unicode
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Counting rods
+
+
+
+17 languages
+
+
+
+
+CatalàEspañolFrançais한국어Bahasa IndonesiaעבריתBahasa Melayu日本語PolskiPortuguêsРусскийSuomiУкраїнська文言吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Small bars used for calculating in ancient East Asia
+Part of a series onNumeral systems
+Place-value notation
+Hindu–Arabic numerals
+Western Arabic
+Eastern Arabic
+
+Bengali
+Devanagari
+Gujarati
+Gurmukhi
+Odia
+Sinhala
+Tamil
+Malayalam
+Telugu
+Kannada
+Dzongkha
+
+Tibetan
+Balinese
+Burmese
+Javanese
+Khmer
+Lao
+Mongolian
+Sundanese
+Thai
+
+East Asian systems
+Contemporary
+Chinese
+Hokkien
+Suzhou
+Japanese
+Korean
+Vietnamese
+
+Historic
+Counting rods
+Tangut
+
+Other systems
+History
+
+Ancient
+Babylonian
+
+Post-classical
+Cistercian
+Mayan
+Muisca
+Pentadic
+Quipu
+Rumi
+
+Contemporary
+Cherokee
+Kaktovik (Iñupiaq)
+
+By radix/base
+Common radices/bases
+2
+3
+4
+5
+6
+8
+10
+12
+16
+20
+60
+
+Non-standard radices/bases
+Bijective (1)
+Signed-digit (balanced ternary)
+Mixed (factorial)
+Negative
+Complex (2i)
+Non-integer (φ)
+Asymmetric
+
+
+Sign-value notation
+Non-alphabetic
+Aegean
+Attic
+Aztec
+Brahmi
+Chuvash
+Egyptian
+Etruscan
+Kharosthi
+Prehistoric counting
+Proto-cuneiform
+Roman
+Tally marks
+
+Alphabetic
+Abjad
+Armenian
+Alphasyllabic
+Akṣarapallī
+Āryabhaṭa
+Kaṭapayādi
+Coptic
+Cyrillic
+Geʽez
+Georgian
+Glagolitic
+Greek
+Hebrew
+
+List of numeral systemsvte
+Yang Hui (Pascal's) triangle, as depicted by Zhu Shijie in 1303, using rod numeralsCounting rodsChinese nameTraditional Chinese算籌Simplified Chinese算筹TranscriptionsStandard MandarinHanyu PinyinsuànchóuIPAsu̯än⁵¹ ʈ͡ʂʰoʊ̯³⁵Alternative Chinese nameChinese算子TranscriptionsStandard MandarinHanyu PinyinsuànzǐIPAsu̯än⁵¹ t͡sz̩²¹⁴⁻²¹⁽⁴⁾Vietnamese nameVietnamese alphabetque tính / toán trùHán-Nôm𣠗併 / 算籌Korean nameHangul산가지 / 산목Hanja算가지 / 算木TranscriptionsRevised Romanizationsangaji / sanmokJapanese nameKanji算木 / 算籌Hiraganaさんぎ / さんちゅうTranscriptionsRomanizationsangi / sanchū
+
+Counting rods (筭) are small bars, typically 3–14 cm (1" to 6") long, that were used by mathematicians for calculation in ancient East Asia. They are placed either horizontally or vertically to represent any integer or rational number.
+The written forms based on them are called rod numerals. They are a true positional numeral system with digits for 1–9 and a blank for 0, from the Warring states period (circa 475 BCE)[1] to the 16th century.
+
+
+History[edit]
+Chinese arithmeticians used counting rods well over two thousand years ago. 
+In 1954, forty-odd counting rods of the Warring States period (5th century BCE to 221 BCE) were found in Zuǒjiāgōngshān (左家公山) Chu Grave No.15 in Changsha, Hunan.[2][3][failed verification]
+In 1973, archeologists unearthed a number of wood scripts from a tomb in Hubei dating from the period of the Han dynasty (206 BCE to 220 CE). On one of the wooden scripts was written: "当利二月定算𝍥".[citation needed] This is one of the earliest examples of using counting-rod numerals in writing.
+A square lacquer box, dating from c. 168 BCE, containing a square chess board with the TLV patterns, chessmen, counting rods, and other items, was excavated in 1972, from Mawangdui M3, Changsha, Hunan Province.[4][5]
+In 1976, a bundle of Western Han-era (202 BCE to 9 CE) counting rods made of bones was unearthed from Qianyang County in Shaanxi.[6][7] The use of counting rods must predate it; Sunzi (c. 544 to c. 496 BCE), a military strategist at the end of Spring and Autumn period of 771 BCE to 5th century BCE, mentions their use to make calculations to win wars before going into the battle;[8] Laozi (died 531 BCE), writing in the Warring States period, said "a good calculator doesn't use counting rods".[9] The Book of Han (finished 111 CE) recorded: "they calculate with bamboo, diameter one fen, length six cun, arranged into a hexagonal bundle of two hundred seventy one pieces".[10]
+At first, calculating rods were round in cross-section, but by the time of the Sui dynasty (581 to 618 CE) mathematicians used triangular rods to represent positive numbers and rectangular rods for negative numbers.[citation needed]
+
+Toán trù 算籌 (counting rods) in a Vietnamese mathematics textbook, Cửu chương lập thành toán pháp 九章立成算法 is shown at the bottom of the page.
+After the abacus flourished[when?], counting rods were abandoned except in Japan, where rod numerals developed into a symbolic notation for algebra.
+
+Using counting rods[edit]
+Rod numeral place value from Yongle Encyclopedia: 71,824
+Japanese counting board with grids
+A checker counting board diagram in an 18th-century Japanese mathematics textbook
+Counting rod numerals in grids in a Japanese mathematic book
+Counting rods represent digits by the number of rods, and the perpendicular rod represents five. To avoid confusion, vertical and horizontal forms are alternately used. Generally, vertical rod numbers are used for the position for the units, hundreds, ten thousands, etc., while horizontal rod numbers are used for the tens, thousands, hundred thousands etc. It is written in Sunzi Suanjing that "one is vertical, ten is horizontal".[11]
+Red rods represent positive numbers and black rods represent negative numbers.[12] Ancient Chinese clearly understood negative numbers and zero (leaving a blank space for it), though they had no symbol for the latter. The Nine Chapters on the Mathematical Art, which was mainly composed in the first century CE, stated "(when using subtraction) subtract same signed numbers, add different signed numbers, subtract a positive number from zero to make a negative number, and subtract a negative number from zero to make a positive number".[13][14] Later, a go stone was sometimes used to represent zero.
+This alternation of vertical and horizontal rod numeral form is very important to understanding written transcription of rod numerals on manuscripts correctly. For instance, in Licheng suanjin, 81 was transcribed as , and 108 was transcribed as ; it is clear that the latter clearly had a blank zero on the "counting board" (i.e., floor or mat), even though on the written transcription, there was no blank. In the same manuscript, 405 was transcribed as  , with a blank space in between for obvious reasons, and could in no way be interpreted as "45". In other words, transcribed rod numerals may not be positional, but on the counting board, they are positional.   is an exact image of the counting rod number 405 on a table top or floor.
+
+Place value[edit]
+The value of a number depends on its physical position on the counting board. A 9 at the rightmost position on the board stands for 9. Moving the batch of rods representing 9 to the left one position (i.e., to the tens place) gives 9[] or 90. Shifting left again to the third position (to the hundreds place) gives 9[][] or 900. Each time one shifts a number one position to the left, it is multiplied by 10. Each time one shifts a number one position to the right, it is divided by 10. This applies to single-digit numbers or multiple-digit numbers.
+Song dynasty mathematician Jia Xian used hand-written Chinese decimal orders 步十百千萬 as rod numeral place value, as evident from a facsimile from a page of Yongle Encyclopedia. He arranged 七萬一千八百二十四 as
+
+七一八二四
+萬千百十步
+He treated the Chinese order numbers as place value markers, and 七一八二四 became place value decimal number. He then wrote the rod numerals according to their place value:
+
+
+
+七
+
+一
+
+八
+
+二
+
+四
+
+
+萬
+
+千
+
+百
+
+十
+
+步
+
+
+
+
+
+
+
+
+
+
+
+
+In Japan, mathematicians put counting rods on a counting board, a sheet of cloth with grids, and used only vertical forms relying on the grids. An 18th-century Japanese mathematics book has a checker counting board diagram, with the order of magnitude symbols "千百十一分厘毛" (thousand, hundred, ten, unit, tenth, hundredth, thousandth).[15]
+
+
+Zero and positive integers
+
+
+ 
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+
+Vertical
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horizontal
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zero and negative numbers
+
+
+ 
+
+0
+
+−1
+
+−2
+
+−3
+
+−4
+
+−5
+
+−6
+
+−7
+
+−8
+
+−9
+
+
+Vertical
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horizontal
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Examples:
+
+
+
+231
+
+ 
+
+
+
+
+
+
+
+
+5089
+
+
+
+ 
+
+
+
+
+
+
+−407
+
+ 
+
+
+
+ 
+
+
+
+
+−6720
+
+
+
+
+
+
+
+ 
+
+Rod numerals[edit]
+Rod numerals are a positional numeral system made from shapes of counting rods. Positive numbers are written as they are and the negative numbers are written with a slant bar at the last digit. The vertical bar in the horizontal forms 6–9 are drawn shorter to have the same character height.
+A circle (〇) is used for 0.  Many historians think it was imported from Indian numerals by Gautama Siddha in 718,[13] but some think it was created from the Chinese text space filler "□", and others think that the Indians acquired it from China, because it resembles a Confucian philosophical symbol for "nothing".[16]
+In the 13th century, Southern Song mathematicians changed digits for 4, 5, and 9 to reduce strokes.[16] The new horizontal forms eventually transformed into Suzhou numerals. Japanese continued to use the traditional forms.
+
+
+Positive numbers (traditional)
+
+
+ 
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+
+Vertical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horizontal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negative numbers (traditional)
+
+
+ 
+
+0
+
+−1
+
+−2
+
+−3
+
+−4
+
+−5
+
+−6
+
+−7
+
+−8
+
+−9
+
+
+Vertical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horizontal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positive numbers (Southern Song)
+
+
+ 
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+
+Vertical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horizontal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Examples:
+
+
+
+
+Traditional
+Southern Song
+
+
+231
+
+
+
+
+
+
+5089
+
+
+
+
+
+
+−407
+
+
+
+
+
+
+−6720
+
+
+
+
+
+In Japan, Seki Takakazu developed the rod numerals into symbolic notation for algebra and drastically improved Japanese mathematics.[13]  After his period, the positional numeral system using Chinese numeral characters was developed, and the rod numerals were used only for the plus and minus signs. 
+
+
+
+Western
+Seki
+After Seki
+
+
+x + y + 246
+
+甲乙
+
+甲乙二四六
+
+
+5x − 6y
+
+甲乙
+
+五甲六乙
+
+
+7xy
+
+甲乙
+
+七甲乙
+
+
+8x / y
+
+N/A
+
+乙八甲[dubious – discuss]
+
+Fractions[edit]
+ Fraction ⁠1/7⁠
+A fraction was expressed with rod numerals as two rod numerals one on top of another (without any other symbol, like the modern horizontal bar).[citation needed]
+
+Rod calculus[edit]
+Main article: Rod calculus
+The method for using counting rods for mathematical calculation was called rod calculation or rod calculus (筹算). Rod calculus can be used for a wide range of calculations, including finding the value of π, finding square roots, cube roots, or higher order roots, and solving a system of linear equations.
+Before the introduction of a written zero, a space was used to indicate no units, and the rotation of the character in the subsequent unit column, by 90°, adopted, to help reduce the ambiguity in record values calculated on the rods.[17] For example 107 (𝍠 𝍧) and 17 (𝍩𝍧) would be distinguished by rotation, though multiple zero units could lead to ambiguity, eg. 1007 (𝍩  𝍧) , and 10007 (𝍠   𝍧). Once written zero came into play, the rod numerals had become independent, and their use indeed outlives the counting rods, after its replacement by abacus. One variation of horizontal rod numerals, the Suzhou numerals is still in use for book-keeping and in herbal medicine prescription in Chinatowns in some parts of the world.
+
+Unicode[edit]
+Main article: Counting Rod Numerals
+Unicode 5.0 includes counting rod numerals in their own block in the Supplementary Multilingual Plane (SMP) from U+1D360 to U+1D37F. The code points for the horizontal digits 1–9 are U+1D360 to U+1D368 and those for the vertical digits 1–9 are U+1D369 to U+1D371. The former are called unit digits and the latter are called tens digits,[18][19] which is opposite of the convention described above. The Unicode Standard states that the orientation of the Unicode characters follows Song dynasty convention, which differs from Han dynasty practice which represented digits as vertical lines, and tens as horizontal lines.[20] Zero should be represented by U+3007 (〇, ideographic number zero) and the negative sign should be represented by U+20E5 (combining reverse solidus overlay).[21] As these were recently added to the character set and since they are included in the SMP, font support may still be limited.
+
+
+
+Counting Rod Numerals[1][2]Official Unicode Consortium code chart (PDF)
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+
+
+U+1D36x
+
+𝍠
+
+𝍡
+
+𝍢
+
+𝍣
+
+𝍤
+
+𝍥
+
+𝍦
+
+𝍧
+
+𝍨
+
+𝍩
+
+𝍪
+
+𝍫
+
+𝍬
+
+𝍭
+
+𝍮
+
+𝍯
+
+
+U+1D37x
+
+𝍰
+
+𝍱
+
+𝍲
+
+𝍳
+
+𝍴
+
+𝍵
+
+𝍶
+
+𝍷
+
+𝍸
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes
+1.^ As of Unicode version 16.0
+2.^ Grey areas indicate non-assigned code points
+
+See also[edit]
+
+Abacus
+Chinese mathematics
+Rod calculus
+Tally marks
+Tian yuan shu
+Unicode numerals
+
+References[edit]
+
+
+^ Lay-Yong, Lam (1986). "The Conceptual Origins of our Numeral System and the Symbolic Form of Algebra". Archive for History of Exact Sciences. 36 (3): 183–195. doi:10.1007/BF00412260. ISSN 0003-9519. JSTOR 41133800.
+
+^ 中国独特的计算工具, archived from the original on 2007-11-21, retrieved 2007-12-161954年，考古学家在位于长江中游地区的湖南省长沙左家公山发掘了一座距今两千一百多年的战国时期楚墓。墓中出土了一个竹筒，里面盛放着戥秤、砝码、毛笔以及四十余根长度约为十二厘米的竹片。这是最早发现也是最古的算筹实物。In English-In 1954, archaeologists discovered a tomb of the Chu Dynasty from the Warring States Period, which is more than 2,100 years old, at Zuojiagong Mountain in Changsha, Hunan Province, in the middle reaches of the Yangtze River. A bamboo tube was unearthed in the tomb, which contained a balance scale, weights, a brush, and more than 40 bamboo pieces about 12 centimeters long. This is the earliest and oldest abacus discovered.
+
+^ Ancient China Math Archived 2011-01-26 at the Wayback Machine – Copyright © 2010 – TutorVista.com, All rights reserved.
+
+^ WONG, Pui Yin Marianne (Mar 2006). "The Siling (four cardinal animals) in Han Pictorial Art - vol 1" (PDF). SOAS: 370, 416.
+
+^ "BabelStone Blog : The Lost Game of Liubo Part 4 : Game Boards and Equipment". www.babelstone.co.uk. Retrieved 2020-08-05.
+
+^ Wu Wenjun ed, Grand Series of History of Chinese Mathematics, vol 1, p371
+
+^ Lam, Lay Yong; Ang, Tian Se (2004). Fleeting Footsteps: Tracing the Conception of Arithmetic and Algebra in Ancient China. World Scientific. ISBN 978-981-256-725-3.
+
+^ 孫子: 夫未戰而廟算勝者，得算多也
+
+^ 老子: 善數者不用籌策。
+
+^ Zhu, Yiwen (2018). "How were Western written calculations introduced into China? — An analysis of the Tongwen suanzhi (Arithmetic Guidance in the Common Language, 1613)". ResearchGate. Retrieved 2020-08-05.
+
+^ Chinese Wikisource 孫子算經: 先識其位，一從十橫，百立千僵，千十相望，萬百相當。
+
+^ Chinese Wikisource, 夢溪筆談: 如算法用赤籌、黑籌，以別正負之數。
+
+^ a b c Wáng, Qīngxiáng (1999), Sangi o koeta otoko (The man who exceeded counting rods), Tokyo: Tōyō Shoten, ISBN 4-88595-226-3
+
+^ Chinese Wikisource 正負術曰: 同名相除，異名相益，正無入負之，負無入正之。其異名相除，同名相益，正無入正之，負無入負之。
+
+^ Karl Menninger, Number Words and Number Symbols, p 369, MIT Press, 1970
+
+^ a b Qian, Baocong (1964), Zhongguo Shuxue Shi (The history of Chinese mathematics), Beijing: Kexue Chubanshe
+
+^ "Chinese numerals". Maths History. Retrieved 2024-04-28.
+
+^ Christopher Cullen et John H. Jenkins, Proposal to add Chinese counting rod numerals to Unicode and ISO/IEC 10646, 2004
+
+^ The Unicode Standard, Version 5.0 – Electronic edition (PDF), Unicode, Inc., 2006, p. 558
+
+^ The Unicode Standard, Version 15.0 – Electronic edition (PDF), Unicode, Inc., 2022, pp. 869–870
+
+^ The Unicode Standard, Version 5.0 – Electronic edition (PDF), Unicode, Inc., 2006, pp. 499–500
+
+
+External links[edit]
+For a look of the ancient counting rods, and further explanation, you can visit the sites
+
+https://web.archive.org/web/20010217175749/http://www.math.sfu.ca/histmath/China/Beginning/Rod.html
+http://mathforum.org/library/drmath/view/52557.html
+Counting rods in China (in Chinese) (Translate to English: Google, Bing, Yandex)
+Counting rods and go stones of a Japanese mathematician around 1872 (in Japanese) (Translate to English: Google, Bing, Yandex)
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Counting_rods&oldid=1281504363"
+Categories: Chinese inventionsChinese mathematicsJapanese mathematicsKorean mathematicsMathematical toolsNumeralsScience and technology in ChinaHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataPages using sidebar with the child parameterArticles containing Chinese-language textArticles containing Vietnamese-language textArticles containing Korean-language textArticles containing Japanese-language textAll articles with failed verificationArticles with failed verification from March 2018All articles with unsourced statementsArticles with unsourced statements from March 2018All articles with vague or ambiguous timeVague or ambiguous time from March 2018All accuracy disputesArticles with disputed statements from May 2019Articles with unsourced statements from August 2024Articles with Chinese-language sources (zh)Articles with Japanese-language sources (ja)
+
+
+
+
+
+
+ This page was last edited on 20 March 2025, at 19:48 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Counting rods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,788 @@
+https://en.wikipedia.org/wiki/Marine_electronics
+
+
+
+
+Marine electronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Communication
+
+
+
+
+
+
+
+
+2
+Navigation
+
+
+
+
+
+
+
+
+3
+Industry
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Marine electronics
+
+
+
+4 languages
+
+
+
+
+فارسیहिन्दी日本語Русский
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Marine electronics refers to electronics devices designed and classed for use in the marine environment on board ships and yachts where even a small amount of salt water can destroy some electronics devices. Therefore, the majority of these types of devices are either water resistant or waterproof.
+Marine electronics devices include chartplotter, marine VHF radio, autopilot and self-steering gear, fishfinder and sonar, marine radar, satellite navigation device, fibre optic gyrocompass, satellite television, and marine fuel management.
+
+
+Communication[edit]
+The electronics devices communicate by using a protocol defined by National Marine Electronics Association(NMEA), with two standards available, NMEA 0183 (serial communication network) and NMEA 2000 (controller-area network based technology). There is also Lightweight Ethernet (LWE).
+In recent years, the International Electrotechnical Commission (IEC) has created a new standards suite for "Digital interfaces for navigational equipment within a ship". This is known as IEC 61162 and included NMEA 0183, NMEA 2000 and LWE.
+Additionally, different suppliers of marine electronics have their own communications protocol.
+
+A+T Instruments has ESP Ethernet over Ships Power
+B&G has FastNet
+Furuno has NavNet ("NavNet" refers to a product family, and is not a communications protocol. Furuno uses industry standard NMEA 0183, NMEA 2000, and standard Ethernet for communications protocol in their products)
+Mastervolt has CZone
+Nexus has FDX
+Raymarine has Seatalk / SeatalkNG
+Simrad has SimNet
+Stowe has Dataline
+
+Marine Electronics Communications
+
+
+Standard
+Electrical standard
+Protocol type
+Connector
+Simplex/duplex
+Termination
+Manufacturer
+Compatibility
+Power
+Notes
+
+
+NMEA 0180/0182
+RS-232
+ASCII serial
+
+Simplex
+
+
+
+
+
+
+
+NMEA 0183
+RS-422
+ASCII serial
+Terminals
+Simplex
+N/A
+Various
+
+
+4800baud 8N1[1][2]
+
+
+Seatalk
+RS-422
+ASCII serial
+
+
+
+Raymarine
+
+
+4800baud[3]
+
+
+NMEA 2000
+CAN bus
+SAE J1939 binary
+DeviceNet 5-pin A-coded M12 screw connector
+Duplex
+120R
+Various
+
+
+IEC 61162-3, 250kbs
+
+
+SeaTalkNG
+CAN bus
+SAE J1939 Binary
+Proprietary
+Duplex
+120R
+Raymarine
+NMEA 2000
+
+[4]
+
+
+Simnet
+CAN bus
+SAE J1939 Binary
+
+Duplex
+120R
+Simrad
+NMEA 2000
+
+
+
+
+Furuno CAN
+CAN bus
+SAE J1939 binary
+
+
+Furno
+
+NMEA 2000
+
+
+
+
+Signal K
+Ethernet, WiFi
+HTTP
+
+
+
+
+
+
+[5]
+
+
+NMEA OneNet
+Ethernet, WiFi
+
+
+
+
+
+
+
+[6]
+
+
+SeaTalkhs
+Ethernet, WiFi
+
+RayNet
+
+
+Raymarine
+
+
+[7]
+
+Navigation[edit]
+Another important part of marine electronics is the navigation equipment. Here compasses, which includes both gyrocompasses and magnetic compasses, make up for equipment that is used by the entire shipping industry.
+
+Industry[edit]
+Some manufacturers specialize more in equipment for commercial vessels such as tankers and general cargo vessels.
+This industry is relatively small with worldwide sales of $3.2 billion in 2015. The top manufacturer is Garmin's Marine division with a turnover of US$917 Million in 2023[8]  followed by Brunswick-owned Navico Group (Simrad, Lowrance, B&G and several other brands), with a turnover of US$915 Million (although this includes sales of equipment which is not marine electronics, such as batteries, cables and pumps). Other popular brands are Japan-based Furuno,  Japan Radio Company,  Wärtsilä and Raymarine.
+
+References[edit]
+
+
+^ https://web.archive.org/web/20140215150802/http://www.kh-gps.de/nmea.faq [bare URL]
+
+^ "Marine Electronics Products".
+
+^ "Marine Electronics Products".
+
+^ "Marine Electronics Products".
+
+^ https://signalk.org/ [bare URL]
+
+^ https://www.nmea.org/content/STANDARDS/OneNet Archived 2021-05-14 at the Wayback Machine [bare URL]
+
+^ "Marine Electronics Products".
+
+^ Company filing https://www.garmin.com/en-US/newsroom/wp-content/uploads/2024/02/2023-Q4-GRMN-Earnings-Release_FINAL.pdf
+
+
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Marine_electronics&oldid=1261481609"
+Categories: Marine electronicsNavigational equipment manufacturersHidden categories: All articles with bare URLs for citationsArticles with bare URLs for citations from August 2024Webarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 6 December 2024, at 09:30 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Marine electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

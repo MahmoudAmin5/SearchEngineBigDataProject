@@ -1,0 +1,1377 @@
+https://en.wikipedia.org/wiki/Astrolabe
+
+
+
+
+Astrolabe - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Applications
+
+
+
+
+
+
+
+
+2
+Etymology
+
+
+
+
+
+
+
+
+3
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+3.1
+Ancient era
+
+
+
+
+
+
+
+
+3.2
+Medieval era
+
+
+
+
+
+
+
+
+3.3
+Astrolabes and clocks
+
+
+
+
+
+
+
+
+
+
+4
+Construction
+
+
+
+
+
+
+
+
+5
+Mathematical basis
+
+
+
+
+Toggle Mathematical basis subsection
+
+
+
+
+
+5.1
+Designing a tympanum through stereographic projection
+
+
+
+
+
+
+5.1.1
+The tropics and the equator define the tympanum
+
+
+
+
+
+
+
+
+5.1.2
+The horizon and the measurement of altitude
+
+
+
+
+
+
+
+
+5.1.3
+The meridians and the measurement of azimuth
+
+
+
+
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+Footnotes
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Bibliography
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Astrolabe
+
+
+
+72 languages
+
+
+
+
+AfrikaansالعربيةAsturianuAzərbaycancaتۆرکجهবাংলাБеларускаяБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीHrvatskiIdoIgboBahasa IndonesiaInterlinguaIsiXhosaItalianoעבריתქართულიҚазақшаKurdîLatviešuLëtzebuergeschLietuviųMagyarМакедонскиമലയാളംBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskOccitanOʻzbekcha / ўзбекчаپنجابیPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaไทยТоҷикӣTürkçeУкраїнськаاردوTiếng ViệtWinaray吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Astronomical instrument
+For other pages with a similar name, see Astrolabe (disambiguation). Not to be confused with Cosmolabe.
+North African, 9th century CE, planispheric astrolabe. Khalili Collection.
+A modern astrolabe made in 2013, in Tabriz, Iran.
+An astrolabe (Ancient Greek: ἀστρολάβος, romanized: astrolábos, lit. 'star-taker'; Arabic: ٱلأَسْطُرلاب, romanized: al-Asṭurlāb; Persian: ستاره‌یاب, romanized: Setāreyāb) is an astronomical instrument dating to ancient times. It serves as a star chart and physical model of visible half-dome of the sky. Its various functions also make it an elaborate inclinometer and an analog calculation device capable of working out several kinds of problems in astronomy. In its simplest form it is a metal disc with a pattern of wires, cutouts, and perforations that allows a user to calculate astronomical positions precisely. It is able to measure the altitude above the horizon of a celestial body, day or night; it can be used to identify stars or planets, to determine local latitude given local time (and vice versa), to survey, or to triangulate. It was used in classical antiquity, the Islamic Golden Age, the European Middle Ages and the Age of Discovery for all these purposes.
+The astrolabe, which is a precursor to the sextant,[1]
+is effective for determining latitude on land or calm seas. Although it is less reliable on the heaving deck of a ship in rough seas, the mariner's astrolabe was developed to solve that problem.
+
+
+Applications[edit]
+16th century woodcut of measurement of a building's height with an astrolabe
+The 10th century astronomer ʿAbd al-Raḥmān al-Ṣūfī wrote a massive text of 386 chapters on the astrolabe, which reportedly described more than 1,000 applications for the astrolabe's various functions.[2]
+These ranged from the astrological, the astronomical and the religious, to navigation, seasonal and daily time-keeping, and tide tables. At the time of their use, astrology was widely considered as much of a serious science as astronomy, and study of the two went hand-in-hand. The astronomical interest varied between folk astronomy (of the pre-Islamic tradition in Arabia) which was concerned with celestial and seasonal observations, and mathematical astronomy, which would inform intellectual practices and precise calculations based on astronomical observations. In regard to the astrolabe's religious function, the demands of Islamic prayer times were to be astronomically determined to ensure precise daily timings, and the qibla, the direction of Mecca towards which Muslims must pray, could also be determined by this device. In addition to this, the lunar calendar that was informed by the calculations of the astrolabe was of great significance to the religion of Islam, given that it determines the dates of important religious observances such as Ramadan.[citation needed]
+
+Etymology[edit]
+The Oxford English Dictionary gives the translation "star-taker" for the English word astrolabe and traces it through medieval Latin to the Greek word ἀστρολάβος : astrolábos,[3][4]
+from ἄστρον: astron "star", and λαμβάνειν: lambanein "to take".[5]
+In the medieval Islamic world the Arabic word al-asturlāb (i.e., astrolabe) was given various etymologies. In Arabic texts, the word is translated as ākhidhu al-nujūm (Arabic: آخِذُ ٱلنُّجُومْ, lit. 'star-taker') – a direct translation of the Greek word.[6]
+Al-Biruni quotes and criticises medieval scientist Hamza al-Isfahani, who stated:[6]
+
+"asturlab is an Arabisation of this Persian phrase" (sitara yab, meaning "taker of the stars").[7]
+In medieval Islamic sources, there is also a folk etymology of the word as "lines of lab", where "Lab" refers to a certain son of Idris (Enoch). This etymology is mentioned by a 10th century scientist named al-Qummi but rejected by al-Khwarizmi.[8]
+
+History[edit]
+Ancient era[edit]
+An astrolabe is essentially a plane (two-dimensional) version of an armillary sphere, which had already been invented in the Hellenistic period and probably been used by Hipparchus to produce his star catalogue. Theon of Alexandria (c. 335–405) wrote a detailed treatise on the astrolabe.[9] The invention of the plane astrolabe is sometimes wrongly attributed to Theon's daughter Hypatia (born c. 350–370; died 415 CE),[10][11][12][13]
+but it is known to have been used much earlier.[11][12][13]
+The misattribution comes from a misinterpretation of a statement in a letter written by Hypatia's pupil Synesius (c. 373–414),[11][12][13]
+which mentions that Hypatia had taught him how to construct a plane astrolabe, but does not say that she invented it.[11][12][13]
+Lewis argues that Ptolemy used an astrolabe to make the astronomical observations recorded in the Tetrabiblos.[9] However, Emilie Savage-Smith notes
+
+"there is no convincing evidence that Ptolemy or any of his predecessors knew about the planispheric astrolabe".[14]
+In chapter 5.1 of the Almagest, Ptolemy describes the construction of an armillary sphere, and it is usually assumed that this was the instrument he used.
+Astrolabes continued to be used in the Byzantine Empire. Christian philosopher John Philoponus wrote a treatise (c. 550) on the astrolabe in Greek, which is the earliest extant treatise on the instrument.[15]
+Mesopotamian bishop Severus Sebokht also wrote a treatise on the astrolabe in the Syriac language during the mid-7th century.[a]
+Sebokht refers to the astrolabe as being made of brass in the introduction of his treatise, indicating that metal astrolabes were known in the Christian East well before they were developed in the Islamic world or in the Latin West.[18]
+
+Medieval era[edit]
+Astrolabes were further developed in the medieval Islamic world, where Muslim astronomers introduced angular scales to the design,[19] adding circles indicating azimuths on the horizon.[20] It was widely used throughout the Muslim world, chiefly as an aid to navigation and as a way of finding the Qibla, the direction of Mecca. Eighth-century mathematician Muhammad al-Fazari is the first person credited with building the astrolabe in the Islamic world.[21]
+The mathematical background was established by Muslim astronomer Albatenius in his treatise Kitab az-Zij (c. 920 CE), which was translated into Latin by Plato Tiburtinus (De Motu Stellarum). The earliest surviving astrolabe is dated AH 315 (927–928 CE). In the Islamic world, astrolabes were used to find the times of sunrise and the rising of fixed stars, to help schedule morning prayers (salat). In the 10th century, al-Sufi first described over 1,000 different uses of an astrolabe, in areas as diverse as astronomy, astrology, navigation, surveying, timekeeping, prayer, Salat, Qibla, etc.[22][23]
+
+An Arab astrolabe from 1208
+The spherical astrolabe was a variation of both the astrolabe and the armillary sphere, invented during the Middle Ages by astronomers and inventors in the Islamic world.[b]
+The earliest description of the spherical astrolabe dates to Al-Nayrizi (fl. 892–902). In the 12th century, Sharaf al-Dīn al-Tūsī invented the linear astrolabe, sometimes called the "staff of al-Tusi", which was
+
+"a simple wooden rod with graduated markings, but without sights. It was furnished with a plumb line and a double chord for making angular measurements and bore a perforated pointer".[25] The geared mechanical astrolabe was invented by Abi Bakr of Isfahan in 1235.[26]
+The first known metal astrolabe in Western Europe is the Destombes astrolabe made from brass in the eleventh century in Portugal.[27][28](p 140) Metal astrolabes avoided the warping that large wooden ones were prone to, allowing the construction of larger and therefore more accurate instruments. Metal astrolabes were heavier than wooden instruments of the same size, making it difficult to use them in navigation.[29]
+
+Spherical astrolabe
+A depiction of Hermann of Reichenau with an astrolabe in a 13th century manuscript by Matthew Paris
+Herman Contractus of Reichenau Abbey, examined the use of the astrolabe in Mensura Astrolai during the 11th century.[30](p 72)
+Peter of Maricourt wrote a treatise on the construction and use of a universal astrolabe in the last half of the 13th century entitled Nova compositio astrolabii particularis. Universal astrolabes can be found at the History of Science Museum, Oxford.[31] David A. King, historian of Islamic instrumentation, describes the universal astrolobe designed by Ibn al-Sarraj of Aleppo (a.k.a. Ahmad bin Abi Bakr; fl. 1328) as "the most sophisticated astronomical instrument from the entire Medieval and Renaissance periods".[32]
+English author Geoffrey Chaucer (c. 1343–1400) compiled A Treatise on the Astrolabe for his son, mainly based on a work by Messahalla or Ibn al-Saffar.[33][34][c]
+The same source was translated by French astronomer and astrologer Pélerin de Prusse and others. The first printed book on the astrolabe was Composition and Use of Astrolabe by Christian of Prachatice, also using Messahalla, but relatively original.
+
+Front of an Indian astrolabe now kept at the Royal Museum of Scotland at Edinburgh.
+In 1370, the first Indian treatise on the astrolabe was written by the Jain astronomer Mahendra Suri, titled Yantrarāja.[35]
+A simplified astrolabe, known as a balesilha, was used by sailors to get an accurate reading of latitude while at sea. The use of the balesilha was promoted by Prince Henry (1394–1460) while navigating for Portugal.[30](p 460)
+
+The astrolabe was almost certainly first brought north of the Pyrenees by Gerbert of Aurillac (future Pope Sylvester II), where it was integrated into the quadrivium at the school in Reims, France, sometime before the turn of the 11th century.[28](p 143) In the 15th century, French instrument maker Jean Fusoris (c. 1365–1436) also started remaking and selling astrolabes in his shop in Paris, along with portable sundials and other popular scientific devices of the day.Astronomical Instrument Detail by Ieremias Palladas 1612 Thirteen of his astrolabes survive to this day.[36] One more special example of craftsmanship in early 15th-century Europe is the astrolabe designed by Antonius de Pacento and made by Dominicus de Lanzano, dated 1420.[37]
+In the 16th century, Johannes Stöffler published Elucidatio fabricae ususque astrolabii, a manual of the construction and use of the astrolabe. Four identical 16th century astrolabes made by Georg Hartmann provide some of the earliest evidence for batch production by division of labor.
+Greek painter Ieremias Palladas incorporated a sophisticated astrolabe in his 1612 painting depicting Catherine of Alexandria. The painting, entitled Catherine of Alexandria; in addition to the saint, showed a device labelled the 'system of the universe' (Σύστημα τοῦ Παντός). The device featured the classical planets with their Greek names: Helios (Sun), Selene (Moon), Hermes (Mercury), Aphrodite (Venus), Ares (Mars), Zeus (Jupiter), and Cronos (Saturn). The depicted device also had celestial spheres, following the Ptolemaic model, and Earth was shown as a blue sphere with circles of geographic coordinates. A complicated line representing the axis of the Earth covered the entire instrument.[38]
+
+Medieval astrolabes
+
+
+A treatise explaining the importance of the astrolabe by Nasir al-Din al-Tusi, Persian scientist
+
+
+
+Astrolabe of Jean Fusoris, made in Paris, 1400
+
+
+
+An 18th-century Persian astrolabe
+
+
+
+Disassembled 18th-century astrolabe
+
+
+
+Exploded view of an astrolabe
+
+
+
+Animation showing how celestial and geographic coordinates are mapped on an astrolabe's tympan through a stereographic projection. Hypothetical tympan (40° north latitude) of a 16th-century European planispheric astrolabe.
+
+
+
+Astrolabe manual from the Alfonso X of Castile work Libros del saber de astronomía, 1276.
+
+
+
+A page from the 1575 book "Astrolabium" depicting an astrolabe. Masha'Allah Public Library Bruges [nl] Ms. 522
+
+
+Astrolabes and clocks[edit]
+Amerigo Vespucci observing the Southern Cross by looking over the top of an armillary sphere bizarrely held from the top as if it were an astrolabe; however, an astrolabe cannot be used by looking over its top. The page inexplicably contains the word astrolabium. By Jan Collaert II. Museum Plantin-Moretus, Antwerp, Belgium.
+Mechanical astronomical clocks were initially influenced by the astrolabe; they could be seen in many ways as clockwork astrolabes designed to produce a continual display of the current position of the sun, stars, and planets. For example, Richard of Wallingford's clock (c. 1330) consisted essentially of a star map rotating behind a fixed rete, similar to that of an astrolabe.[39]
+Many astronomical clocks use an astrolabe-style display, such as the famous clock at Prague, adopting a stereographic projection (see below) of the ecliptic plane. In recent times, astrolabe watches have become popular. For example, Swiss watchmaker Ludwig Oechslin designed and built an astrolabe wristwatch in conjunction with Ulysse Nardin in 1985.[40] Dutch watchmaker Christaan van der Klauuw also manufactures astrolabe watches today.[41]
+
+Construction[edit]
+An astrolabe consists of a disk with a wide, raised rim, called the mater (mother), which is deep enough to hold one or more flat plates called tympans, or climates. A tympan is made for a specific latitude and is engraved with a stereographic projection of circles denoting azimuth and altitude and representing the portion of the celestial sphere above the local horizon. The rim of the mater is typically graduated into hours of time, degrees of arc, or both.[42]
+Above the mater and tympan, the rete, a framework bearing a projection of the ecliptic plane and several pointers indicating the positions of the brightest stars, is free to rotate. These pointers are often just simple points, but depending on the skill of the craftsman can be very elaborate and artistic. There are examples of astrolabes with artistic pointers in the shape of balls, stars, snakes, hands, dogs' heads, and leaves, among others.[42] The names of the indicated stars were often engraved on the pointers in Arabic or Latin.[43] Some astrolabes have a narrow rule or label which rotates over the rete, and may be marked with a scale of declinations.
+The rete, representing the sky, functions as a star chart. When it is rotated, the stars and the ecliptic move over the projection of the coordinates on the tympan. One complete rotation corresponds to the passage of a day. The astrolabe is, therefore, a predecessor of the modern planisphere.
+On the back of the mater, there is often engraved a number of scales that are useful in the astrolabe's various applications. These vary from designer to designer, but might include curves for time conversions, a calendar for converting the day of the month to the sun's position on the ecliptic, trigonometric scales, and graduation of 360 degrees around the back edge. The alidade is attached to the back face. An alidade can be seen in the lower right illustration of the Persian astrolabe above. When the astrolabe is held vertically, the alidade can be rotated and the sun or a star sighted along its length, so that its altitude in degrees can be read ("taken") from the graduated edge of the astrolabe; hence the word's Greek roots: "astron" (ἄστρον) = star + "lab-" (λαβ-) = to take. The alidade had vertical and horizontal cross-hairs which plots locations on an azimuthal ring called an almucantar (altitude-distance circle).
+An arm called a radius connects from the center of the astrolabe to the optical axis which is parallel with another arm also called a radius. The other radius contains graduations of altitude and distance measurements.
+A shadow square also appears on the back of some astrolabes, developed by Muslim astrologists in the 9th Century, whereas devices of the Ancient Greek tradition featured only altitude scales on the back of the devices.[44] This was used to convert shadow lengths and the altitude of the sun, the uses of which were various from surveying to measuring inaccessible heights.[45]
+Devices were usually signed by their maker with an inscription appearing on the back of the astrolabe, and if there was a patron of the object, their name would appear inscribed on the front, or in some cases, the name of the reigning sultan or the teacher of the astrolabist has also been found to appear inscribed in this place.[46] The date of the astrolabe's construction was often also signed, which has allowed historians to determine that these devices are the second oldest scientific instrument in the world. The inscriptions on astrolabes also allowed historians to conclude that astronomers tended to make their own astrolabes, but that many were also made to order and kept in stock to sell, suggesting there was some contemporary market for the devices.[46]
+
+Construction of astrolabes
+
+
+The Hartmann astrolabe in Yale collection. This instrument shows its rete and rule.
+
+
+
+Celestial Globe, Isfahan (?), Iran 1144. Shown at the Louvre Museum, this globe is the third oldest surviving in the world.
+
+
+
+Computer-generated planispheric astrolabe
+
+
+Mathematical basis[edit]
+The construction and design of astrolabes are based on the application of the stereographic projection of the celestial sphere. The point from which the projection is usually made is the South Pole. The plane onto which the projection is made is that of the Equator.[47]
+
+Designing a tympanum through stereographic projection[edit]
+Parts of an Astrolabe tympanum
+The tympanum captures the celestial coordinate axes upon which the rete will rotate. It is the component that will enable the precise determination of a star's position at a specific time of day and year.
+Therefore, it should project:
+
+The zenith, which will vary depending on the latitude of the astrolabe user.
+The horizon line and almucantar or circles parallel to the horizon, which will allow for the determination of a celestial body's altitude (from the horizon to the zenith).
+The celestial meridian (north-south meridian, passing through the zenith) and secondary meridians (circles intersecting the north-south meridian at the zenith), which will enable the measurement of azimuth for a celestial body.
+The three main circles of latitude (Capricorn, Equator, and Cancer) to determine the exact moments of solstices and equinoxes throughout the year.
+The tropics and the equator define the tympanum[edit]
+Stereographic projection of Earth's tropics and equator from the South Pole.
+On the right side of the image above:
+
+  The blue sphere represents the celestial sphere.
+  The blue arrow indicates the direction of true north (the North Star).
+  The central blue point represents Earth (the observer's location).
+  The geographic south of the celestial sphere acts as the projection pole.
+  The celestial equatorial plane serves as the projection plane.
+Three parallel circles represent the projection on the celestial sphere of Earth's main circles of latitude:
+  In orange, the celestial Tropic of Cancer.
+  In purple, the celestial equator.
+  In green, the celestial Tropic of Capricorn.
+When projecting onto the celestial equatorial plane, three concentric circles correspond to the celestial sphere's three circles of latitude (left side of the image). The largest of these, the projection on the celestial equatorial plane of the celestial Tropic of Capricorn, defines the size of the astrolabe's tympanum. The center of the tympanum (and the center of the three circles) is actually the north-south axis around which Earth rotates, and therefore, the rete of the astrolabe will rotate around this point as the hours of the day pass (due to Earth's rotational motion).
+The three concentric circles on the tympanum are useful for determining the exact moments of solstices and equinoxes throughout the year: if the sun's altitude at noon on the rete is known and coincides with the outer circle of the tympanum (Tropic of Capricorn), it signifies the winter solstice (the sun will be at the zenith for an observer at the Tropic of Capricorn, meaning summer in the southern hemisphere and winter in the northern hemisphere). If, on the other hand, its altitude coincides with the inner circle (Tropic of Cancer), it indicates the summer solstice. If its altitude is on the middle circle (equator), it corresponds to one of the two equinoxes.
+
+The horizon and the measurement of altitude[edit]
+Stereographic projection of an observer's horizon at a specific latitude
+On the right side of the image above:
+
+  The blue arrow indicates the direction of true north (the North Star).
+  The central blue point represents Earth (the observer's location).
+  The black arrow represents the zenith direction for the observer (which would vary depending on the observer's latitude).
+  The two black circles represent the horizon surrounding the observer, which is perpendicular to the zenith vector and defines the portion of the celestial sphere visible to the observer, and its projection on the celestial equatorial plane.
+  The geographic south of the celestial sphere acts as the projection pole.
+  The celestial equatorial plane serves as the projection plane.
+When projecting the horizon onto the celestial equatorial plane, it transforms into an ellipse upward-shifted relatively to the center of the tympanum (both the observer and the projection of the north-south axis). This implies that a portion of the celestial sphere will fall outside the outer circle of the tympanum (the projection of the celestial Tropic of Capricorn) and, therefore, won't be represented.
+
+Stereographic projection of the horizon and an almucantar.
+Additionally, when drawing circles parallel to the horizon up to the zenith (almucantar), and projecting them on the celestial equatorial plane, as in the image above, a grid of consecutive ellipses is constructed, allowing for the determination of a star's altitude when its rete overlaps with the designed tympanum.
+
+The meridians and the measurement of azimuth[edit]
+Stereographic projection of the north-south meridian and a meridian 40° E on the tympanum of an astrolabe
+On the right side of the image above:
+
+  The blue arrow indicates the direction of true north (the North Star).
+  The central blue point represents Earth (the observer's location).
+  The black arrow represents the zenith direction for the observer (which would vary depending on the observer's latitude).
+  The two black circles represent the horizon surrounding the observer, which is perpendicular to the zenith vector and defines the portion of the celestial sphere visible to the observer, and its projection on the celestial equatorial plane.
+  The five red dots represent the zenith, the nadir (the point on the celestial sphere opposite the zenith with respect to the observer), their projections on the celestial equatorial plane, and the center (with no physical meaning attached) of the circle obtained by projecting the secondary meridian (see below) on the celestial equatorial plane.
+  The orange circle represents the celestial meridian (or meridian that goes, for the observer, from the north of the horizon to the south of the horizon passing through the zenith).
+  The two red circles represent a secondary meridian with an azimuth of 40° East relative to the observer's horizon (which, like all secondary meridians, intersects the principal meridian at the zenith and nadir), and its projection on the celestial equatorial plane.
+  The geographic south of the celestial sphere acts as the projection pole.
+  The celestial equatorial plane serves as the projection plane.
+When projecting the celestial meridian, it results in a straight line that overlaps with the vertical axis of the tympanum, where the zenith and nadir are located. However, when projecting the 40° E meridian, another circle is obtained that passes through both the zenith and nadir projections, so its center is located on the perpendicular bisection of the segment connecting both points. In deed, the projection of the celestial meridian can be considered as a circle with an infinite radius (a straight line) whose center is on this bisection and at an infinite distance from these two points.
+If successive meridians that divide the celestial sphere into equal sectors (like "orange slices" radiating from the zenith) are projected, a family of curves passing through the zenith projection on the tympanum is obtained. These curves, once overlaid with the rete containing the major stars, allow for determining the azimuth of a star located on the rete and rotated for a specific time of day.
+
+See also[edit]
+
+astronomy in the medieval Islamic world
+equatorium
+Hamburg Planetarium
+list of astronomical instruments
+Philippe Danfrie, designer and maker of mathematical instruments, globes and astrolabes
+planisphere
+planetarium
+Volvelle
+Yantraraja
+Zeiss-Planetarium Jena
+
+Footnotes[edit]
+
+
+^ 
+"The most distinguished Syriac scholar of this later period was Severus Sebokht (d. 666–667), Bishop of Kennesrin. ... In addition to these works ... he also wrote on astronomical subjects (Brit. Mus. Add. 14538), and composed a treatise on the astronomical instrument known as the astrolabe, which has been edited and published by F. Nau (Paris, 1899)."[16]  — O'Leary (1948) 
+
+Severus' treatise was translated by Smith Margoliouth (1932).[17]
+
+
+^ 
+"There is no evidence for the Hellenistic origin of the spherical astrolabe, but rather evidence so far available suggests that it may have been an early but distinctly Islamic development with no Greek antecedents."[24]
+
+^ 
+"Paul Kunitzsch has recently established that the Latin treatise on the astrolabe long ascribed to Ma'sh'allah and translated by John of Seville is in fact by Ibn al-Saffar, a disciple of Maslama al-Majriti."[34]
+
+
+References[edit]
+
+
+^ 
+"Historians' home yields rich lode". The New York Times. 18 May 1964. Retrieved 4 February 2024. New York Society searches its own building for items to mark anniversary; show opens Thursday; portrait of Stuyvesant and Champlain's astrolabe will be on display.
+
+^ 
+Bean, Adam L. (2009). "astrolabes". In Birx, H. James (ed.). Encyclopedia of Time: Science, philosophy, theology, & culture. Vol. 1. SAGE. pp. 59–60. ISBN 978-1-4129-4164-8 – via Google.
+
+^ 
+"astrolabe". Oxford English Dictionary (2nd ed.). 1989.
+
+^ 
+"astrolabe". Oxford Dictionaries (website). Archived from the original on 22 October 2013 – via oxforddictionaries.com.
+
+^ 
+"astrolabe". Online Etymology Dictionary. Retrieved 7 November 2013 – via Etymonline.com.
+
+^ a b King 1981, p. 44.
+
+^ King 1981, p. 51.
+
+^ King 1981, p. 45.
+
+^ a b Lewis 2001.
+
+^ 
+Deakin, Michael (3 August 1997). "Hypatia of Alexandria". Ockham's razor (radio program). ABC Radio. Accessed 10 July 2014.
+
+^ a b c d 
+Theodore, Jonathan (2016). The Modern Cultural Myth of the Decline and Fall of the Roman Empire. Manchester, UK: Palgrave, Macmillan. p. 183. ISBN 978-1-137-56997-4 – via Google.
+
+^ a b c d 
+Deakin, Michael A.B. (2007). Hypatia of Alexandria: Mathematician and martyr. Amherst, NY: Prometheus Books. pp. 102–104. ISBN 978-1-59102-520-7 – via Google.
+
+^ a b c d 
+Bradley, Michael John (2006). The Birth of Mathematics: Ancient times to 1300. New York City, NY: Infobase Publishing. p. 63. ISBN 9780816054237 – via Google.
+
+^ 
+Savage-Smith, E. (1992). "Celestial mapping" (PDF). In Harley, J.B.; Woodward, David (eds.). The History of Cartography. The History of Cartography. Vol. 2, Book 1: Cartography in the traditional Islamic and South Asian societies. Chicago, IL: University of Chicago Press. ISBN 0226316351.
+
+^ 
+Modern editions of John Philoponus' treatise on the astrolabe are
+
+Philoponus, John (1839) [c. 550]. Hase, Heinrich (ed.). De usu astrolabii eiusque constructione libellus [On the Use and Construction of the Astrolabe] (in Latin). Bonn, DE: E. Weber. OCLC 165707441.
+or
+Philoponus, John (1839) [c. 550]. De usu astrolabii eiusque constructione libellus [On the Use and Construction of the Astrolabe]. Rheinisches Museum für Philologie (in Latin). Vol. 6 (reprint ed.). pp. 127–171.
+
+repr. and translated into French
+Segonds, Alain Philippe (1981) [c. 550]. Jean Philopon, traité de l'astrolabe (in French and Latin). Philoponus, John (Jean Philopon, original author). Paris, FR: Librairie Alain Brieux. OCLC 10467740.
+
+translated into English and included as part of
+Philoponus, John (1932) [c. 550]. "On the Use and Construction of the Astrolabe [De usu astrolabii eiusque constructione libellus]". In Gunther, R.T. (ed.). The Astrolabes of the World. Vol. 1 (of 2). Translated by Green, H.W. Oxford. OL 18840299M.
+which was reprinted in 1976:
+Philoponus, John (1976) [c. 550]. On the Use and Construction of the Astrolabe [De usu astrolabii eiusque constructione libellus]. Translated by Green, H.W. (reprint ed.). London, UK: Holland Press. pp. 61–81. OL 14132393M.
+
+^ 
+O'Leary, de Lacy (1948). How Greek Science Passed to the Arabs. Routledge and Kegan Paul.
+
+^ 
+Smith Margoliouth, Jessie Payne (1932). Gunther, R.T. (ed.). Astrolabes of the World. Sebokht, Severus (original author). Oxford. pp. 82–103.
+
+^ 
+Sebokht, Severus. "Description of the astrolabe". Tertullian.org.
+
+^ See p. 289 of Martin, L. C. (1923), "Surveying and navigational instruments from the historical standpoint", Transactions of the Optical Society, 24 (5): 289–303, Bibcode:1923TrOS...24..289M, doi:10.1088/1475-4878/24/5/302, ISSN 1475-4878.
+
+^ Berggren, J. Lennart (2007), "Mathematics in Medieval Islam", in Katz, Victor J. (ed.), The Mathematics of Egypt, Mesopotamia, China, India, and Islam: a Sourcebook, Princeton University Press, p. 519, ISBN 978-0-691-11485-9
+
+^ Richard Nelson Frye: Golden Age of Persia. p. 163
+
+^ 
+Nizamoglu, Cem (10 August 2005). "Using an astrolabe". Muslim Heritage (muslimheritage.com). Retrieved 16 October 2023.
+
+^ 
+Lachièz-Rey, Marc; Luminet, Jean-Pierre (2001). Celestial Treasury: From the music of spheres to the conquest of space. Translated by Laredo, Joe. Cambridge, UK: Cambridge University Press. p. 74. ISBN 978-0-521-80040-2.
+
+^ 
+Savage-Smith, Emilie (1993). "Book Reviews". Journal of Islamic Studies. 4 (2): 296–299. doi:10.1093/jis/4.2.296.
+
+^ O'Connor, John J.; Robertson, Edmund F., "Sharaf al-Din al-Muzaffar al-Tusi", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ 
+Bedini, Silvio A.; Maddison, Francis R. (1966). "Mechanical universe: The astrarium of Giovanni de' Dondi". Transactions of the American Philosophical Society. 56 (5): 1–69. doi:10.2307/1006002. JSTOR 1006002.
+
+^ "'Carolingian' astrolabe". Qantara (qantara-med.org). Retrieved 7 November 2013.
+
+^ a b Brown, Nancy Marie (2010). The Abacus and the Cross. Basic Books. pp. 140, 143. ISBN 978-0-465-00950-3.
+
+^ Boyle, David (2011). Toward the Setting Sun: Columbus, Cabot, Vespucci, and the race for America. USA: Bloomsbury Publishing. p. 253. ISBN 9780802779786.
+
+^ a b 
+Northrup, Cynthia Clark, ed. (2015). Encyclopedia of World Trade: From ancient times to the present (Enhanced Credo ed.). Armonk, NY: Routledge. pp. 72, 460. ISBN 978-0765680587. OCLC 889717964.
+
+^ "Introduction". The astrolabe: An online resource. History of Science Museum. Oxford, UK: Oxford University. 2006. Retrieved 15 May 2020.
+
+^ Harley, J.B.; Woodward, David (1992). The History of Cartography. Chicago, IL: University of Chicago Press. p. 31. ISBN 0-226-31635-1.
+
+^ Kunitzsch, Paul (1981). "On the authenticity of the treatise on the composition and use of the astrolabe ascribed to Messahalla". Archives Internationales d'Histoire des Sciences, Oxford. 31 (106): 42–62.
+
+^ a b Selin, Helaine (12 March 2008). Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures. Springer Science & Business Media. p. 1335. ISBN 978-1-4020-4559-2.
+
+^ Glick, Thomas; Livesey, Steven J.; Wallis, Faith, eds. (2005). Medieval Science, Technology, and Medicine: An encyclopedia. Routledge. p. 464. ISBN 0-415-96930-1.
+
+^ Hockey, Thomas (2009). The Biographical Encyclopedia of Astronomers. Springer Publishing. ISBN 978-0-387-31022-0. Retrieved 22 August 2012.
+
+^ Kern, Ralf (2010). Wissenschaftliche Instrumente in ihrer Zeit [Scientific Instruments in their Era] (in German). Vol. 1: Vom Astrolab zum mathematischen Besteck [From the astroabe to mathematical instruments]. Köln, DE: König. p. 204. ISBN 978-3-86560-865-9.
+
+^ 
+Vafea, Flora (2017). "The astronomical instruments in Saint Catherine's iconography at the Holy Monastery of Sinai". Almagest. 8 (2): 85–109, esp. p. 87. doi:10.1484/J.ALMAGEST.5.114932. ISSN 1792-2593. Retrieved 20 November 2024 – via brepolsonline.net.
+
+^ North 2005.
+
+^ "Astrolabium G. Galilei". Ulysse Nardin. Archived from the original on 2 January 2011.
+
+^ "Christaan van der Klauuw".
+
+^ a b Stephenson, Bruce; Bolt, Marvin; Friedman, Anna Felicity (2000). The Universe Unveiled: Instruments and images through history. Cambridge, UK: Cambridge University Press. pp. 108–109. ISBN 0-521-79143-X.
+
+^ "Star Names on Astrolabes". Ian Ridpath. Retrieved 12 November 2016.
+
+^ King, David A. Some Medieval Astronomical Instruments and Their Secrets, in Mazzolini, R. G. (ed.), Non-Verbal Communication in Science prior to 1900. Florence. p. 30.
+
+^ King, David A. (2018). The Astrolabe: What it is & what it is not. Frankfurt, Germany: Frankfurt.
+
+^ a b Mayer, L. A. (1956). Islamic astrolabists and their works. A. Kunding. Bibcode:1956iatw.book.....M.
+
+^ Gentili, Graziano; Simonutti, Luisa; Struppa, Daniele C. (2020). "The Mathematics of the Astrolabe and its History". Journal of Humanistic Mathematics. 10: 101–144. doi:10.5642/jhummath.202001.07. hdl:2158/1182616. S2CID 211008813.
+
+
+Bibliography[edit]
+Evans, James (1998), The History and Practice of Ancient Astronomy, Oxford University Press, ISBN 0-19-509539-1
+Stöffler, Johannes (2007) [First published 1513], Stoeffler's Elucidatio – The Construction and Use of the Astrolabe [Elucidatio Fabricae Ususque Astrolabii], translated by Gunella, Alessandro; Lamprey, John, John Lamprey, ISBN 978-1-4243-3502-2
+King, D. A. (1981), "The Origin of the Astrolabe According to the Medieval Islamic Sources", Journal for the History of Arabic Science, 5: 43–83
+King, Henry (1978), Geared to the Stars: the Evolution of Planetariums, Orreries, and Astronomical Clocks, University of Toronto Press, ISBN 978-0-8020-2312-4
+Krebs, Robert E.; Krebs, Carolyn A. (2003), Groundbreaking Scientific Experiments, Inventions, and Discoveries of the Ancient World, Greenwood Press, ISBN 978-0-313-31342-4
+Laird, Edgar (1997), Carol Poster and Richard Utz (ed.), "Astrolabes and the Construction of Time in the Late Middle Ages", Constructions of Time in the Late Middle Ages, Evanston, Illinois: Northwestern University Press: 51–69
+Laird, Edgar; Fischer, Robert, eds. (1995), "Critical edition of Pélerin de Prusse on the Astrolabe (translation of Practique de Astralabe)", Medieval & Renaissance Texts & Studies, Binghamton, New York, ISBN 0-86698-132-2
+Lewis, M. J. T. (2001), Surveying Instruments of Greece and Rome, Cambridge University Press, ISBN 978-0-511-48303-5
+Morrison, James E. (2007), The Astrolabe, Janus, ISBN 978-0-939320-30-1
+Neugebauer, Otto E. (1975), A History of Ancient Mathematical Astronomy, Springer, ISBN 978-3-642-61912-0
+North, John David (2005), God's Clockmaker: Richard of Wallingford and the Invention of Time, Continuum International Publishing Group, ISBN 978-1-85285-451-5
+External links[edit]
+
+
+
+Wikimedia Commons has media related to:
+Astrolabe (category)
+
+
+
+
+Wikisource has the text of the 1911 Encyclopædia Britannica article "Astrolabe".
+
+
+
+
+Look up astrolabe in Wiktionary, the free dictionary.
+
+Interactive digital astrolabe by Alex Boxer
+A digital astrolabe (HTML5 and javascript)
+Astrolabe Tech Made ... Not So Easy
+paper astrolabe generator, from the ESO
+"Hello World!" for the Astrolabe: The First Computer Video of Howard Covitz's Presentation at Ignite Phoenix, June 2009. Slides for Presentation Licensed as Creative Commons by-nc-nd.
+Video of Tom Wujec demonstrating an astrolabe. Archived 2012-03-23 at the Wayback Machine Taken at TEDGlobal 2009. Includes clickable transcript. Licensed as Creative Commons by-nc-nd.
+Archive of James E. Morrison's extensive website on Astrolabes
+A working model of the Dr. Ludwig Oechslin's Astrolabium Galileo Galilei watch
+Ulysse Nardin Astrolabium Galilei Galileo: A Detailed Explanation
+Fully illustrated online catalogue of world's largest collection of astrolabes
+Mobile astrolabe and horologium
+Medieval equal hour horary quadrant
+A Beginner's Guide to Basic Construction and Use of the Astrolabe (using ruler, protractor and compasses) (PDF), archived from the original (PDF) on 17 June 2015, retrieved 26 October 2018
+vteAstronomy in the medieval Islamic worldAstronomers
+by century
+8th
+Ahmad Nahavandi
+Al-Fadl ibn Naubakht
+Muḥammad ibn Ibrāhīm al-Fazārī
+Ibrāhīm al-Fazārī
+Mashallah ibn Athari
+Yaʿqūb ibn Ṭāriq
+9th
+Abu Ali al-Khayyat
+Abu Ma'shar al-Balkhi
+Abu Said Gorgani
+Al-Farghani
+Al-Kindi
+Al-Mahani
+Abu Hanifa Dinawari
+Al-Ḥajjāj ibn Yūsuf
+Al-Marwazi
+Ali ibn Isa al-Asturlabi
+Banū Mūsā brothers
+Iranshahri
+Khalid ibn Abd al‐Malik al‐Marwarrudhi
+Al-Khwarizmi
+Sahl ibn Bishr
+Thābit ibn Qurra
+Yahya ibn Abi Mansur
+10th
+al-Sufi
+Ibn
+Al-Adami
+al-Khojandi
+al-Khazin
+al-Qūhī
+Abu al-Wafa
+Ahmad ibn Yusuf
+al-Battani
+Al-Qabisi
+Ibn al-A'lam
+Al-Nayrizi
+Al-Saghani
+Aṣ-Ṣaidanānī
+Ibn Yunus
+Ibrahim ibn Sinan
+Ma Yize
+al-Sijzi
+Al-ʻIjliyyah
+Nastulus
+Abolfadl Harawi
+Haseb-i Tabari
+al-Majriti
+Abu al-Hasan al-Ahwazi
+11th
+Abu Nasr Mansur
+al-Biruni
+Ali ibn Ridwan
+Al-Zarqālī
+Ibn al-Samh
+Alhazen
+Avicenna
+Ibn al-Saffar
+Kushyar Gilani
+Said al-Andalusi
+Ibrahim ibn Said al-Sahli
+Ibn Mu'adh al-Jayyani 
+Al-Isfizari
+Ali ibn Khalaf
+12th
+Al-Bitruji
+Avempace
+Ibn Tufail
+Al-Kharaqī
+Al-Khazini
+Al-Samawal al-Maghribi
+Abu al-Salt
+Averroes
+Ibn al-Kammad
+Jabir ibn Aflah
+Omar Khayyam
+Sharaf al-Din al-Tusi
+13th
+Ibn al-Banna' al-Marrakushi
+Ibn al‐Ha'im al‐Ishbili
+Jamal ad-Din
+Alam al-Din al-Hanafi
+Najm al‐Din al‐Misri
+Muhyi al-Din al-Maghribi
+Nasir al-Din al-Tusi
+Qutb al-Din al-Shirazi
+Shams al-Din al-Samarqandi
+Zakariya al-Qazwini
+al-Urdi
+al-Abhari
+Muhammad ibn Abi Bakr al‐Farisi
+Abu Ali al-Hasan al-Marrakushi
+Ibn Ishaq al-Tunisi
+Ibn al‐Raqqam
+Al-Ashraf Umar II
+Fakhr al-Din al-Akhlati
+14th
+Ibn al-Shatir
+Al-Khalili
+Ibn Shuayb
+ al-Battiwi
+Abū al‐ʿUqūl
+Al-Wabkanawi
+Nizam al-Din al-Nisapuri
+ al-Jadiri
+Sadr al-Shari'a al-Asghar
+Fathullah Shirazi
+15th
+Ali Kuşçu
+Abd al‐Wajid
+Jamshid al-Kashi
+Kadızade Rumi
+Ulugh Beg
+Sibt al-Maridini
+Ibn al-Majdi
+al-Wafa'i
+al-Kubunani
+'Abd al-'Aziz al-Wafa'i
+16th
+Al-Birjandi
+al-Khafri
+Baha' al-din al-'Amili 
+Piri Reis
+Takiyüddin
+17th
+Yang Guangxian
+Ehmedê Xanî
+Al Achsasi al Mouakket
+Muhammad al-Rudani
+TopicsWorks
+Arabic star names
+Islamic calendar
+Aja'ib al-Makhluqat
+Encyclopedia of the Brethren of Purity
+Tabula Rogeriana
+The Book of Healing
+The Remaining Signs of Past Centuries
+Zij
+Alfonsine tables
+Huihui Lifa
+Book of Fixed Stars
+Toledan Tables
+Zij-i Ilkhani
+Zij-i Sultani
+Sullam al-sama'
+Instruments
+Alidade
+Analog computer
+Aperture
+Armillary sphere
+Astrolabe
+Astronomical clock
+Celestial globe
+Compass
+Compass rose
+Dioptra
+Equatorial ring
+Equatorium
+Globe
+Graph paper
+Mural instrument
+Navigational astrolabe
+Octant
+Planisphere
+Quadrant
+Sextant
+Shadow square
+Sundial
+Schema for horizontal sundials
+Triquetrum
+Concepts
+Almucantar
+Apogee
+Astrology
+Astrophysics
+Axial tilt
+Azimuth
+Celestial mechanics
+Celestial spheres
+Circular orbit
+Deferent and epicycle
+Earth's rotation
+Eccentricity
+Ecliptic
+Elliptic orbit
+Equant
+Galaxy
+Geocentrism
+Gravitational energy
+Gravity
+Heliocentrism
+Inertia
+Islamic cosmology
+Moonlight
+Multiverse
+Muwaqqit
+Obliquity
+Parallax
+Precession
+Qibla
+Salah times
+Specific gravity
+Spherical Earth
+Sublunary sphere
+Sunlight
+Supernova
+Temporal finitism
+Trepidation
+Triangulation
+Tusi couple
+Universe
+Institutions
+Al-Azhar University
+House of Knowledge
+House of Wisdom
+University of al-Qarawiyyin
+Observatories
+Constantinople (Taqi al-Din)
+Maragheh
+Samarkand (Ulugh Beg)
+Influences
+Babylonian astronomy
+Egyptian astronomy
+Hellenistic astronomy
+Indian astronomy
+Influenced
+Byzantine science
+Chinese astronomy
+Medieval European science
+Indian astronomy
+
+vteAncient Greek astronomyAstronomers
+Aglaonice
+Agrippa
+Anaximander
+Andronicus
+Apollonius
+Aratus
+Aristarchus
+Aristyllus
+Attalus
+Autolycus
+Bion
+Callippus
+Cleomedes
+Cleostratus
+Conon
+Eratosthenes
+Euctemon
+Eudoxus
+Geminus
+Heraclides
+Hicetas
+Hipparchus
+Hippocrates of Chios
+Hypsicles
+Menelaus
+Meton
+Oenopides
+Philip of Opus
+Philolaus
+Posidonius
+Ptolemy
+Pytheas
+Seleucus
+Sosigenes of Alexandria
+Sosigenes the Peripatetic
+Strabo
+Thales
+Theodosius
+Theon of Alexandria
+Theon of Smyrna
+Timocharis
+Works
+Almagest (Ptolemy)
+Catasterismi (Eratosthenes)
+On Sizes and Distances (Hipparchus)
+On the Sizes and Distances (Aristarchus)
+On the Heavens (Aristotle)
+Instruments
+Antikythera mechanism
+Armillary sphere
+Astrolabe
+Dioptra
+Equatorial ring
+Gnomon
+Mural instrument
+Triquetrum
+Concepts
+Callippic cycle
+Celestial spheres
+Circle of latitude
+Counter-Earth
+Deferent and epicycle
+Equant
+Geocentrism
+Heliocentrism
+Hipparchic cycle
+Inferior and superior planets
+Metonic cycle
+Octaeteris
+Solstice
+Spherical Earth
+Sublunary sphere
+Zodiac
+Influences
+Babylonian astronomy
+Egyptian astronomy
+Influenced
+Medieval European science
+Indian astronomy
+Medieval Islamic astronomy
+
+Portals: Astronomy Stars Spaceflight Outer space Solar System
+Authority control databases NationalGermanyUnited StatesFranceBnF dataJapanCzech RepublicIsraelOtherİslâm Ansiklopedisi
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Astrolabe&oldid=1280618682"
+Categories: Analog computersAncient Greek astronomyAncient Greek technologyAstrometryAstronomical instrumentsAstronomy in the medieval Islamic worldGreek inventionsHistorical scientific instrumentsInclinometersMarine navigationMechanical calculatorsNavigational equipmentTechnology in the medieval Islamic worldScientific equipmentHidden categories: CS1: long volume valueCS1 Latin-language sources (la)CS1 French-language sources (fr)CS1 German-language sources (de)Articles with short descriptionShort description is different from WikidataUse dmy dates from November 2024Articles containing Ancient Greek (to 1453)-language textArticles containing Arabic-language textArticles containing Persian-language textAll articles with unsourced statementsArticles with unsourced statements from March 2024Webarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 15 March 2025, at 15:29 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Astrolabe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

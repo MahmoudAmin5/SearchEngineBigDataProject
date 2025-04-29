@@ -1,0 +1,634 @@
+https://en.wikipedia.org/wiki/Z2_(computer)
+
+
+
+
+Z2 (computer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Specifications
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+Further reading
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Z2 (computer)
+
+
+
+13 languages
+
+
+
+
+CatalàDanskDeutschΕλληνικάEspañolFrançais한국어Italiano日本語PolskiPortuguêsРусскийSvenska
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+1940 electromechanical computer
+
+
+Z2Drawing of the Zuse Z2DeveloperKonrad ZuseTypeElectromechanical (mechanical and relay-based) digital computerRelease date1940; 85 years ago (1940)CPU600 electrical relay circuits @ ca. 5 HzMemory64 wordsRemovable storagePunch cardsPower1000 wattsWeight300 kg (660 lb)PredecessorZ1SuccessorZ3
+The Z2 was an electromechanical (mechanical and relay-based) digital computer that was completed by Konrad Zuse in 1940.[1][2][3] It was an improvement on the Z1 Zuse built in his parents' home, which used the same mechanical memory. In the Z2, he replaced the arithmetic and control logic with 600 electrical relay circuits, weighing over 600 pounds. 
+The Z2 could read 64 words from punch cards. Photographs and plans for the Z2 were destroyed by the Allied bombing during World War II.[4] In contrast to the Z1, the Z2 used 16-bit fixed-point arithmetic instead of 22-bit floating point.
+Zuse presented the Z2 in 1940 to members of the DVL[1][2][3] (today DLR) and member Alfred Teichmann [de], whose support helped fund the successor model Z3.[5]
+
+
+Specifications[edit]
+
+
+Frequency
+
+Ca. 5 Hertz
+
+
+Arithmetic Unit
+
+Fixed point arithmetic unit with 16 bit word length
+
+
+Average calculation Speed
+
+0.8 sec for addition operation
+
+
+Number of Relays
+
+600
+
+
+Memory
+
+64 words (same as Z1)
+
+
+Power Consumption
+
+1000 watts
+
+
+Weight
+
+300 kg (660 lb)
+[6]
+See also[edit]
+Z4
+References[edit]
+
+
+^ a b Weiss, Eric A. (Summer 1996). "Konrad Zuse Obituary". IEEE Annals of the History of Computing. 18 (2): 3–4. doi:10.1109/mahc.1996.489747. ISSN 1058-6180.(NB. Z1 and Z2.)
+
+^ a b Williams, Michael Roy (1985). A history of computing technology. Prentice-Hall. p. 219. ISBN 978-0-13389917-7. Retrieved 2022-07-10. (NB. Also search the book for Luftfahrt - further part.)
+
+^ a b De Mol, Liesbeth (2007). "Chapter 4.1.3 Zuse's Z1, Z2, Z3, Z4 and Plankalkül". Tracing Unsolvability. A Mathematical, Historical and Philosophical Analysis with a Special Focus on Tag Systems (PDF). p. 212. Archived (PDF) from the original on 2022-03-16. Retrieved 2018-05-12. [1] (xii+679 pages)
+
+^ Zuse, Horst (2000). "Konrad Zuse's Z1 and Z3 Computers". The Life and Work of Konrad Zuse. EPE Online. Archived from the original on 2008-06-01. Retrieved 2008-06-17.
+
+^ Hellige, Hans Dieter, ed. (2004). Geschichten der Informatik. Visionen, Paradigmen, Leitmotive (in German). Berlin, Germany: Springer-Verlag. p. 115. ISBN 3-540-00217-0.
+
+^ Zuse, Horst (2015). "Z2 Data Sheet". Archived from the original on 2022-02-22. Retrieved 2015-02-09.
+
+
+Further reading[edit]
+Rojas, Raúl (Spring 2006) [2005-05-12]. "The Zuse Computers". Resurrection - The Bulletin of the Computer Conservation Society (edited transscript of speech). Vol. 37. Computing Before Computers seminar, Science Museum: Computer Conservation Society (CCS). ISSN 0958-7403. Archived from the original on 2022-06-25. Retrieved 2008-07-26.
+External links[edit]
+Z2 via Horst Zuse (son) web page
+vteComputer hardware designed by Konrad ZuseComputers
+Z1 (1938)
+Z2 (1940)
+Z3 (1941)
+Z4 (1945)
+Z5 (1953)
+Z11 (1955)
+Z22 (1955)
+Z23 (1961)
+Z25 (1963)
+Z31 (1963)
+Technical Drawing
+Z60 (1956)
+Planimeter Z80 (1960)
+Graphomat Z64 (1961)
+Military Computers
+S1 (1942)
+S2 (1943)
+
+This computer hardware article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Z2_(computer)&oldid=1283905602"
+Categories: Electro-mechanical computersOne-of-a-kind computersMechanical computersComputer-related introductions in 1940Konrad ZuseGerman inventions of the Nazi period1940s computersComputers designed in GermanyComputer hardware stubsHidden categories: CS1 German-language sources (de)Articles with short descriptionShort description is different from WikidataUse dmy dates from July 2022Use list-defined references from July 2022All stub articles
+
+
+
+
+
+
+ This page was last edited on 4 April 2025, at 11:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Z2 (computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

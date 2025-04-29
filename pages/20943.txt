@@ -1,0 +1,2672 @@
+https://en.wikipedia.org/wiki/Metal%E2%80%93oxide%E2%80%93semiconductor
+
+
+
+
+MOSFET - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Composition
+
+
+
+
+
+
+
+
+3
+Operation
+
+
+
+
+Toggle Operation subsection
+
+
+
+
+
+3.1
+Metal–oxide–semiconductor structure
+
+
+
+
+
+
+
+
+3.2
+MOS capacitors and band diagrams
+
+
+
+
+
+
+
+
+3.3
+Structure and channel formation
+
+
+
+
+
+
+
+
+3.4
+Modes of operation
+
+
+
+
+
+
+3.4.1
+Cutoff, subthreshold, and weak-inversion mode
+
+
+
+
+
+
+
+
+3.4.2
+Triode mode or linear region (also known as the ohmic mode)
+
+
+
+
+
+
+
+
+3.4.3
+Saturation or active mode
+
+
+
+
+
+
+
+
+
+
+3.5
+Body effect
+
+
+
+
+
+
+
+
+
+
+4
+Circuit symbols
+
+
+
+
+
+
+
+
+5
+Applications
+
+
+
+
+Toggle Applications subsection
+
+
+
+
+
+5.1
+MOS integrated circuits
+
+
+
+
+
+
+
+
+5.2
+CMOS circuits
+
+
+
+
+
+
+5.2.1
+Digital
+
+
+
+
+
+
+
+
+5.2.2
+Analog
+
+
+
+
+
+
+
+
+
+
+5.3
+Analog switches
+
+
+
+
+
+
+5.3.1
+Single-type
+
+
+
+
+
+
+
+
+5.3.2
+Dual-type (CMOS)
+
+
+
+
+
+
+
+
+
+
+
+
+6
+Construction
+
+
+
+
+Toggle Construction subsection
+
+
+
+
+
+6.1
+Gate material
+
+
+
+
+
+
+
+
+6.2
+Insulator
+
+
+
+
+
+
+
+
+6.3
+Junction design
+
+
+
+
+
+
+
+
+
+
+7
+Scaling
+
+
+
+
+Toggle Scaling subsection
+
+
+
+
+
+7.1
+Higher subthreshold conduction
+
+
+
+
+
+
+
+
+7.2
+Increased gate-oxide leakage
+
+
+
+
+
+
+
+
+7.3
+Increased junction leakage
+
+
+
+
+
+
+
+
+7.4
+Drain-induced barrier lowering and VT roll off
+
+
+
+
+
+
+
+
+7.5
+Lower output resistance
+
+
+
+
+
+
+
+
+7.6
+Lower transconductance
+
+
+
+
+
+
+
+
+7.7
+Interconnect capacitance
+
+
+
+
+
+
+
+
+7.8
+Heat production
+
+
+
+
+
+
+
+
+7.9
+Process variations
+
+
+
+
+
+
+
+
+7.10
+Modeling challenges
+
+
+
+
+
+
+
+
+
+
+8
+Other types
+
+
+
+
+Toggle Other types subsection
+
+
+
+
+
+8.1
+Dual-gate
+
+
+
+
+
+
+
+
+8.2
+Depletion-mode
+
+
+
+
+
+
+
+
+8.3
+Metal–insulator–semiconductor field-effect transistor (MISFET)
+
+
+
+
+
+
+
+
+8.4
+NMOS logic
+
+
+
+
+
+
+
+
+8.5
+Power MOSFET
+
+
+
+
+
+
+
+
+8.6
+Double-diffused metal–oxide–semiconductor (DMOS)
+
+
+
+
+
+
+
+
+8.7
+Radiation-hardened-by-design (RHBD)
+
+
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+MOSFET
+
+
+
+45 languages
+
+
+
+
+العربيةAzərbaycancaবাংলাभोजपुरीБългарскиCatalàČeštinaDanskDeutschEestiEspañolEuskaraفارسیFrançais한국어हिन्दीBahasa IndonesiaItalianoעבריתLietuviųМакедонскиМонголNederlands日本語Norsk nynorskPolskiPortuguêsRomânăРусскийShqipSimple EnglishSlovenčinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்ไทยTürkçeУкраїнськаاردوTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Metal–oxide–semiconductor)
+Type of field-effect transistor
+Two power MOSFETs in D2PAK surface-mount packages. Operating as switches, each of these components can sustain a blocking voltage of 120 V in the off state, and can conduct a con­ti­nuous current of 30 A in the on state, dissipating up to about 100 W and controlling a load of over 2000 W. A matchstick is pictured for scale.
+In electronics, the metal–oxide–semiconductor field-effect transistor (MOSFET, MOS-FET, MOS FET, or MOS transistor) is a type of field-effect transistor (FET), most commonly fabricated by the controlled oxidation of silicon. It has an insulated gate, the voltage of which determines the conductivity of the device. This ability to change conductivity with the amount of applied voltage can be used for amplifying or switching electronic signals. The term metal–insulator–semiconductor field-effect transistor (MISFET) is almost synonymous with MOSFET. Another near-synonym is insulated-gate field-effect transistor (IGFET).
+Physicist Julius Edgar Lilienfeld first proposed the concept of a field-effect transistor (FET) in 1925, but it was not possible to construct a working device at that time.[1] The first working metal–oxide–semiconductor field-effect transistor (MOSFET) was invented in 1959 by engineers Mohamed Atalla and Dawon Kahng at Bell Labs.[2] Their breakthrough—fabricating a functional FET using the method of thermal oxidation—revolutionized electronics and paved the way for smaller and cheaper radios, calculators, computers, and other electronic devices.[3]
+The main advantage of a MOSFET is that it requires almost no input current to control the load current under steady-state or low-frequency conditions, especially compared to bipolar junction transistors (BJTs). However, at high frequencies or when switching rapidly, a MOSFET may require significant current to charge and discharge its gate capacitance. In an enhancement mode MOSFET, voltage applied to the gate terminal increases the conductivity of the device. In depletion mode transistors, voltage applied at the gate reduces the conductivity.[4]
+The "metal" in the name MOSFET is sometimes a misnomer, because the gate material can be a layer of polysilicon (polycrystalline silicon). Similarly, "oxide" in the name can also be a misnomer, as different dielectric materials are used with the aim of obtaining strong channels with smaller applied voltages.
+The MOSFET is by far the most common transistor in digital circuits, as billions may be included in a memory chip or microprocessor. As MOSFETs can be made with either p-type or n-type semiconductors, complementary pairs of MOS transistors can be used to make switching circuits with very low power consumption, in the form of CMOS logic.
+
+A cross-section through an nMOSFET when the gate voltage VGS is below the threshold for making a conductive channel; there is little or no conduction between the terminals drain and source; the switch is off. When the gate is more positive, it attracts electrons, inducing an n-type conductive channel in the substrate below the oxide (yellow), which allows electrons to flow between the n-doped terminals; the switch is on.
+
+History[edit]
+The basic principle of the field-effect transistor was first patented by Julius Edgar Lilienfeld in 1925.[5] In 1934, inventor Oskar Heil independently patented a similar device in Europe.[6]
+In the 1940s, Bell Labs scientists William Shockley, John Bardeen and Walter Houser Brattain attempted to build a field-effect device, which led to their discovery of the transistor effect. However, the structure failed to show the anticipated effects, due to the problem of surface states: traps on the semiconductor surface that hold electrons immobile. With no surface passivation, they were only able to build the BJT and thyristor transistors. 
+In 1955, Carl Frosch and Lincoln Derick accidentally grew a layer of silicon dioxide over the silicon wafer, for which they observed surface passivation effects.[7][8] By 1957 Frosch and Derick, using masking and predeposition, were able to manufacture silicon dioxide field effect transistors; the first planar transistors, in which drain and source were adjacent at the same surface.[9] They showed that silicon dioxide insulated, protected silicon wafers and prevented dopants from diffusing into the wafer.[7][10] At Bell Labs, the importance of Frosch and Derick technique and transistors was immediately realized. Results of their work circulated around Bell Labs in the form of BTL memos before being published in 1957. At Shockley Semiconductor, Shockley had circulated the preprint of their article in December 1956 to all his senior staff, including Jean Hoerni,[11][12][13][14] who would later invent the planar process in 1959 while at Fairchild Semiconductor.[15][16]
+
+1957, Diagram of one of the SiO2 transistor devices made by Frosch and Derick[17]After this, J.R. Ligenza and W.G. Spitzer studied the mechanism of thermally grown oxides, fabricated a high quality Si/SiO2 stack and published their results in 1960.[18][19][20] Following this research, Mohamed Atalla and Dawon Kahng proposed a silicon MOS transistor in 1959[21] and successfully demonstrated a working MOS device with their Bell Labs team in 1960.[22][23] Their team included E. E. LaBate and E. I. Povilonis who fabricated the device; M. O. Thurston, L. A. D’Asaro, and J. R. Ligenza who developed the diffusion processes, and H. K. Gummel and R. Lindner who characterized the device.[24][25] This was a culmination of decades of field-effect research that began with Lilienfeld.
+Simulation of formation of inversion channel (electron density) and attainment of threshold vol­tage (IV) in a nanowire MOSFET. Note: Threshold voltage for this device lies around 0.45 V.
+The first MOS transistor at Bell Labs was about 100 times slower than contemporary bipolar transistors and was initially seen as inferior. Nevertheless, Kahng pointed out several advantages of the device, notably ease of fabrication and its application in integrated circuits.[26]
+
+Composition[edit]
+Photomicrograph of two metal-gate MOSFETs in a test pattern. Probe pads for two gates and three source/drain nodes are labeled.
+Usually the semiconductor of choice is silicon. Some chip manufacturers, most notably IBM and Intel, use an alloy of silicon and germanium (SiGe) in MOSFET channels.[citation needed] Many semiconductors with better electrical properties than silicon, such as gallium arsenide, do not form good semiconductor-to-insulator interfaces, and thus are not suitable for MOSFETs. Research continues on creating insulators with acceptable electrical characteristics on other semiconductor materials.
+To overcome the increase in power consumption due to gate current leakage, a high-κ dielectric is used instead of silicon dioxide for the gate insulator, while polysilicon is replaced by metal gates (e.g. Intel, 2009).[27]
+The gate is separated from the channel by a thin insulating layer, traditionally of silicon dioxide and later of silicon oxynitride. Some companies use a high-κ dielectric and metal gate combination in the 45 nanometer node.
+When a voltage is applied between the gate and the source, the electric field generated penetrates through the oxide and creates an inversion layer or channel at the semiconductor-insulator interface. The inversion layer provides a channel through which current can pass between source and drain terminals. Varying the voltage between the gate and body modulates the conductivity of this layer and thereby controls the current flow between drain and source. This is known as enhancement mode.
+
+Operation[edit]
+Metal–oxide–semiconductor structure on p-type silicon
+Metal–oxide–semiconductor structure[edit]
+The traditional metal–oxide–semiconductor (MOS) structure is obtained by growing a layer of silicon dioxide (SiO2) on top of a silicon substrate, commonly by thermal oxidation and depositing a layer of metal or polycrystalline silicon (the latter is commonly used). As silicon dioxide is a dielectric material, its structure is equivalent to a planar capacitor, with one of the electrodes replaced by a semiconductor.
+When a voltage is applied across a MOS structure, it modifies the distribution of charges in the semiconductor. If we consider a p-type semiconductor (with NA the density of acceptors, p the density of holes; p = NA in neutral bulk), a positive voltage, VG, from gate to body (see figure) creates a depletion layer by forcing the positively charged holes away from the gate-insulator/semiconductor interface, leaving exposed a carrier-free region of immobile, negatively charged acceptor ions (see doping). If VG is high enough, a high concentration of negative charge carriers forms in an inversion layer located in a thin layer next to the interface between the semiconductor and the insulator.
+Conventionally, the gate voltage at which the volume density of electrons in the inversion layer is the same as the volume density of holes in the body is called the threshold voltage. When the voltage between transistor gate and source (VG) exceeds the threshold voltage (Vth), the difference is known as overdrive voltage.
+This structure with p-type body is the basis of the n-type MOSFET, which requires the addition of n-type source and drain regions.
+
+MOS capacitors and band diagrams[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2019) (Learn how and when to remove this message)
+The MOS capacitor structure is the heart of the MOSFET. Consider a MOS capacitor where the silicon base is of p-type. If a positive voltage is applied at the gate, holes which are at the surface of the p-type substrate will be repelled by the electric field generated by the voltage applied. At first, the holes will simply be repelled and what will remain on the surface will be immobile (negative) atoms of the acceptor type, which creates a depletion region on the surface. A hole is created by an acceptor atom, e.g., boron, which has one less electron than a silicon atom. Holes are not actually repelled, being non-entities; electrons are attracted by the positive field, and fill these holes. This creates a depletion region where no charge carriers exist because the electron is now fixed onto the atom and immobile.
+As the voltage at the gate increases, there will be a point at which the surface above the depletion region will be converted from p-type into n-type, as electrons from the bulk area will start to get attracted by the larger electric field. This is known as inversion. The threshold voltage at which this conversion happens is one of the most important parameters in a MOSFET.
+In the case of a p-type MOSFET, bulk inversion happens when the intrinsic energy level at the surface becomes smaller than the Fermi level at the surface. This can be seen on a band diagram. The Fermi level defines the type of semiconductor in discussion. If the Fermi level is equal to the Intrinsic level, the semiconductor is of intrinsic, or pure type. If the Fermi level lies closer to the conduction band (valence band) then the semiconductor type will be of n-type (p-type).
+When the gate voltage is increased in a positive sense (for the given example),[clarify]  this will shift the intrinsic energy level band so that it will curve downwards towards the valence band. If the Fermi level lies closer to the valence band (for p-type), there will be a point when the Intrinsic level will start to cross the Fermi level and when the voltage reaches the threshold voltage, the intrinsic level does cross the Fermi level, and that is what is known as inversion. At that point, the surface of the semiconductor is inverted from p-type into n-type.
+If the Fermi level lies above the intrinsic level, the semiconductor is of n-type, therefore at inversion, when the intrinsic level reaches and crosses the Fermi level (which lies closer to the valence band), the semiconductor type changes at the surface as dictated by the relative positions of the Fermi and Intrinsic energy levels.
+
+Structure and channel formation[edit]
+See also: Field effect (semiconductor)
+Channel formation in nMOS MOSFET shown as band diagram: Top panels: An applied gate voltage bends bands, depleting holes from surface (left). The charge inducing the bending is balanced by a layer of negative acceptor-ion charge (right). Bottom panel: A larger applied voltage further depletes holes but conduction band lowers enough in energy to populate a conducting channel.
+C–V profile for a bulk MOSFET with different oxide thickness. The leftmost part of the curve corresponds to accumulation. The valley in the middle corresponds to depletion. The curve on the right corresponds to inversion.
+A MOSFET is based on the modulation of charge concentration by a MOS capacitance between a body electrode and a gate electrode located above the body and insulated from all other device regions by a gate dielectric layer. If dielectrics other than an oxide are employed, the device may be referred to as a metal-insulator-semiconductor FET (MISFET). Compared to the MOS capacitor, the MOSFET includes two additional terminals (source and drain), each connected to individual highly doped regions that are separated by the body region. These regions can be either p or n type, but they must both be of the same type, and of opposite type to the body region. The source and drain (unlike the body) are highly doped as signified by a "+" sign after the type of doping.
+If the MOSFET is an n-channel or nMOS FET, then the source and drain are n+ regions and the body is a p region. If the MOSFET is a p-channel or pMOS FET, then the source and drain are p+ regions and the body is a n region. The source is so named because it is the source of the charge carriers (electrons for n-channel, holes for p-channel) that flow through the channel; similarly, the drain is where the charge carriers leave the channel.
+The occupancy of the energy bands in a semiconductor is set by the position of the Fermi level relative to the semiconductor energy-band edges.
+
+See also: Depletion region
+With sufficient gate voltage, the valence band edge is driven far from the Fermi level, and holes from the body are driven away from the gate.
+At larger gate bias still, near the semiconductor surface the conduction band edge is brought close to the Fermi level, populating the surface with electrons in an inversion layer or n-channel at the interface between the p region and the oxide. This conducting channel extends between the source and the drain, and current is conducted through it when a voltage is applied between the two electrodes. Increasing the voltage on the gate leads to a higher electron density in the inversion layer and therefore increases the current flow between the source and drain. For gate voltages below the threshold value, the channel is lightly populated, and only a very small subthreshold leakage current can flow between the source and the drain.
+When a negative gate-source voltage (positive source-gate) is applied, it creates a p-channel at the surface of the n region, analogous to the n-channel case, but with opposite polarities of charges and voltages. When a voltage less negative than the threshold value (a negative voltage for the p-channel) is applied between gate and source, the channel disappears and only a very small subthreshold current can flow between the source and the drain. The device may comprise a silicon on insulator device in which a buried oxide is formed below a thin semiconductor layer. If the channel region between the gate dielectric and the buried oxide region is very thin, the channel is referred to as an ultrathin channel region with the source and drain regions formed on either side in or above the thin semiconductor layer. Other semiconductor materials may be employed. When the source and drain regions are formed above the channel in whole or in part, they are referred to as raised source/drain regions.
+
+
+Comparison of n- and p-type MOSFETs[28]
+
+
+Parameter
+
+nMOSFET
+
+pMOSFET
+
+
+Source/drain type
+
+n-type
+
+p-type
+
+
+Channel type(MOS capacitor)
+
+n-type
+
+p-type
+
+
+Gatetype
+
+Polysilicon
+
+n+
+
+p+
+
+
+Metal
+
+φm ~ Si conduction band
+
+φm ~ Si valence band
+
+
+Well type
+
+p-type
+
+n-type
+
+
+Threshold voltage, Vth
+
+Positive (enhancement)Negative (depletion)
+
+Negative (enhancement)Positive (depletion)
+
+
+Band-bending
+
+Downwards
+
+Upwards
+
+
+Inversion layer carriers
+
+Electrons
+
+Holes
+
+
+Substrate type
+
+p-type
+
+n-type
+
+Modes of operation[edit]
+Source tied to the body to ensure no body bias:top left: Subthreshold, top right: Ohmic mode, bottom left: Active mode at onset of pinch-off, bottom right: Active mode well into pinch-off – channel length modulation evident
+Example application of an n-channel MOSFET. When the switch is pushed, the LED lights up.[29]
+The operation of a MOSFET can be separated into three different modes, depending on the voltages at the terminals. In the following discussion, a simplified algebraic model is used.[30] Modern MOSFET characteristics are more complex than the algebraic model presented here.[31]
+For an enhancement-mode, n-channel MOSFET, the three operational modes are:
+
+Cutoff, subthreshold, and weak-inversion mode[edit]
+When VGS < Vth:
+where 
+
+
+
+
+V
+
+GS
+
+
+
+
+{\displaystyle V_{\text{GS}}}
+
+ is gate-to-source bias and 
+
+
+
+
+V
+
+th
+
+
+
+
+{\displaystyle V_{\text{th}}}
+
+ is the threshold voltage of the device.
+According to the basic threshold model, the transistor is turned off, and there is no conduction between drain and source. A more accurate model considers the effect of thermal energy on the Fermi–Dirac distribution of electron energies which allow some of the more energetic electrons at the source to enter the channel and flow to the drain. This results in a subthreshold current that is an exponential function of gate-source voltage. While the current between drain and source should ideally be zero when the transistor is being used as a turned-off switch, there is a weak-inversion current, sometimes called subthreshold leakage.
+In weak inversion where the source is tied to bulk, the current varies exponentially with 
+
+
+
+
+V
+
+GS
+
+
+
+
+{\displaystyle V_{\text{GS}}}
+
+ as given approximately by:[32][33]
+
+
+
+
+
+I
+
+D
+
+
+≈
+
+I
+
+D0
+
+
+
+e
+
+
+
+
+V
+
+GS
+
+
+−
+
+V
+
+th
+
+
+
+
+n
+
+V
+
+T
+
+
+
+
+
+
+,
+
+
+{\displaystyle I_{\text{D}}\approx I_{\text{D0}}e^{\frac {V_{\text{GS}}-V_{\text{th}}}{nV_{\text{T}}}},}
+
+
+where 
+
+
+
+
+I
+
+D0
+
+
+
+
+{\displaystyle I_{\text{D0}}}
+
+ = current at 
+
+
+
+
+V
+
+GS
+
+
+=
+
+V
+
+th
+
+
+
+
+{\displaystyle V_{\text{GS}}=V_{\text{th}}}
+
+, the thermal voltage 
+
+
+
+
+V
+
+T
+
+
+=
+k
+T
+
+/
+
+q
+
+
+{\displaystyle V_{\text{T}}=kT/q}
+
+ and the slope factor n is given by:
+
+
+
+
+n
+=
+1
++
+
+
+
+C
+
+dep
+
+
+
+C
+
+ox
+
+
+
+
+,
+
+
+{\displaystyle n=1+{\frac {C_{\text{dep}}}{C_{\text{ox}}}},}
+
+
+with 
+
+
+
+
+C
+
+dep
+
+
+
+
+{\displaystyle C_{\text{dep}}}
+
+ = capacitance of the depletion layer and 
+
+
+
+
+C
+
+ox
+
+
+
+
+{\displaystyle C_{\text{ox}}}
+
+ = capacitance of the oxide layer. This equation is generally used, but is only an adequate approximation for the source tied to the bulk. For the source not tied to the bulk, the subthreshold equation for drain current in saturation is[34][35]
+
+
+
+
+
+I
+
+D
+
+
+≈
+
+I
+
+D0
+
+
+
+e
+
+
+
+
+V
+
+G
+
+
+−
+
+V
+
+th
+
+
+
+
+n
+
+V
+
+T
+
+
+
+
+
+
+
+e
+
+−
+
+
+
+V
+
+S
+
+
+
+V
+
+T
+
+
+
+
+
+
+.
+
+
+{\displaystyle I_{\text{D}}\approx I_{\text{D0}}e^{\frac {V_{\text{G}}-V_{\text{th}}}{nV_{\text{T}}}}e^{-{\frac {V_{\text{S}}}{V_{\text{T}}}}}.}
+
+
+In a long-channel device, there is no drain voltage dependence of the current once 
+
+
+
+
+V
+
+DS
+
+
+≫
+
+V
+
+T
+
+
+
+
+{\displaystyle V_{\text{DS}}\gg V_{\text{T}}}
+
+, but as channel length is reduced drain-induced barrier lowering introduces drain voltage dependence that depends in a complex way upon the device geometry (for example, the channel doping, the junction doping and so on). Frequently, threshold voltage Vth for this mode is defined as the gate voltage at which a selected value of current ID0 occurs, for example, ID0 = 1 μA, which may not be the same Vth-value used in the equations for the following modes.
+Some micropower analog circuits are designed to take advantage of subthreshold conduction.[36][37][38] By working in the weak-inversion region, the MOSFETs in these circuits deliver the highest possible transconductance-to-current ratio, namely: 
+
+
+
+
+g
+
+m
+
+
+
+/
+
+
+I
+
+D
+
+
+=
+1
+
+/
+
+
+(
+
+n
+
+V
+
+T
+
+
+
+)
+
+
+
+{\displaystyle g_{m}/I_{\text{D}}=1/\left(nV_{\text{T}}\right)}
+
+, almost that of a bipolar transistor.[39]
+The subthreshold I–V curve depends exponentially upon threshold voltage, introducing a strong dependence on any manufacturing variation that affects threshold voltage; for example: variations in oxide thickness, junction depth, or body doping that change the degree of drain-induced barrier lowering. The resulting sensitivity to fabricational variations complicates optimization for leakage and performance.[40][41]
+
+MOSFET drain current vs. drain-to-source voltage for several values of 
+
+
+
+
+V
+
+GS
+
+
+−
+
+V
+
+th
+
+
+
+
+{\displaystyle V_{\text{GS}}-V_{\text{th}}}
+
+; the boundary between linear (Ohmic) and saturation (active) modes is indicated by the upward curving parabola.
+Cross section of a MOSFET operating in the linear (Ohmic) region; strong inversion region present even near drain.
+Cross section of a MOSFET operating in the saturation (active) region; channel exhibits channel pinching near drain.
+Triode mode or linear region (also known as the ohmic mode)[edit]
+When VGS > Vth and VDS < VGS − Vth:
+The transistor is turned on, and a channel has been created which allows current between the drain and the source. The MOSFET operates like a resistor, controlled by the gate voltage relative to both the source and drain voltages. The current from drain to source is modeled as:
+
+
+
+
+
+I
+
+D
+
+
+=
+
+μ
+
+n
+
+
+
+C
+
+ox
+
+
+
+
+W
+L
+
+
+
+(
+
+
+(
+
+
+V
+
+GS
+
+
+−
+
+V
+
+
+t
+h
+
+
+
+
+)
+
+
+V
+
+DS
+
+
+−
+
+
+
+
+
+V
+
+DS
+
+
+
+
+2
+
+
+2
+
+
+
+)
+
+
+
+{\displaystyle I_{\text{D}}=\mu _{n}C_{\text{ox}}{\frac {W}{L}}\left(\left(V_{\text{GS}}-V_{\rm {th}}\right)V_{\text{DS}}-{\frac {{V_{\text{DS}}}^{2}}{2}}\right)}
+
+
+where 
+
+
+
+
+μ
+
+n
+
+
+
+
+{\displaystyle \mu _{n}}
+
+ is the charge-carrier effective mobility, 
+
+
+
+W
+
+
+{\displaystyle W}
+
+ is the gate width, 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ is the gate length and 
+
+
+
+
+C
+
+ox
+
+
+
+
+{\displaystyle C_{\text{ox}}}
+
+ is the gate oxide capacitance per unit area. The transition from the exponential subthreshold region to the triode region is not as sharp as the equations suggest.[42][43][verification needed]
+
+Saturation or active mode[edit]
+When VGS > Vth and VDS ≥ (VGS – Vth):
+The switch is turned on, and a channel has been created, which allows current between the drain and source. Since the drain voltage is higher than the source voltage, the electrons spread out, and conduction is not through a narrow channel but through a broader, two- or three-dimensional current distribution extending away from the interface and deeper in the substrate. The onset of this region is also known as pinch-off to indicate the lack of channel region near the drain. Although the channel does not extend the full length of the device, the electric field between the drain and the channel is very high, and conduction continues. The drain current is now weakly dependent upon drain voltage and controlled primarily by the gate-source voltage, and modeled approximately as:
+
+
+
+
+
+I
+
+D
+
+
+=
+
+
+
+
+μ
+
+n
+
+
+
+C
+
+ox
+
+
+
+2
+
+
+
+
+W
+L
+
+
+
+
+[
+
+
+V
+
+GS
+
+
+−
+
+V
+
+th
+
+
+
+]
+
+
+2
+
+
+
+[
+
+1
++
+λ
+
+V
+
+DS
+
+
+
+]
+
+.
+
+
+{\displaystyle I_{\text{D}}={\frac {\mu _{n}C_{\text{ox}}}{2}}{\frac {W}{L}}\left[V_{\text{GS}}-V_{\text{th}}\right]^{2}\left[1+\lambda V_{\text{DS}}\right].}
+
+
+The additional factor involving λ, the channel-length modulation parameter, models current dependence on drain voltage due to the Early effect, or channel length modulation. According to this equation, a key design parameter, the MOSFET transconductance is:
+
+
+
+
+
+g
+
+m
+
+
+=
+
+
+
+∂
+
+I
+
+D
+
+
+
+
+∂
+
+V
+
+GS
+
+
+
+
+
+=
+
+
+
+2
+
+I
+
+D
+
+
+
+
+
+V
+
+GS
+
+
+−
+
+V
+
+th
+
+
+
+
+
+=
+
+
+
+2
+
+I
+
+D
+
+
+
+
+V
+
+ov
+
+
+
+
+,
+
+
+{\displaystyle g_{m}={\frac {\partial I_{D}}{\partial V_{\text{GS}}}}={\frac {2I_{\text{D}}}{V_{\text{GS}}-V_{\text{th}}}}={\frac {2I_{\text{D}}}{V_{\text{ov}}}},}
+
+
+where the combination Vov = VGS − Vth is called the overdrive voltage,[44] and where VDSsat = VGS − Vth accounts for a small discontinuity in 
+
+
+
+
+I
+
+D
+
+
+
+
+{\displaystyle I_{\text{D}}}
+
+ which would otherwise appear at the transition between the triode and saturation regions.
+Another key design parameter is the MOSFET output resistance rout given by:
+
+
+
+
+
+r
+
+out
+
+
+=
+
+
+1
+
+λ
+
+I
+
+D
+
+
+
+
+
+
+
+{\displaystyle r_{\text{out}}={\frac {1}{\lambda I_{\text{D}}}}}
+
+.
+rout is the inverse of gDS where 
+
+
+
+
+g
+
+DS
+
+
+=
+
+
+
+∂
+
+I
+
+DS
+
+
+
+
+∂
+
+V
+
+DS
+
+
+
+
+
+
+
+{\displaystyle g_{\text{DS}}={\frac {\partial I_{\text{DS}}}{\partial V_{\text{DS}}}}}
+
+. ID is the expression in saturation region.
+If λ is taken as zero, an infinite output resistance of the device results that leads to unrealistic circuit predictions, particularly in analog circuits.
+As the channel length becomes very short, these equations become quite inaccurate. New physical effects arise. For example, carrier transport in the active mode may become limited by velocity saturation. When velocity saturation dominates, the saturation drain current is more nearly linear than quadratic in VGS. At even shorter lengths, carriers transport with near zero scattering, known as quasi-ballistic transport. In the ballistic regime, the carriers travel at an injection velocity that may exceed the saturation velocity and approaches the Fermi velocity at high inversion charge density. In addition, drain-induced barrier lowering increases off-state (cutoff) current and requires an increase in threshold voltage to compensate, which in turn reduces the saturation current.[45][46][verification needed]
+
+Body effect[edit]
+Band diagram showing body effect. VSB splits Fermi levels Fn for electrons and Fp for holes, requiring larger VGB to populate the conduction band in an nMOS MOSFET.
+The occupancy of the energy bands in a semiconductor is set by the position of the Fermi level relative to the semiconductor energy-band edges. Application of a source-to-substrate reverse bias of the source-body pn-junction introduces a split between the Fermi levels for electrons and holes, moving the Fermi level for the channel further from the band edge, lowering the occupancy of the channel. The effect is to increase the gate voltage necessary to establish the channel, as seen in the figure. This change in channel strength by application of reverse bias is called the "body effect."
+Using an nMOS example, the gate-to-body bias VGB positions the conduction-band energy levels, while the source-to-body bias VSB positions the electron Fermi level near the interface, deciding occupancy of these levels near the interface, and hence the strength of the inversion layer or channel.
+The body effect upon the channel can be described using a modification of the threshold voltage, approximated by the following equation:
+
+
+
+
+
+
+V
+
+TB
+
+
+=
+
+V
+
+T
+0
+
+
++
+γ
+
+(
+
+
+
+
+V
+
+SB
+
+
++
+2
+
+φ
+
+B
+
+
+
+
+−
+
+
+2
+
+φ
+
+B
+
+
+
+
+
+)
+
+,
+
+
+{\displaystyle V_{\text{TB}}=V_{T0}+\gamma \left({\sqrt {V_{\text{SB}}+2\varphi _{B}}}-{\sqrt {2\varphi _{B}}}\right),}
+
+
+where VTB is the threshold voltage with substrate bias present, and VT0 is the zero-VSB value of threshold voltage, 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ is the body effect parameter, and 2φB is the approximate potential drop between surface and bulk across the depletion layer when VSB = 0 and gate bias is sufficient to ensure that a channel is present.[47] As this equation shows, a reverse bias VSB > 0 causes an increase in threshold voltage VTB and therefore demands a larger gate voltage before the channel populates.
+The body can be operated as a second gate, and is sometimes referred to as the "back gate"; the body effect is sometimes called the "back-gate effect".[48]
+
+Circuit symbols[edit]
+A variety of symbols are used for the MOSFET. The basic design is generally a line for the channel with the source and drain leaving it at right angles and then bending back at right angles into the same direction as the channel. Sometimes three line segments are used for enhancement mode and a solid line for depletion mode (see depletion and enhancement modes). Another line is drawn parallel to the channel for the gate.
+The bulk or body connection, if shown, is shown connected to the back of the channel with an arrow indicating pMOS or nMOS. Arrows always point from P to N, so an NMOS (N-channel in P-well or P-substrate) has the arrow pointing in (from the bulk to the channel). If the bulk is connected to the source (as is generally the case with discrete devices) it is sometimes angled to meet the source leaving the transistor. If the bulk is not shown (as is often the case in IC design as they are generally common bulk) an inversion symbol is sometimes used to indicate PMOS, alternatively an arrow on the source may be used in the same way as for bipolar transistors (out for nMOS, in for pMOS).
+Comparison of enhancement-mode and depletion-mode MOSFET symbols, along with JFET symbols. The orientation of the symbols, (most significantly the position of source relative to drain) is such that more positive voltages appear higher on the page than less positive voltages, implying conventional current flowing "down" the page:[49][50][51]
+
+
+
+P-channel
+
+
+
+
+
+
+
+
+
+
+
+
+N-channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JFET
+
+MOSFET enh.
+
+MOSFET enh. (no bulk)
+
+MOSFET dep.
+
+In schematics where G, S, D are not labeled, the detailed features of the symbol indicate which terminal is source and which is drain. For enhancement-mode and depletion-mode MOSFET symbols (in columns two and five), the source terminal is the one connected to the triangle. Additionally, in this diagram, the gate is shown as an "L" shape, whose input leg is closer to S than D, also indicating which is which. However, these symbols are often drawn with a T-shaped gate (as elsewhere on this page), so it is the triangle which must be relied upon to indicate the source terminal.
+For the symbols in which the bulk, or body, terminal is shown, it is here shown internally connected to the source (i.e., the black triangles in the diagrams in columns 2 and 5). This is a typical configuration, but by no means the only important configuration. In general, the MOSFET is a four-terminal device, and in integrated circuits many of the MOSFETs share a body connection, not necessarily connected to the source terminals of all the transistors.
+
+Applications[edit]
+Digital integrated circuits such as microprocessors and memory devices contain thousands to billions of integrated MOSFETs on each device, providing the basic switching functions required to implement logic gates and data storage. Discrete devices are widely used in applications such as switch mode power supplies, variable-frequency drives and other power electronics applications where each device may be switching thousands of watts. Radio-frequency amplifiers up to the UHF spectrum use MOSFET transistors as analog signal and power amplifiers. Radio systems also use MOSFETs as oscillators, or mixers to convert frequencies. MOSFET devices are also applied in audio-frequency power amplifiers for public address systems, sound reinforcement and home and automobile sound systems[citation needed]
+
+MOS integrated circuits[edit]
+Following the development of clean rooms to reduce contamination to levels never before thought necessary, and of photolithography[52] and the planar process to allow circuits to be made in very few steps, the Si–SiO2 system possessed the technical attractions of low cost of production (on a per circuit basis) and ease of integration. Largely because of these two factors, the MOSFET has become the most widely used type of transistor in the Institution of Engineering and Technology (IET).[citation needed]
+General Microelectronics introduced the first commercial MOS integrated circuit in 1964.[53]
+Additionally, the method of coupling two complementary MOSFETs (P-channel and N-channel) into one high/low switch, known as CMOS, means that digital circuits dissipate very little power except when actually switched.
+The earliest microprocessors starting in 1970 were all MOS microprocessors; i.e., fabricated entirely from PMOS logic or fabricated entirely from NMOS logic. In the 1970s, MOS microprocessors were often contrasted with CMOS microprocessors and bipolar bit-slice processors.[54]
+
+CMOS circuits[edit]
+The MOSFET is used in digital complementary metal–oxide–semiconductor (CMOS) logic,[55] which uses p- and n-channel MOSFETs as building blocks. Overheating is a major concern in integrated circuits since ever more transistors are packed into ever smaller chips. CMOS logic reduces power consumption because no current flows (ideally), and thus no power is consumed, except when the inputs to logic gates are being switched. CMOS accomplishes this current reduction by complementing every nMOSFET with a pMOSFET and connecting both gates and both drains together. A high voltage on the gates will cause the nMOSFET to conduct and the pMOSFET not to conduct and a low voltage on the gates causes the reverse. During the switching time as the voltage goes from one state to another, both MOSFETs will conduct briefly. This arrangement greatly reduces power consumption and heat generation.
+
+Digital[edit]
+The growth of digital technologies like the microprocessor has provided the motivation to advance MOSFET technology faster than any other type of silicon-based transistor.[56] A big advantage of MOSFETs for digital switching is that the oxide layer between the gate and the channel prevents DC current from flowing through the gate, further reducing power consumption and giving a very large input impedance. The insulating oxide between the gate and channel effectively isolates a MOSFET in one logic stage from earlier and later stages, which allows a single MOSFET output to drive a considerable number of MOSFET inputs. Bipolar transistor-based logic (such as TTL) does not have such a high fanout capacity. This isolation also makes it easier for the designers to ignore to some extent loading effects between logic stages independently. That extent is defined by the operating frequency: as frequencies increase, the input impedance of the MOSFETs decreases.
+
+Analog[edit]
+The MOSFET's advantages in digital circuits do not translate into supremacy in all analog circuits. The two types of circuit draw upon different features of transistor behavior. Digital circuits switch, spending most of their time either fully on or fully off. The transition from one to the other is only of concern with regards to speed and charge required. Analog circuits depend on operation in the transition region where small changes to Vgs can modulate the output (drain) current. The JFET and bipolar junction transistor (BJT) are preferred for accurate matching (of adjacent devices in integrated circuits), higher transconductance and certain temperature characteristics which simplify keeping performance predictable as circuit temperature varies.
+Nevertheless, MOSFETs are widely used in many types of analog circuits because of their own advantages (zero gate current, high and adjustable output impedance and improved robustness vs. BJTs which can be permanently degraded by even lightly breaking down the emitter-base).[vague] The characteristics and performance of many analog circuits can be scaled up or down by changing the sizes (length and width) of the MOSFETs used. By comparison, in bipolar transistors follow a different scaling law. MOSFETs' ideal characteristics regarding gate current (zero) and drain-source offset voltage (zero) also make them nearly ideal switch elements, and also make switched capacitor analog circuits practical. In their linear region, MOSFETs can be used as precision resistors, which can have a much higher controlled resistance than BJTs. In high power circuits, MOSFETs sometimes have the advantage of not suffering from thermal runaway as BJTs do.[dubious – discuss] This means that complete analog circuits can be made on a silicon chip in a much smaller space and with simpler fabrication techniques. MOSFETS are ideally suited to switch inductive loads because of tolerance to inductive kickback.
+Some ICs combine analog and digital MOSFET circuitry on a single mixed-signal integrated circuit, making the needed board space even smaller. This creates a need to isolate the analog circuits from the digital circuits on a chip level, leading to the use of isolation rings and silicon on insulator (SOI). Since MOSFETs require more space to handle a given amount of power than a BJT, fabrication processes can incorporate BJTs and MOSFETs into a single device. Mixed-transistor devices are called bi-FETs (bipolar FETs) if they contain just one BJT-FET and BiCMOS (bipolar-CMOS) if they contain complementary BJT-FETs. Such devices have the advantages of both insulated gates and higher current density.
+
+Analog switches[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2016) (Learn how and when to remove this message)
+MOSFET analog switches use the MOSFET to pass analog signals when on, and as a high impedance when off. Signals flow in both directions across a MOSFET switch. In this application, the drain and source of a MOSFET exchange places depending on the relative voltages of the source and drain electrodes. The source is the more negative side for an N-MOS or the more positive side for a P-MOS. All of these switches are limited on what signals they can pass or stop by their gate-source, gate-drain and source–drain voltages; exceeding the voltage, current, or power limits will potentially damage the switch. See Power MOSFET subsection down below.
+
+Single-type[edit]
+This analog switch uses a four-terminal simple MOSFET of either P or N type.
+In the case of an n-type switch, the body is connected to the most negative supply (usually GND) and the gate is used as the switch control. Whenever the gate voltage exceeds the source voltage by at least a threshold voltage, the MOSFET conducts. The higher the voltage, the more the MOSFET can conduct. An N-MOS switch passes all voltages less than Vgate − Vtn. When the switch is conducting, it typically operates in the linear (or ohmic) mode of operation, since the source and drain voltages will typically be nearly equal.
+In the case of a P-MOS, the body is connected to the most positive voltage, and the gate is brought to a lower potential to turn the switch on. The P-MOS switch passes all voltages higher than Vgate − Vtp (threshold voltage Vtp is negative in the case of enhancement-mode P-MOS).
+
+Dual-type (CMOS)[edit]
+This "complementary" or CMOS type of switch uses one P-MOS and one N-MOS FET to counteract the limitations of the single-type switch. The FETs have their drains and sources connected in parallel, the body of the P-MOS is connected to the high potential (VDD) and the body of the N-MOS is connected to the low potential (gnd). To turn the switch on, the gate of the P-MOS is driven to the low potential and the gate of the N-MOS is driven to the high potential. For voltages between VDD − Vtn and gnd − Vtp, both FETs conduct the signal; for voltages less than gnd − Vtp, the N-MOS conducts alone; and for voltages greater than VDD − Vtn, the P-MOS conducts alone.
+The voltage limits for this switch are the gate-source, gate-drain and source-drain voltage limits for both FETs. Also, the P-MOS is typically two to three times wider than the N-MOS, so the switch will be balanced for speed in the two directions.
+Tri-state circuitry sometimes incorporates a CMOS MOSFET switch on its output to provide for a low-ohmic, full-range output when on, and a high-ohmic, mid-level signal when off.
+
+Construction[edit]
+Gate material[edit]
+The primary criterion for the gate material is that it is a good conductor. Highly doped polycrystalline silicon is an acceptable but certainly not ideal conductor, and also suffers from some more technical deficiencies in its role as the standard gate material. Nevertheless, there are several reasons favoring use of polysilicon:
+
+The threshold voltage (and consequently the drain to source on-current) is modified by the work function difference between the gate material and channel material. Because polysilicon is a semiconductor, its work function can be modulated by adjusting the type and level of doping. Furthermore, because polysilicon has the same bandgap as the underlying silicon channel, it is quite straightforward to tune the work function to achieve low threshold voltages for both NMOS and PMOS devices. By contrast, the work functions of metals are not easily modulated, so tuning the work function to obtain low threshold voltages (LVT) becomes a significant challenge. Additionally, obtaining low-threshold devices on both PMOS and NMOS devices sometimes requires the use of different metals for each device type.
+The silicon-SiO2 interface has been well studied and is known to have relatively few defects. By contrast many metal-insulator interfaces contain significant levels of defects which can lead to Fermi level pinning, charging, or other phenomena that ultimately degrade device performance.
+In the MOSFET IC fabrication process, it is preferable to deposit the gate material prior to certain high-temperature steps in order to make better-performing transistors. Such high temperature steps would melt some metals, limiting the types of metal that can be used in a metal-gate-based process.
+While polysilicon gates have been the de facto standard for the last twenty years, they do have some disadvantages which have led to their likely future replacement by metal gates. These disadvantages include:
+
+Polysilicon is not a great conductor (approximately 1000 times more resistive than metals) which reduces the signal propagation speed through the material. The resistivity can be lowered by increasing the level of doping, but even highly doped polysilicon is not as conductive as most metals. To improve conductivity further, sometimes a high-temperature metal such as tungsten, titanium, cobalt, and more recently nickel is alloyed with the top layers of the polysilicon. Such a blended material is called silicide. The silicide-polysilicon combination has better electrical properties than polysilicon alone and still does not melt in subsequent processing. Also the threshold voltage is not significantly higher than with polysilicon alone, because the silicide material is not near the channel. The process in which silicide is formed on both the gate electrode and the source and drain regions is sometimes called salicide, self-aligned silicide.
+When the transistors are extremely scaled down, it is necessary to make the gate dielectric layer very thin, around 1 nm in state-of-the-art technologies. A phenomenon observed here is the so-called poly depletion, where a depletion layer is formed in the gate polysilicon layer next to the gate dielectric when the transistor is in the inversion. To avoid this problem, a metal gate is desired. A variety of metal gates such as tantalum, tungsten, tantalum nitride, and titanium nitride are used, usually in conjunction with high-κ dielectrics. An alternative is to use fully silicided polysilicon gates, a process known as FUSI.
+Present high performance CPUs use metal gate technology, together with high-κ dielectrics, a combination known as high-κ, metal gate (HKMG). The disadvantages of metal gates are overcome by a few techniques:[57]
+
+The threshold voltage is tuned by including a thin "work function metal" layer between the high-κ dielectric and the main metal. This layer is thin enough that the total work function of the gate is influenced by both the main metal and thin metal work functions (either due to alloying during annealing, or simply due to the incomplete screening by the thin metal). The threshold voltage thus can be tuned by the thickness of the thin metal layer.
+High-κ dielectrics are now well studied, and their defects are understood.
+HKMG processes exist that do not require the metals to experience high temperature anneals; other processes select metals that can survive the annealing step.
+Insulator[edit]
+As devices are made smaller, insulating layers are made thinner, often through steps of thermal oxidation or localised oxidation of silicon (LOCOS). For nano-scaled devices, at some point tunneling of carriers through the insulator from the channel to the gate electrode takes place. To reduce the resulting leakage current, the insulator can be made thinner by choosing a material with a higher dielectric constant. To see how thickness and dielectric constant are related, note that Gauss's law connects field to charge as:
+
+
+
+
+
+Q
+=
+κ
+
+ϵ
+
+0
+
+
+E
+,
+
+
+{\displaystyle Q=\kappa \epsilon _{0}E,}
+
+
+with Q = charge density, κ = dielectric constant, ε0 = permittivity of empty space and E = electric field. From this law it appears the same charge can be maintained in the channel at a lower field provided κ is increased. The voltage on the gate is given by:
+
+
+
+
+
+
+V
+
+G
+
+
+=
+
+V
+
+ch
+
+
++
+E
+
+
+t
+
+ins
+
+
+=
+
+V
+
+ch
+
+
++
+
+
+
+Q
+
+t
+
+ins
+
+
+
+
+κ
+
+ϵ
+
+0
+
+
+
+
+
+,
+
+
+{\displaystyle V_{\text{G}}=V_{\text{ch}}+E\,t_{\text{ins}}=V_{\text{ch}}+{\frac {Qt_{\text{ins}}}{\kappa \epsilon _{0}}},}
+
+
+with VG = gate voltage, Vch = voltage at channel side of insulator, and tins = insulator thickness. This equation shows the gate voltage will not increase when the insulator thickness increases, provided κ increases to keep tins / κ = constant (see the article on high-κ dielectrics for more detail, and the section in this article on gate-oxide leakage).
+The insulator in a MOSFET is a dielectric which can in any event be silicon oxide, formed by LOCOS but many other dielectric materials are employed. The generic term for the dielectric is gate dielectric since the dielectric lies directly below the gate electrode and above the channel of the MOSFET.
+
+Junction design[edit]
+The source-to-body and drain-to-body junctions are the object of much attention because of three major factors: their design affects the current-voltage (I-V) characteristics of the device, lowering output resistance, and also the speed of the device through the loading effect of the junction capacitances, and finally, the component of stand-by power dissipation due to junction leakage.
+
+MOSFET showing shallow junction extensions, raised source and drain and halo implant. Raised source and drain are separated from gate by oxide spacers.
+The drain induced barrier lowering of the threshold voltage and channel length modulation effects upon I-V curves are reduced by using shallow junction extensions. In addition, halo doping can be used, that is, the addition of very thin heavily doped regions of the same doping type as the body tight against the junction walls to limit the extent of depletion regions.[58]
+The capacitive effects are limited by using raised source and drain geometries that make most of the contact area border thick dielectric instead of silicon.[59]
+These various features of junction design are shown (with artistic license) in the figure.
+
+Scaling[edit]
+This section is written like a personal reflection, personal essay, or argumentative essay that states a Wikipedia editor's personal feelings or presents an original argument about a topic. Please help improve it by rewriting it in an encyclopedic style. (September 2016) (Learn how and when to remove this message)
+Further information: Dennard scaling
+Trend of Intel CPU transistor gate length
+MOSFET version of gain-boosted current mirror; M1 and M2 are in active mode, while M3 and M4 are in Ohmic mode, and act like resistors. The operational amplifier provides feedback that maintains a high output resistance.
+Over the past decades, the MOSFET (as used for digital logic) has continually been scaled down in size; typical MOSFET channel lengths were once several micrometres, but modern integrated circuits are incorporating MOSFETs with channel lengths of tens of nanometers. Robert Dennard's work on scaling theory was pivotal in recognising that this ongoing reduction was possible. Intel began production of a process featuring a 32 nm feature size (with the channel being even shorter) in late 2009. The semiconductor industry maintains a "roadmap", the ITRS,[60] which sets the pace for MOSFET development. Historically, the difficulties with decreasing the size of the MOSFET have been associated with the semiconductor device fabrication process, the need to use very low voltages, and with poorer electrical performance necessitating circuit redesign and innovation (small MOSFETs exhibit higher leakage currents and lower output resistance).
+Smaller MOSFETs are desirable for several reasons. The main reason to make transistors smaller is to pack more and more devices in a given chip area. This results in a chip with the same functionality in a smaller area, or chips with more functionality in the same area. Since fabrication costs for a semiconductor wafer are relatively fixed, the cost per integrated circuits is mainly related to the number of chips that can be produced per wafer. Hence, smaller ICs allow more chips per wafer, reducing the price per chip. In fact, over the past 30 years the number of transistors per chip has been doubled every 2–3 years once a new technology node is introduced. For example, the number of MOSFETs in a microprocessor fabricated in a 45 nm technology can well be twice as many as in a 65 nm chip. This doubling of transistor density was first observed by Gordon Moore in 1965 and is commonly referred to as Moore's law.[61] It is also expected that smaller transistors switch faster. For example, one approach to size reduction is a scaling of the MOSFET that requires all device dimensions to reduce proportionally. The main device dimensions are the channel length, channel width, and oxide thickness. When they are scaled down by equal factors, the transistor channel resistance does not change, while gate capacitance is cut by that factor. Hence, the RC delay of the transistor scales with a similar factor. While this has been traditionally the case for the older technologies, for the state-of-the-art MOSFETs reduction of the transistor dimensions does not necessarily translate to higher chip speed because the delay due to interconnections is more significant.
+Producing MOSFETs with channel lengths much smaller than a micrometre is a challenge, and the difficulties of semiconductor device fabrication are always a limiting factor in advancing integrated circuit technology. Though processes such as ALD have improved fabrication for small components, the small size of the MOSFET (less than a few tens of nanometers) has created operational problems:
+
+Higher subthreshold conduction[edit]
+As MOSFET geometries shrink, the voltage that can be applied to the gate must be reduced to maintain reliability. To maintain performance, the threshold voltage of the MOSFET has to be reduced as well. As threshold voltage is reduced, the transistor cannot be switched from complete turn-off to complete turn-on with the limited voltage swing available; the circuit design is a compromise between strong current in the on case and low current in the off case, and the application determines whether to favor one over the other. Subthreshold leakage (including subthreshold conduction, gate-oxide leakage and reverse-biased junction leakage), which was ignored in the past, now can consume upwards of half of the total power consumption of modern high-performance VLSI chips.[62][63]
+
+Increased gate-oxide leakage[edit]
+The gate oxide, which serves as insulator between the gate and channel, should be made as thin as possible to increase the channel conductivity and performance when the transistor is on and to reduce subthreshold leakage when the transistor is off. However, with current gate oxides with a thickness of around 1.2 nm (which in silicon is ~5 atoms thick) the quantum mechanical phenomenon of electron tunneling occurs between the gate and channel, leading to increased power consumption. Silicon dioxide has traditionally been used as the gate insulator. Silicon dioxide however has a modest dielectric constant. Increasing the dielectric constant of the gate dielectric allows a thicker layer while maintaining a high capacitance (capacitance is proportional to dielectric constant and inversely proportional to dielectric thickness). All else equal, a higher dielectric thickness reduces the quantum tunneling current through the dielectric between the gate and the channel.
+Insulators that have a larger dielectric constant than silicon dioxide (referred to as high-κ dielectrics), such as group IVb metal silicates e.g. hafnium and zirconium silicates and oxides are being used to reduce the gate leakage from the 45 nanometer technology node onwards. On the other hand, the barrier height of the new gate insulator is an important consideration; the difference in conduction band energy between the semiconductor and the dielectric (and the corresponding difference in valence band energy) also affects leakage current level. For the traditional gate oxide, silicon dioxide, the former barrier is approximately 8 eV. For many alternative dielectrics the value is significantly lower, tending to increase the tunneling current, somewhat negating the advantage of higher dielectric constant. The maximum gate-source voltage is determined by the strength of the electric field able to be sustained by the gate dielectric before significant leakage occurs. As the insulating dielectric is made thinner, the electric field strength within it goes up for a fixed voltage. This necessitates using lower voltages with the thinner dielectric.
+
+Increased junction leakage[edit]
+To make devices smaller, junction design has become more complex, leading to higher doping levels, shallower junctions, "halo" doping and so forth,[64][65] all to decrease drain-induced barrier lowering (see the section on junction design). To keep these complex junctions in place, the annealing steps formerly used to remove damage and electrically active defects must be curtailed[66] increasing junction leakage. Heavier doping is also associated with thinner depletion layers and more recombination centers that result in increased leakage current, even without lattice damage.
+
+Drain-induced barrier lowering and VT roll off[edit]
+Drain-induced barrier lowering (DIBL) and VT roll off: Because of the short-channel effect, channel formation is not entirely done by the gate, but now the drain and source also affect the channel formation. As the channel length decreases, the depletion regions of the source and drain come closer together and make the threshold voltage (VT) a function of the length of the channel. This is called VT roll-off. VT also becomes function of drain to source voltage VDS. As we increase the VDS, the depletion regions increase in size, and a considerable amount of charge is depleted by the VDS. The gate voltage required to form the channel is then lowered, and thus, the VT decreases with an increase in VDS. This effect is called drain induced barrier lowering (DIBL).
+
+Lower output resistance[edit]
+For analog operation, good gain requires a high MOSFET output impedance, which is to say, the MOSFET current should vary only slightly with the applied drain-to-source voltage. As devices are made smaller, the influence of the drain competes more successfully with that of the gate due to the growing proximity of these two electrodes, increasing the sensitivity of the MOSFET current to the drain voltage. To counteract the resulting decrease in output resistance, circuits are made more complex, either by requiring more devices, for example the cascode and cascade amplifiers, or by feedback circuitry using operational amplifiers, for example a circuit like that in the adjacent figure.
+
+Lower transconductance[edit]
+The transconductance of the MOSFET decides its gain and is proportional to hole or electron mobility (depending on device type), at least for low drain voltages. As MOSFET size is reduced, the fields in the channel increase and the dopant impurity levels increase. Both changes reduce the carrier mobility, and hence the transconductance. As channel lengths are reduced without proportional reduction in drain voltage, raising the electric field in the channel, the result is velocity saturation of the carriers, limiting the current and the transconductance.
+
+Interconnect capacitance[edit]
+Traditionally, switching time was roughly proportional to the gate capacitance of gates. However, with transistors becoming smaller and more transistors being placed on the chip, interconnect capacitance (the capacitance of the metal-layer connections between different parts of the chip) is becoming a large percentage of capacitance.[67][68] Signals have to travel through the interconnect, which leads to increased delay and lower performance.
+
+Heat production[edit]
+The ever-increasing density of MOSFETs on an integrated circuit creates problems of substantial localized heat generation that can impair circuit operation. Circuits operate more slowly at high temperatures, and have reduced reliability and shorter lifetimes. Heat sinks and other cooling devices and methods are now required for many integrated circuits including microprocessors. Power MOSFETs are at risk of thermal runaway. As their on-state resistance rises with temperature, if the load is approximately a constant-current load then the power loss rises correspondingly, generating further heat. When the heatsink is not able to keep the temperature low enough, the junction temperature may rise quickly and uncontrollably, resulting in destruction of the device.
+
+Process variations[edit]
+With MOSFETs becoming smaller, the number of atoms in the silicon that produce many of the transistor's properties is becoming fewer, with the result that control of dopant numbers and placement is more erratic. During chip manufacturing, random process variations affect all transistor dimensions: length, width, junction depths, oxide thickness etc., and become a greater percentage of overall transistor size as the transistor shrinks. The transistor characteristics become less certain, more statistical. The random nature of manufacture means we do not know which particular example MOSFETs actually will end up in a particular instance of the circuit. This uncertainty forces a less optimal design because the design must work for a great variety of possible component MOSFETs. See process variation, design for manufacturability, reliability engineering, and statistical process control.[69]
+
+Modeling challenges[edit]
+Modern ICs are computer-simulated with the goal of obtaining working circuits from the first manufactured lot. As devices are miniaturized, the complexity of the processing makes it difficult to predict exactly what the final devices look like, and modeling of physical processes becomes more challenging as well. In addition, microscopic variations in structure due simply to the probabilistic nature of atomic processes require statistical (not just deterministic) predictions. These factors combine to make adequate simulation and "right the first time" manufacture difficult.
+
+Other types[edit]
+Dual-gate[edit]
+A FinFET
+Main article: Multigate device
+The dual-gate MOSFET has a tetrode configuration, where both gates control the current in the device. It is commonly used for small-signal devices in radio frequency applications where biasing the drain-side gate at constant potential reduces the gain loss caused by Miller effect, replacing two separate transistors in cascode configuration. Other common uses in RF circuits include gain control and mixing (frequency conversion). The tetrode description, though accurate, does not replicate the vacuum-tube tetrode. Vacuum-tube tetrodes, using a screen grid, exhibit much lower grid-plate capacitance and much higher output impedance and voltage gains than triode vacuum tubes. These improvements are commonly an order of magnitude (10 times) or considerably more. Tetrode transistors (whether bipolar junction or field-effect) do not exhibit improvements of such a great degree.
+The FinFET is a double-gate silicon-on-insulator device, one of a number of geometries being introduced to mitigate the effects of short channels and reduce drain-induced barrier lowering. The fin refers to the narrow channel between source and drain. A thin insulating oxide layer on either side of the fin separates it from the gate. SOI FinFETs with a thick oxide on top of the fin are called double-gate and those with a thin oxide on top as well as on the sides are called triple-gate FinFETs.[70][71]
+
+Depletion-mode[edit]
+There are depletion-mode MOSFET devices, which are less commonly used than the standard enhancement-mode devices already described. These are MOSFET devices that are doped so that a channel exists even with zero voltage from gate to source. To control the channel, a negative voltage is applied to the gate (for an n-channel device), depleting the channel, which reduces the current flow through the device. In essence, the depletion-mode device is equivalent to a normally closed (on) switch, while the enhancement-mode device is equivalent to a normally open (off) switch.[72]
+Due to their low noise figure in the RF region, and better gain, these devices are often preferred to bipolars in RF front-ends such as in TV sets.
+Depletion-mode MOSFET families include the BF960 by Siemens and Telefunken, and the BF980 in the 1980s by Philips (later to become NXP Semiconductors), whose derivatives are still used in AGC and RF mixer front-ends.
+
+Metal–insulator–semiconductor field-effect transistor (MISFET)[edit]
+Metal–insulator–semiconductor field-effect-transistor,[73][74][75] or MISFET, is a more general term than MOSFET and a synonym to insulated-gate field-effect transistor (IGFET). All MOSFETs are MISFETs, but not all MISFETs are MOSFETs.
+The gate dielectric insulator in a MISFET is a substrate oxide (hence typically silicon dioxide) in a MOSFET, but other materials can also be employed. The gate dielectric lies directly below the gate electrode and above the channel of the MISFET. The term metal is historically used for the gate material, even though now it is usually highly doped polysilicon or some other non-metal.
+Insulator types may be:
+
+Silicon dioxide, in silicon MOSFETs
+Organic insulators (e.g., undoped trans-polyacetylene; cyanoethyl pullulan, CEP[76]), for organic-based FETs.[75]
+NMOS logic[edit]
+For devices of equal current driving capability, n-channel MOSFETs can be made smaller than p-channel MOSFETs, due to p-channel charge carriers (holes) having lower mobility than do n-channel charge carriers (electrons), and producing only one type of MOSFET on a silicon substrate is cheaper and technically simpler. These were the driving principles in the design of NMOS logic which uses n-channel MOSFETs exclusively. However, neglecting leakage current, unlike CMOS logic, NMOS logic consumes power even when no switching is taking place. With advances in technology, CMOS logic displaced NMOS logic in the mid-1980s to become the preferred process for digital chips.
+
+Power MOSFET[edit]
+Cross section of a power MOSFET, with square cells. A typical transistor is constituted of several thousand cells.
+Main article: Power MOSFET
+Power MOSFETs have a different structure.[77] As with most power devices, the structure is vertical and not planar. Using a vertical structure, it is possible for the transistor to sustain both high blocking voltage and high current. The voltage rating of the transistor is a function of the doping and thickness of the N-epitaxial layer (see cross section), while the current rating is a function of the channel width (the wider the channel, the higher the current). In a planar structure, the current and breakdown voltage ratings are both a function of the channel dimensions (respectively width and length of the channel), resulting in inefficient use of the "silicon estate". With the vertical structure, the component area is roughly proportional to the current it can sustain, and the component thickness (actually the N-epitaxial layer thickness) is proportional to the breakdown voltage.[78]
+Power MOSFETs with lateral structure are mainly used in high-end audio amplifiers and high-power PA systems. Their advantage is a better behaviour in the saturated region (corresponding to the linear region of a bipolar transistor) than the vertical MOSFETs. Vertical MOSFETs are designed for switching applications.[79]
+
+Double-diffused metal–oxide–semiconductor (DMOS)[edit]
+There are LDMOS (lateral double-diffused metal oxide semiconductor) and VDMOS (vertical double-diffused metal oxide semiconductor). Most power MOSFETs are made using this technology.
+
+Radiation-hardened-by-design (RHBD)[edit]
+Semiconductor sub-micrometer and nanometer electronic circuits are the primary concern for operating within the normal tolerance in harsh radiation environments like outer space. One of the design approaches for making a radiation-hardened-by-design (RHBD) device is enclosed-layout-transistor (ELT). Normally, the gate of the MOSFET surrounds the drain, which is placed in the center of the ELT. The source of the MOSFET surrounds the gate. Another RHBD MOSFET is called H-Gate. Both of these transistors have very low leakage currents with respect to radiation. However, they are large in size and take up more space on silicon than a standard MOSFET. In older STI (shallow trench isolation) designs, radiation strikes near the silicon oxide region cause the channel inversion at the corners of the standard MOSFET due to accumulation of radiation induced trapped charges. If the charges are large enough, the accumulated charges affect STI surface edges along the channel near the channel interface (gate) of the standard MOSFET. This causes a device channel inversion to occur along the channel edges, creating an off-state leakage path. Subsequently, the device turns on; this process severely degrades the reliability of circuits. The ELT offers many advantages, including an improvement of reliability by reducing unwanted surface inversion at the gate edges which occurs in the standard MOSFET. Since the gate edges are enclosed in ELT, there is no gate oxide edge (STI at gate interface), and thus the transistor off-state leakage is reduced very much. Low-power microelectronic circuits including computers, communication devices, and monitoring systems in space shuttles and satellites are very different from what is used on earth. They are radiation (high-speed atomic particles like proton and neutron, solar flare magnetic energy dissipation in Earth's space, energetic cosmic rays like X-ray, gamma ray etc.) tolerant circuits. These special electronics are designed by applying different techniques using RHBD MOSFETs to ensure safe space journeys and safe space-walks of astronauts.
+
+See also[edit]
+
+Electronics portal
+Floating-gate MOSFET – Type of MOSFET where the gate is electrically isolated
+BSIM – Family of MOSFET transistor models for integrated circuit design
+ggNMOS – Electrostatic discharge (ESD) protection device
+High-electron-mobility transistor – Type of field-effect transistor
+Polysilicon depletion effect – Variation of threshold voltage in polycrystalline silicon materials
+Transistor model – Simulation of physical processes taking place in an electronic device
+Intrinsic diode – MOSFET that can handle significant power levels
+References[edit]
+
+
+^ "Patent 272437 Summary". Canadian Patents Database.
+
+^ "Fathers of the MOSFET: Dawon Kahng and Martin Atalla". All About Circuits.
+
+^ Kim, Seongjae; Seo, Juhyung; Choi, Junhwan; Yoo, Hocheon (7 October 2022). "Vertically Integrated Electronics: New Opportunities from Emerging Materials and Devices". Nano-Micro Letters. 14 (1) 201. Springer Nature. doi:10.1007/s40820-022-00942-1. eISSN 2150-5551. PMC 9547046.
+
+^ "D-MOSFET OPERATION AND BIASING" (PDF). Archived (PDF) from the original on 2022-10-22.
+
+^ Lilienfeld, Julius Edgar (1926-10-08) "Method and apparatus for controlling electric currents" U.S. patent 1745175A
+
+^ Heil, Oskar, "Improvements in or relating to electrical amplifiers and other control arrangements and devices", Patent No. GB439457, European Patent Office, filed in Great Britain 1934-03-02, published December 6, 1935 (originally filed in Germany March 2, 1934).
+
+^ a b Huff, Howard; Riordan, Michael (2007-09-01). "Frosch and Derick: Fifty Years Later (Foreword)". The Electrochemical Society Interface. 16 (3): 29. doi:10.1149/2.F02073IF. ISSN 1064-8208.
+
+^ US2802760A, Lincoln, Derick & Frosch, Carl J., "Oxidation of semiconductive surfaces for controlled diffusion", issued 1957-08-13 
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. p. 168. ISBN 978-0-470-50892-3.
+
+^ Christophe Lécuyer; David C. Brook; Jay Last (2010). Makers of the Microchip: A Documentary History of Fairchild Semiconductor. MIT Press. pp. 62–63. ISBN 978-0-262-01424-3.
+
+^ Claeys, Cor L. (2003). ULSI Process Integration III: Proceedings of the International Symposium. The Electrochemical Society. pp. 27–30. ISBN 978-1-56677-376-8.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ US 3025589  Hoerni, J. A.: "Method of Manufacturing Semiconductor Devices” filed May 1, 1959
+
+^ US 3064167  Hoerni, J. A.: "Semiconductor device" filed May 15, 1960
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ Ligenza, J. R.; Spitzer, W. G. (1960-07-01). "The mechanisms for silicon oxidation in steam and oxygen". Journal of Physics and Chemistry of Solids. 14: 131–136. Bibcode:1960JPCS...14..131L. doi:10.1016/0022-3697(60)90219-5. ISSN 0022-3697.
+
+^ Deal, Bruce E. (1998). "Highlights Of Silicon Thermal Oxidation Technology". Silicon materials science and technology. The Electrochemical Society. p. 183. ISBN 978-1566771931.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 322. ISBN 978-3540342588.
+
+^ Bassett, Ross Knox (2007). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology. Johns Hopkins University Press. pp. 22–23. ISBN 978-0-8018-8639-3.
+
+^ Atalla, M.; Kahng, D. (1960). "Silicon-silicon dioxide field induced surface devices". IRE-AIEE Solid State Device Research Conference.
+
+^ "1960 – Metal Oxide Semiconductor (MOS) Transistor Demonstrated". The Silicon Engine. Computer History Museum. Retrieved 2023-01-16.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Berlin, Heidelberg: Springer-Verlag Berlin Heidelberg. p. 321. ISBN 978-3-540-34258-8.
+
+^ Ross, Bassett (2002). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology. JHU Press. pp. 12–28.
+
+^ "Intel 45nm Hi-k Silicon Technology". Intel. Archived from the original on July 5, 2007.
+
+^ "memory components data book" (PDF). memory components data book. Intel. pp. 2–1. Archived from the original (PDF) on 4 March 2016. Retrieved 30 August 2015.
+
+^ "Using a MOSFET as a Switch". Archived from the original on 2018-04-11. 090507 brunningsoftware.co.uk
+
+^ Shichman, H. & Hodges, D. A. (1968). "Modeling and simulation of insulated-gate field-effect transistor switching circuits". IEEE Journal of Solid-State Circuits. SC-3 (3): 285–289. Bibcode:1968IJSSC...3..285S. doi:10.1109/JSSC.1968.1049902. Archived from the original on June 10, 2013.
+
+^ For example, see Cheng, Yuhua; Hu, Chenming (1999). MOSFET modeling & BSIM3 user's guide. Springer. ISBN 978-0-7923-8575-2. The most recent version of the BSIM model is described in V., Sriramkumar; Paydavosi, Navid; Lu, Darsen; Lin, Chung-Hsun; Dunga, Mohan; Yao, Shijing; Morshed, Tanvir; Niknejad, Ali & Hu, Chenming (2012). "BSIM-CMG 106.1.0beta Multi-Gate MOSFET Compact Model" (PDF). Department of Electronic Engineering and Computer Science, University of California Berkeley. Archived from the original (PDF) on 2014-07-27. Retrieved 2012-04-01.
+
+^ 
+Gray, P. R.; Hurst, P. J.; Lewis, S. H. & Meyer, R. G. (2001). Analysis and Design of Analog Integrated Circuits (4th ed.). New York: Wiley. pp. 66–67. ISBN 978-0-471-32168-2.
+
+^ 
+van der Meer, P. R.; van Staveren, A.; van Roermund, A. H. M. (2004). Low-Power Deep Sub-Micron CMOS Logic: Subthreshold Current Reduction. Dordrecht: Springer. p. 78. ISBN 978-1-4020-2848-9.
+
+^ Degnan, Brian. "Wikipedia fails subvt".
+
+^ Mead, Carver (1989). Analog VLSI and Neural Systems. Reading, Massachusetts: Addison-Wesley. p. 370. ISBN 9780201059922.
+
+^ Smith, Leslie S.; Hamilton, Alister (1998). Neuromorphic Systems: Engineering Silicon from Neurobiology. World Scientific. pp. 52–56. ISBN 978-981-02-3377-8.
+
+^ Kumar, Satish (2004). Neural Networks: A Classroom Approach. Tata McGraw-Hill. p. 688. ISBN 978-0-07-048292-0.
+
+^ Glesner, Manfred; Zipf, Peter; Renovell, Michel (2002). Field-programmable Logic and Applications: 12th International Conference. Dordrecht: Springer. p. 425. ISBN 978-3-540-44108-3.
+
+^ Vittoz, Eric A. (1996). "The Fundamentals of Analog Micropower Design". In Toumazou, Chris; Battersby, Nicholas C.; Porta, Sonia (eds.). Circuits and systems tutorials. John Wiley and Sons. pp. 365–372. ISBN 978-0-7803-1170-1.
+
+^ Shukla, Sandeep K.; Bahar, R. Iris (2004). Nano, Quantum and Molecular Computing. Springer. p. 10 and Fig. 1.4, p. 11. ISBN 978-1-4020-8067-8.
+
+^ Srivastava, Ashish; Sylvester, Dennis; Blaauw, David (2005). Statistical Analysis and Optimization For VLSI: Timing and Power. Springer. p. 135. ISBN 978-0-387-25738-9.
+
+^ Galup-Montoro, C. & Schneider, M. C. (2007). MOSFET modeling for circuit analysis and design. London/Singapore: World Scientific. p. 83. ISBN 978-981-256-810-6.
+
+^ Malik, Norbert R. (1995). Electronic circuits: analysis, simulation, and design. Englewood Cliffs, New Jersey: Prentice Hall. pp. 315–316. ISBN 978-0-02-374910-0.
+
+^ Sedra, A. S. & Smith, K. C. (2004). Microelectronic Circuits (5th ed.). Oxford University Press. p. 250, Eq. 4.14. ISBN 978-0-19-514251-8.
+
+^ Gray, P. R.; Hurst, P. J.; Lewis, S. H.; Meyer, R. G. (2001). Analysis and design of analog integrated circuits (4th ed.). New York: Wiley. §1.5.2 p. 45. ISBN 978-0-471-32168-2.
+
+^ Sedra, A. S. & Smith, K. C. (2004). Microelectronic circuits (5th ed.). New York: Oxford University Press. p. 552. ISBN 978-0-19-514251-8.
+
+^ 
+
+For a uniformly doped p-type substrate with bulk acceptor doping of NA per unit volume,
+
+
+
+
+
+φ
+
+B
+
+
+=
+
+
+
+
+k
+
+B
+
+
+T
+
+q
+
+
+ln
+⁡
+
+(
+
+
+
+N
+
+A
+
+
+
+n
+
+i
+
+
+
+
+)
+
+ 
+,
+
+
+{\displaystyle \varphi _{B}={\frac {k_{B}T}{q}}\ln \left({\frac {N_{A}}{n_{i}}}\right)\ ,}
+
+
+
+with ni the intrinsic mobile carrier density per unit volume in the bulk. See, for example, Arora, Narain (2007). "Equation 5.12". Mosfet modeling for VLSI simulation: theory and practice. World Scientific. p. 173. ISBN 9789812707581.
+
+^ "Body effect". Equars.com. Archived from the original on 2014-11-10. Retrieved 2012-06-02.
+
+^ "Electronic Circuit Symbols". circuitstoday.com. 9 November 2011. Archived from the original on 13 October 2014.
+
+^ IEEE Std 315-1975 — Graphic Symbols for Electrical and Electronics Diagrams (Including Reference Designation Letters)
+
+^ Jaeger, Richard C.; Blalock, Travis N. "Figure 4.15 IEEE Standard MOS transistor circuit symbols". Microelectronic Circuit Design (PDF). Archived (PDF) from the original on 2022-10-09.
+
+^ "1955 – Photolithography Techniques Are Used to Make Silicon Devices". Computer History Museum. Retrieved 2012-06-02.
+
+^ "1964 – First Commercial MOS IC Introduced".[permanent dead link]
+
+^ Cushman, Robert H. (20 September 1975). "2-1/2-generation μP's-$10 parts that perform like low-end mini's" (PDF). EDN. Archived from the original (PDF) on 24 April 2016. Retrieved 8 August 2013.
+
+^ "Computer History Museum – The Silicon Engine | 1963 – Complementary MOS Circuit Configuration is Invented". Computerhistory.org. Retrieved 2012-06-02.
+
+^ "Computer History Museum – Exhibits – Microprocessors". Computerhistory.org. Retrieved 2012-06-02.
+
+^ "ReVera's FinFET Control". revera.com. Archived from the original on 19 September 2010.
+
+^ Colinge, Jean-Pierre; Colinge, Cynthia A. (2002). Physics of Semiconductor Devices. Dordrecht: Springer. p. 233, Figure 7.46. ISBN 978-1-4020-7018-1.
+
+^ Weber, Eicke R.; Dabrowski, Jarek, eds. (2004). Predictive Simulation of Semiconductor Processing: Status and Challenges. Dordrecht: Springer. p. 5, Figure 1.2. ISBN 978-3-540-20481-7.
+
+^ "International Technology Roadmap for Semiconductors". Archived from the original on 2015-12-28.
+
+^ "1965 – "Moore's Law" Predicts the Future of Integrated Circuits". Computer History Museum.
+
+^ Roy, Kaushik; Yeo, Kiat Seng (2004). Low Voltage, Low Power VLSI Subsystems. McGraw-Hill Professional. Fig. 2.1, p. 44, Fig. 1.1, p. 4. ISBN 978-0-07-143786-8.
+
+^ Vasileska, Dragica; Goodnick, Stephen (2006). Computational Electronics. Morgan & Claypool. p. 103. ISBN 978-1-59829-056-1.
+
+^ "Frontier Semiconductor Paper" (PDF). Archived from the original (PDF) on February 27, 2012. Retrieved 2012-06-02.
+
+^ Chen, Wai-Kai (2006). The VLSI Handbook. CRC Press. Fig. 2.28, p. 2–22. ISBN 978-0-8493-4199-1.
+
+^ Lindsay, R.; Pawlak; Kittl; Henson; Torregiani; Giangrandi; Surdeanu; Vandervorst; Mayur; Ross; McCoy; Gelpey; Elliott; Pages; Satta; Lauwers; Stolk; Maex (2011). "A Comparison of Spike, Flash, SPER and Laser Annealing for 45nm CMOS". MRS Proceedings. 765. doi:10.1557/PROC-765-D7.4.
+
+^ "VLSI wiring capacitance" (PDF). IBM Journal of Research and Development. 9 February 2021. Archived (PDF) from the original on 2022-10-09.[dead link]
+
+^ Soudris, D.; Pirsch, P.; Barke, E., eds. (2000). Integrated Circuit Design: Power and Timing Modeling, Optimization, and Simulation (10th Int. Workshop). Springer. p. 38. ISBN 978-3-540-41068-3.
+
+^ Orshansky, Michael; Nassif, Sani; Boning, Duane (2007). Design for Manufacturability And Statistical Design: A Constructive Approach. New York: Springer. ISBN 9780387309286.
+
+^ Zeitzoff, P. M.; Hutchby, J. A.; Huff, H. R. (2002). "Figure 12: Simplified cross section of FinFET double-gate MOSFET". In Park, Yoon-Soo; Shur, Michael; Tang, William (eds.). Frontiers in electronics: future chips : proceedings of the 2002 Workshop on Frontiers in Electronics (WOFE-02), St Croix, Virgin Islands, USA, 6–11 January 2002. World Scientific. p. 82. ISBN 978-981-238-222-1.
+
+^ Lee, J.-H.; Lee, J.-W.; Jung, H.-A.-R.; Choi, B.-K. (2009). "Comparison of SOI FinFETs and bulk FinFETs: Figure 2". Silicon-on-Insulator Technology and Devices. The Electrochemical Society. p. 102. ISBN 978-1-56677-712-4.
+
+^ "Depletion Mode". Techweb. 29 January 2010. Archived from the original on 31 October 2010. Retrieved 27 November 2010.
+
+^ "MIS". Semiconductor Glossary. Archived from the original on 2017-01-22. Retrieved 2017-05-14.
+
+^ 
+Hadziioannou, Georges; Malliaras, George G. (2007). Semiconducting polymers: chemistry, physics and engineering. Wiley-VCH. ISBN 978-3-527-31271-9.
+
+^ a b 
+Jones, William (1997). Organic Molecular Solids: Properties and Applications. CRC Press. ISBN 978-0-8493-9428-7.
+
+^ 
+Xu, Wentao; Guo, Chang; Rhee, Shi-Woo (2013). "High performance organic field-effect transistors using cyanoethyl pullulan (CEP) high-k polymer cross-linked with trimethylolpropane triglycidyl ether (TTE) at low temperatures". Journal of Materials Chemistry C. 1 (25): 3955. doi:10.1039/C3TC30134F.
+
+^ Baliga, B. Jayant (1996). Power Semiconductor Devices. Boston: PWS publishing Company. ISBN 978-0-534-94098-0.
+
+^ "Power MOSFET Basics: Understanding MOSFET Characteristics Associated With The Figure of Merit". element14. Archived from the original on 5 April 2015. Retrieved 27 November 2010.
+
+^ "Power MOSFET Basics: Understanding Gate Charge and Using It To Assess Switching Performance". element14. Archived from the original on 30 June 2014. Retrieved 27 November 2010.
+
+
+External links[edit]
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (September 2016) (Learn how and when to remove this message)
+
+
+
+Wikimedia Commons has media related to MOSFET.
+
+How Semiconductors and Transistors Work (MOSFETs) WeCanFigureThisOut.org
+"Understanding power MOSFET data sheet parameters – Nexperia PDF Application Note AN11158" (PDF). Archived (PDF) from the original on 2022-10-09.
+"An introduction to depletion-mode MOSFETs". Archived from the original on 28 September 2008.
+"Power MOSFETs". Archived from the original on 2012-07-06. Retrieved 2010-03-04.
+"Criteria for Successful Selection of IGBT and MOSFET Modules". Archived from the original on 2012-11-12. Retrieved 2018-12-16.
+"MOSFET Process Step by Step". Archived from the original on 2009-08-22. Retrieved 2016-02-06. A Flash slide showing the fabricating process of a MOSFET in detail
+"MOSFET Calculator". Archived from the original on 2008-05-27. Retrieved 2008-06-03.
+"Advanced MOSFET issues". ecee.colorado.edu. 27 November 2010.
+"MOSFET applet".
+Nicolai, Ulrich; Reimann, Tobias; Petzoldt, Jürgen; Lutz, Josef (1998). Application Manual IGBT and MOSFET Power Modules (1st ed.). ISLE Verlag. ISBN 978-3-932633-24-9. Archived from the original on 2 March 2012.
+Wintrich, Arendt; Nicolai, Ulrich; Tursky, Werner; Reimann, Tobias (2011). PDF-Version (PDF) (2nd ed.). Nuremberg: Semikron. ISBN 978-3-938843-66-6. Archived from the original (PDF) on 3 September 2013.
+"MIT Open Courseware 6.002 – Spring 2007".
+"MIT Open Courseware 6.012 – Fall 2009".
+"Georgia Tech BJT and FET Slides".
+"CircuitDesign: MOS Diffusion Parasitics". 14 December 2008.
+Lundstrom, Mark (2008). "Course on Physics of Nanoscale Transistors". nanoHUB Papers.
+Lundstrom, Mark (2005). "Notes on Ballistic MOSFETs". nanoHUB Papers.
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal-oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck–boost
+Split-pi
+Ćuk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+
+Authority control databases: National GermanyUnited StatesFranceBnF dataJapanIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=MOSFET&oldid=1287253653"
+Categories: Transistor typesMOSFETsHidden categories: CS1 errors: ISBN dateAll articles with dead external linksArticles with dead external links from August 2018Articles with permanently dead external linksArticles with dead external links from June 2015Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2023Articles needing additional references from January 2019All articles needing additional referencesAll Wikipedia articles needing clarificationWikipedia articles needing clarification from February 2024All pages needing factual verificationWikipedia articles needing factual verification from January 2023Articles with unsourced statements from December 2015Articles with unsourced statements from March 2023Wikipedia articles needing clarification from January 2016All accuracy disputesArticles with disputed statements from January 2016Articles needing additional references from September 2016Wikipedia articles with style issues from September 2016All articles with style issuesWikipedia external links cleanup from September 2016Commons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 25 April 2025, at 01:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+MOSFET
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

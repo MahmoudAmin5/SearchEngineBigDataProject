@@ -1,0 +1,760 @@
+https://en.wikipedia.org/wiki/Refreshable_braille_display
+
+
+
+
+Refreshable braille display - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Mechanical details
+
+
+
+
+
+
+
+
+2
+Software
+
+
+
+
+
+
+
+
+3
+Rotation-wheel Braille display
+
+
+
+
+
+
+
+
+4
+Braille e-book
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Refreshable braille display
+
+
+
+23 languages
+
+
+
+
+CatalàČeštinaDeutschEestiEspañolEsperantoفارسیFrançais한국어ItalianoҚазақшаMagyarNederlands日本語Norsk bokmålOʻzbekcha / ўзбекчаPolskiRomânăРусскийSuomiاردو粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Device for displaying braille characters
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Refreshable braille display" – news · newspapers · books · scholar · JSTOR (September 2019) (Learn how and when to remove this message)
+Refreshable braille display
+A refreshable braille display or braille terminal is an electro-mechanical device for displaying braille characters, usually by means of round-tipped pins raised through holes in a flat surface. Visually impaired computer users who cannot use a standard computer monitor can use it to read text output. Deafblind computer users may also use refreshable braille displays.
+Speech synthesizers are also commonly used for the same task, and a blind user may switch between the two systems or use both at the same time depending on circumstances.
+
+
+Mechanical details[edit]
+A Baum David System 90 special-purpose computer for the blind, with a braille "screen" and special keyboard
+The base of a refreshable braille display often integrates a pure braille keyboard. Similar to the Perkins Brailler, the input is performed by two sets of four keys on each side, while output is via a refreshable braille display consisting of a row of electro-mechanical character cells, each of which can raise or lower a combination of eight round-tipped pins. Other variants exist that use a conventional QWERTY keyboard for input and braille pins for output, as well as input-only and output-only devices.
+The mechanism which raises the dots uses the piezo effect of some crystals, whereby they expand when a voltage is applied to them. Such a crystal is connected to a lever, which in turn raises the dot. There has to be a crystal for each dot of the display (i.e., eight per character).
+Because of the complexity of producing a reliable display that will cope with daily wear and tear, these displays are expensive. Usually, only 40 or 80 braille cells are displayed. Models with between 18 and 40 cells exist in some notetaker devices. 
+On some models the position of the cursor is represented by vibrating the dots, and some models have a switch associated with each cell to move the cursor to that cell directly.
+
+Software[edit]
+The software gathers the content of the screen from the operating system, converts it into braille characters and sends it to the display.
+Screen readers for graphical operating systems are especially complex, because graphical elements like windows or slidebars have to be interpreted and described in text form. Modern operating systems usually have an API to help screen readers obtain this information, such as UI Automation (UIA) for Microsoft Windows, VoiceOver for macOS and iOS, and AT-SPI for GNOME.
+
+Rotation-wheel Braille display[edit]
+A rotating-wheel Braille display was developed in 2000 by the National Institute of Standards and Technology (NIST) and another at the Leuven University in Belgium.[1] In these units, braille dots are put on the edge of a spinning wheel, which allows the user to read continuously with a stationary finger while the wheel spins at a selected speed. The braille dots are set in a simple scanning-style fashion as the dots on the wheel spin past a stationary actuator that sets the braille characters. As a result, manufacturing complexity is greatly reduced and rotating-wheel braille displays, when in actual production, should be less expensive than traditional braille displays.
+
+Braille e-book[edit]
+Main article: Braille e-book
+See also[edit]
+GNOME accessibility
+VoiceOver
+Tactile project at MIT
+References[edit]
+
+
+^ "Flemish researcher (Tiene Nobels) develops braille computer mouse / Vlaamse onderzoekster (Tiene Nobels) ontwikkelt braillecomputermuis". ZDNet.Pictures of the experimental setup
+
+
+External links[edit]
+NIST: Converting Digital Information to Braille at the Wayback Machine (archived December 31, 2009)
+Information on Bi-directional Refreshable Tactile Display US Patent 6,692,255
+vteBraille ⠃⠗⠁⠊⠇⠇⠑Braille cell
+1829 braille
+International uniformity
+ASCII braille
+Unicode braille patterns
+Braille scriptsFrench-ordered
+Albanian
+Azerbaijani
+Cantonese
+Catalan
+Chinese (mainland Mandarin) (largely reassigned)
+Czech
+Dutch
+English (Unified English)
+Esperanto
+French
+German
+Ghanaian
+Guarani
+Hawaiian
+Hungarian
+Iñupiaq
+IPA
+Irish
+Italian
+Latvian
+Lithuanian
+Luxembourgish (extended to 8-dot)
+Maltese
+Māori
+Navajo
+Nigerian
+Philippine
+Polish
+Portuguese
+Romanian
+Samoan
+Slovak
+South African
+Spanish
+Taiwanese Mandarin (largely reassigned)
+Turkish
+Vietnamese
+Welsh
+Yugoslav
+Zambian
+Nordic family
+Estonian
+Faroese
+Icelandic
+Scandinavian
+Danish
+Finnish
+Greenlandic
+Northern Sámi
+Norwegian
+Swedish
+Russian lineage familyi.e. Cyrillic-mediated scripts
+Belarusian
+Bulgarian
+Kazakh
+Kyrgyz
+Mongolian
+Russian
+Tatar
+Ukrainian
+Egyptian lineage familyi.e. Arabic-mediated scripts
+Arabic
+Persian
+Urdu (Pakistan)
+Indian lineage familyi.e. Bharati Braille
+Devanagari (Hindi / Marathi / Nepali)
+Bengali (Bangla / Assamese)
+Gujarati
+Kannada
+Malayalam
+Odia
+Punjabi
+Sinhala
+Tamil
+Telugu
+Urdu (India)
+Other scripts
+Amharic
+Armenian
+Burmese
+Dzongkha (Bhutanese)
+Georgian
+Greek
+Hebrew
+Inuktitut (reassigned vowels)
+Khmer
+Thai and Lao (Japanese vowels)
+Tibetan
+
+Reordered
+Algerian Braille (obsolete)
+Frequency-based
+American Braille (obsolete)
+Independent
+Chinese semi-syllabaries
+Cantonese
+Mainland Chinese Mandarin
+Taiwanese Mandarin
+Two-cell Chinese (Shuangpin)
+Japanese
+Korean
+Eight-dot
+Luxembourgish
+Kanji
+Gardner–Salinas braille codes (GS8)
+Symbols in braille
+Braille music
+Canadian currency marks
+Computer Braille Code
+Gardner–Salinas braille codes (science; GS8/GS6)
+International Phonetic Alphabet (IPA)
+Nemeth braille code
+Braille technology
+Braille e-book
+Braille embosser
+Braille translator
+Braille watch
+Mountbatten Brailler
+Optical braille recognition
+Perforation
+Perkins Brailler
+Refreshable braille display
+Slate and stylus
+Braigo
+People
+Louis Braille
+Charles Barbier
+Róża Czacka
+Valentin Haüy
+Harris Mowbray
+Thakur Vishva Narain Singh
+Sabriye Tenberken
+William Bell Wait
+Organisations
+Braille Institute of America
+Braille Without Borders
+Japan Braille Library
+National Braille Association
+Blindness organizations
+Schools for the blind
+American Printing House for the Blind
+Other tactile alphabets
+Decapoint
+Moon type
+New York Point
+Night writing
+Vibratese
+Related topics
+Accessible publishing
+Braille literacy
+RoboBraille
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Refreshable_braille_display&oldid=1283645268"
+Categories: American inventionsComputer accessibilityBraille technologyHaptic technologyHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from September 2019All articles needing additional referencesWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 2 April 2025, at 20:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Refreshable braille display
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1508 @@
+https://en.wikipedia.org/wiki/CPU_design
+
+
+
+
+Processor design - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Details
+
+
+
+
+Toggle Details subsection
+
+
+
+
+
+1.1
+Basics
+
+
+
+
+
+
+
+
+1.2
+Implementation logic
+
+
+
+
+
+
+
+
+1.3
+Microarchitectural concepts
+
+
+
+
+
+
+
+
+1.4
+Research topics
+
+
+
+
+
+
+
+
+1.5
+Performance analysis and benchmarking
+
+
+
+
+
+
+
+
+
+
+2
+Markets
+
+
+
+
+Toggle Markets subsection
+
+
+
+
+
+2.1
+General-purpose computing
+
+
+
+
+
+
+2.1.1
+High-end processor economics
+
+
+
+
+
+
+
+
+
+
+2.2
+Scientific computing
+
+
+
+
+
+
+
+
+2.3
+Embedded design
+
+
+
+
+
+
+2.3.1
+Embedded processor economics
+
+
+
+
+
+
+
+
+2.3.2
+Research and educational CPU design
+
+
+
+
+
+
+
+
+2.3.3
+Soft microprocessor cores
+
+
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+4.1
+General references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Processor design
+
+
+
+19 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschEspañolفارسیFrançais한국어हिन्दीBahasa IndonesiaМакедонскиNederlands日本語PolskiPortuguêsSlovenčinaSvenskaTürkçe中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from CPU design)
+Task of creating a processor
+Processor design is a subfield of computer science and computer engineering (fabrication) that deals with creating a processor, a key component of computer hardware.
+The design process involves choosing an instruction set and a certain execution paradigm (e.g. VLIW or RISC) and results in a microarchitecture, which might be described in e.g. VHDL or Verilog. For microprocessor design, this description is then manufactured employing some of the various semiconductor device fabrication processes, resulting in a die which is bonded onto a chip carrier. This chip carrier is then soldered onto, or inserted into a socket on, a printed circuit board (PCB).
+The mode of operation of any processor is the execution of lists of instructions. Instructions typically include those to compute or manipulate data values using registers, change or retrieve values in read/write memory, perform relational tests between data values and to control program flow.
+Processor designs are often tested and validated on one or several FPGAs before sending the design of the processor to a foundry for semiconductor fabrication.[1]
+
+
+Details[edit]
+This section is in list format but may read better as prose. You can help by converting this section, if appropriate. Editing help is available. (May 2011)
+Basics[edit]
+CPU design is divided into multiple components. Information is transferred through datapaths (such as ALUs and pipelines). These datapaths are controlled through logic by control units. Memory components include register files and caches to retain information, or certain actions. Clock circuitry maintains internal rhythms and timing through clock drivers, PLLs, and clock distribution networks. Pad transceiver circuitry which allows signals to be received and sent and a logic gate cell library which is used to implement the logic. Logic gates are the foundation for processor design as they are used to implement most of the processor's components.[2]
+CPUs designed for high-performance markets might require custom (optimized or application specific (see below)) designs for each of these items to achieve frequency, power-dissipation, and chip-area goals whereas CPUs designed for lower performance markets might lessen the implementation burden by acquiring some of these items by purchasing them as intellectual property. Control logic implementation techniques (logic synthesis using CAD tools) can be used to implement datapaths, register files, and clocks. Common logic styles used in CPU design include unstructured random logic, finite-state machines, microprogramming (common from 1965 to 1985), and Programmable logic arrays (common in the 1980s, no longer common).
+
+Implementation logic[edit]
+Device types used to implement the logic include:
+
+Individual vacuum tubes, individual transistors and semiconductor diodes, and transistor-transistor logic small-scale integration logic chips – no longer used for CPUs
+Programmable array logic and programmable logic devices – no longer used for CPUs
+Emitter-coupled logic (ECL) gate arrays – no longer common
+CMOS gate arrays – no longer used for CPUs
+CMOS mass-produced ICs – the vast majority of CPUs by volume
+CMOS ASICs – only for a minority of special applications due to expense
+Field-programmable gate arrays (FPGA) – common for soft microprocessors, and more or less required for reconfigurable computing
+A CPU design project generally has these major tasks:
+
+Programmer-visible instruction set architecture, which can be implemented by a variety of microarchitectures
+Architectural study and performance modeling in ANSI C/C++ or SystemC[clarification needed]
+High-level synthesis (HLS) or register transfer level (RTL, e.g. logic) implementation
+RTL verification
+Circuit design of speed critical components (caches, registers, ALUs)
+Logic synthesis or logic-gate-level design
+Timing analysis to confirm that all logic and circuits will run at the specified operating frequency
+Physical design including floorplanning, place and route of logic gates
+Checking that RTL, gate-level, transistor-level and physical-level representations are equivalent
+Checks for signal integrity, chip manufacturability
+Re-designing a CPU core to a smaller die area helps to shrink everything (a "photomask shrink"), resulting in the same number of transistors on a smaller die. It improves performance (smaller transistors switch faster), reduces power (smaller wires have less parasitic capacitance) and reduces cost (more CPUs fit on the same wafer of silicon). Releasing a CPU on the same size die, but with a smaller CPU core, keeps the cost about the same but allows higher levels of integration within one very-large-scale integration chip (additional cache, multiple CPUs or other components), improving performance and reducing overall system cost.
+As with most complex electronic designs, the logic verification effort (proving that the design does not have bugs) now dominates the project schedule of a CPU.
+Key CPU architectural innovations include index register, cache, virtual memory, instruction pipelining, superscalar, CISC, RISC, virtual machine, emulators, microprogram, and stack.
+
+Microarchitectural concepts[edit]
+Main article: Microarchitecture
+Research topics[edit]
+Main article: History of general-purpose CPUs § 1990 to today: Looking forward
+A variety of new CPU design ideas have been proposed,
+including reconfigurable logic, clockless CPUs, computational RAM, and optical computing.
+
+Performance analysis and benchmarking[edit]
+Main article: Computer performance
+Benchmarking is a way of testing CPU speed. Examples include SPECint and SPECfp, developed by Standard Performance Evaluation Corporation, and ConsumerMark developed by the Embedded Microprocessor Benchmark Consortium EEMBC.
+Some of the commonly used metrics include:
+
+Instructions per second - Most consumers pick a computer architecture (normally Intel IA32 architecture) to be able to run a large base of pre-existing pre-compiled software.  Being relatively uninformed on computer benchmarks,  some of them pick a particular CPU based on operating frequency (see Megahertz Myth).
+FLOPS - The number of floating point operations per second is often important in selecting computers for scientific computations.
+Performance per watt - System designers building parallel computers, such as Google, pick CPUs based on their speed per watt of power, because the cost of powering the CPU outweighs the cost of the CPU itself.[3][4]
+Some system designers building parallel computers pick CPUs based on the speed per dollar.
+System designers building real-time computing systems want to guarantee worst-case response. That is easier to do when the CPU has low interrupt latency and when it has deterministic response. (DSP)
+Computer programmers who program directly in assembly language want a CPU to support a full featured instruction set.
+Low power - For systems with limited power sources (e.g. solar, batteries, human power).
+Small size or low weight - for portable embedded systems, systems for spacecraft.
+Environmental impact - Minimizing environmental impact of computers during manufacturing and recycling as well during use.  Reducing waste, reducing hazardous materials.  (see Green computing).
+There may be tradeoffs in optimizing some of these metrics.  In particular, many design techniques that make a CPU run faster make the "performance per watt", "performance per dollar", and "deterministic response" much worse, and vice versa.
+
+Markets[edit]
+This section needs to be updated. The reason given is: No update since 2010, the market has significantly evolved since then. Please help update this article to reflect recent events or newly available information. (December 2023)
+There are several different markets in which CPUs are used. Since each of these markets differ in their requirements for CPUs, the devices designed for one market are in most cases inappropriate for the other markets.
+
+General-purpose computing[edit]
+As of 2010[update], in the general-purpose computing market, that is, desktop, laptop, and server computers commonly used in businesses and homes, the Intel IA-32 and the 64-bit version x86-64 architecture dominate the market, with its rivals PowerPC and SPARC maintaining much smaller customer bases. Yearly, hundreds of millions of IA-32 architecture CPUs are used by this market.  A growing percentage of these processors are for mobile implementations such as netbooks and laptops.[5]
+Since these devices are used to run countless different types of programs, these CPU designs are not specifically targeted at one type of application or one function. The demands of being able to run a wide range of programs efficiently has made these CPU designs among the more advanced technically, along with some disadvantages of being relatively costly, and having high power consumption.
+
+High-end processor economics[edit]
+In 1984, most high-performance CPUs required four to five years to develop.[6]
+
+Scientific computing[edit]
+Main article: Supercomputer
+Scientific computing is a much smaller niche market (in revenue and units shipped).  It is used in government research labs and universities. Before 1990, CPU design was often done for this market, but mass market CPUs organized into large clusters have proven to be more affordable. The main remaining area of active hardware design and research for scientific computing is for high-speed data transmission systems to connect mass market CPUs.
+
+Embedded design[edit]
+Main article: Embedded system
+As measured by units shipped, most CPUs are embedded in other machinery, such as telephones, clocks, appliances, vehicles, and infrastructure. Embedded processors sell in the volume of many billions of units per year, however, mostly at much lower price points than that of the general purpose processors.
+These single-function devices differ from the more familiar general-purpose CPUs in several ways:
+
+Low cost is of high importance.
+It is important to maintain a low power dissipation as embedded devices often have a limited battery life and it is often impractical to include cooling fans.
+To give lower system cost, peripherals are integrated with the processor on the same silicon chip.
+Keeping peripherals on-chip also reduces power consumption as external GPIO ports typically require buffering so that they can source or sink the relatively high current loads that are required to maintain a strong signal outside of the chip.
+Many embedded applications have a limited amount of physical space for circuitry; keeping peripherals on-chip will reduce the space required for the circuit board.
+The program and data memories are often integrated on the same chip. When the only allowed program memory is ROM, the device is known as a microcontroller.
+For many embedded applications, interrupt latency will be more critical than in some general-purpose processors.
+Embedded processor economics[edit]
+The embedded CPU family with the largest number of total units shipped is the 8051, averaging nearly a billion units per year.[7]  The 8051 is widely used because it is very inexpensive.  The design time is now roughly zero, because it is widely available as commercial intellectual property.  It is now often embedded as a small part of a larger system on a chip.  The silicon cost of an 8051 is now as low as US$0.001, because some implementations use as few as 2,200 logic gates and take 0.4730 square millimeters of silicon.[8][9]
+As of 2009, more CPUs are produced using the ARM architecture family instruction sets than any other 32-bit instruction set.[10][11]
+The ARM architecture and the first ARM chip were designed in about one and a half years and 5 human years of work time.[12]
+The 32-bit Parallax Propeller microcontroller architecture and the first chip were designed by two people in about 10 human years of work time.[13]
+The 8-bit AVR architecture and first AVR microcontroller was conceived and designed by two students at the Norwegian Institute of Technology.
+The 8-bit 6502 architecture and the first MOS Technology 6502 chip were designed in 13 months by a group of about 9 people.[14]
+
+Research and educational CPU design[edit]
+The 32-bit Berkeley RISC I and RISC II processors were mostly designed by a series of students as part of a four quarter sequence of graduate courses.[15]
+This design became the basis of the commercial SPARC processor design.
+For about a decade, every student taking the 6.004 class at MIT was part of a team—each team had one semester to design and build a simple 8 bit CPU out of 7400 series integrated circuits.
+One team of 4 students designed and built a simple 32 bit CPU during that semester.[16]
+Some undergraduate courses require a team of 2 to 5 students to design, implement, and test a simple CPU in a FPGA in a single 15-week semester.[17]
+The MultiTitan CPU was designed with 2.5 man years of effort, which was considered "relatively little design effort" at the time.[18]
+24 people contributed to the 3.5 year MultiTitan research project, which included designing and building a prototype CPU.[19]
+
+Soft microprocessor cores[edit]
+Main article: Soft microprocessor
+For embedded systems, the highest performance levels are often not needed or desired due to the power consumption requirements. This allows for the use of processors which can be totally implemented by logic synthesis techniques. These synthesized processors can be implemented in a much shorter amount of time, giving quicker time-to-market.
+
+See also[edit]
+
+
+
+Wikibooks has a book on the topic of: Microprocessor Design
+
+Amdahl's law
+Central processing unit
+Comparison of instruction set architectures
+Complex instruction set computer
+CPU cache
+Electronic design automation
+Heterogeneous computing
+High-level synthesis
+History of general-purpose CPUs
+Integrated circuit design
+Microarchitecture
+Microprocessor
+Minimal instruction set computer
+Moore's law
+Reduced instruction set computer
+System on a chip
+Network on a chip
+Process design kit – a set of documents created or accumulated for a semiconductor device production process
+Uncore
+References[edit]
+
+
+^ Cutress, Ian (August 27, 2019). "Xilinx Announces World Largest FPGA: Virtex Ultrascale+ VU19P with 9m Cells". AnandTech.
+
+^ Deschamps, Jean-Pierre; Valderrama, Elena; Terés, Lluís (12 October 2016). Digital Systems: From Logic Gates to Processors. Springer. ISBN 978-3-319-41198-9.
+
+^ "EEMBC ConsumerMark". Archived from the original on March 27, 2005.
+
+^ Stephen Shankland (December 9, 2005). "Power could cost more than servers, Google warns". ZDNet.
+
+^ Kerr, Justin. "AMD Loses Market Share as Mobile CPU Sales Outsell Desktop for the First Time."  Maximum PC.  Published 2010-10-26.
+
+^ 
+"New system manages hundreds of transactions per second" article
+by Robert Horst and Sandra Metz, of Tandem Computers Inc.,
+"Electronics" magazine, 1984 April 19:
+"While most high-performance CPUs require four to five years to develop,
+The NonStop TXP processor took just 2+1/2 years --
+six months to develop a complete written specification,
+one year to construct a working prototype,
+and another year to reach volume production."
+
+^ Curtis A. Nelson. "8051 Overview" (PDF). Archived from the original (PDF) on 2011-10-09. Retrieved 2011-07-10.
+
+^ 
+"T8051 Tiny 8051-compatible Microcontroller" (PDF). Archived from the original (PDF) on 2011-09-29.
+
+^ To figure dollars per square millimeter, see [1], and note that an SOC component has no pin or packaging costs.
+
+^ 
+"ARM Cores Climb Into 3G Territory" by Mark Hachman, 2002.
+
+^ 
+"The Two Percent Solution" by Jim Turley 2002.
+
+^ "ARM's way" 1998
+
+^ Gracey, Chip. "Why the Propeller Works" (PDF). Archived from the original (PDF) on 2009-04-19.
+
+^ "Interview with William Mensch". Archived from the original on 2016-03-04. Retrieved 2009-02-01.
+
+^ C.H. Séquin; D.A. Patterson. "Design and Implementation of RISC I" (PDF). Archived (PDF) from the original on 2006-03-05.
+
+^ "the VHS". Archived from the original on 2010-02-27.
+
+^ Jan Gray. "Teaching Computer Design with FPGAs".
+
+^ Jouppi, N.P.; Tang, J.Y.-F. (October 1989). "A 20-MIPS sustained 32-bit CMOS microprocessor with high ratio of sustained to peak performance". IEEE Journal of Solid-State Circuits. 24 (5): 1348–1359. Bibcode:1989IJSSC..24.1348J. doi:10.1109/JSSC.1989.572612.
+
+^ "MultiTitan: Four Architecture Papers" (PDF). 1988. pp. 4–5. Archived (PDF) from the original on 2004-08-25.
+
+
+General references[edit]
+Hwang, Enoch (2006). Digital Logic and Microprocessor Design with VHDL. Thomson. ISBN 0-534-46593-5.
+Processor Design: An Introduction
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+vteDesign
+Outline
+Designer
+DisciplinesCommunicationdesign
+Advertising
+Book design
+Brand design
+Exhibit design
+Film title design
+Graphic design
+Motion
+Postage stamp design
+Print design
+Illustration
+Information design
+Instructional design
+News design
+Photography
+Retail design
+Signage / Traffic sign design
+Typography / Type design
+Video design
+Visual merchandising
+Environmentaldesign
+Architecture
+Architectural lighting design
+Building design
+Passive solar
+Ecological design
+Environmental impact design
+Garden design
+Computer-aided
+Healthy community design
+Hotel design
+Interior architecture
+Interior design
+EID
+Keyline design
+Landscape architecture
+Sustainable
+Landscape design
+Spatial design
+Urban design
+Industrialdesign
+Automotive design
+Automotive suspension design
+CMF design
+Corrugated box design
+Electric guitar design
+Furniture design
+Sustainable
+Hardware interface design
+Motorcycle design
+Packaging and labeling
+Photographic lens design
+Product design
+Production design
+Sensory design
+Service design
+Interactiondesign
+Experience design
+EED
+Game design
+Level design
+Video game design
+Hardware interface design
+Icon design
+Immersive design
+Information design
+Interactive design
+Sonic interaction design
+User experience design
+User interface design
+Web design
+Otherapplied arts
+Public art design
+Ceramic / glass design
+Fashion design
+Costume design
+Jewellery design
+Floral design
+Game art design
+Property design
+Scenic design
+Sound design
+Stage/set lighting design
+Textile design
+Otherdesign& engineering
+Algorithm design
+Behavioural design
+Boiler design
+Database design
+Drug design
+Electrical system design
+Experimental design
+Filter design
+Geometric design
+Work design
+Integrated circuit design
+Circuit design
+Physical design
+Power network design
+Mechanism design
+Nuclear weapon design
+Nucleic acid design
+Organization design
+Process design
+Processor design
+Protein design
+Research design
+Social design
+Software design
+Spacecraft design
+Strategic design
+Systems design
+Test design
+Approaches
+Active
+Activity-centered
+Adaptive web
+Affective
+Brainstorming
+By committee
+By contract
+C-K theory
+Closure
+Co-design
+Concept-oriented
+Configuration
+Contextual
+Continuous
+Cradle-to-cradle
+Creative problem-solving
+Creativity techniques
+Critical
+Design fiction
+Defensive
+Design–bid–build
+Design–build
+architect-led
+Diffuse
+Domain-driven
+Ecological design
+Energy neutral
+Engineering design process
+Probabilistic design
+Ergonomic
+Error-tolerant
+Evidence-based
+Fault-tolerant
+Feminist
+For assembly
+For behaviour change
+For manufacturability
+For Six Sigma
+For testing
+For the environment
+For X
+Framework-oriented
+Functional
+Generative
+Geodesign
+HCD
+High-level
+Hostile
+Inclusive
+Integrated
+Integrated topside
+Intelligence-based
+Iterative
+KISS principle
+Low-level
+Metadesign
+Mind mapping
+Modular
+New Wave
+Object-oriented
+Open
+Over
+Parametric
+Participatory
+Platform-based
+Policy-based
+Prevention through
+Process-centered
+Public interest
+Rational
+Regenerative
+Reliability engineering
+Research-based
+Responsibility-driven
+RWD
+Safe-life
+Speculative
+Sustainable
+Systemic
+SOD
+Tableless web
+Theory of constraints
+Top-down and bottom-up
+Transformation
+Transgenerational
+TRIZ
+Universal
+Design for All
+Usage-centered
+Use-centered
+User-centered
+Empathic
+User innovation
+Value-driven
+Value sensitive
+Privacy by
+Quality by
+Secure by
+Design choice
+computing
+controls
+culture
+flow
+justice
+leadership
+management
+marker
+methods
+pattern
+research
+science
+sprint
+strategy
+theory
+thinking
+ToolsIntellectual propertyOrganizationsAwardsTools
+AAD
+Architectural model
+Blueprint
+Comprehensive layout
+CAD
+CAID
+Virtual home design software
+CAutoD
+Design quality indicator
+Electronic design automation
+Flowchart
+Mockup
+Design specification
+Design system
+Prototype
+Sketch
+Storyboard
+Technical drawing
+HTML editor
+Website wireframe
+Intellectualproperty
+Clean-room design
+Community design
+Design around
+Design infringement
+Design patent
+Fashion design copyright
+Geschmacksmuster
+Industrial design rights
+European Union
+Organizations
+American Institute of Graphic Arts
+Chartered Society of Designers
+Design and Industries Association
+Design Council
+International Forum Design
+Design Research Society
+Awards
+European Design Award
+German Design Award
+Good Design Award (Museum of Modern Art)
+Good Design Award (Chicago Athenaeum)
+Graphex
+IF Product Design Award
+James Dyson Award
+Prince Philip Designers Prize
+Related topics
+Agile
+Concept art
+Conceptual design
+Creative industries
+Cultural icon
+.design
+Dominant design
+Enterprise architecture
+Form factor
+Futures studies
+Indie design
+Innovation management
+Intelligent design
+Lean startup
+New product development
+OODA loop
+Philosophy of design
+Process simulation
+Reference design
+Slow design
+STEAM fields
+Unintelligent design
+Visualization
+Wicked problem
+Design attributes
+brief
+change
+classic
+competition
+architectural
+student
+director
+education
+elements
+engineer
+firm
+history
+knowledge
+language
+life
+load
+museum
+optimization
+paradigm
+principles
+rationale
+review
+specification
+studies
+studio
+technology
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Processor_design&oldid=1287385956"
+Categories: Central processing unitComputer engineeringDesign engineeringHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing cleanup from May 2011All pages needing cleanupArticles with sections that need to be turned into prose from May 2011Wikipedia articles needing clarification from January 2013Wikipedia articles in need of updating from December 2023All Wikipedia articles in need of updatingArticles containing potentially dated statements from 2010All articles containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 25 April 2025, at 22:01 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Processor design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

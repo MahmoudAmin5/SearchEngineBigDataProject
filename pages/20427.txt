@@ -1,0 +1,1081 @@
+https://en.wikipedia.org/wiki/Superscalar
+
+
+
+
+Superscalar processor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Scalar to superscalar
+
+
+
+
+
+
+
+
+3
+Limitations
+
+
+
+
+
+
+
+
+4
+Alternatives
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Superscalar processor
+
+
+
+23 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschΕλληνικάEspañolفارسیFrançais한국어Bahasa IndonesiaItalianoNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSimple EnglishSlovenčinaСрпски / srpskiSuomiУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+WikiversityWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Superscalar)
+CPU that implements instruction-level parallelism within a single processor
+"Superscaler" redirects here. For the Sega arcade system board, see Sega Super Scaler.
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (October 2017) (Learn how and when to remove this message)
+Simple superscalar pipeline. By fetching and dispatching two instructions at a time, a maximum of two instructions per cycle can be completed. (IF = instruction fetch, ID = instruction decode, EX = execute, MEM = memory access, WB = register write-back, i = instruction number, t = clock cycle [i.e. time])
+Processor board of a CRAY T3e supercomputer with four superscalar Alpha 21164 processors
+A superscalar processor (or multiple-issue processor[1]) is a CPU that implements a form of parallelism called instruction-level parallelism within a single processor.[2] In contrast to a scalar processor, which can execute at most one single instruction per clock cycle, a superscalar processor can execute or start executing more than one instruction during a clock cycle by simultaneously dispatching multiple instructions to different execution units on the processor. It therefore allows more throughput (the number of instructions that can be executed in a unit of time which can even be less than 1) than would otherwise be possible at a given clock rate. Each execution unit is not a separate processor (or a core if the processor is a multi-core processor), but an execution resource within a single CPU such as an arithmetic logic unit.
+While a superscalar CPU is typically also pipelined, superscalar and pipelining execution are considered different performance enhancement techniques. The former (superscalar) executes multiple instructions in parallel by using multiple execution units, whereas the latter (pipeline) executes multiple instructions in the same execution unit in parallel by dividing the execution unit into different phases.  In the "Simple superscalar pipeline" figure, fetching two instructions at the same time is superscaling, and fetching the next two before the first pair has been written back is pipelining.
+The superscalar technique is traditionally associated with several identifying characteristics (within a given CPU):
+
+Instructions are issued from a sequential instruction stream
+The CPU dynamically checks for data dependencies between instructions at run time (versus software checking at compile time)
+The CPU can execute multiple instructions per clock cycle
+
+History[edit]
+Seymour Cray's CDC 6600 from 1964, while not capable of issuing multiple instructions per cycle, is often cited as an early influence to modern superscalar processors for its ability to execute instructions simultaneously through multiple functional units. The 1967 IBM System/360 Model 91, was another early influence that introduced out-of-order execution, pioneering use of Tomasulo's algorithm.[3] The Intel i960CA (1989),[4] the AMD 29000-series 29050 (1990), and the Motorola MC88110 (1991),[5] microprocessors were the first commercial single-chip superscalar microprocessors. RISC microprocessors like these were the first to have superscalar execution, because RISC architectures free transistors and die area which can be used to include multiple execution units and the traditional uniformity of the instruction set favors superscalar dispatch (this was why RISC designs were faster than CISC designs through the 1980s and into the 1990s, and it's far more complicated to do multiple dispatch when instructions have variable bit length).
+Except for CPUs used in low-power applications, embedded systems, and battery-powered devices, essentially all general-purpose CPUs developed since about 1998 are superscalar.
+The P5 Pentium was the first superscalar x86 processor; the Nx586, P6 Pentium Pro and AMD K5 were among the first designs which decode x86-instructions asynchronously into dynamic microcode-like micro-op sequences prior to actual execution on a superscalar microarchitecture; this opened up for dynamic scheduling of buffered partial instructions and enabled more parallelism to be extracted compared to the more rigid methods used in the simpler P5 Pentium; it also simplified speculative execution and allowed higher clock frequencies compared to designs such as the advanced Cyrix 6x86.
+
+Scalar to superscalar[edit]
+The simplest processors are scalar processors. Each instruction executed by a scalar processor typically manipulates one or two data items at a time. By contrast, each instruction executed by a vector processor operates simultaneously on many data items. An analogy is the difference between scalar and vector arithmetic. A superscalar processor is a mixture of the two. Each instruction processes one data item, but there are multiple execution units within each CPU thus multiple instructions can be processing separate data items concurrently.
+Superscalar CPU design emphasizes improving the instruction dispatcher accuracy and allowing it to keep the multiple execution units in use at all times. This has become increasingly important as the number of units has increased. While early superscalar CPUs would have two ALUs and a single FPU, a later design such as the PowerPC 970 includes four ALUs, two FPUs, and two SIMD units. If the dispatcher is ineffective at keeping all of these units fed with instructions, the performance of the system will be no better than that of a simpler, cheaper design.
+A superscalar processor usually sustains an execution rate in excess of one instruction per machine cycle. But merely processing multiple instructions concurrently does not make an architecture superscalar, since pipelined, multiprocessor or multi-core architectures also achieve that, but with different methods.
+In a superscalar CPU the dispatcher reads instructions from memory and decides which ones can be run in parallel, dispatching each to one of the several execution units contained inside a single CPU. Therefore, a superscalar processor can be envisioned as having multiple parallel pipelines, each of which is processing instructions simultaneously from a single instruction thread.
+Most modern superscalar CPUs also have logic to reorder the instructions to try to avoid pipeline stalls and increase parallel execution.
+
+Limitations[edit]
+Available performance improvement from superscalar techniques is limited by three key areas:
+
+The degree of intrinsic parallelism in the instruction stream (instructions requiring the same computational resources from the CPU)
+The complexity and time cost of dependency checking logic and register renaming circuitry
+The branch instruction processing
+Existing binary executable programs have varying degrees of intrinsic parallelism. In some cases instructions are not dependent on each other and can be executed simultaneously. In other cases they are inter-dependent: one instruction impacts either resources or results of the other. The instructions a = b + c; d = e + f can be run in parallel because none of the results depend on other calculations. However, the instructions a = b + c; b = e + f might not be runnable in parallel, depending on the order in which the instructions complete while they move through the units.
+Although the instruction stream may contain no inter-instruction dependencies, a superscalar CPU must nonetheless check for that possibility, since there is no assurance otherwise and failure to detect a dependency would produce incorrect results.
+No matter how advanced the semiconductor process or how fast the switching speed, this places a practical limit on how many instructions can be simultaneously dispatched. While process advances will allow ever greater numbers of execution units (e.g. ALUs), the burden of checking instruction dependencies grows rapidly, as does the complexity of register renaming circuitry to mitigate some dependencies. Collectively the power consumption, complexity and gate delay costs limit the achievable superscalar speedup.
+However even given infinitely fast dependency checking logic on an otherwise conventional superscalar CPU, if the instruction stream itself has many dependencies, this would also limit the possible speedup. Thus the degree of intrinsic parallelism in the code stream forms a second limitation.
+
+Alternatives[edit]
+Collectively, these limits drive investigation into alternative architectural changes such as very long instruction word (VLIW), explicitly parallel instruction computing (EPIC), simultaneous multithreading (SMT), and multi-core computing.
+With VLIW, the burdensome task of dependency checking by hardware logic at run time is removed and delegated to the compiler. Explicitly parallel instruction computing (EPIC) is like VLIW with extra cache prefetching instructions.
+Simultaneous multithreading (SMT) is a technique for improving the overall efficiency of superscalar processors. SMT permits multiple independent threads of execution to better utilize the resources provided by modern processor architectures. The fact that they are independent means that we know that the instruction of one thread can be executed out of order and/or in parallel with the instruction of a different one. Also, one independent thread will not produce a pipeline bubble in the code stream of a different one, for example, due to a branch. 
+Superscalar processors differ from multi-core processors in that the several execution units are not entire processors. A single processor is composed of finer-grained execution units such as the ALU, integer multiplier, integer shifter, FPU, etc. There may be multiple versions of each execution unit to enable the execution of many instructions in parallel. This differs from a multi-core processor that concurrently processes instructions from multiple threads, one thread per processing unit (called "core"). It also differs from a pipelined processor, where the multiple instructions can concurrently be in various stages of execution, assembly-line fashion.
+The various alternative techniques are not mutually exclusive—they can be (and frequently are) combined in a single processor. Thus a multicore CPU is possible where each core is an independent processor containing multiple parallel pipelines, each pipeline being superscalar. Some processors also include vector capability.
+
+See also[edit]
+Eager execution
+Hyper-threading
+Simultaneous multithreading
+Out-of-order execution
+Shelving buffer
+Speculative execution
+Software lockout, a multiprocessor issue similar to logic dependencies on superscalars
+Super-threading
+References[edit]
+
+
+^ P. Pacheco, Introduction to Parallel Programming, 2011, section 2.2.5, "There are two main approaches to ILP: pipelining ... and multiple issue ... A processor that supports dynamic multiple issue is
+sometimes said to be superscalar." A. Chien, Computer Architecture for Scientists, 2022, page 102, "multiple-issue (aka superscalar)".
+
+^ "What is a Superscalar Processor? - Definition from Techopedia". Techopedia.com. 28 February 2019. Retrieved 2022-08-29.
+
+^ Smith, James E.; Sohi, Gurindar S. (December 1995). "The Microarchitecture of Superscalar Processors" (PDF). Proceedings of the IEEE. 83 (12): 1609. doi:10.1109/5.476078.
+
+^ McGeady, Steven (Spring 1990). The i960CA SuperScalar implementation of the 80960 architecture. Thirty-Fifth IEEE Computer Society International Conference on Intellectual Leverage. Digest of Papers Compcon Spring '90. pp. 232–240. doi:10.1109/CMPCON.1990.63681. ISBN 0-8186-2028-5. S2CID 13206773.
+
+^ Diefendorff, K.; Allen, M. (Spring 1992). "The Motorola 88110 Superscalar RISC microprocessor". Digest of Papers COMPCON Spring 1992. pp. 157–162. doi:10.1109/CMPCON.1992.186702. ISBN 0-8186-2655-0. S2CID 34913907.
+
+
+Mike Johnson, Superscalar Microprocessor Design, Prentice-Hall, 1991, ISBN 0-13-875634-1
+Sorin Cotofana, Stamatis Vassiliadis, "On the Design Complexity of the Issue Logic of Superscalar Machines", EUROMICRO 1998: 10277-10284
+Steven McGeady, et al., "Performance Enhancements in the Superscalar i960MM Embedded Microprocessor," ACM Proceedings of the 1991 Conference on Computer Architecture (Compcon), 1991, pp. 4–7
+External links[edit]
+Eager Execution / Dual Path / Multiple Path, By Mark Smotherman
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+vteParallel computingGeneral
+Distributed computing
+Parallel computing
+Massively parallel
+Cloud computing
+High-performance computing
+Multiprocessing
+Manycore processor
+GPGPU
+Computer network
+Systolic array
+Levels
+Bit
+Instruction
+Thread
+Task
+Data
+Memory
+Loop
+Pipeline
+Multithreading
+Temporal
+Simultaneous (SMT)
+Simultaneous and heterogenous
+Speculative (SpMT)
+Preemptive
+Cooperative
+Clustered multi-thread (CMT)
+Hardware scout
+Theory
+PRAM model
+PEM model
+Analysis of parallel algorithms
+Amdahl's law
+Gustafson's law
+Cost efficiency
+Karp–Flatt metric
+Slowdown
+Speedup
+Elements
+Process
+Thread
+Fiber
+Instruction window
+Array
+Coordination
+Multiprocessing
+Memory coherence
+Cache coherence
+Cache invalidation
+Barrier
+Synchronization
+Application checkpointing
+Programming
+Stream processing
+Dataflow programming
+Models
+Implicit parallelism
+Explicit parallelism
+Concurrency
+Non-blocking algorithm
+Hardware
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+MISD
+MIMD
+Dataflow architecture
+Pipelined processor
+Superscalar processor
+Vector processor
+Multiprocessor
+symmetric
+asymmetric
+Memory
+shared
+distributed
+distributed shared
+UMA
+NUMA
+COMA
+Massively parallel computer
+Computer cluster
+Beowulf cluster
+Grid computer
+Hardware acceleration
+APIs
+Ateji PX
+Boost
+Chapel
+HPX
+Charm++
+Cilk
+Coarray Fortran
+CUDA
+Dryad
+C++ AMP
+Global Arrays
+GPUOpen
+MPI
+OpenMP
+OpenCL
+OpenHMPP
+OpenACC
+Parallel Extensions
+PVM
+pthreads
+RaftLib
+ROCm
+UPC
+TBB
+ZPL
+Problems
+Automatic parallelization
+Deadlock
+Deterministic algorithm
+Embarrassingly parallel
+Parallel slowdown
+Race condition
+Software lockout
+Scalability
+Starvation
+
+ Category: Parallel computing
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Superscalar_processor&oldid=1274810964"
+Categories: Superscalar microprocessorsClasses of computersComputer architectureParallel computingHidden categories: Articles with short descriptionShort description matches WikidataArticles lacking in-text citations from October 2017All articles lacking in-text citations
+
+
+
+
+
+
+ This page was last edited on 9 February 2025, at 11:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Superscalar processor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

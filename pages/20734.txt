@@ -1,0 +1,1208 @@
+https://en.wikipedia.org/wiki/Digital_radio
+
+
+
+
+Digital radio - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Types
+
+
+
+
+
+
+
+
+2
+One-way (broadcasting) systems
+
+
+
+
+Toggle One-way (broadcasting) systems subsection
+
+
+
+
+
+2.1
+Broadcast standards
+
+
+
+
+
+
+2.1.1
+Digital audio broadcasting systems
+
+
+
+
+
+
+
+
+2.1.2
+Digital television (DTV) broadcasting systems
+
+
+
+
+
+
+
+
+
+
+2.2
+Status by country
+
+
+
+
+
+
+2.2.1
+DAB adopters
+
+
+
+
+
+
+
+
+2.2.2
+Australia
+
+
+
+
+
+
+
+
+2.2.3
+Canada
+
+
+
+
+
+
+
+
+2.2.4
+Germany
+
+
+
+
+
+
+
+
+2.2.5
+Korea
+
+
+
+
+
+
+
+
+2.2.6
+Hong Kong
+
+
+
+
+
+
+
+
+2.2.7
+Norway
+
+
+
+
+
+
+
+
+2.2.8
+Other European Countries
+
+
+
+
+
+
+
+
+2.2.9
+Japan
+
+
+
+
+
+
+
+
+2.2.10
+United Kingdom
+
+
+
+
+
+
+
+
+2.2.11
+United States
+
+
+
+
+
+
+
+
+2.2.12
+Developing nations
+
+
+
+
+
+
+
+
+
+
+
+
+3
+Two-way digital radio standards
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital radio
+
+
+
+22 languages
+
+
+
+
+CatalàDanskDeutschEestiEspañolفارسیFrançais한국어Bahasa IndonesiaҚазақшаNederlands日本語Norsk bokmålNorsk nynorskភាសាខ្មែរPolskiPortuguêsРусскийSvenskaTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Use of digital technology to transmit or receive across the radio spectrum
+Digital radio is the use of digital technology to transmit or receive across the radio spectrum. Digital transmission by radio waves includes digital broadcasting, and especially digital audio radio services. This should not be confused with Internet radio which also is digital but not transmitted by radio waves in the radio spectrum.
+
+Example of a digital radio
+
+Types[edit]
+In digital broadcasting systems, the analog audio signal is digitized, compressed using an audio coding format such as AAC+ (MDCT)[1] or MP2, and transmitted using a digital modulation scheme. The aim is to increase the number of radio programs in a given spectrum, to improve the audio quality, to eliminate fading problems in mobile environments, to allow additional datacasting services, and to decrease the transmission power or the number of transmitters required to cover a region. However, analog radio (AM and FM) is still more popular and listening to radio over IP (Internet Protocol) is growing in popularity.
+In 2012, four digital wireless radio systems are recognized by the International Telecommunication Union: the two European systems Digital Audio Broadcasting (DAB) and Digital Radio Mondiale (DRM), the Japanese ISDB-T and the in-band on-channel technique used in the US and Arab world and branded as HD Radio. - 5G Broadcast is a joint digital terrestrial broadcasting platform for radio and television under development in the UHF band being tested in 20 countries (2025) for more than five years. 
+An older definition, still used in communication engineering literature, is wireless digital transmission technologies, i.e. microwave  and radio frequency communication standards where analog information signals as well as digital data are carried by a digital signal, by means of a digital modulation method. This definition includes broadcasting systems such as digital TV and digital radio broadcasting, but also two-way digital radio standards such as the second generation (2G) cell-phones and later, short-range communication such as digital cordless phones, wireless computer networks, digital micro-wave radio links, deep space communication systems such as communications to and from the two Voyager space probes, etc.
+
+
+One-way (broadcasting) systems[edit]
+Broadcast standards[edit]
+Digital audio radio service standards may provide terrestrial or satellite radio service. Digital radio broadcasting systems are typically designed for handheld mobile devices, like mobile-TV systems and unlike other digital TV systems which typically require a fixed directional antenna. Some digital radio systems provide in-band on-channel (IBOC) solutions that may coexist with or simulcast with analog AM or FM transmissions, while others are designed for designated radio frequency bands. The latter allows one wideband radio signal to carry a multiplex of several radio-channels of various bitrates as well as data services and other forms of media. Some digital broadcasting systems allow  single-frequency network (SFN), where all terrestrial transmitters in a region sending the same multiplex of radio programs may use the same frequency channel without self-interference problems, further improving the system spectral efficiency.
+While digital broadcasting offers many potential benefits, its introduction has been hindered by a lack of global agreement on standards and many disadvantages. The DAB Eureka 147 standard for digital radio is coordinated by the World DMB Forum. This standard of digital radio technology was defined in the late 1980s, and is now being introduced in some European countries. Commercial DAB receivers began to be sold in 1998 and, by 2006, 500 million people were in the coverage area of DAB broadcasts, although by this time sales had only taken off in the UK and Denmark. In 2006 there are approximately 1,000 DAB stations in operation.[2] There have been criticisms of the Eureka 147 standard and so a new 'DAB+' standard has been introduced.
+The DRM standard has been used for several years to broadcast digitally on frequencies below 30 MHz (shortwave, mediumwave and longwave). Also there is now the extended standard DRM+, which is designed for VHF bands.[3] Tests of DRM+ has been made in countries such as in Brazil, Germany, France, India, Sri Lanka, the UK, Slovakia, Italy (incl. the Vatican), as well as Sweden.[4]
+The two pan-European associations for community radio Community Media Forum Europe (CMFE) and AMARC Europe have stated to the European Commission that FM radio should be retained for local radio. In case of a future digital transition DRM+ would be the choice.
+[5]
+[6]
+To date the following standards have been defined for one-way digital radio:
+
+Digital audio broadcasting systems[edit]
+Eureka 147 (branded as DAB)
+DAB+
+5G Broadcast
+ISDB-TSB
+Internet radio (Technically not a true broadcast system)
+T-DMB V-Radio
+AM band in-band on-channel (AM IBOC):
+HD Radio (AM IBOC sideband)
+Digital Radio Mondiale (branded as DRM) for the short-, medium- and long-wave bands
+FM band in-band on-channel (FM IBOC):
+HD Radio (OFDM modulation over AM and FM band IBOC sidebands)
+FMeXtra (FM band IBOC subcarriers)
+Digital Radio Mondiale extension (DRM+) (OFDM modulation over AM band IBOC sidebands)
+Convergent Digital Radio (CDR) (OFDM modulation over FM band IBOC sidebands)
+Satellite radio:
+WorldSpace in Asia and Africa
+Sirius XM Radio in North America
+MobaHo! in Japan and the Republic of (South) Korea
+Systems also designed for digital TV:
+DMB
+DVB-H
+ISDB-T
+DTMB
+Low-bandwidth digital data broadcasting over existing FM radio:
+Radio Data System (branded as RDS)
+Radio pagers:
+FLEX
+ReFLEX
+POCSAG
+NTT
+Digital television (DTV) broadcasting systems[edit]
+Digital Video Broadcasting (DVB)
+5G Broadcast
+Integrated Services Digital Broadcasting (ISDB)
+Digital Multimedia Broadcasting (DMB)
+Digital Terrestrial Television (DTTV or DTT) to fixed mainly roof-top antennas:
+DVB-T (based on OFDM modulation)
+ISDB-T (based on OFDM modulation)
+ATSC (based on 8VSB modulation)
+T-DMB (based on OFDM modulation)
+Digital Terrestrial Multimedia Broadcast (DTMB) (based on OFDM modulation)
+Mobile TV reception in handheld devices:
+DVB-H (based on OFDM modulation)
+MediaFLO (based on OFDM modulation)
+DMB (based on OFDM modulation)
+Multimedia Broadcast Multicast Service (MBMS) via the GSM EDGE and UMTS cellular networks
+DVB-SH (based on OFDM modulation)
+China Multimedia Mobile Broadcasting (CMMB) (based on OFDM modulation)
+Satellite TV:
+DVB-S (for Satellite TV)
+ISDB-S
+4DTV
+S-DMB
+MobaHo!
+Advanced Broadcasting System-Satellite (ABS-S)
+See also software radio for a discussion of radios which use digital signal processing.
+
+Status by country[edit]
+DAB adopters[edit]
+Further information: Countries using DAB/DMB
+Digital Audio Broadcasting (DAB), also known as Eureka 147, has been adopted by around 20 countries worldwide. It is based on the MPEG-1 Audio Layer II audio coding format and this has been co-ordinated by the WorldDMB.
+WorldDMB announced in November 2006 that DAB would be adopting the HE-AACv2 audio coding format, also known as eAAC+. Also being adopted are the MPEG Surround format, and stronger error correction coding called Reed–Solomon coding.[7] The update has been named DAB+. Receivers that support the new DAB standard began being released during 2007 with firmware updated available for some older receivers.
+DAB and DAB+ cannot be used for mobile TV because they do not include any video codecs. DAB related standards Digital Multimedia Broadcasting (DMB) and DAB-IP are suitable for mobile radio and TV both because they have MPEG 4 AVC and WMV9 respectively as video coding formats. However a DMB video sub-channel can easily be added to any DAB transmission - as DMB was designed from the outset to be carried on a DAB subchannel. DMB broadcasts in Korea carry conventional MPEG 1 Layer II DAB audio services alongside their DMB video services.
+
+Australia[edit]
+Australia commenced regular digital audio broadcasting using the DAB+ standard on 4 May 2009,[8] after many years of trialling alternative systems. Normal radio services operate on the AM and FM bands, as well as four stations (ABC and SBS) on digital TV channels. The services are currently operating in five state capital cities: Adelaide, Brisbane, Melbourne, Perth and Sydney, and is being trialled in Canberra and Darwin.[9]
+
+Canada[edit]
+Canada has begun allowing experimental HD Radio broadcasts in December 2012 and digital audio subchannels on a case-by-case basis, with the first stations in the country being CFRM-FM in Little Current, CING-FM in Hamilton, and CJSA-FM in Toronto (with a fourth, CFMS-FM in the Toronto suburb of Markham applying to operate HD Radio technology), all within the province of Ontario.[10][11]
+
+Germany[edit]
+In 2020, DAB+ signals cover more than 90% of Germany. A national multiplex contains three public stations by Deutschlandfunk and 12 commercial stations. In most areas, additional multiplexes with public broadcasters and regional commercial stations are available.
+The first DAB station network was deployed in Bavaria since 17 October 1995 until full coverage in 1999. Other states had funded a station network but the lack of success led them to scrap the funding - the MDR switched off in 1998 already and Brandenburg declared a failure in 2004. Instead Berlin/Brandenburg began to switch to digital radio based on an audio-only DVB-T mode given the success of the DVB-T standard in the region when earlier analogue television was switched off in August 2003 (being the first region to switch in Germany). During that time the DVB-H variant of the DVB family was released for transmission to mobile receivers in 2004. During 2005 most radio stations left the DAB network with only one public service broadcaster ensemble to remain in the now fully state-funded station network. At last the KEF [de] (commission to determine the financial needs of broadcasters) blocked federal funding on 15. July 2009 until economic viability of DAB broadcasting would be proven - and pointing to DVB-T as a viable alternative.
+Digital radio deployment was rebooted during 2011 - a joint commission of public and private radio broadcasters decided upon "DAB+" as the new national standard in December 2010. The new station network started as planned on 1. August 2011 with 27 stations with 10 kW each giving a coverage of 70% across the nation. A single "Bundesmux" ("fed-mux": short for "federal multiplex") was created on band 5C as a single-frequency network on channel 5C (see [1]). With the initial market success of DAB+ the contractors decided on an expansion of the digital radio station network in November 2012.
+
+Korea[edit]
+On 1 December 2005 South Korea launched its T-DMB service which includes both television and radio stations. T-DMB is a derivative of DAB with specifications published by ETSI. More than 110,000 receivers had been sold in one month only in 2005.
+
+Hong Kong[edit]
+Hong Kong replaced DAB with DVB-T2 Lite.
+
+Norway[edit]
+Norway was the first country where analog FM radio was switched off in 2017 being replaced by nationwide DAB+ distribution.
+Local stations can continue broadcasting in FM at least until 2031.
+
+Other European Countries[edit]
+With DAB being available across Belgium, Netherlands, Switzerland, Denmark, Norway and Northern Italy there is good coverage across the European Backbone area (see countries using DAB/DMB) indicating a sufficient momentum on the market. France, Spain, Sweden and Poland use DAB+ only in the big cities.
+Portugal and Finland abandoned DAB. Finland is requesting the EU to mandate that automakers support FM similarly to DAB.
+
+Japan[edit]
+Japan has started terrestrial sound broadcasting using ISDB-Tsb and MobaHO! 2.6 GHz Satellite Sound digital broadcasting
+
+United Kingdom[edit]
+Main article: Digital radio in the United Kingdom
+In the United Kingdom, 44.3% of the population now has a DAB digital radio set and 34.4% of listening is to different digital platforms. Because of the early success of the old DAB standard, the transition to the more efficient DAB+ takes more time. If DAB was switched off, older receivers would become worthless. In 2020, about half of the stations in the UK use DAB+.
+26 million people, or 39.6% of the population of 65.64 million, now tune into digital radio each week, up 2.6 million year on year, according to RAJAR in Q1 2013. But FM listening has increased to 61% and DAB decreased to 21% DAB listeners may also use AM  & FM too.[12]
+The UK currently has the world's biggest digital radio network, with about 500 transmitters, two nationwide DAB ensembles and 48 local and regional DAB ensembles, broadcasting over 250 commercial and 34 BBC radio stations; about 100 stations can be received in London. On DAB digital radio most listeners can receive around 30 additional stations.
+Digital radio stations are also distributed on digital television platforms such as Sky, Virgin Media and Freeview, as well as internet radio.
+The Government will make a decision on a radio switchover subject to listening and coverage criteria being met. A digital radio switchover would maintain FM as a platform, while moving some services to DAB-only distribution.
+DAB+ devices in the UK have been available to the public since 2010.
+
+United States[edit]
+The United States has opted for the proprietary HD Radio technology, a type of in-band on-channel (IBOC) technology. According to iBiquity, "HD Radio" is the company's trade name for its proprietary digital radio system, but the name does not imply either high definition or "hybrid digital" as it is commonly incorrectly referenced.
+Transmissions use orthogonal frequency-division multiplexing, a technique which is also used for European terrestrial digital TV broadcast (DVB-T). HD Radio technology was developed and is licensed by iBiquity Digital Corporation. It is widely believed[by whom?] that a major reason for HD radio technology is to offer some limited digital radio services while preserving the relative "stick values" of the stations involved and to ensure that new programming services will be controlled by existing licensees.
+The FM digital schemes in the U.S. provide audio at rates from 96 to 128 kilobits per second (kbit/s), with auxiliary "subcarrier" transmissions at up to 64 kbit/s. The AM digital schemes have data rates of about 48 kbit/s, with auxiliary services provided at a much lower data rate. Both the FM and AM schemes use lossy compression techniques to make the best use of the limited bandwidth.
+Lucent Digital Radio, USA Digital Radio (USADR), and Digital Radio Express commenced tests in 1999 of their various schemes for digital broadcast, with the expectation that they would report their results to the National Radio Systems Committee (NRSC) in December 1999.[13] Results of these tests remain unclear, which in general describes the status of the terrestrial digital radio broadcasting effort in North America.
+While traditional terrestrial radio broadcasters are trying to "go digital", most major US automobile manufacturers are promoting digital satellite radio. HD Radio technology has also made inroads in the automotive sector with factory-installed options announced by BMW, Ford, Hyundai, Jaguar, Lincoln, Mercedes, MINI, and Volvo.[14]
+Satellite radio is distinguished by its freedom from FCC censorship in the United States, its relative lack of advertising, and its ability to allow people on the road to listen to the same stations at any location in the country. Listeners must currently pay an annual or monthly subscription fee in order to access the service.
+Sirius Satellite Radio launched a constellation of three Sirius satellites during the course of 2000. The satellites were built by Space Systems/Loral and were launched by Russian Proton boosters. As with XM Satellite Radio, Sirius implemented a series of terrestrial ground repeaters where satellite signal would otherwise be blocked by large structures including natural structures and high-rise buildings.
+XM Satellite Radio has a constellation of three satellites, two of which were launched in the spring of 2001, with one following later in 2005. The satellites are Boeing 702 comsats, and were put into orbit by Sea Launch boosters. Back-up ground transmitters (repeaters) will be built in cities where satellite signals could be blocked by big buildings.
+On February 19, 2007, Sirius Satellite Radio and XM Satellite Radio merged, to form Sirius XM Radio.
+The FCC has auctioned bandwidth allocations for satellite broadcast in the S band range, around 2.3 GHz.
+Terrestrial broadcasting has advantages in being free and local. Satellite radio is neither of these things; however, in the early 21st century it has grown by providing uncensored content (most notably, the crossover of Howard Stern from terrestrial radio to satellite radio) and commercial-free, all-digital music channels that offer similar radio formats to local stations.
+The "HD Radio" signal of an FM broadcast station in the US has a limited listening distance from the broadcast tower site. FCC regulations currently limit the power of the digital part of the station's transmission to 10% of the existing analog power permitted the station. Even at this power level, the presence of the digital signal right next to the station's analog signal can result in older radios picking up noise due to trouble rejecting the adjacent digital signal. "There are still some concerns that HD Radio on FM will increase interference between different stations even though HD Radio at the 10% power level fits within the FCC spectral mask." HD Radio HD Radio#cite note-14.
+"HD Radio" allows each existing broadcast station to add additional "channels" in the US by transmitting a digital signal on both sides of its channel, just beyond their existing analog Frequency Modulation signal. The HD Radio signal occupies the 0.1 MHz that begins 0.1 MHz above and below the carrier frequency station. For instance, if a station's analog signal's carrier frequency is 93.3 MHz, the digital signal will fill 93.1–93.2 MHz and 93.4–93.5 MHz within the FM Broadcast Band. Several digital audio streams, or "subchannels", can be carried within this single digital data stream, with the number of audio of subchannels and bandwidth allocations at the choice of the station. On the radio tuner, these will appear as (in the above case) "93.3-2", "93.3-3", and so on. The frequencies that are used do not change as more channels are added to the one radio station (93.3 MHz in the example above). Instead, a fixed total amount of bandwidth is simply reallocated across the audio streams such that each now receives less bandwidth, and therefore lower audio quality, than before.
+There is no federally mandated transition to HD Radio for both FM and AM stations. However, on October 27, 2020, the FCC approved voluntary all-digital AM operation nationwide.[15]
+
+Developing nations[edit]
+Digital radio is now being provided to the developing world. A now defunct satellite communications company named WorldSpace was setting up a network of three satellites, including "AfriStar", "AsiaStar", and "AmeriStar", to provide digital audio information services to Africa, Asia, and Latin America. AfriStar and AsiaStar are in orbit. AmeriStar could not be launched from the United States as Worldspace transmitted on the L-band and would interfere with USA military as mentioned above.[citation needed]. in its heyday provided service to over 170,000 subscribers in eastern and southern Africa, the Middle East, and much of Asia with 96% coming from India. Timbre Media along with Saregama India plan to relaunch the company. As of 2013 Worldspace is defunct, but two satellites are in orbit which still have a few channels. See main WorldSpace article.
+Each satellite provides three transmission beams that can support 50 channels each, carrying news, music, entertainment, and education, and including a computer multimedia service. Local, regional, and international broadcasters were working with WorldStar to provide services.
+A consortium of broadcasters and equipment manufacturers are also working to bring the benefits of digital broadcasting to the radio spectrum currently used for terrestrial AM radio broadcasts, including international shortwave transmissions. Over seventy broadcasters are now transmitting programs using the new standard, known as Digital Radio Mondiale (DRM), and / commercial DRM receivers are available (though there are few models on the DRM website and some are discontinued). DRM's system uses the MPEG-4 based standard aacPlus to code the music and CELP or HVXC for speech programs. At present these are priced too high to be affordable by many in the third world, however. Take-up of DRM has been minuscule and many traditional Shortwave broadcasters now only stream on Internet, use fixed satellite (TV set-boxes) or Local Analogue FM relays to save on costs. Very few (expensive) DRM radio sets are available and some Broadcasters (RTE in Ireland on 252 kHz) have ceased trials without launching a service.
+Low-cost DAB radio receivers are now available from various Japanese manufacturers, and WorldSpace has worked with Thomson Broadcast to introduce a village communications center known as a Telekiosk to bring communications services to rural areas. The Telekiosks are self-contained and are available as fixed or mobile units
+
+Two-way digital radio standards[edit]
+The key breakthrough or key feature in digital radio transmission systems is that they allow lower transmission power, they can provide robustness to noise and cross-talk and other forms of interference, and thus allow the same radio frequency to be reused at shorter distance. Consequently, the spectral efficiency (the number of phonecalls per MHz and base station, or the number of bit/s per Hz and transmitter, etc.) may be sufficiently increased. Digital radio transmission can also carry any kind of information whatsoever — just as long at it has been expressed digitally. Earlier radio communication systems had to be made expressly for a given form of communications: telephone, telegraph, or television, for example. All kinds of digital communications can be multiplexed or encrypted at will.
+
+Digital cellular telephony (2G systems and later generations):
+GSM
+UMTS (sometimes called W-CDMA)
+TETRA
+IS-95 (cdmaOne)
+IS-136 (D-AMPS, sometimes called TDMA)
+IS-2000 (CDMA2000)
+iDEN
+Digital Mobile Radio:
+Multi-Band Excitation
+TETRA
+TETRAPOL
+NXDN/dPMR
+DMR
+D-STAR
+Wireless networking:
+Wi-Fi
+HIPERLAN
+Bluetooth
+DASH7
+Zigbee
+6LoWPAN
+Military radio systems for Network-centric warfare
+JTRS (Joint Tactical Radio System- a flexible software-defined radio)
+SINCGARS (Single channel ground to air radio system)
+Amateur packet radio:
+AX.25
+Digital modems for HF:
+PACTOR
+Satellite radio:
+Satmodems
+Wireless local loop:
+Basic Exchange Telephone Radio Service
+Broadband wireless access:
+IEEE 802.16
+See also[edit]
+
+Radio portal
+Satellite television
+References[edit]
+
+
+^ Britanak, Vladimir; Rao, K. R. (2017). Cosine-/Sine-Modulated Filter Banks: General Properties, Fast Algorithms and Integer Approximations. Springer. p. 478. ISBN 978-3-319-61080-1. Archived from the original on 2023-07-01. Retrieved 2019-10-24.
+
+^ "Digital Broadcast - bringing the future to you". Archived from the original on 2007-10-17.
+
+^ "Digital Radio Mondiale - Technical Info". www.drm.org. Archived from the original on 23 October 2017. Retrieved 29 April 2018.
+
+^ "Digital Radio Mondiale - DRM+ Testing gets underway today in Stockholm, Sweden". www.drm.org. Archived from the original on 2 February 2018. Retrieved 29 April 2018.
+
+^ "Community Radio Makes Its Stand for FM Radio in Brussels". Retrieved 8 April 2025.
+
+^ "Community Radio: FM and Digitalization. Future Distribution Platforms for Community Radio in Europe (Green paper for CMFE (2014)" (PDF). Public servicerådet. Retrieved 8 April 2025.
+
+^ "New High Efficiency Audio Option Added for DAB Digital Radio" (PDF). Archived from the original (PDF) on 2008-03-08. Retrieved 2016-02-06.
+
+^ "Digital Radio Launch". Radioinfo. August 2009. Archived from the original on 2019-05-28. Retrieved 2019-05-28.
+
+^ Digital Radio Plus Archived 2011-07-29 at the Wayback Machine (accessed 26 July 2011)
+
+^ "Digital radio policy - In this public notice, the Commission sets out its revised policy for digital radio broadcasting". Canadian Radio-television and Telecommunications Commission. 15 December 2006. Archived from the original on 2014-09-18.
+
+^ "CRTC looking at bringing HD Radio to Canada". Fagstein. 16 January 2014. Archived from the original on 2014-04-29.
+
+^ 
+"Analogue radio will CONTINUE in Blighty as Minister of Fun dodges D-Day death sentence". The Register. Archived from the original on 2016-11-10.
+
+^ Behrens, Steve. "Field testing resumes for radio's digital best hope." Current, Aug. 16, 1999. Available at "Current.org | Testing digital radio systems, 1999". Archived from the original on 2009-07-20. Retrieved 2009-06-15.
+
+^ "iBiquity Digital Corporation - Automotive". Archived from the original on 2008-11-17.
+
+^ "FCC AUTHORIZES ALL-DIGITAL AM RADIO" (PDF). fcc.gov. Federal Communications Commission. October 27, 2020. Archived (PDF) from the original on 2020-10-29. Retrieved 2020-10-27.
+
+
+External links[edit]
+"Digital, DTV, Internet, Mobile phone and MP3 Listening" - December 2006, RAJAR organisation.
+Online Terrestrial Radio - Search & and Listen to Live Radio Digitally
+vteAnalog and digital audio broadcastingTerrestrialRadio modulation
+AM
+FM
+COFDM
+Frequency allocations
+LW (LF)
+MW (MF)
+SW (HF)
+VHF (low / mid / high)
+L band (UHF)
+Digital systems
+CAM-D
+DAB/DAB+
+DRM/DRM+
+ISDB-Tsb
+FMeXtra
+HD Radio
+CDR
+DVB-T2 Lite
+SatelliteFrequency allocations
+C band
+Ku band
+L band
+S band
+Digital systems
+ADR
+DAB-S
+DVB-SH
+S-DMB
+SDR
+Commercial radio providers
+Sirius XM
+Canada
+Codecs
+AAC
+AMR-WB+
+HDC
+HE-AAC
+MPEG-1 Audio Layer II
+DRA+
+Subcarrier signals
+AMSS
+DirectBand
+PAD
+RDS/RBDS
+SCA/SCMO
+DARC
+Related topicsTechnical (audio)
+Audio data compression
+Audio signal processing
+Technical (AM stereo formats)
+Belar
+C-QUAM
+Harris
+Kahn-Hazeltine
+Magnavox
+Technical (emission)
+AM broadcasting
+AM expanded band
+Cable radio
+Digital radio
+Error detection and correction
+FM broadcast band
+FM broadcasting
+FM extended band in Brazil
+Multipath propagation
+Shortwave relay station
+Cultural
+History of radio
+International broadcasting
+
+ Radio portal
+Comparison of radio systems
+
+vteWireless video and data distribution methodsRadio
+Digital radio
+Internet radio
+Radio broadcasting
+Satellite radio
+Video
+Amateur television
+Internet television
+Mobile television
+Terrestrial television
+Digital
+Satellite television
+Visual sensor network
+Data
+Mobile broadband
+Satellite Internet access
+Wireless broadband
+Wireless local loop
+Standards
+3GPP family
+Long Term Evolution (LTE)
+5G New Radio (5G NR)
+Multimedia Broadcast Multicast Service (MBMS)
+Digital Video Broadcasting
+Terrestrial (DVB-T)
+Handheld (DVB-H)
+Satellite (DVB-S2)
+IEEE 802 family
+Mobile WiMAX
+Mobile broadband wireless access
+IEEE 802.15.3 (UWB)
+Wi-Fi
+WiMAX
+WRAN
+Advanced Wireless Services (AWS)
+Educational Broadband Service (EBS)
+HomeRF
+Multichannel Video and Data Distribution Service (MVDDS)
+Multipoint Video Distribution System (MVDS)
+Wireless USB
+Technologies
+Local multipoint distribution service (LMDS)
+Multichannel multipoint distribution service (MMDS)
+Related
+Broadcasting
+Ku band
+Microwave
+
+vteBroadcastingMedium
+Radio
+Radio program
+Cable
+Digital
+Satellite
+Mobile computing
+Mobile television
+Teletext
+Television
+Television show
+Analog
+Cable
+Digital
+Digital terrestrial television
+Satellite
+Internet television and radio (Webcast
+Streaming media
+Web television
+Peer-to-peer television
+BitTorrent television and movies)
+Broadcastingniche
+Campus radio
+Commercial broadcasting
+Community radio
+Multichannel television
+Pay television
+Pay-per-view
+News broadcasting
+Pirate radio / Pirate television
+Public broadcasting
+Religious broadcasting
+Talk radio
+Specialtychannels
+Adult television channels
+Children's interest channel / Children's television series
+Documentary channel
+Men's interest channel
+Movie television channels
+Music radio / Music television
+Quiz channel
+Shopping channel
+News broadcasting
+Business channels
+Public affairs
+Livestreamed news
+Sports broadcasting
+Women's interest channel
+Productionand funding
+Broadcast network
+Broadcast-safe
+Broadcast television systems
+Graphics
+Digital on-screen graphic
+Lower third
+News ticker
+On-screen display
+Score bug
+Television news screen layout
+Network affiliate
+Occupations
+Broadcast designer
+Broadcast license
+Director of network programming
+Outside broadcasting
+Press box
+Press pool
+Television licence
+Television studio
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+Authority control databases: National GermanyCzech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_radio&oldid=1284624818"
+Category: Digital radioHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataArticles with specifically marked weasel-worded phrases from August 2021All articles with unsourced statementsArticles with unsourced statements from December 2008
+
+
+
+
+
+
+ This page was last edited on 8 April 2025, at 19:20 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital radio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

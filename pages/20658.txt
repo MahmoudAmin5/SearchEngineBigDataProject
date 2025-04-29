@@ -1,0 +1,1128 @@
+https://en.wikipedia.org/wiki/Z3_(computer)
+
+
+
+
+Z3 (computer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Design and development
+
+
+
+
+
+
+
+
+2
+Instruction set
+
+
+
+
+
+
+
+
+3
+Z3 as a universal Turing machine
+
+
+
+
+
+
+
+
+4
+Relation to other work
+
+
+
+
+
+
+
+
+5
+Specifications
+
+
+
+
+
+
+
+
+6
+Modern reconstructions
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+Notes
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+Further reading
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Z3 (computer)
+
+
+
+31 languages
+
+
+
+
+العربيةবাংলাभोजपुरीБългарскиCatalàČeštinaDanskDeutschΕλληνικάEspañolفارسیFrançais한국어Bahasa IndonesiaItalianoעבריתქართულიҚазақшаLietuviųNederlands日本語OccitanPolskiPortuguêsRomânăРусскийSimple EnglishSuomiSvenskaTürkçeУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+First working programmable, fully automatic digital computer
+For other uses, see Z3 (disambiguation).
+
+
+Z3Zuse Z3 replica on display at Deutsches Museum in MunichAlso known asV3 (Versuchsmodell 3)DeveloperKonrad ZuseTypeProgrammable, fully automatic digital electromechanical computerRelease dateMay 12, 1941; 83 years ago (1941-05-12)Lifespan2 yearsIntroductory priceCosts: ca. 50,000 ℛ︁ℳ︁CPU2,600 relays @ 5–10 HzMemory64 words with a length of 22 bitsRemovable storagePunched celluloid tape[1]DisplayRow of lamps to show results[2]InputTerminal, with a special keyboard for input[2]PowerAround 4,000 watts[1]WeightAround 1 tonne (2,200 lb)[1]PredecessorZ2SuccessorZ4
+The Z3 was a German electromechanical computer designed by Konrad Zuse in 1938, and completed in 1941. It was the world's first working programmable, fully automatic digital computer.[3] The Z3 was built with 2,600 relays, implementing a 22-bit word length that operated at a clock frequency of about 5–10 Hz.[1] Program code was stored on punched film. Initial values were entered manually.[4][5][6]: 32–37 
+The Z3 was completed in Berlin in 1941. It was not considered vital, so it was never put into everyday operation.[4][5][7][6]: 30, 38–39 [a] Based on the work of the German aerodynamics engineer Hans Georg Küssner (known for the Küssner effect), a "Program to Compute a Complex Matrix"[b] was written and used to solve wing flutter problems. Zuse asked the German government for funding to replace the relays with fully electronic switches, but funding was denied during World War II since such development was deemed "not war-important".[11]: 148 
+The original Z3 was destroyed on 21 December 1943 during an Allied bombardment of Berlin. That Z3 was originally called V3 (Versuchsmodell 3 or Experimental Model 3) but was renamed so that it would not be confused with Germany's V-weapons.[12] A fully functioning replica was built in 1961 by Zuse's company, Zuse KG, which is now on permanent display at Deutsches Museum in Munich.[6]: 30 
+The Z3 was demonstrated in 1998 to be, in principle, Turing-complete.[13] However, because it lacked conditional branching, the Z3 only meets this definition by speculatively computing all possible outcomes of a calculation.
+Thanks to this machine and its predecessors, Konrad Zuse has often been suggested as the inventor of the computer.[14][15][16][17]
+
+
+Design and development[edit]
+Electromagnetic memory (relays) included in the Z3, Z5 and Z11
+Zuse designed the Z1 in 1935 to 1936 and built it from 1936 to 1938. The Z1 was wholly mechanical and only worked for a few minutes at a time at most. Helmut Schreyer advised Zuse to use a different technology. As a doctoral student at the Technische Hochschule in Charlottenburg (now Technische Universität Berlin) in 1937 he worked on the implementation of Boolean operations and (in today's terminology) flip-flops on the basis of vacuum tubes. In 1938, Schreyer demonstrated a circuit on this basis to a small audience, and explained his vision of an electronic computing machine – but since the largest operational electronic devices contained far fewer tubes this was considered practically infeasible.[2] In that year when presenting the plan for a computer with 2,000 electron tubes, Zuse and Schreyer, who was an assistant at Wilhelm Stäblein's [de] Telecommunication Institute at Technische Universität Berlin, were discouraged by members of the institute who knew about the problems with electron tube technology.[10]: 113, 152  Zuse later recalled: "They smiled at us in 1939, when we wanted to build electronic machines ... We said: The electronic machine is great, but first the components have to be developed."[10]: 102  In 1940, Zuse and Schreyer managed to arrange a meeting at the Oberkommando der Wehrmacht (OKW) to discuss a potential project for developing an electronic computer, but when they estimated a duration of two or three years, the proposal was rejected.[10]: 115 
+Zuse decided to implement the next design based on relays. The realization of the Z2 was helped financially by Kurt Pannke, who manufactured small calculating machines. The Z2 was completed and presented to an audience of the Deutsche Versuchsanstalt für Luftfahrt ("German Laboratory for Aviation") in 1940 in Berlin-Adlershof. Zuse was lucky – this presentation was one of the few instances where the Z2 actually worked and could convince the DVL to partly finance the next design.[2]
+In 1941, improving on the basic Z2 machine, he built the Z3 in a highly secret project of the German government.[18] Joseph Jennissen (1905–1977),[19] member of the "Research-Leadership" (Forschungsführung) in the Reich Air Ministry[20] acted as a government supervisor for orders of the ministry to Zuse's company ZUSE Apparatebau.[21] A further intermediary between Zuse and the Reich Air Ministry was the aerodynamicist Herbert A. Wagner.[22]
+
+Drawing of the Z3 computer from Zuse's 1941 patent.
+The Z3 was completed in 1941 and was faster and far more reliable than the Z1 and Z2. The Z3 floating-point arithmetic was improved over that of the Z1 in that it implemented exception handling "using just a few relays", the exceptional values (plus infinity, minus infinity and undefined) could be generated and passed through operations. It further added a square root instruction. 
+The Z3, like its predecessors, stored its program on an external punched tape, thus no rewiring was necessary to change programs. However, it did not have conditional branching found in later universal computers.[23]: 7 
+On 12 May 1941, the Z3 was presented to an audience of scientists including the professors Alfred Teichmann and Curt Schmieden[24] of the Deutsche Versuchsanstalt für Luftfahrt ("German Laboratory for Aviation") in Berlin,[25] today known as the German Aerospace Center in Cologne.[26]
+Zuse moved on to the Z4 design, which he completed in a bunker in the Harz mountains, alongside Wernher von Braun's ballistic missile development. When World War II ended, Zuse retreated to Hinterstein in the Alps with the Z4, where he remained for several years.[27]
+
+Instruction set[edit]
+The Z3 operated as a stack machine with a stack of two registers, R1 and R2.  The first load operation in a program would load the contents of a memory location into R1; the next load operation would load the contents of a memory location into R2.  Arithmetic instructions would operate on the contents of R1 and R2, leaving the result in R1, and clearing R2; the next load operation would load into R2.  A store operation would store the contents of R1 into a memory location, and clear R1; the next load operation would load the contents of a memory location into R1.[23]: 8 
+A read keyboard operation would read a number from the keyboard into R1 and clear R2.  A display instruction would display the contents of R1 and clear R2; the next load instruction would load into R2.[23]: 8 
+
+Z3 as a universal Turing machine[edit]
+It was possible to construct loops on the Z3, but there was no conditional branch instruction. Nevertheless, the Z3 was Turing-complete – how to implement a universal Turing machine on the Z3 was shown in 1998 by Raúl Rojas. He proposed that the tape program would have to be long enough to execute every possible path through both sides of every branch. It would compute all possible answers, but the unneeded results would be canceled out (a kind of speculative execution). Rojas concludes, "We can therefore say that, from an abstract theoretical perspective, the computing model of the Z3 is equivalent to the computing model of today's computers. From a practical perspective, and in the way the Z3 was really programmed, it was not equivalent to modern computers."[13]
+This seeming limitation belies the fact that the Z3 provided a practical instruction set for the typical engineering applications of the 1940s.  Mindful of the existing hardware restrictions, Zuse's main goal at the time was to have a workable device to facilitate his work as a civil engineer.[28]
+
+Relation to other work[edit]
+The success of Zuse's Z3 is often attributed to its use of the simple binary system.[6]: 21  This was invented roughly three centuries earlier by Gottfried Leibniz; Boole later used it to develop his Boolean algebra. Zuse was inspired by Hilbert's and Ackermann's book on elementary mathematical logic Principles of Mathematical Logic.[10]: 113, 152  In 1937, Claude Shannon introduced the idea of mapping Boolean algebra onto electronic relays in a seminal work on digital circuit design. Zuse, however, did not know of Shannon's work and developed the groundwork independently[11]: 149  for his first computer Z1, which he designed and built from 1935 to 1938.
+Zuse's coworker Helmut Schreyer built an electronic digital experimental model of a computer using 100 vacuum tubes[29] in 1942, but it was lost at the end of the war.
+An analog computer was built by the rocket scientist Helmut Hölzer in 1942 at the Peenemünde Army Research Center to simulate[30][31][32] V-2 rocket trajectories.[33][34]
+The Colossus (1943),[35][36] built by  Tommy Flowers, and the Atanasoff–Berry computer (1942) used thermionic valves (vacuum tubes) and binary representation of numbers. Programming was by means of re-plugging patch panels and setting switches.[citation needed]
+The ENIAC computer, completed after the war, used vacuum tubes to implement switches and used decimal representation for numbers. Until 1948 programming was, as with Colossus, by patch leads and switches.[37][38]
+The Manchester Baby of 1948 along with the Manchester Mark 1 and EDSAC both of 1949 were the world's earliest working computers that stored program instructions and data in the same space. In this they implemented the stored-program concept which is frequently (but erroneously) attributed to a 1945 paper by John von Neumann and colleagues.[39][40] Von Neumann is said to have given due credit to Alan Turing,[35][41] and the concept had actually been mentioned earlier by Konrad Zuse himself, in a 1936 patent application (that was rejected).[42][43] Konrad Zuse himself remembered in his memoirs: "During the war it would have barely been possible to build efficient stored program devices anyway."[44] Friedrich L. Bauer later wrote: "His visionary ideas (live programs) which were only to be published years afterwards aimed at the right practical direction but were never implemented by him."[45][46]
+
+Specifications[edit]
+Average calculation speed: addition – 0.8 seconds, multiplication – 3 seconds[1]
+Arithmetic unit: Binary floating-point, 22-bit, add, subtract, multiply, divide, square root[1]
+Data memory: 64 22-bit words[1]
+Program memory: Punched celluloid tape[1]
+Input: Decimal floating-point numbers[1]
+Output: Decimal floating-point numbers[1]
+Input and Output was facilitated by a terminal, with a special keyboard for input and a row of lamps to show results[2]
+Elements: Around 2,000 relays (1,400 for the memory)[2]
+Frequency: 5–10 hertz[1]
+Power consumption: Around 4,000 watts[1]
+Weight: Around 1 tonne (2,200 lb)[1]
+Modern reconstructions[edit]
+Z3 reconstruction in 2010 by Horst Zuse
+A modern reconstruction directed by Raúl Rojas and Horst Zuse started in 1997 and finished in 2003. It is now in the Konrad Zuse Museum in Hünfeld, Germany.[47][48] Memory was halved to 32 words. Power consumption is about 400 W, and weight is about 30 kilograms (66 lb).[49]
+In 2008, Horst Zuse started a reconstruction of the Z3 by himself.[50] It was presented in 2010 in the Konrad Zuse Museum in Hünfeld.[51][52]
+
+See also[edit]
+History of computing hardware
+Reverse Polish notation (RPN)
+Notes[edit]
+
+
+^ It could solve problems like systems of linear equations and their determinants, quadratic equations and Eigenvalues (for wing flutter).[8][9]
+
+^ German: Programm für die Berechnung einer komplexen Matrix[10]
+
+
+References[edit]
+
+
+^ a b c d e f g h i j k l m Morelli, Marcello (2001). Dalle calcolatrici ai computer degli anni Cinquanta (in Italian). FrancoAngeli. p. 177. ISBN 978-8-84642879-0. Retrieved 2014-08-05.
+
+^ a b c d e f Lippe, Wolfram-Manfred [at Wikidata] (2010) [2007]. "Kapitel 14 – Die ersten programmierbaren Rechner" [The first programmable computers] (PDF). Die Geschichte der Rechenautomaten [The history of calculating machines] (in German). doi:10.1007/978-3-642-36193-7_6 (inactive 2025-01-02). Archived from the original (PDF) on 2011-07-19. Retrieved 2010-06-21.{{cite book}}:  CS1 maint: DOI inactive as of January 2025 (link) [1] (NB. This script was published in December 2013 in a three-volume book series "Geschichte der Rechenautomaten": "Von der Himmelsscheibe von Nebra bis zu den ersten Rechenmaschinen", "Von mechanischen Chiffriergeräten bis zu den ersten programmierbaren Rechnern" and "Von der Entwicklung der Hardware bis zum WWW" by Springer Vieweg, but abandoned when a lot of the content was found to have been plagiarized from other sources including Wikipedia.[2][3][4])
+
+^ "A Computer Pioneer Rediscovered, 50 Years On". The New York Times. 1994-04-20. Archived from the original on 2016-11-04.
+
+^ a b Weiss, Eric A. (Summer 1996). "Konrad Zuse Obituary". IEEE Annals of the History of Computing. 18 (2): 3–4. doi:10.1109/mahc.1996.489747. ISSN 1058-6180.
+
+^ a b Borchers, Detlef Henning [in German] (2016-05-12). "Vor 75 Jahren: Computer Z3 wird vorgeführt" [75 years ago: Computer Z3 is demonstrated]. heise online (in German). Retrieved 2018-05-13.
+
+^ a b c d Ceruzzi, Paul E. (1983). "2. Computers in Germany". Reckoners: The Prehistory of The Digital Computer, From Relays to the Stored Program Concept, 1935–1945. Greenwood Press. pp. 21, 30, 32–39. ISBN 0-313-23382-9. Retrieved 2018-11-03.
+
+^ Zuse, Konrad (2013). The Computer – My Life. Springer Science & Business Media. p. 64. ISBN 978-3-66202931-2. (NB. This is a translation of the original German title Der Computer – Mein Lebenswerk.)
+
+^ Slater, Robert (1989). Portraits in Silicon. MIT Press. pp. 46–47. ISBN 978-0-26269131-4.
+
+^ Schindler, Max J. (1990). Computer-aided software design: build quality software with CASE. Wiley. p. 419. ISBN 978-0-47150650-8.
+
+^ a b c d e Hellige, Hans Dieter, ed. (2004). Geschichten der Informatik. Visionen, Paradigmen, Leitmotive (in German). Berlin: Springer. pp. 102, 113, 115, 152. ISBN 978-3-540-00217-8. p. 102: Man hat 1939 über uns gelächelt, als wir elektronische Geräte bauen wollten. […] Wir sagten uns damals: Die elektronische Maschine ist wunderbar, aber erst müssen ihre Bauelemente entwickelt werden.
+
+^ a b Hohn, Hans-Willy [in German] (1998). Kognitive Strukturen und Steuerungsprobleme der Forschung. Kernphysik und Informatik im Vergleich (in German). Schriften des Max-Planck-Instituts für Gesellschaftsforschung Köln. pp. 148–149. ISBN 978-3-593-36102-4.
+
+^ "Z3 Computer (1938–1941)". www.computermuseum.li. Archived from the original on 2008-06-17.
+
+^ a b Rojas, Raúl (1997-09-05). "How to Make Zuse's Z3 a Universal Computer" (PDF). IEEE Annals of the History of Computing. 20 (3) (published July–September 1998): 51–54. doi:10.1109/85.707574. Archived (PDF) from the original on 2021-12-09. Retrieved 2022-07-02. (8 pages)
+
+^ "Konrad Zuse Biography". RTD Net. From various sides Konrad Zuse was awarded with the title "Inventor of the computer".
+
+^ "Konrad Zuse". The German Way. The Konrad-Zuse-Zentrum für Informationstechnik Berlin (ZIB), founded in 1986, is a working memorial to the German inventor of the computer.
+
+^ von Leszczynski, Ulrike (2010-06-27). "Z like Zuse: German inventor of the computer". Monsters & Critics. Archived from the original on 2013-05-22. he [Zuse] built the world's first computer in Berlin
+
+^ Bellis, Mary (2017-07-31). "Konrad Zuse and the Invention of the Modern Computer". Zuse earned the semi-official title of "inventor of the modern computer" for his series of automatic calculators, which he invented to help him with his lengthy engineering calculations.
+
+^ "New perspectives, computer concepts", June Jamrich Parsons, Dan Oja. Cengage Learning, 2007. ISBN 978-1-4239-0610-0. Retrieved 2010-03-14.
+
+^ Alexander Kauther, Paul Wirtz: Der Einzelkämpfer Dorner. Grin Verlag Gmbh, 2013, ISBN 3-656-04860-6
+
+^ Maier, Helmut [in German] (2007). Forschung als Waffe (in German). Wallstein Verlag [de]. p. 847. ISBN 978-3-8353-0109-2.
+
+^ "1977-compilation by Zuse of people in contact to his computers from 1935 to 1945" (in German). Archived from the original on 2011-09-28.
+
+^ Herbert Bruderer, ETH Zurich (2010). "Konrad Zuse und die ETH Zürich" (PDF) (in German). ETH Zurich. doi:10.3929/ethz-a-006313025. Retrieved 2023-12-04.
+
+^ a b c Rojas, Raúl (April–June 1997). "Konrad Zuse's Legacy: The Architecture of the Z1 and Z3" (PDF). IEEE Annals of the History of Computing. 19 (2): 5–16 [7–8]. doi:10.1109/85.586067. Archived (PDF) from the original on 2022-07-03. Retrieved 2022-07-03. (12 pages)
+
+^ "An einem 12. Mai" (in German). Deutsches Historisches Museum (German Historical Museum). Archived from the original on 2013-05-30.
+
+^ "Technische Universität Berlin – Rechenhilfe für Ingenieure" (in German). Technische Universität Berlin. Archived from the original on 2009-02-13.
+
+^ "Die Geschichte des DLR-Standorts Berlin-Adlershof" (in German). German Aerospace Center. 1941.
+
+^ Campbell-Kelly, Martin (1995-12-21). "Obituary: Konrad Zuse". The Independent. Archived from the original on 2022-05-07. Retrieved 2021-05-11.
+
+^ Zuse, Konrad (1987-10-02). "My First Computer and First Thoughts About Data Processing". history.computer.org. Computer Pioneers – Konrad Zuse. Retrieved 2018-05-14. Search for 1941; ["Computer Design-Past, Present, Future", talk in Lund/Sweden, 1987-10-02, previously unpublished.]
+
+^ "Helmut Schreyer" at the University of Berlin
+
+^ H. Otto Hirschler, 87, Aided Space Program
+
+^ Neufeld, Michael J. (2013). The Rocket and the Reich: Peenemünde and the Coming of the Ballistic Missile Era. 3.1 (2 ed.). Washington, DC: Smithsonian Books / The Smithsonian Institution. p. 138. ISBN 987-1-58834-467-0.{{cite book}}:  CS1 maint: ignored ISBN errors (link)
+
+^ Ulmann, Bernd [in German] (2013). Analog Computing. Walter de Gruyter. p. 38. ISBN 978-3-48675518-3.
+
+^ Neufeld, Michael J. (1995). The Rocket and the Reich: Peenemünde and the Coming of the Ballistic Missile Era. New York: The Free Press, Simon & Schuster Inc. / The Smithsonian Institution. p. 106. ISBN 0-02-922895-6. LCCN 94-30088.
+
+^ Tomayko, James E. (1985). "Helmut Hoelzer's Fully Electronic Analog Computer". IEEE Annals of the History of Computing. 7 (3): 227–240. doi:10.1109/MAHC.1985.10025. S2CID 15986944.
+
+^ a b Randell, Brian (1972). Meltzer, Bernard; Michie, Donald (eds.). On Alan Turing and the Origins of Digital Computers (PDF). Seventh Annual Machine Intelligence Workshop. Machine Intelligence. Vol. 7. Edinburgh: Edinburgh University Press. ISBN 0-85224-234-4.
+
+^ Copeland, Brian Jack, ed. (2006). Colossus: The Secrets of Bletchley Park's Codebreaking Computers. Oxford University Press. ISBN 978-0-19-284055-4.
+
+^ Haigh, Thomas (2016). ENIAC in action: making and remaking the modern computer. Mark Priestley, Crispin Rope. Cambridge, Massachusetts; London: MIT Press. pp. 113–114. ISBN 978-0-262-03398-5. OCLC 952615433.
+
+^ Cruz, Frank (2013-11-09). "Programming the ENIAC". Programming the ENIAC. Columbia University. Retrieved 2016-05-16.
+
+^ von Neumann, John (1945). "First Draft of a Report on the EDVAC" (PDF). Archived from the original (PDF) on 2014-10-16. Retrieved 2014-03-24.
+
+^ "Stored-program concept". Encyclopædia Britannica. Retrieved 2014-03-24.
+
+^ Copeland, Brian Jack (2006-06-09). "The Modern History of Computing". The Stanford Encyclopedia of Philosophy. Retrieved 2023-09-07.
+
+^ Williams, Frederic Calland; Kilburn, Tom (1948-09-25). "Electronic Digital Computers". Nature. 162 (4117): 487. Bibcode:1948Natur.162..487W. doi:10.1038/162487a0. S2CID 4110351.
+
+^ Faber, Susanne (2000), Konrad Zuses Bemühungen um die Patentanmeldung der Z3 (in German)
+
+^ Zuse, Konrad (2010). Der Computer – Mein Lebenswerk (in German) (5 ed.). Berlin, Germany: Springer. p. 78. ISBN 978-3-64212095-4. Während des Krieges wäre es freilich ohnehin kaum möglich gewesen, leistungsfähige Geräte mit Speicherprogrammen zu bauen. (NB. An English translation exists.)
+
+^ Bauer, Friedrich Ludwig (April 1998). "Wer erfand den von-Neumann-Rechner?" [Who invented the von Neumann computer?]. Informatik Spektrum (in German). 21 (2). Heidelberg, Germany: Spektrum Akademischer Verlag [de]: 84–88. doi:10.1007/s002870050091. ISSN 0170-6012. S2CID 28380924. [Zuses] erst Jahre später publizierten visionären Ideen (Lebendige Rechenpläne) zielten in die richtige praktische Richtung, wurden von ihm aber nie verwirklicht. [[Zuse's] visionary ideas (Living programs) which were only to be published years afterwards aimed at the right practical direction but were never implemented by him.]
+
+^ Zuse, Horst (2006). "Anmerkungen zum John von Neumann Rechner" [Annotation on the John von Neumann computer] (PDF) (in German). p. 9. Archived (PDF) from the original on 2022-03-11. Retrieved 2022-09-18. (18 pages)
+
+^ Rojas, Raúl. "Reconstruction of Konrad Zuse's Z3 Computer". dcis.inf.fu-berlin.de.
+
+^ "Reconstructing the calculating machine Z3". Konrad Zuse Internet Archive.
+
+^ "Z3-Nachbau-2001" [Z3 replica 2001]. www.horst-zuse.homepage.t-online.de (in German).
+
+^ Zuse, Horst (2013). "Reconstruction of Konrad Zuse's Z3". In Arthur Tatnall; Tilly Blyth; Roger Johnson (eds.). Making the History of Computing Relevant. IFIP WG 9.7 International Conference, HC 2013. IFIP Advances in Information and Communication Technology. Vol. 416. Springer Berlin Heidelberg. pp. 287–296. doi:10.1007/978-3-642-41650-7_26. ISBN 978-3-64241649-1.
+
+^ Zwernemann-Blech, Irene. "Events during Zuse Year 2010". www.horst-zuse.homepage.t-online.de. Retrieved 2018-11-03.
+
+^ "Z3-Präsentationen" [Z3 – Presentations]. www.horst-zuse.homepage.t-online.de (in German). Retrieved 2018-11-03.
+
+
+Further reading[edit]
+Rojas, Raúl; Darius, Frank; Göktekin, Cüneyt; Heyne, Georg (2005-08-22). "The reconstruction of Konrad Zuse's Z3". IEEE Annals of the History of Computing. 27 (3): 23–32. doi:10.1109/mahc.2005.48. eISSN 1934-1547. ISSN 1058-6180. S2CID 16288658.
+Rojas, Raúl (Spring 2006) [2005-05-12]. "The Zuse Computers". Resurrection - The Bulletin of the Computer Conservation Society (edited transscript of speech). Vol. 37. Computing Before Computers seminar, Science Museum: Computer Conservation Society (CCS). ISSN 0958-7403. Archived from the original on 2022-06-25. Retrieved 2008-07-26.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Zuse Z3.
+
+Z3 page at Horst Zuse's website
+The Life and Work of Konrad Zuse
+Paul E. Ceruzzi Collection on Konrad Zuse (CBI 219). Charles Babbage Institute, University of Minnesota. Collection contains published reports, articles, product literature, and other materials.
+vteComputer hardware designed by Konrad ZuseComputers
+Z1 (1938)
+Z2 (1940)
+Z3 (1941)
+Z4 (1945)
+Z5 (1953)
+Z11 (1955)
+Z22 (1955)
+Z23 (1961)
+Z25 (1963)
+Z31 (1963)
+Technical Drawing
+Z60 (1956)
+Planimeter Z80 (1960)
+Graphomat Z64 (1961)
+Military Computers
+S1 (1942)
+S2 (1943)
+
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Z3_(computer)&oldid=1279525418"
+Categories: 1940s computersElectro-mechanical computersOne-of-a-kind computersGerman inventions of the Nazi periodWorld War II German electronicsComputer-related introductions in 1941Konrad ZuseComputers designed in GermanySerial computersHidden categories: Articles containing German-language textCS1 Italian-language sources (it)CS1 maint: DOI inactive as of January 2025CS1 interproject-linked namesCS1 German-language sources (de)CS1 interwiki-linked namesCS1 maint: ignored ISBN errorsArticles with short descriptionShort description matches WikidataUse dmy dates from July 2022Use list-defined references from July 2022All articles with unsourced statementsArticles with unsourced statements from May 2021Commons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 9 March 2025, at 02:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Z3 (computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_layout_align
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+W3.CSS Layout
+Align text in a layout cell to the top, middle or at the bottom:
+
+
+
+  Hello W3.CSS Layout.
+  Hello W3.CSS Layout.
+  Hello W3.CSS Layout.
+  Hello W3.CSS Layout.
+
+
+
+  Hello W3.CSS Layout.
+
+
+
+  Hello W3.CSS Layout.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

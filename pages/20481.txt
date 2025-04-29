@@ -1,0 +1,660 @@
+https://en.wikipedia.org/wiki/David_Tse
+
+
+
+
+David Tse - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Education
+
+
+
+
+
+
+
+
+2
+Career
+
+
+
+
+
+
+
+
+3
+Honors
+
+
+
+
+
+
+
+
+4
+Book
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+David Tse
+
+
+
+1 language
+
+
+
+
+Deutsch
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Electronic engineer and information theorist
+David TseDavid TseNationalityCanadianAlma materUniversity of Waterloo  MITAwardsClaude E. Shannon Award (2017)IEEE Richard W. Hamming Medal (2019)Scientific careerFieldsInformation theoryThesisVariable-rate lossy compression and its effects on communication networks (1995)Doctoral advisorRobert G. Gallager  John Tsitsiklis
+
+David Tse (Chinese: 謝雅正; pinyin: Xiè Yǎzhèng) is the Thomas Kailath and Guanghan Xu Professor of Engineering at Stanford University.[1]
+
+
+Education[edit]
+Tse earned a B.S. in systems design engineering from University of Waterloo in 1989, an M.S. in electrical engineering from the Massachusetts Institute of Technology in 1991, and a Ph.D. in electrical engineering from MIT in 1994.[2] As a postdoctoral student he was a staff member at AT&T Bell Laboratories.[2]
+
+Career[edit]
+Tse's research at Stanford focuses on information theory and its applications in fields such as wireless communication, machine learning, energy and computational biology.[3][4] He has designed assembly software to handle DNA and RNA sequencing data and was an inventor of the proportional-fair scheduling algorithm for cellular wireless systems.[4] He received the 2017 Claude E. Shannon Award.[3] In 2018, he was elected to the National Academy of Engineering.[4]
+[5][6]
+
+Honors[edit]
+Early Faculty National Science Foundation CAREER Award, 1998[6]
+Frederick Emmons Terman Award from the American Society for Engineering Education, 2009[6]
+Fellow, IEEE, 2009
+Gilbreth Lectureship from the National Academy of Engineering, 2012[6]
+Stephen O. Rice Prize in the Field of Communications Theory, 2013[6]
+Claude E. Shannon Award, 2017[7]
+Member, National Academy of Engineering, inducted 2018[4]
+IEEE Richard W. Hamming Medal, 2019
+Book[edit]
+Fundamentals of Wireless Communication (2005, Cambridge University Press) (ISBN 978-0521845274)[8] – with Pramod Viswanath
+References[edit]
+
+
+^ "Tse receives Kailath and Xu Professorship". ee.stanford.edu. 1 June 2017. Retrieved 10 October 2018.
+
+^ a b "Executive Profile of David Tse". Bloomberg.com. Retrieved 10 October 2018.
+
+^ a b "LIDS Alum David Tse Receives 2017 Claude E. Shannon Award". LIDS. 28 June 2017. Retrieved 10 October 2018.
+
+^ a b c d Boney, Ashley (15 February 2018). "The National Academy of Engineering elects three Stanford faculty". Stanford News. Retrieved 10 October 2018.
+
+^ Chua, Grace. "Practical Lessons". LIDS Magazine. Retrieved 10 October 2018.[permanent dead link]
+
+^ a b c d e "Biography". stanford.edu. Retrieved 10 October 2018.
+
+^ "Claude E. Shannon Award". itsoc.org. Retrieved 10 October 2018.
+
+^ Tse, David; Viswanath, Pramod (2005). Fundamentals of Wireless Communication. cambridge.org. doi:10.1017/CBO9780511807213. ISBN 9780521845274. Retrieved 11 October 2018.
+
+
+External links[edit]
+Personal homepage, Stanford University website
+Google Scholar page
+vteClaude E. Shannon Award
+1972 Claude E. Shannon
+1973
+1974 David S. Slepian
+1975
+1976 Robert M. Fano
+1977 Peter Elias
+1978 Mark Semenovich Pinsker
+1979 Jacob Wolfowitz
+1980
+1981 W. Wesley Peterson
+1982 Irving S. Reed
+1983 Robert G. Gallager
+1984
+1985 Solomon W. Golomb
+1986 William Lucas Root
+1987
+1988 James Massey
+1989
+1990 Thomas M. Cover
+1991 Andrew Viterbi
+1992
+1993 Elwyn Berlekamp
+1994 Aaron D. Wyner
+1995 George David Forney
+1996 Imre Csiszár
+1997 Jacob Ziv
+1998 Neil Sloane
+1999 Tadao Kasami
+2000 Thomas Kailath
+2001 Jack Keil Wolf
+2002 Toby Berger
+2003 Lloyd R. Welch
+2004 Robert McEliece
+2005 Richard Blahut
+2006 Rudolf Ahlswede
+2007 Sergio Verdú
+2008 Robert M. Gray
+2009 Jorma Rissanen
+2010 Te Sun Han
+2011 Shlomo Shamai (Shitz)
+2012 Abbas El Gamal
+2013 Katalin Marton
+2014 János Körner
+2015 Robert Calderbank
+2016 Alexander Holevo
+2017 David Tse
+2018 Gottfried Ungerboeck
+2019 Erdal Arıkan
+2020 Charles Bennett
+2021 Alon Orlitsky
+2022 Raymond W. Yeung
+2023 Rüdiger Urbanke
+2024 Andrew Barron
+2025 Peter Shor
+
+Authority control databases InternationalISNIVIAFWorldCatNationalGermanyUnited StatesCzech RepublicLatviaIsraelCataloniaAcademicsORCIDMathematics Genealogy ProjectScopuszbMATHGoogle ScholarDBLPMathSciNetOtherIdRef
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=David_Tse&oldid=1221789774"
+Categories: Living peopleElectrical engineering academicsStanford University School of Engineering facultyStanford University Department of Electrical Engineering facultyUC Berkeley College of Engineering facultyMembers of the United States National Academy of EngineeringFellows of the IEEEMIT School of Engineering alumniUniversity of Waterloo alumniHong Kong electrical engineersCanadian electrical engineers21st-century engineersHidden categories: All articles with dead external linksArticles with dead external links from January 2024Articles with permanently dead external linksArticles with short descriptionShort description matches WikidataArticles with hCardsArticles containing traditional Chinese-language textYear of birth missing (living people)
+
+
+
+
+
+
+ This page was last edited on 2 May 2024, at 00:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+David Tse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 language
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

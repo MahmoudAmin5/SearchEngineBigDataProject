@@ -1,0 +1,3476 @@
+https://www.w3schools.com/html/html_images.asp
+
+
+
+
+HTML Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Tutorials
+        
+
+
+
+        Exercises
+        
+
+
+
+        Certificates
+        
+
+
+
+        Services
+        
+
+
+
+
+      Menu
+      
+
+
+
+
+
+          Search field
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+        Log in
+      
+
+        Sign Up
+      
+
+
+
+
+
+
+
+
+
+
+
+★
++1
+
+
+
+
+
+
+
+
+        Get Certified
+      
+
+
+
+
+        For Teachers
+      
+
+
+
+
+        Spaces
+      
+
+
+
+
+
+
+        Plus
+      
+
+
+
+
+
+
+        Get Certified
+      
+
+
+
+
+        For Teachers
+      
+
+
+
+
+        Spaces
+      
+
+
+
+
+
+
+        Plus
+      
+
+
+
+
+
+
+My W3Schools
+
+
+
+Tutorials
+
+
+
+           
+        
+
+
+
+Exercises
+
+
+
+           
+        
+
+
+
+Certificates
+
+
+
+           
+        
+
+
+
+Services
+
+
+
+           
+        
+
+
+Spaces
+
+
+
+
+
+Get Certified
+
+
+
+
+
+Plus
+
+
+
+
+
+
+
+Academy
+
+
+Logout
+
+
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+
+                    Tutorials filter input
+                  
+
+
+×
+
+
+
+
+
+
+
+                  HTML and CSS
+                
+
+
+Learn
+                    HTML
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    CSS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    RWD
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Bootstrap
+                  
+
+                    Overview
+                  
+
+
+
+Learn
+                    W3.CSS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Sass
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Colors
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Icons
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    SVG
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Canvas
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Graphics
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Character Sets
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    How To
+                  
+
+                    Tutorial
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+Learn
+                    AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Generative AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-3.5
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-4
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Bard
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Machine Learning
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    DSA
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Data Science
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    NumPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Pandas
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    SciPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Matplotlib
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Statistics
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Excel
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Sheets
+                  
+
+                    Tutorial
+                  
+
+
+
+
+                  Web Building
+                
+
+
+                    Create a Website
+                    
+                      HOT!
+                    
+
+
+
+
+                    Create a Server
+                    NEW
+
+
+
+
+                    Where To Start
+                  
+
+
+
+                    Web Templates
+                  
+
+
+
+                    Web Statistics
+                  
+
+
+
+                    Web Certificates
+                  
+
+
+
+                    Web Development
+                  
+
+
+
+                    Introduction to Programming
+                  
+
+
+
+                    Code Editor
+                  
+
+
+
+                    Test Your Typing Speed
+                  
+
+
+
+                    Play a Code Game
+                  
+
+
+
+                    Cyber Security
+                  
+
+
+
+                    Accessibility
+                  
+
+
+
+                    Join our Newsletter
+                  
+
+
+
+
+
+
+                  JavaScript
+                
+
+
+Learn
+                    JavaScript
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    React
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    jQuery
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Vue
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    AngularJS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    JSON
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    AJAX
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    AppML
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    W3.JS
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+
+                  Web Building
+                
+
+
+                    Create a Website
+                    
+                      HOT!
+                    
+
+
+
+
+                    Create a Server
+                    NEW
+
+
+
+
+                    Where To Start
+                  
+
+
+
+                    Web Templates
+                  
+
+
+
+                    Web Statistics
+                  
+
+
+
+                    Web Certificates
+                  
+
+
+
+                    Web Development
+                  
+
+
+
+                    Introduction to Programming
+                  
+
+
+
+                    Code Editor
+                  
+
+
+
+                    Test Your Typing Speed
+                  
+
+
+
+                    Play a Code Game
+                  
+
+
+
+                    Cyber Security
+                  
+
+
+
+                    Accessibility
+                  
+
+
+
+                    Join our Newsletter
+                  
+
+
+
+
+
+
+                  Backend
+                
+
+
+Learn
+                    Python
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    SQL
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    MySQL
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    PHP
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Java
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    C
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    C++
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    C#
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    R
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Kotlin
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Go
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Django
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    PostgreSQL
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    TypeScript
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ASP
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Node.js
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+Learn
+                    Raspberry Pi
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Git
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Bash
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    MongoDB
+                  
+
+                    Tutorial
+                  
+
+
+
+
+Learn
+                    XML
+                  
+
+                    Tutorial
+                  
+
+                    Reference
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+Learn
+                    AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Generative AI
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-3.5
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    ChatGPT-4
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Bard
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Machine Learning
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    DSA
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Data Science
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    NumPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Pandas
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    SciPy
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Matplotlib
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Statistics
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Excel
+                  
+
+                    Tutorial
+                  
+
+
+
+Learn
+                    Google Sheets
+                  
+
+                    Tutorial
+                  
+
+
+
+
+                  Web Building
+                
+
+
+                    Create a Website
+                    
+                      HOT!
+                    
+
+
+
+
+                    Create a Server
+                    NEW
+
+
+
+
+                    Where To Start
+                  
+
+
+
+                    Web Templates
+                  
+
+
+
+                    Web Statistics
+                  
+
+
+
+                    Web Certificates
+                  
+
+
+
+                    Web Development
+                  
+
+
+
+                    Introduction to Programming
+                  
+
+
+
+                    Code Editor
+                  
+
+
+
+                    Test Your Typing Speed
+                  
+
+
+
+                    Play a Code Game
+                  
+
+
+
+                    Cyber Security
+                  
+
+
+
+                    Accessibility
+                  
+
+
+
+                    Join our Newsletter
+                  
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+Exercises
+
+
+
+
+                    Excercises filter input
+                  
+
+
+×
+
+
+
+
+
+
+
+                  HTML and CSS
+                
+
+
+                    HTML
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    CSS
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bootstrap 3
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bootstrap 4
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bootstrap 5
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    NumPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Pandas
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    SciPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Excel
+                  
+
+                    Exercise
+                  
+
+
+
+                    What is an Exercise?
+                  
+
+                    What is a Quiz?
+                  
+
+
+
+
+
+                JavaScript
+              
+
+
+                  JavaScript
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+                  React
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+                  jQuery
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+                  Vue
+                
+
+                  Exercise
+                
+
+                  Quiz
+                
+
+
+
+
+
+                  Backend
+                
+
+
+                    Python
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    SQL
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    MySQL
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    PHP
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Java
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    C
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    C++
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    C#
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    R
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Kotlin
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Django
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    PostgreSQL
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    TypeScript
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Git
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Bash
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Go
+                  
+
+                    Exercise
+                  
+
+
+
+                    MongoDB
+                  
+
+                    Exercise
+                  
+
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    NumPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Pandas
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    SciPy
+                  
+
+                    Exercise
+                  
+
+                    Quiz
+                  
+
+
+
+                    Excel
+                  
+
+                    Exercise
+                  
+
+
+
+                    What is an Exercise?
+                  
+
+                    What is a Quiz?
+                  
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+Certificates
+
+
+
+
+                    Filter field for certifications
+                  
+
+
+×
+
+
+
+
+
+
+
+                  HTML and CSS
+                
+
+
+                    HTML
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    CSS
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Bootstrap 3
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Bootstrap 4
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Bootstrap 5
+                  
+
+                    Certificate
+                  
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Certificate
+                  
+
+
+
+                    Data Analytics
+                  
+
+                    Course
+                  
+
+
+
+                    NumPy
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Pandas
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Excel
+                  
+
+                    Certificate
+                  
+
+
+
+                    Social Media
+                  
+
+                    Course
+                  
+
+
+
+                    What is a Certificate?
+                  
+
+
+
+
+                  Programs
+                
+
+
+                    Full Access
+                    
+                      Best Value!
+                    
+
+
+
+
+                    Front End
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Dev.
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web App
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Design
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+
+
+                  JavaScript
+                
+
+
+                    JavaScript
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    React
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    jQuery
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Vue
+                  
+
+                    Certificate
+                  
+
+
+
+
+                  Programs
+                
+
+
+                    Full Access
+                    
+                      Best Value!
+                    
+
+
+
+
+                    Front End
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Dev.
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web App
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Design
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+                  Programs
+                
+
+
+                    Full Access
+                    
+                      Best Value!
+                    
+
+
+
+
+                    Front End
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Dev.
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web App
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Web Design
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+
+
+
+                  Backend
+                
+
+
+                    Python
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    SQL
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    MySQL
+                  
+
+                    Certificate
+                  
+
+
+
+                    PHP
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Java
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    C
+                  
+
+                    Certificate
+                  
+
+
+
+                    C++
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    C#
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    R
+                  
+
+                    Course
+                  
+
+
+
+                    Django
+                  
+
+                    Certificate
+                  
+
+
+
+                    NodeJS
+                  
+
+                    Certificate
+                  
+
+
+
+                    TypeScript
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    XML
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Cyber Security
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+                    Accessibility
+                  
+
+                    Certificate
+                  
+
+                    Course
+                  
+
+
+
+
+
+                  Data Analytics
+                
+
+
+                    DSA
+                  
+
+                    Exam
+                  
+
+
+
+                    Data Analytics
+                  
+
+                    Course
+                  
+
+
+
+                    NumPy
+                  
+
+                    Course
+                  
+
+
+
+                    Pandas
+                  
+
+                    Course
+                  
+
+
+
+                    Excel
+                  
+
+                    Certificate
+                  
+
+
+
+                    Social Media
+                  
+
+                    Course
+                  
+
+
+
+                    What is a Certificate?
+                  
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+All Our Services
+
+
+
+
+                    Services filter input
+                  
+
+
+×
+
+
+
+
+
+
+                W3Schools offers a wide range of services and products for
+                beginners and professionals,
+                
+                helping millions of people everyday to learn and master new
+                skills.
+              
+
+
+
+
+
+Free Tutorials
+
+                      Enjoy our free tutorials like millions of other internet
+                      users since 1999
+                    
+
+
+
+
+
+
+References
+
+                      Explore our selection of references covering all popular
+                      coding languages
+                    
+
+
+
+
+
+
+Create a Website
+
+                      Create your own website with
+                      W3Schools Spaces
+                      - no setup required
+                    
+
+
+
+
+
+
+Exercises
+Test your skills with different exercises
+
+
+
+
+
+
+Quizzes
+Test yourself with multiple choice questions
+
+
+
+
+
+
+Get Certified
+Document your knowledge
+
+
+
+
+
+
+
+
+
+
+
+Log in / Sign Up
+
+                      Create a
+                      free
+                      W3Schools Account to Improve Your Learning Experience
+                    
+
+
+
+
+
+
+My Learning
+
+                      Track your learning progress at W3Schools and collect
+                      rewards
+                    
+
+
+
+
+
+
+Upgrade
+
+                      Become a PLUS user and unlock powerful features (ad-free,
+                      hosting, support,..)
+                    
+
+
+
+
+
+
+
+
+
+
+
+Where To Start
+
+                      Not sure where you want to start? Follow our guided path
+                    
+
+
+
+
+
+
+Code Editor (Try it)
+
+                      With our online code editor, you can edit code and view
+                      the result in your browser
+                    
+
+
+
+
+
+
+Videos
+
+                      Learn the basics of HTML in a fun and engaging video
+                      tutorial
+                    
+
+
+
+
+
+
+
+
+
+
+
+Templates
+
+                      We have created a bunch of responsive website templates
+                      you can use - for free!
+                    
+
+
+
+
+
+
+Web Hosting
+
+                      Host your own website, and share it to the world with
+                      W3Schools Spaces
+
+
+
+
+
+
+
+Create a Server
+
+                      Create your own server using Python, PHP, React.js,
+                      Node.js, Java, C#, etc.
+                    
+
+
+
+
+
+
+
+
+
+
+
+How To's
+
+                      Large collection of code snippets for HTML, CSS and
+                      JavaScript
+                    
+
+
+
+
+
+
+CSS Framework
+
+                      Build fast and responsive sites using our free
+                      W3.CSS
+                      framework
+                    
+
+
+
+
+
+
+Browser Statistics
+Read long term trends of browser usage
+
+
+
+
+
+
+Typing Speed
+Test your typing speed
+
+
+
+
+
+
+
+Color Picker
+
+                      Use our color picker to find different RGB, HEX and HSL
+                      colors.
+                      
+
+
+
+
+
+
+
+Code Game
+
+                      W3Schools Coding Game! Help the lynx collect pine cones
+                      
+
+
+
+
+
+
+
+
+Newsletter
+
+                      Join our newsletter and get access to exclusive content
+                      every month
+                    
+
+
+
+
+
+
+For Teachers
+
+                      Contact us about W3Schools Academy for educational
+                      institutions
+                    
+
+
+
+
+
+
+For Businesses
+
+                      Contact us about W3Schools Academy for your organization
+                    
+
+
+
+
+
+
+Contact Us
+
+                      About sales:
+                      sales@w3schools.com
+
+                      About errors:
+                      help@w3schools.com
+
+
+
+
+
+
+
+
+
+  
+
+
+
+                    
+                  
+
+
+  
+
+
+  
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ❮     
+
+
+     ❯   
+
+
+
+
+
+
+HTML
+CSS
+JAVASCRIPT
+SQL
+PYTHON
+JAVA
+PHP
+HOW TO
+W3.CSS
+C
+C++
+C#
+BOOTSTRAP
+REACT
+MYSQL
+JQUERY
+EXCEL
+XML
+DJANGO
+NUMPY
+PANDAS
+NODEJS
+DSA
+TYPESCRIPT
+ANGULAR
+GIT
+POSTGRESQL
+MONGODB
+ASP
+AI
+R
+GO
+KOTLIN
+SASS
+VUE
+GEN AI
+SCIPY
+
+CYBERSECURITY
+DATA SCIENCE
+INTRO TO PROGRAMMING
+BASH
+
+
+
+
+
+
+
+
+
+
+
+
+HTML Tutorial
+HTML HOME
+HTML Introduction
+HTML Editors
+HTML Basic
+HTML Elements
+HTML Attributes
+HTML Headings
+HTML Paragraphs
+HTML Styles
+HTML Formatting
+HTML Quotations
+HTML Comments
+HTML Colors
+
+Colors
+RGB
+HEX
+HSL
+
+HTML CSS
+HTML Links
+
+Links
+Link Colors
+Link Bookmarks
+
+HTML Images
+
+Images
+Image Map
+Background Images
+The Picture Element
+
+HTML Favicon
+HTML Page Title
+HTML Tables
+
+HTML Tables
+Table Borders
+Table Sizes
+Table Headers
+Padding & Spacing
+Colspan & Rowspan
+Table Styling
+Table Colgroup
+
+HTML Lists
+
+Lists
+Unordered Lists
+Ordered Lists
+Other Lists
+
+HTML Block & Inline
+HTML Div
+HTML Classes
+HTML Id
+HTML Iframes
+HTML JavaScript
+HTML File Paths
+HTML Head
+HTML Layout
+HTML Responsive
+HTML Computercode
+HTML Semantics
+HTML Style Guide
+HTML Entities
+HTML Symbols
+HTML Emojis
+HTML Charsets
+HTML URL Encode
+HTML vs. XHTML
+
+HTML Forms
+HTML Forms
+HTML Form Attributes
+HTML Form Elements
+HTML Input Types
+HTML Input Attributes
+Input Form Attributes
+
+HTML Graphics
+HTML Canvas
+HTML SVG
+
+HTML Media
+HTML Media
+HTML Video
+HTML Audio
+HTML Plug-ins
+HTML YouTube
+
+HTML APIs
+HTML Web APIs
+HTML Geolocation
+HTML Drag and Drop
+HTML Web Storage
+HTML Web Workers
+HTML SSE
+
+HTML Examples
+HTML Examples
+HTML Editor
+HTML Quiz
+HTML Exercises
+HTML Website
+HTML Syllabus
+HTML Study Plan
+HTML Interview Prep
+HTML Bootcamp
+HTML Certificate
+HTML Summary
+HTML Accessibility
+
+HTML References
+HTML Tag List
+HTML Attributes
+HTML Global Attributes
+HTML Browser Support
+HTML Events
+HTML Colors
+HTML Canvas
+HTML Audio/Video
+HTML Doctypes
+HTML Character Sets
+HTML URL Encode
+HTML Lang Codes
+HTTP Messages
+HTTP Methods
+PX to EM Converter
+Keyboard Shortcuts
+
+
+
+
+
+
+
+
+
+
+HTML Images
+
+❮ Previous
+Next ❯
+
+
+Images can improve the design and the appearance of a web page.
+
+
+
+
+
+
+
+
+
+
+Example
+
+ <img src="pic_trulli.jpg" 
+alt="Italian Trulli">
+
+Try it Yourself »
+
+
+Example
+
+ <img src="img_girl.jpg" 
+alt="Girl in a jacket">
+Try it Yourself »
+
+
+Example
+
+ <img src="img_chania.jpg" 
+alt="Flowers in Chania">
+
+Try it Yourself »
+
+
+
+HTML Images Syntax
+The HTML <img> tag is used to embed an 
+image in a web page.
+Images are not technically inserted into a web page; images are linked to web 
+pages. The <img> tag creates a holding 
+space for the referenced image.
+The <img> tag is empty, it contains attributes only, and does not 
+have a closing tag.
+The <img> tag has two required 
+attributes:
+
+src - Specifies the path to the image
+alt - Specifies an alternate text for the image
+
+
+Syntax
+
+<img src="url" alt="alternatetext">
+
+
+
+
+The src Attribute
+The required src attribute specifies the path (URL) to the image.
+Note: When a web page loads, it is the browser, at that 
+moment, that gets the image from a web server and inserts it into the page. 
+Therefore, make sure that the image actually stays in the same spot in relation 
+to the web page, otherwise your visitors will get a broken link icon. The broken 
+link icon and the alt text are shown if the browser cannot find the image.
+
+Example
+
+<img src="img_chania.jpg" alt="Flowers 
+  in Chania">
+
+Try it Yourself »
+
+
+
+
+
+
+
+
+
+The alt Attribute
+The required alt attribute provides an alternate text for an image, if the user for 
+some reason cannot view it (because of slow connection, an error in the src 
+attribute, or if the user uses a screen reader).
+The value of the alt attribute should describe the image:
+
+Example
+
+<img src="img_chania.jpg" alt="Flowers 
+  in Chania">
+
+Try it Yourself »
+
+If a browser cannot find an image, it will display the value of the alt 
+attribute:
+
+Example
+
+<img src="wrongname.gif" alt="Flowers 
+  in Chania">
+
+Try it Yourself »
+
+
+Tip: A screen reader is a software program that reads the HTML code, and allows the user to "listen" to the content. Screen readers are useful 
+for people who are visually impaired or learning disabled.
+
+
+
+
+Image Size - Width and Height
+You can use the style attribute to specify the width and 
+height of an image.
+
+Example
+
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
+
+Try it Yourself »
+
+Alternatively, you can use the width and height attributes:
+
+Example
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+Try it Yourself »
+
+The width and height attributes always define the width and height of the 
+image in pixels.
+
+Note: Always specify the width and height of an image. If width and height are not specified, the 
+  web page 
+  might flicker while the image loads.
+
+
+
+
+Width and Height, or Style?
+The width, height, and style attributes are 
+all valid in HTML.
+However, we suggest using the style attribute. It prevents styles sheets from changing 
+the size of images:
+
+Example
+
+ <!DOCTYPE html><html><head><style>img {   width: 100%; }
+ </style></head><body><img src="html5.gif" alt="HTML5 Icon" width="128" height="128"><img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;"></body></html>
+Try it Yourself »
+
+
+
+
+Images in Another Folder
+If you have your images in a sub-folder, you must include the folder 
+name in the src attribute:
+
+Example
+
+<img src="/images/html5.gif" 
+alt="HTML5 Icon" style="width:128px;height:128px;">
+
+Try it Yourself »
+
+
+
+
+Images on Another Server/Website
+Some web sites point to an image on another server.
+To point to an image on another server, you must specify an absolute (full) 
+URL in the src attribute:
+
+Example
+
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+
+Try it Yourself »
+
+Notes on external images: External images might be under 
+copyright. If you do not get permission to use it, you may be in violation of 
+copyright laws. In addition, you cannot control external images; they can suddenly 
+be removed or changed.
+
+
+
+Animated Images
+HTML allows animated GIFs:
+
+Example
+
+<img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">
+
+Try it Yourself »
+
+
+
+
+Image as a Link
+To use an image as a link, put the <img> tag inside the <a> 
+tag:
+
+Example
+
+<a href="default.asp">  <img src="smiley.gif" alt="HTML tutorial" 
+style="width:42px;height:42px;"></a>
+
+Try it Yourself »
+
+
+
+
+Image Floating
+Use the CSS float property to let the image float to the right or to the left of a text:
+
+Example
+
+<p><img src="smiley.gif" alt="Smiley face"
+style="float:right;width:42px;height:42px;">
+ The image will float to the right of 
+the text.</p><p><img src="smiley.gif" alt="Smiley face"
+style="float:left;width:42px;height:42px;">
+ The image will float to the left of 
+the text.</p>
+Try it Yourself »
+
+
+Tip: To learn more about CSS Float, read our CSS Float Tutorial.
+
+
+
+
+Common Image Formats
+Here are the most common image file types, which are supported in all browsers 
+(Chrome, Edge, Firefox, Safari, Opera):
+
+
+Abbreviation
+File Format
+File Extension
+
+
+APNG
+Animated Portable Network Graphics
+.apng
+
+
+GIF
+Graphics Interchange Format
+.gif
+
+
+ICO
+Microsoft Icon
+.ico, .cur 
+
+
+JPEG
+Joint Photographic Expert Group image
+.jpg, .jpeg, .jfif, .pjpeg, .pjp
+
+
+PNG
+Portable Network Graphics
+.png
+
+
+SVG
+Scalable Vector Graphics
+.svg
+
+
+
+
+
+Chapter Summary
+
+Use the HTML <img> element to define an image
+Use the HTML src attribute to define the URL of the image
+Use the HTML alt attribute to define an alternate text for an image, if it cannot be displayed
+Use the HTML width and height attributes 
+  or the CSS width and height 
+  properties to define the size of the image
+Use the CSS float property to let the image float 
+  to the left or to the right
+
+
+Note: Loading large images takes time, and can slow down your 
+  web page. Use images carefully.
+
+
+
+
+
+HTML Image Tags
+
+
+Tag
+Description
+
+
+<img>
+Defines an image
+
+
+<map>
+Defines an image map
+
+
+<area>
+Defines a clickable area inside an image map
+
+
+<picture>
+Defines a container for multiple image resources
+
+
+
+For a complete list of all available HTML tags, visit our HTML Tag Reference.
+
+
+Video: HTML Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+❮ Previous
+Next ❯
+
+
+
+
+
+
+
+
+
+
+
+
+★
++1
+
+
+
+ 
+
+
+
+Track your progress - it's free!
+
+
+ 
+
+
+
+
+
+
+
+          Log in
+        
+
+          Sign Up
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COLOR PICKER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLUS
+SPACES
+GET CERTIFIED
+FOR TEACHERS
+FOR BUSINESS
+CONTACT US
+
+
+
+×
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+
+
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+
+
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+
+
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+
+
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+
+
+
+
+
+
+
+
+
+FORUM
+ABOUT
+ACADEMY
+
+
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness
+of all content. While using W3Schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+Copyright 1999-2025 by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS.
+
+
+
+
+
+
+
+
+
+

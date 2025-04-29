@@ -1,0 +1,681 @@
+https://en.wikipedia.org/wiki/Harvard_Mark_II
+
+
+
+
+Harvard Mark II - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+Further reading
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harvard Mark II
+
+
+
+6 languages
+
+
+
+
+العربيةCatalàEspañolFrançaisPortuguês中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Electromechanical computer at Harvard University, completed in 1947
+Harvard Mark IIAlso known asAiken Relay CalculatorDeveloperHoward Aiken, Edmund Berkeley, and Grace HopperRelease date1947; 78 years ago (1947)Weight50,000 lb (23,000 kg)PredecessorHarvard Mark ISuccessorHarvard Mark III
+The Harvard Mark II, also known as the Aiken Relay Calculator,[1][2][3] was an electromechanical computer built under the direction of Howard Aiken at Harvard University, completed in 1947. It was financed by the United States Navy and used for ballistic calculations at Naval Proving Ground Dahlgren. Computer pioneers Edmund Berkeley[4] and Grace Hopper worked together under Aiken to build and program the Mark II
+
+
+Overview[edit]
+Logbook entry containing the "bug"
+The contract to build the Mark II was signed with Harvard in February 1945, after the successful demonstration of the Mark I in 1944. It was completed and debugged in September 1947, and delivered to the US Navy Proving Ground at Dahlgren, Virginia in March 1948,[5][6] becoming fully operational by the end of that year.[7]
+The Mark II was constructed with high-speed electromagnetic relays instead of the electro-mechanical counters used in the Mark I, making it much faster than its predecessor. It weighed 25 short tons (23 t) and occupied over 4,000 square feet (370 m2) of floor space.[8][3][9] Its addition time was 0.125 seconds (8 Hz) and the multiplication time was 0.750 seconds. This was a factor of 2.6 faster for addition and a factor of 8 faster for multiplication compared to the Mark I. It was the second machine (after the Bell Labs Relay Calculator) to have floating-point hardware. A unique feature of the Mark II is that it had built-in hardware for several functions such as the reciprocal, square root, logarithm, exponential, and some trigonometric functions. These took between five and twelve seconds to execute. Additionally, the Mark II was actually composed of two sub-computers that could either work in tandem or operate on separate functions, to cross-check results and debug malfunctions.[1]
+The Mark I and Mark II were not stored-program computers – they read instructions of the program one at a time from a tape and executed them. The Mark II had a peculiar programming method that was devised to ensure that the contents of a register were available when needed. The tape containing the program could encode only eight instructions, so what a particular instruction code meant depended on when it was executed. Each second was divided up into several periods, and a coded instruction could mean different things in different periods.  An addition could be started in any of eight periods in the second, a multiplication could be started in any of four periods of the second, and a transfer of data could be started in any of twelve periods of the second.  Although this system worked, it made the programming complicated, and it reduced the efficiency of the machine somewhat.[10]
+The Mark II is also known for being the computer with the first recorded instance of an actual bug (a moth) disrupting its operation. The insect was extracted from the machine's electronics and taped to the log book, with the note "first actual case of [a] bug being found", on September 9, 1947.[11][12]
+
+See also[edit]
+Harvard Mark I
+Harvard Mark III
+Harvard Mark IV
+Bug (engineering)#History
+References[edit]
+
+
+^ a b Rife 2006, p. 93.
+
+^ Instruments & Control Systems. Chilton Company. 1957. p. 1302.
+
+^ a b Harvard Alumni Bulletin. 1948. p. 554.
+
+^ "From Tabulators to Early Computers in the U.S. Life Insurance Industry". Center for Coordination Science @ MIT Sloan. 1946-12-31. Retrieved 2023-12-08.
+
+^ Darroch, Robert S. Harding & Don. "Technology, Invention, and Innovation Collections". amhistory.si.edu. SERIES 2: PHOTOGRAPHS OF MARK II, 1948: (43) 18 February 1948 Packing Mark II for move to Dahlgren, (44) 20 February 1948 Crates on truck at Harvard, ready to go to Dahlgren. Retrieved 2018-05-16.
+
+^ "The First Use of "Bug" in the Context of Computing". History of Information. Retrieved April 7, 2025.
+
+^ Rife 2006, Search for "mark ii" Dahlgren 1948, pp. 95–96, 278.
+
+^ Infantry Journal. United States Infantry Association. 1948. p. 57.
+
+^ Science News. Science Service. 1948. p. 295.
+
+^ Williams, 1985, pp. 248–251
+
+^ "September 9, 1947 First Instance of Actual Computer Bug Being Found". Retrieved 2021-03-16.
+
+^ "Sep 9, 1947 CE: World's First Computer Bug". Retrieved 2021-03-16.
+
+
+Further reading[edit]
+Staff of the Computation Laboratory (1949). Description of a Relay Calculator. Annals of the Computation Laboratory of Harvard University, Vol. XXIV. Harvard University Press, Cambridge, Mass.
+Rife, James P. (2006). The sound of freedom: Naval Weapons Technology at Dahlgren, Virginia 1918–2006. Government Printing Office. p. 93. ISBN 978-0160872488.
+Williams, Michael R. (1997). A History of Computing Technology. IEEE Computer Society Press. ISBN 0-8186-7739-2.
+External links[edit]
+Photographs related to the Mark II from the Grace Hopper Collection at the Smithsonian
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Harvard_Mark_II&oldid=1284521527"
+Categories: 1940s computersComputer-related introductions in 1947Electro-mechanical computersOne-of-a-kind computersHarvard UniversityHidden categories: Articles with short descriptionShort description matches Wikidata
+
+
+
+
+
+
+ This page was last edited on 8 April 2025, at 03:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harvard Mark II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

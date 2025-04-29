@@ -1,0 +1,693 @@
+https://en.wikipedia.org/wiki/Stick_PC
+
+
+
+
+Stick PC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Neural compute sticks
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Stick PC
+
+
+
+12 languages
+
+
+
+
+العربيةEspañolفارسیFrançais한국어ItalianoNederlands日本語PortuguêsRomânăРусский中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer plugged into an HDMI video port
+The Intel Compute Stick
+A stick PC or PC on a stick is a single-board computer in a small elongated casing resembling a stick, that can usually be plugged directly (without an HDMI cable) into an HDMI video port. A stick PC is a device which has independent CPUs or processing chips and which does not rely on another computer. It should not be confused with passive storage devices such as thumb drives.
+A stick PC can be connected to a peripheral device such as a monitor, TV, or kiosk display to produce visual or audio output. Stick PCs generally have limited computing power and are not suited for intensive tasks, but can be suitable in other applications that do not require such power.
+
+
+History[edit]
+The idea behind the creation of the Gumstix (on the left): a PC around the size of a stick of gum. There is an extension module on the right
+The stick PC was first introduced in 2003. The Gumstix, which came out that same year, used the ARM architecture system on a chip (SoC) and the Linux 2.6 kernel. Windows CE can be installed on this stick. It was based on the idea of making a PC similar in size to that of an average stick of chewing gum.[1]
+As the popularity of smart TVs and set-top boxes to view streaming services (such as the Roku) grew, companies started looking at making these small computers even smaller and easier to use.
+Several stick PCs using ARM architecture SoCs were introduced around 2012, made of sticks pluggable in an HDMI port, including the Android Mini PC MK802 series from Rikomagic, using Android or Linux distributions, both based on Linux and Allwinner Technology or Rockchip SoC[2][3] and Cotton Candy, using Samsung Exynos SoC.[4]
+2013-2014 saw several manufacturers come out with stick PCs. MeeGoPad released the first x86 based stick PC, featuring the Intel Atom Z3735F Processor.[5] In April 2013, Tronsmart released the MK908, using the Rockchip RK3188 (featuring the quad-core ARM Cortex-A9 and ARM Mali-400MP GPU). On July 24, 2013, Google introduced the Google Chromecast, a streaming device similar in function and design to a stick PC.[6][7] On November 19, 2014, Amazon released a smaller version of the Amazon Fire TV called the Fire TV Stick.
+In March 2015, ASUS and Google introduced the Chromebit, a stick PC based on the Rockchip RK3288 SoC and running Google's ChromeOS.[8]
+In 2016, Intel introduced the Intel Compute Stick.[9] It was discontinued in June 2020.[10]
+
+Neural compute sticks[edit]
+In July 2017, Intel released the Movidius Neural Compute Stick which included a Vision Processing Unit for vision-specific AI workload.[11] In January 2018, the Laceli AI Compute Stick came out, including a neural network processor unit for AI workload called Lightspeeur 2801S Neural Processor, and claiming to be more powerful and more energy-efficient than the Movidius.[12] In November 2018, the Orange Pi AI Stick 2801 came out, also featuring the Lightspeeur 2801S Neural Processor.[13]
+
+See also[edit]
+Single-board computer
+System on a chip
+References[edit]
+
+
+^ Erik Larson. "Introduction to GumStix Computers" (PDF). University of West Florida. Archived from the original (PDF) on 2016-09-10. Retrieved 2016-08-06.
+
+^ Avram Piltch (October 2, 2012). "Android 4.0 Mini PC MK802 II Review". laptopmag.com.
+
+^ James Trew (July 6, 1012). "MK802 Android 4.0 Mini PC hands-on impressions". Engadget.
+
+^ Jarred Walton (January 9, 2012). "FXI Cotton Candy Demo: More Power than You Can Shake a (Thumb) Stick at". Anandtech.
+
+^ MeeGoPad International. "MeegoPad T01 First Intel Windows TV STick". x86pad.com/. Archived from the original on 2015-08-14.
+
+^ David Blaza. "China Beat Google to Chromecast". EE Times.
+
+^ Evangelho, Jason (July 24, 2013). "Google's Chromecast A Brilliant Play For The Living Room -- Especially With $35 Price Tag". Forbes.com. Retrieved July 24, 2013.
+
+^ Hollister, Sean (March 31, 2015). "Google's Chromebit Turns Any TV Into a Chrome PC for $85". Gizmodo.
+
+^ Intel Compute Stick (2016) review,  By: Dan Ackerman Reviewed: January 24, 2016, CNET
+
+^ "Intel Product Change Notification" (PDF).
+
+^ "Intel's Movidius Neural Compute Stick Brings Low Power Deep Learning & Artificial Intelligence Offline". CNX Software. July 21, 2017.
+
+^ "Laceli AI Compute Stick is a More Powerful & Efficient Alternative to Intel/Movidius Neural Compute Stick". CNX Software. January 3, 2018.
+
+^ "$69 Orange Pi AI Stick 2801 Features Lightspeeur 2801S Neural Processor". CNX Software. November 18, 2018.
+
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Stick_PC&oldid=1277510728"
+Categories: Single-board computersDigital media playersNetworking hardwareStreaming media systemsHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 25 February 2025, at 01:52 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Stick PC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

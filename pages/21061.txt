@@ -1,0 +1,1080 @@
+https://en.wikipedia.org/wiki/British_Computer_Society
+
+
+
+
+British Computer Society - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+Governance
+
+
+
+
+
+
+
+
+4
+Fellow of the British Computer Society (FBCS)
+
+
+
+
+
+
+
+
+5
+Chartered IT Professional
+
+
+
+
+
+
+
+
+6
+Grades of membership
+
+
+
+
+
+
+
+
+7
+Awards
+
+
+
+
+
+
+
+
+8
+Qualifications
+
+
+
+
+Toggle Qualifications subsection
+
+
+
+
+
+8.1
+BCS IT User Qualifications
+
+
+
+
+
+
+
+
+8.2
+BCS Higher Education Qualifications (HEQs)
+
+
+
+
+
+
+
+
+8.3
+Other certifications
+
+
+
+
+
+
+
+
+8.4
+Retired qualifications
+
+
+
+
+
+
+
+
+
+
+9
+Structure
+
+
+
+
+Toggle Structure subsection
+
+
+
+
+
+9.1
+Regional branches
+
+
+
+
+
+
+
+
+9.2
+International sections
+
+
+
+
+
+
+
+
+9.3
+Specialist groups
+
+
+
+
+
+
+
+
+
+
+10
+Works
+
+
+
+
+
+
+
+
+11
+Arms
+
+
+
+
+
+
+
+
+12
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+British Computer Society
+
+
+
+14 languages
+
+
+
+
+العربيةCatalàDeutschEspañolفارسیFrançais한국어Nederlands日本語Polskiසිංහලதமிழ்Українська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+British professional body in IT
+
+
+British Computer SocietyFounded2 May 1957; 67 years ago (1957-05-02)FounderSir Maurice WilkesTypeProfessional OrganisationFocusInformation TechnologyLocationLondon, United KingdomOriginsLondon Computer GroupArea served WorldwideMethodChartered IT status, Industry standards, Conferences, Publications and regulation of ICT educationMembers60,000 in 150 countries[1]Key peopleThe Duke of Kent, KG (Patron) Alastair Revell, President[2]Rob Deri, CEO[3]Websitewww.bcs.org
+Sir Nigel Shadbolt was President of BCS from 2006 to 2007.
+Dame Wendy Hall was President of BCS from 2003 to 2004.
+Prince Edward, Duke of Kent was President of BCS from 1982 to 1983.
+Lord Mountbatten was President of BCS from 1966 to 1967.
+Sir Maurice Wilkes served as the first President of BCS in 1957.
+The British Computer Society (BCS), branded BCS, The Chartered Institute for IT, since 2009, is a professional body and a learned society that represents those working in information technology (IT), computing, software engineering, computer engineering and computer science, both in the United Kingdom and internationally. Founded in 1957, BCS has played an important role in educating and nurturing IT professionals, computer scientists, software engineers, computer engineers, upholding the profession, accrediting Chartered IT Professional (CITP) and Chartered Engineer (CEng) status, and creating a global community active in promoting and furthering the field and practice of computing.
+
+
+Overview[edit]
+With a worldwide membership of 57,625 members as of 2021,[4] BCS is a registered charity and was incorporated by Royal Charter in 1984. Its objectives are to promote the study and application of communications technology and computing technology and to advance knowledge of education in ICT for the benefit of professional practitioners and the general public.
+BCS is a member institution of the Engineering Council, through which it is licensed to award the designation of Incorporated Engineer and Chartered Engineer and therefore is responsible for the regulation of ICT and computer science fields within the UK. The BCS is also a member of the Council of European Professional Informatics Societies, the Seoul Accord for international tertiary degree recognition, and the European Quality Assurance Network for Informatics Education EQANIE. BCS was previously a member organisation of the Science Council, through which it was licensed to award the designation of Chartered Scientist.
+BCS has an office in London. The main administrative offices are in Swindon, Wiltshire, west of London. It also has two overseas offices in Sri Lanka and Mauritius.
+Members are sent the quarterly IT professional magazine ITNOW (formerly The Computer Bulletin).
+BCS is a member organisation of the Federation of Enterprise Architecture Professional Organizations (FEAPO), a worldwide association of professional organisations which have come together to provide a forum to standardise, professionalise, and otherwise advance the discipline of Enterprise Architecture.
+
+History[edit]
+The forerunner of BCS was the "London Computer Group" (LCG), founded in 1956. BCS was formed a year later from the merger of the LCG and an unincorporated association of scientists into an unincorporated club. In October 1957, BCS was incorporated, by Articles of Association, as "The British Computer Society Ltd": the first President of BCS was Sir Maurice Wilkes (1913–2010), FRS.
+In 1966, the BCS was granted charitable status and in 1970, the BCS was given Armorial Bearings including the shield and crest.
+The major ethical responsibilities of BCS are emphasised by the leopard's face, surmounting the whole crest and depicting eternal vigilance over the integrity of the Society and its members.
+The BCS patron is The Duke of Kent, KG. He became patron in December 1976 and has been actively involved in BCS activities, particularly having been president in the Silver Jubilee Year in 1982–1983.
+On 21 September 2009, the British Computer Society went through a transformation and re-branded itself as "BCS, The Chartered Institute for IT".[5] In 2010, an Extraordinary General Meeting was called to discuss the direction of the BCS.[6] The debate has been covered by the computing press.[7][8][9][10]
+
+Governance[edit]
+BCS is governed by a Trustee Board comprising the President, the Deputy President, the immediate past President, up to nine Vice Presidents (including Vice-president Finance), and five Professional Members elected by the Advisory Council.[11] Sir Maurice Wilkes, Professor of Computer Science at Cambridge University, served as its first president. Each president serves for a 2-year term. A list of presidents of the British Computer Society can be found on the BCS website.[12]
+The BCS Advisory Council elects the Honorary Officers – the President, the Deputy President and up to nine vice-presidents, together with the immediate past President and five members of Council.[13] Lists of Trust Board and Advisory Council members are maintained online.[11]
+The Advisory Council provides advice to the Trustee Board on the direction and operation of BCS; in particular, it is consulted on strategic plans and the annual budget. The council is a representative body of the membership, with members elected directly by the professional membership, and by the Branches, Groups and Forums.[13]
+
+Fellow of the British Computer Society (FBCS)[edit]
+See also: Distinguished Fellow of the British Computer Society
+The Fellow of the BCS (FBCS)[14] title is conferred on individuals to recognise their outstanding achievements and contributions to Information Technology (engineering, product management, business leadership, etc.). Fellows are expected to give something back to the profession, by promoting and evangelising the profession to the
+public and society, and contributing to debates in conferences, panels, meetings, etc. 
+Fellows are nominated to the society each year and have to be supported by one or more existing fellows. Criteria[15] for election to fellow include:
+
+Demonstrate leadership in the profession
+Wide acknowledgement of specific IT expertise
+Contribution to the advancement of knowledge
+Eminent individual
+Authority and seniority, including leading major projects and managing teams.
+Current fellows[16][17]
+include distinguished individuals from industries and universities. Some of the prominent fellows include:
+
+Dame Wendy Hall, FBCS – ex-President of BCS
+Andy Harter, FBCS – CEO of RealVNC
+Tony Hey, FBCS – ex-VP of Microsoft Research
+Hermann Hauser, Distinguished FBCS – founder of ARM Ltd.
+Frank Zhigang Wang, FBCS –inventor of spin-tunneling random access memory.
+The society also awards Honorary Fellowships. Examples include:
+
+Dorothy Monekosso, who received the honour for her work on Smart Homes for people living with dementia and for her campaigning work to promote diversity in the tech sector.[18]
+Since July 2021, Fellows are eligible to be appointed to the Fellows Technical Advisory Group (F-TAG).[19] F-TAG provides technical thought leadership governance for BCS, informing policy positions [20] and content.
+
+Chartered IT Professional[edit]
+Main article: Chartered IT Professional
+The BCS is the only professional body in the United Kingdom with the ability to grant chartered status to IT professionals under its Royal Charter, granted to them by the Privy Council.[21] Thus having the ability to grant Chartered (Professional) status to both its Fellows and Professional members. Known as Chartered IT Professional, they are entitled to use the suffix CITP. The BCS keeps a register of current Chartered Members and Fellows.[22]
+Other Professional membership bodies apply to the BCS for a licence that enables them to award CITP to their eligible members.
+
+Grades of membership[edit]
+BCS has different grades of membership:
+
+Honorary grades
+Distinguished Fellow (Only 24 awards since 1971[23])
+Honorary Fellowship (Hon FBCS)[24] (Only 104 awarded to date)
+Professional grades
+Fellow (FBCS)
+Member (MBCS)
+Ordinary grades
+Associate Member (AMBCS)
+Student Member
+Group, corporate and other membership categories
+Affiliate: for those with an interest in IT but not yet employed in an IT role.
+Group membership: nearly 200 organisations now encourage their IT professionals to join the Society through its Group Membership Scheme.[25]
+Education affiliates: education intuitions can also be accredited by BCS.[26]
+Other Chartered designations
+The Engineering Council UK has licensed the BCS to award Chartered Engineer status (CEng) and Incorporated Engineer status (IEng).
+The Science Council formerly licensed the BCS to award Chartered Scientist status (CSci). However, the BCS no longer offers Chartered Scientist status (CSci)
+Members may also apply through BCS to the European Federation of National Engineering Associations (FEANI) for European Engineer (EUR ING) status.
+Designatory (post-nominal) letters
+Members are encouraged to display the designatory letters to which they are entitled whenever appropriate. The order of designatory (post-nominal) letters is complex and open to a certain amount of interpretation. The accepted authority on this subject is Debrett's Correct Form. Normally these should appear after decorations, degrees and chartered letters. Members holding CEng should also display the designatory letters of the institution through which they are registered immediately after the CEng. Conventionally, members holding Chartered status (CITP) display this immediately after their membership letters (e.g., FBCS CITP or MBCS CITP). However, as CITP may now be awarded by other organisations it may also be displayed separately, following that of the awarding institution.
+
+Awards[edit]
+The society provides several awards to recognise outstanding computer scientists, engineers, experienced and young IT professionals.
+The awards include:
+
+Lovelace Medal
+Roger Needham Award
+Early Career Award
+John Perry Prize
+Distinguished Dissertation Award
+UK IT Industry Awards
+Qualifications[edit]
+BCS provides a range of qualifications both for users of computers and for IT professionals.
+
+BCS IT User Qualifications[edit]
+BCS offers qualifications that cover all areas of IT, including understanding Spreadsheets and Presentation Software, Animation, Video Editing and Social Networking safety.[27]
+The current IT user qualifications are:
+
+European Computer Driving Licence (ECDL) – BCS is the only organisation licensed to offer ECDL qualifications in the UK.
+Advanced ECDL – the advanced course of ECDL ("Advanced ECDL") has four sections, each a qualification in its own right. Upon achieving all four advanced qualifications, the individual will receive a qualification as an "ECDL Expert" – in the UK, this confers upon the person Associate Membership of The British Computer Society, should that person wish to sign up to a code of conduct and join BCS.
+BCS Higher Education Qualifications (HEQs)[edit]
+BCS conducts its own BCS Higher Education Qualifications[28] in many countries. It was formerly known as BCS Professional Examinations which consisted of Parts 1 and 2 of which passing of Part 2 with the professional project was equivalent to a British honours degree. These programs had an early history of success, with participants coming from all parts of the world, including Asia. Many private computing schools outside the UK have hosted students in preparation for BCS Part 1 and 2 examinations. The level of current qualifications are:
+
+Certificate in IT (equivalent to the first year of an honours university degree)
+Diploma in IT (equivalent to the second year of an honours university degree)
+Professional Graduate Diploma in IT (equivalent to a British honours university degree)
+e-type
+e-type is a qualification that allows individuals to improve and certify their typing skills. The average user can save up to 21 days a year by improving their typing speed as well as preventing repetitive strain injury (RSI). e-type comes with full support materials and computer-based courseware before allowing the user to assess their skills using a simple online test.[29]
+
+Digital Creator
+Digital Creator is a set of engaging qualifications that teach digital media skills through creative projects. They are designed for all types and ages of learners – in schools from Key Stage 2 to Key Stage 4 and in all areas of adult learning.
+
+ITQ – The Flexible IT qualification
+The BCS ITQ is a range of IT user qualifications made up of a combination of units available on the ITQ framework.
+The framework consists of a wide range of units covering all aspects of IT user applications, including word processing, spreadsheets, the internet, multimedia software and design software.
+
+Other certifications[edit]
+ISEB
+BCS also offers professional qualifications via its Professional Certifications board, formerly known as ISEB (Information Systems Examination Board).
+Professional Certifications (ISEB) provides a wide range of qualifications for IT professionals covering major areas including Management, Development, Service Delivery and Quality.[30]
+
+Informatics Professional
+BCS via FEDIP[31]
+provides 4 different professional registration levels for health and care informatics professionals:
+Practitioner, Senior Practitioner, Advanced Practitioner, Leading Practitioner.
+FEDIPAdvPra – post-nominals for Advanced Practitioner.
+FEDIP is the Federation for Informatics Professionals in Health and Social Care, a collaboration between the leading professional bodies in health and care informatics supporting the development of the informatics profession.
+
+Retired qualifications[edit]
+e-Citizen
+The e-Citizen qualification allows beginners to get online and start using the Internet. The qualification has been designed to provide a basic understanding of the Internet and to start using the web safely, from reading email to shopping online.[32]
+
+MoR (Management of Risk)
+M_o_R Foundation is suitable for any organisation or individual seeing the need for guidance on a controlled approach to identification, assessment and control risk at strategic, programme, project and operational perspectives.
+
+Structure[edit]
+In common with many professional institutions, BCS has a number of regional branches and specialist groups.  Currently, there are 45 regional branches in the UK, 16 international sections and over 50 specialist groups.
+
+Regional branches[edit]
+The UK branches are:[33]
+
+
+Aberdeen
+Bedford
+Berkshire
+Birmingham
+Bristol and Bath
+Cheltenham and Gloucester
+Chester and North-Wales
+Coventry
+Cumbria
+Dorset[34]
+Edinburgh
+Glasgow
+Hampshire[35]
+Hereford and Worcester
+Hertfordshire
+Humberside
+Inverness (Sub-Branch)
+Kent
+Leicester
+London (Central)
+London (North)
+London (South)
+London (West)
+Manchester
+Merseyside
+Mid-Wales
+Newcastle upon Tyne
+North Staffordshire
+Northampton
+Northern Ireland
+Nottingham and Derby
+Oxfordshire
+Preston and District
+Scotland Region
+Shropshire
+South Wales
+South West
+South Yorkshire
+Sussex
+Tayside and Fife
+Teesside and District
+Wales
+West Yorkshire
+Wiltshire
+Wolverhampton
+
+International sections[edit]
+
+Belgium
+Guernsey
+Hellenic Section (Greece)
+Hong Kong
+Isle of Man
+Jersey
+Malta
+Mauritius
+Middle East
+Sri Lanka
+Switzerland
+Toronto, Canada (Upper Canada Section)
+USA
+Zimbabwe
+
+Specialist groups[edit]
+
+Animation and Games Development (AGD)[36]
+APSG (Advanced Programming Group)
+Artificial Intelligence
+ASSIST
+BCSWomen (Women in IT)
+British APL Association
+Business Change
+Business Information Systems
+Computer Arts Society
+Computer Conservation Society
+Configuration Management
+Consultancy
+Cybercrime Forensics[37]
+Cybernetic Machine
+DCSG (Data Centre Specialist Group)
+Data Management
+Digital Accessibility
+E-Learning [38]
+Electronic Publishing
+ELITE (Effective Leadership in Information Technology)
+Enterprise Architecture
+Financial Services
+FACS (Formal Aspects of Computing Science)
+Fortran
+Geospatial
+Green IT[39]
+Health Informatics (Interactive Care)
+Health Informatics (London and South East)
+Health Informatics (Northern)
+Health Informatics (Nursing)
+Health Informatics (Primary Health Care)
+Health Informatics (Scotland)
+Independent Computer Contractors (ICC)
+Learning & Development (L&D)
+Information Retrieval
+Information Risk Management and Assurance (IRMA)
+Information Security
+Interaction (formerly HCI)
+Internet
+IT Can Help
+Law
+Methods and Tools
+Natural Language Translation
+Open Source
+Parallel Processing
+Payroll
+Project Management (PROMS-G)
+Quality[40]
+Quantum Computing
+Requirements Engineering (RESG)
+Scottish Testing
+Service Management
+Sociotechnical
+Software Practice Advancement (SPA)
+Software Process Improvement Network (SPIN-UK)
+Software testing
+Young Professionals Group (YPG)
+
+Works[edit]
+This section needs expansion. You can help by adding to it.  (June 2012)
+In September 2010, BCS sponsored the one-off 'Digital Revolutions Film Workshop' for amateurs and professionals to "hone their skills", and in October 2010, in conjunction with Sheffield Doc/Fest, sponsored the 'Digital Revolutions Film Competition'.[41]
+BCS magazines include:
+
+ITNOW (formerly The Computer Bulletin), a quarterly IT professional magazine, ISSN 1746-5702
+Their journals are mostly published by Oxford University Press and include:
+
+The Computer Journal, a monthly journal, online ISSN 1460-2067, print ISSN 0010-4620
+Formal Aspects of Computing, a quarterly journal on formal methods, online ISSN 1433-299X, print ISSN 0934-5043
+Interacting with Computers, the interdisciplinary journal of Human-Computer Interaction, ISSN 0953-5438
+Electronic Workshops in Computing (eWiC) is a series for conference and workshop proceedings, published by the BCS, also available open access via ScienceOpen.
+
+Arms[edit]
+
+Coat of arms of British Computer Society
+
+
+
+
+
+Notes
+Granted 1 December 1970 [42]
+Crest
+On a wreath Argent and Sable, a lion's head affronty Or, holding in the mouth a key fesswise sable.
+Escutcheon
+Argent, on a fess Sable, between in chief two computer ferrite core memory store matrices Proper, and in base a portcullis chained Sable, three lozenges conjoined Ermine.
+
+References[edit]
+
+
+^ "About us". BCS. Retrieved 21 April 2021.
+
+^ "BCS Honorary officers". BCS. Retrieved 15 March 2024.
+
+^ "Meet our trustees, executives and council". BCS.
+
+^ "2021 Annual Report" (PDF). British Computer Society. Retrieved 8 June 2022.
+
+^ 
+Bailey, Dave (21 September 2009). "BCS becomes The Chartered Institute for IT". Computing. British Computer Society. Retrieved 9 March 2011.
+
+^ "BCS – Building for your Future". British Computer Society. 2010. Archived from the original on 28 May 2010.
+
+^ Goodwin, Bill (14 April 2010). "The EGM debate: BCS v Len Keighley". Computer Weekly. Retrieved 9 March 2011.
+
+^ Cooter, Maxwell (4 June 2010). "BCS membership fights over direction". Network World. Archived from the original on 7 June 2010. Retrieved 9 March 2011.
+
+^ Phipps, Simon (18 June 2010). "BCS EGM: It's Time To Vote For Transparency". Computerworld UK. Retrieved 9 March 2011.
+
+^ Oates, John (21 June 2010). "BCS trustee threatens rebels with libel action". The Register. Retrieved 9 March 2011.
+
+^ a b "Boards and Committees". British Computer Society. Retrieved 20 December 2013.
+
+^ "A List of Current and Past Presidents of BCS". Archived from the original on 14 April 2015. Retrieved 13 November 2017.
+
+^ a b "About BCS Council". British Computer Society. Archived from the original on 21 December 2013. Retrieved 20 December 2013.
+
+^ "Fellows of the British Computer Society". BCS.
+
+^ "Fellowship criteria, The British Computer Society". BCS.
+
+^ "BCS Register of Members". BCS. Retrieved 5 December 2017.
+
+^ "Register of Chartered IT Professionals | BCS". CS.
+
+^ Fearn, Alison (21 October 2020). "Barrier-breaking computer science professor awarded Honorary Fellowship of the Chartered Institute for IT". Wearetechwomen.
+
+^ "BCS Fellows Technical Advisory Group (F-TAG)". BCS. January 2023. Retrieved 20 June 2023.
+
+^ Helping AI grow up without pressing pause (Report). BCS. 4 May 2023. Retrieved 20 June 2023.
+
+^ "Chartered IT Professional (CITP)". British Computer Society. Retrieved 9 March 2011.
+
+^ Burgess, Fiona (18 May 2008). "Chartered IT Professional (CITP)". Archived from the original on 12 August 2011. Retrieved 9 March 2011.
+
+^ "BCS Distinguished Fellow awarded to Scott McNealy" (Press release). BCS. 15 November 2007. Archived from the original on 22 July 2012. Retrieved 9 March 2011.
+
+^ "Honorary Fellowship of BCS". BCS. Retrieved 11 November 2014.
+
+^ "Join the industry body for IT professionals". British Computer Society. Retrieved 9 March 2011.
+
+^ "Education Affiliates". British Computer Society. Retrieved 9 March 2011.
+
+^ IT User Qualifications: http://www.bcs.org/category/14405
+
+^ "BCS Higher Education Qualifications".
+
+^ "eType : BCS". British Computer Society. Archived from the original on 30 August 2006.
+
+^ "ISEB Qualifications". British Computer Society. Archived from the original on 29 April 2011. Retrieved 9 March 2011.
+
+^ BCS FEDIP
+
+^ "e-Citizen : BCS". British Computer Society. Archived from the original on 30 September 2007.
+
+^ "BCS member communities". BCS, the Chartered Institute for IT. Retrieved 15 January 2022.
+
+^ "Dorset Branch". British Computer Society. BCS. Retrieved 29 June 2023.
+
+^ "Hampshire Branch". British Computer Society. BCS. Retrieved 29 June 2023.
+
+^ "AGD SG". British Computer Society. BCS. Retrieved 29 June 2023.
+
+^ "Cybercrime Forensics SG". British Computer Society. BCS. Retrieved 29 June 2023.
+
+^ "e-learning SG". British Computer Society. BCS. Retrieved 29 June 2023.
+
+^ "GreenIT SG". British Computer Society. BCS.
+
+^ "Quality SG". British Computer Society. BCS. Retrieved 29 June 2023.
+
+^ Waldram, Hannah (25 August 2010). "Film-makers workshop held in Cardiff". The Guardian. Retrieved 7 June 2012.
+
+^ "British Computer Society". Heraldry of the World. Retrieved 21 November 2022.
+
+
+Authority control databases InternationalISNIVIAFNationalGermanyUnited StatesCzech Republic2IsraelAcademicsCiNii
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=British_Computer_Society&oldid=1279782514"
+Categories: British Computer Society1957 establishments in the United KingdomScientific organizations established in 1957Health informatics and eHealth associationsInformation technology charitiesProfessional associations based in the United KingdomProfessional certification in computingECUK Licensed MembersHidden categories: Articles with short descriptionShort description is different from WikidataUse British English from August 2013Use dmy dates from December 2019Articles to be expanded from June 2012All articles to be expanded
+
+
+
+
+
+
+ This page was last edited on 10 March 2025, at 15:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+British Computer Society
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1044 @@
+https://en.wikipedia.org/wiki/Torpedo_Data_Computer
+
+
+
+
+Torpedo Data Computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Background
+
+
+
+
+Toggle Background subsection
+
+
+
+
+
+1.1
+History
+
+
+
+
+
+
+
+
+1.2
+The problem of aiming a straight-running torpedo
+
+
+
+
+
+
+
+
+1.3
+TDC functional description
+
+
+
+
+
+
+1.3.1
+Angle solver
+
+
+
+
+
+
+
+
+1.3.2
+Position keeper
+
+
+
+
+
+
+
+
+
+
+
+
+2
+Notes and references
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Torpedo Data Computer
+
+
+
+5 languages
+
+
+
+
+DeutschPolskiРусскийکوردیதமிழ்
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Electromechanical analog computer
+U.S. Navy Mk III Torpedo Data Computer, the standard US Navy torpedo fire control computer during World War II. Later in World War II (1943), it was replaced by the TDC Mk IV, which was an improved and larger version.
+The Torpedo Data Computer (TDC) was an early electromechanical analog computer used for torpedo fire-control on American submarines during World War II. Britain, Germany, and Japan also developed automated torpedo fire control equipment, but none were as advanced as the US Navy's TDC,[1] as it was able to automatically track the target rather than simply offering an instantaneous firing solution. This unique capability of the TDC set the standard for submarine torpedo fire control during World War II.[2][3]
+Replacing the previously standard hand-held slide rule-type devices (known as the "banjo" and "is/was"),[4] the TDC was designed to provide fire-control solutions for submarine torpedo firing against ships running on the surface (surface warships used a different computer).[5]
+The TDC was a rather bulky addition to the sub's conning tower and required two extra crewmen: one as an expert in its maintenance, the other as its actual operator. Despite these drawbacks, the use of the TDC was an important factor in the successful commerce raiding program conducted by American submarines during the Pacific campaign of World War II. Accounts of the American submarine campaign in the Pacific often cite the use of TDC.[6][7] Some officers became highly skilled in its use,[8] and the Navy set up a training school for operation of the device.[9]
+Two upgraded World War II-era U.S. Navy fleet submarines (USS Tusk and Cutlass) with their TDCs continue to serve with Taiwan's navy and U.S. Nautical Museum staff are assisting them with maintaining their equipment.[10] The museum also has a fully restored and functioning TDC from USS Pampanito, docked in San Francisco.
+
+
+Background[edit]
+History[edit]
+The problem of aiming a torpedo has occupied military engineers since Robert Whitehead developed the modern torpedo in the 1860s. These early torpedoes ran at a preset depth on a straight course (consequently they are frequently referred to as "straight runners"). This was the state of the art in torpedo guidance until the development of the homing torpedo during the latter part of World War II.[11] The vast majority of submarine torpedoes during World War II were straight running, and these continued in use for many years after World War II.[12] In fact, two World War II-era straight running torpedoes — fired by the British nuclear-powered submarine HMS Conqueror — sank ARA General Belgrano in 1982.
+During World War I, computing a target intercept course for a torpedo was a manual process where the fire control party was aided by various slide rules[13] (the U.S. examples were the Mark VIII Angle Solver (colloquially called the "banjo", for its shape), and the "Is/Was" circular sliderule (Nasmith Director), for predicting where a target will be based on where it is now and was)[14] or mechanical calculator/sights.[15] These were often "woefully inaccurate",[16] which helps explain why torpedo spreads were advised.
+During World War II, Germany,[17] Japan,[18] and the United States each developed analog computers to automate the process of computing the required torpedo course.[19]
+In 1932, the Bureau of Ordnance (BuOrd) initiated development of the TDC with Arma Corporation and Ford Instruments.[20] This culminated in the "very complicated" Mark 1 in 1938.[20] This was retrofitted into older boats, beginning with Dolphin and up through the newest Salmons.[20]
+The first submarine designed to use the TDC was Tambor,[21] launched in 1940 with the Mark III, located in the conning tower.[20] (This differed from earlier outfits.)[22] It proved to be the best torpedo fire control system of World War II.[23]
+In 1943, the Torpedo Data Computer Mark IV was developed to support the Mark 18 torpedo.[24][25]
+Both the Mk III and Mk IV TDC were developed by Arma Corporation (now American Bosch Arma).
+
+The problem of aiming a straight-running torpedo[edit]
+Figure 2: Illustration of general torpedo fire-control problem
+A straight-running torpedo has a gyroscope-based control system that ensures that the torpedo will run a straight course.[26] The torpedo can run on a course different from that of the submarine by adjusting a parameter called the gyro angle, which sets the course of the torpedo relative to the course of the submarine (see Figure 2). The primary role of the TDC is to determine the gyro angle setting required to ensure that the torpedo will strike the target.
+Determining the gyro angle required the real-time solution of a complex trigonometric equation (see Equation 1 for a simplified example). The TDC provided a continuous solution to this equation using data updates from the submarine's navigation sensors and the TDC's target tracker. The TDC was also able to automatically update all torpedo gyro angle settings simultaneously with a fire control solution, which improved the accuracy over systems that required manual updating of the torpedo's course.[27]
+The TDC enables the submarine to launch the torpedo on a course different from that of the submarine, which is important tactically. Otherwise, the submarine would need to be pointed at the projected intercept point in order to launch a torpedo.[28] Requiring the entire vessel to be pointed in order to launch a torpedo would be time consuming, require precise submarine course control, and would needlessly complicate the torpedo firing process. The TDC with target tracking gives the submarine the ability to maneuver independently of the required target intercept course for the torpedo.
+As is shown in Figure 2, in general, the torpedo does not actually move in a straight path immediately after launch and it does not instantly accelerate to full speed, which are referred to as torpedo ballistic characteristics. The ballistic characteristics are described by three parameters: reach, turning radius, and corrected torpedo speed. Also, the target bearing angle is different from the point of view of the periscope versus the point of view of the torpedo, which is referred to as torpedo tube parallax.[29] These factors are a significant complication in the calculation of the gyro angle, and the TDC must compensate for their effects.
+Straight running torpedoes were usually launched in salvo (i.e. multiple launches in a short period of time)[30] or a spread (i.e. multiple launches with slight angle offsets)[30] to increase the probability of striking the target given the inaccuracies present in the measurement of angles, target range, target speed, torpedo track angle, and torpedo speed.
+Salvos and spreads were also launched to strike tough targets multiple times to ensure their destruction.[31] The TDC supported the firing of torpedo salvos by allowing short time offsets between firings and torpedo spreads by adding small angle offsets to each torpedo's gyro angle. Before the sinking of South Korea's ROKS Cheonan by North Korea in 2010, the last warship sunk by a submarine torpedo attack, ARA General Belgrano in 1982, was struck by two torpedoes from a three torpedo spread.[32]
+
+A look inside the TDC showing the motors driving the Position Keeper
+To accurately compute the gyro angle for a torpedo in a general engagement scenario, the target course, speed, range, and bearing must be accurately known. During World War II, target course, range, and bearing estimates often had to be generated using periscope observations, which were highly subjective and error prone. The TDC was used to refine the estimates of the target's course, range, and bearing through a process of
+
+estimating the target's course, speed, and range based on observations.
+using the TDC to predict the target's position at a future time based on the estimates of the target's course, speed, and range.
+comparing the predicted position against the actual position and correcting the estimated parameters as required to achieve agreement between the predictions and observation. Agreement between prediction and observation means that the target course, speed, and range estimates are accurate.
+Estimating the target's course was generally considered the most difficult of the observation tasks. The accuracy of the result was highly dependent on the experience of the skipper. During combat, the actual course of the target was not usually determined but instead the skippers determined a related quantity called "angle on the bow." Angle on the bow is the angle formed by the target course and the line of sight to the submarine. Some skippers, like Richard O'Kane, practiced determining the angle on the bow by looking at Imperial Japanese Navy ship models mounted on a calibrated lazy Susan through an inverted binocular barrel.[33]
+To generate target position data versus time, the TDC needed to solve the equations of motion for the target relative to the submarine. The equations of motion are differential equations and the TDC used mechanical integrators to generate its solution.[34]
+The TDC needed to be positioned near other fire control equipment to minimize the amount of electromechanical interconnect. Because submarine space within the pressure hull was limited, the TDC needed to be as small as possible. On World War II submarines, the TDC and other fire control equipment was mounted in the conning tower, which was a very small space.[35]
+The packaging problem was severe and the performance of some early torpedo fire control equipment was hampered by the need to make it small.[36] It had an array of handcranks, dials, and switches for data input and display.[37] To generate a fire control solution, it required inputs on
+
+submarine course and speed, which were read automatically from the submarine's gyrocompass and pitometer log
+estimated target course, speed, and range information (obtained using data from the submarine's periscope, Target Bearing Transmitter (TBT),[38] radar, and sonar)
+torpedo type and speed (type was needed to deal with the different torpedo ballistics)
+The TDC performed the trigonometric calculations required to compute a target intercept course for the torpedo. It also had an electromechanical interface to the torpedoes, allowing it to automatically set courses while torpedoes were still in their tubes, ready to be fired.
+The TDC's target tracking capability was used by the fire control party to continuously update the fire control solution even while the submarine was maneuvering. The TDC's target tracking ability also allowed the submarine to accurately fire torpedoes even when the target was temporarily obscured by smoke or fog.
+
+TDC functional description[edit]
+Since the TDC actually performed two separate functions, generating target position estimates and computing torpedo firing angles, the TDC actually consisted of two types of analog computers:
+
+Angle solver: This computer calculates the required gyro angle. The TDC had separate angle solvers for the forward and aft torpedo tubes.
+Position keeper: This computer generates a continuously updated estimate of the target position based on earlier target position measurements.[39]
+Angle solver[edit]
+The equations implemented in the angle solver can be found in the Torpedo Data Computer manual.[40] The Submarine Torpedo Fire Control Manual[41] discusses the calculations in a general sense and a greatly abbreviated form of that discussion is presented here.
+The general torpedo fire control problem is illustrated in Figure 2. The problem is made more tractable if we assume:
+
+The periscope is on the line formed by the torpedo running along its course
+The target moves on a fixed course and speed
+The torpedo moves on a fixed course and speed
+Figure 3: The torpedo fire control triangle
+As can be seen in Figure 2, these assumptions are not true in general because of the torpedo ballistic characteristics and torpedo tube parallax. Providing the details as to how to correct the torpedo gyro angle calculation for ballistics and parallax is complicated and beyond the scope of this article. Most discussions of gyro angle determination take the simpler approach of using Figure 3, which is called the torpedo fire control triangle.[6][7] Figure 3 provides an accurate model for computing the gyro angle when the gyro angle is small, usually less than 30°.[42]
+The effects of parallax and ballistics are minimal for small gyro angle launches because the course deviations they cause are usually small enough to be ignorable. U.S. submarines during World War II preferred to fire their torpedoes at small gyro angles because the TDC's fire control solutions were most accurate for small angles.[43]
+The problem of computing the gyro angle setting is a trigonometry problem that is simplified by first considering the calculation of the deflection angle, which ignores torpedo ballistics and parallax.[44]
+For small gyro angles, θGyro ≈ θBearing − θDeflection. A direct application of the law of sines to Figure 3 produces Equation 1.
+
+
+
+
+
+
+
+
+‖
+
+v
+
+
+T
+a
+r
+g
+e
+t
+
+
+
+‖
+
+
+sin
+⁡
+(
+
+θ
+
+
+D
+e
+f
+l
+e
+c
+t
+i
+o
+n
+
+
+
+)
+
+
+
+=
+
+
+
+‖
+
+v
+
+
+T
+o
+r
+p
+e
+d
+o
+
+
+
+‖
+
+
+sin
+⁡
+(
+
+θ
+
+
+B
+o
+w
+
+
+
+)
+
+
+
+
+
+{\displaystyle {\frac {\left\Vert v_{\mathrm {Target} }\right\|}{\sin(\theta _{\mathrm {Deflection} })}}={\frac {\left\Vert v_{\mathrm {Torpedo} }\right\|}{\sin(\theta _{\mathrm {Bow} })}}}
+
+  1
+where
+
+vTarget is the velocity of the target.
+vTorpedo is the velocity of the torpedo.
+θBow is the angle of the target ship bow relative to the periscope line of sight.
+θDeflection is the angle of the torpedo course relative to the periscope line of sight.
+Range plays no role in Equation 1, which is true as long as the three assumptions are met. In fact, Equation 1 is the same equation solved by the mechanical sights of steerable torpedo tubes used on surface ships during World War I and World War II. Torpedo launches from steerable torpedo tubes meet the three stated assumptions well. However, an accurate torpedo launch from a submarine requires parallax and torpedo ballistic corrections when gyro angles are large. These corrections require knowing range accurately. When the target range was not known, torpedo launches requiring large gyro angles were not recommended.[45]
+Equation 1 is frequently modified to substitute track angle for deflection angle (track angle is defined in Figure 2, θTrack=θBow+θDeflection). This modification is illustrated with Equation 2.
+
+
+
+
+
+
+
+
+‖
+
+v
+
+
+T
+a
+r
+g
+e
+t
+
+
+
+‖
+
+
+sin
+⁡
+(
+
+θ
+
+
+D
+e
+f
+l
+e
+c
+t
+i
+o
+n
+
+
+
+)
+
+
+
+=
+
+
+
+‖
+
+v
+
+
+T
+o
+r
+p
+e
+d
+o
+
+
+
+‖
+
+
+sin
+⁡
+(
+
+θ
+
+
+T
+r
+a
+c
+k
+
+
+
+−
+
+θ
+
+
+D
+e
+f
+l
+e
+c
+t
+i
+o
+n
+
+
+
+)
+
+
+
+
+
+{\displaystyle {\frac {\left\Vert v_{\mathrm {Target} }\right\|}{\sin(\theta _{\mathrm {Deflection} })}}={\frac {\left\Vert v_{\mathrm {Torpedo} }\right\|}{\sin(\theta _{\mathrm {Track} }-\theta _{\mathrm {Deflection} })}}}
+
+  2
+where
+θTrack is the angle between the target ship's course and the torpedo's course.
+
+Figure 4: Deflection angle versus track angle and target speed (θGyro = 0°).
+A number of publications[46][47] state the optimum torpedo track angle as 110° for a Mk 14 (46 knot weapon). Figure 4 shows a plot of the deflection angle versus track angle when the gyro angle is 0° (i.e.., θDeflection=θBearing).[48] Optimum track angle is defined as the point of minimum deflection angle sensitivity to track angle errors for a given target speed. This minimum occurs at the points of zero slope on the curves in Figure 4 (these points are marked by small triangles).
+The curves show the solutions of Equation 2 for deflection angle as a function of target speed and track angle. Figure 4 confirms that 110° is the optimum track angle for a 16-knot (30 km/h) target, which would be a common ship speed.[49]
+
+Position keeper[edit]
+As with the angle solver, the equations implemented in the position keeper can be found in the Torpedo Data Computer manual.[40] Similar functions were implemented in the rangekeepers for surface ship-based fire control systems. For a general discussion of the principles behind the position keeper, see Rangekeeper.
+
+Notes and references[edit]
+
+
+^ Friedman, Norman (1995). US Submarines Through 1945: An Illustrated Design History. Naval Institute Press. p. 195. ISBN 1-55750-263-3.
+
+^ "Analog Computers". Lexikon's History of Computing. 1995. Archived from the original on 2012-08-14. Retrieved 2006-07-03.
+
+^ While the TDC's target tracking abilities were unique for submarine torpedo fire control during WWII, target tracking was used on surface ship torpedo fire control systems by a number of nations (see references in this article to US destroyer and Japanese torpedo fire control Archived 2007-07-20 at the Wayback Machine). The TDC was the first analog computer to miniaturize the capability enough for deployment on a submarine.
+
+^ Beach, Run Silent, Run Deep
+
+^ "Torpedo Fire Control Equipment (Destroyer Type)".
+
+^ a b O'Kane, Richard (1977). Clear The Bridge:The War Patrols of the U.S.S. Tang. New York: Bantam Books. ISBN 0-553-14516-9.
+
+^ a b O'Kane, Richard (1987). Wahoo: The Patrols of America's Most Famous World War II Submarine. New York: Bantam Books. ISBN 0-553-28161-5.; Beach, Edward L., Jr., Captain, USN (rtd). Run Silent, Run Deep, passim; Beach, Dust on the Sea, passim; Grider, George. War Fish, passim; Blair, Clay, Jr. Silent Victory (New York: Bantam, 1976), passim.
+
+^ Dusty Dornin was widely agreed to be the best. Blair, p.357.
+
+^ Blair, p.357.
+
+^ "Museum documents an operating US, WW II built submarine in Taiwan". Retrieved 2008-07-13.
+
+^ There were other forms of torpedo guidance attempted throughout WWII. Notable are the Japanese human-guided Kaiten and German pattern running and acoustic homing types for attacking convoys. Today, most submarine-launched torpedoes are wire-guided with terminal homing.
+
+^ Frederick J Milford (October 1997). "Part Five: Post WW-II Submarine Launched/ Heavyweight Torpedoes". US Navy Torpedoes. Archived from the original on 2006-05-23. Retrieved 2006-07-26.
+
+^ "Torpedo Data Computer". FleetSubmarine.com. 2002. Archived from the original on 2012-07-17. Retrieved 2006-07-03.
+
+^ Holwitt, Joel I. "Execute Against Japan", Ph.D. dissertation, Ohio State University, 2005, p.147; Beach, Edward L., Jr. Run Silent, Run Deep.
+
+^ "Firing a Torpedo Using A Mechanical Computing Sight". The Dreadnought Project. 2000. Retrieved 2006-07-11.
+
+^ Holwitt, p. 147.
+
+^ "U-505 | Virtual Tour | Photo Tour | Conning Tower". Archived from the original on 2005-06-08. Retrieved 2006-08-01.
+
+^ Britain Archived 2006-06-19 at the Wayback Machine
+
+^ Jackson, USNR, Lt.(jg) J.G. (February 1946). Japanese Torpedo Fire Control (PDF). US Naval Technical Mission to Japan. Fascicle O-1, Target O-32. Archived from the original (PDF) on 2007-07-20.
+
+^ a b c d Holwitt, p.147.
+
+^ Mohl, Michael (2006). "Tambor (SS-198)". NavSource Online: Submarine Photo Archive. Retrieved 2006-08-01.
+
+^ Beach, Edward L., Jr. Dust on the Sea.
+
+^ Holwitt, p.147; Friedman 1995, p. 195.
+
+^ The Mark 18 was electric and therefore wakeless and difficult for surface forces to trace. On the downside, it was slower than the Mark 14. This made it more difficult to aim accurately because larger gyro angles were involved. Even so, thousands of them were fired during WWII.
+
+^ O'Kane 1977, p. 221
+
+^ Straight after an initial turn to course, as explained below.
+
+^ Friedman 1995, p. 196
+
+^ Torpedoes were developed by the United States with this capability during WWI. However, without automated fire control it was difficult to realize the full advantages of this approach.
+
+^ Commander Submarine Force, United States Atlantic Fleet, ed. (2006-04-16) [1950-02]. "Definitions". Submarine Torpedo Fire Control Manual. pp. 1–12. Retrieved 2006-08-22.
+
+^ a b COMSUBATL 1950, § Definitions pp 1–9
+
+^ Commander Submarine Force, Pacific Fleet, ed. (2006-02-17) [1944-02]. "Attacks -- General (Chapter IV, Section 1)". Current Submarine Doctrine. pp. paragraph 4614. Archived from the original on December 12, 2012. Retrieved 2006-07-02.
+
+^ Nathan Decker (July 2005), Submarines 1950-2000, a study in unused potential, archived from the original on 2007-03-17, retrieved 2006-08-20
+
+^ O'Kane, Richard H. (1989) [1987]. "Part 4: Chapter 1". Wahoo: The Patrols of America's Most Famous World War II Submarine (Bantam ed.). New York: Bantam. pp. 108–109. ISBN 0-553-28161-5.
+
+^ Bromley, Allan (1990). "Analog Computing Devices". Computing Before Computers. Retrieved 2006-07-22.
+
+^ Wise, Robert (Director-One scene shows how cramped a conning tower could be.) (1958). Run Silent, Run Deep (Film). Pacific Ocean.
+
+^ Friedman 1995, p. 350
+
+^ "Torpedo Data Computer". November 2015. Archived from the original on 2011-02-26. Retrieved 2006-07-29.
+
+^ "USS Bowfin - Target Bearing Transmitter". Archived from the original on 2006-07-20. Retrieved 2006-07-28.
+
+^ COMSUBATL 1950, § "The Torpedo Fire Control Party", p. 4-2
+
+^ a b ARMA Corporation (June 1944). Torpedo Data Computer Mark 3, Mods 5 to 12 inclusive. Ordnance Pamphlet. Bureau of Ordnance. OP 1056.
+
+^ COMSUBATL 1950
+
+^ COMSUBATL 1950, § "Theory of Approach and Attack", pp. 8-8, 8-9
+
+^ Commander Submarine Force, Pacific Fleet, ed. (2006-02-17) [1944-02]. "Attacks -- General (Chapter IV, Section 1)". Current Submarine Doctrine. Department of the Navy. pp. paragraph 4509. USF 25(A). Archived from the original on December 12, 2012. Retrieved 2006-08-19.
+
+^ COMSUBATL 1950, § "Definitions", p. 1-2
+
+^ COMSUBATL 1950, § "Theory of Approach and Attack" p. 8-10
+
+^ COMSUBATL 1950, § "Theory of Approach and Attack", p. 8-9
+
+^ O'Kane 1977, p. 303
+
+^ Most work on computing intercept angles is done using track angle as a variable. This is because track angle is a strictly a function of the target's course and speed along with the torpedo's course and speed. It removes the complexities associated with parallax and torpedo ballistics.
+
+^ 
+COMSUBATL 1950, § "Duties of the Fire Control Party", p. 5-25
+
+
+External links[edit]
+USS Pampanito: Article on the Pampanito's TDC. Archived 2012-07-17 at the Wayback Machine
+Torpedo Data Computer Mk IV
+A. Ben Clymer: The mechanical analog Computers of Hannibal Ford and William Newell, IEEE Annals of the history of computing
+US Torpedo History: Good description of operational use of the Mk 14, Mk 18, and Mk 23
+Original Manual for the Torpedo Data Computer Mark 3
+Bureau of Ordnance (4 December 1941). Tactical Data for Torpedoes Mark XIV & Mark XIV-1 High & Low Power (PDF). Ordnance Data Pamphlet. Washington D.C.: Navy Department. O.D. No. 3699.
+Bureau of Ordnance (10 August 1954). Tactical Data for Torpedo Mark 18 (PDF). Ordnance Data Pamphlet. Washington D.C.: Navy Department. O.D. No. 6697 Change 2.
+Discussion of the torpedo ballistic and parallax corrections used by the Imperial Japanese Navy
+Description of German Torpedo Calculator T.Vh.Re.S3 developed by Siemens and used on German U-Boats during World War II
+
+
+vteNATO naval weapons systemsGeneral
+Naval warfare
+Fire-control system
+Fire-control radar
+Director (military)
+Combat information center
+Sonar
+Radar
+Historical:
+Ship gun fire-control system
+Weapons
+Naval artillery
+Guided missiles
+Torpedoes
+Depth charges
+Close-in weapon system
+Naval mines
+Specific systems
+Aegis Combat System
+Aegis Ballistic Missile Defense System
+Active electronically scanned array
+Joint Tactical Information Distribution System
+Historical systems:
+Nike Zeus
+Lists:
+List of radars
+List of radar types
+SensorsRadar
+OPS-24
+AN/SPY-1
+AN/SPY-3
+AN/SPY-6 Air and Missile Defense Radar (AMDR)
+Sea-based X-band radar (SBX-1)
+Optical
+Space-Based Infrared System (SBIRS)
+Space Tracking and Surveillance System (STSS)
+Space Surveillance Telescope (SST)
+Naval missiles
+Harpoon missile
+RIM-67 Standard (SM-2)
+MIM-104F (PAC-3)
+RIM-161 Standard Missile 3 (SM-3)
+RIM-174 Standard Extended Range Active Missile (SM-6)
+Historical
+Radar in World War II
+Rangekeeper
+Torpedo Data Computer
+Ship systems:
+Naval Tactical Data System
+Comprehensive Display System
+ASDIC
+Specific equipment:
+Mark I Fire Control Computer
+Mark 8 Fire Control Computer
+Navboxes:
+{{USN early guided weapons}}
+Related
+Ground-based systems:
+Gun data computer
+Kerrison Predictor
+
+Navy
+Naval combat
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Torpedo_Data_Computer&oldid=1286138140"
+Categories: Submarine componentsMilitary computersAnalog computersElectro-mechanical computersFire-control computers of World War IIMilitary equipment introduced in the 1930sHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 17 April 2025, at 23:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Torpedo Data Computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

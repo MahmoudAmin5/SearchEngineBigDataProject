@@ -1,0 +1,640 @@
+https://en.wikipedia.org/wiki/Keyboard_computer
+
+
+
+
+Keyboard computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+List of best selling keyboard computers
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Keyboard computer
+
+
+
+2 languages
+
+
+
+
+العربيةNederlands
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Type of personal computer
+Not to be confused with Computer keyboard.
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+The topic of this article may not meet Wikipedia's general notability guideline. Please help to demonstrate the notability of the topic by citing reliable secondary sources that are independent of the topic and provide significant coverage of it beyond a mere trivial mention. If notability cannot be shown, the article is likely to be merged, redirected, or deleted.Find sources: "Keyboard computer" – news · newspapers · books · scholar · JSTOR (February 2024) (Learn how and when to remove this message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Keyboard computer" – news · newspapers · books · scholar · JSTOR (February 2024) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+Atari 1040 STFM
+A keyboard computer is a computer which contains all of the regular components of a personal computer, except for a screen, in the same housing as the keyboard. The power supply is typically external and connects to the computer via an adapter cable. The motherboard is specially designed to fit inside, and the device is larger than most standard keyboards. Additional peripheral devices such as a monitor are connected to the computer via external ports. Usually a minimum of storage devices, if any, is built in.
+Most home computers produced during the late 1970s and 1980s were keyboard computers, the ZX Spectrum and most models of the Atari ST, Xiao Bawang, Commodore 64, Apple II, and Amiga being prime examples. While this form factor went out of style around 1990 in favour for more modular desktop setups, some notable x86 keyboard computers have been built, like the Olivetti Prodest PC1 in 1988[1] and the Schneider Euro PC Series between 1988 and 1995.[2]
+Newer computers to employ this form factor include the Commodore 64 WebIt by Tulip, the Asus Eee Keyboard,[3][4] which uses Intel Atom processors and Solid-state drive,[5] and the unreleased Commodore Invictus PC.[6] In November 2020, Raspberry Pi Foundation announced Raspberry Pi 400, a modified version of their previous Raspberry Pi 4 housed entirely within a keyboard.[7]
+
+
+
+
+ASUS Eee Keyboard computer
+
+
+
+Raspberry Pi 400
+
+
+
+Amiga 1200
+
+
+
+Schneider Euro PC
+
+
+
+Apple II
+
+
+
+Olivetti Prodest PC128
+
+
+
+Commodore 64
+
+
+
+BBC Micro
+
+
+List of best selling keyboard computers[edit]
+
+Best selling keyboard computers[8]
+
+
+Image
+Computer
+Units sold
+Year released
+
+
+
+Commodore 64
+~.17 million
+1982
+
+
+
+Amiga 500
+~0.6 million
+1987
+
+
+
+MSX
+~0.5 million
+1983
+
+
+
+ZX Spectrum
+~0.5 million
+1982
+
+
+
+Timex Sinclair 1000
+~0.5 millionin first 6 months
+1982
+
+See also[edit]
+All-in-one computer
+History of computing
+Home computer
+References[edit]
+
+
+^ "Olivetti PC1". Old-Computers.com. Archived from the original on 2009-12-28. Retrieved 2014-09-18.
+
+^ "Schneider Euro PC". Haus der Computerspiele. Retrieved 2014-09-18.
+
+^ Fay, Joe (2010-03-02). "Asus assures no more delays for keyboard-computer". The Register. Retrieved 2010-08-26.
+
+^ "Asus Eee Keyboard Press Release". 2010-05-01. Retrieved 2013-06-05.
+
+^ "ASUS Eee Keyboard PC Review". BitTech. 2010-08-02. Retrieved 2013-06-04.
+
+^ "Commodore Invictus". Notebookhelden. 2010-06-02. Archived from the original on 2010-06-04. Retrieved 2014-09-18.
+
+^ Foundation, The Raspberry Pi. "Buy a Raspberry Pi 400 Personal Computer Kit". Raspberry Pi. Retrieved 2020-11-02.
+
+^ Christopher McFadden (2019-11-14). "9 of the Best Selling Computers of All Time". Retrieved 2024-04-01.
+
+
+
+
+This computer hardware article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Keyboard_computer&oldid=1252980838"
+Categories: Classes of computersComputer hardware stubsHidden categories: CS1: unfit URLArticles with short descriptionShort description matches WikidataArticles with topics of unclear notability from February 2024All articles with topics of unclear notabilityArticles needing additional references from February 2024All articles needing additional referencesArticles with multiple maintenance issuesAll stub articles
+
+
+
+
+
+
+ This page was last edited on 23 October 2024, at 20:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Keyboard computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

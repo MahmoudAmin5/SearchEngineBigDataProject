@@ -1,0 +1,1462 @@
+https://en.wikipedia.org/wiki/Electronics
+
+
+
+
+Electronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History and development
+
+
+
+
+
+
+
+
+2
+Subfields
+
+
+
+
+
+
+
+
+3
+Devices and components
+
+
+
+
+
+
+
+
+4
+Types of circuits
+
+
+
+
+Toggle Types of circuits subsection
+
+
+
+
+
+4.1
+Analog circuits
+
+
+
+
+
+
+
+
+4.2
+Digital circuits
+
+
+
+
+
+
+
+
+
+
+5
+Design
+
+
+
+
+Toggle Design subsection
+
+
+
+
+
+5.1
+Computer-aided design
+
+
+
+
+
+
+
+
+
+
+6
+Negative qualities
+
+
+
+
+Toggle Negative qualities subsection
+
+
+
+
+
+6.1
+Thermal management
+
+
+
+
+
+
+
+
+6.2
+Noise
+
+
+
+
+
+
+
+
+
+
+7
+Packaging methods
+
+
+
+
+
+
+
+
+8
+Industry
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+Further reading
+
+
+
+
+
+
+
+
+12
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Electronics
+
+
+
+148 languages
+
+
+
+
+AfrikaansAlemannischअंगिकाالعربيةAragonésAsturianuAzərbaycancaتۆرکجهবাংলা閩南語 / Bân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBoarischBosanskiBrezhonegCatalàЧӑвашлаCebuanoČeštinaCymraegDanskالدارجةDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFiji HindiFrançaisFryskFurlanGaeilgeGalego贛語한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaInterlinguaIsiZuluÍslenskaItalianoעבריתJawaKabɩyɛKalaallisutಕನ್ನಡქართულიकॉशुर / کٲشُرҚазақшаKernowekKiswahiliKreyòl ayisyenKriyòl gwiyannenKurdîລາວLatinaLatviešuLëtzebuergeschLietuviųLi NihaLimburgsLingua Franca NovaLombardMagyarМакедонскиMalagasyമലയാളംमराठीBahasa MelayuMinangkabauMirandésМонголမြန်မာဘာသာNederlandsनेपालीनेपाल भाषा日本語НохчийнNordfriiskNorsk bokmålNorsk nynorskOccitanOromooOʻzbekcha / ўзбекчаਪੰਜਾਬੀپنجابیပအိုဝ်ႏဘာႏသာႏپښتوPatoisPiemontèisTok PisinPlattdüütschPolskiPortuguêsRomânăRuna SimiРусиньскыйРусскийसंस्कृतम्SarduScotsSeelterskShqipSicilianuසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogதமிழ்TaclḥitTaqbaylitТатарча / tatarçaతెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوVènetoVepsän kel’Tiếng ViệtVõroWinarayWolof吴语ייִדישYorùbá粵語ZazakiŽemaitėška中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikibooksWikiversityWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Branch of physics and electrical engineering
+This article is about the technical field. For personal/home-use electronic devices, see consumer electronics. For the journal, see Electronics (magazine).
+Modern surface-mount electronic components on a printed circuit board, with a large integrated circuit at the top
+Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. It is a subfield of physics[1][2] and electrical engineering which uses active devices such as transistors, diodes, and integrated circuits to control and amplify the flow of electric current and to convert it from one form to another, such as from alternating current (AC) to direct current (DC) or from analog signals to digital signals.
+Electronic devices have significantly influenced the development of many aspects of modern society, such as telecommunications, entertainment, education, health care, industry, and security. The main driving force behind the advancement of electronics is the semiconductor industry, which continually produces ever-more sophisticated electronic devices and circuits in response to global demand. The semiconductor industry is one of the global economy's largest and most profitable sectors, with annual revenues exceeding $481 billion in 2018. The electronics industry also encompasses other sectors that rely on electronic devices and systems, such as e-commerce, which generated over $29 trillion in online sales in 2017.
+
+
+History and development[edit]
+See also: History of electronic engineering and Timeline of electrical and electronic engineering
+One of the earliest Audion radio receivers, constructed by De Forest in 1914 
+Karl Ferdinand Braun´s development of the crystal detector, the first semiconductor device, in 1874 and the identification of the electron in 1897 by Sir Joseph John Thomson, along with the subsequent invention of the vacuum tube which could amplify and rectify small electrical signals, inaugurated the field of electronics and the electron age.[3][4] Practical applications started with the invention of the diode by Ambrose Fleming and the triode by Lee De Forest in the early 1900s, which made the detection of small electrical voltages, such as radio signals from a radio antenna, practicable.
+Vacuum tubes (thermionic valves) were the first active electronic components which controlled current flow by influencing the flow of individual electrons, and enabled the construction of equipment that used current amplification and rectification to give us radio, television, radar, long-distance telephony and much more. The early growth of electronics was rapid, and by the 1920s, commercial radio broadcasting and telecommunications were becoming widespread and electronic amplifiers were being used in such diverse applications as long-distance telephony and the music recording industry.[5]
+The next big technological step took several decades to appear, when the first working point-contact transistor was invented by John Bardeen and Walter Houser Brattain at Bell Labs in 1947.[6]
+However, vacuum tubes continued to play a leading role in the field of microwave and high power transmission as well as television receivers until the middle of the 1980s.[7]
+Since then, solid-state devices have all but completely taken over. Vacuum tubes are still used in some specialist applications such as high power RF amplifiers, cathode-ray tubes, specialist audio equipment, guitar amplifiers and some microwave devices.
+In April 1955, the IBM 608 was the first IBM product to use transistor circuits without any vacuum tubes and is believed to be the first all-transistorized calculator to be manufactured for the commercial market.[8][9] The 608 contained more than 3,000 germanium transistors. Thomas J. Watson Jr. ordered all future IBM products to use transistors in their design. From that time on transistors were almost exclusively used for computer logic circuits and peripheral devices. However, early junction transistors were relatively bulky devices that were difficult to manufacture on a mass-production basis, which limited them to a number of specialised applications.[10]
+The MOSFET was invented at Bell Labs between 1955 and 1960.[11][12][13][14][15][16] It was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses.[10] Its advantages include high scalability,[17] affordability,[18] low power consumption, and high density.[19] It revolutionized the electronics industry,[20][21] becoming the most widely used electronic device in the world.[22][23] The MOSFET is the basic element in most modern electronic equipment.[24][25]
+As the complexity of circuits grew, problems arose.[26] One problem was the size of the circuit. A complex circuit like a computer was dependent on speed. If the components were large, the wires interconnecting them must be long. The electric signals took time to go through the circuit, thus slowing the computer.[26] The invention of the integrated circuit by Jack Kilby and Robert Noyce solved this problem by making all the components and the chip out of the same block (monolith) of semiconductor material. The circuits could be made smaller, and the manufacturing process could be automated. This led to the idea of integrating all components on a single-crystal silicon wafer, which led to small-scale integration (SSI) in the early 1960s, and then medium-scale integration (MSI) in the late 1960s, followed by VLSI. In 2008, billion-transistor processors became commercially available.[27]
+
+Subfields[edit]
+
+Analog electronics
+Audio electronics
+Avionics
+Bioelectronics
+Circuit design
+Digital electronics
+Electronic components
+Embedded systems
+Integrated circuits
+Microelectronics
+Nanoelectronics
+Optoelectronics
+Power electronics
+Printed circuit boards
+Semiconductor devices
+Sensors
+Telecommunications
+
+Devices and components[edit]
+Main article: Electronic component
+Various electronic components
+An electronic component is any component in an electronic system either active or passive. Components are connected together, usually by being soldered to a printed circuit board (PCB), to create an electronic circuit with a particular function. Components may be packaged singly, or in more complex groups as integrated circuits. Passive electronic components are capacitors, inductors, resistors, whilst active components are such as semiconductor devices; transistors and thyristors, which control current flow at electron level.[28]
+
+Types of circuits[edit]
+Electronic circuit functions can be divided into two function groups: analog and digital. A particular device may consist of circuitry that has either or a mix of the two types. Analog circuits are becoming less common, as many of their functions are being digitized.
+
+Analog circuits[edit]
+Main article: Analog electronics
+Analog circuits use a continuous range of voltage or current for signal processing, as opposed to the discrete levels used in digital circuits. Analog circuits were common throughout an electronic device in the early years in devices such as radio receivers and transmitters. Analog electronic computers were valuable for solving problems with continuous variables until digital processing advanced.
+As semiconductor technology developed, many of the functions of analog circuits were taken over by digital circuits, and modern circuits that are entirely analog are less common; their functions being replaced by hybrid approach which, for instance, uses analog circuits at the front end of a device receiving an analog signal, and then use digital processing using microprocessor techniques thereafter.
+Sometimes it may be difficult to classify some circuits that have elements of both linear and non-linear operation. An example is the voltage comparator which receives a continuous range of voltage but only outputs one of two levels as in a digital circuit. Similarly, an overdriven transistor amplifier can take on the characteristics of a controlled switch, having essentially two levels of output.
+Analog circuits are still widely used for signal amplification, such as in the entertainment industry, and conditioning signals from analog sensors, such as in industrial measurement and control.
+
+Digital circuits[edit]
+Main article: Digital electronics
+Digital circuits are electric circuits based on discrete voltage levels. Digital circuits use Boolean algebra and are the basis of all digital computers and microprocessor devices. They range from simple logic gates to large integrated circuits, employing millions of such gates.
+Digital circuits use a binary system with two voltage levels labelled "0" and "1" to indicated logical status. Often logic "0" will be a lower voltage and referred to as "Low" while logic "1" is referred to as "High". However, some systems use the reverse definition ("0" is "High") or are current based. Quite often the logic designer may reverse these definitions from one circuit to the next as they see fit to facilitate their design. The definition of the levels as "0" or "1" is arbitrary.[29]
+Ternary (with three states) logic has been studied, and some prototype computers made, but have not gained any significant practical acceptance.[30] Universally, Computers and Digital signal processors are constructed with digital circuits using Transistors such as MOSFETs in the electronic logic gates to generate binary states.
+
+A selection of logic gates, used extensively in digital electronics
+Logic gates
+Adders
+Flip-flops
+Counters
+Registers
+Multiplexers
+Schmitt triggers
+Highly integrated devices:
+
+Memory chip
+Microprocessors
+Microcontrollers
+Application-specific integrated circuit (ASIC)
+Digital signal processor (DSP)
+Field-programmable gate array (FPGA)
+Field-programmable analog array (FPAA)
+System on chip (SOC)
+Design[edit]
+Electronic systems design deals with the multi-disciplinary design issues of complex electronic devices and systems, such as mobile phones and computers. The subject covers a broad spectrum, from the design and development of an electronic system (new product development) to assuring its proper function, service life and disposal.[31] Electronic systems design is therefore the process of defining and developing complex electronic devices to satisfy specified requirements of the user.
+Due to the complex nature of electronics theory, laboratory experimentation is an important part of the development of electronic devices. These experiments are used to test or verify the engineer's design and detect errors. Historically, electronics labs have consisted of electronics devices and equipment located in a physical space, although in more recent years the trend has been towards electronics lab simulation software, such as CircuitLogix, Multisim, and PSpice.
+
+Computer-aided design[edit]
+Main article: Electronic design automation
+Today's electronics engineers have the ability to design circuits using premanufactured building blocks such as power supplies, semiconductors (i.e. semiconductor devices, such as transistors), and integrated circuits. Electronic design automation software programs include schematic capture programs and printed circuit board design programs. Popular names in the EDA software world are NI Multisim, Cadence (ORCAD), EAGLE PCB[32] and Schematic, Mentor (PADS PCB and LOGIC Schematic), Altium (Protel), LabCentre Electronics (Proteus), gEDA, KiCad and many others.
+
+Negative qualities[edit]
+Thermal management[edit]
+Main article: Thermal management of electronic devices and systems
+Heat generated by electronic circuitry must be dissipated to prevent immediate failure and improve long term reliability. Heat dissipation is mostly achieved by passive conduction/convection. Means to achieve greater dissipation include heat sinks and fans for air cooling, and other forms of computer cooling such as water cooling. These techniques use convection, conduction, and radiation of heat energy.
+
+Noise[edit]
+Main article: Electronic noise
+Electronic noise is defined[33] as unwanted disturbances superposed on a useful signal that tend to obscure its information content. Noise is not the same as signal distortion caused by a circuit. Noise is associated with all electronic circuits. Noise may be electromagnetically or thermally generated, which can be decreased by lowering the operating temperature of the circuit. Other types of noise, such as shot noise cannot be removed as they are due to limitations in physical properties.
+
+Packaging methods[edit]
+Main article: Electronic packaging
+Many different methods of connecting components have been used over the years. For instance, early electronics often used point to point wiring with components attached to wooden breadboards to construct circuits. Cordwood construction and wire wrap were other methods used. Most modern day electronics now use printed circuit boards made of materials such as FR4, or the cheaper (and less hard-wearing) Synthetic Resin Bonded Paper (SRBP, also known as Paxoline/Paxolin (trade marks) and FR2) – characterised by its brown colour. Health and environmental concerns associated with electronics assembly have gained increased attention in recent years, especially for products destined to go to European markets.
+
+Through-hole devices mounted on the circuit board of a mid-1980s home computer. Axial-lead devices are at upper left, while blue radial-lead capacitors are at upper right.
+Electrical components are generally mounted in the following ways:
+
+Through-hole (sometimes referred to as 'Pin-Through-Hole')
+Surface mount
+Chassis mount[clarification needed]
+Rack mount
+LGA/BGA/PGA socket
+Industry[edit]
+Main article: Electronics industry
+Further information: Consumer electronics, List of best-selling electronic devices, and Semiconductor industry
+The electronics industry consists of various sectors. The central driving force behind the entire electronics industry is the semiconductor industry sector,[34] which has annual sales of over $481 billion as of 2018.[35] The largest industry sector is e-commerce, which generated over $29 trillion in 2017.[36] The most widely manufactured electronic device is the metal-oxide-semiconductor field-effect transistor (MOSFET), with an estimated 13 sextillion MOSFETs having been manufactured between 1960 and 2018.[37] In the 1960s, U.S. manufacturers were unable to compete with Japanese companies such as Sony and Hitachi who could produce high-quality goods at lower prices. By the 1980s, however, U.S. manufacturers became the world leaders in semiconductor development and assembly.[38]
+However, during the 1990s and subsequently, the industry shifted overwhelmingly to East Asia (a process begun with the initial movement of microchip mass-production there in the 1970s), as plentiful, cheap labor, and increasing technological sophistication, became widely available there.[39][40]
+Over three decades, the United States' global share of  semiconductor manufacturing capacity fell, from 37% in 1990, to 12% in 2022.[40] America's pre-eminent semiconductor manufacturer, Intel Corporation, fell far behind its subcontractor Taiwan Semiconductor Manufacturing Company (TSMC) in manufacturing technology.[39]
+By that time, Taiwan had become the world's leading source of advanced semiconductors[40][39]—followed by South Korea, the United States, Japan, Singapore, and China.[40][39]
+Important semiconductor industry facilities (which often are subsidiaries of a leading producer based elsewhere) also exist in Europe (notably the Netherlands), Southeast Asia, South America, and Israel.[39]
+
+See also[edit]
+
+Electronics portal
+
+Index of electronics articles
+Outline of electronics
+Atomtronics
+Audio engineering
+Biodegradable electronics
+Broadcast engineering
+Computer engineering
+Electronics engineering
+Electronics engineering technology
+Fuzzy electronics
+Go-box
+Marine electronics
+Photonics
+Robotics
+
+References[edit]
+
+
+^ française, Académie. "électronique | Dictionnaire de l'Académie française | 9e édition". www.dictionnaire-academie.fr (in French). Retrieved 26 May 2024.
+
+^ "Definition of ELECTRONICS". www.merriam-webster.com. 21 May 2024. Retrieved 26 May 2024.
+
+^ https://www.uni-marburg.de/de/uniarchiv/unijournal/urvater-der-kommunikationsgesellschaft.pdf
+
+^ "This Month in Physics History - October 1897: The Discovery of the Electron". American Physical Society. Archived from the original on 19 September 2018. Retrieved 19 September 2018.
+
+^ Guarnieri, M. (2012). "The age of vacuum tubes: Early devices and the rise of radio communications". IEEE Ind. Electron. M. 6 (1): 41–43. doi:10.1109/MIE.2012.2182822. S2CID 23351454.
+
+^ "1947: Invention of the Point-Contact Transistor". Computer History Museum. Archived from the original on 30 September 2021. Retrieved 10 August 2019.
+
+^ Sōgo Okamura (1994). History of Electron Tubes. IOS Press. p. 5. ISBN 978-9051991451. Archived from the original on 31 December 2013. Retrieved 5 December 2012.
+
+^ Bashe, Charles J.; et al. (1986). IBM's Early Computers. MIT. p. 386. ISBN 978-0262022255.
+
+^ Pugh, Emerson W.; Johnson, Lyle R.; Palmer, John H. (1991). IBM's 360 and early 370 systems. MIT Press. p. 34. ISBN 978-0262161237.
+
+^ a b Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. p. 168. ISBN 978-0470508923. Archived from the original on 5 November 2020. Retrieved 22 August 2019.
+
+^ Huff, Howard; Riordan, Michael (1 September 2007). "Frosch and Derick: Fifty Years Later (Foreword)". The Electrochemical Society Interface. 16 (3): 29. doi:10.1149/2.F02073IF. ISSN 1064-8208.
+
+^ Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Berlin, Heidelberg: Springer-Verlag Berlin Heidelberg. p. 321. ISBN 978-3-540-34258-8.
+
+^ Ligenza, J.R.; Spitzer, W.G. (1960). "The mechanisms for silicon oxidation in steam and oxygen". Journal of Physics and Chemistry of Solids. 14: 131–136. Bibcode:1960JPCS...14..131L. doi:10.1016/0022-3697(60)90219-5.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ Motoyoshi, M. (2009). "Through-Silicon Via (TSV)". Proceedings of the IEEE. 97 (1): 43–48. doi:10.1109/JPROC.2008.2007462. ISSN 0018-9219. S2CID 29105721.
+
+^ "Tortoise of Transistors Wins the Race – CHM Revolution". Computer History Museum. Archived from the original on 10 March 2020. Retrieved 22 July 2019.
+
+^ "Transistors Keep Moore's Law Alive". EETimes. 12 December 2018. Archived from the original on 24 September 2019. Retrieved 18 July 2019.
+
+^ Chan, Yi-Jen (1992). Studies of InAIAs/InGaAs and GaInP/GaAs heterostructure FET's for high speed applications. University of Michigan. p. 1. Archived from the original on 20 December 2019. Retrieved 10 August 2019. The Si MOSFET has revolutionized the electronics industry and as a result impacts our daily lives in almost every conceivable way.
+
+^ Grant, Duncan Andrew; Gowar, John (1989). Power MOSFETS: theory and applications. Wiley. p. 1. ISBN 978-0471828679. Archived from the original on 30 July 2020. Retrieved 10 August 2019. The metal–oxide–semiconductor field-effect transistor (MOSFET) is the most commonly used active device in the very large-scale integration of digital integrated circuits (VLSI). During the 1970s these components revolutionized electronic signal processing, control systems and computers.
+
+^ "Who Invented the Transistor?". Computer History Museum. 4 December 2013. Archived from the original on 13 December 2013. Retrieved 20 July 2019.
+
+^ Golio, Mike; Golio, Janet (2018). RF and Microwave Passive and Active Technologies. CRC Press. p. 18-2. ISBN 978-1420006728. Archived from the original on 31 July 2020. Retrieved 10 August 2019.
+
+^ Daniels, Lee A. (28 May 1992). "Dr. Dawon Kahng, 61, Inventor in Field of Solid-State Electronics". The New York Times. Archived from the original on 26 July 2020. Retrieved 1 April 2017.
+
+^ Colinge, Jean-Pierre; Greer, James C. (2016). Nanowire Transistors: Physics of Devices and Materials in One Dimension. Cambridge University Press. p. 2. ISBN 978-1107052406. Archived from the original on 17 March 2020. Retrieved 17 September 2019.
+
+^ a b "The History of the Integrated Circuit". Nobelprize.org. Archived from the original on 29 June 2018. Retrieved 21 April 2012.
+
+^ "Intel to deliver first computer chip with two billion transistors". The Sydney Morning Herald. 5 February 2008. Archived from the original on 12 August 2022. Retrieved 12 August 2022.
+
+^ Bose, Bimal K, ed. (1996). Power Electronics and Variable Frequency Drives: Technology and Applications. Wiley Online Library. doi:10.1002/9780470547113. ISBN 978-0470547113. S2CID 107126716.
+
+^ Brown, Stephen; Vranesic, Zvonko (2008). Fundamentals of Digital Logic (e-book). McGraw Hill. ISBN 978-0077144227. Archived from the original on 4 October 2022. Retrieved 12 August 2022.
+
+^ Knuth, Donald (1980). The Art of Computer Programming. Vol. 2: Seminumerical Algorithms (2nd ed.). Addison-Wesley. pp. 190–192. ISBN 0201038226..
+
+^ J. Lienig; H. Bruemmer (2017). Fundamentals of Electronic Systems Design. Springer International Publishing. p. 1. doi:10.1007/978-3-319-55840-0. ISBN 978-3319558394.
+
+^ "PCB design made easy for every engineer". Autodesk. 19 April 2023. Archived from the original on 19 April 2023. Retrieved 19 April 2023.
+
+^ IEEE Dictionary of Electrical and Electronics Terms ISBN 978-0471428060
+
+^ "Annual Semiconductor Sales Increase 21.6 Percent, Top $400 Billion for First Time". Semiconductor Industry Association. 5 February 2018. Archived from the original on 30 January 2021. Retrieved 11 October 2019.
+
+^ "Semiconductors – the Next Wave" (PDF). Deloitte. April 2019. Archived from the original (PDF) on 11 October 2019. Retrieved 11 October 2019.
+
+^ "Global e-Commerce sales surged to $29 trillion". United Nations Conference on Trade and Development. 29 March 2019. Archived from the original on 21 October 2019. Retrieved 13 October 2019.
+
+^ "13 Sextillion & Counting: The Long & Winding Road to the Most Frequently Manufactured Human Artifact in History". Computer History Museum. 2 April 2018. Archived from the original on 28 July 2019. Retrieved 28 July 2019.
+
+^ "Consumer electronics industry in the year 1960s". NaTechnology. Archived from the original on 27 January 2021. Retrieved 2 February 2021.
+
+^ a b c d e Shih, Willy (Harvard Business School): "Congress Is Giving Billions To The U.S. Semiconductor Industry. Will It Ease Chip Shortages?" Archived 3 July 2023 at the Wayback Machine transcript, August 3, 2022, Forbes, retrieved September 12, 2022
+
+^ a b c d Lewis, James Andrew: "Strengthening a Transnational Semiconductor Industry", Archived 13 September 2022 at the Wayback Machine June 2, 2022, Center for Strategic and International Studies (CSIS), retrieved September 12, 2022
+
+
+Further reading[edit]
+Horowitz, Paul; Hill, Winfield (1980). The Art of Electronics. Cambridge University Press. ISBN 978-0521370950.
+Mims, Forrest M. (2003). Getting Started in Electronics. Master Publishing, Incorporated. ISBN 978-0-945053-28-6.
+External links[edit]
+
+
+
+Wikibooks has more on the topic of: Electronics
+
+
+
+
+Wikibooks has a book on the topic of: Electrical engineering
+
+
+
+
+Wikisource has original text related to this article:
+Category:Electronics
+
+
+
+
+Wikiversity has learning resources about  School:Electronics
+
+
+
+
+Wikimedia Commons has media related to Electronics.
+
+Navy 1998 Navy Electricity and Electronics Training Series (NEETS) Archived 2 November 2004 at the Wayback Machine
+DOE 1998 Electrical Science, Fundamentals Handbook, 4 vols.
+Vol. 1, Basic Electrical Theory, Basic DC Theory
+Vol. 2, DC Circuits, Batteries, Generators, Motors
+Vol. 3, Basic AC Theory, Basic AC Reactive Components, Basic AC Power, Basic AC Generators
+Vol. 4, AC Motors, Transformers, Test Instruments & Measuring Devices, Electrical Distribution Systems
+vteMachinesClassical simple machines
+Inclined plane
+Lever
+Pulley
+Screw
+Wedge
+Wheel and axle
+Clocks
+Atomic clock
+Chronometer
+Pendulum clock
+Quartz clock
+Compressors and pumps
+Archimedes' screw
+Eductor-jet pump
+Hydraulic ram
+Pump
+Trompe
+Vacuum pump
+External combustion engines
+Steam engine
+Stirling engine
+Internal combustion engines
+Gas turbine
+Reciprocating engine
+Rotary engine
+Nutating disc engine
+Linkages
+Pantograph
+Peaucellier-Lipkin
+Turbine
+Gas turbine
+Jet engine
+Steam turbine
+Water turbine
+Wind generator
+Windmill
+Aerofoil
+Sail
+Wing
+Rudder
+Flap
+Propeller
+Electronics
+Vacuum tube
+Transistor
+Diode
+Resistor
+Capacitor
+Inductor
+Vehicles
+Automobile
+Miscellaneous
+Mecha
+Robot
+Agricultural
+Seed-counting machine
+Vending machine
+Wind tunnel
+Check weighing machines
+Riveting machines
+Springs
+Spring (device)
+
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+vteTechnology and related conceptsMajor technologiesNecessities
+Agriculture
+Domestication
+Grafting
+Working animal
+Clothing
+Sewing machine
+Cooking
+Beer
+Bread
+Cheese
+Milling
+Wine
+Food storage
+Pottery
+Sanitation
+Plumbing
+Toilet
+Tool / Equipment
+Blade
+Hammer
+Plough
+Wedge
+Weapon
+Gun
+Social
+Accounting
+Calculation
+Abacus
+Calendar
+Cryptography
+Lock and key
+Money
+Banknote
+Coin
+Musical instrument
+Phonograph
+Toy
+Game
+Video game
+Writing
+Book
+Map
+Printing press
+Typewriter
+Construction
+Aqueduct
+Canal
+Irrigation
+Arch
+Bridge
+Building
+Fortification
+Foundation
+Scaffolding
+Tower
+Dam
+Caisson
+Stonemasonry
+Road
+Tunnel
+Transport
+Aircraft
+Aerostat
+Airplane
+Seaplane
+Compass
+Elevator
+Horseback riding
+Stirrup
+Jet engine
+Rocket
+Motor vehicle
+Railroad
+Train
+Scuba set
+Spacecraft
+Satellite
+Space station
+Space suit
+Watercraft
+Sailing
+Ship
+Submarine
+Manufacturing
+3D printing
+Carpentry
+Casting
+Injection moulding
+Lost-wax casting
+Mass production
+Assembly line
+Interchangeable parts
+Machine tool
+Welding
+Simple machine
+Axle
+Bearing
+Ball bearing
+Belt
+Chain
+Lever
+Catapult
+Crane
+Shadoof
+Linkage
+Cam
+Clutch
+Four-bar linkage
+Piston
+Rack and pinion
+Pendulum
+Screw
+Archimedes' screw
+Propeller
+Spring
+Valve
+Wheel
+Block and tackle
+Flywheel
+Gear
+Potter's wheel
+Pulley
+Wing
+Machinery
+Agricultural machinery
+Appliance
+Dishwasher
+Washing machine
+Engine
+Electric motor
+Internal combustion
+Turbine
+Waterwheel
+Windmill
+Heavy equipment
+Hydraulics
+Cylinder
+Manifold
+Pump
+Mechanism
+Clock
+Differential
+Epicyclic gearing
+Gimbal
+Gyroscope
+Whippletree
+MEMS
+Pneumatics
+Compressor
+Jackhammer
+Rivet gun
+Vacuum pump
+Robotics
+Arm
+Leg
+Energy
+Fire
+Charcoal
+Oven
+Energy storage
+Battery
+Geothermal power
+Heat exchanger
+Heat pump
+Nuclear
+Power
+Weapon
+Oil drilling
+Fracking
+Refrigeration
+Air conditioning
+Refrigerator
+Solar power
+Photovoltaics
+Material
+Cement
+Concrete
+Ceramic
+Brick
+Chipped stone
+Glass
+Masonry
+Metallurgy
+Aluminum
+Bronze
+Ironworking
+Steel
+Nanomaterials
+Paper
+Plastic
+Rammed earth
+Recycling
+Rubber
+Vulcanization
+Textile
+Loom
+Spinning wheel
+Biotechnology
+Birth control
+Blood transfusion
+Dentistry
+Genetic engineering
+CRISPR gene editing
+Genetic testing
+PCR
+Hospital
+Medical imaging
+Medication
+Anesthesia
+Antibiotic
+Prosthesis
+Surgery
+Vaccine
+Chemical
+Cosmetics
+Detergent
+Soap
+Dye
+Explosive
+Dynamite
+Fireworks
+Gunpowder
+TNT
+Fertilizer
+Haber process
+Laboratory glassware
+Pesticide
+Pigment
+Separation
+Chromatography
+Distillation
+Filtration
+Spectrometer
+Synthesis
+Electromagnetism
+Electromagnet
+Laser
+Optical disc
+Lens
+Eyeglasses
+Magnetic storage
+Microwave oven
+Mirror
+Optical fiber
+Optical instrument
+Microscope
+Telescope
+Particle accelerator
+Photography
+Camera
+Motion picture
+Radar
+Telecommunications
+Mobile phone
+Radio
+Telegraph
+Telephone
+Television
+Electricity
+Circuit
+AC
+Circuit breaker
+DC
+Electrical grid
+Fuse
+Generator
+Switch
+Transformer
+Electric light
+Fluorescent
+Incandescent
+LED
+Neon
+Electronics
+Capacitor
+Circuit board
+Resistor
+Inductor
+Vacuum tube
+Lightning rod
+Multimeter
+Oscilloscope
+Semiconductor
+Diode
+Integrated circuit
+Transistor
+Superconductor
+Computer
+Artificial intelligence
+Hardware
+CPU
+GPU
+Modem
+Motherboard
+Mouse
+RAM
+Router
+Storage
+Touchscreen
+Networking
+Client–server model
+Email
+Internet
+Peer-to-peer
+Social media
+World Wide Web
+Programming language
+Software
+Compiler
+Database
+GUI
+Graphics software
+Operating system
+Spreadsheet
+Web browser
+Word processor
+PerspectivesCriticism
+Appropriate technology
+Low technology
+Luddite
+Neo-Luddism
+Precautionary principle
+Ecotechnology
+Environmental technology
+Clean technology
+Sustainable design
+Sustainable engineering
+Policy & politics
+Government by algorithm
+Intellectual property
+Patent
+Trade secret
+Persuasive technology
+Science policy
+Strategy of Technology
+Technology assessment
+Technorealism
+Progressivism
+Futures studies
+Technology forecasting
+Technological utopianism
+Technocracy movement
+Technological singularity
+Transhumanism
+Studies
+Diffusion of innovations
+Technology transfer
+History
+Timeline of historic inventions
+Philosophy
+Social construction of technology
+Technological determinism
+Technology acceptance model
+Related conceptsApplied science
+Agronomy
+Architecture
+Construction
+Engineering
+Forensics
+Forestry
+Logistics
+Medicine
+Mining
+Navigation
+Surveying
+Innovation
+Design
+High tech
+Invention
+Mature technology
+Research and development
+Technological convergence
+Technology lifecycle
+
+ Category
+ Outline
+ Portal
+
+Authority control databases InternationalFASTNationalGermanyUnited StatesFranceBnF dataJapan2Czech RepublicIsraelOtherNARAEncyclopedia of Modern Ukraine
+Portals: Electronics Physics Technology Chemistry Television History of science Science Telecommunication Spaceflight
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electronics&oldid=1284953566"
+Category: ElectronicsHidden categories: Pages with non-numeric formatnum argumentsCS1 French-language sources (fr)CS1 errors: ISBN dateCS1: long volume valueWebarchive template wayback linksArticles with short descriptionShort description is different from WikidataWikipedia articles needing clarification from September 2023Commons category link is on WikidataUse dmy dates from March 2017
+
+
+
+
+
+
+ This page was last edited on 10 April 2025, at 19:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+148 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

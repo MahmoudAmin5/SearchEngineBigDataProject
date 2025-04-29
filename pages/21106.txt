@@ -1,0 +1,1501 @@
+https://en.wikipedia.org/wiki/Motorola_68000
+
+
+
+
+Motorola 68000 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Development
+
+
+
+
+Toggle Development subsection
+
+
+
+
+
+1.1
+6800
+
+
+
+
+
+
+
+
+1.2
+Moving to 16-bit
+
+
+
+
+
+
+
+
+1.3
+MACSS
+
+
+
+
+
+
+
+
+1.4
+Sampling and production
+
+
+
+
+
+
+
+
+
+
+2
+Variants
+
+
+
+
+Toggle Variants subsection
+
+
+
+
+
+2.1
+Second-sourcing
+
+
+
+
+
+
+
+
+2.2
+CMOS versions
+
+
+
+
+
+
+
+
+2.3
+As a microcontroller core
+
+
+
+
+
+
+
+
+
+
+3
+Applications
+
+
+
+
+Toggle Applications subsection
+
+
+
+
+
+3.1
+Video games
+
+
+
+
+
+
+
+
+
+
+4
+Architecture
+
+
+
+
+Toggle Architecture subsection
+
+
+
+
+
+4.1
+Address bus
+
+
+
+
+
+
+
+
+4.2
+Internal registers
+
+
+
+
+
+
+
+
+4.3
+Status register
+
+
+
+
+
+
+
+
+4.4
+Instruction set
+
+
+
+
+
+
+
+
+4.5
+Privilege levels
+
+
+
+
+
+
+
+
+4.6
+Interrupts
+
+
+
+
+
+
+
+
+
+
+5
+Instruction set details
+
+
+
+
+
+
+
+
+6
+68EC000
+
+
+
+
+
+
+
+
+7
+Example code
+
+
+
+
+
+
+
+
+8
+Notes
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+10.1
+Bibliography
+
+
+
+
+
+
+
+
+
+
+11
+Further reading
+
+
+
+
+
+
+
+
+12
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Motorola 68000
+
+
+
+23 languages
+
+
+
+
+CatalàČeštinaDeutschΕλληνικάEspañolفارسیFrançais한국어HrvatskiItalianoMagyarമലയാളം日本語Norsk bokmålNorsk nynorskPolskiPortuguêsSimple EnglishSrpskohrvatski / српскохрватскиSuomiTürkçe吴语中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Microprocessor
+This article is about the first microprocessor in a series. For the family of microprocessors developed from it, see Motorola 68000 series. For the 8-bit microprocessor introduced in 1974, see Motorola 6800.
+
+
+Motorola 68000 architectureDesignerMotorolaBits16/32-bitIntroduced1979; 46 years ago (1979)DesignCISCBranchingCondition codeEndiannessBigRegisters8× 32-bit data registers7× 32-bit address registersstack pointer (address register 7)
+Motorola 68000 CPUGeneral informationLaunched1979DiscontinuedJune 1, 1996; 28 years ago (1996-06-01)Designed byMotorolaPerformanceMax. CPU clock rate4 MHz to 16.67 MHzData width16 bitsAddress width24 bitsArchitecture and classificationInstruction setMotorola 68000 seriesPhysical specificationsTransistors68,000[1]Package64-pin DIPHistorySuccessorMotorola 68010
+The Motorola 68000 (sometimes shortened to Motorola 68k or m68k and usually pronounced "sixty-eight-thousand")[2][3] is a 16/32-bit complex instruction set computer (CISC) microprocessor, introduced in 1979 by Motorola Semiconductor Products Sector.
+The design implements a 32-bit instruction set, with 32-bit registers and a 16-bit internal data bus.[4] The address bus is 24 bits and does not use memory segmentation, which made it easier to program for. Internally, it uses a 16-bit data arithmetic logic unit (ALU) and two more 16-bit ALUs used mostly for addresses,[4] and has a 16-bit external data bus.[5] For this reason, Motorola termed it a 16/32-bit processor.
+As one of the first widely available processors with a 32-bit instruction set, large unsegmented address space, and relatively high speed for the era, the 68k was a popular design through the 1980s. It was widely used in a new generation of personal computers with graphical user interfaces, including the Macintosh 128K, Amiga, Atari ST, and X68000. The Sega Genesis/Mega Drive console, released in 1988, is also powered by the 68000.
+Later processors in the Motorola 68000 series, beginning with the Motorola 68020, use full 32-bit ALUs and have full 32-bit address and data buses, speeding up 32-bit operations and allowing 32-bit addressing, rather than the 24-bit addressing of the 68000 and 68010 or the 31-bit addressing of the Motorola 68012. The original 68k is generally software forward-compatible with the rest of the line despite being limited to a 16-bit wide external bus.[4]
+
+Pre-release XC68000 chip made in 1979
+Die of Motorola 68000
+After 46 years in production, the 68000 architecture is still in use.[6][7]
+
+
+Development[edit]
+Motorola MC68000 (leadless chip carrier (CLCC) package)
+Motorola MC68000 (plastic leaded chip carrier (PLCC) package)
+6800[edit]
+Main article: Motorola 6800
+Motorola's first widely produced microprocessor was the 6800, introduced in early 1974 and available in quantity late that year.[8] The company set itself the goal of selling 25,000 units by September 1976, a goal they did meet. Although a capable design, it was eclipsed by more powerful designs, such as the Zilog Z80, and less expensive designs, such as the MOS Technology 6502.[9] By late 1976, the sales book was flat and the division was only saved by a project for General Motors that turned into a huge product line for engine control and other tasks.[10]
+
+Moving to 16-bit[edit]
+By the time the 6800 was introduced, a small number of 16-bit designs had come to market. These were generally modeled on minicomputer platforms like the Data General Nova or PDP-8. Based on the semiconductor manufacturing processes of the era, these were often multi-chip solutions like the National Semiconductor IMP-16, or the single-chip PACE that had issues with speed.[11]
+With the sales prospects for the 6800 dimming, but still cash-flush from the engine control sales, in late 1976 Colin Crook, Operations Manager, began considering how to successfully win future sales. They were aware that Intel was working on a 16-bit extension of their 8080 series, which would emerge as the Intel 8086, and had heard rumors of a 16-bit Zilog Z80, which became the Z8000. These would use new design techniques that would eliminate the problems seen in earlier 16-bit systems.[12]
+Motorola knew that if they launched a product similar to the 8086, within 10% of its capabilities, Intel would outperform them in the market. In order to compete, they set themselves the goal of being two times as powerful at the same cost, or one-half the cost with the same performance. Crook decided that they would attack the high-end of the market with the most powerful processor on the market.[12] Another 16-bit would not do, their design would have to be bigger, and that meant having some 32-bit features.[13] Crook had decided on this approach by the end of 1976.[12]
+
+MACSS[edit]
+Crook formed the Motorola Advanced Computer System on Silicon (MACSS) project to build the design and hired Tom Gunter to be its principal architect. Gunter began forming his team in January 1977.[14] The performance goal was set at 1 million instructions per second (MIPS). They wanted the design to not only win back microcomputer vendors like Apple Computer and Tandy, but also minicomputer companies like NCR and AT&T.[14]
+The team decided to abandon an attempt at backward compatibility with the 6800, as they felt the 8-bit designs were too limited to be the basis for new designs. The new system was influenced by the PDP-11, the most popular minicomputer design of the era.[15] At the time, a key concept in minis was the concept of an orthogonal instruction set, in which every operation was allowed to work on any sort of data. To feed the correct data into the internal units, MACSS made extensive use of microcode, essentially small programs in read only memory that gathered up the required data, performed the operations and wrote out the results. MACSS was among the first to use this technique in a microprocessor.[16][17]
+There was a large amount of support hardware for the 6800 that would remain useful, things like UARTs and similar interfacing systems. For this reason, the new design retained a bus protocol compatibility mode for existing 6800 peripheral devices.[18][17]
+A chip with 32 data and 32 addressing pins would require 64 pins, plus more for power and other features. At the time, 64-pin dual inline package (DIP)s were "large, heavy-cost" systems and "just terrible", making that the largest they could consider. To make it fit, Crook selected a hybrid design, with a 32-bit instruction set architecture (ISA) but 16-bit components implementing it, like the arithmetic logic unit (ALU).[14] The external interface was reduced to 16 data pins and 24 for addresses, allowing it all to fit in a 64-pin package. This became known as the "Texas Cockroach".[13][a]
+By the mid-1970s, Motorola's MOS design techniques had become less advanced than their competition, and their fabrication lines at times struggled with low yields. By the late-1970s, the company had entered a technology exchange program with Hitachi, dramatically improving their production capabilities. As part of this, a new fab named MOS-8 was built using the latest 5-inch wafer sizes and Intel's HMOS process with a 3.5 μm feature size.[19] This was an investment aimed at catching the competition: even upstart semiconductor companies such as Zilog and MOS Technology had introduced CPUs fabricated on depletion-mode NMOS logic before Motorola did. In fact, Motorola may have substantially lagged contemporaries in phasing out enhancement mode and metal gate, with Gunter recollecting that the 68000 itself had to succeed despite initially adopting a metal-gate design.[20] Though the point about playing catch-up is clear, this could not have been an entirely accurate summary because Motorola's 1976 datasheets, predating the inception of the MACCS project, denote the majority of its 6800 family in silicon-gate.[21] Indeed, Gunter's own 1979 article introducing the 68000 highlighted it as a silicon-gate depletion-mode HMOS design.[22]  Whatever the degree of Motorola's process and manufacturing deficits in the early days, the team was undeterred and would not compromise in its pursuit of a microprocessor with industry-leading performance.[23]
+
+Sampling and production[edit]
+Formally introduced in September 1979,[24] initial samples were released in February 1980, with production chips available over the counter in November.[25] Initial speed grades were 4, 6, and 8 MHz. 10 MHz chips became available during 1981,[26] and 12.5 MHz chips by June 1982.[25] The 16.67 MHz "12F" version of the MC68000, the fastest version of the original HMOS chip, was not produced until the late 1980s.
+By the start of 1981, the 68k was winning orders in the high end, and Gunter began to approach Apple to win their business. At that time, the 68k sold for about $125 in quantity. In meetings with Steve Jobs, Jobs talked about using the 68k in the Apple Lisa, but stated "the real future is in this product that I'm personally doing. If you want this business, you got to commit that you'll sell it for $15."[27] Motorola countered by offering to sell it at $55 at first, then step down to $35, and so on. Jobs agreed, and the Macintosh moved from the 6809 to the 68k. The average price eventually reached $14.76.[27]
+
+Variants[edit]
+In 1982, the 68000 received a minor update to its instruction set architecture (ISA) to support virtual memory and to conform to the Popek and Goldberg virtualization requirements. The updated chip is called the 68010.[28] It also adds a new "loop mode" which speeds up small loops, and increases overall performance by about 10% at the same clock speeds. A further extended version, which exposes 31 bits of the address bus, was also produced in small quantities as the 68012.
+To support lower-cost systems and control applications with smaller memory sizes, Motorola introduced the 8-bit compatible MC68008, also in 1982. This is a 68000 with an 8-bit data bus and a smaller (20-bit) address bus. After 1982, Motorola devoted more attention to the 68020 and 88000 projects.
+
+Second-sourcing[edit]
+Hitachi HD68000
+Thomson TS68000
+Several other companies were second-source manufacturers of the HMOS 68000.  These included Hitachi (HD68000), who shrank the feature size to 2.7 μm for their 12.5 MHz version,[25] Mostek (MK68000), Rockwell (R68000), Signetics (SCN68000), Thomson/SGS-Thomson (originally EF68000 and later TS68000), and Toshiba (TMP68000). Toshiba was also a second-source maker of the CMOS 68HC000 (TMP68HC000).
+Encrypted variants of the 68000, being the Hitachi FD1089 and FD1094, store decryption keys for opcodes and opcode data in battery-backed memory and were used in certain Sega arcade systems including System 16 to prevent piracy and illegal bootleg games.[29]
+
+CMOS versions[edit]
+Motorola MC68HC000LC8
+The 68HC000, the first CMOS version of the 68000, was designed by Hitachi and jointly introduced in 1985.[30] Motorola's version is called the MC68HC000, while Hitachi's is the HD68HC000. The 68HC000 offers speeds of 8–20 MHz. Except for using CMOS circuitry, it behaved identically to the HMOS MC68000, but the change to CMOS greatly reduced its power consumption. The original HMOS MC68000 consumed around 1.35 watts at an ambient temperature of 25 °C, regardless of clock speed, while the MC68HC000 consumed only 0.13 watts at 8 MHz and 0.38 watts at 20 MHz. (Unlike CMOS circuits, HMOS still draws power when idle, so power consumption varies little with clock rate.) Apple selected the 68HC000 for use in the Macintosh Portable and PowerBook 100.
+Motorola replaced the MC68008 with the MC68HC001 in 1990.[31] This chip resembles the 68HC000 in most respects, but its data bus can operate in either 16-bit or 8-bit mode, depending on the value of an input pin at reset. Thus, like the 68008, it can be used in systems with cheaper 8-bit memories.
+The later evolution of the 68000 focused on more modern embedded control applications and on-chip peripherals. The 68EC000 chip and SCM68000 core remove the M6800 peripheral bus, and exclude the MOVE from SR instruction from user mode programs, making the 68EC000 and 68SEC000 the only 68000 CPUs not 100% object code compatible with previous 68000 CPUs when run in User Mode. When run in Supervisor Mode, there is no difference.[32] In 1996, Motorola updated the standalone core with fully static circuitry, drawing only 2 μW in low-power mode, calling it the MC68SEC000.[33]
+Motorola ceased production of the HMOS MC68000, as well as the MC68008, MC68010, MC68330, and MC68340 in on June 1, 1996,[34][35] but its spin-off company Freescale Semiconductor (now NXP) was still producing the MC68HC000, MC68HC001, MC68EC000, and MC68SEC000, as well as the MC68302 and MC68306 microcontrollers and later versions of the DragonBall family. The 68000's architectural descendants, the 680x0, CPU32, and Coldfire families, were also still in production. More recently, with the Sendai fab closure in 2010, all 68HC000, 68020, 68030, and 68882 parts have been discontinued, leaving only the 68SEC000 in production.[36]
+In 2024, Rochester Electronics was licensed by NXP to continue producing the 68HC000. Both the physical design and test program were transferred to Rochester from NXP in order to continue to supply an authorized source to the market. Rochester Electronics' version of the 68HC000 uses a product clone of the J82M mask set (also known as the TSC6), which was the last mask set used by Motorola for the 68HC000.[37]
+
+As a microcontroller core[edit]
+Since being succeeded by "true" 32-bit microprocessors, the 68000 is used as the core of many microcontrollers. In 1989, Motorola introduced the MC68302 communications processor.[38]
+
+Applications[edit]
+IBM considered the 68000 for the IBM PC but chose the Intel 8088; however, IBM Instruments briefly sold the 68000-based IBM System 9000 laboratory computer systems. The 68k instruction set is particularly well suited to implement Unix,[39] and the 68000 and its successors became the dominant CPUs for Unix-based workstations including Sun workstations and Apollo/Domain workstations.
+In 1981, Motorola introduced the Motorola 68000 Educational Computer Board, a single-board computer for educational and training purposes which in addition to the 68000 itself contained memory, I/O devices, programmable timer and wire-wrap area for custom circuitry. The board remained in use in US colleges as a tool for learning assembly programming until the early 1990s.[40]
+At its introduction, the 68000 was first used in high-priced systems, including multiuser microcomputers like the WICAT 150,[41] early Alpha Microsystems computers, Sage II / IV, Tandy 6000 / TRS-80 Model 16, and Fortune 32:16; single-user workstations such as Hewlett-Packard's HP 9000 Series 200 systems, the first Apollo/Domain systems, Sun Microsystems' Sun-1, and the Corvus Concept; and graphics terminals like Digital Equipment Corporation's VAXstation 100 and Silicon Graphics' IRIS 1000 and 1200. Unix systems rapidly moved to the more capable later generations of the 68k line, which remained popular in that market throughout the 1980s.
+By the mid-1980s, falling production cost made the 68000 viable for use in personal computers starting with the Apple Lisa and Macintosh, and followed by the Amiga, Atari ST, and X68000.
+The Sinclair QL microcomputer, along with its derivatives, such as the ICL One Per Desk business terminal, was the most commercially important utilisation of the 68008. Helix Systems (in Missouri, United States) designed an extension to the SWTPC SS-50 bus, the SS-64, and produced systems built around the 68008 processor. 68000[42] and 68008[43] second processors were released for the BBC Micro in 1984 and 1985 respectively, and according to Steve Furber contributed to Acorn developing the ARM.[44]
+While the adoption of RISC and x86 displaced the 68000 series as desktop/workstation CPU, the processor found substantial use in embedded applications. By the early 1990s, quantities of 68000 CPUs could be purchased for less than 30 USD per part.[citation needed]
+The 68000 also saw great success as an embedded controller. As early as 1981, laser printers such as the Imagen Imprint-10 were controlled by external boards equipped with the 68000. The first HP LaserJet, introduced in 1984, came with a built-in 8 MHz 68000. Other printer manufacturers adopted the 68000, including Apple with its introduction of the LaserWriter in 1985, the first PostScript laser printer. The 68000 continued to be widely used in printers throughout the rest of the 1980s, persisting well into the 1990s in low-end printers.
+The 68000 was successful in the field of industrial control systems. Among the systems benefited from having a 68000 or derivative as their microprocessor were families of programmable logic controllers (PLCs) manufactured by Allen-Bradley, Texas Instruments and subsequently, following the acquisition of that division of TI, by Siemens. Users of such systems do not accept product obsolescence at the same rate as domestic users, and it is entirely likely that despite having been installed over 20 years ago, many 68000-based controllers will continue in reliable service well into the 21st century.
+In a number of digital oscilloscopes from the 80s,[45] the 68000 has been used as a waveform display processor; some models including the LeCroy 9400/9400A[46] also use the 68000 as a waveform math processor (including addition, subtraction, multiplication, and division of two waveforms/references/waveform memories), and some digital oscilloscopes using the 68000 (including the 9400/9400A) can also perform fast Fourier transform functions on a waveform.
+The 683XX microcontrollers, based on the 68000 architecture, are used in networking and telecom equipment, television set-top boxes, laboratory and medical instruments, and even handheld calculators. The MC68302 and its derivatives have been used in many telecom products from Cisco, 3com, Ascend, Marconi, Cyclades and others. Past models of the Palm PDAs and the Handspring Visor used the DragonBall, a derivative of the 68000. AlphaSmart used the DragonBall family in later versions of its portable word processors. Texas Instruments used the 68000 in its high-end graphing calculators, the TI-89 and TI-92 series and Voyage 200.
+A modified version of the 68000 formed the basis of the IBM XT/370 hardware emulator of the System 370 processor.
+
+Video games[edit]
+Two Hitachi 68HC000 CPUs being used on an arcade-game PCB
+Video game manufacturers used the 68000 as the backbone of many arcade games and home game consoles: Atari's Food Fight, from 1982, was one of the first 68000-based arcade games. Others included Sega's System 16, Capcom's CP System and CP System II, and SNK's Neo Geo. By the late 1980s, the 68000 was inexpensive enough to power home game consoles, such as Sega's Genesis console, and also the Sega CD attachment for it (a Sega CD system has three CPUs, two of them 68000s). The 68000 is also used as the main CPU of Sega's Pico, a young children's educational game console. The multi-processor Atari Jaguar console from 1993 used the 68000 as a support chip, however, due to familiarity, some developers used it as the primary processor. Sega's Saturn console from 1994 used the 68000 as a sound co-processor. In October 1995, the 68000 made it into Sega's Genesis Nomad, a handheld game console, as its CPU.[47]
+Certain arcade games (such as Steel Gunner and others based on Namco System 2) use a dual 68000 CPU configuration,[48] and systems with a triple 68000 CPU configuration also exist (such as Galaxy Force and others based on the Sega Y Board),[49] along with a quad 68000 CPU configuration, which has been used by Jaleco (one 68000 for sound has a lower clock rate compared to the other 68000 CPUs)[50] for games such as Big Run and Cisco Heat; another, fifth 68000 (at a different clock rate than the other 68000 CPUs) was used in the Jaleco arcade game Wild Pilot for input/output (I/O) processing.[51]
+
+Architecture[edit]
+
+Motorola 68000 registers
+
+
+
+
+
+31
+
+...
+
+23
+
+...
+
+15
+
+...
+
+07
+
+...
+
+00
+
+(bit position)
+
+
+Data registers
+
+
+D0
+
+Data 0
+
+
+D1
+
+Data 1
+
+
+D2
+
+Data 2
+
+
+D3
+
+Data 3
+
+
+D4
+
+Data 4
+
+
+D5
+
+Data 5
+
+
+D6
+
+Data 6
+
+
+D7
+
+Data 7
+
+
+Address registers
+
+
+ 
+
+A0
+
+Address 0
+
+
+ 
+
+A1
+
+Address 1
+
+
+ 
+
+A2
+
+Address 2
+
+
+ 
+
+A3
+
+Address 3
+
+
+ 
+
+A4
+
+Address 4
+
+
+ 
+
+A5
+
+Address 5
+
+
+ 
+
+A6
+
+Address 6
+
+
+Stack pointers
+
+
+ 
+
+A7 / USP
+
+Stack Pointer (user)
+
+
+ 
+
+A7' / SSP
+
+Stack Pointer (supervisor)
+
+
+Program counter
+
+
+ 
+
+PC
+
+Program Counter
+
+
+
+
+
+
+Condition Code Register
+
+
+ 
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10
+
+09
+
+08
+
+07
+
+06
+
+05
+
+04
+
+03
+
+02
+
+01
+
+00
+
+(bit position)
+
+
+ 
+
+T
+
+S
+
+M
+
+0
+
+I
+
+0
+
+0
+
+0
+
+X
+
+N
+
+Z
+
+V
+
+C
+
+CCR
+
+
+Address bus[edit]
+The 68000 has a 24-bit external address bus and two byte-select signals "replaced" A0. These 24 lines can therefore address 16 MB of physical memory with byte resolution. Address storage and computation uses 32 bits internally; however, the 8 high-order address bits are ignored due to the physical lack of device pins. This allows it to run software written for a logically flat 32-bit address space, while accessing only a 24-bit physical address space.  Motorola's intent with the internal 32-bit address space was forward compatibility, making it feasible to write 68000 software that would take full advantage of later 32-bit implementations of the 68000 instruction set.[4]
+However, this did not prevent programmers from writing forward incompatible software. "24-bit" software that discarded the upper address byte, or used it for purposes other than addressing, could fail on 32-bit 68000 implementations. For example, early (pre-7.0) versions of Apple's Mac OS used the high byte of memory-block master pointers to hold flags such as locked and purgeable. Later versions of the OS moved the flags to a nearby location, and Apple began shipping computers which had "32-bit clean" ROMs beginning with the release of the 1989 Mac IIci.
+The 68000 family stores multi-byte integers in memory in big-endian order.
+
+Internal registers[edit]
+The CPU has eight 32-bit general-purpose data registers (D0-D7), and eight address registers (A0-A7). The last address register is the stack pointer, and assemblers accept the label SP as equivalent to A7. This was a good number of registers at the time in many ways. It was small enough to allow the 68000 to respond quickly to interrupts (even in the worst case where all 8 data registers D0–D7 and 7 address registers A0–A6 needed to be saved, 15 registers in total), and yet large enough to make most calculations fast, because they could be done entirely within the processor without keeping any partial results in memory. (Note that an exception routine in supervisor mode can also save the user stack pointer A7, which would total 8 address registers. However, the dual stack pointer (A7 and supervisor-mode A7') design of the 68000 makes this normally unnecessary, except when a task switch is performed in a multitasking system.)
+Having the two types of registers allows one 32-bit address and one 16-bit data calculation to take place at the same time. This results in reduced instruction execution time as addresses and data can be processed in parallel.[4]
+
+Status register[edit]
+The 68000 has a 16-bit status register. The upper 8 bits is the system byte, and modification of it is privileged. The lower 8 bits is the user byte, also known as the condition code register (CCR), and modification of it is not privileged. The 68000 comparison, arithmetic, and logic operations modify condition codes to record their results for use by later conditional jumps. The condition code bits are "carry" (C), "overflow" (V), "zero" (Z), "negative" (N) and "extend" (X). The "extend" (X) flag deserves special mention, because it is separate from the carry flag. This permits the extra bit from arithmetic, logic, and shift operations to be separated from the carry multiprecision arithmetic.[52]
+
+Instruction set[edit]
+The designers attempted to make the assembly language orthogonal. That is, instructions are divided into operations and address modes, and almost all address modes are available for almost all instructions. There are 56 instructions and a minimum instruction size of 16 bits. Many instructions and addressing modes are longer to include more address or mode bits.
+
+Privilege levels[edit]
+The CPU, and later the whole family, implements two levels of privilege. User mode gives access to everything except privileged instructions such as interrupt level controls.[53] Supervisor privilege gives access to everything. An interrupt always becomes supervisory. The supervisor bit is stored in the status register, and is visible to user programs.[53]
+An advantage of this system is that the supervisor level has a separate stack pointer. This permits a multitasking system to use very small stacks for tasks, because the designers do not have to allocate the memory required to hold the stack frames of a maximum stack-up of interrupts.
+
+Interrupts[edit]
+The CPU recognizes seven interrupt levels. Levels 1 through 5 are strictly prioritized. That is, a higher-numbered interrupt can always interrupt a lower-numbered interrupt. In the status register, a privileged instruction allows setting the current minimum interrupt level, blocking lower or equal priority interrupts. For example, if the interrupt level in the status register is set to 3, higher levels from 4 to 7 can cause an exception. Level 7 is a level triggered non-maskable interrupt (NMI). Level 1 can be interrupted by any higher level. Level 0 means no interrupt. The level is stored in the status register, and is visible to user-level programs.
+Hardware interrupts are signalled to the CPU using three inputs that encode the highest pending interrupt priority. A separate encoder is usually required to encode the interrupts, though for systems that do not require more than three hardware interrupts it is possible to connect the interrupt signals directly to the encoded inputs at the cost of more software complexity. The interrupt controller can be as simple as a 74LS148 priority encoder, or may be part of a very large-scale integration (VLSI) peripheral chip such as the MC68901 Multi-Function Peripheral (used in the Atari ST range of computers and X68000), which also provides a UART, timer, and parallel I/O.
+The "exception table" (interrupt vector table interrupt vector addresses) is fixed at addresses 0 through 1023, permitting 256 32-bit vectors. The first vector (RESET) consists of two vectors, namely the starting stack address, and the starting code address. Vectors 3 through 15 are used to report various errors: bus error, address error, illegal instruction, zero division, CHK and CHK2 vector, privilege violation (to block privilege escalation), and some reserved vectors that became line 1010 emulator, line 1111 emulator, and hardware breakpoint. Vector 24 starts the real interrupts: spurious interrupt (no hardware acknowledgement), and level 1 through level 7 autovectors, then the 16 TRAP vectors, then some more reserved vectors, then the user defined vectors.
+Since the starting code address vector must always be valid on reset, systems commonly included some nonvolatile memory (e.g. ROM) starting at address zero to contain the vectors and bootstrap code. However, for a general purpose system it is desirable for the operating system to be able to change the vectors at runtime. This was often accomplished by either pointing the vectors in ROM to a jump table in RAM, or through use of bank switching to allow the ROM to be replaced by RAM at runtime.
+The 68000 does not meet the Popek and Goldberg virtualization requirements for full processor virtualization because it has a single unprivileged instruction, "MOVE from SR", which allows user-mode software read-only access to a small amount of privileged state. The 68EC000 and 68SEC000, which are later derivatives of the 68000, do meet the requirements as the "MOVE from SR" instruction is privileged. The same change was introduced on the 68010 and later CPUs.
+The 68000 is also unable to easily support virtual memory, which requires the ability to trap and recover from a failed memory access. The 68000 does provide a bus error exception which can be used to trap, but it does not save enough processor state to resume the faulted instruction once the operating system has handled the exception. Several companies did succeed in making 68000-based Unix workstations with virtual memory that worked by using two 68000 chips running in parallel on different phased clocks. When the "leading" 68000 encountered a bad memory access, extra hardware would interrupt the "main" 68000 to prevent it from also encountering the bad memory access. This interrupt routine would handle the virtual memory functions and restart the "leading" 68000 in the correct state to continue properly synchronized operation when the "main" 68000 returned from the interrupt.
+These problems were fixed in the next major revision of the 68k architecture with the release of the MC68010. The Bus Error and Address Error exceptions push a large amount of internal state onto the supervisor stack in order to facilitate recovery, and the "MOVE from SR" instruction was made privileged. A new unprivileged "MOVE from CCR" instruction is provided for use in its place by user mode software; an operating system can trap and emulate user mode "MOVE from SR" instructions if desired.
+
+Instruction set details[edit]
+The standard addressing modes are:
+
+Register direct
+data register, e.g. "D0"
+address register, e.g. "A0"
+Register indirect
+Simple address, e.g. (A0)
+Address with post-increment, e.g. (A0)+
+Address with pre-decrement, e.g. −(A0)
+Address with a 16-bit signed offset, e.g. 16(A0)
+Register indirect with index register & 8-bit signed offset e.g. 8(A0,D0) or 8(A0,A1)
+Note that for (A0)+ and −(A0), the actual increment or decrement value is dependent on the operand size: a byte access adjusts the address register by 1, a word by 2, and a long by 4.
+PC (program counter) relative with displacement
+Relative 16-bit signed offset, e.g. 16(PC). This mode was very useful for position-independent code.
+Relative with 8-bit signed offset with index, e.g. 8(PC,D2)
+Absolute memory location
+Either a number, e.g. "$4000", or a symbolic name translated by the assembler
+Most 68000 assemblers used the "$" symbol for hexadecimal, instead of "0x" or a trailing H.
+There are 16 and 32-bit versions of this addressing mode
+Immediate mode
+Data stored in the instruction, e.g. "#400"
+Quick immediate mode
+3-bit unsigned (or 8-bit signed with moveq) with value stored in opcode
+In addq and subq, 0 is the equivalent to 8
+e.g. moveq #0,d0 was quicker than clr.l d0 (though both made D0 equal to 0)
+Plus: access to the status register, and, in later models, other special registers.
+Most instructions have variants that operate on 8-bit bytes, 16-bit words, and 32-bit longs; assembler languages use dot-letter suffixes ".b", ".w", and ".l" after the instruction mnemonic to indicate the variant.
+Like many CPUs of its era the cycle timing of some instructions varied depending on the source operand(s). For example, the unsigned multiply instruction takes (38+2n) clock cycles to complete where 'n' is equal to the number of bits set in the operand.[54] To create a function that took a fixed cycle count required the addition of extra code after the multiply instruction. This would typically consume extra cycles for each bit that wasn't set in the original multiplication operand.
+Most instructions are dyadic, that is, the operation has a source, and a destination, and the destination is changed. Notable instructions are:
+
+Arithmetic: ADD, SUB, MULU (unsigned multiply), MULS (signed multiply), DIVU (unsigned divide), DIVS (signed divide), NEG (additive negation), and CMP (comparison, done by subtracting the arguments and setting the status bits without storing the result)
+Binary-coded decimal arithmetic: ABCD, NBCD, and SBCD
+Logic: EOR (exclusive or), AND, NOT (logical not), OR (inclusive or)
+Shifting: (logical, i.e. right shifts put zero in the most-significant bit) LSL, LSR, (arithmetic shifts, i.e. sign-extend the most-significant bit) ASR, ASL, (rotates through eXtend and not) ROXL, ROXR, ROL, ROR
+Bit test and manipulation in memory or data register: BSET (set to 1), BCLR (clear to 0), BCHG (invert) and BTST (no change). All of these instructions first test the destination bit and set (clear) the CCR Z bit if the destination bit is 0 (1), respectively.
+Multiprocessing control: TAS, test-and-set, performed an indivisible bus operation, permitting semaphores to be used to synchronize several processors sharing a single memory
+Flow of control: JMP (jump), JSR (jump to subroutine), BSR (relative address jump to subroutine), RTS (return from subroutine), RTE (return from exception, i.e. an interrupt), TRAP (trigger a software exception similar to software interrupt), CHK (a conditional software exception)
+Branch: Bcc (where the "cc" specified one of 14 tests of the condition codes in the status register: equal, greater than, less-than, carry, and most combinations and logical inversions, available from the status register). The remaining two possible conditions (always true and always false) have separate instruction mnemonics, BRA (branch always), and BSR (branch to subroutine).
+Decrement-and-branch: DBcc (where "cc" was as for the branch instructions), which, provided the condition was false, decremented the low word of a D-register and, if the result was not -1 ($FFFF), branched to a destination. This use of −1 instead of 0 as the terminating value allowed the easy coding of loops that had to do nothing if the count was 0 to start with, with no need for another check before entering the loop. This also facilitated nesting of DBcc.
+68EC000[edit]
+Motorola 68EC000 controller
+The 68EC000 is a low-cost version of the 68000 with a slightly different pinout, designed for embedded controller applications. The 68EC000 can have either a 8-bit or 16-bit data bus, switchable at reset.[55]
+The processors are available in a variety of speeds including 8 and 16 MHz configurations, producing 2,100 and 4,376 Dhrystones each. These processors have no floating-point unit, and it is difficult to implement an FPU coprocessor (MC68881/2) with one because the EC series lacks necessary coprocessor instructions.
+The 68EC000 was used as a controller in many audio applications, including Ensoniq musical instruments and sound cards, where it was part of the MIDI synthesizer.[56] On Ensoniq sound boards, the controller provided several advantages compared to competitors without a CPU on board. The processor allowed the board to be configured to perform various audio tasks, such as MPU-401 MIDI synthesis or MT-32 emulation, without the use of a terminate-and-stay-resident program. This improved software compatibility, lowered CPU usage, and eliminated host system memory usage.
+The Motorola 68EC000 core was later used in the m68k-based DragonBall processors from Motorola/Freescale.
+It also was used as a sound controller in the Sega Saturn game console and as a controller for the HP JetDirect Ethernet controller boards for the mid-1990s HP LaserJet printers.
+
+Example code[edit]
+The 68000 assembly code below is for a subroutine named strtolower, which copies a null-terminated string of 8-bit characters to a destination string, converting all alphabetic characters to lower case.
+
+
+
+
+                     
+                     
+                     
+                     
+        
+    
+    
+                     
+                     
+                     
+00100000          
+00100000  4E56 0000
+00100004  306E 0008
+00100008  326E 000C
+0010000C  1018
+0010000E  0C40 0041
+00100012  6500 000E
+00100016  0C40 005A
+0010001A  6200 0006
+0010001E  0640 0020
+00100022  12C0
+00100024  66E6
+00100026  4E5E
+00100028  4E75
+0010002A
+
+
+
+; strtolower:
+; Copy a null-terminated ASCII string, converting
+; all alphabetic characters to lower case.
+;
+; Entry parameters:
+;   (SP+0): Return address
+;   (SP+4): Source string address
+;   (SP+8): Target string address
+
+                org     $00100000       ;Start at 00100000
+strtolower      public
+                link    a6,#0           ;Set up stack frame
+                movea   8(a6),a0        ;A0 = src, from stack
+                movea   12(a6),a1       ;A1 = dst, from stack
+loop            move.b  (a0)+,d0        ;Load D0 from (src), incr src
+                cmpi    #'A',d0         ;If D0 < 'A',
+                blo     copy            ;skip
+                cmpi    #'Z',d0         ;If D0 > 'Z',
+                bhi     copy            ;skip
+                addi    #'a'-'A',d0     ;D0 = lowercase(D0)
+copy            move.b  d0,(a1)+        ;Store D0 to (dst), incr dst
+                bne     loop            ;Repeat while D0 <> NUL
+                unlk    a6              ;Restore stack frame
+                rts                     ;Return
+                end
+
+
+The subroutine establishes a call frame using register A6 as the frame pointer. This kind of calling convention supports reentrant and recursive code and is typically used by languages like C and C++. The subroutine then retrieves the parameters passed to it (src and dst) from the stack. It then loops, reading an ASCII character (one byte) from the src string, checking whether it is a capital alphabetic character, and if so, converting it into a lower-case character, otherwise leaving it as it is,  then writing the character into the dst string. Finally, it checks whether the character was a null character; if not, it repeats the loop, otherwise it restores the previous stack frame (and A6 register) and returns. Note that the string pointers (registers A0 and A1) are auto-incremented in each iteration of the loop.
+In contrast, the code below is for a stand-alone function, even on the most restrictive version of AMS for the TI-89 series of calculators, being kernel-independent, with no values looked up in tables, files or libraries when executing, no system calls, no exception processing, minimal registers to be used, nor the need to save any. It is valid for historical Julian dates from 1 March 1 AD, or for Gregorian ones. In less than two dozen operations it calculates a day number compatible with ISO 8601 when called with three inputs stored at their corresponding LOCATIONS:
+
+;
+;  WDN, an address - for storing result d0
+; FLAG, 0 or 2 - to choose between Julian or Gregorian, respectively
+; DATE, year0mda - date stamp as binary word&byte&byte in basic ISO-format
+;(YEAR, year ~ YEAR=DATE due to big-endianness)
+;
+     move.l DATE,d0
+     move.l d0,d1
+;
+; Apply step 1 - Lachman's congruence
+     andi.l #$f00,d0
+     divu #100,d0
+     addi.w #193,d0
+     andi.l #$ff,d0
+     divu #100,d0 ; d0 has the month index i in the upper word (mod 100)
+;
+; Apply step 2 - Finding spqr as the year of the Julian leap day preceding DATE
+     swap d0
+     andi.l #$ffff,d0
+     add.b d1,d0
+     add.w YEAR,d0
+     subi.l #$300,d1
+     lsr  #2,d1
+     swap d1
+     add.w d1,d0 ; spqr/4 + year + i + da
+;
+; (Apply step 0 - Gregorian adjustment)
+     mulu FLAG,d1
+     divu #50,d1
+     mulu #25,d1
+     lsr  #2,d1
+     add.w d1,d0
+     add.w FLAG,d0 ; (sp32div16) + spqr/4 + year + i + da
+;
+     divu #7,d0
+     swap d0  ;  d0.w becomes the day number
+;
+     move.w d0,WDN ; returns the day number to address WDN
+     rts
+;
+; Days of the week correspond to day numbers of the week as:
+; Sun=0  Mon=1  Tue=2  Wed=3  Thu=4  Fri=5  Sat=6
+;
+
+Notes[edit]
+
+
+^ Hybrid designs of this sort were already common in the minicomputer field. The Data General Nova was a 16-bit design implemented using 4-bit ALUs.
+
+
+See also[edit]
+Motorola 6800 – an 8-bit predecessor
+DTACK Grounded – an early 68000 newsletter
+References[edit]
+
+
+^ Heath, Steve (1995). Microprocessor Architectures and Systems: RISC, CISC, and DSP (Second ed.). Elsevier. p. 13. ISBN 0-7506-2303-9. Archived from the original on April 16, 2021. Retrieved October 12, 2019.
+
+^ Granlund, Torbjörn (November 14, 2020). The GNU Multiple Precision Arithmetic Library (PDF) (Ed. 6.2.1 ed.). GNU Project. p. 13. Archived (PDF) from the original on July 28, 2022. Retrieved July 29, 2022.
+
+^ Heid, Jim; Norton, Peter (1989). Inside the Apple Macintosh. Simon & Schuster. p. 530. ISBN 0-13-467622-X. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ a b c d e Starnes, Thomas W. (April 1983). "Design Philosophy Behind Motorola's MC68000". Byte. Vol. 8, no. 4. Archived from the original on July 24, 2018. Retrieved June 19, 2018.
+
+^ Motorola M68000 Family Programmer's Reference Manual (PDF). Phoenix, Arizona: Motorola. 1992. p. 1-1. ISBN 0-13-723289-6. Archived (PDF) from the original on September 24, 2015. Retrieved August 12, 2005.
+
+^ "MC68000: Low Cost 32-Bit Microprocessor (Including HC000, HC001, EC000 and SEC000)". NXP Semiconductor. Archived from the original on April 14, 2021. Retrieved March 24, 2021.
+
+^ Turley, Jim (August 10, 2020). "Wallowing in 68K Nostalgia Want to Build a New, 40-year-old Computer?". Electronic Engineering Journal. Archived from the original on April 11, 2021. Retrieved March 24, 2021.
+
+^ "Motorola joins microprocessor race with 8-bit entry". Electronics. 47 (5). New York: McGraw-Hill: 29–30. March 7, 1974.
+
+^ Tooley, Michael (1988). Servicing Personal Computers (Second ed.). Heinemann. p. 8. ISBN 0-434-91975-6. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ Oral 2007, p. 4.
+
+^ Kent, Allen; Williams, James G. (1991). Encyclopedia of Microcomputers – Evolution of Computerized Maintenance Management to Generation of Random Numbers. Vol. 7. Marcel Dekker. p. 336. ISBN 0-8247-2706-1. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ a b c Oral 2007, p. 5.
+
+^ a b Oral 2007, p. 9.
+
+^ a b c Oral 2007, p. 6.
+
+^ Oral 2007, p. 8.
+
+^ Oral 2007, p. 7.
+
+^ a b Andersson, Sven (March 24, 2014). "The Microprocessor (R)evolution". EE Times. p. 2. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ Tooley, Michael (1992). Servicing Personal Computers (Third ed.). Newnes. pp. 264–265. ISBN 0-7506-0374-7. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ Oral 2007, p. 10.
+
+^ Oral 2007, pp. 9–11.
+
+^ "M6800 Microcomputer System Design Data" (PDF). Motorola. 1976. p. 21. Archived (PDF) from the original on April 18, 2023. Retrieved April 17, 2023.
+
+^ Stritter and Gunter (1979). "Microsystems a Microprocessor Architecture for a Changing World: The Motorola 68000". Computer. 12 (2): 43–52. doi:10.1109/MC.1979.1658617. S2CID 15893310. Retrieved April 17, 2023.
+
+^ Oral 2007, p. 11.
+
+^ Ken Polsson. "Chronology of Microprocessors". Processortimeline.info. Archived from the original on August 19, 2012. Retrieved September 27, 2013.
+
+^ a b c DTACK GROUNDED, The Journal of Simple 68000/16081 Systems, March 1984, p. 9, archived from the original on March 10, 2016, retrieved October 31, 2011.
+
+^ "Motorola was the rival to beat, and its 68000 its greatest success". tekdeeps. Archived from the original on September 13, 2022. Retrieved September 13, 2022.
+
+^ a b Oral 2007, p. 12.
+
+^ Faynberg, Igor; Lu, Hui-Lan; Skuler, Dor (2016). Cloud Computing: Business Trends and Technologies. Wiley. p. 53. ISBN 978-1-118-50121-4. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ "FD1094 – Sega Retro". segaretro.org. October 19, 2017. Archived from the original on September 28, 2013. Retrieved October 27, 2015.
+
+^ "Company Briefs" Archived November 14, 2007, at the Wayback Machine, The New York Times, September 21, 1985, available from TimesSelect (subscription).
+
+^ "68HC001 obsoletes 68008". Microprocessor Report. June 20, 1990.
+
+^ "Motorola streamlines 68000 family; "EC" versions of 68000, '020, '030, and '040, plus low-end 68300 chip"". Microprocessor Report. April 17, 1991.
+
+^ "Motorola reveals MC68SEC000 processor for low power embedded applications" (Press release). Motorola. November 18, 1996. Archived from the original on March 28, 1997.
+
+^ "HIPPO Q495" (PDF). High-Performance Internal Product Portfolio Overview (10). Motorola. Fourth Quarter 1995. Archived from the original on September 14, 2022. Retrieved July 29, 2022.
+
+^ comp.sys.m68k Usenet posting Archived November 14, 2007, at the Wayback Machine, May 16, 1995; also see other posts in thread. The end-of-life announcement was in late 1994; according to standard Motorola end-of-life practice, final orders would have been in 1995, with final shipments in 1996.
+
+^ "Freescale 150mm Sendai Fab Closure-General Product Discontinuance". November 24, 2010. Archived from the original on March 9, 2014. Retrieved March 9, 2014.
+
+^ "Introduction of KLM as Qualified Test Site for 68060". www.nxp.jp. Retrieved April 2, 2025.
+
+^ "Multiprotocol processor marries 68000 and RISC". ESD: The Electronic System Design Magazine. November 1, 1989 – via AccessMyLibrary.
+
+^ Rood, Andrew L.; Cline, Robert C.; Brewster, Jon A. (September 1986). "UNIX and the MC68000". Byte. p. 179.
+
+^ The Atmel AVR Microcontroller: MEGA and XMEGA in Assembly and C. Han-Way Huang. January 14, 2013. ISBN 978-1285500089. Archived from the original on April 10, 2022. Retrieved November 18, 2021.
+
+^ "museum ~ WICAT 150". Old-computers.com. Archived from the original on October 12, 2012. Retrieved September 27, 2013.
+
+^ "Acorn User September 1984 – Unicorn: Cheapest Route to Unix". Acorn User. Retrieved December 6, 2024.
+
+^ "Cumana 68008 2nd processor". Chris Whytehead. Retrieved December 6, 2024.
+
+^ "The Arm Story Part 1: From Acorns". The Chip Letter. Retrieved December 6, 2024.
+
+^ Philips PM3320 250 MS/s Dual Channel Digital Storage Oscilloscope Service Manual, Section 8.6, ordering code 4822 872 05315.
+
+^ LeCroy 9400/9400A Digital Oscilloscope Service Manual, Section 1.1.1.3 Microprocessor, August 1990.
+
+^ Hunt, Stuart (October 6, 2009). "Retroinspection: Sega Nomad". Retro Gamer. No. 69. p. 47.
+
+^ "Google Code Archive - Long-term storage for Google Code Project Hosting". code.google.com. Archived from the original on September 14, 2022. Retrieved January 15, 2016.
+
+^ "openlase-mame/segaybd.c at master - jv4779/openlase-mame". GitHub. Archived from the original on December 9, 2021. Retrieved January 15, 2016.
+
+^ "Google Code Archive - Long-term storage for Google Code Project Hosting". code.google.com. Archived from the original on September 14, 2022. Retrieved January 15, 2016.
+
+^ "historic-mess/cischeat.c at master - mamedev/historic-mess". GitHub. Archived from the original on January 25, 2022. Retrieved January 15, 2016.
+
+^ Ford, William; Topp, William R. (1997). Assembly Language and Systems Programming for the M68000 Family (Second ed.). Jones and Bartlett Publishers. pp. 149–151. ISBN 0-7637-0357-5. Archived from the original on July 29, 2022. Retrieved July 29, 2022.
+
+^ a b M68000 8-/16-/32-Bit Microprocessors User's Manual Ninth Edition (PDF). Motorola. 1993. p. 6-2. Archived (PDF) from the original on April 14, 2022. Retrieved February 28, 2022.
+
+^ "Standard Instruction Execution Times". oldwww.nvg.ntnu.no. Archived from the original on September 9, 2016. Retrieved August 4, 2017.
+
+^ Boys, Robert (January 6, 1996). "M68k Frequently Asked Questions (FAQ), comp.sys.m68k". Archived from the original on July 16, 2012. Retrieved May 3, 2010.
+
+^ Soundscape Elite Specs. from Fax Sheet Archived January 30, 2010, at the Wayback Machine, Google Groups, April 25, 1995.
+
+
+Bibliography[edit]
+"Oral History Panel on the Development and Promotion of the Motorola 68000" (PDF) (Interview). Interviewed by Dave House. July 23, 2007.
+Further reading[edit]
+Datasheets and manuals
+M68000 Microprocessor Users Manual (Rev 8); Motorola (Freescale); 224 pages; 1994.
+M68000 Microprocessors User's Manual (9th Edition); NXP; 189 pages; 1993.
+Addendum to M68000 User Manual (Rev 0); Motorola (Freescale); 26 pages; 1997.
+M68000 Family Programmer's Reference Manual; Motorola (Freescale); 646 pages; 1991; ISBN 978-0137232895.
+Books
+68000, 68010, 68020 Primer; 1st Ed; Stan Kelly-Bootle and Bob Fowler; Howard Sams & Co; 370 pages; 1985; ISBN 978-0672224058. (archive)
+68000 Assembly Language Programming/Includes 68010 and 68020; 2nd Ed; Lance A. Leventhal, Doug Hawkins, Gerry Kane, William D. Cramer; Osborne/McGraw-Hill; 484 pages; 1986; ISBN 978-0078812323.
+Mastering The 68000 Microprocessor; 1st Ed; Phillip Robinson; Tab Books; 244 pages; 1985; ISBN 978-0830608867. (archive)
+Pocket Guide Assembly Language for the 68000 Series; 1st Ed; Robert Erskine; Pitman Publishing; 70 pages; 1984; ISBN 978-0273021520. (archive)
+68000 Machine Code Programming (68000, 68008, 68010, & 68020 Processors); 1st Ed; David Barrow; Collins Professional and Technical Books; 234 pages; 1985; ISBN 0-00-383163-9.
+Images
+Motorola M68000 die schematics
+External links[edit]
+
+
+
+Wikibooks has a book on the topic of: 68000 Assembly
+
+comp.sys.m68k FAQ
+Descriptions of assembler instructions
+68000 images and descriptions at cpu-collection.de
+EASy68K, an open-source 68k assembler for Windows
+the 68k and m88k resource – with information on Motorola's VME based 68k boards
+vteMotorola-Freescale-NXP processors and microcontrollersProcessorsIndustrial control unit
+14500
+6800 family
+6800
+6809
+see also: Hitachi 6309
+68HC05
+68HC08
+68HC11
+68HC12
+68HC16
+68000 family
+68000
+68008
+68010
+68012
+68020
+68030
+68040
+68060
+ColdFire
+DragonBall
+Embedded system 68k-variants
+68EC000
+68EC020
+68EC030
+68EC040
+68LC040
+68EC060
+68LC060
+88000
+MC88100
+MC88110
+Floating-point coprocessors (FPUs)
+68881
+68882
+Memory management units (MMU)
+68451
+68851
+PowerPC family
+PPC e200
+PPC 6xx/e300
+PPC 7xx
+PPC e500
+PPC 74xx/e600
+PPC e5500
+PowerQUICC
+QorIQ
+PPC e6500
+ARM
+i.MX
+Microcontrollers8-bit
+6801/6803
+6802
+6804
+68HC05
+68HC08
+S08
+RS08
+68HC11
+68HC12
+68HC16
+16/32-bit
+683xx
+24-bit
+DSP568xx
+DSPcontroller
+32-bit
+M·CORE
+MPC5xx
+PowerQUICC
+PowerPC 5000
+i.MX
+
+Authority control databases: National United StatesFranceBnF dataSpainIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Motorola_68000&oldid=1287812930"
+Categories: 68k microprocessorsComputer-related introductions in 1979Products and services discontinued in 199632-bit microprocessorsHidden categories: CS1: unfit URLWebarchive template wayback linksArticles with short descriptionShort description matches WikidataUse mdy dates from July 2022All articles with unsourced statementsArticles with unsourced statements from November 2020
+
+
+
+
+
+
+ This page was last edited on 28 April 2025, at 16:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Motorola 68000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

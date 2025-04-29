@@ -1,0 +1,130 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_dropdown_bar_block
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+
+
+Navigation Bar with Dropdown
+  Tip: If you want a dropdown symbol next to the dropdown text, add a suitable icon:
+  
+
+  Home
+  Link 1
+  Link 2
+  
+    Dropdown 
+      
+    
+    
+      Link 1
+      Link 2
+      Link 3
+    
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

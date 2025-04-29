@@ -1,0 +1,1297 @@
+https://en.wikipedia.org/wiki/PDP-11
+
+
+
+
+PDP-11 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Previous machines
+
+
+
+
+
+
+
+
+1.2
+Release
+
+
+
+
+
+
+
+
+
+
+2
+Innovative features
+
+
+
+
+Toggle Innovative features subsection
+
+
+
+
+
+2.1
+Instruction set orthogonality
+
+
+
+
+
+
+
+
+2.2
+No dedicated I/O instructions
+
+
+
+
+
+
+
+
+2.3
+Interrupts
+
+
+
+
+
+
+
+
+2.4
+Designed for mass production
+
+
+
+
+
+
+
+
+
+
+3
+LSI-11
+
+
+
+
+
+
+
+
+4
+Decline
+
+
+
+
+
+
+
+
+5
+Models
+
+
+
+
+Toggle Models subsection
+
+
+
+
+
+5.1
+Unibus models
+
+
+
+
+
+
+
+
+5.2
+Q-bus models
+
+
+
+
+
+
+
+
+5.3
+Models without standard bus
+
+
+
+
+
+
+
+
+5.4
+Models that were planned but never introduced
+
+
+
+
+
+
+
+
+5.5
+Special-purpose versions
+
+
+
+
+
+
+
+
+5.6
+Unlicensed clones
+
+
+
+
+
+
+
+
+
+
+6
+Operating systems
+
+
+
+
+Toggle Operating systems subsection
+
+
+
+
+
+6.1
+From Digital
+
+
+
+
+
+
+
+
+6.2
+From third parties
+
+
+
+
+
+
+
+
+
+
+7
+Communications
+
+
+
+
+
+
+
+
+8
+Peripherals
+
+
+
+
+
+
+
+
+9
+Use
+
+
+
+
+
+
+
+
+10
+Emulators
+
+
+
+
+Toggle Emulators subsection
+
+
+
+
+
+10.1
+Ersatz-11
+
+
+
+
+
+
+
+
+10.2
+SIMH
+
+
+
+
+
+
+
+
+
+
+11
+See also
+
+
+
+
+
+
+
+
+12
+Notes
+
+
+
+
+Toggle Notes subsection
+
+
+
+
+
+12.1
+Explanatory citations
+
+
+
+
+
+
+
+
+12.2
+Citations
+
+
+
+
+
+
+
+
+
+
+13
+References
+
+
+
+
+
+
+
+
+14
+Further reading
+
+
+
+
+
+
+
+
+15
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+PDP-11
+
+
+
+21 languages
+
+
+
+
+БългарскиCatalàČeštinaDeutschEspañolFrançais한국어ItalianoMagyarമലയാളംNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenskaTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Series of 16-bit minicomputers
+This article is about the PDP–11 series of minicomputers. For the PDP–11 processor architecture, see PDP-11 architecture.
+PDP–11A PDP–11/40 CPU is at the bottom, with a TU56 dual DECtape drive installed above it.DeveloperDigital Equipment CorporationProduct familyProgrammed Data ProcessorTypeMinicomputerRelease date1970; 55 years ago (1970)Lifespan1970–1997Discontinued1997; 28 years ago (1997)Units soldaround 600,000Operating systemBATCH-11/DOS-11, DSM-11, IAS, P/OS, RSTS/E, RSX-11, RT-11, Ultrix-11, Seventh Edition Unix, SVR1, 2BSDPlatformDEC 16-bitSuccessorVAX-11
+The PDP–11 is a series of 16-bit minicomputers originally sold by Digital Equipment Corporation (DEC) from 1970 into the late 1990s, one of a set of products in the Programmed Data Processor (PDP) series. In total, around 600,000 PDP-11s of all models were sold, making it one of DEC's most successful product lines. The PDP-11 is considered by some experts to be the most popular minicomputer.[1][2]
+The PDP–11 included a number of innovative features in its instruction set and additional general-purpose registers that made it easier to program than earlier models in the PDP series. Further, the innovative Unibus system allowed external devices to be more easily interfaced to the system using direct memory access, opening the system to a wide variety of peripherals. The PDP–11 replaced the PDP–8 in many real-time computing applications, although both product lines lived in parallel for more than 10 years. The ease of programming of the PDP–11 made it popular for general-purpose computing.
+The design of the PDP–11 inspired the design of late-1970s microprocessors including the Intel x86[1] and the Motorola 68000. The design features of PDP–11 operating systems, and other operating systems from Digital Equipment, influenced the design of operating systems such as CP/M and hence also MS-DOS. The first officially named version of Unix ran on the PDP–11/20 in 1970. It is commonly stated that the C programming language took advantage of several low-level PDP–11–dependent programming features,[3] albeit not originally by design.[4]
+An effort to expand the PDP–11 from 16- to 32-bit addressing led to the VAX-11 design, which took part of its name from the PDP–11.
+
+
+History[edit]
+Previous machines[edit]
+In 1963, DEC introduced what is considered to be the first commercial minicomputer in the form of the PDP–5. This was a 12-bit design adapted from the 1962 LINC machine that was intended to be used in a lab setting. DEC slightly simplified the LINC system and instruction set, aiming the PDP-5 at smaller settings that did not need the power of their larger 18-bit PDP-4. The PDP-5 was a success, ultimately selling about 1,000 machines. This led to the PDP–8, a further cost-reduced 12-bit model that sold about 50,000 units.
+During this period, the computer market was moving from computer word lengths based on units of 6 bits to units of 8 bits, following the introduction of the 7-bit ASCII standard. In 1967–1968, DEC engineers designed a 16-bit machine, the PDP–X,[5] but management ultimately canceled the project as it did not appear to offer a significant advantage over their existing 12- and 18-bit platforms.
+This prompted several of the engineers from the PDP-X program to leave DEC and form Data General. The next year they introduced the 16-bit Data General Nova.[6] The Nova sold tens of thousands of units and launched what would become one of DEC's major competitors through the 1970s and 1980s.
+
+Release[edit]
+Ken Olsen, president and founder of DEC, was more interested in a small 8-bit machine than the larger 16-bit system. This became the "Desk Calculator" project. Not long after, Datamation published a note about a desk calculator being developed at DEC, which caused concern at Wang Laboratories, who were heavily invested in that market. Before long, it became clear that the entire market was moving to 16-bit, and the Desk Calculator began a 16-bit design as well.[7]
+The team decided that the best approach to a new architecture would be to minimize the memory bandwidth needed to execute the instructions. Larry McGowan coded a series of assembly language programs using the instruction sets of various existing platforms and examined how much memory would be exchanged to execute them. Harold McFarland joined the effort and had already written a very complex instruction set that the team rejected, but a second one was simpler and would ultimately form the basis for the PDP–11.[7]
+When they first presented the new architecture, the managers were dismayed. It lacked single instruction-word immediate data and short addresses, both of which were considered essential to improving memory performance. McGowan and McFarland were eventually able to convince them that the system would work as expected, and suddenly "the Desk Calculator project got hot".[7] Much of the system was developed using a PDP-10 where the SIM-11 simulated what would become the PDP–11/20 and Bob Bowers wrote an assembler for it.[7]
+At a late stage, the marketing team wanted to ship the system with 2K of memory[a] as the minimal configuration. When McGowan stated this would mean an assembler could not run on the system, the minimum was expanded to 4K. The marketing team also wanted to use the forward slash character for comments in the assembler code, as was the case in the PDP–8 assembler. McGowan stated that he would then have to use semicolon to indicate division, and the idea was dropped.[7]
+The PDP–11 family was announced in January 1970 and shipments began early that year. DEC sold over 170,000 PDP–11s in the 1970s.[8]
+Initially manufactured of small-scale transistor–transistor logic, a single-board large-scale integration version of the processor was developed in 1975. A two- or three-chip processor, the J-11 was developed in 1979.
+The last models of the PDP–11 line were the single board PDP–11/94 and PDP–11/93 introduced in 1990.[9]
+
+Innovative features[edit]
+Instruction set orthogonality[edit]
+See also: PDP-11 architecture
+The PDP–11 processor architecture has a mostly orthogonal instruction set. For example, instead of instructions such as load and store, the PDP–11 has a move instruction for which either operand (source and destination) can be memory or register. There are no specific input or output instructions; the PDP–11 uses memory-mapped I/O and so the same move instruction is used; orthogonality even enables moving data directly from an input device to an output device. More complex instructions such as add likewise can have memory, register, input, or output as source or destination.
+Most operands can apply any of eight addressing modes to eight registers. The addressing modes provide register, immediate, absolute, relative, deferred (indirect), and indexed addressing, and can specify autoincrementation and autodecrementation of a register by one (byte instructions) or two (word instructions). Use of relative addressing lets a machine-language program be position-independent.
+
+No dedicated I/O instructions[edit]
+Early models of the PDP–11 had no dedicated bus for input/output, but only a system bus called the Unibus, as input and output devices were mapped to memory addresses.
+An input/output device determined the memory addresses to which it would respond, and specified its own interrupt vector and interrupt priority. This flexible framework provided by the processor architecture made it unusually easy to invent new bus devices, including devices to control hardware that had not been contemplated when the processor was originally designed. DEC openly published the basic Unibus specifications, even offering prototyping bus interface circuit boards, and encouraging customers to develop their own Unibus-compatible hardware.
+
+A PDP–11/70 system that included two nine-track tape drives, two disk drives, a high speed line printer, a DECwriter dot-matrix keyboard printing terminal and a cathode ray tube terminal installed in a climate-controlled machine room
+The Unibus made the PDP–11 suitable for custom peripherals. One of the predecessors of Alcatel-Lucent, the Bell Telephone Manufacturing Company, developed the BTMC DPS-1500 packet-switching (X.25) network and used PDP–11s in the regional and national network management system, with the Unibus directly connected to the DPS-1500 hardware.
+Higher-performance members of the PDP–11 family departed from the single-bus approach. The PDP–11/45 had a dedicated data path within the CPU, connecting semiconductor memory to the processor, with core memory and I/O devices connected via the Unibus.[10] In the PDP–11/70, this was taken a step further, with the addition of a dedicated interface between disks and tapes and memory, via the Massbus. Although input/output devices continued to be mapped into memory addresses, some additional programming was necessary to set up the added bus interfaces.
+
+Interrupts[edit]
+Further information: PDP-11 architecture § Interrupts
+The PDP–11 supports hardware interrupts at four priority levels. Interrupts are serviced by software service routines, which could specify whether they themselves could be interrupted (achieving interrupt nesting). The event that causes the interrupt is indicated by the device itself, as it informs the processor of the address of its own interrupt vector.
+Interrupt vectors are blocks of two 16-bit words in low kernel address space (which normally corresponded to low physical memory) between 0 and 776. The first word of the interrupt vector contains the address of the interrupt service routine and the second word the value to be loaded into the PSW (priority level) on entry to the service routine.
+
+Designed for mass production[edit]
+The PDP–11 was designed for ease of manufacture by semiskilled labor. The dimensions of its pieces were relatively non-critical. It used a wire-wrapped backplane.
+
+LSI-11[edit]
+PDP–11/03 (top right)
+The LSI–11 (PDP–11/03), introduced in February 1975[9] is the first PDP–11 model produced using large-scale integration; the entire CPU is contained on four LSI chips made by Western Digital (the MCP-1600 chip set; a fifth chip can be added to extend the instruction set). It uses a bus which is a close variant of the Unibus called the LSI Bus or Q-Bus; it differs from the Unibus primarily in that addresses and data are multiplexed onto a shared set of wires rather than having separate sets of wires. It also differs slightly in how it addresses I/O devices and it eventually allowed a 22-bit physical address (whereas the Unibus only allows an 18-bit physical address) and block-mode operations for significantly improved bandwidth (which the Unibus does not support).
+The CPU microcode includes a debugger: firmware with a direct serial interface (RS-232 or current loop) to a terminal. This lets the operator do debugging by typing commands and reading octal numbers, rather than operating switches and reading lights, the typical debugging method at the time. The operator can thus examine and modify the computer's registers, memory, and input/output devices, diagnosing and perhaps correcting failures in software and peripherals (unless a failure disables the microcode itself). The operator can also specify which disk to boot from. Both innovations increased the reliability and decreased the cost of the LSI-11.
+A Writable Control Store (WCS) option (KUV11-AA) could be added to the LSI-11. This option allowed programming of the internal 8-bit micromachine to create application-specific extensions to the PDP–11 instruction set. The WCS is a quad Q-Bus board with a ribbon cable connecting to the third microcode ROM socket. The source code for EIS/FIS microcode was included so these instructions, normally located in the third MICROM, could be loaded in the WCS, if desired.[11]
+Later Q-Bus based systems such as the LSI–11/23, /73, and /83 are based upon chip sets designed in house by Digital Equipment Corporation. Later PDP–11 Unibus systems were designed to use similar Q-Bus processor cards, using a Unibus adapter to support existing Unibus peripherals, sometimes with a special memory bus for improved speed.
+There were other significant innovations in the Q-Bus lineup. For example, a system variant of the PDP–11/03 introduced full system power-on self-test (POST).
+
+
+
+
+Q-Bus board with LSI-11/2 CPU
+
+
+
+DEC "Fonz-11" (F11) Chipset
+
+
+
+DEC "Jaws-11" (J11) Chipset
+
+
+Decline[edit]
+The basic design of the PDP–11 was flexible, and was continually updated to use newer technologies. However, the limited throughput of the Unibus and Q-Bus started to become a system-performance bottleneck, and the 16-bit logical address limitation hampered the development of larger software applications. The article on PDP–11 architecture describes the hardware and software techniques used to work around address-space limitations.
+DEC's 32-bit successor to the PDP–11, the VAX–11 (for "Virtual Address eXtension") overcame the 16-bit limitation, but was initially a superminicomputer aimed at the high-end time-sharing market. The early VAX CPUs provided a PDP–11 compatibility mode under which much existing software could be immediately used, in parallel with newer 32-bit software, but this capability was dropped with the first MicroVAX.
+For a decade, the PDP–11 was the smallest system that could run Unix,[12] but in the 1980s, the IBM PC and its clones largely took over the small computer market; BYTE in 1984 reported that the PC's Intel 8088 microprocessor could outperform the PDP–11/23 when running Unix.[13] Newer microprocessors such as the Motorola 68000 (1979) and Intel 80386 (1985) also included 32-bit logical addressing. The 68000 in particular facilitated the emergence of a market of increasingly powerful scientific and technical workstations that would often run Unix variants. These included the HP 9000 series 200 (starting with the HP 9826A in 1981) and 300/400, with the HP-UX system being ported to the 68000 in 1984; Sun Microsystems workstations running SunOS, starting with the Sun-1 in 1982; Apollo/Domain workstations starting with the DN100 in 1981 running Domain/OS, which was proprietary but offered a degree of Unix compatibility; and the Silicon Graphics IRIS range, which developed into Unix-based workstations by 1985 (IRIS 2000).
+Personal computers based on the 68000 such as the Apple Lisa and Macintosh, the Atari ST, and the Commodore Amiga arguably constituted less of a threat to DEC's business, although technically these systems could also run Unix derivatives. In the early years, in particular, Microsoft's Xenix was ported to systems like the TRS-80 Model 16 (with up to 1 MB of memory) in 1983, and to the Apple Lisa, with up to 2 MB of installed RAM, in 1984. The mass-production of those chips eliminated any cost advantage for the 16-bit PDP–11. A line of personal computers based on the PDP–11, the DEC Professional series, failed commercially, along with other non-PDP–11 PC offerings from DEC.
+In 1994, DEC[14] sold the PDP–11 system-software rights to Mentec Inc., an Irish producer of LSI-11 based boards for Q-Bus and ISA architecture personal computers, and in 1997 discontinued PDP–11 production. For several years, Mentec produced new PDP–11 processors. Other companies found a niche market for replacements for legacy PDP–11 processors, disk subsystems, etc. At the same time, free implementations of Unix for the PC based on BSD or Linux became available.
+By the late 1990s, not only DEC but most of the New England computer industry which had been built around minicomputers similar to the PDP–11 collapsed in the face of microcomputer-based workstations and servers.
+
+Models[edit]
+The PDP–11 processors tend to fall into several natural groups depending on the original design upon which they are based and which I/O bus they use. Within each group, most models were offered in two versions, one intended for OEMs and one intended for end-users. Although all models share the same instruction set, later models added new instructions and interpreted certain instructions slightly differently. As the architecture evolved, there were also variations in handling of some processor status and control registers.
+
+Unibus models[edit]
+Original PDP–11/20 front panel
+Original PDP–11/70 front panel
+Later PDP–11/70 with disks and tape
+The following models use the Unibus as their principal bus:
+
+PDP–11/20 and PDP–11/15 – 1970.[15] The 11/20 sold for $11,800.[16] The original, non-microprogrammed processor was designed by Jim O'Loughlin. Floating point is supported by peripheral options using various data formats. The 11/20 lacks any kind of memory protection hardware unless retrofitted with a KS-11 memory mapping add-on.[17] There was also a very stripped-down 11/20 at first called the 11/10,[citation needed] but this number was later re-used for a different model.
+PDP–11/45 (1972),[15] PDP–11/50 (1973),[18] and PDP–11/55 (1976)[15] – A much faster microprogrammed processor that can use up to 256 KB of semiconductor memory instead of or in addition to core memory and support memory mapping and protection.[17] It was the first model to support an optional FP11 floating-point coprocessor, which established the format used in later models.
+PDP–11/35 and PDP–11/40 – 1973.[15] Microprogrammed successors to the PDP–11/20; the design team was led by Jim O'Loughlin.
+PDP–11/05 and PDP–11/10 – 1972.[15] A cost-reduced successor to the PDP–11/20. DEC Datasystem 350 models from 1975 include the PDP–11/10.[19]
+PDP–11/70 – 1975.[15] The 11/45 architecture expanded to allow 4 MB of physical memory segregated onto a private memory bus, 2 KB of cache memory, and much faster I/O devices connected via the Massbus.
+PDP–11/34 (1976[15]) and PDP–11/04 (1975[15]) – Cost-reduced follow-on products to the 11/35 and 11/05; the PDP–11/34 concept was created by Bob Armstrong. The 11/34 supports up to 256 kB of Unibus memory. The PDP–11/34a (1978)[15] supports a fast floating-point option, and the 11/34c (same year) supported a cache memory option.
+PDP–11/60 – 1977.[15] A PDP–11 with user-writable microcontrol store; this was designed by another team led by Jim O'Loughlin.
+PDP–11/44 – 1979.[15] A replacement for the 11/45 and 11/70, introduced in 1980, that supports optional (though apparently always included) cache memory, optional FP-11 floating-point processor (one circuit board, using sixteen AMD Am2901 bit slice processors), and optional commercial instruction set (CIS, two boards). It includes a sophisticated serial console interface and support for 4 MB of physical memory. The design team was managed by John Sofio. This was the last PDP–11 processor to be constructed using discrete logic gates; later models were all microprocessor-based. It was also the last PDP–11 system architecture created by Digital Equipment Corporation, later models were VLSI chip realizations of the existing system architectures.
+PDP–11/24 – 1979.[15] First VLSI PDP–11 for Unibus, using the "Fonz-11" (F11) chip set with a Unibus adapter.
+PDP–11/84 – 1985–1986.[15] Using the VLSI "Jaws-11" (J11) chip set with a Unibus adapter.
+PDP–11/94 – 1990.[15] J11-based, faster than 11/84.
+Q-bus models[edit]
+A PDP–11/03 with cover removed to show the CPU board, with memory board beneath (Two of the CPU chipset's four 40-pin packages have been removed, and the optional FPU is also missing.)
+The following models use the Q-Bus as their principal bus:
+
+PDP–11/03 (also known as the LSI-11/03) – The first PDP–11 implemented with large-scale integration ICs, this system uses a four-package MCP-1600 chipset from Western Digital and supports 60 KB of memory.
+PDP-11/23 – Second generation of LSI (F-11). Early units supported only 248 KB of memory.
+PDP–11/23+/MicroPDP–11/23 – Improved 11/23 with more functions on the (larger) processor card. By mid-1982, the 11/23+ supported 4 MB of memory.[20]
+MicroPDP–11/73 – The third generation LSI-11, this system uses the faster "Jaws-11" (J-11) chip set and supports up to 4 MB of memory.
+MicroPDP–11/53 – Slower 11/73 with on-board memory.
+MicroPDP–11/83 – Faster 11/73 with PMI (private memory interconnect).
+MicroPDP–11/93 – Faster 11/83; final DEC Q-Bus PDP–11 model.
+KXJ11 – Q-Bus card (M7616) with PDP–11 based peripheral processor and DMA controller. Based on a J11 CPU equipped with 512 KB of RAM, 64 KB of ROM, and parallel and serial interfaces.
+Mentec M100 – Mentec redesign of the 11/93, with J-11 chipset at 19.66 MHz, four on-board serial ports, 1-4 MB of on-board memory, and optional FPU.
+Mentec M11 – Processor upgrade board; microcode implementation of PDP–11 instruction set by Mentec, using the TI 8832 ALU and TI 8818 microsequencer from Texas Instruments.
+Mentec M1 – Processor upgrade board; microcode implementation of PDP–11 instruction set by Mentec, using Atmel 0.35 μm ASIC.[21]
+Quickware QED-993 – High performance PDP–11/93 processor upgrade board.
+DECserver 500 and 550 LAT terminal servers DSRVS-BA using the KDJ11-SB chipset
+The PDT-11/150 smart terminal system had two 8-inch floppy disc drives.
+Models without standard bus[edit]
+PDT-11/110
+PDT-11/130
+PDT-11/150
+The PDT series were desktop systems marketed as "smart terminals". The /110 and /130 were housed in a VT100 terminal enclosure. The /150 was housed in a table-top unit which included two 8-inch floppy drives, three asynchronous serial ports, one printer port, one modem port and one synchronous serial port and required an external terminal. All three employed the same chipset as used on the LSI-11/03 and LSI-11/2 in four "microm"s. There is an option which combines two of the microms into one dual carrier, freeing one socket for an EIS/FIS chip. The /150 in combination with a VT105 terminal was also sold as MiniMINC, a budget version of the MINC-11.
+
+VT100 terminal
+PRO-325
+PRO-350
+PRO-380
+The DEC Professional series are desktop PCs intended to compete with IBM's earlier 8088 and 80286 based personal computers. The models are equipped with 51⁄4 inch floppy disk drives and hard disks, except the 325 which has no hard disk. The original operating system was P/OS, which was essentially RSX-11M+ with a menu system on top. As the design was intended to avoid software exchange with existing PDP–11 models, the poor market response was unsurprising. The RT-11 operating system was eventually ported to the PRO series. A port of the RSTS/E operating system to the PRO series was also done internal to DEC, but it was not released. The PRO-325 and -350 units are based on the DCF-11 ("Fonz") chipset, the same as found in the 11/23, 11/23+ and 11/24. The PRO-380 is based on the DCJ-11 ("Jaws") chipset, the same as found in the 11/53,73,83 and others, though running only at 10 MHz because of limitations in the support chipset.
+
+Models that were planned but never introduced[edit]
+PDP–11/74 – A PDP–11/70 that was extended to contain multiprocessing features. Up to four processors could be interconnected, although the physical cable management became unwieldy. Another variation on the 11/74 contained both the multiprocessing features and the Commercial Instruction Set. A substantial number of prototype 11/74s (of various types) were built and at least two multiprocessor systems were sent to customers for beta testing, but no systems were ever officially sold. A four processor system was maintained by the RSX-11 operating system development team for testing and a uniprocessor system served PDP–11 engineering for general purpose timesharing. The 11/74 was due to be introduced around the same time as the announcement of the new 32-bit product line and the first model: the VAX 11/780. The 11/74 was cancelled because of concern for its field maintainability,[22] though employees believed the real reason was that it outperformed the 11/780[23] and would inhibit its sales. In any case, DEC never entirely migrated its PDP–11 customer base to the VAX. The primary reason was not performance, but the PDP–11's superior real-time responsiveness.[citation needed]
+PDP–11/27 – A Jaws-11 implementation that would have used the VAXBI Bus as its principal I/O bus.
+PDP–11/68 – A follow-on to the PDP–11/60 that would have supported 4 MB of physical memory.
+DEC GT40 running Moonlander
+Special-purpose versions[edit]
+GT40 – VT11 vector graphics terminal using a PDP–11/10.[24]
+GT42 – VT11 vector graphics terminal using a PDP–11/10.[24]
+GT44 – VT11 vector graphics terminal using a PDP–11/40.
+GT62 – VS60 vector graphics workstation using a PDP–11/34a and VT48 graphics processor.
+H11 – Heathkit OEM version of the LSI-11/03.
+VT20 – Terminal with PDP–11/05 with direct mapped character display for text editing and typesetting (predecessor of the VT71).
+PDP–11/34 front panel which was a replacement for toggle switches in earlier PDP–11 computersVT71 – Terminal with LSI-11/03 and Q-Bus backplane with direct mapped character display for text editing and typesetting.
+VT103 – VT100 with backplane to host an LSI-11.
+VT173 – A high-end editing terminal containing an 11/03, which loaded its editing software over a serial connection to a host minicomputer. Used in various publishing environments, it was also offered with DECset, Digital's VAX/VMS 3.x native mode OEM version of the Datalogics Pager automated batch composition engine. When VT173 inventory was exhausted in 1985, Digital discontinued DECset and transferred its customer agreements to Datalogics. (HP now uses the name HP DECset for a software development toolset product.)MINC-23 laboratory computer
+
+
+MINC-11 – Laboratory system based on 11/03 or 11/23;[25] when based on the 11/23, it was sold as a 'MINC-23', but many MINC-11 machines were field-upgraded with the 11/23 processor. Early versions of the MINC-specific software package would not run on the 11/23 processor because of subtle changes in the instruction set; MINC 1.2 is documented as compatible with the later processor.
+C.mmp – Multiprocessor system from Carnegie Mellon University.
+This Unimation robot arm controller used DEC LSI-11 series hardware.
+The Unimation robot arm controllers used Q-Bus LSI-11/73 systems with a DEC M8192 / KDJ11-A processor board and two DEC DLV11-J (M8043) async serial interface boards.
+SBC 11/21 (boardname KXT11) Falcon and Falcon Plus – single board computer on a Q-Bus card implementing the basic PDP–11 instruction set, based on T11 chipset containing 32 KB static RAM, two ROM sockets, three serial lines, 20 bit parallel I/O, three interval timers and a two-channel DMA controller. Up to 14 Falcons could be placed into one Q-Bus system.
+KXJ11 Q-Bus card (M7616) with PDP–11 based peripheral processor and DMA controller. Based on a J11 CPU equipped with 512 KB RAM, 64 KB ROM and parallel and serial interfaces.
+HSC high end CI disk controllers used backplane mounted J11 and F11 processor cards to run the CHRONIC operating system.[26]
+VAX Console – The DEC Professional Series PC-38N with a real-time interface (RTI) was used as the console for the VAX 8500 and 8550. The RTI has two serial line units: one connects to the VAX environmental monitoring module (EMM) and the other is a spare that could be used for data transfer. The RTI also has a programmable peripheral interface (PPI) consisting of three 8-bit ports for transferring data, address, and control signals between console and the VAX console interface.[27]
+T-11 is a microprocessor that implements the PDP-11 instruction set architecture. It was developed for embedded systems and was the first single-chip microprocessor developed by DEC. It was sold on the open market.[28]
+Unlicensed clones[edit]
+The PDP–11 was sufficiently popular that many unlicensed PDP–11-compatible minicomputers and microcomputers were produced in Eastern Bloc countries. Some were pin-compatible with the PDP–11 and could use its peripherals and system software. These include:
+
+SM-4, SM-1420, SM-1600, Electronika 100-25, Electronika BK series, Electronika 60, Electronika 85, DVK, UKNC, and some models of the SM EVM series (in the Soviet Union).
+SM-4, SM-1420, IZOT-1016 and peripherals (in Bulgaria).
+MERA-60 in Poland.
+SM-1620, SM-1630 (in East Germany).
+SM-4, TPA-1140,[29] TPA-1148,[30] TPA-11/440[31] (in Hungary).
+SM-4/20, SM 52-11, JPR-12R (in Czechoslovakia).
+CalData – Made in US, ran all DEC OSes.[32] The CalData hardware was sufficiently DEC-compatible that CalData memory boards could be used in DEC PDP–11 systems.
+CORAL series (made at ICE Felix in Bucharest) and the INDEPENDENT series (made at ITC Timișoara)[33] running the RSX-11M operating system (in Romania). The CORAL series had several models: the CORAL 4001 was roughly equivalent to the PDP–11/04, the CORAL 4011 was a PDP 11/34 clone, while the CORAL 4030 was a PDP–11/44 clone.[34] These were used in state-owned companies and in public universities, originally operated with punched cards, later through video terminals like the Romanian DAF-2020, to teach FORTRAN and Pascal, until replaced by IBM PC compatibles, starting in 1991.
+Systime Computers models 1000, 3000, 5000 – OEM agreement for sales in the UK and Western Europe, but disputes originated over both intellectual property infringement and indirect sales to the Eastern Bloc.[35][36]
+Operating systems[edit]
+Several operating systems were available for the PDP–11.
+
+From Digital[edit]
+
+Commercial Operating System
+BATCH-11/DOS-11
+CAPS-11 (Cassette Programming System)[37]
+CHRONIC Hierarchical Storage Controller executive[26]
+GAMMA-11[38]
+DSM-11
+IAS
+P/OS
+RSTS/E
+RSX-11
+RT-11
+TRAX (Transaction Processing system)[38][39]
+Ultrix-11
+OS/45 was a proposed operating system for the PDP-11/45 capable of batch processing, real time and timesharing.[40] It was cancelled during development as its requirements led to a system which was too large for the intended hardware.[41]
+
+From third parties[edit]
+
+ANDOS
+CSI-DOS
+DEIMOS (University of Edinburgh)
+DEMOS (Soviet Union)
+Duress (University of Illinois at Urbana–Champaign/Datalogics)[38]
+LOS/C, a small unitasking system written by BRL for the BRL routers and the I/O controller for the Denelcor HEP
+MERT[38]
+Micropower Pascal[38]
+MK-DOS
+MONECS
+MTS (Multi-Tasking System written in RTL/2 by SPL)[38]
+MUMPS
+MUSS-11
+PC11 (Decus 11-501/Pilkington)[38]
+polyForth, Forth Inc.'s Forth for the PDP-11
+ROSTTP (Realtime Operating System for Terminal Teletype Processing/Simpact)[citation needed]
+SHAREeleven, SHAREplus
+Solo by Per Brinch Hansen[42]
+Sphere (Infosphere – Portland Oregon 1981–87)[38]
+Softech Microsystems UCSD System with UCSD Pascal[38]
+TRIPOS
+TSX-Plus
+Unix[43][12] (many versions, including Version 6 Unix, Version 7 Unix, UNIX System III, and 2BSD)
+Xinu OS for instructional purposes
+Venix (implementation/port of Unix developed by VenturCom)[38][13]
+
+Communications[edit]
+The DECSA communications server was a communications platform developed by DEC based on a PDP–11/24, with the provision for user installable I/O cards including asynchronous and synchronous modules.[44] This product was used as one of the earliest commercial platforms upon which networking products could be built, including X.25 gateways, SNA gateways, routers, and terminal servers.
+Ethernet adaptors, such as the DEQNA Q-Bus card, were also available.
+Many of the earliest systems on the ARPANET were PDP–11's
+
+Peripherals[edit]
+The DEC TU10 9-track tape drive was also offered on other DEC computer series.
+A wide range of peripherals were available; some of them were also used in other DEC systems like the PDP–8 or PDP–10.
+The following are some of the more common PDP–11 peripherals.
+
+CR11 – punched card reader
+DL11 – single serial line for either RS-232 or current loop
+LA30/LA36 – DECwriter dot-matrix printing keyboard terminal
+LP11 – high speed line printer
+PC11 – high speed papertape reader/punch
+RA, RD series – fixed platter hard disk
+RK series – hard disk with exchangeable platter
+RL01/RL02 – hard disk with exchangeable platter
+RM, RP series – exchangeable multi-platter hard disk
+RX01/RX02 – 8-inch floppy disk
+RX50/RX33 – 5.25-inch floppy disk
+TU10 – 9-track tape drive
+TU56 – DECtape block-addressed tape system
+VT05/VT50/VT52/VT100/VT220 – video display terminal
+Use[edit]
+The PDP–11 family of computers was used for many purposes. It was used as a standard minicomputer for general-purpose computing, such as timesharing, scientific, educational, medical, government or business computing. Another common application was real-time process control and factory automation.
+Some OEM models were also frequently used as embedded systems to control complex systems like traffic-light systems, medical systems, numerical controlled machining, or for network management. An example of such use of PDP–11s was the management of the packet switched network Datanet 1. In the 1980s, the UK's air traffic control radar processing was conducted on a PDP 11/34 system known as PRDS – Processed Radar Display System at RAF West Drayton.[citation needed] The software for the Therac-25 medical linear particle accelerator also ran on a 32K PDP 11/23.[45]
+Another use was for storage of test programs for Teradyne ATE equipment, in a system known as the TSD (Test System Director). As such, they were in use until their software was rendered inoperable by the Year 2000 problem. The US Navy used a PDP–11/34 to control its Multi-station Spatial Disorientation Device, a simulator used in pilot training, until 2007, when it was replaced by a PC-based emulator that could run the original PDP–11 software and interface with custom Unibus controller cards.[46]
+A PDP–11/45 was used for the experiment that discovered the J/ψ meson at the Brookhaven National Laboratory.[47] In 1976, Samuel C. C. Ting received the Nobel Prize for this discovery. Another PDP–11/45 was used to create the Death Star plans during the briefing sequence in Star Wars.[citation needed]
+
+Emulators[edit]
+PiDP-11, a 6:10-scale PDP-11/70 console replica with a Raspberry Pi running SIMH
+Ersatz-11[edit]
+Ersatz-11, a product of D Bit,[48] emulates the PDP–11 instruction set running under DOS, OS/2, Windows, Linux or bare metal (no OS). It can be used to run RSTS or other PDP–11 operating systems.
+
+SIMH[edit]
+SIMH is an emulator that compiles and runs on a number of platforms (including Linux) and supports hardware emulation for the DEC PDP–1, PDP–8, PDP–10, PDP–11, VAX, AltairZ80, several machines from IBM, and other minicomputers.
+
+See also[edit]
+Heathkit H11, a 1977 Heathkit personal computer based on the PDP–11
+MACRO-11, the PDP–11's native assembly language
+PL-11, a high-level assembler for the PDP–11 written at CERN
+H8 Family, a family of microcontrollers with an instruction set inspired by the PDP-11
+Notes[edit]
+Explanatory citations[edit]
+
+
+^ It is not clear in the document whether this is 2k bytes or 2k words – 4k in modern terms.
+
+
+Citations[edit]
+
+
+^ a b Supnik, Bob (August 31, 2004). "Simulators: Virtual Machines of the Past (and Future)". ACM Queue. 2 (5): 52–58. doi:10.1145/1016998.1017002. S2CID 20078751.
+
+^ Rose, Frank (1985). Into the Heart of the Mind: An American Quest for Artificial Intelligence. p. 37. ISBN 9780394741031. Archived from the original on 2024-07-01. Retrieved 2020-07-19.
+
+^ Bakyo, John. "Section Three: The Great Dark Cloud Falls: IBM's Choice". Great Microprocessors of the Past and Present (V 13.4.0). Part I: DEC PDP-11, benchmark for the first 16/32 bit generation. (1970). Archived from the original on 2023-04-30. Retrieved 2023-04-30.
+
+^ Ritchie, Dennis M. (April 1993). "The Development of the C Language". In Thomas J. Bergin, Jr.; Richard G. Gibson, Jr. (eds.). History of Programming Languages-II. Second History of Programming Languages conference. Cambridge, MA: ACM Press (New York) and Addison-Wesley (Reading, Mass). ISBN 0-201-89502-1. Archived from the original on 2015-06-11. Retrieved 2023-04-30.
+
+^ "PDP-X memoranda". bitsavers.org. Archived from the original on 2017-09-23. Retrieved 2017-07-13.
+
+^ "Oral History of Edson (Ed) D. de Castro" (PDF). Archived (PDF) from the original on 2016-03-05. Retrieved April 28, 2020.
+
+^ a b c d e McGowan, Larry (19 August 1998). "How the PDP-11 Was Born". Archived from the original on 2015-06-17. Retrieved 2015-01-22.
+
+^ Paul Cerruzi, A History of Modern Computing, MIT Press, 2003, ISBN 0-262-53203-4, page 199
+
+^ a b "16-bit Timeline". microsoft.com. Archived from the original on December 8, 2008. Retrieved November 8, 2016.
+
+^ PDP-11/45 Processor Handbook (PDF). Digital Equipment Corporation. 1973. p. 15. Archived (PDF) from the original on 2022-10-09. Retrieved 2022-10-20.
+
+^ LSI-11 WCS user's guide (PDF) (1st ed.). Digital Equipment Corporation. June 1978. Archived (PDF) from the original on 23 February 2023. Retrieved 7 January 2023.
+
+^ a b Fiedler, Ryan (October 1983). "The Unix Tutorial / Part 3: Unix in the Microcomputer Marketplace". BYTE. p. 132. Retrieved 30 January 2015.
+
+^ a b Hinnant, David F. (Aug 1984). "Benchmarking UNIX Systems". BYTE. pp. 132–135, 400–409. Retrieved 23 February 2016.
+
+^ "Press/Digital and Mentec Announce PDP-11 Software Agreement". Newsgroup: biz.digital.announce. June 29, 1994. Archived from the original on July 1, 2024. Retrieved September 25, 2020.
+
+^ a b c d e f g h i j k l m n "The PDP-11 FAQ". Village.org. 2000-04-18. Archived from the original on 2016-06-18. Retrieved 2014-04-14.
+
+^ "PDP-11 Price List (1969)" (PDF). Archived (PDF) from the original on 2024-07-01. Retrieved 2020-10-19.
+
+^ a b Ritchie, Dennis M. (22 June 2002). "Odd Comments and Strange Doings in Unix". Bell Labs. Archived from the original on 3 January 2016. Retrieved 18 October 2015.
+
+^ "When was the PDP-11/50 released?". Retrocomputing Stack Exchange. Archived from the original on 2024-07-01. Retrieved 2024-02-05.
+
+^ "Time-Sharing Uses Emphasized for DEC Datasystem 350 Series". Computerworld. IX (31): 19. July 30, 1975. Archived from the original on March 6, 2023. Retrieved November 4, 2022. All DEC Datasystem 350 models have PDP–11/10 CPUs
+
+^ "TSX-Plus: Time Share RT-11". Hardcopy. October 1982. p. 9.
+
+^ "Development Project Report" (PDF). Archived from the original (PDF) on 2016-04-12. Retrieved 2014-04-14.
+
+^ Bruce Mitchell; Brian S. McCarthy (2005). "Multiprocessor FAQ". Machine Intelligence. Retrieved August 20, 2019.[permanent dead link]
+
+^ Don North (February 7, 2006). "Original 11/74 front panel". cctech (Mailing list). Archived from the original on July 18, 2011. Retrieved March 15, 2007.
+
+^ a b "GT40/GT42 user's guide" (PDF). February 1975. p. 29. Archived (PDF) from the original on 2022-12-22. Retrieved 2022-12-22.
+
+^ "Digital MINC-11". Binary Dinosaurs. Retrieved 2014-04-14.
+
+^ a b HSC Controller Installation Manual (PDF). Digital Equipment Corporation. July 1991. p. 4-28. EK-HSCMN-IN-002. Archived (PDF) from the original on 2019-09-03. Retrieved 2017-05-29.
+
+^ VAX 8500/8550 System Hardware User's Guide. Digital Equipment Corporation. 1986. pp. 1–8.
+
+^ "T-11 Engineering Specification" (PDF). March 24, 1982. Archived (PDF) from the original on March 8, 2023. Retrieved May 15, 2023.
+
+^ "Múzeum - KFKI TPA 1140". hampage.hu. Archived from the original on 2023-04-06. Retrieved 2023-04-30.
+
+^ Ákos Varga. "TPA-1148". Hampage.hu. Archived from the original on 2015-07-12. Retrieved 2014-04-14.
+
+^ Ákos Varga. "TPA-11/440". Hampage.hu. Archived from the original on 2016-03-03. Retrieved 2014-04-14.
+
+^ "CalData_brochure" (PDF). Archived (PDF) from the original on 2012-09-12. Retrieved 2014-04-14.
+
+^ Ion Glodeanu (coord.), Oscar Hoffman, Doina Dragomirescu (2003). Actorii sociali ai promovării tehnologiilor, informaţiei şi comunicaţiilor (in Romanian). Editura Mica Valahie. p. 122. ISBN 978-973-85884-4-8. Retrieved 2014-04-14.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+
+^ "Archived copy". Archived from the original on 2014-02-23. Retrieved 2014-02-13.{{cite web}}:  CS1 maint: archived copy as title (link)
+
+^ "Systime sets 80386 S-series box, 100-user Unix System". Computergram International. Computer Business Review. 1 February 1987.
+
+^ Fagan, Mary (24 September 1987). "Who will tear the Silicon Curtain?". New Scientist. pp. 28–29.[permanent dead link]
+
+^ "CAPS-11 User's Guide" (PDF). Digital Equipment Corporation. 1973. Archived (PDF) from the original on 2021-08-24. Retrieved 2021-01-26.
+
+^ a b c d e f g h i j "The PDP-11 FAQ". Village.org. 2000-04-18. Archived from the original on 2015-03-21. Retrieved 2014-04-14.
+
+^ TRAX - The Complete On-Line Transaction Processing System (PDF). Digital Equipment Corporation. Archived (PDF) from the original on 2019-05-28. Retrieved 2019-10-21.
+
+^ Peter van Roekens (1971-10-20). "OS/45 Proposal Meeting" (PDF). Digital. Archived (PDF) from the original on 2024-07-01. Retrieved 2023-09-22.
+
+^ Cutler, Dave (February 25, 2016). "Dave Cutler Oral History". YouTube (Interview). Interviewed by Grant Saviers. Computer History Museum. Archived from the original on December 11, 2021. Retrieved 2023-09-22.
+
+^ Brinch Hansen, Per (1976), The Solo Operating System: A Concurrent Pascal Program (PDF), archived (PDF) from the original on 25 July 2011, retrieved 22 June 2011
+
+^ "The History of Unix". BYTE. August 1983. p. 188. Retrieved 31 January 2015.
+
+^ "Communications Options Minireference Manual, Volume 5, Ethernet Devices (Part 1)" (PDF). Digital Equipment Corporation. August 1988. p. DECSA-1. EK-CMIV5-RM-005. Archived (PDF) from the original on 2017-09-19. Retrieved 2017-09-19.
+
+^ Leveson, Nancy G.; Turner, Clark S. (July 1993). "An Investigation of the Therac-25 Accidents" (PDF). IEEE Computer. 26 (7): 18–41. doi:10.1109/MC.1993.274940.
+
+^ Claremont, Bruce (February 2008). "PDP-11 Replacement Keeps the Navy's MSDD Spinning" (PDF). Archived from the original (PDF) on April 17, 2016. Retrieved October 15, 2017.
+
+^ Aubert, J.J.; et al. (November 1974). "Experimental Observation of a Heavy Particle J". Physical Review Letters. 33 (23): 1404–1406. Bibcode:1974PhRvL..33.1404A. doi:10.1103/PhysRevLett.33.1404.
+
+^ "D Bit Ersatz-11 PDP-11 emulator". Archived from the original on 2014-05-06. Retrieved 2014-05-06.
+
+
+References[edit]
+PDP11 processor handbook – PDP11/05/10/35/40, Digital Equipment Corporation, 1973
+PDP11 processor handbook – PDP11/04/34a/44/60/70, Digital Equipment Corporation, 1979
+Further reading[edit]
+Eckhouse, Richard H. Jr.; Morris, L. Robert (1979), Minicomputer Systems: Organization, Programming, and Applications (PDP-11), Englewood Cliffs, New Jersey: Prentice-Hall, ISBN 0-13-583914-9
+Singer, Michael (1980), PDP-11. Assembler Language Programming and Machine Organization, Wiley, hdl:2027/mdp.39076005031633, ISBN 0-471-04905-0
+External links[edit]
+
+
+
+Wikimedia Commons has media related to PDP-11.
+
+Bell, Gordon; Strecker, William D. (1976-01-17). "Computer structures: What have we learned from the PDP-11?". ACM SIGARCH Computer Architecture News. 4 (4): 1–14. doi:10.1145/633617.803541. ISSN 0163-5964.
+Gordon Bell's CyberMuseum for Digital Equipment Corp (DEC)
+Dotzel, Günter (January 1986), "On LSI-11, RT-11, Megabytes of Memory and Modula-2/VRS" (PDF), DEC Professional: The Magazine for DEC Users, Spring House, Pennsylvania, US: Professional Press
+vteDigital Equipment Corporation computersPDP
+18-bit
+PDP-1
+PDP-4
+PDP-7
+PDP-9
+PDP-15
+12-bit
+LINC
+LINC-8
+PDP-5
+PDP-8
+PDP-8/e
+PDP-12
+DECmate
+PDP-14
+
+
+36-bit
+PDP-6
+PDP-10
+DECSYSTEM-20
+16-bit
+PDP-11
+DEC Professional
+
+VAX
+VAX-11
+MicroVAX
+VAX 8000
+VAXstation
+Firefly
+VAXserver
+VAX 6000
+VAX 4000
+VAX 9000
+VAXft
+VAX 7000 and VAX 10000
+x86
+Rainbow 100
+VAXmate
+DECpc
+DECstation
+Multia
+Digital Personal Workstation
+HiNote
+MIPS
+DECstation
+DECsystem servers
+Alpha
+DEC 3000 AXP
+DEC 4000 AXP
+DEC 7000 AXP and DEC 10000 AXP
+DECpc AXP 150
+DEC 2000 AXP
+Multia
+AlphaServer
+AlphaStation
+Digital Personal Workstation
+See also
+Compaq Professional Workstation 1000 XP
+Itsy Pocket Computer
+Jupiter project
+List of VAX computers
+
+ Company template
+ Category
+ Commons
+
+Authority control databases: National United StatesIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=PDP-11&oldid=1287697951"
+Categories: PDP-11Computer-related introductions in 197016-bit computersHidden categories: All articles with dead external linksArticles with dead external links from March 2022Articles with permanently dead external linksCS1 maint: multiple names: authors listCS1 Romanian-language sources (ro)CS1 maint: archived copy as titleArticles with dead external links from November 2023Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from August 2023Articles with unsourced statements from May 2011Articles with unsourced statements from January 2011Articles with unsourced statements from April 2010Articles with unsourced statements from March 2023Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 27 April 2025, at 21:51 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+PDP-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

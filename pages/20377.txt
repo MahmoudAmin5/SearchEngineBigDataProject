@@ -1,0 +1,733 @@
+https://en.wikipedia.org/wiki/Dioptra
+
+
+
+
+Dioptra - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Use
+
+
+
+
+
+
+
+
+2
+How it works
+
+
+
+
+
+
+
+
+3
+Advantages and disadvantages
+
+
+
+
+
+
+
+
+4
+History and development
+
+
+
+
+
+
+
+
+5
+Applications in ancient engineering
+
+
+
+
+
+
+
+
+6
+Comparison with other instruments
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Further reading
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Dioptra
+
+
+
+17 languages
+
+
+
+
+العربيةБеларускаяCatalàDeutschΕλληνικάEspañolFrançaisItalianoLëtzebuergeschMagyarМакедонскиRomânăРусскийСрпски / srpskiSrpskohrvatski / српскохрватскиУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Classical surveying instrument from the 3rd century BCE
+This article is about a surveying instrument. For other uses, see dioptra (disambiguation).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Dioptra" – news · newspapers · books · scholar · JSTOR (December 2021) (Learn how and when to remove this message)
+Graphic reconstruction of the dioptra, by Venturi, in 1814. (An incorrect interpretation of Heron's description)
+A dioptra (sometimes also named dioptre or diopter, from Greek: διόπτρα) is a classical astronomical and surveying instrument, dating from the 3rd century BC. The dioptra was a sighting tube or, alternatively, a rod with a sight at both ends, attached to a stand. If fitted with protractors, it could be used to measure angles.
+
+
+Use[edit]
+Greek astronomers used the dioptra to measure the positions of stars; both Euclid and Geminus refer to the dioptra in their astronomical works.
+It continued in use as an effective surveying tool. Adapted to surveying, the dioptra is similar to the theodolite, or surveyor's transit, which dates to the sixteenth century. It is a more accurate version of the groma.
+There is some speculation that it may have been used to build the Eupalinian aqueduct. Called "one of the greatest engineering achievements of ancient times," it is a tunnel 1,036 metres (3,399 ft) long, excavated through a mountain on the Greek island of Samos during the reign of Polycrates in the sixth century BC.  Scholars disagree, however, whether the dioptra was available that early.[1]
+An entire book about the construction and surveying usage of the dioptra is credited to Hero of Alexandria (also known as Heron; a brief description of the book is available online; see Lahanas link, below). Hero was "one of history’s most ingenious engineers and applied mathematicians."
+The dioptra was used extensively on aqueduct building projects. Screw turns on several different parts of the instrument made it easy to calibrate for very precise measurements.
+The dioptra was replaced as a surveying instrument by the theodolite.
+
+How it works[edit]
+The dioptra consists of a sighting tube or rod fitted with sights at both ends and mounted on a stable stand. The stand usually includes adjustable screw turns that allow the instrument to be precisely calibrated. When used for astronomical purposes, the user would align the sights with a specific star or celestial object, and then measure the angle using protractors attached to the instrument. In surveying, the dioptra was used to measure angles and distances by sighting along the rod and taking readings from graduated scales.
+
+Advantages and disadvantages[edit]
+The dioptra offered several advantages over other contemporary instruments. Its ability to measure both vertical and horizontal angles with high precision made it a versatile tool for both astronomy and surveying. The screw turns allowed for fine adjustments, improving accuracy. The instrument's simplicity and robustness made it reliable and easy to use in the field.
+However, the dioptra also had its limitations. The accuracy of measurements depended on the user's skill and the quality of the instrument's construction. The sighting tube or rod could be affected by environmental factors such as wind or temperature changes, which could introduce errors. Additionally, the dioptra required careful calibration before each use, which could be time-consuming.
+Compared to later instruments like the theodolite, the dioptra was less advanced and lacked some of the refinements and improvements that made theodolites more accurate and easier to use. The theodolite eventually replaced the dioptra as the primary instrument for surveying due to its superior performance and reliability.
+
+History and development[edit]
+The dioptra's origins trace back to the Hellenistic period when Greek scientists and engineers sought to improve observational accuracy in astronomy and surveying. Over time, the instrument underwent several modifications, incorporating advancements in material science and geometric principles. Notably, Hero of Alexandria's detailed work on the dioptra exemplifies the pinnacle of Hellenistic engineering prowess, showcasing the instrument's versatility and precision.
+
+Applications in ancient engineering[edit]
+Beyond its use in astronomy, the dioptra played a crucial role in various engineering projects in ancient Greece and Rome. It was instrumental in constructing aqueducts, roads, and buildings. The instrument's ability to measure angles with high precision allowed engineers to plan and execute large-scale infrastructure projects with greater accuracy and efficiency. For example, its use in the Eupalinian aqueduct's construction demonstrated the dioptra's significance in solving complex engineering challenges of the time.
+
+Comparison with other instruments[edit]
+The dioptra's design and functionality can be compared to other contemporary instruments such as the groma, the alidade, and the later theodolite. While the groma was primarily used for laying out straight lines and right angles, the dioptra offered greater versatility in measuring angles in both vertical and horizontal planes. The alidade, another important surveying instrument, was used to measure angles and determine directions. It typically consisted of a straightedge with sights at either end. The alidade was often mounted on a plane table, which allowed for direct plotting of survey data. The theodolite, which emerged in the sixteenth century, eventually surpassed the dioptra in accuracy and ease of use due to technological advancements and refinements in optical and mechanical components.
+
+See also[edit]
+Alidade
+Groma
+Theodolite
+References[edit]
+
+^ Apostol, Tom M. "The Tunnel of Samos" (PDF). caltech.edu. Retrieved 19 June 2011.
+
+
+Further reading[edit]
+Isaac Moreno Gallo (2006) The Dioptra Tesis and reconstruction of the Dioptra.
+Michael Jonathan Taunton Lewis (2001), Surveying Instruments of Greece and Rome, Cambridge University Press, ISBN 0-521-79297-5
+Lucio Russo (2004), The Forgotten Revolution: How Science Was Born in 300 BC and Why It Had To Be Reborn, Berlin: Springer. ISBN 3-540-20396-6.
+Evans, J., (1998) The History and Practice of Ancient Astronomy, pages 34–35. Oxford University Press.
+External links[edit]
+Michael Lahanas, Heron of Alexandria, Inventions, Biography, Science
+Nathan Sidoli (2005), Heron's Dioptra 35 and Analemma Methods: An Astronomical Determination of the Distance between Two Cities, Centaurus, 47(3), 236-258
+Bamber Gascoigne, History of Measurement, historyworld.net
+Tom M. Apostol (2004), The Tunnel of Samos, Engineering and Science, 64(4), 30-40
+Olshausen, Eckart and Sauer, Werner (2002), "Dioptra", in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and Helmuth Schneider, English Edition by: Christine F. Salazar, Classical Tradition volumes edited by: Manfred Landfester, English Edition by: Francis G. Gentry.
+vteAncient Greek astronomyAstronomers
+Aglaonice
+Agrippa
+Anaximander
+Andronicus
+Apollonius
+Aratus
+Aristarchus
+Aristyllus
+Attalus
+Autolycus
+Bion
+Callippus
+Cleomedes
+Cleostratus
+Conon
+Eratosthenes
+Euctemon
+Eudoxus
+Geminus
+Heraclides
+Hicetas
+Hipparchus
+Hippocrates of Chios
+Hypsicles
+Menelaus
+Meton
+Oenopides
+Philip of Opus
+Philolaus
+Posidonius
+Ptolemy
+Pytheas
+Seleucus
+Sosigenes of Alexandria
+Sosigenes the Peripatetic
+Strabo
+Thales
+Theodosius
+Theon of Alexandria
+Theon of Smyrna
+Timocharis
+Works
+Almagest (Ptolemy)
+Catasterismi (Eratosthenes)
+On Sizes and Distances (Hipparchus)
+On the Sizes and Distances (Aristarchus)
+On the Heavens (Aristotle)
+Instruments
+Antikythera mechanism
+Armillary sphere
+Astrolabe
+Dioptra
+Equatorial ring
+Gnomon
+Mural instrument
+Triquetrum
+Concepts
+Callippic cycle
+Celestial spheres
+Circle of latitude
+Counter-Earth
+Deferent and epicycle
+Equant
+Geocentrism
+Heliocentrism
+Hipparchic cycle
+Inferior and superior planets
+Metonic cycle
+Octaeteris
+Solstice
+Spherical Earth
+Sublunary sphere
+Zodiac
+Influences
+Babylonian astronomy
+Egyptian astronomy
+Influenced
+Medieval European science
+Indian astronomy
+Medieval Islamic astronomy
+
+Portals: Astronomy Stars Geography Greece Solar System
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Dioptra&oldid=1278772449"
+Categories: Ancient Greek astronomyAstrometryAstronomical instrumentsHistorical scientific instrumentsAngle measuring instrumentsSurveying instrumentsGreek inventionsGreek engineersHellenistic engineeringHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from December 2021All articles needing additional referencesArticles containing Greek-language textUse dmy dates from August 2019
+
+
+
+
+
+
+ This page was last edited on 4 March 2025, at 14:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Dioptra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

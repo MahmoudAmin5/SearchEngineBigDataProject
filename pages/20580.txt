@@ -1,0 +1,1048 @@
+https://en.wikipedia.org/wiki/Printed_electronics
+
+
+
+
+Printed electronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Resolution, registration, thickness, holes, materials
+
+
+
+
+
+
+
+
+2
+Printing technologies
+
+
+
+
+Toggle Printing technologies subsection
+
+
+
+
+
+2.1
+Inkjet printing
+
+
+
+
+
+
+
+
+2.2
+Screen printing
+
+
+
+
+
+
+
+
+2.3
+Aerosol jet printing
+
+
+
+
+
+
+
+
+2.4
+Evaporation printing
+
+
+
+
+
+
+
+
+2.5
+Other methods
+
+
+
+
+
+
+
+
+
+
+3
+Materials
+
+
+
+
+Toggle Materials subsection
+
+
+
+
+
+3.1
+Organic materials
+
+
+
+
+
+
+
+
+3.2
+Inorganic materials
+
+
+
+
+
+
+
+
+3.3
+Substrates
+
+
+
+
+
+
+
+
+
+
+4
+History
+
+
+
+
+
+
+
+
+5
+Applications
+
+
+
+
+
+
+
+
+6
+Standards development and activities
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Further reading
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Printed electronics
+
+
+
+14 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschEestiEspañolفارسیFrançais한국어日本語РусскийSuomiதமிழ்中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Electronic devices created by various printing methods
+Not to be confused with Printed circuit board.
+Gravure printing of electronic structures on paper
+Printed electronics is a set of printing methods used to create electrical devices on various substrates. Printing typically uses common printing equipment suitable for defining patterns on material, such as screen printing, flexography, gravure, offset lithography, and inkjet. By electronic-industry standards, these are low-cost processes. Electrically functional electronic or optical inks are deposited on the substrate, creating active or passive devices, such as thin film transistors, capacitors, coils, and resistors. Some researchers expect printed electronics to facilitate widespread, very low-cost, low-performance electronics for applications such as flexible displays, smart labels, decorative and animated posters, and active clothing that do not require high performance.[1]
+The term printed electronics is often related[by whom?] to organic electronics or plastic electronics, in which one or more inks are composed of carbon-based compounds.[2][need quotation to verify] These other terms refer to the ink material, which can be deposited by solution-based, vacuum-based, or other processes. Printed electronics, in contrast, specifies the process, and, subject to the specific requirements of the printing process selected, can utilize any solution-based material. This includes organic semiconductors, inorganic semiconductors, metallic conductors, nanoparticles, and nanotubes. The solution usually consist of filler materials dispersed in a suitable solvent. The most commonly used solvents include ethanol, xylene, Dimethylformamide (DMF), Dimethyl sulfoxide (DMSO), toluene and water, whereas, the most common conductive fillers include silver nanoparticles, silver flakes, carbon black, graphene, carbon nanotubes, conductive polymers (such as polyaniline and polypyrrole), and metal powders (such as copper or nickel). Considering the environmental impacts of the organic solvents, researchers are now focused on developing printable inks using water.[3][4][5]
+For the preparation of printed electronics nearly all industrial printing methods are employed. Similar to conventional printing, printed electronics applies ink layers one atop another.[6] So the coherent development of printing methods and ink materials are the field's essential tasks.[7]
+The most important benefit of printing is low-cost volume fabrication.[citation needed] The lower cost enables use in more applications.[8] An example is RFID-systems, which enable contactless identification in trade and transport. In some domains, such as light-emitting diodes printing does not impact performance.[6] Printing on flexible substrates allows electronics to be placed on curved surfaces, for example: printing solar cells on vehicle roofs. More typically, conventional semiconductors justify their much higher costs by providing much higher performance.
+
+Printed and conventional electronics as complementary technologies.
+
+Resolution, registration, thickness, holes, materials[edit]
+The maximum required resolution of structures in conventional printing is determined by the human eye. Feature sizes smaller than approximately 20 μm cannot be distinguished by the human eye and consequently exceed the capabilities of conventional printing processes.[9] In contrast, higher resolution and smaller structures are necessary in most electronics printing, because they directly affect  circuit density and functionality (especially transistors). A similar requirement holds for the precision with which layers are printed on top of each other (layer to layer registration).
+Control of thickness, holes, and material compatibility (wetting, adhesion, solubility) are essential, but matter in conventional printing only if the eye can detect them. Conversely, the visual impression is irrelevant for printed electronics.[10]
+
+Printing technologies[edit]
+The attraction of printing technology for the fabrication of electronics mainly results from the possibility of preparing stacks of micro-structured layers (and thereby thin-film devices) in a much simpler and cost-effective way compared to conventional electronics.[11]  Also, the ability to implement new or improved functionalities (e.g. mechanical flexibility) plays a role.  The selection of the printing method used is determined by requirements concerning printed layers, by the properties of printed materials as well as economic and technical considerations of the final printed products.
+Printing technologies divide between sheet-based and roll-to-roll-based approaches. Sheet-based inkjet and screen printing are best for low-volume, high-precision work. Gravure, offset and flexographic printing are more common for high-volume production, such as solar cells, reaching 10,000 square meters per hour (m2/h).[9][11] While offset and flexographic printing are mainly used for inorganic[12][13] and organic[14][15] conductors (the latter also for dielectrics),[16] gravure printing is especially suitable for quality-sensitive layers like organic semiconductors and semiconductor/dielectric-interfaces in transistors, due to high layer quality.[16] If high resolution is needed, gravure is also suitable for inorganic[17] and organic[18] conductors. Organic field-effect transistors and integrated circuits can be prepared completely by means of mass-printing methods.[16]
+
+Inkjet printing[edit]
+Inkjets are flexible and versatile, and can be set up with relatively low effort.[19] However, inkjets offer lower throughput of around 100 m2/h and lower resolution (ca. 50 μm).[9] It is well suited for low-viscosity, soluble materials like organic semiconductors. With high-viscosity materials, like organic dielectrics, and  dispersed particles, like inorganic metal inks, difficulties due to nozzle clogging occur. Because ink is deposited via droplets, thickness and dispersion homogeneity is reduced. Using many nozzles simultaneously and pre-structuring the substrate allows improvements in productivity and resolution, respectively. However, in the latter case non-printing methods must be employed for the actual patterning step.[20] Inkjet printing is preferable for organic semiconductors in organic field-effect transistors (OFETs) and organic light-emitting diodes (OLEDs), but also OFETs completely prepared by this method have been demonstrated.[21] Frontplanes[22] and backplanes[23] of OLED-displays, integrated circuits,[24] organic photovoltaic cells (OPVCs)[25] and other devices can be prepared with inkjets.
+
+Screen printing[edit]
+Screen printing is appropriate for fabricating electrics and electronics due to its ability to produce patterned, thick layers from paste-like materials. This method can produce conducting lines from inorganic materials (e.g. for circuit boards and antennas), but also insulating and passivating layers, whereby layer thickness is more important than high resolution. Its 50 m2/h throughput and 100 μm resolution are similar to inkjets.[9] This versatile and comparatively simple method is used mainly for conductive and dielectric layers,[26][27] but also organic semiconductors, e.g. for OPVCs,[28] and even complete OFETs[22] can be printed.
+
+Aerosol jet printing[edit]
+Aerosol Jet Printing (also known as Maskless Mesoscale Materials Deposition or M3D)[29] is another material deposition technology for printed electronics. The Aerosol Jet process begins with atomization of an ink, via ultrasonic or pneumatic means, producing droplets on the order of one to two micrometers in diameter. The droplets then flow through a virtual impactor which deflects the droplets having lower momentum away from the stream. This step helps maintaining a tight droplet size distribution. The droplets are entrained in a gas stream and delivered to the print head. Here, an annular flow of clean gas is introduced around the aerosol stream to focus the droplets into a tightly collimated beam of material. The combined gas streams exit the print head through a converging nozzle that compresses the aerosol stream to a diameter as small as 10 μm. The jet of droplets exits the print head at high velocity (~50 meters/second) and impinges upon the substrate.
+Electrical interconnects, passive and active components[30] are formed by moving the print head, equipped with a mechanical stop/start shutter, relative to the substrate. The resulting patterns can have features ranging from 10 μm wide, with layer thicknesses from tens of nanometers to >10 μm.[31] A wide nozzle print head enables efficient patterning of millimeter size electronic features and surface coating applications. All printing occurs without the use of vacuum or pressure chambers. The high exit velocity of the jet enables a relatively large separation between the print head and the substrate, typically 2–5 mm. The droplets remain tightly focused over this distance, resulting in the ability to print conformal patterns over three dimensional substrates.
+Despite the high velocity, the printing process is gentle; substrate damage does not occur and there is generally minimal splatter or overspray from the droplets.[32] Once patterning is complete, the printed ink typically requires post treatment to attain final electrical and mechanical properties. Post-treatment is driven more by the specific ink and substrate combination than by the printing process. A wide range of materials has been successfully deposited with the Aerosol Jet process, including diluted thick film pastes, conducting polymer inks,[33] thermosetting polymers such as UV-curable epoxies, and solvent-based polymers like polyurethane and polyimide, and biologic materials.[34]
+Recently, printing paper was proposed to be used as the substrate of the printing. Highly conductive (close to bulk copper) and high-resolution traces can be printed on foldable and available office printing papers, with 80°Celsius curing temperature and 40 minutes of curing time.[35]
+
+Evaporation printing[edit]
+Evaporation printing uses a combination of high precision screen printing with material vaporization to print features to 5 μm. This method uses techniques such as thermal, e-beam, sputter and other traditional production technologies to deposit materials through a high precision shadow mask (or stencil) that is registered to the substrate to better than 1 μm. By layering different mask designs and/or adjusting materials, reliable, cost-effective circuits can be built additively, without the use of photo-lithography.
+
+Other methods[edit]
+Other methods with similarities to printing, among them microcontact printing and nano-imprint lithography are of interest.[36] Here, μm- and nm-sized layers, respectively, are prepared by methods similar to stamping with soft and hard forms, respectively. Often the actual structures are prepared subtractively, e.g. by deposition of etch masks or by lift-off processes. For example, electrodes for OFETs can be prepared.[37][38] Sporadically pad printing is used in a similar manner.[39] Occasionally so-called transfer methods, where solid layers are transferred from a carrier to the substrate, are considered printed electronics.[40] Electrophotography is currently not used in printed electronics.
+
+Materials[edit]
+Both organic and inorganic materials are used for printed electronics. Ink materials must be available in liquid form, for solution, dispersion or suspension.[41] They must function as conductors, semiconductors, dielectrics, or insulators. Material costs must be fit for the application.
+Electronic functionality and printability can interfere with each other, mandating careful optimization.[10] For example, a higher molecular weight in polymers enhances conductivity, but diminishes solubility. For printing, viscosity, surface tension and solid content must be tightly controlled. Cross-layer interactions such as wetting, adhesion, and solubility as well as post-deposition drying procedures affect the outcome. Additives often used in conventional printing inks are unavailable, because they often defeat electronic functionality.
+Material properties largely determine the differences between printed and conventional electronics. Printable materials provide decisive advantages beside printability, such as mechanical flexibility and functional adjustment by chemical modification (e.g. light color in OLEDs).[42]
+Printed conductors offer lower conductivity and charge carrier mobility.[43]
+With a few exceptions, inorganic ink materials are dispersions of metallic or semiconducting micro- and nano-particles. Semiconducting nanoparticles used include silicon[44]  and oxide semiconductors.[45] Silicon is also printed as an organic precursor[46]  which is then converted by pyrolisis and annealing into crystalline silicon.
+PMOS but not CMOS is possible in printed electronics.[47]
+
+Organic materials[edit]
+Organic printed electronics integrates knowledge and developments from printing, electronics, chemistry, and materials science, especially from organic and polymer chemistry. Organic materials in part differ from conventional electronics in terms of structure, operation and functionality,[48] which influences device and circuit design and optimization as well as fabrication method.[49]
+The discovery of conjugated polymers[43]  and their development into soluble materials provided the first organic ink materials. Materials from this class of polymers variously possess conducting, semiconducting, electroluminescent, photovoltaic and other properties. Other polymers are used mostly as insulators and dielectrics.
+In most organic materials, hole transport is favored over electron transport.[50] Recent studies indicate that this is a specific feature of organic semiconductor/dielectric-interfaces, which play a major role in OFETs.[51] Therefore, p-type devices should dominate over n-type devices. Durability (resistance to dispersion) and lifetime is less than conventional materials.[47]
+Organic semiconductors include the conductive polymers poly(3,4-ethylene dioxitiophene), doped with poly(styrene sulfonate), (PEDOT:PSS) and poly(aniline) (PANI). Both polymers are commercially available in different formulations and have been printed using inkjet,[52] screen[26] and offset printing[14] or screen,[26] flexo[15] and gravure[18] printing, respectively.
+Polymer semiconductors are processed using inkjet printing, such as poly(thiopene)s like poly(3-hexylthiophene) (P3HT)[53] and poly(9,9-dioctylfluorene co-bithiophen) (F8T2).[54] The latter material has also been gravure printed.[16] Different electroluminescent polymers are used with inkjet printing,[20] as well as active materials for photovoltaics (e.g. blends of P3HT with fullerene derivatives),[55] which in part also can be deposited using screen printing (e.g. blends of poly(phenylene vinylene) with fullerene derivatives).[28]
+Printable organic and inorganic insulators and dielectrics exist, which can be processed with different printing methods.[56]
+
+Inorganic materials[edit]
+Inorganic electronics provides highly ordered layers and interfaces that organic and polymer materials cannot provide.
+Silver nanoparticles are used with flexo,[13] offset[57]  and inkjet.[58] Gold particles are used with inkjet.[59]
+A.C. electroluminescent (EL) multi-color displays can cover many tens of square meters, or be incorporated in watch faces and instrument displays. They involve six to eight printed inorganic layers, including a copper doped phosphor, on a plastic film substrate.[60]
+CIGS cells can be printed directly onto molybdenum coated glass sheets.
+A printed gallium arsenide germanium solar cell demonstrated 40.7% conversion efficiency, eight times that of the best organic cells, approaching the best performance of crystalline silicon.[60]
+
+Substrates[edit]
+Printed electronics allows the use of flexible substrates, which lowers production costs and allows fabrication of mechanically flexible circuits. While inkjet and screen printing typically imprint rigid substrates like glass and silicon, mass-printing methods nearly exclusively use flexible foil and paper.  Poly(ethylene terephthalate)-foil (PET) is a common choice, due to its low cost and moderately high temperature stability.[61] Poly(ethylene naphthalate)- (PEN) and poly(imide)-foil (PI) are higher performance, higher cost alternatives.  Paper's low costs and manifold applications make it an attractive substrate, however, its high roughness and high wettability have traditionally made it problematic for electronics. This is an active research area,[62] however, and print-compatible metal deposition techniques have been demonstrated that adapt to the rough 3D surface geometry of paper.[63][64]
+Other important substrate criteria are low roughness and suitable wet-ability, which can be tuned pre-treatment by use of coating or Corona discharge. In contrast to conventional printing, high absorbency is usually disadvantageous.
+
+History[edit]
+Albert Hanson, a German by birth, is credited to have introduced the concept of printed electronics. in 1903 he filled a patent for “Printed Wires,” and thus printed electronics were born.[65] Hanson proposed forming a Printed Circuit Board pattern on copper foil through cutting or stamping. The drawn elements were glued to the dielectric, in this case, paraffined paper.[66] The first printed circuit was produced in 1936 by Paul Eisler, and that process was used for large-scale production of radios by the USA during World War II. Printed circuit technology was released for commercial use in the US in 1948 (Printed Circuits Handbook, 1995). In the over a half-century since its inception, printed electronics has evolved from the production of printed circuit boards (PCBs), through the everyday use of membrane switches, to today's RFID, photovoltaic and electroluminescent technologies.[67] Today it is nearly impossible to look around a modern American household and not see devices that either uses printed electronic components or that are the direct result of printed electronic technologies. Widespread production of printed electronics for household use began in the 1960s when the Printed Circuit Board became the foundation for all consumer electronics. Since then printed electronics have become a cornerstone in many new commercial products.[68]
+The biggest trend in recent history when it comes to printed electronics is the widespread use of them in solar cells. In 2011, researchers from MIT created a flexible solar cell by inkjet printing on normal paper.[69] In 2018, researchers at Rice University have developed organic solar cells which can be painted or printed onto surfaces. These solar cells have been shown to max out at fifteen percent efficiency.[70] Konarka Technologies, now a defunct company in the US, was the pioneering company in producing inkjet solar cells. Today there are more than fifty companies across a diverse number of countries that are producing printed solar cells.
+While printed electronics have been around since the 1960s, they are predicted[when?] to have a major boom in total revenue.  As of 2011, the total printed electronic revenue was reported to be at $12.385 (billion).[71]  A report by IDTechEx predicts the PE market will reach $330 (billion) in 2027.[72]  A big reason for this increase in revenue is because of the incorporation of printed electronic into cellphones. Nokia was one of the companies that pioneered the idea of creating a “Morph” phone using printed electronics. Since then, Apple has implemented this technology into their iPhone XS, XS Max, and XR devices.[73]  Printed electronics can be used to make all of the following components of a cellphone: 3D main antenna, GPS antenna, energy storage, 3D interconnections, multi-layer PCB, edge circuits, ITO jumpers, hermetic seals, LED packaging, and tactile feedback.
+With the revolutionary discoveries and advantages that printed electronic gives to companies many large companies have made recent investments into this technology. In 2007, Soligie Inc. and Thinfilm Electronics entered into an agreement to combine IPs for soluble memory materials and functional materials printing to develop printed memory in commercial volumes.[67]  LG announce significant investment, potentially $8.71 billion in OLEDs on Plastic. Sharp (Foxconn) will invest $570m in pilot line for OLED displays. BOE announce potential $6.8 billion in flexible AMOLED fab. Heliatek has secured €80m in additional funding for OPV manufacturing in Dresden. PragmatIC has raised ~ €20m from investors including Avery Dennison.  Thinfilm invests in new production site in Silicon Valley (formerly owned by Qualcomm).  Cambrios back in business after acquisition by TPK.[72]
+
+Applications[edit]
+Printed electronics are in use or under consideration include wireless sensors in packaging, skin patches that communicate with the internet, and buildings that detect leaks to enable preventative maintenance. Most of these applications are still in the prototyping and development stages.[74] There is a particularly growing interest for flexible smart electronic systems, including photovoltaic, sensing and processing devices, driven by the desire to extend and integrate the latest advances in (opto-)electronic technologies into a broad range of low-cost (even disposable) consumer products of our everyday life, and as tools to bring together the digital and physical worlds.[75]
+Norwegian company ThinFilm demonstrated roll-to-roll printed organic memory in 2009.[76][77][78][79]
+Another company, Rotimpres based in Spain, has successfully introduced applications on different markets as for instance; heaters for smart furniture or to prevent mist and capacitive switch for keyboards on white goods and industrial machines.[80][81]
+
+Standards development and activities[edit]
+Technical standards and road-mapping initiatives are intended to facilitate value chain development (for sharing of product specifications, characterization standards, etc.) This strategy of standards development mirrors the approach used by silicon-based electronics over the past 50 years.  Initiatives include:
+
+The IEEE Standards Association has published IEEE 1620-2004[82] and IEEE 1620.1-2006.[83]
+Similar to the well-established International Technology Roadmap for Semiconductors (ITRS), the International Electronics Manufacturing Initiative (iNEMI)[84] has published a roadmap for printed and other organic electronics.
+IPC—Association Connecting Electronics Industries has published three standards for printed electronics. All three have been published in cooperation with the Japan Electronic Packaging and Circuits Association (JPCA):
+
+IPC/JPCA-4921, Requirements for Printed Electronics Base Materials
+IPC/JPCA-4591, Requirements for Printed Electronics Functional Conductive Materials
+IPC/JPCA-2291, Design Guideline for Printed Electronics
+These standards, and others in development, are part of IPC's Printed Electronics Initiative.
+
+See also[edit]
+
+Electronics portalManufacturing portal
+
+Amorphous silicon
+Anilox rolls
+Chip tag
+Coating and printing processes
+Conductive ink
+Electronic paper
+Flexible battery
+Flexible electronics
+Laminar electronics
+Nanoparticle silicon
+Oligomer
+Organic electronics
+
+References[edit]
+
+
+^ 
+Coatanéa, E., Kantola, V., Kulovesi, J., Lahti, L., Lin, R., & Zavodchikova, M. (2009). Printed Electronics, Now and Future. In Neuvo, Y., & Ylönen, S. (eds.), Bit Bang – Rays to the Future. Helsinki University of Technology (TKK), MIDE, Helsinki University Print, Helsinki, Finland, 63-102. ISBN 978-952-248-078-1. http://lib.tkk.fi/Reports/2009/isbn9789522480781.pdf - "Moreover, PE technology could provide a number of enabling factors like flexibility and robustness, allowing incorporation of electronics functions into objects that do not yet contain any active electronic components, e.g. toy applications, printed advertising material or electronic labels [...]."
+
+^ "Printed & Flexible Electronics - IDTechEx Research Reports and Subscriptions". www.idtechex.com. Retrieved 2020-09-21.
+
+^ Khan, Junaid; Mariatti, M; Zubir, Syazana A; Rusli, Arjulizan; Manaf, Asrulnizam Abd; Khirotdin, Rd Khairilhijra (29 January 2024). "Eco-friendly alkali lignin-assisted water-based graphene oxide ink and its application as a resistive temperature sensor". Nanotechnology. 35 (5): 055301. Bibcode:2024Nanot..35e5301K. doi:10.1088/1361-6528/ad06d4. PMID 37879329.
+
+^ Khan, Junaid; Mariatti, M (1 September 2023). "In-situ graphene oxide reduction via inkjet printing using natural reducing inks". Flexible and Printed Electronics. 8 (3): 035009. doi:10.1088/2058-8585/acf143.
+
+^ Khan, Junaid; Mariatti, M. (November 2022). "Effect of natural surfactant on the performance of reduced graphene oxide conductive ink". Journal of Cleaner Production. 376: 134254. Bibcode:2022JCPro.37634254K. doi:10.1016/j.jclepro.2022.134254.
+
+^ a b Roth, H.-K.; et al. (2001). "Organische Funktionsschichten in Polymerelektronik und Polymersolarzellen". Materialwissenschaft und Werkstofftechnik. 32 (10): 789. doi:10.1002/1521-4052(200110)32:10<789::AID-MAWE789>3.0.CO;2-E.
+
+^ Thomas, D.J. (2016). "Integration of Silicon and Printed Electronics for Rapid Diagnostic Disease Biosensing". Point of Care: The Journal of Near-Patient Testing & Technology. 15 (2): 61–71. doi:10.1097/POC.0000000000000091. S2CID 77379659.
+
+^ 
+Xu, J.M.(Jimmy) (2000). "Plastic electronics and future trends in microelectronics". Synthetic Metals. 115 (1–3): 1–3. doi:10.1016/s0379-6779(00)00291-5.
+
+^ a b c d 
+A. Blayo and B. Pineaux, Joint sOC-EUSAI Conference, Grenoble, 2005.
+
+^ a b U. Fügmann et al., mstNews 2 (2006) 13.
+
+^ a b J. R. Sheats, Journal of Materials Research 2004; 19  1974.
+
+^ Harrey, P.M.; et al. (2002). "Capacitive-type humidity sensors fabricated using the offset lithographic printing process". Sensors and Actuators B. 87 (2): 226–232. Bibcode:2002SeAcB..87..226H. doi:10.1016/s0925-4005(02)00240-x.
+
+^ a b J. Siden et al., Polytronic Conference, Wroclaw, 2005.
+
+^ a b Zielke, D.; et al. (2005). "Polymer-based organic field-effect transistor using offset printed source/drain structures". Applied Physics Letters. 87 (12): 123508. Bibcode:2005ApPhL..87l3508Z. doi:10.1063/1.2056579.
+
+^ a b Mäkelä, T.; et al. (2005). "Utilizing roll-to-roll techniques for manufacturing source-drain electrodes for all-polymer transistors". Synthetic Metals. 153 (1–3): 285–288. doi:10.1016/j.synthmet.2005.07.140.
+
+^ a b c d Hübler, A.; et al. (2007). "Ring oscillator fabricated completely by means of mass-printing technologies". Organic Electronics. 8 (5): 480. doi:10.1016/j.orgel.2007.02.009.
+
+^ S. Leppavuori et al., Sensors and Actuators 41-42 (1994) 593.
+
+^ a b Mäkelä, T.; et al. (2003). "Roll-to-roll method for producing polyaniline patterns on paper". Synthetic Metals. 135: 41. doi:10.1016/s0379-6779(02)00753-1.
+
+^ Parashkov, R.; et al. (2005). "Large Area Electronics Using Printing Methods". Proceedings of the IEEE. 93 (7): 1321–1329. doi:10.1109/jproc.2005.850304. S2CID 27061013.
+
+^ a b de Gans, B.-J.; et al. (2004). "Inkjet Printing of Polymers: State of the Art and Future Developments". Advanced Materials. 16 (3): 203. Bibcode:2004AdM....16..203D. doi:10.1002/adma.200300385.
+
+^ Subramanian, V.; et al. (2005). "Progress Toward Development of All-Printed RFID Tags: Materials, Processes, and Devices". Proceedings of the IEEE. 93 (7): 1330. doi:10.1109/jproc.2005.850305. S2CID 8915461.
+
+^ a b 
+S. Holdcroft, Advanced Materials 2001; 13  1753.
+
+^ Arias, A.C.; et al. (2004). "All jet-printed polymer thin-film transistor active-matrix backplanes". Applied Physics Letters. 85 (15): 3304. Bibcode:2004ApPhL..85.3304A. doi:10.1063/1.1801673.
+
+^ Sirringhaus, H.; et al. (2000). "High-Resolution Inkjet Printing of All-Polymer Transistor Circuits". Science. 290 (5499): 2123–2126. Bibcode:2000Sci...290.2123S. doi:10.1126/science.290.5499.2123. PMID 11118142.
+
+^ 
+V.G. Shah and D.B. Wallace, IMAPS Conference, Long Beach, 2004.
+
+^ a b c Bock, K.; et al. (2005). "Polymer Electronics Systems - Polytronics". Proceedings of the IEEE. 93 (8): 1400–1406. doi:10.1109/jproc.2005.851513. S2CID 23177369.
+
+^ Bao, Z.; et al. (1997). "High-Performance Plastic Transistors Fabricated by Printing Techniques". Chemistry of Materials. 9 (6): 1299–1301. doi:10.1021/cm9701163.
+
+^ a b Shaheen, S.E.; et al. (2001). "Fabrication of bulk heterojunction plastic solar cells by screen printing". Applied Physics Letters. 79 (18): 2996. Bibcode:2001ApPhL..79.2996S. doi:10.1063/1.1413501.
+
+^ M. Renn, US Patent number 7,485,345 B2. Page 3.
+
+^ J.H. Cho et al, Nature Materials, 19 October 2008.
+
+^ B. Kahn, Organic and Printed Electronics, Volume 1, Issue 2 (2007).
+
+^ B. H. King et al, Photovoltaic Specialists Conference (PVSC), 2009 34th IEEE.
+
+^ Fisher, Christine; Warmack, Bruce J.; Yu, Yongchao; Skolrood, Lydia N.; Li, Kai; Joshi, Pooran C.; Saito, Tomonori; Aytug, Tolga (2021-04-19). "All-aerosol-jet-printed highly sensitive and selective polyaniline-based ammonia sensors: a route toward low-cost, low-power gas detection". Journal of Materials Science. 56 (22): 12596–12606. Bibcode:2021JMatS..5612596F. doi:10.1007/s10853-021-06080-0. ISSN 1573-4803. OSTI 1798595. S2CID 233303736.
+
+^ Ingo Grunwald et al, 2010 Biofabrication 2 014106.
+
+^ Chen, Yi-Dan; Nagarajan, Vijayasarathi; Rosen, David W.; Yu, Wenwei; Huang, Shao Ying (Oct 2020). "Wireless Power Transfer via Strongly Coupled Magnetic Resonances". Journal of Manufacturing Processes. 58: 55–66. doi:10.1016/j.jmapro.2020.07.064.
+
+^ Gate, B.D.; et al. (2005). "New Approaches to Nanofabrication: Molding, Printing, and Other Techniques". Chemical Reviews. 105 (4): 1171–96. doi:10.1021/cr030076o. PMID 15826012.
+
+^ Li, D.; Guo, L.J. (2006). "Micron-scale organic thin film transistors with conducting polymer electrodes patterned by polymer inking and stamping" (PDF). Applied Physics Letters. 88 (6): 063513. Bibcode:2006ApPhL..88f3513L. doi:10.1063/1.2168669. hdl:2027.42/87779.
+
+^ Leising, G.; et al. (2006). "Nanoimprinted devices for integrated organic electronics". Microelectronics Engineering. 83 (4–9): 831. doi:10.1016/j.mee.2006.01.241.
+
+^ Knobloch, A.; et al. (2004). "Fully printed integrated circuits from solution processable polymers". Journal of Applied Physics. 96 (4): 2286. Bibcode:2004JAP....96.2286K. doi:10.1063/1.1767291.
+
+^ Hines, D.R.; et al. (2007). "Transfer printing methods for the fabrication of flexible organic electronics". Journal of Applied Physics. 101 (2): 024503–024503–9. Bibcode:2007JAP...101b4503H. doi:10.1063/1.2403836.
+
+^ 
+Z. Bao, Advanced Materials 2000; 12: 227.
+
+^ Moliton; Hiorns, R.C. (2004). "Review of electronic and optical properties of semiconductingπ-conjugated polymers: applications in optoelectronics". Polymer International. 53 (10): 1397–1412. doi:10.1002/pi.1587.
+
+^ a b 
+http://nobelprize.org/nobel_prizes/chemistry/laureates/2000/chemadv.pdf Nobel prize in chemistry, 2000
+
+^ Maennl, U.; et al. (2013). "Interfacial and Network Characteristics of Silicon Nanoparticle Layers Used in Printed Electronics". Japanese Journal of Applied Physics. 52 (5S1): 05DA11. Bibcode:2013JaJAP..52eDA11M. doi:10.7567/JJAP.52.05DA11.
+
+^ Faber, H.; et al. (2009). "Low-Temperature Solution-Processed Memory Transistors Based on Zinc Oxide Nanoparticles". Advanced Materials. 21 (30): 3099. Bibcode:2009AdM....21.3099F. doi:10.1002/adma.200900440.
+
+^ Shimoda, T.; et al. (2006). "Solution-processed silicon films and transistors". Nature. 440 (7085): 783–786. Bibcode:2006Natur.440..783S. doi:10.1038/nature04613. PMID 16598254. S2CID 4344708.
+
+^ a b de Leeuw, D. M.; et al. (1997). "Stability of n-type doped conducting polymers and consequences for polymeric microelectronic devices". Synthetic Metals. 87: 53. doi:10.1016/s0379-6779(97)80097-5.
+
+^ Vardeny, Z.V.; et al. (2005). "Fundamental research needs in organic electronic materials". Synthetic Metals. 148: 1. doi:10.1016/j.synthmet.2004.09.001.
+
+^ H. Kempa et al., it 3 (2008) 167.
+
+^ Fachetti (2007). "Semiconductors for organic transistors". Materials Today. 10 (3): 38. doi:10.1016/S1369-7021(07)70017-2.
+
+^ Zaumseil, J.; Sirringhaus, H. (2007). "Electron and Ambipolar Transport in Organic Field-Effect Transistors". Chemical Reviews. 107 (4): 1296–1323. doi:10.1021/cr0501543. PMID 17378616.
+
+^ Bharathan, J.; Yang, Y. (2006). "Polymer electroluminescent devices processed by inkjet printing: I. Polymer light-emitting logo". Applied Physics Letters. 72 (21): 2660. Bibcode:1998ApPhL..72.2660B. doi:10.1063/1.121090.
+
+^ Speakman, S.P.; et al. (2001). "High performance organic semiconducting thin films: Ink jet printed polythiophene [rr-P3HT]". Organic Electronics. 2 (2): 65. doi:10.1016/S1566-1199(01)00011-8.
+
+^ Paul, K.E.; et al. (2003). "Additive jet printing of polymer thin-film transistors". Applied Physics Letters. 83 (10): 2070. Bibcode:2003ApPhL..83.2070P. doi:10.1063/1.1609233.
+
+^ Aernouts, T.; et al. (2008). "Polymer based organic solar cells using ink-jet printed active layers". Applied Physics Letters. 92 (3): 033306. Bibcode:2008ApPhL..92c3306A. doi:10.1063/1.2833185.
+
+^ "Ion Gel Insulator". Archived from the original on November 14, 2011.
+
+^ Harrey, P. M.; et al. (2000). "Interdigitated Capacitors by Offset Lithography". Journal of Electronics Manufacturing. 10: 69–77. doi:10.1142/s096031310000006x.
+
+^ Perelaer, J.; et al. (2006). "Ink-jet Printing and Microwave Sintering of Conductive Silver Tracks". Advanced Materials. 18 (16): 2101–2104. Bibcode:2006AdM....18.2101P. doi:10.1002/adma.200502422.
+
+^ Noh, Y.-Y.; et al. (2007). "Downscaling of self-aligned, all-printed polymer thin-film transistors". Nature Nanotechnology. 2 (12): 784–789. Bibcode:2007NatNa...2..784N. doi:10.1038/nnano.2007.365. PMID 18654432.
+
+^ a b 
+Mflex UK (formerly Pelikon) and elumin8, both in the UK, Emirates Technical Innovation Centre in Dubai, Schreiner in Germany and others are involved in EL displays.  Spectrolab already offers commercially flexible solar cells based on various inorganic compounds. [1]
+
+^ Carey, T., Cacovich, S., Divitini, G., Ren, J., Mansouri, A., Kim, J. M., ... & Torrisi, F. (2017). Fully inkjet-printed two-dimensional material field-effect heterojunctions for wearable and textile electronics. Nature communications, 8(1), 1-11.https://doi.org/10.1038/s41467-017-01210-2
+
+^ Tobjörk, Daniel; Österbacka, Ronald (2011-03-23). "Paper Electronics". Advanced Materials. 23 (17): 1935–1961. Bibcode:2011AdM....23.1935T. doi:10.1002/adma.201004692. ISSN 0935-9648. PMID 21433116.
+
+^ Grell, Max; Dincer, Can; Le, Thao; Lauri, Alberto; Nunez Bajo, Estefania; Kasimatis, Michael; Barandun, Giandrin; Maier, Stefan A.; Cass, Anthony E. G. (2018-11-09). "Autocatalytic Metallization of Fabrics Using Si Ink, for Biosensors, Batteries and Energy Harvesting". Advanced Functional Materials. 29 (1): 1804798. doi:10.1002/adfm.201804798. ISSN 1616-301X. PMC 7384005. PMID 32733177.
+
+^ Vicente, António T.; Araújo, Andreia; Gaspar, Diana; Santos, Lídia; Marques, Ana C.; Mendes, Manuel J.; Pereira, Luís; Martins, Elvira Fortunato and Rodrigo (2017-02-22). Optoelectronics and Bio Devices on Paper Powered by Solar Cells. IntechOpen. ISBN 978-953-51-2936-3.
+
+^ GB 4681, Hanson, Albert, "Printed Wires", issued 1903 
+
+^ "The printed circuit board is the base of modern electronics". rostec.ru. Rostec. November 24, 2014. Archived from the original on August 28, 2019. Retrieved November 28, 2018.
+
+^ a b Jacobs, John (2010). An Investigation of Fundamental Competencies for Printed Electronics (Thesis). Clemson University.
+
+^ "Printing Electronics Just", National Geographic News, National Geographic Partners, LLC, 10 May 2013, archived from the original on May 13, 2013, retrieved November 30, 2018
+
+^ "While You're Pp, Print Me a Solar Cell", MIT News, MIT News Office, 11 July 2011, retrieved November 30, 2018
+
+^ "Stretchy solar cells a step closer", Printed Electronics World, IDTechEx, 15 November 2018, retrieved November 30, 2018
+
+^ Zhang, Chuck, Printed Electronics:Manufacturing Technologies and Applications (PDF), Georgia Tech, retrieved November 30, 2018
+
+^ a b Das, Raghu, Printed Electronics: Markets, Technologies, Trends (PDF), IDTechEx, retrieved November 30, 2018
+
+^ "New iPhones models support native 'background' NFC tag read function" (Press release). Thinfilm. Retrieved November 30, 2018 – via IDTechEx.
+
+^ "Custom Printed Electronics". Almax - RP. 30 December 2016. Retrieved 13 August 2021.
+
+^ Vicente, António T.; Araújo, Andreia; Mendes, Manuel J.; Nunes, Daniela; Oliveira, Maria J.; Sanchez-Sobrado, Olalla; Ferreira, Marta P.; Águas, Hugo; Fortunato, Elvira; Martins, Rodrigo (2018-03-29). "Multifunctional cellulose-paper for light harvesting and smart sensing applications". Journal of Materials Chemistry C. 6 (13): 3143–3181. doi:10.1039/C7TC05271E. ISSN 2050-7534.
+
+^ Thinfilm and InkTec awarded IDTechEx' Technical Development Manufacturing Award IDTechEx, April 15th 2009
+
+^ PolyIC, ThinFilm announce pilot of volume printed plastic memories EETimes, September 22nd 2009
+
+^ All set for high-volume production of printed memories Printed Electronics World, April 12th 2010
+
+^ Thin Film Electronics Plans to Provide ‘Memory Everywhere’ Printed Electronics Now, May 2010
+
+^ Revolutionize Your Industrial Heating with Rotimpres Heater, October 14th 2024
+
+^ Capacitive keyboards - Rotimpres Capacitive switch, October 14th 2024
+
+^ "IEEE P1620 Index page". Archived from the original on 2011-06-10. Retrieved 2006-11-30.
+
+^ "IEEE P1620.1 Index page". Archived from the original on 2011-06-10. Retrieved 2006-11-30.
+
+^ "iNEMI | International Electronics Manufacturing Initiative". www.inemi.org.
+
+
+Further reading[edit]
+Printed Organic and Molecular Electronics, edited by D. Gamota, P. Brazis, K. Kalyanasundaram, and J. Zhang (Kluwer Academic Publishers: New York, 2004).  ISBN 1-4020-7707-6
+External links[edit]
+Cleaner Electronics Research Group - Brunel University
+Printed Electronics conference/exhibition Asia USA
+New Nano Silver Powder Enables Flexible Printed Circuits (Ferro Corporation)
+Western Michigan University's Center for Advancement of Printed Electronics (CAPE) includes AccuPress gravure printer
+Major Trends in Gravure Printed Electronics June 2010
+Printed Electronics – avistando el futuro. Printed Electronics en Español
+Organic Solar Cells - Theory and Practice (Coursera)
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+Authority control databases: National FranceBnF data
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Printed_electronics&oldid=1286012274"
+Categories: Electronics manufacturingFlexible electronicsHidden categories: Articles with short descriptionShort description is different from WikidataArticles with specifically marked weasel-worded phrases from May 2021Wikipedia articles needing factual verification from May 2021All articles with unsourced statementsArticles with unsourced statements from May 2021All articles with vague or ambiguous timeVague or ambiguous time from August 2020
+
+
+
+
+
+
+ This page was last edited on 17 April 2025, at 04:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Printed electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

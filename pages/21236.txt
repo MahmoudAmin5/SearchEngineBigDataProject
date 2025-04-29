@@ -1,0 +1,790 @@
+https://en.wikipedia.org/wiki/Nanoengineering
+
+
+
+
+Nanoengineering - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Degree programs
+
+
+
+
+
+
+
+
+3
+Techniques
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Nanoengineering
+
+
+
+10 languages
+
+
+
+
+العربيةCatalàEspañol한국어PortuguêsРусскийไทยTürkçeУкраїнськаWinaray
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+WikiversityWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Engineering on the nanoscale
+Part of a series of articles onNanotechnology
+History
+Organizations
+Popular culture
+Outline
+
+Impact and applications
+Nanomedicine
+Nanotoxicology
+Green nanotechnology
+Hazards
+Regulation
+
+Nanomaterials
+Fullerenes
+Carbon nanotubes
+Nanoparticles
+
+Molecular self-assembly
+Self-assembled monolayer
+Supramolecular assembly
+DNA nanotechnology
+
+Nanoelectronics
+Molecular scale electronics
+Molecular logic gate
+Nanolithography
+Moore's law
+Semiconductor device fabrication
+Semiconductor scale examples
+
+Nanometrology
+Atomic force microscopy
+Scanning tunneling microscope
+Electron microscope
+Super-resolution microscopy
+Nanotribology
+
+Molecular nanotechnology
+Molecular assembler
+Nanorobotics
+Mechanosynthesis
+Molecular engineering
+
+ Science portal
+ Technology portalvte
+Nanoengineering is the practice of engineering on the nanoscale. It derives its name from the nanometre, a unit of measurement equalling one billionth of a meter.
+Nanoengineering is largely a synonym for nanotechnology, but emphasizes the engineering rather than the pure science aspects of the field.
+
+
+History[edit]
+4th Century Rome: The Lycurgus Cup was crafted using dichroic glass which is a product of nanoengineering
+6th-15th Centuries: Stained glass windows were created in European cathedrals which contained nanoparticles of gold chloride or other metal oxides or chlorides. These nanoparticles give the glass its vibrant colors.
+9th-17th Centuries: A sparkling layer on the outside of ceramics was used containing silver, copper, or other metallic nanoparticles.
+13th-18th Centuries: "Damascus" saber blades were crafted using techniques that resulted in nanotubes and cementite nanowires.
+1950: Victor La Mer and Robert Dinegar created a process that was used to create specialized papers, paints, and thin films on an industrial level by growing monodisperse colloidal materials.
+1959: Richard Feynman gave the first lecture on molecular technology and engineering or just nanoengineering.
+1981: Gerd Binnig and Heinrich Rohrer invented the first atomic level microscope called a scanning tunneling microscope that allowed scientists to see individual atoms
+1991: The carbon nanotube was discovered by Sumio Iijima which became important due to their strength, and electrical and thermal conductivity
+2004: SUNY Albany started the first college program that focused on nanoengineering in the United States. It was called the College of Nanoscale Science and Engineering
+2009-2010: Robotic nanoscale assembly devices were created by Nadrian Seeman and his colleagues. These devices would be used to create 3D DNA structures using DNA crystals[1]
+Degree programs[edit]
+See also: Nanotechnology education
+The first nanoengineering program  was started at the University of Toronto within the Engineering Science program as one of the options of study in the final years. In 2003, the Lund Institute of Technology started a program in Nanoengineering. In 2004, the College of Nanoscale Science and Engineering at the University at Albany, SUNY was founded as the first of its kind in the United States. The college later merged with SUNY Poly, but will rejoin the University at Albany in 2023. In 2005, the University of Waterloo established a unique program which offers a full degree in Nanotechnology Engineering.[2] Louisiana Tech University started the first program in the U.S. in 2005. In 2006 the University of Duisburg-Essen started a Bachelor and a Master program NanoEngineering.[3] Unlike early NanoEngineering programs, the first NanoEngineering Department in the world, offering both undergraduate and graduate degrees, was established by the  University of California, San Diego in 2007.
+In 2009, the University of Toronto began offering all Options of study in Engineering Science as degrees, bringing the second nanoengineering degree to Canada. Rice University  established in 2016 a Department of Materials Science and NanoEngineering (MSNE).
+DTU Nanotech - the Department of Micro- and Nanotechnology - is a department at the Technical University of Denmark established in 1990.
+In 2013, Wayne State University began offering a Nanoengineering Undergraduate Certificate Program, which is funded by a Nanoengineering Undergraduate Education (NUE) grant from the National Science Foundation. The primary goal is to offer specialized undergraduate training in nanotechnology. Other goals are: 1) to teach emerging technologies at the undergraduate level, 2) to train a new adaptive workforce, and 3) to retrain working engineers and professionals.[4]
+
+Techniques[edit]
+Scanning tunneling microscope (STM) - Can be used to both image, and to manipulate structures as small as a single atom.
+Molecular self-assembly - Arbitrary sequences of DNA can now be synthesized cheaply in bulk, and used to create custom proteins or regular patterns of amino acids. Similarly, DNA strands can bind to other DNA strands, allowing simple structures to be created.
+See also[edit]
+List of nanoengineering topics
+Nanotechnology
+Picoengineering
+Molecular engineering
+References[edit]
+
+
+^ "Nanotechnology Timeline | Nano". www.nano.gov. Retrieved 2019-03-17.
+
+^ "Welcome to Nanotechnology Engineering at UW". Department of Nanotechnology Engineering. Retrieved 2008-10-07.
+
+^ "NanoEngineering at University of Duisburg-Essen".
+
+^ "Wayne State University Nanoengineering Certificate Program". 24 March 2022.
+
+
+External links[edit]
+
+
+
+Wikiversity has learning resources about Nanoengineering
+
+Nanoengineering
+Alliance of the Fraunhofer Society
+vteEngineering
+History
+Outline
+List of engineering branches
+SpecialtiesandinterdisciplinarityCivil
+Architectural
+Coastal
+Construction
+Earthquake
+Ecological
+Environmental
+Sanitary
+Geological
+Geotechnical
+Hydraulic
+Mining
+Municipal/urban
+Offshore
+River
+Structural
+Transportation
+Traffic
+Railway
+Mechanical
+Acoustic
+Aerospace
+Automotive
+Biomechanical
+Energy
+Manufacturing
+Marine
+Naval architecture
+Railway
+Sports
+Thermal
+Tribology
+Electrical
+Broadcast
+outline
+Control
+Electromechanics
+Electronics
+Microwaves
+Optical
+Power
+Radio-frequency
+Signal processing
+Telecommunications
+Chemical
+Biochemical/bioprocess
+Biological
+Bioresource
+Genetic
+Tissue
+Chemical reaction
+Electrochemical
+Food
+Molecular
+Paper
+Petroleum
+Process
+Reaction
+Materials
+Biomaterial
+Ceramics
+Corrosion
+Metallurgy
+Molecular
+Nanotechnology
+Polymers
+Semiconductors
+Surfaces
+Computer
+AI
+Computer
+Cybersecurity
+Data
+Networks
+Robotics
+Software
+Engineering education
+Bachelor of Engineering
+Bachelor of Science
+Master's degree
+Doctorate
+Graduate certificate
+Engineer's degree
+Licensed engineer
+Related topics
+Engineer
+Glossaries
+Engineering
+A–L
+M–Z
+Aerospace engineering
+Civil engineering
+Electrical and electronics engineering
+Mechanical engineering
+Structural engineering
+Other
+Agricultural
+Audio
+Automation
+Biomedical
+Bioinformatics
+Clinical
+Health technology
+Pharmaceutical
+Rehabilitation
+Building services
+MEP
+Design
+Explosives
+Facilities
+Fire
+Forensic
+Climate
+Geomatics
+Graphics
+Industrial
+Information
+Instrumentation
+Instrumentation and control
+Logistics
+Management
+Mathematics
+Mechatronics
+Military
+Nuclear
+Ontology
+Packaging
+Physics
+Privacy
+Safety
+Security
+Survey
+Sustainability
+Systems
+Textile
+
+ Category
+ Commons
+ Wikiproject
+ Portal
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nanoengineering&oldid=1267563497"
+Categories: NanotechnologyEngineering disciplinesHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 5 January 2025, at 18:12 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Nanoengineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

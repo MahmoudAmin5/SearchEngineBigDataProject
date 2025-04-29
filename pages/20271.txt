@@ -1,0 +1,995 @@
+https://en.wikipedia.org/wiki/Harvard_architecture
+
+
+
+
+Harvard architecture - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Memory details
+
+
+
+
+Toggle Memory details subsection
+
+
+
+
+
+1.1
+Contrast with von Neumann architectures
+
+
+
+
+
+
+
+
+1.2
+Contrast with modified Harvard architecture
+
+
+
+
+
+
+
+
+
+
+2
+Speed
+
+
+
+
+Toggle Speed subsection
+
+
+
+
+
+2.1
+Internal versus external design
+
+
+
+
+
+
+
+
+
+
+3
+Modern uses of the Harvard architecture
+
+
+
+
+
+
+
+
+4
+Notes
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harvard architecture
+
+
+
+32 languages
+
+
+
+
+العربيةБългарскиCatalàČeštinaDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançais한국어HrvatskiItalianoעבריתLombardMagyarNederlands日本語PolskiPortuguêsRomânăРусскийSlovenčinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer architecture where code and data each have a separate bus
+
+
+For the architecture program at Harvard University, see Harvard Graduate School of Design.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Harvard architecture" – news · newspapers · books · scholar · JSTOR (March 2011) (Learn how and when to remove this message)
+Harvard architecture
+The Harvard architecture is a computer architecture with separate storage[1] and signal pathways for instructions and data. It is often contrasted with the von Neumann architecture, where program instructions and data share the same memory and pathways. This architecture is often used in real-time processing or low-power applications.[2][3]
+The term is often stated as having originated from the Harvard Mark I[4] relay-based computer, which stored instructions on punched tape (24 bits wide) and data in electro-mechanical counters. These early machines had data storage entirely contained within the central processing unit, and provided no access to the instruction storage as data. Programs needed to be loaded by an operator; the processor could not initialize itself. However, in the only peer-reviewed paper on the topic published in 2022 the author states that:[5][6]
+
+'The term "Harvard architecture" was coined decades later, in the context of microcontroller design' and only 'retrospectively applied to the Harvard machines and subsequently applied to RISC microprocessors with separated caches';
+'The so-called "Harvard" and "von Neumann" architectures are often portrayed as a dichotomy, but the various devices labeled as the former have far more in common with the latter than they do with each other';
+'In short [the Harvard architecture] isn't an architecture and didn't derive from work at Harvard'.
+Modern processors appear to the user to be systems with von Neumann architectures, with the program code stored in the same main memory as the data. For performance reasons, internally and largely invisible to the user, most designs have separate processor caches for the instructions and data, with separate pathways into the processor for each. This is one form of what is known as the modified Harvard architecture.
+Harvard architecture is historically, and traditionally, split into two address spaces, but having three, i.e. two extra (and all accessed in each cycle) is also done,[7] while rare.
+
+
+Memory details[edit]
+In a Harvard architecture, there is no need to make the two memories share characteristics. In particular, the word width, timing, implementation technology, and memory address structure can differ. In some systems, instructions for pre-programmed tasks can be stored in read-only memory while data memory generally requires read-write memory. In some systems, there is much more instruction memory than data memory so instruction addresses are wider than data addresses.
+
+Contrast with von Neumann architectures[edit]
+Main article: Von Neumann architecture
+In a system with a pure von Neumann architecture, instructions and data are stored in the same memory, so instructions are fetched over the same data path used to fetch data. This means that a CPU cannot simultaneously read an instruction and read or write data from or to the memory. In a computer using the Harvard architecture, the CPU can both read an instruction and perform a data memory access at the same time,[8] even without a cache. A Harvard architecture computer can thus be faster for a given circuit complexity because instruction fetches and data access do not contend for a single memory pathway.
+Also, a Harvard architecture machine has distinct code and data address spaces: instruction address zero is not the same as data address zero. Instruction address zero might identify a twenty-four-bit value, while data address zero might indicate an eight-bit byte that is not part of that twenty-four-bit value.
+
+Contrast with modified Harvard architecture[edit]
+Main article: Modified Harvard architecture
+A modified Harvard architecture machine is very much like a Harvard architecture machine, but it relaxes the strict separation between instruction and data while still letting the CPU concurrently access two (or more) memory buses. The most common modification includes separate instruction and data caches backed by a common address space.  While the CPU executes from cache, it acts as a pure Harvard machine.  When accessing backing memory, it acts like a von Neumann machine (where code can be moved around like data, which is a powerful technique). This modification is widespread in modern processors, such as the ARM architecture, Power ISA and x86 processors.  It is sometimes loosely called a Harvard architecture, overlooking the  fact that it is actually "modified".
+Another modification provides a pathway between the instruction memory (such as ROM or flash memory) and the CPU to allow words from the instruction memory to be treated as read-only data. This technique is used in some microcontrollers, including the Atmel AVR. This allows constant data, such as text strings or function tables, to be accessed without first having to be copied into data memory, preserving scarce (and power-hungry) data memory for read/write variables. Special machine language instructions are provided to read data from the instruction memory, or the instruction memory can be accessed using a peripheral interface.[a] (This is distinct from instructions which themselves embed constant data, although for individual constants the two mechanisms can substitute for each other.)
+
+Speed[edit]
+See also: Memory bottleneck and Von Neumann architecture § Von Neumann bottleneck
+In recent years, the speed of the CPU has grown many times in comparison to the access speed of the main memory. Care needs to be taken to reduce the number of times main memory is accessed in order to maintain performance. If, for instance, every instruction run in the CPU requires an access to memory, the computer gains nothing for increased CPU speed—a problem referred to as being memory bound.
+It is possible to make extremely fast memory, but this is only practical for small amounts of memory for cost, power and signal routing reasons. The solution is to provide a small amount of very fast memory known as a CPU cache which holds recently accessed data. As long as the data that the CPU needs is in the cache, the performance is much higher than it is when the CPU has to get the data from the main memory. On the other side, however, it may still be limited to storing repetitive programs or data and still has a storage size limitation, and other potential problems associated with it.[b]
+
+Internal versus external design[edit]
+Modern high performance CPU chip designs incorporate aspects of both Harvard and von Neumann architecture. In particular, the "split cache" version of the modified Harvard architecture is very common. CPU cache memory is divided into an instruction cache and a data cache. Harvard architecture is used as the CPU accesses the cache. In the case of a cache miss, however, the data is retrieved from the main memory, which is not formally divided into separate instruction and data sections, although it may well have separate memory controllers used for concurrent access to RAM, ROM and (NOR) flash memory.
+Thus, while a von Neumann architecture is visible in some contexts, such as when data and code come through the same memory controller, the hardware implementation gains the efficiencies of the Harvard architecture for cache accesses and at least some main memory accesses.
+In addition, CPUs often have write buffers which let CPUs proceed after writes to non-cached regions. The von Neumann nature of memory is then visible when instructions are written as data by the CPU and software must ensure that the caches (data and instruction) and write buffer are synchronized before trying to execute those just-written instructions.
+
+Modern uses of the Harvard architecture[edit]
+The principal advantage of the pure Harvard architecture—simultaneous access to more than one memory system—has been reduced by modified Harvard processors using modern CPU cache systems. Relatively pure Harvard architecture machines are used mostly in applications where trade-offs, like the cost and power savings from omitting caches, outweigh the programming penalties from featuring distinct code and data address spaces.
+
+Digital signal processors (DSPs) generally execute small, highly optimized audio or video processing algorithms using a Harvard architecture.[11] They avoid caches because their behavior must be extremely reproducible. The difficulties of coping with multiple address spaces are of secondary concern to speed of execution. Consequently, some DSPs feature multiple data memories in distinct address spaces to facilitate SIMD and VLIW processing. Texas Instruments TMS320 C55x processors, for one example, feature multiple parallel data buses (two write, three read) and one instruction bus.
+Microcontrollers are characterized by having small amounts of program (flash memory) and data (SRAM) memory, and take advantage of the Harvard architecture to speed processing by concurrent instruction and data.[12] The separate storage means the program and data memories may feature different bit widths, for example using 16-bit-wide instructions and 8-bit-wide data. They also mean that instruction prefetch can be performed in parallel with other activities. Examples include the PIC by Microchip Technology, Inc. and the AVR by Atmel Corp (now part of Microchip Technology).
+Even in these cases, it is common to employ special instructions in order to access program memory as though it were data for read-only tables, or for reprogramming; those processors are modified Harvard architecture processors.
+
+Notes[edit]
+
+
+^ The IAP lines of 8051-compatible microcontrollers from STC have dual ported Flash memory, with one of the two ports hooked to the instruction bus of the processor core, and the other port made available in the special function register region.
+
+^ As in a well described case of Intel 80486.[9]: 26–34 [10]
+
+
+References[edit]
+
+
+^ Noergaard, Tammy (2005). Embedded Systems Architecture: A Comprehensive Guide for Engineers and Programmers. Newnes. ISBN 978-0-7506-7792-9.
+
+^ Kong, J. H.; Ang, L. M.; Seng, K. P. (2010). Minimal Instruction Set AES Processor using Harvard Architecture. 2010 3rd International Conference on Computer Science and Information Technology. Vol. 9. pp. 65–69. doi:10.1109/ICCSIT.2010.5564522. ISBN 978-1-4244-5537-9.
+
+^ Venkatesan, Chandran; Sulthana, M. Thabsera; Sumithra, M. G.; Suriya, M. (2019). Design of a 16-Bit Harvard Structure RISC Processor in Cadence 45nm Technology. 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS). pp. 173–178. doi:10.1109/ICACCS.2019.8728479. ISBN 978-1-5386-9531-9.
+
+^ Furber, S. B. (2017-09-19). VLSI Risc Architecture and Organization. Routledge. ISBN 978-1-351-40537-9.
+
+^ Pawson, Richard (30 September 2022). "The Myth of the Harvard Architecture". IEEE Annals of the History of Computing. 44 (3): 59–69. doi:10.1109/MAHC.2022.3175612. S2CID 252018052.
+
+^ Pawson, Richard (2022), The Myth of the Harvard Architecture (PDF)
+
+^ "Kalimba DSP: User guide" (PDF). July 2006. p. 18. Retrieved 2022-09-23. this is a three-bank Harvard architecture.
+
+^ "386 vs. 030: the Crowded Fast Lane". Dr. Dobb's Journal, January 1988.
+
+^ Brown, John Forrest (1994). Embedded systems programming in C and Assembly. New York: Van Nostrand Reinhold. ISBN 0-442-01817-7. OCLC 28966593.
+
+^ "Embedded Systems Programming: Perils of the PC Cache". users.ece.cmu.edu. Archived from the original on January 15, 2020. Retrieved 2022-05-26.
+
+^ Ungerboeck, G.; Maiwald, D.; Kaeser, H. P.; Chevillat, P. R.; Beraud, J. P. (1985). "Architecture of a digital signal processor". IBM Journal of Research and Development. 29 (2): 132–139. doi:10.1147/rd.292.0132.
+
+^ Hu, Yue-li; Cao, Jia-lin; Ran, Feng; Liang, Zhi-jian (2004). "Design of a high performance microcontroller". Proceedings of the Sixth IEEE CPMT Conference on High Density Microsystem Design and Packaging and Component Failure Analysis (HDP '04). pp. 25–28. doi:10.1109/HPD.2004.1346667. ISBN 0-7803-8620-5.
+
+
+External links[edit]
+Harvard Architecture
+Harvard vs von Neumann Architectures
+Difference Between Harvard Architecture And Von Neumann Architecture
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Harvard_architecture&oldid=1282233071"
+Categories: Computer architectureClasses of computersHidden categories: Articles with short descriptionShort description matches WikidataUse American English from March 2019All Wikipedia articles written in American EnglishArticles needing additional references from March 2011All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 25 March 2025, at 04:47 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harvard architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

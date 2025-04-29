@@ -1,0 +1,13275 @@
+https://en.wikipedia.org/wiki/Transistor_count
+
+
+
+
+Transistor count - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Records
+
+
+
+
+
+
+
+
+2
+Transistor count
+
+
+
+
+Toggle Transistor count subsection
+
+
+
+
+
+2.1
+Microprocessors
+
+
+
+
+
+
+
+
+2.2
+GPUs
+
+
+
+
+
+
+
+
+2.3
+FPGA
+
+
+
+
+
+
+
+
+2.4
+Memory
+
+
+
+
+
+
+
+
+2.5
+Transistor computers
+
+
+
+
+
+
+
+
+2.6
+Logic functions
+
+
+
+
+
+
+
+
+2.7
+Parallel systems
+
+
+
+
+
+
+
+
+2.8
+Other devices
+
+
+
+
+
+
+
+
+
+
+3
+Transistor density
+
+
+
+
+Toggle Transistor density subsection
+
+
+
+
+
+3.1
+MOSFET nodes
+
+
+
+
+
+
+
+
+
+
+4
+Gate count
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+Notes
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Transistor count
+
+
+
+6 languages
+
+
+
+
+CatalàفارسیNederlandsTürkçe粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Number of transistors in a device
+
+
+Semiconductordevicefabrication
+MOSFET scaling(process nodes)
+
+
+020 μm – 1968
+010 μm – 1971
+006 μm – 1974
+003 μm – 1977
+ 1.5 μm – 1981
+001 μm – 1984
+800 nm – 1987
+600 nm – 1990
+350 nm – 1993
+250 nm – 1996
+180 nm – 1999
+130 nm – 2001
+090 nm – 2003
+065 nm – 2005
+045 nm – 2007
+032 nm – 2009
+028 nm – 2010
+022 nm – 2012
+014 nm – 2014
+010 nm – 2016
+007 nm – 2018
+005 nm – 2020
+003 nm – 2022
+
+
+Future
+002 nm ~ 2025
+001 nm ~ 2027
+000.5 nm ~ 2032
+
+
+
+Half-nodes
+Density
+CMOS
+Device (multi-gate)
+Moore's law
+Transistor count
+Semiconductor
+Industry
+Nanoelectronics
+
+
+vte
+The transistor count is the number of transistors in an electronic device (typically on a single substrate or silicon die). It is the most common measure of integrated circuit complexity (although the majority of transistors in modern microprocessors are contained in cache memories, which consist mostly of the same memory cell circuits replicated many times). The rate at which MOS transistor counts have increased generally follows Moore's law, which observes that transistor count doubles approximately every two years. However, being directly proportional to the area of a die, transistor count does not represent how advanced the corresponding manufacturing technology is. A better indication of this is transistor density which is the ratio of a semiconductor's transistor count to its die area.
+
+
+Records[edit]
+As of 2023[update], the highest transistor count in flash memory is Micron's 2 terabyte (3D-stacked) 16-die, 232-layer V-NAND flash memory chip, with 5.3 trillion floating-gate MOSFETs (3 bits per transistor).
+The highest transistor count in a single chip processor as of 2020[update] is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[1][2][3][4][5]
+As of 2024[update], the GPU with the highest transistor count is Nvidia's Blackwell-based B100 accelerator, built on TSMC's custom 4NP process node and totaling 208 billion MOSFETs.
+The highest transistor count in a consumer microprocessor as of March 2025[update] is 184 billion transistors, in Apple's ARM-based dual-die M3 Ultra SoC, which is fabricated using TSMC's 3 nm semiconductor manufacturing process.[6]
+
+
+
+Year
+
+Component
+
+Name
+
+Number of MOSFETs (in trillions)
+
+Remarks
+
+
+2022
+
+Flash memory
+
+Micron's V-NAND module
+
+5.3
+
+stacked package of sixteen 232-layer 3D NAND dies
+
+
+2020
+
+any processor
+
+Wafer Scale Engine 2
+
+2.6
+
+wafer-scale design of 84 exposed fields (dies)
+
+
+2024
+
+GPU
+
+Nvidia B100
+
+0.208
+
+Uses two reticle limit dies, with 104 billion transistors each, joined together and acting as a single large monolithic piece of silicon
+
+
+2025
+
+Microprocessor  (consumer)
+
+Apple M3 Ultra
+
+0.184
+
+SoC using two dies joined together with a high-speed bridge
+
+
+2020
+
+DLP
+
+Colossus Mk2 GC200
+
+0.059
+
+An IPU[clarification needed] in contrast to CPU and GPU
+
+
+In terms of computer systems that consist of numerous integrated circuits, the supercomputer with the highest transistor count as of 2016[update] was the Chinese-designed Sunway TaihuLight, which has for all CPUs/nodes combined "about 400 trillion transistors in the processing part of the hardware" and "the DRAM includes about 12 quadrillion transistors, and that's about 97 percent of all the transistors."[7] To compare, the smallest computer, as of 2018[update] dwarfed by a grain of rice, had on the order of 100,000 transistors. Early experimental solid-state computers had as few as 130 transistors but used large amounts of diode logic. The first carbon nanotube computer had 178 transistors and was a 1-bit one-instruction set computer, while a later one is 16-bit (its instruction set is 32-bit RISC-V though).
+Ionic transistor chips ("water-based" analog limited processor), have up to hundreds of such transistors.[8]
+Estimates of the total numbers of transistors manufactured:
+
+Up to 2014: 2.9×1021
+Up to 2018: 1.3×1022[9][10]
+Transistor count[edit]
+Plot of MOS transistor counts for microprocessors against dates of in­tro­duction. The curve shows counts doubling every two years, per Moore's law. 
+Microprocessors[edit]
+See also: Microprocessor chronology and Microcontroller
+This subsection needs additional citations for verification. Relevant discussion may be found on the talk page. Please help improve this article by adding citations to reliable sources in this subsection. Unsourced material may be challenged and removed.Find sources: "Transistor count" – news · newspapers · books · scholar · JSTOR (December 2019) (Learn how and when to remove this message)
+A microprocessor incorporates the functions of a computer's central processing unit on a single integrated circuit. It is a multi-purpose, programmable device that accepts digital data as input, processes it according to instructions stored in its memory, and provides results as output.
+The development of MOS integrated circuit technology in the 1960s led to the development of the first microprocessors.[11] The 20-bit MP944, developed by Garrett AiResearch for the U.S. Navy's F-14 Tomcat fighter in 1970, is considered by its designer Ray Holt to be the first microprocessor.[12] It was a multi-chip microprocessor, fabricated on six MOS chips. However, it was classified by the Navy until 1998. The 4-bit Intel 4004, released in 1971, was the first single-chip microprocessor.
+Modern microprocessors typically include on-chip cache memories. The number of transistors used for these cache memories typically far exceeds the number of transistors used to implement the logic of the microprocessor (that is, excluding the cache). For example, the last DEC Alpha chip uses 90% of its transistors for cache.[13]
+
+
+
+Processor
+
+Transistor count
+
+Year
+
+Designer
+
+Process(nm)
+
+Area (mm2)
+
+Transistordensity(tr./mm2)
+
+
+MP944 (20-bit, 6-chip, 28 chips total)
+
+74,442 (5,360 excl. ROM & RAM)[14][15]
+
+1970[12][a]
+
+Garrett AiResearch
+
+?
+
+?
+
+?
+
+
+Intel 4004 (4-bit, 16-pin)
+
+2,250
+
+1971
+
+Intel
+
+10,000 nm
+
+12 mm2
+
+188
+
+
+TMX 1795 (8-bit, 24-pin)
+
+3,078[16]
+
+1971
+
+Texas Instruments
+
+?
+
+30.64 mm2
+
+100.5
+
+
+Intel 8008 (8-bit, 18-pin)
+
+3,500
+
+1972
+
+Intel
+
+10,000 nm
+
+14 mm2
+
+250
+
+
+NEC μCOM-4 (4-bit, 42-pin)
+
+2,500[17][18]
+
+1973
+
+NEC
+
+7,500 nm[19]
+
+?
+
+?
+
+
+Toshiba TLCS-12 (12-bit)
+
+11,000+[20]
+
+1973
+
+Toshiba
+
+6,000 nm
+
+32.45 mm2
+
+340+
+
+
+Intel 4040 (4-bit, 16-pin)
+
+3,000
+
+1974
+
+Intel
+
+10,000 nm
+
+12 mm2
+
+250
+
+
+Motorola 6800 (8-bit, 40-pin)
+
+4,100
+
+1974
+
+Motorola
+
+6,000 nm
+
+16 mm2
+
+256
+
+
+Intel 8080 (8-bit, 40-pin)
+
+6,000
+
+1974
+
+Intel
+
+6,000 nm
+
+20 mm2
+
+300
+
+
+TMS 1000 (4-bit, 28-pin)
+
+8,000[b]
+
+1974[21]
+
+Texas Instruments
+
+8,000 nm
+
+11 mm2
+
+730
+
+
+MOS Technology 6502 (8-bit, 40-pin)
+
+4,528[c][22]
+
+1975
+
+MOS Technology
+
+8,000 nm
+
+21 mm2
+
+216
+
+
+Intersil IM6100 (12-bit, 40-pin; clone of PDP-8)
+
+4,000
+
+1975
+
+Intersil
+
+?
+
+?
+
+?
+
+
+CDP 1801 (8-bit, 2-chip, 40-pin)
+
+5,000
+
+1975
+
+RCA
+
+?
+
+?
+
+?
+
+
+RCA 1802 (8-bit, 40-pin)
+
+5,000
+
+1976
+
+RCA
+
+5,000 nm
+
+27 mm2
+
+185
+
+
+Zilog Z80 (8-bit, 4-bit ALU, 40-pin)
+
+8,500[d]
+
+1976
+
+Zilog
+
+4,000 nm
+
+18 mm2
+
+470
+
+
+Intel 8085 (8-bit, 40-pin)
+
+6,500
+
+1976
+
+Intel
+
+3,000 nm
+
+20 mm2
+
+325
+
+
+TMS9900 (16-bit)
+
+8,000
+
+1976
+
+Texas Instruments
+
+?
+
+?
+
+?
+
+
+Bellmac-8 (8-bit)
+
+7,000
+
+1977
+
+Bell Labs
+
+5,000 nm
+
+?
+
+?
+
+
+Motorola 6809 (8-bit with some 16-bit features, 40-pin)
+
+9,000
+
+1978
+
+Motorola
+
+5,000 nm
+
+21 mm2
+
+430
+
+
+Intel 8086 (16-bit, 40-pin)
+
+29,000[23]
+
+1978
+
+Intel
+
+3,000 nm
+
+33 mm2
+
+880
+
+
+Zilog Z8000 (16-bit)
+
+17,500[24]
+
+1979
+
+Zilog
+
+5,000-6,000 nm (design rules)
+
+39.31 mm2 (238x256 mil2)
+
+445
+
+
+Intel 8088 (16-bit, 8-bit data bus)
+
+29,000
+
+1979
+
+Intel
+
+3,000 nm
+
+33 mm2
+
+880
+
+
+Motorola 68000 (16/32-bit, 32-bit registers, 16-bit  ALU)
+
+68,000[25]
+
+1979
+
+Motorola
+
+3,500 nm
+
+44 mm2
+
+1,550
+
+
+Intel 8051 (8-bit, 40-pin)
+
+50,000
+
+1980
+
+Intel
+
+?
+
+?
+
+?
+
+
+WDC 65C02
+
+11,500[26]
+
+1981
+
+WDC
+
+3,000 nm
+
+6 mm2
+
+1,920
+
+
+ROMP (32-bit)
+
+45,000
+
+1981
+
+IBM
+
+2,000 nm
+
+58.52 mm2
+
+770
+
+
+Intel 80186 (16-bit, 68-pin)
+
+55,000
+
+1982
+
+Intel
+
+3,000 nm
+
+60 mm2
+
+920
+
+
+Intel 80286 (16-bit, 68-pin)
+
+134,000
+
+1982
+
+Intel
+
+1,500 nm
+
+49 mm2
+
+2,730
+
+
+WDC 65C816 (8/16-bit)
+
+22,000[27]
+
+1983
+
+WDC
+
+3,000 nm[28]
+
+9 mm2
+
+2,400
+
+
+NEC V20
+
+63,000
+
+1984
+
+NEC
+
+?
+
+?
+
+?
+
+
+Motorola 68020 (32-bit; 114 pins used)
+
+190,000[29]
+
+1984
+
+Motorola
+
+2,000 nm
+
+85 mm2
+
+2,200
+
+
+Intel 80386 (32-bit, 132-pin; no cache)
+
+275,000
+
+1985
+
+Intel
+
+1,500 nm
+
+104 mm2
+
+2,640
+
+
+ARM 1 (32-bit; no cache)
+
+25,000[29]
+
+1985
+
+Acorn
+
+3,000 nm
+
+50 mm2
+
+500
+
+
+Novix NC4016 (16-bit)
+
+16,000[30]
+
+1985[31]
+
+Harris Corporation
+
+3,000 nm[32]
+
+?
+
+?
+
+
+SPARC MB86900 (32-bit; no cache)
+
+110,000[33]
+
+1986
+
+Fujitsu
+
+1,200 nm
+
+?
+
+?
+
+
+NEC V60[34] (32-bit; no cache)
+
+375,000
+
+1986
+
+NEC
+
+1,500 nm
+
+?
+
+?
+
+
+ARM 2 (32-bit, 84-pin; no cache)
+
+27,000[35][29]
+
+1986
+
+Acorn
+
+2,000 nm
+
+30.25 mm2
+
+890
+
+
+Z80000 (32-bit; very small cache)
+
+91,000
+
+1986
+
+Zilog
+
+?
+
+?
+
+?
+
+
+NEC V70[34] (32-bit; no cache)
+
+385,000
+
+1987
+
+NEC
+
+1,500 nm
+
+?
+
+?
+
+
+Hitachi Gmicro/200[36]
+
+730,000
+
+1987
+
+Hitachi
+
+1,000 nm
+
+?
+
+?
+
+
+Motorola 68030 (32-bit, very small caches)
+
+273,000
+
+1987
+
+Motorola
+
+800 nm
+
+102 mm2
+
+2,680
+
+
+TI Explorer's 32-bit Lisp machine chip
+
+553,000[37]
+
+1987
+
+Texas Instruments
+
+2,000 nm[38]
+
+?
+
+?
+
+
+DEC WRL MultiTitan
+
+180,000[39]
+
+1988
+
+DEC WRL
+
+1,500 nm
+
+61 mm2
+
+2,950
+
+
+Intel i960 (32-bit, 33-bit memory subsystem, no cache)
+
+250,000[40]
+
+1988
+
+Intel
+
+1,500 nm[41]
+
+?
+
+?
+
+
+Intel i960CA (32-bit, cache)
+
+600,000[41]
+
+1989
+
+Intel
+
+800 nm
+
+143 mm2
+
+4,200
+
+
+Intel i860 (32/64-bit, 128-bit SIMD, cache, VLIW)
+
+1,000,000[42]
+
+1989
+
+Intel
+
+?
+
+?
+
+?
+
+
+Intel 80486 (32-bit, 8 KB cache)
+
+1,180,235
+
+1989
+
+Intel
+
+1,000 nm
+
+173 mm2
+
+6,822
+
+
+ARM 3 (32-bit, 4 KB cache)
+
+310,000
+
+1989
+
+Acorn
+
+1,500 nm
+
+87 mm2
+
+3,600
+
+
+POWER1 (9-chip module, 72 kB of cache)
+
+6,900,000[43]
+
+1990
+
+IBM
+
+1,000 nm
+
+1,283.61 mm2
+
+5,375
+
+
+Motorola 68040 (32-bit, 8 KB caches)
+
+1,200,000
+
+1990
+
+Motorola
+
+650 nm
+
+152 mm2
+
+7,900
+
+
+R4000 (64-bit, 16 KB of caches)
+
+1,350,000
+
+1991
+
+MIPS
+
+1,000 nm
+
+213 mm2
+
+6,340
+
+
+ARM 6 (32-bit, no cache for this 60 variant)
+
+35,000
+
+1991
+
+ARM
+
+800 nm
+
+?
+
+?
+
+
+Hitachi SH-1 (32-bit, no cache)
+
+600,000[44]
+
+1992[45]
+
+Hitachi
+
+800 nm
+
+100 mm2
+
+6,000
+
+
+Intel i960CF (32-bit, cache)
+
+900,000[41]
+
+1992
+
+Intel
+
+?
+
+125 mm2
+
+7,200
+
+
+Alpha 21064 (64-bit, 290-pin; 16 KB of caches)
+
+1,680,000
+
+1992
+
+DEC
+
+750 nm
+
+233.52 mm2
+
+7,190
+
+
+Hitachi HARP-1 (32-bit, cache)
+
+2,800,000[46]
+
+1993
+
+Hitachi
+
+500 nm
+
+267 mm2
+
+10,500
+
+
+Pentium (32-bit, 16 KB of caches)
+
+3,100,000
+
+1993
+
+Intel
+
+800 nm
+
+294 mm2
+
+10,500
+
+
+POWER2 (8-chip module, 288 kB of cache)
+
+23,037,000[47]
+
+1993
+
+IBM
+
+720 nm
+
+1,217.39 mm2
+
+18,923
+
+
+ARM700 (32-bit; 8 KB cache)
+
+578,977[48]
+
+1994
+
+ARM
+
+700 nm
+
+68.51 mm2
+
+8,451
+
+
+MuP21 (21-bit,[49] 40-pin; includes video)
+
+7,000[50]
+
+1994
+
+Offete Enterprises
+
+1,200 nm
+
+?
+
+?
+
+
+Motorola 68060 (32-bit, 16 KB of caches)
+
+2,500,000
+
+1994
+
+Motorola
+
+600 nm
+
+218 mm2
+
+11,500
+
+
+PowerPC 601 (32-bit, 32 KB of caches)
+
+2,800,000[51]
+
+1994
+
+Apple, IBM, Motorola
+
+600 nm
+
+121 mm2
+
+23,000
+
+
+PowerPC 603 (32-bit, 16 KB of caches)
+
+1,600,000[52]
+
+1994
+
+Apple, IBM, Motorola
+
+500 nm
+
+84.76 mm2
+
+18,900
+
+
+PowerPC 603e (32-bit, 32 KB of caches)
+
+2,600,000[53]
+
+1995
+
+Apple, IBM, Motorola
+
+500 nm
+
+98 mm2
+
+26,500
+
+
+Alpha 21164 EV5 (64-bit, 112 kB cache)
+
+9,300,000[54]
+
+1995
+
+DEC
+
+500 nm
+
+298.65 mm2
+
+31,140
+
+
+SA-110 (32-bit, 32 KB of caches)
+
+2,500,000[29]
+
+1995
+
+Acorn, DEC, Apple
+
+350 nm
+
+50 mm2
+
+50,000
+
+
+Pentium Pro (32-bit, 16 KB of caches;[55] L2 cache on-package, but on separate die)
+
+5,500,000[56]
+
+1995
+
+Intel
+
+500 nm
+
+307 mm2
+
+18,000
+
+
+PA-8000 64-bit, no cache
+
+3,800,000[57]
+
+1995
+
+HP
+
+500 nm
+
+337.69 mm2
+
+11,300
+
+
+Alpha 21164A EV56 (64-bit, 112 kB cache)
+
+9,660,000[58]
+
+1996
+
+DEC
+
+350 nm
+
+208.8 mm2
+
+46,260
+
+
+AMD K5 (32-bit, caches)
+
+4,300,000
+
+1996
+
+AMD
+
+500 nm
+
+251 mm2
+
+17,000
+
+
+Pentium II Klamath (32-bit, 64-bit SIMD, caches)
+
+7,500,000
+
+1997
+
+Intel
+
+350 nm
+
+195 mm2
+
+39,000
+
+
+AMD K6 (32-bit, caches)
+
+8,800,000
+
+1997
+
+AMD
+
+350 nm
+
+162 mm2
+
+54,000
+
+
+F21 (21-bit; includes e.g. video)
+
+15,000
+
+1997[50]
+
+Offete Enterprises
+
+?
+
+?
+
+?
+
+
+AVR (8-bit, 40-pin; w/memory)
+
+140,000 (48,000 excl. memory[59])
+
+1997
+
+Nordic VLSI/Atmel
+
+?
+
+?
+
+?
+
+
+Pentium II Deschutes (32-bit, large cache)
+
+7,500,000
+
+1998
+
+Intel
+
+250 nm
+
+113 mm2
+
+66,000
+
+
+Alpha 21264 EV6 (64-bit)
+
+15,200,000[60]
+
+1998
+
+DEC
+
+350 nm
+
+313.96 mm2
+
+48,400
+
+
+Alpha 21164PC PCA57 (64-bit, 48 kB cache)
+
+5,700,000
+
+1998
+
+Samsung
+
+280 nm
+
+100.5 mm2
+
+56,700
+
+
+Hitachi SH-4 (32-bit, caches)[61]
+
+3,200,000[62]
+
+1998
+
+Hitachi
+
+250 nm
+
+57.76 mm2
+
+55,400
+
+
+ARM 9TDMI (32-bit, no cache)
+
+111,000[29]
+
+1999
+
+Acorn
+
+350 nm
+
+4.8 mm2
+
+23,100
+
+
+Pentium III Katmai (32-bit, 128-bit SIMD, caches)
+
+9,500,000
+
+1999
+
+Intel
+
+250 nm
+
+128 mm2
+
+74,000
+
+
+Emotion Engine (64-bit, 128-bit SIMD, cache)
+
+10,500,000[63]– 13,500,000[64]
+
+1999
+
+Sony, Toshiba
+
+250 nm
+
+239.7 mm2[63]
+
+43,800 – 56,300
+
+
+Pentium II Mobile Dixon (32-bit, caches)
+
+27,400,000
+
+1999
+
+Intel
+
+180 nm
+
+180 mm2
+
+152,000
+
+
+AMD K6-III (32-bit, caches)
+
+21,300,000
+
+1999
+
+AMD
+
+250 nm
+
+118 mm2
+
+181,000
+
+
+AMD K7 (32-bit, caches)
+
+22,000,000
+
+1999
+
+AMD
+
+250 nm
+
+184 mm2
+
+120,000
+
+
+Gekko (32-bit, large cache)
+
+21,000,000[65]
+
+2000
+
+IBM, Nintendo
+
+180 nm
+
+43 mm2
+
+490,000 (check)
+
+
+Pentium III Coppermine (32-bit, large cache)
+
+21,000,000
+
+2000
+
+Intel
+
+180 nm
+
+80 mm2
+
+263,000
+
+
+Pentium 4 Willamette (32-bit, large cache)
+
+42,000,000
+
+2000
+
+Intel
+
+180 nm
+
+217 mm2
+
+194,000
+
+
+SPARC64 V (64-bit, large cache)
+
+191,000,000[66]
+
+2001
+
+Fujitsu
+
+130 nm[67]
+
+290 mm2
+
+659,000
+
+
+Pentium III Tualatin (32-bit, large cache)
+
+45,000,000
+
+2001
+
+Intel
+
+130 nm
+
+81 mm2
+
+556,000
+
+
+Pentium 4 Northwood (32-bit, large cache)
+
+55,000,000
+
+2002
+
+Intel
+
+130 nm
+
+145 mm2
+
+379,000
+
+
+Itanium 2 McKinley (64-bit, large cache)
+
+220,000,000
+
+2002
+
+Intel
+
+180 nm
+
+421 mm2
+
+523,000
+
+
+Alpha 21364 (64-bit, 946-pin, SIMD, very large caches)
+
+152,000,000[13]
+
+2003
+
+DEC
+
+180 nm
+
+397 mm2
+
+383,000
+
+
+AMD K7 Barton (32-bit, large cache)
+
+54,300,000
+
+2003
+
+AMD
+
+130 nm
+
+101 mm2
+
+538,000
+
+
+AMD K8 (64-bit, large cache)
+
+105,900,000
+
+2003
+
+AMD
+
+130 nm
+
+193 mm2
+
+548,700
+
+
+Pentium M Banias (32-bit)
+
+77,000,000[68]
+
+2003
+
+Intel
+
+130 nm
+
+83 mm2
+
+928,000
+
+
+Itanium 2 Madison 6M (64-bit)
+
+410,000,000
+
+2003
+
+Intel
+
+130 nm
+
+374 mm2
+
+1,096,000
+
+
+PlayStation 2 single chip (CPU + GPU)
+
+53,500,000[69]
+
+2003[70]
+
+Sony, Toshiba
+
+90 nm[71]130 nm[72][73]
+
+86 mm2
+
+622,100
+
+
+Pentium 4 Prescott (32-bit, large cache)
+
+112,000,000
+
+2004
+
+Intel
+
+90 nm
+
+110 mm2
+
+1,018,000
+
+
+Pentium M Dothan (32-bit)
+
+144,000,000[74]
+
+2004
+
+Intel
+
+90 nm
+
+87 mm2
+
+1,655,000
+
+
+SPARC64 V+ (64-bit, large cache)
+
+400,000,000[75]
+
+2004
+
+Fujitsu
+
+90 nm
+
+294 mm2
+
+1,360,000
+
+
+Itanium 2 (64-bit;9 MB cache)
+
+592,000,000
+
+2004
+
+Intel
+
+130 nm
+
+432 mm2
+
+1,370,000
+
+
+Pentium 4 Prescott-2M (32-bit, large cache)
+
+169,000,000
+
+2005
+
+Intel
+
+90 nm
+
+143 mm2
+
+1,182,000
+
+
+Pentium D Smithfield (64-bit, large cache)
+
+228,000,000
+
+2005
+
+Intel
+
+90 nm
+
+206 mm2
+
+1,107,000
+
+
+Xenon (64-bit, 128-bit SIMD, large cache)
+
+165,000,000
+
+2005
+
+IBM
+
+90 nm
+
+?
+
+?
+
+
+Cell (32-bit, cache)
+
+250,000,000[76]
+
+2005
+
+Sony, IBM, Toshiba
+
+90 nm
+
+221 mm2
+
+1,131,000
+
+
+Pentium 4 Cedar Mill (32-bit, large cache)
+
+184,000,000
+
+2006
+
+Intel
+
+65 nm
+
+90 mm2
+
+2,044,000
+
+
+Pentium D Presler (64-bit, large cache)
+
+362,000,000 [77]
+
+2006
+
+Intel
+
+65 nm
+
+162 mm2
+
+2,235,000
+
+
+Core 2 Duo Conroe (dual-core 64-bit, large caches)
+
+291,000,000
+
+2006
+
+Intel
+
+65 nm
+
+143 mm2
+
+2,035,000
+
+
+Dual-core Itanium 2 (64-bit, SIMD, large caches)
+
+1,700,000,000[78]
+
+2006
+
+Intel
+
+90 nm
+
+596 mm2
+
+2,852,000
+
+
+AMD K10 quad-core 2M L3 (64-bit, large caches)
+
+463,000,000[79]
+
+2007
+
+AMD
+
+65 nm
+
+283 mm2
+
+1,636,000
+
+
+ARM Cortex-A9 (32-bit, (optional) SIMD, caches)
+
+26,000,000[80]
+
+2007
+
+ARM
+
+45 nm
+
+31 mm2
+
+839,000
+
+
+Core 2 Duo Wolfdale (dual-core 64-bit, SIMD, caches)
+
+411,000,000
+
+2007
+
+Intel
+
+45 nm
+
+107 mm2
+
+3,841,000
+
+
+POWER6 (64-bit, large caches)
+
+789,000,000
+
+2007
+
+IBM
+
+65 nm
+
+341 mm2
+
+2,314,000
+
+
+Core 2 Duo Allendale (dual-core 64-bit, SIMD, large caches)
+
+169,000,000
+
+2007
+
+Intel
+
+65 nm
+
+111 mm2
+
+1,523,000
+
+
+Uniphier
+
+250,000,000[81]
+
+2007
+
+Matsushita
+
+45 nm
+
+?
+
+?
+
+
+SPARC64 VI (64-bit, SIMD, large caches)
+
+540,000,000
+
+2007[82]
+
+Fujitsu
+
+90 nm
+
+421 mm2
+
+1,283,000
+
+
+Core 2 Duo Wolfdale 3M (dual-core 64-bit, SIMD, large caches)
+
+230,000,000
+
+2008
+
+Intel
+
+45 nm
+
+83 mm2
+
+2,771,000
+
+
+Core i7 (quad-core 64-bit, SIMD, large caches)
+
+731,000,000
+
+2008
+
+Intel
+
+45 nm
+
+263 mm2
+
+2,779,000
+
+
+AMD K10 quad-core 6M L3 (64-bit, SIMD, large caches)
+
+758,000,000[79]
+
+2008
+
+AMD
+
+45 nm
+
+258 mm2
+
+2,938,000
+
+
+Atom (32-bit, large cache)
+
+47,000,000
+
+2008
+
+Intel
+
+45 nm
+
+24 mm2
+
+1,958,000
+
+
+SPARC64 VII (64-bit, SIMD, large caches)
+
+600,000,000
+
+2008[83]
+
+Fujitsu
+
+65 nm
+
+445 mm2
+
+1,348,000
+
+
+Six-core Xeon 7400 (64-bit, SIMD, large caches)
+
+1,900,000,000
+
+2008
+
+Intel
+
+45 nm
+
+503 mm2
+
+3,777,000
+
+
+Six-core Opteron 2400 (64-bit, SIMD, large caches)
+
+904,000,000
+
+2009
+
+AMD
+
+45 nm
+
+346 mm2
+
+2,613,000
+
+
+SPARC64 VIIIfx (64-bit, SIMD, large caches)
+
+760,000,000[84]
+
+2009
+
+Fujitsu
+
+45 nm
+
+513 mm2
+
+1,481,000
+
+
+Atom (Pineview) 64-bit, 1-core, 512 kB L2 cache
+
+123,000,000[85]
+
+2010
+
+Intel
+
+45 nm
+
+66 mm2
+
+1,864,000
+
+
+Atom (Pineview) 64-bit, 2-core, 1 MB L2 cache
+
+176,000,000[86]
+
+2010
+
+Intel
+
+45 nm
+
+87 mm2
+
+2,023,000
+
+
+SPARC T3 (16-core 64-bit, SIMD, large caches)
+
+1,000,000,000[87]
+
+2010
+
+Sun/Oracle
+
+40 nm
+
+377 mm2
+
+2,653,000
+
+
+Six-core Core i7 (Gulftown)
+
+1,170,000,000
+
+2010
+
+Intel
+
+32 nm
+
+240 mm2
+
+4,875,000
+
+
+POWER7 32M L3 (8-core 64-bit, SIMD, large caches)
+
+1,200,000,000
+
+2010
+
+IBM
+
+45 nm
+
+567 mm2
+
+2,116,000
+
+
+Quad-core z196[88] (64-bit, very large caches)
+
+1,400,000,000
+
+2010
+
+IBM
+
+45 nm
+
+512 mm2
+
+2,734,000
+
+
+Quad-core Itanium Tukwila (64-bit, SIMD, large caches)
+
+2,000,000,000[89]
+
+2010
+
+Intel
+
+65 nm
+
+699 mm2
+
+2,861,000
+
+
+Xeon Nehalem-EX (8-core 64-bit, SIMD, large caches)
+
+2,300,000,000[90]
+
+2010
+
+Intel
+
+45 nm
+
+684 mm2
+
+3,363,000
+
+
+SPARC64 IXfx (64-bit, SIMD, large caches)
+
+1,870,000,000[91]
+
+2011
+
+Fujitsu
+
+40 nm
+
+484 mm2
+
+3,864,000
+
+
+Quad-core + GPU Core i7 (64-bit, SIMD, large caches)
+
+1,160,000,000
+
+2011
+
+Intel
+
+32 nm
+
+216 mm2
+
+5,370,000
+
+
+Six-core Core i7/8-core Xeon E5 (Sandy Bridge-E/EP) (64-bit, SIMD, large caches)
+
+2,270,000,000[92]
+
+2011
+
+Intel
+
+32 nm
+
+434 mm2
+
+5,230,000
+
+
+Xeon Westmere-EX (10-core 64-bit, SIMD, large caches)
+
+2,600,000,000
+
+2011
+
+Intel
+
+32 nm
+
+512 mm2
+
+5,078,000
+
+
+Atom "Medfield" (64-bit)
+
+432,000,000[93]
+
+2012
+
+Intel
+
+32 nm
+
+64 mm2
+
+6,750,000
+
+
+SPARC64 X (64-bit, SIMD, caches)
+
+2,990,000,000[94]
+
+2012
+
+Fujitsu
+
+28 nm
+
+600 mm2
+
+4,983,000
+
+
+AMD Bulldozer (8-core 64-bit, SIMD, caches)
+
+1,200,000,000[95]
+
+2012
+
+AMD
+
+32 nm
+
+315 mm2
+
+3,810,000
+
+
+Quad-core + GPU AMD Trinity (64-bit, SIMD, caches)
+
+1,303,000,000
+
+2012
+
+AMD
+
+32 nm
+
+246 mm2
+
+5,297,000
+
+
+Quad-core + GPU Core i7 Ivy Bridge (64-bit, SIMD, caches)
+
+1,400,000,000
+
+2012
+
+Intel
+
+22 nm
+
+160 mm2
+
+8,750,000
+
+
+POWER7+ (8-core 64-bit, SIMD, 80 MB L3 cache)
+
+2,100,000,000
+
+2012
+
+IBM
+
+32 nm
+
+567 mm2
+
+3,704,000
+
+
+Six-core zEC12 (64-bit, SIMD, large caches)
+
+2,750,000,000
+
+2012
+
+IBM
+
+32 nm
+
+597 mm2
+
+4,606,000
+
+
+Itanium Poulson (8-core 64-bit, SIMD, caches)
+
+3,100,000,000
+
+2012
+
+Intel
+
+32 nm
+
+544 mm2
+
+5,699,000
+
+
+Xeon Phi (61-core 32-bit, 512-bit SIMD, caches)
+
+5,000,000,000[96]
+
+2012
+
+Intel
+
+22 nm
+
+720 mm2
+
+6,944,000
+
+
+Apple A7 (dual-core 64/32-bit ARM64, "mobile SoC", SIMD, caches)
+
+1,000,000,000
+
+2013
+
+Apple
+
+28 nm
+
+102 mm2
+
+9,804,000
+
+
+Six-core Core i7 Ivy Bridge E (64-bit, SIMD, caches)
+
+1,860,000,000
+
+2013
+
+Intel
+
+22 nm
+
+256 mm2
+
+7,266,000
+
+
+POWER8 (12-core 64-bit, SIMD, caches)
+
+4,200,000,000
+
+2013
+
+IBM
+
+22 nm
+
+650 mm2
+
+6,462,000
+
+
+Xbox One main SoC (64-bit, SIMD, caches)
+
+5,000,000,000
+
+2013
+
+Microsoft, AMD
+
+28 nm
+
+363 mm2
+
+13,770,000
+
+
+Quad-core + GPU Core i7 Haswell (64-bit, SIMD, caches)
+
+1,400,000,000[97]
+
+2014
+
+Intel
+
+22 nm
+
+177 mm2
+
+7,910,000
+
+
+Apple A8 (dual-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+2,000,000,000
+
+2014
+
+Apple
+
+20 nm
+
+89 mm2
+
+22,470,000
+
+
+Core i7 Haswell-E (8-core 64-bit, SIMD, caches)
+
+2,600,000,000[98]
+
+2014
+
+Intel
+
+22 nm
+
+355 mm2
+
+7,324,000
+
+
+Apple A8X (tri-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+3,000,000,000[99]
+
+2014
+
+Apple
+
+20 nm
+
+128 mm2
+
+23,440,000
+
+
+Xeon Ivy Bridge-EX (15-core 64-bit, SIMD, caches)
+
+4,310,000,000[100]
+
+2014
+
+Intel
+
+22 nm
+
+541 mm2
+
+7,967,000
+
+
+Xeon Haswell-E5 (18-core 64-bit, SIMD, caches)
+
+5,560,000,000[101]
+
+2014
+
+Intel
+
+22 nm
+
+661 mm2
+
+8,411,000
+
+
+Quad-core + GPU GT2 Core i7 Skylake K (64-bit, SIMD, caches)
+
+1,750,000,000
+
+2015
+
+Intel
+
+14 nm
+
+122 mm2
+
+14,340,000
+
+
+Dual-core + GPU Iris Core i7 Broadwell-U (64-bit, SIMD, caches)
+
+1,900,000,000[102]
+
+2015
+
+Intel
+
+14 nm
+
+133 mm2
+
+14,290,000
+
+
+Apple A9 (dual-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+2,000,000,000+
+
+2015
+
+Apple
+
+14 nm(Samsung)
+
+96 mm2(Samsung)
+
+20,800,000+
+
+
+16 nm(TSMC)
+
+104.5 mm2(TSMC)
+
+19,100,000+
+
+
+Apple A9X (dual core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+3,000,000,000+
+
+2015
+
+Apple
+
+16 nm
+
+143.9 mm2
+
+20,800,000+
+
+
+IBM z13 (64-bit, caches)
+
+3,990,000,000
+
+2015
+
+IBM
+
+22 nm
+
+678 mm2
+
+5,885,000
+
+
+IBM z13 Storage Controller
+
+7,100,000,000
+
+2015
+
+IBM
+
+22 nm
+
+678 mm2
+
+10,472,000
+
+
+SPARC M7 (32-core 64-bit, SIMD, caches)
+
+10,000,000,000[103]
+
+2015
+
+Oracle
+
+20 nm
+
+?
+
+?
+
+
+Core i7 Broadwell-E (10-core 64-bit, SIMD, caches)
+
+3,200,000,000[104]
+
+2016
+
+Intel
+
+14 nm
+
+246 mm2[105]
+
+13,010,000
+
+
+Apple A10 Fusion (quad-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+3,300,000,000
+
+2016
+
+Apple
+
+16 nm
+
+125 mm2
+
+26,400,000
+
+
+HiSilicon Kirin 960 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+4,000,000,000[106]
+
+2016
+
+Huawei
+
+16 nm
+
+110.00 mm2
+
+36,360,000
+
+
+Xeon Broadwell-E5 (22-core 64-bit, SIMD, caches)
+
+7,200,000,000[107]
+
+2016
+
+Intel
+
+14 nm
+
+456 mm2
+
+15,790,000
+
+
+Xeon Phi (72-core 64-bit, 512-bit SIMD, caches)
+
+8,000,000,000
+
+2016
+
+Intel
+
+14 nm
+
+683 mm2
+
+11,710,000
+
+
+Zip CPU (32-bit, for FPGAs)
+
+1,286 6-LUTs[108]
+
+2016
+
+Gisselquist Technology
+
+?
+
+?
+
+?
+
+
+Qualcomm Snapdragon 835 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+3,000,000,000[109][110]
+
+2016
+
+Qualcomm
+
+10 nm
+
+72.3 mm2
+
+41,490,000
+
+
+Apple A11 Bionic (hexa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+4,300,000,000
+
+2017
+
+Apple
+
+10 nm
+
+89.23 mm2
+
+48,190,000
+
+
+AMD Zen CCX (core complex unit: 4 cores, 8 MB L3 cache)
+
+1,400,000,000[111]
+
+2017
+
+AMD
+
+14 nm(GF 14LPP)
+
+44 mm2
+
+31,800,000
+
+
+AMD Zeppelin SoC Ryzen (64-bit, SIMD, caches)
+
+4,800,000,000[112]
+
+2017
+
+AMD
+
+14 nm
+
+192 mm2
+
+25,000,000
+
+
+AMD Ryzen 5 1600 Ryzen (64-bit, SIMD, caches)
+
+4,800,000,000[113]
+
+2017
+
+AMD
+
+14 nm
+
+213 mm2
+
+22,530,000
+
+
+IBM z14 (64-bit, SIMD, caches)
+
+6,100,000,000
+
+2017
+
+IBM
+
+14 nm
+
+696 mm2
+
+8,764,000
+
+
+IBM z14 Storage Controller (64-bit)
+
+9,700,000,000
+
+2017
+
+IBM
+
+14 nm
+
+696 mm2
+
+13,940,000
+
+
+HiSilicon Kirin 970 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+5,500,000,000[114]
+
+2017
+
+Huawei
+
+10 nm
+
+96.72 mm2
+
+56,900,000
+
+
+Xbox One X (Project Scorpio) main SoC (64-bit, SIMD, caches)
+
+7,000,000,000[115]
+
+2017
+
+Microsoft, AMD
+
+16 nm
+
+360 mm2[115]
+
+19,440,000
+
+
+Xeon Platinum 8180 (28-core 64-bit, SIMD, caches)
+
+8,000,000,000[116]
+
+2017
+
+Intel
+
+14 nm
+
+?
+
+?
+
+
+Xeon (unspecified)
+
+7,100,000,000[117]
+
+2017
+
+Intel
+
+14 nm
+
+672 mm2
+
+10,570,000
+
+
+POWER9 (64-bit, SIMD, caches)
+
+8,000,000,000
+
+2017
+
+IBM
+
+14 nm
+
+695 mm2
+
+11,500,000
+
+
+Freedom U500 Base Platform Chip (E51, 4×U54) RISC-V (64-bit, caches)
+
+250,000,000[118]
+
+2017
+
+SiFive
+
+28 nm
+
+~30 mm2
+
+8,330,000
+
+
+SPARC64 XII (12-core 64-bit, SIMD, caches)
+
+5,450,000,000[119]
+
+2017
+
+Fujitsu
+
+20 nm
+
+795 mm2
+
+6,850,000
+
+
+Apple A10X Fusion (hexa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+4,300,000,000[120]
+
+2017
+
+Apple
+
+10 nm
+
+96.40 mm2
+
+44,600,000
+
+
+Centriq 2400 (64/32-bit, SIMD, caches)
+
+18,000,000,000[121]
+
+2017
+
+Qualcomm
+
+10 nm
+
+398 mm2
+
+45,200,000
+
+
+AMD Epyc (32-core 64-bit, SIMD, caches)
+
+19,200,000,000
+
+2017
+
+AMD
+
+14 nm
+
+768 mm2
+
+25,000,000
+
+
+Qualcomm Snapdragon 845 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+5,300,000,000[122]
+
+2017
+
+Qualcomm
+
+10 nm
+
+94 mm2
+
+56,400,000
+
+
+Qualcomm Snapdragon 850 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+5,300,000,000[123]
+
+2017
+
+Qualcomm
+
+10 nm
+
+94 mm2
+
+56,400,000
+
+
+HiSilicon Kirin 710 (octa-core ARM64 "mobile SoC", SIMD, caches)
+
+5,500,000,000[124]
+
+2018
+
+Huawei
+
+12 nm
+
+?
+
+?
+
+
+Apple A12 Bionic (hexa-core ARM64 "mobile SoC", SIMD, caches)
+
+6,900,000,000[125][126]
+
+2018
+
+Apple
+
+7 nm
+
+83.27 mm2
+
+82,900,000
+
+
+HiSilicon Kirin 980 (octa-core ARM64 "mobile SoC", SIMD, caches)
+
+6,900,000,000[127]
+
+2018
+
+Huawei
+
+7 nm
+
+74.13 mm2
+
+93,100,000
+
+
+Qualcomm Snapdragon 8cx / SCX8180 (octa-core ARM64 "mobile SoC", SIMD, caches)
+
+8,500,000,000[128]
+
+2018
+
+Qualcomm
+
+7 nm
+
+112 mm2
+
+75,900,000
+
+
+Apple A12X Bionic (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+10,000,000,000[129]
+
+2018
+
+Apple
+
+7 nm
+
+122 mm2
+
+82,000,000
+
+
+Fujitsu A64FX (64/32-bit, SIMD, caches)
+
+8,786,000,000[130]
+
+2018[131]
+
+Fujitsu
+
+7 nm
+
+?
+
+?
+
+
+Tegra Xavier SoC (64/32-bit)
+
+9,000,000,000[132]
+
+2018
+
+Nvidia
+
+12 nm
+
+350 mm2
+
+25,700,000
+
+
+Qualcomm Snapdragon 855 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+6,700,000,000[133]
+
+2018
+
+Qualcomm
+
+7 nm
+
+73 mm2
+
+91,800,000
+
+
+AMD Zen 2 core (0.5 MB L2 + 4 MB L3 cache)
+
+475,000,000[134]
+
+2019
+
+AMD
+
+7 nm
+
+7.83 mm2
+
+60,664,000
+
+
+AMD Zen 2 CCX (core complex: 4 cores, 16 MB L3 cache)
+
+1,900,000,000[134]
+
+2019
+
+AMD
+
+7 nm
+
+31.32 mm2
+
+60,664,000
+
+
+AMD Zen 2 CCD (core complex die: 8 cores, 32 MB L3 cache)
+
+3,800,000,000[134]
+
+2019
+
+AMD
+
+7 nm
+
+74 mm2
+
+51,350,000
+
+
+AMD Zen 2 client I/O die
+
+2,090,000,000[134]
+
+2019
+
+AMD
+
+12 nm
+
+125 mm2
+
+16,720,000
+
+
+AMD Zen 2 server I/O die
+
+8,340,000,000[134]
+
+2019
+
+AMD
+
+12 nm
+
+416 mm2
+
+20,050,000
+
+
+AMD Zen 2 Renoir die
+
+9,800,000,000[134]
+
+2019
+
+AMD
+
+7 nm
+
+156 mm2
+
+62,820,000
+
+
+AMD Ryzen 7 3700X (64-bit, SIMD, caches, I/O die)
+
+5,990,000,000[135][e]
+
+2019
+
+AMD
+
+7 & 12 nm(TSMC)
+
+199 (74+125) mm2
+
+30,100,000
+
+
+HiSilicon Kirin 990 4G
+
+8,000,000,000[136]
+
+2019
+
+Huawei
+
+7 nm
+
+90.00 mm2
+
+89,000,000
+
+
+Apple A13 (hexa-core 64-bit ARM64 "mobile SoC", SIMD, caches)
+
+8,500,000,000[137][138]
+
+2019
+
+Apple
+
+7 nm
+
+98.48 mm2
+
+86,300,000
+
+
+IBM z15 CP chip (12 cores, 256 MB L3 cache)
+
+9,200,000,000[139]
+
+2019
+
+IBM
+
+14 nm
+
+696 mm2
+
+13,220,000
+
+
+IBM z15 SC chip (960 MB L4 cache)
+
+12,200,000,000
+
+2019
+
+IBM
+
+14 nm
+
+696 mm2
+
+17,530,000
+
+
+AMD Ryzen 9 3900X (64-bit, SIMD, caches, I/O die)
+
+9,890,000,000[140][141]
+
+2019
+
+AMD
+
+7 & 12 nm(TSMC)
+
+273 mm2
+
+36,230,000
+
+
+HiSilicon Kirin 990 5G
+
+10,300,000,000[142]
+
+2019
+
+Huawei
+
+7 nm
+
+113.31 mm2
+
+90,900,000
+
+
+AWS Graviton2 (64-bit, 64-core ARM-based, SIMD, caches)[143][144]
+
+30,000,000,000
+
+2019
+
+Amazon
+
+7 nm
+
+?
+
+?
+
+
+AMD Epyc Rome (64-bit, SIMD, caches)
+
+39,540,000,000[140][141]
+
+2019
+
+AMD
+
+7 & 12 nm(TSMC)
+
+1,008 mm2
+
+39,226,000
+
+
+Qualcomm Snapdragon 865 (octa-core 64/32-bit ARM64 "mobile SoC", SIMD, caches)
+
+10,300,000,000[145]
+
+2019
+
+Qualcomm
+
+7 nm
+
+83.54 mm2[146]
+
+123,300,000
+
+
+TI Jacinto TDA4VM (ARM A72, DSP, SRAM)
+
+3,500,000,000[147]
+
+2020
+
+Texas Instruments
+
+16 nm
+
+?
+
+?
+
+
+Apple A14 Bionic (hexa-core 64-bit ARM64 "mobile SoC", SIMD, caches)
+
+11,800,000,000[148]
+
+2020
+
+Apple
+
+5 nm
+
+88 mm2
+
+134,100,000
+
+
+Apple M1 (octa-core 64-bit ARM64 SoC, SIMD, caches)
+
+16,000,000,000[149]
+
+2020
+
+Apple
+
+5 nm
+
+119 mm2
+
+134,500,000
+
+
+HiSilicon Kirin 9000
+
+15,300,000,000[150][151]
+
+2020
+
+Huawei
+
+5 nm
+
+114 mm2
+
+134,200,000
+
+
+AMD Zen 3 CCX (core complex unit: 8 cores, 32 MB L3 cache)
+
+4,080,000,000[152]
+
+2020
+
+AMD
+
+7 nm
+
+68 mm2
+
+60,000,000
+
+
+AMD Zen 3 CCD (core complex die)
+
+4,150,000,000[152]
+
+2020
+
+AMD
+
+7 nm
+
+81 mm2
+
+51,230,000
+
+
+Core 11th gen Rocket Lake (8-core 64-bit, SIMD, large caches)
+
+6,000,000,000+ [153]
+
+2021
+
+Intel
+
+14 nm +++ 14 nm
+
+276 mm2[154]
+
+37,500,000 or 21,800,000+ [155]
+
+
+AMD Ryzen 7 5800H (64-bit, SIMD, caches, I/O and GPU)
+
+10,700,000,000[156]
+
+2021
+
+AMD
+
+7 nm
+
+180 mm2
+
+59,440,000
+
+
+AMD Epyc 7763 (Milan) (64-core, 64-bit)
+
+?
+
+2021
+
+AMD
+
+7 & 12 nm(TSMC)
+
+1,064 mm2(8×81+416)[157]
+
+?
+
+
+Apple A15
+
+15,000,000,000[158][159]
+
+2021
+
+Apple
+
+5 nm
+
+107.68 mm2
+
+139,300,000
+
+
+Apple M1 Pro (10-core, 64-bit)
+
+33,700,000,000[160]
+
+2021
+
+Apple
+
+5 nm
+
+245 mm2[161]
+
+137,600,000
+
+
+Apple M1 Max (10-core, 64-bit)
+
+57,000,000,000[162][160]
+
+2021
+
+Apple
+
+5 nm
+
+420.2 mm2[163]
+
+135,600,000
+
+
+Power10 dual-chip module (30 SMT8 cores or 60 SMT4 cores)
+
+36,000,000,000[164]
+
+2021
+
+IBM
+
+7 nm
+
+1,204 mm2
+
+29,900,000
+
+
+Dimensity 9000 (ARM64 SoC)
+
+15,300,000,000[165][166]
+
+2021
+
+Mediatek
+
+4 nm(TSMC N4)
+
+?
+
+?
+
+
+Apple A16 (ARM64 SoC)
+
+16,000,000,000[167][168][169]
+
+2022
+
+Apple
+
+4 nm
+
+?
+
+?
+
+
+Apple M1 Ultra (dual-chip module, 2×10 cores)
+
+114,000,000,000[170][171]
+
+2022
+
+Apple
+
+5 nm
+
+840.5 mm2[163]
+
+135,600,000
+
+
+AMD Epyc 7773X (Milan-X) (multi-chip module, 64 cores, 768 MB L3 cache)
+
+26,000,000,000 + Milan[172]
+
+2022
+
+AMD
+
+7 & 12 nm(TSMC)
+
+1,352 mm2(Milan + 8×36)[172]
+
+?
+
+
+IBM Telum dual-chip module (2×8 cores, 2×256 MB cache)
+
+45,000,000,000[173][174]
+
+2022
+
+IBM
+
+7 nm (Samsung)
+
+1,060 mm2
+
+42,450,000
+
+
+Apple M2 (deca-core 64-bit ARM64 SoC, SIMD, caches)
+
+20,000,000,000[175]
+
+2022
+
+Apple
+
+5 nm
+
+?
+
+?
+
+
+Dimensity 9200 (ARM64 SoC)
+
+17,000,000,000[176][177][178]
+
+2022
+
+Mediatek
+
+4 nm(TSMC N4P)
+
+?
+
+?
+
+
+Qualcomm Snapdragon 8 Gen 2 (octa-core ARM64 "mobile SoC", SIMD, caches)
+
+16,000,000,000
+
+2022
+
+Qualcomm
+
+4 nm
+
+268 mm2
+
+59,701,492
+
+
+AMD EPYC Genoa (4th gen/9004 series) 13-chip module (up to 96 cores and 384 MB (L3) + 96 MB (L2) cache)[179]
+
+90,000,000,000[180][181]
+
+2022
+
+AMD
+
+5 nm (CCD)6 nm (IOD)
+
+1,263.34 mm212×72.225 (CCD)396.64 (IOD)[182][183]
+
+71,240,000
+
+
+HiSilicon Kirin 9000s
+
+9,510,000,000[184]
+
+2023
+
+Huawei
+
+7 nm
+
+107 mm2
+
+107,690,000
+
+
+Apple M4 (deca-core 64-bit ARM64 SoC, SIMD, caches)
+
+28,000,000,000[185]
+
+2024
+
+Apple
+
+3 nm
+
+?
+
+?
+
+
+Apple M3 (octa-core 64-bit ARM64 SoC, SIMD, caches)
+
+25,000,000,000[186]
+
+2023
+
+Apple
+
+3 nm
+
+?
+
+?
+
+
+Apple M3 Pro (dodeca-core 64-bit ARM64 SoC, SIMD, caches)
+
+37,000,000,000[186]
+
+2023
+
+Apple
+
+3 nm
+
+?
+
+?
+
+
+Apple M3 Max (16-core 64-bit ARM64 SoC, SIMD, caches)
+
+92,000,000,000[186]
+
+2023
+
+Apple
+
+3 nm
+
+?
+
+?
+
+
+Apple A17
+
+19,000,000,000[187]
+
+2023
+
+Apple
+
+3 nm
+
+103.8 mm2
+
+183,044,315
+
+
+Sapphire Rapids quad-chip module (up to 60 cores and 112.5 MB of cache)[188]
+
+44,000,000,000–48,000,000,000[189]
+
+2023
+
+Intel
+
+10 nm ESF (Intel 7)
+
+1,600 mm2
+
+27,500,000–30,000,000
+
+
+Apple M2 Pro (12-core 64-bit ARM64 SoC, SIMD, caches)
+
+40,000,000,000[190]
+
+2023
+
+Apple
+
+5 nm
+
+?
+
+?
+
+
+Apple M2 Max (12-core 64-bit ARM64 SoC, SIMD, caches)
+
+67,000,000,000[190]
+
+2023
+
+Apple
+
+5 nm
+
+?
+
+?
+
+
+Apple M2 Ultra (two M2 Max dies)
+
+134,000,000,000[191]
+
+2023
+
+Apple
+
+5 nm
+
+?
+
+?
+
+
+AMD Epyc Bergamo (4th gen/97X4 series) 9-chip module (up to 128 cores and 256 MB (L3) + 128 MB (L2) cache)
+
+82,000,000,000[192]
+
+2023
+
+AMD
+
+5 nm (CCD)6 nm (IOD)
+
+?
+
+?
+
+
+AMD Instinct MI300A (multi-chip module, 24 cores, 128 GB GPU memory + 256 MB (LLC/L3) cache)
+
+146,000,000,000[193][194]
+
+2023
+
+AMD
+
+5 nm (CCD, GCD)6 nm (IOD)
+
+1,017 mm2
+
+144,000,000
+
+
+Processor
+
+Transistor count
+
+Year
+
+Designer
+
+Process(nm)
+
+Area (mm2)
+
+Transistordensity(tr./mm2)
+
+GPUs[edit]
+A graphics processing unit (GPU) is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the building of images in a frame buffer intended for output to a display.
+The designer refers to the technology company that designs the logic of the integrated circuit chip (such as Nvidia and AMD). The manufacturer ("Fab.") refers to the semiconductor company that fabricates the chip using its semiconductor manufacturing process at a foundry (such as TSMC and Samsung Semiconductor). The transistor count in a chip is dependent on a manufacturer's fabrication process, with smaller semiconductor nodes typically enabling higher transistor density and thus higher transistor counts.
+The random-access memory (RAM) that comes with GPUs (such as VRAM, SGRAM or HBM) greatly increases the total transistor count, with the memory typically accounting for the majority of transistors in a graphics card. For example, Nvidia's Tesla P100 has 15 billion FinFETs (16 nm) in the GPU in addition to 16 GB of HBM2 memory, totaling about 150 billion MOSFETs on the graphics card.[195] The following table does not include the memory. For memory transistor counts, see the Memory section below.
+
+
+
+
+Processor
+
+Transistor count
+
+Year
+
+Designer(s)
+
+Fab(s)
+
+Process
+
+Area
+
+Transistordensity(tr./mm2)
+
+Ref
+
+
+μPD7220 GDC
+
+40,000
+
+1982
+
+NEC
+
+NEC
+
+5,000 nm
+
+?
+
+?
+
+[196]
+
+
+ARTC HD63484
+
+60,000
+
+1984
+
+Hitachi
+
+Hitachi
+
+?
+
+?
+
+?
+
+[197]
+
+
+CBM Agnus
+
+21,000
+
+1985
+
+Commodore
+
+CSG
+
+5,000 nm
+
+?
+
+?
+
+[198][199]
+
+
+YM7101 VDP
+
+100,000
+
+1988
+
+Yamaha, Sega
+
+Yamaha
+
+?
+
+?
+
+?
+
+[200]
+
+
+Tom & Jerry
+
+750,000
+
+1993
+
+Flare
+
+IBM
+
+?
+
+?
+
+?
+
+[200]
+
+
+VDP1
+
+1,000,000
+
+1994
+
+Sega
+
+Hitachi
+
+500 nm
+
+?
+
+?
+
+[201]
+
+
+Sony GPU
+
+1,000,000
+
+1994
+
+Toshiba
+
+LSI
+
+500 nm
+
+?
+
+?
+
+[202][203][204]
+
+
+NV1
+
+1,000,000
+
+1995
+
+Nvidia, Sega
+
+SGS
+
+500 nm
+
+90 mm2
+
+11,000
+
+
+
+
+Reality Coprocessor
+
+2,600,000
+
+1996
+
+SGI
+
+NEC
+
+350 nm
+
+81 mm2
+
+32,100
+
+[205]
+
+
+PowerVR
+
+1,200,000
+
+1996
+
+VideoLogic
+
+NEC
+
+350 nm
+
+?
+
+?
+
+[206]
+
+
+Voodoo Graphics
+
+1,000,000
+
+1996
+
+3dfx
+
+TSMC
+
+500 nm
+
+?
+
+?
+
+[207][208]
+
+
+Voodoo Rush
+
+1,000,000
+
+1997
+
+3dfx
+
+TSMC
+
+500 nm
+
+?
+
+?
+
+[207][208]
+
+
+NV3
+
+3,500,000
+
+1997
+
+Nvidia
+
+SGS, TSMC
+
+350 nm
+
+90 mm2
+
+38,900
+
+[209][210]
+
+
+i740
+
+3,500,000
+
+1998
+
+Intel, Real3D
+
+Real3D
+
+350 nm
+
+?
+
+?
+
+[207][208]
+
+
+Voodoo 2
+
+4,000,000
+
+1998
+
+3dfx
+
+TSMC
+
+350 nm
+
+?
+
+?
+
+
+Voodoo Rush
+
+4,000,000
+
+1998
+
+3dfx
+
+TSMC
+
+350 nm
+
+?
+
+?
+
+
+NV4
+
+7,000,000
+
+1998
+
+Nvidia
+
+TSMC
+
+350 nm
+
+90 mm2
+
+78,000
+
+[207][210]
+
+
+PowerVR2 CLX2
+
+10,000,000
+
+1998
+
+VideoLogic
+
+NEC
+
+250 nm
+
+116 mm2
+
+86,200
+
+[211][212][213][214]
+
+
+PowerVR2 PMX1
+
+6,000,000
+
+1999
+
+VideoLogic
+
+NEC
+
+250 nm
+
+?
+
+?
+
+[215]
+
+
+Rage 128
+
+8,000,000
+
+1999
+
+ATI
+
+TSMC, UMC
+
+250 nm
+
+70 mm2
+
+114,000
+
+[208]
+
+
+Voodoo 3
+
+8,100,000
+
+1999
+
+3dfx
+
+TSMC
+
+250 nm
+
+?
+
+?
+
+[216]
+
+
+Graphics Synthesizer
+
+43,000,000
+
+1999
+
+Sony, Toshiba
+
+Sony, Toshiba
+
+180 nm
+
+279 mm2
+
+154,000
+
+[65][217][64][63]
+
+
+NV5
+
+15,000,000
+
+1999
+
+Nvidia
+
+TSMC
+
+250 nm
+
+90 mm2
+
+167,000
+
+[208]
+
+
+NV10
+
+17,000,000
+
+1999
+
+Nvidia
+
+TSMC
+
+220 nm
+
+111 mm2
+
+153,000
+
+[218][210]
+
+
+NV11
+
+20,000,000
+
+2000
+
+Nvidia
+
+TSMC
+
+180 nm
+
+65 mm2
+
+308,000
+
+[208]
+
+
+NV15
+
+25,000,000
+
+2000
+
+Nvidia
+
+TSMC
+
+180 nm
+
+81 mm2
+
+309,000
+
+[208]
+
+
+Voodoo 4
+
+14,000,000
+
+2000
+
+3dfx
+
+TSMC
+
+220 nm
+
+?
+
+?
+
+[207][208]
+
+
+Voodoo 5
+
+28,000,000
+
+2000
+
+3dfx
+
+TSMC
+
+220 nm
+
+?
+
+?
+
+[207][208]
+
+
+R100
+
+30,000,000
+
+2000
+
+ATI
+
+TSMC
+
+180 nm
+
+97 mm2
+
+309,000
+
+[208]
+
+
+Flipper
+
+51,000,000
+
+2000
+
+ArtX
+
+NEC
+
+180 nm
+
+106 mm2
+
+481,000
+
+[65][219]
+
+
+PowerVR3 KYRO
+
+14,000,000
+
+2001
+
+Imagination
+
+ST
+
+250 nm
+
+?
+
+?
+
+[207][208]
+
+
+PowerVR3 KYRO II
+
+15,000,000
+
+2001
+
+Imagination
+
+ST
+
+180 nm
+
+
+NV2A
+
+60,000,000
+
+2001
+
+Nvidia
+
+TSMC
+
+150 nm
+
+?
+
+?
+
+[207][220]
+
+
+NV20
+
+57,000,000
+
+2001
+
+Nvidia
+
+TSMC
+
+150 nm
+
+128 mm2
+
+445,000
+
+[208]
+
+
+NV25
+
+63,000,000
+
+2002
+
+Nvidia
+
+TSMC
+
+150 nm
+
+142 mm2
+
+444,000
+
+
+NV28
+
+36,000,000
+
+2002
+
+Nvidia
+
+TSMC
+
+150 nm
+
+101 mm2
+
+356,000
+
+
+NV17/18
+
+29,000,000
+
+2002
+
+Nvidia
+
+TSMC
+
+150 nm
+
+65 mm2
+
+446,000
+
+
+R200
+
+60,000,000
+
+2001
+
+ATI
+
+TSMC
+
+150 nm
+
+68 mm2
+
+882,000
+
+
+R300
+
+107,000,000
+
+2002
+
+ATI
+
+TSMC
+
+150 nm
+
+218 mm2
+
+490,800
+
+
+R360
+
+117,000,000
+
+2003
+
+ATI
+
+TSMC
+
+150 nm
+
+218 mm2
+
+536,700
+
+
+NV34
+
+45,000,000
+
+2003
+
+Nvidia
+
+TSMC
+
+150 nm
+
+124 mm2
+
+363,000
+
+
+NV34b
+
+45,000,000
+
+2004
+
+Nvidia
+
+TSMC
+
+140 nm
+
+91 mm2
+
+495,000
+
+
+NV30
+
+125,000,000
+
+2003
+
+Nvidia
+
+TSMC
+
+130 nm
+
+199 mm2
+
+628,000
+
+
+NV31
+
+80,000,000
+
+2003
+
+Nvidia
+
+TSMC
+
+130 nm
+
+121 mm2
+
+661,000
+
+
+NV35/38
+
+135,000,000
+
+2003
+
+Nvidia
+
+TSMC
+
+130 nm
+
+207 mm2
+
+652,000
+
+
+NV36
+
+82,000,000
+
+2003
+
+Nvidia
+
+IBM
+
+130 nm
+
+133 mm2
+
+617,000
+
+
+R480
+
+160,000,000
+
+2004
+
+ATI
+
+TSMC
+
+130 nm
+
+297 mm2
+
+538,700
+
+
+NV40
+
+222,000,000
+
+2004
+
+Nvidia
+
+IBM
+
+130 nm
+
+305 mm2
+
+727,900
+
+
+NV44
+
+75,000,000
+
+2004
+
+Nvidia
+
+IBM
+
+130 nm
+
+110 mm2
+
+681,800
+
+
+NV41
+
+222,000,000
+
+2005
+
+Nvidia
+
+TSMC
+
+110 nm
+
+225 mm2
+
+986,700
+
+[208]
+
+
+NV42
+
+198,000,000
+
+2005
+
+Nvidia
+
+TSMC
+
+110 nm
+
+222 mm2
+
+891,900
+
+
+NV43
+
+146,000,000
+
+2005
+
+Nvidia
+
+TSMC
+
+110 nm
+
+154 mm2
+
+948,100
+
+
+G70
+
+303,000,000
+
+2005
+
+Nvidia
+
+TSMC, Chartered
+
+110 nm
+
+333 mm2
+
+909,900
+
+
+Xenos
+
+232,000,000
+
+2005
+
+ATI
+
+TSMC
+
+90 nm
+
+182 mm2
+
+1,275,000
+
+[221][222]
+
+
+RSX Reality Synthesizer
+
+300,000,000
+
+2005
+
+Nvidia, Sony
+
+Sony
+
+90 nm
+
+186 mm2
+
+1,613,000
+
+[223][224]
+
+
+R520
+
+321,000,000
+
+2005
+
+ATI
+
+TSMC
+
+90 nm
+
+288 mm2
+
+1,115,000
+
+[208]
+
+
+RV530
+
+157,000,000
+
+2005
+
+ATI
+
+TSMC
+
+90 nm
+
+150 mm2
+
+1,047,000
+
+
+RV515
+
+107,000,000
+
+2005
+
+ATI
+
+TSMC
+
+90 nm
+
+100 mm2
+
+1,070,000
+
+
+R580
+
+384,000,000
+
+2006
+
+ATI
+
+TSMC
+
+90 nm
+
+352 mm2
+
+1,091,000
+
+
+G71
+
+278,000,000
+
+2006
+
+Nvidia
+
+TSMC
+
+90 nm
+
+196 mm2
+
+1,418,000
+
+
+G72
+
+112,000,000
+
+2006
+
+Nvidia
+
+TSMC
+
+90 nm
+
+81 mm2
+
+1,383,000
+
+
+G73
+
+177,000,000
+
+2006
+
+Nvidia
+
+TSMC
+
+90 nm
+
+125 mm2
+
+1,416,000
+
+
+G80
+
+681,000,000
+
+2006
+
+Nvidia
+
+TSMC
+
+90 nm
+
+480 mm2
+
+1,419,000
+
+
+G86 Tesla
+
+210,000,000
+
+2007
+
+Nvidia
+
+TSMC
+
+80 nm
+
+127 mm2
+
+1,654,000
+
+
+G84 Tesla
+
+289,000,000
+
+2007
+
+Nvidia
+
+TSMC
+
+80 nm
+
+169 mm2
+
+1,710,000
+
+
+RV560
+
+330,000,000
+
+2006
+
+ATI
+
+TSMC
+
+80 nm
+
+230 mm2
+
+1,435,000
+
+
+R600
+
+700,000,000
+
+2007
+
+ATI
+
+TSMC
+
+80 nm
+
+420 mm2
+
+1,667,000
+
+
+RV610
+
+180,000,000
+
+2007
+
+ATI
+
+TSMC
+
+65 nm
+
+85 mm2
+
+2,118,000
+
+[208]
+
+
+RV630
+
+390,000,000
+
+2007
+
+ATI
+
+TSMC
+
+65 nm
+
+153 mm2
+
+2,549,000
+
+
+G92
+
+754,000,000
+
+2007
+
+Nvidia
+
+TSMC, UMC
+
+65 nm
+
+324 mm2
+
+2,327,000
+
+
+G94 Tesla
+
+505,000,000
+
+2008
+
+Nvidia
+
+TSMC
+
+65 nm
+
+240 mm2
+
+2,104,000
+
+
+G96 Tesla
+
+314,000,000
+
+2008
+
+Nvidia
+
+TSMC
+
+65 nm
+
+144 mm2
+
+2,181,000
+
+
+G98 Tesla
+
+210,000,000
+
+2008
+
+Nvidia
+
+TSMC
+
+65 nm
+
+86 mm2
+
+2,442,000
+
+
+GT200[225]
+
+1,400,000,000
+
+2008
+
+Nvidia
+
+TSMC
+
+65 nm
+
+576 mm2
+
+2,431,000
+
+
+RV620
+
+181,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+67 mm2
+
+2,701,000
+
+[208]
+
+
+RV635
+
+378,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+135 mm2
+
+2,800,000
+
+
+RV710
+
+242,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+73 mm2
+
+3,315,000
+
+
+RV730
+
+514,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+146 mm2
+
+3,521,000
+
+
+RV670
+
+666,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+192 mm2
+
+3,469,000
+
+
+RV770
+
+956,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+256 mm2
+
+3,734,000
+
+
+RV790
+
+959,000,000
+
+2008
+
+ATI
+
+TSMC
+
+55 nm
+
+282 mm2
+
+3,401,000
+
+[226][208]
+
+
+G92b Tesla
+
+754,000,000
+
+2008
+
+Nvidia
+
+TSMC, UMC
+
+55 nm
+
+260 mm2
+
+2,900,000
+
+[208]
+
+
+G94b Tesla
+
+505,000,000
+
+2008
+
+Nvidia
+
+TSMC, UMC
+
+55 nm
+
+196 mm2
+
+2,577,000
+
+
+G96b Tesla
+
+314,000,000
+
+2008
+
+Nvidia
+
+TSMC, UMC
+
+55 nm
+
+121 mm2
+
+2,595,000
+
+
+GT200b Tesla
+
+1,400,000,000
+
+2008
+
+Nvidia
+
+TSMC, UMC
+
+55 nm
+
+470 mm2
+
+2,979,000
+
+
+GT218 Tesla
+
+260,000,000
+
+2009
+
+Nvidia
+
+TSMC
+
+40 nm
+
+57 mm2
+
+4,561,000
+
+[208]
+
+
+GT216 Tesla
+
+486,000,000
+
+2009
+
+Nvidia
+
+TSMC
+
+40 nm
+
+100 mm2
+
+4,860,000
+
+
+GT215 Tesla
+
+727,000,000
+
+2009
+
+Nvidia
+
+TSMC
+
+40 nm
+
+144 mm2
+
+5,049,000
+
+
+RV740
+
+826,000,000
+
+2009
+
+ATI
+
+TSMC
+
+40 nm
+
+137 mm2
+
+6,029,000
+
+
+Cypress RV870
+
+2,154,000,000
+
+2009
+
+ATI
+
+TSMC
+
+40 nm
+
+334 mm2
+
+6,449,000
+
+
+Juniper RV840
+
+1,040,000,000
+
+2009
+
+ATI
+
+TSMC
+
+40 nm
+
+166 mm2
+
+6,265,000
+
+
+
+
+Redwood RV830
+
+627,000,000
+
+2010
+
+AMD (ATI)
+
+TSMC
+
+40 nm
+
+104 mm2
+
+6,029,000
+
+[208]
+
+
+Cedar RV810
+
+292,000,000
+
+2010
+
+AMD
+
+TSMC
+
+40 nm
+
+59 mm2
+
+4,949,000
+
+
+Cayman RV970
+
+2,640,000,000
+
+2010
+
+AMD
+
+TSMC
+
+40 nm
+
+389 mm2
+
+6,789,000
+
+
+Barts RV940
+
+1,700,000,000
+
+2010
+
+AMD
+
+TSMC
+
+40 nm
+
+255 mm2
+
+6,667,000
+
+
+Turks RV930
+
+716,000,000
+
+2011
+
+AMD
+
+TSMC
+
+40 nm
+
+118 mm2
+
+6,068,000
+
+
+Caicos RV910
+
+370,000,000
+
+2011
+
+AMD
+
+TSMC
+
+40 nm
+
+67 mm2
+
+5,522,000
+
+
+GF100 Fermi
+
+3,200,000,000
+
+2010
+
+Nvidia
+
+TSMC
+
+40 nm
+
+526 mm2
+
+6,084,000
+
+[227]
+
+
+GF110 Fermi
+
+3,000,000,000
+
+2010
+
+Nvidia
+
+TSMC
+
+40 nm
+
+520 mm2
+
+5,769,000
+
+[227]
+
+
+GF104 Fermi
+
+1,950,000,000
+
+2011
+
+Nvidia
+
+TSMC
+
+40 nm
+
+332 mm2
+
+5,873,000
+
+[208]
+
+
+GF106 Fermi
+
+1,170,000,000
+
+2010
+
+Nvidia
+
+TSMC
+
+40 nm
+
+238 mm2
+
+4,916,000
+
+[208]
+
+
+GF108 Fermi
+
+585,000,000
+
+2011
+
+Nvidia
+
+TSMC
+
+40 nm
+
+116 mm2
+
+5,043,000
+
+[208]
+
+
+GF119 Fermi
+
+292,000,000
+
+2011
+
+Nvidia
+
+TSMC
+
+40 nm
+
+79 mm2
+
+3,696,000
+
+[208]
+
+
+Tahiti GCN1
+
+4,312,711,873
+
+2011
+
+AMD
+
+TSMC
+
+28 nm
+
+365 mm2
+
+11,820,000
+
+[228]
+
+
+Cape Verde GCN1
+
+1,500,000,000
+
+2012
+
+AMD
+
+TSMC
+
+28 nm
+
+123 mm2
+
+12,200,000
+
+[208]
+
+
+Pitcairn GCN1
+
+2,800,000,000
+
+2012
+
+AMD
+
+TSMC
+
+28 nm
+
+212 mm2
+
+13,210,000
+
+[208]
+
+
+GK110 Kepler
+
+7,080,000,000
+
+2012
+
+Nvidia
+
+TSMC
+
+28 nm
+
+561 mm2
+
+12,620,000
+
+[229][230]
+
+
+GK104 Kepler
+
+3,540,000,000
+
+2012
+
+Nvidia
+
+TSMC
+
+28 nm
+
+294 mm2
+
+12,040,000
+
+[231]
+
+
+GK106 Kepler
+
+2,540,000,000
+
+2012
+
+Nvidia
+
+TSMC
+
+28 nm
+
+221 mm2
+
+11,490,000
+
+[208]
+
+
+GK107 Kepler
+
+1,270,000,000
+
+2012
+
+Nvidia
+
+TSMC
+
+28 nm
+
+118 mm2
+
+10,760,000
+
+[208]
+
+
+GK208 Kepler
+
+1,020,000,000
+
+2013
+
+Nvidia
+
+TSMC
+
+28 nm
+
+79 mm2
+
+12,910,000
+
+[208]
+
+
+Oland GCN1
+
+1,040,000,000
+
+2013
+
+AMD
+
+TSMC
+
+28 nm
+
+90 mm2
+
+11,560,000
+
+[208]
+
+
+Bonaire GCN2
+
+2,080,000,000
+
+2013
+
+AMD
+
+TSMC
+
+28 nm
+
+160 mm2
+
+13,000,000
+
+
+Durango (Xbox One)
+
+4,800,000,000
+
+2013
+
+AMD
+
+TSMC
+
+28 nm
+
+375 mm2
+
+12,800,000
+
+[232][233]
+
+
+Liverpool (PlayStation 4)
+
+?
+
+2013
+
+AMD
+
+TSMC
+
+28 nm
+
+348 mm2
+
+?
+
+[234]
+
+
+Hawaii GCN2
+
+6,300,000,000
+
+2013
+
+AMD
+
+TSMC
+
+28 nm
+
+438 mm2
+
+14,380,000
+
+[208]
+
+
+GM200 Maxwell
+
+8,000,000,000
+
+2015
+
+Nvidia
+
+TSMC
+
+28 nm
+
+601 mm2
+
+13,310,000
+
+
+GM204 Maxwell
+
+5,200,000,000
+
+2014
+
+Nvidia
+
+TSMC
+
+28 nm
+
+398 mm2
+
+13,070,000
+
+
+GM206 Maxwell
+
+2,940,000,000
+
+2014
+
+Nvidia
+
+TSMC
+
+28 nm
+
+228 mm2
+
+12,890,000
+
+
+GM107 Maxwell
+
+1,870,000,000
+
+2014
+
+Nvidia
+
+TSMC
+
+28 nm
+
+148 mm2
+
+12,640,000
+
+
+Tonga GCN3
+
+5,000,000,000
+
+2014
+
+AMD
+
+TSMC, GlobalFoundries
+
+28 nm
+
+366 mm2
+
+13,660,000
+
+
+Fiji GCN3
+
+8,900,000,000
+
+2015
+
+AMD
+
+TSMC
+
+28 nm
+
+596 mm2
+
+14,930,000
+
+
+Durango 2 (Xbox One S)
+
+5,000,000,000
+
+2016
+
+AMD
+
+TSMC
+
+16 nm
+
+240 mm2
+
+20,830,000
+
+[235]
+
+
+Neo (PlayStation 4 Pro)
+
+5,700,000,000
+
+2016
+
+AMD
+
+TSMC
+
+16 nm
+
+325 mm2
+
+17,540,000
+
+[236]
+
+
+Ellesmere/Polaris 10 GCN4
+
+5,700,000,000
+
+2016
+
+AMD
+
+Samsung, GlobalFoundries
+
+14 nm
+
+232 mm2
+
+24,570,000
+
+[237]
+
+
+Baffin/Polaris 11 GCN4
+
+3,000,000,000
+
+2016
+
+AMD
+
+Samsung, GlobalFoundries
+
+14 nm
+
+123 mm2
+
+24,390,000
+
+[208][238]
+
+
+Lexa/Polaris 12 GCN4
+
+2,200,000,000
+
+2017
+
+AMD
+
+Samsung, GlobalFoundries
+
+14 nm
+
+101 mm2
+
+21,780,000
+
+[208][238]
+
+
+GP100 Pascal
+
+15,300,000,000
+
+2016
+
+Nvidia
+
+TSMC, Samsung
+
+16 nm
+
+610 mm2
+
+25,080,000
+
+[239][240]
+
+
+GP102 Pascal
+
+11,800,000,000
+
+2016
+
+Nvidia
+
+TSMC, Samsung
+
+16 nm
+
+471 mm2
+
+25,050,000
+
+[208][240]
+
+
+GP104 Pascal
+
+7,200,000,000
+
+2016
+
+Nvidia
+
+TSMC
+
+16 nm
+
+314 mm2
+
+22,930,000
+
+[208][240]
+
+
+GP106 Pascal
+
+4,400,000,000
+
+2016
+
+Nvidia
+
+TSMC
+
+16 nm
+
+200 mm2
+
+22,000,000
+
+[208][240]
+
+
+GP107 Pascal
+
+3,300,000,000
+
+2016
+
+Nvidia
+
+Samsung
+
+14 nm
+
+132 mm2
+
+25,000,000
+
+[208][240]
+
+
+GP108 Pascal
+
+1,850,000,000
+
+2017
+
+Nvidia
+
+Samsung
+
+14 nm
+
+74 mm2
+
+25,000,000
+
+[208][240]
+
+
+Scorpio (Xbox One X)
+
+6,600,000,000
+
+2017
+
+AMD
+
+TSMC
+
+16 nm
+
+367 mm2
+
+17,980,000
+
+[232][241]
+
+
+Vega 10 GCN5
+
+12,500,000,000
+
+2017
+
+AMD
+
+Samsung, GlobalFoundries
+
+14 nm
+
+484 mm2
+
+25,830,000
+
+[242]
+
+
+GV100 Volta
+
+21,100,000,000
+
+2017
+
+Nvidia
+
+TSMC
+
+12 nm
+
+815 mm2
+
+25,890,000
+
+[243]
+
+
+TU102 Turing
+
+18,600,000,000
+
+2018
+
+Nvidia
+
+TSMC
+
+12 nm
+
+754 mm2
+
+24,670,000
+
+[244]
+
+
+TU104 Turing
+
+13,600,000,000
+
+2018
+
+Nvidia
+
+TSMC
+
+12 nm
+
+545 mm2
+
+24,950,000
+
+
+
+
+TU106 Turing
+
+10,800,000,000
+
+2018
+
+Nvidia
+
+TSMC
+
+12 nm
+
+445 mm2
+
+24,270,000
+
+
+
+
+TU116 Turing
+
+6,600,000,000
+
+2019
+
+Nvidia
+
+TSMC
+
+12 nm
+
+284 mm2
+
+23,240,000
+
+[245]
+
+
+TU117 Turing
+
+4,700,000,000
+
+2019
+
+Nvidia
+
+TSMC
+
+12 nm
+
+200 mm2
+
+23,500,000
+
+[246]
+
+
+Vega 20 GCN5
+
+13,230,000,000
+
+2018
+
+AMD
+
+TSMC
+
+7 nm
+
+331 mm2
+
+39,970,000
+
+[208]
+
+
+Navi 10 RDNA
+
+10,300,000,000
+
+2019
+
+AMD
+
+TSMC
+
+7 nm
+
+251 mm2
+
+41,040,000
+
+[247]
+
+
+Navi 12 RDNA
+
+?
+
+2020
+
+AMD
+
+TSMC
+
+7 nm
+
+?
+
+?
+
+
+
+
+Navi 14 RDNA
+
+6,400,000,000
+
+2019
+
+AMD
+
+TSMC
+
+7 nm
+
+158 mm2
+
+40,510,000
+
+[248]
+
+
+Arcturus CDNA
+
+25,600,000,000
+
+2020
+
+AMD
+
+TSMC
+
+7 nm
+
+750 mm2
+
+34,100,000
+
+[249]
+
+
+GA100 Ampere
+
+54,200,000,000
+
+2020
+
+Nvidia
+
+TSMC
+
+7 nm
+
+826 mm2
+
+65,620,000
+
+[250][251]
+
+
+GA102 Ampere
+
+28,300,000,000
+
+2020
+
+Nvidia
+
+Samsung
+
+8 nm
+
+628 mm2
+
+45,035,000
+
+[252][253]
+
+
+GA103 Ampere
+
+22,000,000,000
+
+2022
+
+Nvidia
+
+Samsung
+
+8 nm
+
+496 mm2
+
+44,400,000
+
+[254]
+
+
+GA104 Ampere
+
+17,400,000,000
+
+2020
+
+Nvidia
+
+Samsung
+
+8 nm
+
+392 mm2
+
+44,390,000
+
+[255]
+
+
+GA106 Ampere
+
+12,000,000,000
+
+2021
+
+Nvidia
+
+Samsung
+
+8 nm
+
+276 mm2
+
+43,480,000
+
+[256]
+
+
+GA107 Ampere
+
+8,700,000,000
+
+2021
+
+Nvidia
+
+Samsung
+
+8 nm
+
+200 mm2
+
+43,500,000
+
+[257]
+
+
+Navi 21 RDNA2
+
+26,800,000,000
+
+2020
+
+AMD
+
+TSMC
+
+7 nm
+
+520 mm2
+
+51,540,000
+
+
+
+
+Navi 22 RDNA2
+
+17,200,000,000
+
+2021
+
+AMD
+
+TSMC
+
+7 nm
+
+335 mm2
+
+51,340,000
+
+
+
+
+Navi 23 RDNA2
+
+11,060,000,000
+
+2021
+
+AMD
+
+TSMC
+
+7 nm
+
+237 mm2
+
+46,670,000
+
+
+
+
+Navi 24 RDNA2
+
+5,400,000,000
+
+2022
+
+AMD
+
+TSMC
+
+6 nm
+
+107 mm2
+
+50,470,000
+
+
+
+
+Aldebaran CDNA2
+
+58,200,000,000 (MCM)
+
+2021
+
+AMD
+
+TSMC
+
+6 nm
+
+1448–1474 mm2[258]1480 mm2[259]1490–1580 mm2[260]
+
+39,500,000–40,200,00039,200,00036,800,000–39,100,000
+
+[261]
+
+
+GH100 Hopper
+
+80,000,000,000
+
+2022
+
+Nvidia
+
+TSMC
+
+4 nm
+
+814 mm2
+
+98,280,000
+
+[262]
+
+
+AD102 Ada Lovelace
+
+76,300,000,000
+
+2022
+
+Nvidia
+
+TSMC
+
+4 nm
+
+608.4 mm2
+
+125,411,000
+
+[263]
+
+
+AD103 Ada Lovelace
+
+45,900,000,000
+
+2022
+
+Nvidia
+
+TSMC
+
+4 nm
+
+378.6 mm2
+
+121,240,000
+
+[264]
+
+
+AD104 Ada Lovelace
+
+35,800,000,000
+
+2022
+
+Nvidia
+
+TSMC
+
+4 nm
+
+294.5 mm2
+
+121,560,000
+
+[264]
+
+
+AD106 Ada Lovelace
+
+?
+
+2023
+
+Nvidia
+
+TSMC
+
+4 nm
+
+190 mm2
+
+?
+
+[265][266]
+
+
+AD107 Ada Lovelace
+
+?
+
+2023
+
+Nvidia
+
+TSMC
+
+4 nm
+
+146 mm2
+
+?
+
+[265][267]
+
+
+Navi 31 RDNA3
+
+57,700,000,000 (MCM)45,400,000,000 (GCD)6×2,050,000,000 (MCD)
+
+2022
+
+AMD
+
+TSMC
+
+5 nm (GCD)6 nm (MCD)
+
+531 mm2 (MCM)306 mm2 (GCD)6×37.5 mm2 (MCD)
+
+109,200,000 (MCM)132,400,000 (GCD)54,640,000 (MCD)
+
+[268][269][270]
+
+
+Navi 32 RDNA3
+
+28,100,000,000 (MCM)
+
+2023
+
+AMD
+
+TSMC
+
+5 nm (GCD)6 nm (MCD)
+
+350 mm2 (MCM)200 mm2 (GCD)4×37.5 mm2 (MCD)
+
+80,200,000 (MCM)
+
+[271]
+
+
+Navi 33 RDNA3
+
+13,300,000,000
+
+2023
+
+AMD
+
+TSMC
+
+6 nm
+
+204 mm2
+
+65,200,000
+
+[272]
+
+
+Aqua Vanjaram CDNA3
+
+153,000,000,000 (MCM)
+
+2023
+
+AMD
+
+TSMC
+
+5 nm (GCD)6 nm (MCD)
+
+?
+
+?
+
+[273][274]
+
+
+GB200 Grace Blackwell
+
+208,000,000,000 (MCM)
+
+2024
+
+Nvidia
+
+TSMC
+
+4 nm 
+
+?
+
+?
+
+[275]
+
+
+GB202 Blackwell (RTX 5090)
+
+92,200,000,000
+
+2025
+
+Nvidia
+
+TSMC
+
+4 nm 
+
+750 mm2
+
+122,600,000
+
+[276]
+
+
+Processor
+
+Transistor count
+
+Year
+
+Designer(s)
+
+Fab(s)
+
+MOS process
+
+Area
+
+Transistordensity(tr./mm2)
+
+Ref
+
+FPGA[edit]
+A field-programmable gate array (FPGA) is an integrated circuit designed to be configured by a customer or a designer after manufacturing.
+
+
+
+FPGA
+
+Transistor count
+
+Date of introduction
+
+Designer
+
+Manufacturer
+
+Process
+
+Area
+
+Transistor density, tr./mm2
+
+Ref
+
+
+Virtex
+
+70,000,000
+
+1997
+
+Xilinx
+
+
+
+
+
+
+
+
+
+
+
+
+Virtex-E
+
+200,000,000
+
+1998
+
+Xilinx
+
+
+
+
+
+
+
+
+
+
+Virtex-II
+
+350,000,000
+
+2000
+
+Xilinx
+
+
+
+130 nm
+
+
+
+
+
+
+Virtex-II PRO
+
+430,000,000
+
+2002
+
+Xilinx
+
+
+
+
+
+
+
+
+
+
+Virtex-4
+
+1,000,000,000
+
+2004
+
+Xilinx
+
+
+
+90 nm
+
+
+
+
+
+
+Virtex-5
+
+1,100,000,000
+
+2006
+
+Xilinx
+
+TSMC
+
+65 nm
+
+
+
+
+
+[277]
+
+
+Stratix IV
+
+2,500,000,000
+
+2008
+
+Altera
+
+TSMC
+
+40 nm
+
+
+
+
+
+[278]
+
+
+Stratix V
+
+3,800,000,000
+
+2011
+
+Altera
+
+TSMC
+
+28 nm
+
+
+
+
+
+[citation needed]
+
+
+Arria 10
+
+5,300,000,000
+
+2014
+
+Altera
+
+TSMC
+
+20 nm
+
+
+
+
+
+[279]
+
+
+Virtex-7 2000T
+
+6,800,000,000
+
+2011
+
+Xilinx
+
+TSMC
+
+28 nm
+
+
+
+
+
+[280]
+
+
+Stratix 10 SX 2800
+
+17,000,000,000
+
+TBD
+
+Intel
+
+Intel
+
+14 nm
+
+560 mm2
+
+30,400,000
+
+[281][282]
+
+
+Virtex-Ultrascale VU440
+
+20,000,000,000
+
+Q1 2015
+
+Xilinx
+
+TSMC
+
+20 nm
+
+
+
+
+
+[283][284]
+
+
+Virtex-Ultrascale+ VU19P
+
+35,000,000,000
+
+2020
+
+Xilinx
+
+TSMC
+
+16 nm
+
+900 mm2[f]
+
+38,900,000
+
+[285][286][287]
+
+
+Versal VC1902
+
+37,000,000,000
+
+2H 2019
+
+Xilinx
+
+TSMC
+
+7 nm
+
+
+
+
+
+[288][289][290]
+
+
+Stratix 10 GX 10M
+
+43,300,000,000
+
+Q4 2019
+
+Intel
+
+Intel
+
+14 nm
+
+1,400 mm2[f]
+
+30,930,000
+
+[291][292]
+
+
+Versal VP1802
+
+92,000,000,000
+
+2021 ?[g]
+
+Xilinx
+
+TSMC
+
+7 nm
+
+
+
+
+
+[293][294]
+
+Memory[edit]
+See also: Random-access memory § Timeline, flash memory § Timeline, and read-only memory § Timeline
+Semiconductor memory is an electronic data storage device, often used as computer memory, implemented on integrated circuits. Nearly all semiconductor memories since the 1970s have used MOSFETs (MOS transistors), replacing earlier bipolar junction transistors. There are two major types of semiconductor memory: random-access memory (RAM) and non-volatile memory (NVM). In turn, there are two major RAM types: dynamic random-access memory (DRAM) and static random-access memory (SRAM), as well as two major NVM types: flash memory and read-only memory (ROM).
+Typical CMOS SRAM consists of six transistors per cell. For DRAM, 1T1C, which means one transistor and one capacitor structure, is common. Capacitor charged or not[clarification needed] is used to store 1 or 0. In flash memory, the data is stored in floating gates, and the resistance of the transistor is sensed[clarification needed] to interpret the data stored. Depending on how fine scale the resistance could be separated[clarification needed], one transistor could store up to three bits, meaning eight distinctive levels of resistance possible per transistor. However, a finer scale comes with the cost of repeatability issues, and hence reliability. Typically, low grade 2-bits MLC flash is used for flash drives, so a 16 GB flash drive contains roughly 64 billion transistors.
+For SRAM chips, six-transistor cells (six transistors per bit) was the standard.[295] DRAM chips during the early 1970s had three-transistor cells (three transistors per bit), before single-transistor cells (one transistor per bit) became standard since the era of 4 Kb DRAM in the mid-1970s.[296][297] In single-level flash memory, each cell contains one floating-gate MOSFET (one transistor per bit),[298] whereas multi-level flash contains 2, 3 or 4 bits per transistor.
+Flash memory chips are commonly stacked up in layers, up to 128-layer in production,[299] and 136-layer managed,[300] and available in end-user devices up to 69-layer from manufacturers.
+
+
+Random-access memory (RAM)
+
+
+Chip name
+
+Capacity (bits)
+
+RAM type
+
+Transistor count
+
+Date of introduction
+
+Manufacturer(s)
+
+Process
+
+Area
+
+Transistordensity(tr./mm2)
+
+Ref
+
+
+—
+
+1-bit
+
+SRAM (cell)
+
+6
+
+1963
+
+Fairchild
+
+—
+
+—
+
+?
+
+[301]
+
+
+—
+
+1-bit
+
+DRAM (cell)
+
+1
+
+1965
+
+Toshiba
+
+—
+
+—
+
+?
+
+[302][303]
+
+
+?
+
+8-bit
+
+SRAM (bipolar)
+
+48
+
+1965
+
+SDS, Signetics
+
+?
+
+?
+
+?
+
+[301]
+
+
+SP95
+
+16-bit
+
+SRAM (bipolar)
+
+80
+
+1965
+
+IBM
+
+?
+
+?
+
+?
+
+[304]
+
+
+TMC3162
+
+16-bit
+
+SRAM (TTL)
+
+96
+
+1966
+
+Transitron
+
+—
+
+?
+
+?
+
+[297]
+
+
+?
+
+?
+
+SRAM (MOS)
+
+?
+
+1966
+
+NEC
+
+?
+
+?
+
+?
+
+[296]
+
+
+256-bit
+
+DRAM (IC)
+
+256
+
+1968
+
+Fairchild
+
+?
+
+?
+
+?
+
+[297]
+
+
+64-bit
+
+SRAM (PMOS)
+
+384
+
+1968
+
+Fairchild
+
+?
+
+?
+
+?
+
+[296]
+
+
+144-bit
+
+SRAM (NMOS)
+
+864
+
+1968
+
+NEC
+
+
+1101
+
+256-bit
+
+SRAM (PMOS)
+
+1,536
+
+1969
+
+Intel
+
+12,000 nm
+
+?
+
+?
+
+[305][306][307]
+
+
+1102
+
+1 Kb
+
+DRAM (PMOS)
+
+3,072
+
+1970
+
+Intel, Honeywell
+
+?
+
+?
+
+?
+
+[296]
+
+
+1103
+
+1 Kb
+
+DRAM (PMOS)
+
+3,072
+
+1970
+
+Intel
+
+8,000 nm
+
+10 mm2
+
+307
+
+[308][295][309][297]
+
+
+μPD403
+
+1 Kb
+
+DRAM (NMOS)
+
+3,072
+
+1971
+
+NEC
+
+?
+
+?
+
+?
+
+[310]
+
+
+?
+
+2 Kb
+
+DRAM (PMOS)
+
+6,144
+
+1971
+
+General Instrument
+
+?
+
+12.7 mm2
+
+484
+
+[311]
+
+
+2102
+
+1 Kb
+
+SRAM (NMOS)
+
+6,144
+
+1972
+
+Intel
+
+?
+
+?
+
+?
+
+[305][312]
+
+
+?
+
+8 Kb
+
+DRAM (PMOS)
+
+8,192
+
+1973
+
+IBM
+
+?
+
+18.8 mm2
+
+436
+
+[311]
+
+
+5101
+
+1 Kb
+
+SRAM (CMOS)
+
+6,144
+
+1974
+
+Intel
+
+?
+
+?
+
+?
+
+[305]
+
+
+2116
+
+16 Kb
+
+DRAM (NMOS)
+
+16,384
+
+1975
+
+Intel
+
+?
+
+?
+
+?
+
+[313][297]
+
+
+2114
+
+4 Kb
+
+SRAM (NMOS)
+
+24,576
+
+1976
+
+Intel
+
+?
+
+?
+
+?
+
+[305][314]
+
+
+?
+
+4 Kb
+
+SRAM (CMOS)
+
+24,576
+
+1977
+
+Toshiba
+
+?
+
+?
+
+?
+
+[306]
+
+
+64 Kb
+
+DRAM (NMOS)
+
+65,536
+
+1977
+
+NTT
+
+?
+
+35.4 mm2
+
+1851
+
+[311]
+
+
+DRAM (VMOS)
+
+65,536
+
+1979
+
+Siemens
+
+?
+
+25.2 mm2
+
+2601
+
+[311]
+
+
+16 Kb
+
+SRAM (CMOS)
+
+98,304
+
+1980
+
+Hitachi, Toshiba
+
+?
+
+?
+
+?
+
+[315]
+
+
+256 Kb
+
+DRAM (NMOS)
+
+262,144
+
+1980
+
+NEC
+
+1,500 nm
+
+41.6 mm2
+
+6302
+
+[311]
+
+
+NTT
+
+1,000 nm
+
+34.4 mm2
+
+7620
+
+[311]
+
+
+64 Kb
+
+SRAM (CMOS)
+
+393,216
+
+1980
+
+Matsushita
+
+?
+
+?
+
+?
+
+[315]
+
+
+288 Kb
+
+DRAM
+
+294,912
+
+1981
+
+IBM
+
+?
+
+25 mm2
+
+11,800
+
+[316]
+
+
+64 Kb
+
+SRAM (NMOS)
+
+393,216
+
+1982
+
+Intel
+
+1,500 nm
+
+?
+
+?
+
+[315]
+
+
+256 Kb
+
+SRAM (CMOS)
+
+1,572,864
+
+1984
+
+Toshiba
+
+1,200 nm
+
+?
+
+?
+
+[315][307]
+
+
+8 Mb
+
+DRAM
+
+8,388,608
+
+January 5, 1984
+
+Hitachi
+
+?
+
+?
+
+?
+
+[317][318]
+
+
+16 Mb
+
+DRAM (CMOS)
+
+16,777,216
+
+1987
+
+NTT
+
+700 nm
+
+148 mm2
+
+113,400
+
+[311]
+
+
+4 Mb
+
+SRAM (CMOS)
+
+25,165,824
+
+1990
+
+NEC, Toshiba, Hitachi, Mitsubishi
+
+?
+
+?
+
+?
+
+[315]
+
+
+64 Mb
+
+DRAM (CMOS)
+
+67,108,864
+
+1991
+
+Matsushita, Mitsubishi, Fujitsu, Toshiba
+
+400 nm
+
+
+KM48SL2000
+
+16 Mb
+
+SDRAM
+
+16,777,216
+
+1992
+
+Samsung
+
+?
+
+?
+
+?
+
+[319][320]
+
+
+?
+
+16 Mb
+
+SRAM (CMOS)
+
+100,663,296
+
+1992
+
+Fujitsu, NEC
+
+400 nm
+
+?
+
+?
+
+[315]
+
+
+256 Mb
+
+DRAM (CMOS)
+
+268,435,456
+
+1993
+
+Hitachi, NEC
+
+250 nm
+
+
+1 Gb
+
+DRAM
+
+1,073,741,824
+
+January 9, 1995
+
+NEC
+
+250 nm
+
+?
+
+?
+
+[321][322]
+
+
+Hitachi
+
+160 nm
+
+?
+
+?
+
+
+SDRAM
+
+1,073,741,824
+
+1996
+
+Mitsubishi
+
+150 nm
+
+?
+
+?
+
+[315]
+
+
+SDRAM (SOI)
+
+1,073,741,824
+
+1997
+
+Hyundai
+
+?
+
+?
+
+?
+
+[323]
+
+
+4 Gb
+
+DRAM (4-bit)
+
+1,073,741,824
+
+1997
+
+NEC
+
+150 nm
+
+?
+
+?
+
+[315]
+
+
+DRAM
+
+4,294,967,296
+
+1998
+
+Hyundai
+
+?
+
+?
+
+?
+
+[323]
+
+
+8 Gb
+
+SDRAM (DDR3)
+
+8,589,934,592
+
+April 2008
+
+Samsung
+
+50 nm
+
+?
+
+?
+
+[324]
+
+
+16 Gb
+
+SDRAM (DDR3)
+
+17,179,869,184
+
+2008
+
+
+32 Gb
+
+SDRAM (HBM2)
+
+34,359,738,368
+
+2016
+
+Samsung
+
+20 nm
+
+?
+
+?
+
+[325]
+
+
+64 Gb
+
+SDRAM (HBM2)
+
+68,719,476,736
+
+2017
+
+
+128 Gb
+
+SDRAM (DDR4)
+
+137,438,953,472
+
+2018
+
+Samsung
+
+10 nm
+
+?
+
+?
+
+[326]
+
+
+?
+
+RRAM[327] (3DSoC)[328]
+
+?
+
+2019
+
+SkyWater Technology[329]
+
+90 nm
+
+?
+
+?
+
+
+
+
+Flash memory
+
+
+Chip name
+
+Capacity (bits)
+
+Flash type
+
+FGMOS transistor count
+
+Date of introduction
+
+Manufacturer(s)
+
+Process
+
+Area
+
+Transistordensity(tr./mm2)
+
+Ref
+
+
+?
+
+256 Kb
+
+NOR
+
+262,144
+
+1985
+
+Toshiba
+
+2,000 nm
+
+?
+
+?
+
+[315]
+
+
+1 Mb
+
+NOR
+
+1,048,576
+
+1989
+
+Seeq, Intel
+
+?
+
+
+4 Mb
+
+NAND
+
+4,194,304
+
+1989
+
+Toshiba
+
+1,000 nm
+
+
+16 Mb
+
+NOR
+
+16,777,216
+
+1991
+
+Mitsubishi
+
+600 nm
+
+
+DD28F032SA
+
+32 Mb
+
+NOR
+
+33,554,432
+
+1993
+
+Intel
+
+?
+
+280 mm2
+
+120,000
+
+[305][330]
+
+
+?
+
+64 Mb
+
+NOR
+
+67,108,864
+
+1994
+
+NEC
+
+400 nm
+
+?
+
+?
+
+[315]
+
+
+NAND
+
+67,108,864
+
+1996
+
+Hitachi
+
+
+128 Mb
+
+NAND
+
+134,217,728
+
+1996
+
+Samsung, Hitachi
+
+?
+
+
+256 Mb
+
+NAND
+
+268,435,456
+
+1999
+
+Hitachi, Toshiba
+
+250 nm
+
+
+512 Mb
+
+NAND
+
+536,870,912
+
+2000
+
+Toshiba
+
+?
+
+?
+
+?
+
+[331]
+
+
+1 Gb
+
+2-bit NAND
+
+536,870,912
+
+2001
+
+Samsung
+
+?
+
+?
+
+?
+
+[315]
+
+
+Toshiba, SanDisk
+
+160 nm
+
+?
+
+?
+
+[332]
+
+
+2 Gb
+
+NAND
+
+2,147,483,648
+
+2002
+
+Samsung, Toshiba
+
+?
+
+?
+
+?
+
+[333][334]
+
+
+8 Gb
+
+NAND
+
+8,589,934,592
+
+2004
+
+Samsung
+
+60 nm
+
+?
+
+?
+
+[333]
+
+
+16 Gb
+
+NAND
+
+17,179,869,184
+
+2005
+
+Samsung
+
+50 nm
+
+?
+
+?
+
+[335]
+
+
+32 Gb
+
+NAND
+
+34,359,738,368
+
+2006
+
+Samsung
+
+40 nm
+
+
+THGAM
+
+128 Gb
+
+Stacked NAND
+
+128,000,000,000
+
+April 2007
+
+Toshiba
+
+56 nm
+
+252 mm2
+
+507,900,000
+
+[336]
+
+
+THGBM
+
+256 Gb
+
+Stacked NAND
+
+256,000,000,000
+
+2008
+
+Toshiba
+
+43 nm
+
+353 mm2
+
+725,200,000
+
+[337]
+
+
+THGBM2
+
+1 Tb
+
+Stacked 4-bit NAND
+
+256,000,000,000
+
+2010
+
+Toshiba
+
+32 nm
+
+374 mm2
+
+684,500,000
+
+[338]
+
+
+KLMCG8GE4A
+
+512 Gb
+
+Stacked 2-bit NAND
+
+256,000,000,000
+
+2011
+
+Samsung
+
+?
+
+192 mm2
+
+1,333,000,000
+
+[339]
+
+
+KLUFG8R1EM
+
+4 Tb
+
+Stacked 3-bit V-NAND
+
+1,365,333,333,504
+
+2017
+
+Samsung
+
+?
+
+150 mm2
+
+9,102,000,000
+
+[340]
+
+
+eUFS (1 TB)
+
+8 Tb
+
+Stacked 4-bit V-NAND
+
+2,048,000,000,000
+
+2019
+
+Samsung
+
+?
+
+150 mm2
+
+13,650,000,000
+
+[341][342]
+
+
+?
+
+1 Tb
+
+232L TLC NAND die
+
+333,333,333,333
+
+2022
+
+Micron
+
+?
+
+68.5 mm2(memory array)
+
+4,870,000,000(14.6 Gbit/mm2)
+
+[343][344][345][346]
+
+
+?
+
+16 Tb
+
+232L package
+
+5,333,333,333,333
+
+2022
+
+Micron
+
+?
+
+68.5 mm2(memory array)
+
+77,900,000,000(16×14.6 Gbit/mm2)
+
+
+
+
+Read-only memory (ROM)
+
+
+Chip name
+
+Capacity (bits)
+
+ROM type
+
+Transistor count
+
+Date of introduction
+
+Manufacturer(s)
+
+Process
+
+Area
+
+Ref
+
+
+?
+
+?
+
+PROM
+
+?
+
+1956
+
+Arma
+
+—
+
+?
+
+[347][348]
+
+
+1 Kb
+
+ROM (MOS)
+
+1,024
+
+1965
+
+General Microelectronics
+
+?
+
+?
+
+[349]
+
+
+3301
+
+1 Kb
+
+ROM (bipolar)
+
+1,024
+
+1969
+
+Intel
+
+—
+
+?
+
+[349]
+
+
+1702
+
+2 Kb
+
+EPROM (MOS)
+
+2,048
+
+1971
+
+Intel
+
+?
+
+15 mm2
+
+[350]
+
+
+?
+
+4 Kb
+
+ROM (MOS)
+
+4,096
+
+1974
+
+AMD, General Instrument
+
+?
+
+?
+
+[349]
+
+
+2708
+
+8 Kb
+
+EPROM (MOS)
+
+8,192
+
+1975
+
+Intel
+
+?
+
+?
+
+[305]
+
+
+?
+
+2 Kb
+
+EEPROM (MOS)
+
+2,048
+
+1976
+
+Toshiba
+
+?
+
+?
+
+[351]
+
+
+μCOM-43 ROM
+
+16 Kb
+
+PROM (PMOS)
+
+16,000
+
+1977
+
+NEC
+
+?
+
+?
+
+[352]
+
+
+2716
+
+16 Kb
+
+EPROM (TTL)
+
+16,384
+
+1977
+
+Intel
+
+—
+
+?
+
+[308][353]
+
+
+EA8316F
+
+16 Kb
+
+ROM (NMOS)
+
+16,384
+
+1978
+
+Electronic Arrays
+
+?
+
+436 mm2
+
+[349][354]
+
+
+2732
+
+32 Kb
+
+EPROM
+
+32,768
+
+1978
+
+Intel
+
+?
+
+?
+
+[305]
+
+
+2364
+
+64 Kb
+
+ROM
+
+65,536
+
+1978
+
+Intel
+
+?
+
+?
+
+[355]
+
+
+2764
+
+64 Kb
+
+EPROM
+
+65,536
+
+1981
+
+Intel
+
+3,500 nm
+
+?
+
+[305][315]
+
+
+27128
+
+128 Kb
+
+EPROM
+
+131,072
+
+1982
+
+Intel
+
+?
+
+
+27256
+
+256 Kb
+
+EPROM (HMOS)
+
+262,144
+
+1983
+
+Intel
+
+?
+
+?
+
+[305][356]
+
+
+?
+
+256 Kb
+
+EPROM (CMOS)
+
+262,144
+
+1983
+
+Fujitsu
+
+?
+
+?
+
+[357]
+
+
+512 Kb
+
+EPROM (NMOS)
+
+524,288
+
+1984
+
+AMD
+
+1,700 nm
+
+?
+
+[315]
+
+
+27512
+
+512 Kb
+
+EPROM (HMOS)
+
+524,288
+
+1984
+
+Intel
+
+?
+
+?
+
+[305][358]
+
+
+?
+
+1 Mb
+
+EPROM (CMOS)
+
+1,048,576
+
+1984
+
+NEC
+
+1,200 nm
+
+?
+
+[315]
+
+
+4 Mb
+
+EPROM (CMOS)
+
+4,194,304
+
+1987
+
+Toshiba
+
+800 nm
+
+
+16 Mb
+
+EPROM (CMOS)
+
+16,777,216
+
+1990
+
+NEC
+
+600 nm
+
+
+MROM
+
+16,777,216
+
+1995
+
+AKM, Hitachi
+
+?
+
+?
+
+[322]
+
+Transistor computers[edit]
+Part of an IBM 7070 card cage populated with Standard Modular System cards
+Main article: Transistor computer
+Before transistors were invented, relays were used in commercial tabulating machines and experimental early computers. The world's first working programmable, fully automatic digital computer,[359] the 1941 Z3 22-bit word length computer, had 2,600 relays, and operated at a clock frequency of about 4–5 Hz. The 1940 Complex Number Computer  had fewer than 500 relays,[360] but it was not fully programmable. The earliest practical computers used vacuum tubes and solid-state diode logic. ENIAC had 18,000 vacuum tubes, 7,200 crystal diodes, and 1,500 relays, with many of the vacuum tubes containing two triode elements.
+The second generation of computers were transistor computers that featured boards filled with discrete transistors, solid-state diodes and magnetic memory cores. The experimental 1953 48-bit Transistor Computer, developed at the University of Manchester, is widely believed to be the first transistor computer to come into operation anywhere in the world (the prototype had 92 point-contact transistors and 550 diodes).[361] A later version the 1955 machine had a total of 250 junction transistors and 1,300 point-contact diodes. The Computer also used a small number of tubes in its clock generator, so it was not the first fully transistorized. The ETL Mark III, developed at the Electrotechnical Laboratory in 1956, may have been the first transistor-based electronic computer using the stored program method. It had about "130 point-contact transistors and about 1,800 germanium diodes were used for logic elements, and these were housed on 300 plug-in packages which could be slipped in and out."[362] The 1958 decimal architecture IBM 7070 was the first transistor computer to be fully programmable. It had about 30,000 alloy-junction germanium transistors and 22,000 germanium diodes, on approximately 14,000 Standard Modular System (SMS) cards. The 1959 MOBIDIC, short for "MOBIle DIgital Computer", at 12,000 pounds (6.0 short tons) mounted in the trailer of a semi-trailer truck, was a transistorized computer for battlefield data.
+The third generation of computers used integrated circuits (ICs).[363] The 1962 15-bit Apollo Guidance Computer used "about 4,000 "Type-G" (3-input NOR gate) circuits" for about 12,000 transistors plus 32,000 resistors.[364]
+The IBM System/360, introduced 1964, used discrete transistors in hybrid circuit packs.[363] The 1965 12-bit PDP-8 CPU had 1409 discrete transistors and over 10,000 diodes, on many cards. Later versions, starting with the 1968 PDP-8/I, used integrated circuits. The PDP-8 was later reimplemented as a microprocessor as the Intersil 6100, see below.[365]
+The next generation of computers were the microcomputers, starting with the 1971 Intel 4004, which used MOS transistors. These were used in home computers or personal computers (PCs).
+This list includes early transistorized computers (second generation) and IC-based computers (third generation) from the 1950s and 1960s.
+
+
+
+Computer
+
+Transistor count
+
+Year
+
+Manufacturer
+
+Notes
+
+Ref
+
+
+Transistor Computer
+
+92
+
+1953
+
+University of Manchester
+
+Point-contact transistors, 550 diodes. Lacked stored program capability.
+
+[361]
+
+
+TRADIC
+
+700
+
+1954
+
+Bell Labs
+
+Point-contact transistors
+
+[361]
+
+
+Transistor Computer (full size)
+
+250
+
+1955
+
+University of Manchester
+
+Discrete point-contact transistors, 1,300 diodes
+
+[361]
+
+
+IBM 608
+
+3,000
+
+1955
+
+IBM
+
+Germanium transistors
+
+[366]
+
+
+ETL Mark III
+
+130
+
+1956
+
+Electrotechnical Laboratory
+
+Point-contact transistors, 1,800 diodes, stored program capability
+
+[361][362]
+
+
+Metrovick 950
+
+200
+
+1956
+
+Metropolitan-Vickers
+
+Discrete junction transistors
+
+
+
+
+NEC NEAC-2201
+
+600
+
+1958
+
+NEC
+
+Germanium transistors
+
+[367]
+
+
+Hitachi MARS-1
+
+1,000
+
+1958
+
+Hitachi
+
+
+
+[368]
+
+
+IBM 7070
+
+30,000
+
+1958
+
+IBM
+
+Alloy-junction germanium transistors, 22,000 diodes
+
+[369]
+
+
+Matsushita MADIC-I
+
+400
+
+1959
+
+Matsushita
+
+Bipolar transistors
+
+[370]
+
+
+NEC NEAC-2203
+
+2,579
+
+1959
+
+NEC
+
+
+
+[371]
+
+
+Toshiba TOSBAC-2100
+
+5,000
+
+1959
+
+Toshiba
+
+
+
+[372]
+
+
+IBM 7090
+
+50,000
+
+1959
+
+IBM
+
+Discrete germanium transistors
+
+[373]
+
+
+PDP-1
+
+2,700
+
+1959
+
+Digital Equipment Corporation
+
+Discrete transistors
+
+
+
+
+Olivetti Elea 9003
+
+?
+
+1959
+
+Olivetti
+
+300,000 (?) discrete transistors and diodes
+
+[374]
+
+
+Mitsubishi MELCOM 1101
+
+3,500
+
+1960
+
+Mitsubishi
+
+Germanium transistors
+
+[375]
+
+
+M18 FADAC
+
+1,600
+
+1960
+
+Autonetics
+
+Discrete transistors
+
+
+
+
+CPU of IBM 7030 Stretch
+
+169,100
+
+1961
+
+IBM
+
+World's fastest computer from 1961 to 1964
+
+[376]
+
+
+D-17B
+
+1,521
+
+1962
+
+Autonetics
+
+Discrete transistors
+
+
+
+
+NEC NEAC-L2
+
+16,000
+
+1964
+
+NEC
+
+Ge transistors
+
+[377]
+
+
+CDC 6600 (entire computer)
+
+400,000
+
+1964
+
+Control Data Corporation
+
+World's fastest computer from 1964 to 1969
+
+[378]
+
+
+IBM System/360
+
+?
+
+1964
+
+IBM
+
+Hybrid circuits
+
+
+
+
+PDP-8 "Straight-8"
+
+1,409[365]
+
+1965
+
+Digital Equipment Corporation
+
+discrete transistors, 10,000 diodes
+
+
+
+
+PDP-8/S
+
+1,001[379][380][381]
+
+1966
+
+Digital Equipment Corporation
+
+discrete transistors, diodes
+
+
+
+
+PDP-8/I
+
+1,409[citation needed]
+
+1968[382]
+
+Digital Equipment Corporation
+
+74 series TTL circuits[383]
+
+
+
+
+Apollo Guidance Computer Block I
+
+12,300
+
+1966
+
+Raytheon / MIT Instrumentation Laboratory
+
+4,100 ICs, each containing a 3-transistor, 3-input NOR gate. (Block II had 2,800 dual 3-input NOR gates ICs.)
+
+
+
+Logic functions[edit]
+Transistor count for generic logic functions is based on static CMOS implementation.[384]
+
+
+
+Function
+
+Transistor count
+
+Ref
+
+
+NOT
+
+2
+
+
+
+
+Buffer
+
+4
+
+
+NAND 2-input
+
+4
+
+
+NOR 2-input
+
+4
+
+
+AND 2-input
+
+6
+
+
+OR 2-input
+
+6
+
+
+NAND 3-input
+
+6
+
+
+NOR 3-input
+
+6
+
+
+XOR 2-input
+
+6
+
+
+XNOR 2-input
+
+8
+
+
+MUX 2-input with TG
+
+6
+
+
+MUX 4-input with TG
+
+18
+
+
+NOT MUX 2-input
+
+8
+
+
+MUX 4-input
+
+24
+
+
+1-bit full adder
+
+24
+
+
+1-bit adder–subtractor
+
+48
+
+
+AND-OR-INVERT
+
+6
+
+[385]
+
+
+Latch, D gated
+
+8
+
+
+
+
+Flip-flop, edge triggered dynamic D with reset
+
+12
+
+
+8-bit multiplier
+
+3,000
+
+
+
+
+16-bit multiplier
+
+9,000
+
+
+
+
+32-bit multiplier
+
+21,000
+
+[citation needed]
+
+
+small-scale integration
+
+2–100
+
+[386]
+
+
+medium-scale integration
+
+100–500
+
+[386]
+
+
+large-scale integration
+
+500–20,000
+
+[386]
+
+
+very-large-scale integration
+
+20,000–1,000,000
+
+[386]
+
+
+ultra-large scale integration
+
+>1,000,000
+
+
+
+Parallel systems[edit]
+Historically, each processing element in earlier parallel systems—like all CPUs of that time—was a serial computer built out of multiple chips. As transistor counts per chip increases, each processing element could be built out of fewer chips, and then later each multi-core processor chip could contain more processing elements.[387]
+Goodyear MPP: (1983?) 8 pixel processors per chip, 3,000 to 8,000 transistors per chip.[387]
+Brunel University Scape (single-chip array-processing element): (1983) 256 pixel processors per chip, 120,000 to 140,000 transistors per chip.[387]
+Cell Broadband Engine: (2006) with 9 cores per chip, had 234 million transistors per chip.[388]
+
+Other devices[edit]
+
+
+Device type
+
+Device name
+
+Transistor count
+
+Date of introduction
+
+Designer(s)
+
+Manufacturer(s)
+
+MOS process
+
+Area
+
+Transistor density, tr./mm2
+
+Ref
+
+
+Deep learning engine / IPU[h]
+
+Colossus GC2
+
+23,600,000,000
+
+2018
+
+Graphcore
+
+TSMC
+
+16 nm
+
+~800 mm2
+
+29,500,000
+
+[389][390][391][better source needed]
+
+
+Deep learning engine / IPU
+
+Wafer Scale Engine
+
+1,200,000,000,000
+
+2019
+
+Cerebras
+
+TSMC
+
+16 nm
+
+46,225 mm2
+
+25,960,000
+
+[1][2][3][4]
+
+
+Deep learning engine / IPU
+
+Wafer Scale Engine 2
+
+2,600,000,000,000
+
+2020
+
+Cerebras
+
+TSMC
+
+7 nm
+
+46,225 mm2
+
+56,250,000
+
+[5][392][393]
+
+
+Network switch
+
+NVLink4 NVSwitch
+
+25,100,000,000
+
+2022
+
+Nvidia
+
+TSMC
+
+N4 (4 nm)
+
+294 mm2
+
+85,370,000
+
+[394]
+
+Transistor density[edit]
+The transistor density is the number of transistors that are fabricated per unit area, typically measured in terms of the number of transistors per square millimeter (mm2). The transistor density usually correlates with the gate length of a semiconductor node (also known as a semiconductor manufacturing process), typically measured in nanometers (nm). As of 2019[update], the semiconductor node with the highest transistor density is TSMC's 5 nanometer node, with 171.3 million transistors per square millimeter (note this corresponds to a transistor-transistor spacing of 76.4 nm, far greater than the relative meaningless "5nm")[395]
+
+MOSFET nodes[edit]
+Further information: List of semiconductor scale examples
+
+Semiconductor nodes
+
+
+Node name
+
+Transistor density (transistors/mm2)
+
+Production year
+
+Process
+
+MOSFET
+
+Manufacturer(s)
+
+Ref
+
+
+?
+
+?
+
+1960
+
+20,000 nm
+
+PMOS
+
+Bell Labs
+
+[396][397]
+
+
+?
+
+?
+
+1960
+
+20,000 nm
+
+NMOS
+
+
+?
+
+?
+
+1963
+
+?
+
+CMOS
+
+Fairchild
+
+[398]
+
+
+?
+
+?
+
+1964
+
+?
+
+PMOS
+
+General Microelectronics
+
+[399]
+
+
+?
+
+?
+
+1968
+
+20,000 nm
+
+CMOS
+
+RCA
+
+[400]
+
+
+?
+
+?
+
+1969
+
+12,000 nm
+
+PMOS
+
+Intel
+
+[315][307]
+
+
+?
+
+?
+
+1970
+
+10,000 nm
+
+CMOS
+
+RCA
+
+[400]
+
+
+?
+
+300
+
+1970
+
+8,000 nm
+
+PMOS
+
+Intel
+
+[309][297]
+
+
+?
+
+?
+
+1971
+
+10,000 nm
+
+PMOS
+
+Intel
+
+[401]
+
+
+?
+
+480
+
+1971
+
+?
+
+PMOS
+
+General Instrument
+
+[311]
+
+
+?
+
+?
+
+1973
+
+?
+
+NMOS
+
+Texas Instruments
+
+[311]
+
+
+?
+
+220
+
+1973
+
+?
+
+NMOS
+
+Mostek
+
+[311]
+
+
+?
+
+?
+
+1973
+
+7,500 nm
+
+NMOS
+
+NEC
+
+[19][18]
+
+
+?
+
+?
+
+1973
+
+6,000 nm
+
+PMOS
+
+Toshiba
+
+[20][402]
+
+
+?
+
+?
+
+1976
+
+5,000 nm
+
+NMOS
+
+Hitachi, Intel
+
+[311]
+
+
+?
+
+?
+
+1976
+
+5,000 nm
+
+CMOS
+
+RCA
+
+
+
+
+?
+
+?
+
+1976
+
+4,000 nm
+
+NMOS
+
+Zilog
+
+
+
+
+?
+
+?
+
+1976
+
+3,000 nm
+
+NMOS
+
+Intel
+
+[403]
+
+
+?
+
+1,850
+
+1977
+
+?
+
+NMOS
+
+NTT
+
+[311]
+
+
+?
+
+?
+
+1978
+
+3,000 nm
+
+CMOS
+
+Hitachi
+
+[404]
+
+
+?
+
+?
+
+1978
+
+2,500 nm
+
+NMOS
+
+Texas Instruments
+
+[311]
+
+
+?
+
+?
+
+1978
+
+2,000 nm
+
+NMOS
+
+NEC, NTT
+
+
+?
+
+2,600
+
+1979
+
+?
+
+VMOS
+
+Siemens
+
+
+?
+
+7,280
+
+1979
+
+1,000 nm
+
+NMOS
+
+NTT
+
+
+?
+
+7,620
+
+1980
+
+1,000 nm
+
+NMOS
+
+NTT
+
+
+?
+
+?
+
+1983
+
+2,000 nm
+
+CMOS
+
+Toshiba
+
+[315]
+
+
+?
+
+?
+
+1983
+
+1,500 nm
+
+CMOS
+
+Intel
+
+[311]
+
+
+?
+
+?
+
+1983
+
+1,200 nm
+
+CMOS
+
+Intel
+
+
+?
+
+?
+
+1984
+
+800 nm
+
+CMOS
+
+NTT
+
+
+?
+
+?
+
+1987
+
+700 nm
+
+CMOS
+
+Fujitsu
+
+
+?
+
+?
+
+1989
+
+600 nm
+
+CMOS
+
+Mitsubishi, NEC, Toshiba
+
+[315]
+
+
+?
+
+?
+
+1989
+
+500 nm
+
+CMOS
+
+Hitachi, Mitsubishi, NEC, Toshiba
+
+
+?
+
+?
+
+1991
+
+400 nm
+
+CMOS
+
+Matsushita, Mitsubishi, Fujitsu, Toshiba
+
+
+?
+
+?
+
+1993
+
+350 nm
+
+CMOS
+
+Sony
+
+
+?
+
+?
+
+1993
+
+250 nm
+
+CMOS
+
+Hitachi, NEC
+
+
+3LM
+
+32,000
+
+1994
+
+350 nm
+
+CMOS
+
+NEC
+
+[205]
+
+
+?
+
+?
+
+1995
+
+160 nm
+
+CMOS
+
+Hitachi
+
+[315]
+
+
+?
+
+?
+
+1996
+
+150 nm
+
+CMOS
+
+Mitsubishi
+
+
+TSMC 180 nm
+
+?
+
+1998
+
+180 nm
+
+CMOS
+
+TSMC
+
+[405]
+
+
+CS80
+
+?
+
+1999
+
+180 nm
+
+CMOS
+
+Fujitsu
+
+[406]
+
+
+?
+
+?
+
+1999
+
+180 nm
+
+CMOS
+
+Intel, Sony, Toshiba
+
+[305][217]
+
+
+CS85
+
+?
+
+1999
+
+170 nm
+
+CMOS
+
+Fujitsu
+
+[407]
+
+
+Samsung 140 nm
+
+?
+
+1999
+
+140 nm
+
+CMOS
+
+Samsung
+
+[315]
+
+
+?
+
+?
+
+2001
+
+130 nm
+
+CMOS
+
+Fujitsu, Intel
+
+[406][305]
+
+
+Samsung 100 nm
+
+?
+
+2001
+
+100 nm
+
+CMOS
+
+Samsung
+
+[315]
+
+
+?
+
+?
+
+2002
+
+90 nm
+
+CMOS
+
+Sony, Toshiba, Samsung
+
+[217][333]
+
+
+CS100
+
+?
+
+2003
+
+90 nm
+
+CMOS
+
+Fujitsu
+
+[406]
+
+
+Intel 90 nm
+
+1,450,000
+
+2004
+
+90 nm
+
+CMOS
+
+Intel
+
+[408][305]
+
+
+Samsung 80 nm
+
+?
+
+2004
+
+80 nm
+
+CMOS
+
+Samsung
+
+[409]
+
+
+?
+
+?
+
+2004
+
+65 nm
+
+CMOS
+
+Fujitsu, Toshiba
+
+[410]
+
+
+Samsung 60 nm
+
+?
+
+2004
+
+60 nm
+
+CMOS
+
+Samsung
+
+[333]
+
+
+TSMC 45 nm
+
+?
+
+2004
+
+45 nm
+
+CMOS
+
+TSMC
+
+
+
+
+Elpida 90 nm
+
+?
+
+2005
+
+90 nm
+
+CMOS
+
+Elpida Memory
+
+[411]
+
+
+CS200
+
+?
+
+2005
+
+65 nm
+
+CMOS
+
+Fujitsu
+
+[412][406]
+
+
+Samsung 50 nm
+
+?
+
+2005
+
+50 nm
+
+CMOS
+
+Samsung
+
+[335]
+
+
+Intel 65 nm
+
+2,080,000
+
+2006
+
+65 nm
+
+CMOS
+
+Intel
+
+[408]
+
+
+Samsung 40 nm
+
+?
+
+2006
+
+40 nm
+
+CMOS
+
+Samsung
+
+[335]
+
+
+Toshiba 56 nm
+
+?
+
+2007
+
+56 nm
+
+CMOS
+
+Toshiba
+
+[336]
+
+
+Matsushita 45 nm
+
+?
+
+2007
+
+45 nm
+
+CMOS
+
+Matsushita
+
+[81]
+
+
+Intel 45 nm
+
+3,300,000
+
+2008
+
+45 nm
+
+CMOS
+
+Intel
+
+[413]
+
+
+Toshiba 43 nm
+
+?
+
+2008
+
+43 nm
+
+CMOS
+
+Toshiba
+
+[337]
+
+
+TSMC 40 nm
+
+?
+
+2008
+
+40 nm
+
+CMOS
+
+TSMC
+
+[414]
+
+
+Toshiba 32 nm
+
+?
+
+2009
+
+32 nm
+
+CMOS
+
+Toshiba
+
+[415]
+
+
+Intel 32 nm
+
+7,500,000
+
+2010
+
+32 nm
+
+CMOS
+
+Intel
+
+[413]
+
+
+?
+
+?
+
+2010
+
+20 nm
+
+CMOS
+
+Hynix, Samsung
+
+[416][335]
+
+
+Intel 22 nm
+
+15,300,000
+
+2012
+
+22 nm
+
+CMOS
+
+Intel
+
+[413]
+
+
+IMFT 20 nm
+
+?
+
+2012
+
+20 nm
+
+CMOS
+
+IMFT
+
+[417]
+
+
+Toshiba 19 nm
+
+?
+
+2012
+
+19 nm
+
+CMOS
+
+Toshiba
+
+
+Hynix 16 nm
+
+?
+
+2013
+
+16 nm
+
+FinFET
+
+SK Hynix
+
+[416]
+
+
+TSMC 16 nm
+
+28,880,000
+
+2013
+
+16 nm
+
+FinFET
+
+TSMC
+
+[418][419]
+
+
+Samsung 10 nm
+
+51,820,000
+
+2013
+
+10 nm
+
+FinFET
+
+Samsung
+
+[420][421]
+
+
+Intel 14 nm
+
+37,500,000
+
+2014
+
+14 nm
+
+FinFET
+
+Intel
+
+[413]
+
+
+14LP
+
+32,940,000
+
+2015
+
+14 nm
+
+FinFET
+
+Samsung
+
+[420]
+
+
+TSMC 10 nm
+
+52,510,000
+
+2016
+
+10 nm
+
+FinFET
+
+TSMC
+
+[418][422]
+
+
+12LP
+
+36,710,000
+
+2017
+
+12 nm
+
+FinFET
+
+GlobalFoundries, Samsung
+
+[238]
+
+
+N7FF
+
+96,500,000
+101,850,000[423]
+
+
+2017
+
+7 nm
+
+FinFET
+
+TSMC
+
+[424][425][426]
+
+
+8LPP
+
+61,180,000
+
+2018
+
+8 nm
+
+FinFET
+
+Samsung
+
+[420]
+
+
+7LPE
+
+95,300,000
+
+2018
+
+7 nm
+
+FinFET
+
+Samsung
+
+[425]
+
+
+Intel 10 nm
+
+100,760,000
+106,100,000[423]
+
+
+2018
+
+10 nm
+
+FinFET
+
+Intel
+
+[427]
+
+
+5LPE
+
+126,530,000
+133,560,000[423] 
+134,900,000[428]
+
+
+2018
+
+5 nm
+
+FinFET
+
+Samsung
+
+[429][430]
+
+
+N7FF+
+
+113,900,000
+
+2019
+
+7 nm
+
+FinFET
+
+TSMC
+
+[424][425]
+
+
+CLN5FF
+
+171,300,000
+185,460,000[423]
+
+
+2019
+
+5 nm
+
+FinFET
+
+TSMC
+
+[395]
+
+
+Intel 7
+
+100,760,000
+106,100,000[423]
+
+
+2021
+
+7 nm
+
+FinFET
+
+Intel
+
+
+
+
+4LPE
+
+145,700,000[428]
+
+2021
+
+4 nm
+
+FinFET
+
+Samsung
+
+[431][432][433]
+
+
+N4
+
+196,600,000[423][434]
+
+2021
+
+4 nm
+
+FinFET
+
+TSMC
+
+[435]
+
+
+N4P
+
+196,600,000[423][434]
+
+2022
+
+4 nm
+
+FinFET
+
+TSMC
+
+[436]
+
+
+3GAE
+
+202,850,000[423]
+
+2022
+
+3 nm
+
+MBCFET
+
+Samsung
+
+[437][431][438]
+
+
+N3
+
+314,730,000[423]
+
+2022
+
+3 nm
+
+FinFET
+
+TSMC
+
+[439][440]
+
+
+N4X
+
+?
+
+2023
+
+4 nm
+
+FinFET
+
+TSMC
+
+[441][442][443]
+
+
+N3E
+
+?
+
+2023
+
+3 nm
+
+FinFET
+
+TSMC
+
+[440][444]
+
+
+3GAP
+
+?
+
+2023
+
+3 nm
+
+MBCFET
+
+Samsung
+
+[431]
+
+
+Intel 4
+
+160,000,000[445]
+
+2023
+
+4 nm
+
+FinFET
+
+Intel
+
+[446][447][448]
+
+
+Intel 3
+
+?
+
+2023
+
+3 nm
+
+FinFET
+
+Intel
+
+[447][448]
+
+
+Intel 20A
+
+?
+
+2024
+
+2 nm
+
+RibbonFET
+
+Intel
+
+[447][448]
+
+
+Intel 18A
+
+?
+
+2025
+
+sub-2 nm
+
+RibbonFET
+
+Intel
+
+[447]
+
+
+2GAP
+
+?
+
+2025
+
+2 nm
+
+MBCFET
+
+Samsung
+
+[431]
+
+
+N2
+
+?
+
+2025
+
+2 nm
+
+GAAFET
+
+TSMC
+
+[440][444]
+
+
+Samsung 1.4 nm
+
+?
+
+2027
+
+1.4 nm
+
+?
+
+Samsung
+
+[449]
+
+Gate count[edit]
+In certain applications, the term gate count is preferred over the term transistor count. It refers to the number of logic gates built with transistors and other electronic devices needed to implement a design.[450][451][452][453]
+
+See also[edit]
+
+Dennard scaling
+Electronics industry
+Integrated circuit
+List of best-selling electronic devices
+List of semiconductor scale examples
+MOSFET
+Semiconductor
+Semiconductor device
+Semiconductor device fabrication
+Semiconductor industry
+Transistor
+Cerebras Systems
+
+Notes[edit]
+
+
+^ Declassified 1998
+
+^ The TMS1000 is a microcontroller, the transistor count includes memory and input/output controllers, not just the CPU.
+
+^ 3,510 without depletion mode pull-up transistors
+
+^ 6,813 without depletion mode pull-up transistors
+
+^ 3,900,000,000 core chiplet die, 2,090,000,000 I/O die
+
+^ a b Estimate
+
+^ Versal Premium are confirmed to be shipping in 1H 2021 but nothing was mentioned about the VP1802 in particular. Usually Xilinx makes separate news for the release of its biggest devices so the VP1802 is likely to be released later.
+
+^ "Intelligence Processing Unit"
+
+
+References[edit]
+
+
+^ a b Hruska, Joel (August 2019). "Cerebras Systems Unveils 1.2 Trillion Transistor Wafer-Scale Processor for AI". extremetech.com. Retrieved September 6, 2019.
+
+^ a b Feldman, Michael (August 2019). "Machine Learning chip breaks new ground with waferscale integration". nextplatform.com. Retrieved September 6, 2019.
+
+^ a b Cutress, Ian (August 2019). "Hot Chips 31 Live Blogs: Cerebras' 1.2 Trillion Transistor Deep Learning Processor". anandtech.com. Retrieved September 6, 2019.
+
+^ a b "A Look at Cerebras Wafer-Scale Engine: Half Square Foot Silicon Chip". WikiChip Fuse. November 16, 2019. Retrieved December 2, 2019.
+
+^ a b Everett, Joseph (August 26, 2020). "World's largest CPU has 850,000 7 nm cores that are optimized for AI and 2.6 trillion transistors". TechReportArticles.
+
+^  Cite error: The named reference m3ultra was invoked but never defined (see the help page).
+
+^ "John Gustafson's answer to How many individual transistors are in the world's most powerful supercomputer?". Quora. Retrieved August 22, 2019.
+
+^ Pires, Francisco (October 5, 2022). "Water-Based Chips Could be Breakthrough for Neural Networking, AI: Wetware has gained an entirely new meaning". Tom's Hardware. Retrieved October 5, 2022.
+
+^ Laws, David (April 2, 2018). "13 Sextillion & Counting: The Long & Winding Road to the Most Frequently Manufactured Human Artifact in History". Computer History Museum.
+
+^ Handy, Jim (May 26, 2014). "How Many Transistors Have Ever Shipped?". Forbes.
+
+^ "1971: Microprocessor Integrates CPU Function onto a Single Chip". The Silicon Engine. Computer History Museum. Retrieved September 4, 2019.
+
+^ a b Holt, Ray. "World's First Microprocessor". Retrieved March 5, 2016. 1st fully integrated chip set microprocessor
+
+^ a b "Alpha 21364 - Microarchitectures - Compaq - WikiChip". en.wikichip.org. Retrieved September 8, 2019.
+
+^ Holt, Ray M. (1998). The F14A Central Air Data Computer and the LSI Technology State-of-the-Art in 1968. p. 8.
+
+^ Holt, Ray M. (2013). "F14 TomCat MOS-LSI Chip Set". First Microprocessor. Archived from the original on November 6, 2020. Retrieved November 6, 2020.
+
+^ Ken Shirriff. "The Texas Instruments TMX 1795: the (almost) first, forgotten microprocessor". 2015.
+
+^ Ryoichi Mori; Hiroaki Tajima; Morihiko Tajima; Yoshikuni Okada (October 1977). "Microprocessors in Japan". Euromicro Newsletter. 3 (4): 50–7. doi:10.1016/0303-1268(77)90111-0.
+
+^ a b "NEC 751 (uCOM-4)". The Antique Chip Collector's Page. Archived from the original on May 25, 2011. Retrieved June 11, 2010.
+
+^ a b "1970s: Development and evolution of microprocessors" (PDF). Semiconductor History Museum of Japan. Archived from the original (PDF) on June 27, 2019. Retrieved June 27, 2019.
+
+^ a b "1973: 12-bit engine-control microprocessor (Toshiba)" (PDF). Semiconductor History Museum of Japan. Archived from the original (PDF) on June 27, 2019. Retrieved June 27, 2019.
+
+^ "Low Bandwidth Timeline –  Semiconductor". Texas Instruments. Retrieved June 22, 2016.
+
+^ "The MOS 6502 and the Best Layout Guy in the World". research.swtch.com. January 3, 2011. Retrieved September 3, 2019.
+
+^ Shirriff, Ken (January 2023). "Counting the transistors in the 8086 processor: it's harder than you might think".
+
+^ "Digital History: ZILOG Z8000 (APRIL 1979)". OLD-COMPUTERS.COM : The Museum. Retrieved June 19, 2019.
+
+^ "Chip Hall of Fame: Motorola MC68000 Microprocessor". IEEE Spectrum. Institute of Electrical and Electronics Engineers. June 30, 2017. Retrieved June 19, 2019.
+
+^ Microprocessors: 1971 to 1976 Archived December 3, 2013, at the Wayback Machine Christiansen
+
+^ "Microprocessors 1976 to 1981". weber.edu. Archived from the original on December 3, 2013. Retrieved August 9, 2014.
+
+^ "W65C816S 16-bit Core". www.westerndesigncenter.com. Retrieved September 12, 2017.
+
+^ a b c d e Demone, Paul (November 9, 2000). "ARM's Race to World Domination". real world technologies. Retrieved July 20, 2015.
+
+^ Hand, Tom. "The Harris RTX 2000 Microcontroller" (PDF). mpeforth.com. Retrieved August 9, 2014.
+
+^ "Forth chips list". UltraTechnology. March 15, 2001. Retrieved August 9, 2014.
+
+^ Koopman, Philip J. (1989). "4.4 Architecture of the Novix NC4016". Stack Computers: the new wave. Ellis Horwood Series in Computers and Their Applications. Carnegie Mellon University. ISBN 978-0745804187. Retrieved August 9, 2014.
+
+^ "Fujitsu SPARC". cpu-collection.de. Retrieved June 30, 2019.
+
+^ a b Kimura S, Komoto Y, Yano Y (1988). "Implementation of the V60/V70 and its FRM function". IEEE Micro. 8 (2): 22–36. doi:10.1109/40.527. S2CID 9507994.
+
+^ "VL2333 - VTI - WikiChip". en.wikichip.org. Retrieved August 31, 2019.
+
+^ Inayoshi H, Kawasaki I, Nishimukai T, Sakamura K (1988). "Realization of Gmicro/200". IEEE Micro. 8 (2): 12–21. doi:10.1109/40.526. S2CID 36938046.
+
+^ Bosshart, P.; Hewes, C.; Mi-Chang Chang; Kwok-Kit Chau; Hoac, C.; Houston, T.; Kalyan, V.; Lusky, S.; Mahant-Shetti, S.; Matzke, D.; Ruparel, K.; Ching-Hao Shaw; Sridhar, T.; Stark, D. (October 1987). "A 553K-Transistor LISP Processor Chip". IEEE Journal of Solid-State Circuits. 22 (5): 202–3. doi:10.1109/ISSCC.1987.1157084. S2CID 195841103.
+
+^ Fahlén, Lennart E.; Stockholm International Peace Research Institute (1987). "3. Hardware requirements for artificial intelligence § Lisp Machines: TI Explorer". Arms and Artificial Intelligence: Weapon and Arms Control Applications of Advanced Computing. SIPRI Monograph Series. Oxford University Press. p. 57. ISBN 978-0-19-829122-0.
+
+^ 
+Jouppi, Norman P.; Tang, Jeffrey Y. F. (July 1989). "A 20-MIPS Sustained 32-bit CMOS Microprocessor with High Ratio of Sustained to Peak Performance". IEEE Journal of Solid-State Circuits. 24 (5): i. Bibcode:1989IJSSC..24.1348J. CiteSeerX 10.1.1.85.988. doi:10.1109/JSSC.1989.572612. WRL Research Report 89/11.
+
+^ "The CPU shack museum". CPUshack.com. May 15, 2005. Retrieved August 9, 2014.
+
+^ a b c "Intel i960 Embedded Microprocessor". National High Magnetic Field Laboratory. Florida State University. March 3, 2003. Archived from the original on March 3, 2003. Retrieved June 29, 2019.
+
+^ Venkatasawmy, Rama (2013). The Digitization of Cinematic Visual Effects: Hollywood's Coming of Age. Rowman & Littlefield. p. 198. ISBN 9780739176214.
+
+^ Bakoglu, Grohoski, and Montoye. "The IBM RISC System/6000 processor: Hardware overview." IBM J. Research and Development. Vol. 34 No. 1, January 1990, pp. 12-22.
+
+^ "SH Microprocessor Leading the Nomadic Era" (PDF). Semiconductor History Museum of Japan. Archived from the original (PDF) on June 27, 2019. Retrieved June 27, 2019.
+
+^ "SH2: A Low Power RISC Micro for Consumer Applications" (PDF). Hitachi. Archived from the original (PDF) on May 10, 2019. Retrieved June 27, 2019.
+
+^ "HARP-1: A 120 MHz Superscalar PA-RISC Processor" (PDF). Hitachi. Archived from the original (PDF) on April 23, 2016. Retrieved June 19, 2019.
+
+^ White and Dhawan. "POWER2: next generation of the RISC System/6000 family" IBM J. Research and Development. Vol. 38 No. 5, September 1994, pp. 493-502.
+
+^ "ARM7 Statistics". Poppyfields.net. May 27, 1994. Retrieved August 9, 2014.
+
+^ "Forth Multiprocessor Chip MuP21". www.ultratechnology.com. Retrieved September 6, 2019. MuP21 has a 21-bit CPU core, a memory coprocessor, and a video coprocessor
+
+^ a b "F21 CPU". www.ultratechnology.com. Retrieved September 6, 2019. F21 offers video I/O, analog I/O, serial network I/O, and a parallel I/O port on chip. F21 has a transistor count of about 15,000 vs about 7,000 for MuP21.
+
+^ "Ars Technica: PowerPC on Apple: An Architectural History, Part I - Page 2 - (8/2004)". archive.arstechnica.com. Retrieved August 11, 2020.
+
+^ Gary et al. (1994). "The PowerPC 603 microprocessor: a low-power design for portable applications." Proceedings of COMPCON 94. DOI: 10.1109/CMPCON.1994.282894
+
+^ Slaton et al. (1995). "The PowerPC 603e microprocessor: an enhanced, low-power, superscalar microprocessor." Proceedings of ICCD '95 International Conference on Computer Design. DOI: 10.1109/ICCD.1995.528810
+
+^ Bowhill, William J. et al. (1995). "Circuit Implementation of a 300-MHz 64-bit Second-generation CMOS Alpha CPU". Digital Technical Journal, Volume 7, Number 1, pp. 100–118.
+
+^ "Intel Pentium Pro 180". hw-museum.cz. February 20, 2015. Retrieved September 8, 2019.
+
+^ "PC Guide Intel Pentium Pro ("P6")". PCGuide.com. April 17, 2001. Archived from the original on April 14, 2001. Retrieved August 9, 2014.
+
+^ Gaddis, N.; Lotz, J. (November 1996). "A 64-b quad-issue CMOS RISC microprocessor". IEEE Journal of Solid-State Circuits 31 (11): pp. 1697–1702.
+
+^ Bouchard, Gregg. "Design objectives of the 0.35 μm Alpha 21164 Microprocessor". IEEE Hot Chips Symposium, August 1996, IEEE Computer Society.
+
+^ Ulf Samuelsson. "Transistor count of common uCs?". www.embeddedrelated.com. Retrieved September 8, 2019. IIRC, The AVR core is 12,000 gates, and the megaAVR core is 20,000 gates. Each gate is 4 transistors. The chip is considerably larger since the memory uses quite a lot.
+
+^ Gronowski, Paul E. et al. (May 1998). "High-performance microprocessor design". IEEE Journal of Solid-State Circuits 33 (5): pp. 676–686.
+
+^ 
+Nakagawa, Norio; Arakawa, Fumio (April 1999). "Entertainment Systems and High-Performance Processor SH-4" (PDF). Hitachi Review. 48 (2): 58–63. Retrieved March 18, 2023.
+
+^ Nishii, O.; Arakawa, F.; Ishibashi, K.; Nakano, S.; Shimura, T.; Suzuki, K.; Tachibana, M.; Totsuka, Y.; Tsunoda, T.; Uchiyama, K.; Yamada, T.; Hattori, T.; Maejima, H.; Nakagawa, N.; Narita, S.; Seki, M.; Shimazaki, Y.; Satomura, R.; Takasuga, T.; Hasegawa, A. (1998). "A 200 MHZ 1.2 W 1.4 GFLOPS microprocessor with graphic operation unit". 1998 IEEE International Solid-State Circuits Conference. Digest of Technical Papers, ISSCC. First Edition (Cat. No. 98CH36156). IEEE. pp. 18.1-1 - 18.1-11. doi:10.1109/ISSCC.1998.672469. ISBN 0-7803-4344-1. S2CID 45392734. Retrieved March 17, 2023.
+
+^ a b c Diefendorff, Keith (April 19, 1999). "Sony's Emotionally Charged Chip: Killer Floating-Point "Emotion Engine" To Power PlayStation 2000" (PDF). Microprocessor Report. 13 (5). S2CID 29649747. Archived from the original (PDF) on February 28, 2019. Retrieved June 19, 2019.
+
+^ a b Hennessy, John L.; Patterson, David A. (May 29, 2002). Computer Architecture: A Quantitative Approach (3 ed.). Morgan Kaufmann. p. 491. ISBN 978-0-08-050252-6. Retrieved April 9, 2013.
+
+^ a b c "NVIDIA GeForce 7800 GTX GPU Review". PC Perspective. June 22, 2005. Retrieved June 18, 2019.
+
+^ Ando, H.; Yoshida, Y.; Inoue, A.; Sugiyama, I.; Asakawa, T.; Morita, K.; Muta, T.; Otokurumada, T.; Okada, S.; Yamashita, H.; Satsukawa, Y.; Konmoto, A.; Yamashita, R.; Sugiyama, H. (2003). "A 1.3GHz fifth generation SPARC64 microprocessor". Proceedings of the 40th Annual Design Automation Conference. Design Automation Conference. pp. 702–705. doi:10.1145/775832.776010. ISBN 1-58113-688-9.
+
+^ Krewell, Kevin (21 October 2002). "Fujitsu's SPARC64 V Is Real Deal". Microprocessor Report.
+
+^ "Intel Pentium M Processor 1.60 GHZ, 1M Cache, 400 MHZ FSB Product Specifications".
+
+^ 
+"EE+GS". PS2 Dev Wiki.
+
+^ 
+"Sony MARKETING (JAPAN) ANNOUNCES LAUNCH OF "PSX" DESR-5000 and DESR-7000 TOWARDS THE END OF 2003" (Press release). Sony. November 27, 2003.
+
+^ 
+"EMOTION ENGINE AND GRAPHICS SYNTHESIZER USED IN THE CORE OF PLAYSTATION BECOME ONE CHIP" (PDF). Sony. April 21, 2003. Retrieved March 19, 2023.
+
+^ 
+"Sony PSX's 90nm CPU is 'not 90nm'". The Register. January 30, 2004.
+
+^ 
+"Semi Insights stands by 'not 90-nm' description of PSX chip". EE Times. February 5, 2004.
+
+^ "Intel Pentium M Processor 760 (2M Cache, 2.00A GHZ, 533 MHZ FSB) Product Specifications".
+
+^ Fujitsu Limited (August 2004). SPARC64 V Processor For UNIX Server.
+
+^ "A Glimpse Inside The Cell Processor". Gamasutra. July 13, 2006. Retrieved June 19, 2019.
+
+^ "Intel Pentium D Processor 920". Intel. Retrieved January 5, 2023.
+
+^ "PRESS KIT — Dual-core Intel Itanium Processor". Intel. Retrieved August 9, 2014.
+
+^ a b Toepelt, Bert (January 8, 2009). "AMD Phenom II X4: 45nm Benchmarked — The Phenom II And AMD's Dragon Platform". TomsHardware.com. Retrieved August 9, 2014.
+
+^ "ARM (Advanced RISC Machines) Processors". EngineersGarage.com. Retrieved August 9, 2014.
+
+^ a b "Panasonic starts to sell a New-generation UniPhier System LSI". Panasonic. October 10, 2007. Retrieved July 2, 2019.
+
+^ "SPARC64 VI Extensions" page 56, Fujitsu Limited, Release 1.3, 27 March 2007
+
+^ Morgan, Timothy Prickett (17 July 2008). "Fujitsu and Sun Flex Their Quads with New Sparc Server Lineup". The Unix Guardian, Vol. 8, No. 27.
+
+^ Takumi Maruyama (2009). SPARC64 VIIIfx: Fujitsu's New Generation Octo Core Processor for PETA Scale computing (PDF). Proceedings of Hot Chips 21. IEEE Computer Society. Archived from the original (PDF) on October 8, 2010. Retrieved June 30, 2019.
+
+^ "Intel Atom N450 specifications". Intel. Retrieved June 8, 2023.
+
+^ "Intel Atom D510 specifications". Intel. Retrieved June 8, 2023.
+
+^ Stokes, Jon (February 10, 2010). "Sun's 1 billion-transistor, 16-core Niagara 3 processor". ArsTechnica.com. Retrieved August 9, 2014.
+
+^ "IBM to Ship World's Fastest Microprocessor". IBM. September 1, 2010. Archived from the original on September 5, 2010. Retrieved August 9, 2014.
+
+^ "Intel to deliver first computer chip with two billion transistors". AFP. February 5, 2008. Archived from the original on May 20, 2011. Retrieved February 5, 2008.
+
+^ "Intel Previews Intel Xeon 'Nehalem-EX' Processor." May 26, 2009. Retrieved on May 28, 2009.
+
+^ Morgan, Timothy Prickett (November 21, 2011), "Fujitsu parades 16-core Sparc64 super stunner", The Register, retrieved December 8, 2011
+
+^ Angelini, Chris (November 14, 2011). "Intel Core i7-3960X Review: Sandy Bridge-E And X79 Express". TomsHardware.com. Retrieved August 9, 2014.
+
+^ "IDF2012 Mark Bohr, Intel Senior Fellow" (PDF).
+
+^ "Images of SPARC64" (PDF). fujitsu.com. Retrieved August 29, 2017.
+
+^ "Intel's Atom Architecture: The Journey Begins". AnandTech. Retrieved April 4, 2010.
+
+^ "Intel Xeon Phi SE10X". TechPowerUp. Retrieved July 20, 2015.
+
+^ Shimpi, Lal. "The Haswell Review: Intel Core i7-4770K & i5-4670K Tested". anandtech. Retrieved November 20, 2014.
+
+^ "Dimmick, Frank (August 29, 2014). "Intel Core i7 5960X Extreme Edition Review". Overclockers Club. Retrieved August 29, 2014.
+
+^ "Apple A8X". NotebookCheck. Retrieved July 20, 2015.
+
+^ "Intel Readying 15-core Xeon E7 v2". AnandTech. Retrieved August 9, 2014.
+
+^ "Intel Xeon E5-2600 v3 Processor Overview: Haswell-EP Up to 18 Cores". pcper. September 8, 2014. Retrieved January 29, 2015.
+
+^ "Intel's Broadwell-U arrives aboard 15W, 28W mobile processors". TechReport. January 5, 2015. Retrieved January 5, 2015.
+
+^ "Oracle Cranks up the Cores to 32 with Sparc M7 Chip". EnterpriseTech. August 13, 2014.
+
+^ "Broadwell-E: Intel Core i7-6950X, 6900K, 6850K & 6800K Review". Tom's Hardware. May 30, 2016. Retrieved April 12, 2017.
+
+^ "The Broadwell-E Review". PC Gamer. July 8, 2016. Retrieved April 12, 2017.
+
+^ "HUAWEI TO UNVEIL KIRIN 970 SOC WITH AI UNIT, 5.5 BILLION TRANSISTORS AND 1.2 GBPS LTE SPEED AT IFA 2017". firstpost.com. September 1, 2017. Retrieved November 18, 2018.
+
+^ "Broadwell-EP Architecture - Intel Xeon E5-2600 v4 Broadwell-EP Review". Tom's Hardware. March 31, 2016. Retrieved April 4, 2016.
+
+^ "About the ZipCPU". zipcpu.com. Retrieved September 10, 2019. As of ORCONF, 2016, the ZipCPU used between 1286 and 4926 6-LUTs, depending upon how it is configured.
+
+^ "Qualcomm Snapdragon 835 (8998)". NotebookCheck. Retrieved September 23, 2017.
+
+^ Takahashi, Dean (January 3, 2017). "Qualcomm's Snapdragon 835 will debut with 3 billion transistors and a 10nm manufacturing process". VentureBeat.
+
+^ Singh, Teja (2017). "3.2 Zen: A Next-Generation High-Performance x86 Core". Proc. IEEE International Solid-State Circuits Conference. pp. 52–54.
+
+^ Cutress, Ian (February 22, 2017). "AMD Launches Zen". Anandtech.com. Retrieved February 22, 2017.
+
+^ "Ryzen 5 1600 - AMD". Wikichip.org. April 20, 2018. Retrieved December 9, 2018.
+
+^ "Kirin 970 –  HiSilicon". Wikichip. March 1, 2018. Retrieved November 8, 2018.
+
+^ a b Leadbetter, Richard (April 6, 2017). "Inside the next Xbox: Project Scorpio tech revealed". Eurogamer. Retrieved May 3, 2017.
+
+^ "Intel Xeon Platinum 8180". TechPowerUp. December 1, 2018. Retrieved December 2, 2018.
+
+^ Pellerano, Stefano (March 2, 2022). "Circuit Design to Harness the Power of Scaling and Integration (ISSCC 2022)". YouTube.
+
+^ Lee, Y. "SiFive Freedom SoCs : Industry's First Open Source RISC V Chips" (PDF). HotChips 29 IOT/Embedded. Archived from the original (PDF) on August 9, 2020. Retrieved June 19, 2019.
+
+^ "Documents at Fujitsu" (PDF). fujitsu.com. Retrieved August 29, 2017.
+
+^ Schmerer, Kai (November 5, 2018). "iPad Pro 2018: A12X-Prozessor bietet deutlich mehr Leistung". ZDNet.de (in German).
+
+^ "Qualcomm Datacenter Technologies Announces Commercial Shipment of Qualcomm Centriq 2400 – The World's First 10nm Server Processor and Highest Performance Arm-based Server Processor Family Ever Designed". Qualcomm. Retrieved November 9, 2017.
+
+^ "Qualcomm Snapdragon 1000 for laptops could pack 8.5 billion transistors". techradar. Retrieved September 23, 2017.
+
+^ "Spotted: Qualcomm Snapdragon 8cx Wafer on 7nm". AnandTech. Retrieved December 6, 2018.
+
+^ "HiSilicon Kirin 710". Notebookcheck. September 19, 2018. Retrieved November 24, 2018.
+
+^ Yang, Daniel; Wegner, Stacy (September 21, 2018). "Apple iPhone Xs Max Teardown". TechInsights. Retrieved September 21, 2018.
+
+^ "Apple's A12 Bionic is the first 7-nanometer smartphone chip". Engadget. Retrieved September 26, 2018.
+
+^ "Kirin 980 –  HiSilicon". Wikichip. November 8, 2018. Retrieved November 8, 2018.
+
+^ "Qualcomm Snapdragon 8180: 7nm SoC SDM1000 With 8.5 Billion Transistors To Challenge Apple A12 Bionic Chipset". dailyhunt. Retrieved September 21, 2018.
+
+^ Zafar, Ramish (October 30, 2018). "Apple's A12X Has 10 Billion Transistors, 90% Performance Boost & 7-Core GPU". Wccftech.
+
+^ "Fujitsu began to produce Japan's billions of super-calculations with the strongest ARM processor A64FX". firstxw.com. April 16, 2019. Archived from the original on June 20, 2019. Retrieved June 19, 2019.
+
+^ "Fujitsu Successfully Triples the Power Output of Gallium-Nitride Transistors". Fujitsu. August 22, 2018. Retrieved June 19, 2019.
+
+^ "Hot Chips 30: Nvidia Xavier SoC". fuse.wikichip.org. September 18, 2018. Retrieved December 6, 2018.
+
+^ Frumusanu, Andrei. "The Samsung Galaxy S10+ Snapdragon & Exynos Review: Almost Perfect, Yet So Flawed". www.anandtech.com. Retrieved February 19, 2021.
+
+^ a b c d e f "Zen 2 Microarchitecture". WikiChip. Retrieved February 21, 2023.
+
+^ "AMD Ryzen 9 3900X and Ryzen 7 3700X Review: Zen 2 and 7nm Unleashed". Tom's Hardware. July 7, 2019. Retrieved October 19, 2019.
+
+^ Frumusanu, Andrei. "The Huawei Mate 30 Pro Review: Top Hardware without Google?". AnandTech. Retrieved January 2, 2020.
+
+^ Zafar, Ramish (September 10, 2019). "Apple A13 For iPhone 11 Has 8.5 Billion Transistors, Quad-Core GPU". Wccftech. Retrieved September 11, 2019.
+
+^ Introducing iPhone 11 Pro — Apple Youtube Video, retrieved September 11, 2019[dead YouTube link]
+
+^ "Hot Chips 2020 Live Blog: IBM z15". AnandTech. August 17, 2020.
+
+^ a b Broekhuijsen, Niels (October 23, 2019). "AMD's 64-Core EPYC and Ryzen CPUs Stripped: A Detailed Inside Look". Retrieved October 24, 2019.
+
+^ a b Mujtaba, Hassan (October 22, 2019). "AMD 2nd Gen EPYC Rome Processors Feature A Gargantuan 39.54 Billion Transistors, IO Die Pictured in Detail". Retrieved October 24, 2019.
+
+^ Friedman, Alan (December 14, 2019). "5nm Kirin 1020 SoC tipped for next year's Huawei Mate 40 line". Phone Arena. Retrieved December 23, 2019.
+
+^ Verheyde, Arne (December 5, 2019). "Amazon Compares 64-core ARM Graviton2 to Intel's Xeon". Tom's Hardware. Retrieved December 6, 2019.
+
+^ Morgan, Timothy Prickett (December 3, 2019). "Finally: AWS Gives Servers A Real Shot In The Arm". The Next Platform. Retrieved December 6, 2019.
+
+^ Friedman, Alan (October 10, 2019). "Qualcomm will reportedly introduce the Snapdragon 865 SoC as soon as next month". Phone Arena. Retrieved February 19, 2021.
+
+^ "Xiaomi Mi 10 Teardown Analysis | TechInsights". www.techinsights.com. Retrieved February 19, 2021.
+
+^ "The Linley Group - TI Jacinto Accelerates Level 3 ADAS". www.linleygroup.com. Retrieved February 12, 2021.
+
+^ "Apple unveils A14 Bionic processor with 40% faster CPU and 11.8 billion transistors". Venturebeat. November 10, 2020. Retrieved November 24, 2020.
+
+^ "Apple says new Arm-based M1 chip offers the 'longest battery life ever in a Mac'". The Verge. November 10, 2020. Retrieved November 11, 2020.
+
+^ Ikoba, Jed John (October 23, 2020). "Multiple benchmark tests rank the Kirin 9000 as one of the most-powerful chipset yet". Gizmochina. Retrieved November 14, 2020.
+
+^ Frumusanu, Andrei. "Huawei Announces Mate 40 Series: Powered by 15.3bn Transistors 5nm Kirin 9000". www.anandtech.com. Retrieved November 14, 2020.
+
+^ a b Burd, Thomas (2022). "2.7 Zen3: The AMD 2nd-Generation 7nm x86-64 Microprocessor Core". Proc. IEEE International Solid-State Circuits Conference. pp. 54–56.
+
+^ "For a long time, Intel once again named the number of transistors in the chip. There are supposed to be about 6 billion for Rocket Lake-S. Coffee Lake-S is supposed to have about 4 billion. The chip with eight cores is about 30 % bigger than the predecessor with ten core". twitter. Retrieved March 16, 2021.
+
+^ "Intel's Core i7-11700K 'Rocket Lake' Delidded: A Big Die, Revealed". tomshardware. March 12, 2021. Retrieved March 16, 2021.
+
+^ "Intel's 14nm density". www.techcenturion.com. November 26, 2019. Retrieved November 26, 2019.
+
+^ "AMD Ryzen 7 5800H Specs". TechPowerUp. Retrieved September 20, 2021.
+
+^ "AMD Epyc 7763 specifications". August 2023.
+
+^ Shankland, Stephen. "Apple's A15 Bionic chip powers iPhone 13 with 15 billion transistors, new graphics and AI". CNET. Retrieved September 20, 2021.
+
+^ "Apple iPhone 13 Pro Teardown | TechInsights". www.techinsights.com. Retrieved September 29, 2021.
+
+^ a b "Apple unveils M1 Pro and M1 Max chips for latest MacBook Pro laptops". VentureBeat. October 18, 2021.
+
+^ "Apple Announces M1 Pro & M1 Max: Giant New Arm SoCs with All-Out Performance". AnanadTech. Retrieved December 2, 2021.
+
+^ "Apple unveils new computer chips amid shortage". BBC News. October 19, 2021.
+
+^ a b "Apple Joins 3D-Fabric Portfolio with M1 Ultra?". TechInsights. Retrieved July 8, 2022.
+
+^ "Hot Chips 2020 live blog". AnandTech. August 17, 2020.
+
+^ "Phantom X2 Series 5G powered by MediaTek Dimensity 9000". Mediatek. December 12, 2022.
+
+^ "MediaTek Dimensity 9000". Mediatek. January 21, 2023.
+
+^ "Apple A16 Bionic announced for the iPhone 14 Pro and iPhone 14 Pro Max". NotebookCheck. September 7, 2022.
+
+^ "iPhone 14 Pro and Pro Max Only Models to Get New A16 Chip". CNET. September 7, 2022.
+
+^ "The Apple 2022 Fall iPhone Event Live Blog". AnandTech. September 7, 2022.
+
+^ "Apple unveils M1 Ultra, the world's most powerful chip for a personal computer". Apple Newsroom. Retrieved March 9, 2022.
+
+^ Shankland, Stephen. "Meet Apple's Enormous 20-Core M1 Ultra Processor, the Brains in the New Mac Studio Machine". CNET. Retrieved March 9, 2022.
+
+^ a b "AMD releases Milan-X CPUs". AnandTech. March 21, 2022.
+
+^ "IBM Telum Hot Chips slide deck" (PDF). August 23, 2021.
+
+^ "IBM z16 announcement". April 5, 2022.
+
+^ "Apple unveils M2, taking the breakthrough performance and capabilities of M1 even further". Apple. June 6, 2022.
+
+^ "MediaTek Dimensity 9200: New flagship chipset debuts with ARM Cortex-X3 CPU and Immortalis-G715 GPU cores built around TSMC N4P node". NotebookCheck. November 8, 2022.
+
+^ "Dimensity 9200 specs". Mediatek. November 8, 2022.
+
+^ "Dimensity 9200 presentation". Mediatek. November 8, 2022.
+
+^ "AMD EPYC Genoa Gaps Intel Xeon in Stunning Fashion". ServeTheHome. November 10, 2022.
+
+^ "AMD Aims to Break the ZettaFLOP Barrier by 2035, Lays Down Next-Gen Plans to Resolve Efficiency Problems". Appuals. February 21, 2023.
+
+^ "AMD Lays The Path To Zettascale Computing: Talks CPU & GPU Performance Plus Efficiency Trends, Next-Gen Chiplet Packaging & More". WCCFtech. February 20, 2023.
+
+^ 
+"AMD EPYC Genoa & SP5 Platform Leaked – 5nm Zen 4 CCD Measures Roughly 72mm, 12 CCD Package at 5428mm2, Up To 700W Peak Socket Power". WCCFtech. August 17, 2021.
+
+^ 
+Syed, Areej (August 17, 2021). "Leaked AMD Epyc Genoa Docs Reveal 96 Cores, Max TDP of 700W, and Zen 4 Chiplet Dimensions". HardwareTimes.
+
+^ "Kirin 9000S has about 6 billion fewer transistors than Kirin 9000, but its performance is stronger! How did you do it?". iNews. September 13, 2023. Retrieved September 24, 2023.
+
+^ "Apple Announces M4 SoC: Latest and Greatest Starts on 2024 iPad Pro". Anandtech. May 7, 2024.
+
+^ a b c "Apple introduces new M3 chip lineup, starting with the M3, M3 Pro, and M3 Max". Arstechnica. October 31, 2023.
+
+^ Goldman, Joshua. "Apple A17 Pro Chip: The New Brain Inside iPhone 15 Pro, Pro Max". CNET. Retrieved September 12, 2023.
+
+^ "4th Gen Intel Xeon Scalable Sapphire Rapids Leaps Forward". ServeTheHome. January 10, 2023.
+
+^ "Wie vier Dies zu einem "monolithischen" Sapphire Rapids werden". hardwareLUXX. February 21, 2022.
+
+^ a b "Apple unveils M2 Pro and M2 Max: next-generation chips for next-level workflows". Apple (Press release). January 17, 2023.
+
+^ "Apple introduces M2 Ultra" (Press release). Apple. June 5, 2023.
+
+^ "AMD EPYC Bergamo Launched 128 Cores Per Socket and 1024 Threads Per 1U". ServeTheHome. June 13, 2023.
+
+^ "AMD Instinct MI300A Accelerators". AMD. Retrieved January 14, 2024.
+
+^ Alcorn, Paul (December 6, 2023). "AMD unveils Instinct MI300X GPU and MI300A APU, claims up to 1.6X lead over Nvidia's competing GPUs". Tom's Hardware. Retrieved January 14, 2024.
+
+^ Williams, Chris. "Nvidia's Tesla P100 has 15 billion transistors, 21TFLOPS". www.theregister.co.uk. Retrieved August 12, 2019.
+
+^ "Famous Graphics Chips: NEC μPD7220 Graphics Display Controller". IEEE Computer Society. Institute of Electrical and Electronics Engineers. August 22, 2018. Retrieved June 21, 2019.
+
+^ "GPU History: Hitachi ARTC HD63484. The second graphics processor". IEEE Computer Society. Institute of Electrical and Electronics Engineers. October 7, 2018. Retrieved June 21, 2019.
+
+^ "Big Book of Amiga Hardware".
+
+^ Russell, Jesse; Cohn, Ronald (May 2012). MOS Technology Agnus. Book on Demand. ISBN 978-5511916842.
+
+^ a b "30 Years of Console Gaming". Klinger Photography. August 20, 2017. Retrieved June 19, 2019.
+
+^ "Sega Saturn". MAME. Retrieved July 18, 2019.
+
+^ "ASIC CHIPS ARE INDUSTRY'S GAME WINNERS". The Washington Post. September 18, 1995. Retrieved June 19, 2019.
+
+^ "Is it Time to Rename the GPU?". Jon Peddie Research. IEEE Computer Society. July 9, 2018. Retrieved June 19, 2019.
+
+^ "FastForward Sony Taps LSI Logic for PlayStation Video Game CPU Chip". FastForward. Retrieved January 29, 2014.
+
+^ a b "Reality Co-Processor − The Power In Nintendo64" (PDF). Silicon Graphics. August 26, 1997. Archived from the original (PDF) on May 19, 2020. Retrieved June 18, 2019.
+
+^ "Imagination PowerVR PCX2 GPU". VideoCardz.net. Retrieved June 19, 2019.
+
+^ a b c d e f g h Lilly, Paul (May 19, 2009). "From Voodoo to GeForce: The Awesome History of 3D Graphics". PC Gamer. Retrieved June 19, 2019.
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak al am "3D accelerator database". Vintage 3D. Retrieved July 21, 2019.
+
+^ "RIVA128 Datasheet". SGS Thomson Microelectronics. Retrieved July 21, 2019.
+
+^ a b c Singer, Graham (April 3, 2013). "History of the Modern Graphics Processor, Part 2". TechSpot. Retrieved July 21, 2019.
+
+^ "Remembering the Sega Dreamcast". Bit-Tech. September 29, 2009. Retrieved June 18, 2019.
+
+^ Weinberg, Neil (September 7, 1998). "Comeback kid". Forbes. Retrieved June 19, 2019.
+
+^ Charles, Bertie (1998). "Sega's New Dimension". Forbes. 162 (5–9). Forbes Incorporated: 206. The chip, etched in 0.25-micron detail — state-of-the-art for graphics processors — fits 10 million transistors
+
+^ Hagiwara, Shiro; Oliver, Ian (November–December 1999). "Sega Dreamcast: Creating a Unified Entertainment World". IEEE Micro. 19 (6). IEEE Computer Society: 29–35. doi:10.1109/40.809375. Archived from the original on August 23, 2000. Retrieved June 27, 2019.
+
+^ "VideoLogic Neon 250 4MB". VideoCardz.net. Retrieved June 19, 2019.
+
+^ Shimpi, Anand Lal (November 21, 1998). "Fall Comdex '98 Coverage". AnandTech. Retrieved June 19, 2019.
+
+^ a b c "EMOTION ENGINE AND GRAPHICS SYNTHESIZER USED IN THE CORE OF PLAYSTATION BECOME ONE CHIP" (PDF). Sony. April 21, 2003. Retrieved June 26, 2019.
+
+^ "NVIDIA NV10 A3 GPU Specs". TechPowerUp. Retrieved June 19, 2019.
+
+^ IGN Staff (November 4, 2000). "Gamecube Versus PlayStation 2". IGN. Retrieved November 22, 2015.
+
+^ "NVIDIA NV2A GPU Specs". TechPowerUp. Retrieved July 21, 2019.
+
+^ "ATI Xenos GPU Specs". TechPowerUp. Retrieved June 21, 2019.
+
+^ International, GamesIndustry (July 14, 2005). "TSMC to manufacture X360 GPU". Eurogamer. Retrieved August 22, 2006.
+
+^ "NVIDIA Playstation 3 RSX 65nm Specs". TechPowerUp. Retrieved June 21, 2019.
+
+^ "PS3 Graphics Chip Goes 65nm in Fall". Edge Online. June 26, 2008. Archived from the original on July 25, 2008.
+
+^ "NVIDIA's 1.4 Billion Transistor GPU: GT200 Arrives as the GeForce GTX 280 & 260". AnandTech.com. Retrieved August 9, 2014.
+
+^ "The Radeon HD 4850 & 4870: AMD Wins at $199 and $299". AnandTech.com. Retrieved August 9, 2014.
+
+^ a b Glaskowsky, Peter. "ATI and Nvidia face off-obliquely". CNET. Archived from the original on January 27, 2012. Retrieved August 9, 2014.
+
+^ Woligroski, Don (December 22, 2011). "AMD Radeon HD 7970". TomsHardware.com. Retrieved August 9, 2014.
+
+^ "NVIDIA Kepler GK110 Architecture" (PDF). NVIDIA. 2012. Retrieved January 9, 2024.
+
+^ Smith, Ryan (November 12, 2012). "NVIDIA Launches Tesla K20 & K20X: GK110 Arrives At Last". AnandTech.
+
+^ "Whitepaper: NVIDIA GeForce GTX 680" (PDF). NVIDIA. 2012. Archived from the original (PDF) on April 17, 2012.
+
+^ a b Kan, Michael (August 18, 2020). "Xbox Series X May Give Your Wallet a Workout Due to High Chip Manufacturing Costs". PCMag. Retrieved September 5, 2020.
+
+^ "AMD Xbox One GPU". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "AMD PlayStation 4 GPU". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "AMD Xbox One S GPU". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "AMD PlayStation 4 Pro GPU". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ Smith, Ryan (June 29, 2016). "The AMD RX 480 Preview". Anandtech.com. Retrieved February 22, 2017.
+
+^ a b c Schor, David (July 22, 2018). "VLSI 2018: GlobalFoundries 12nm Leading-Performance, 12LP". WikiChip Fuse. Retrieved May 31, 2019.
+
+^ Harris, Mark (April 5, 2016). "Inside Pascal: NVIDIA's Newest Computing Platform". Nvidia developer blog.
+
+^ a b c d e f "GPU Database: Pascal". TechPowerUp. July 26, 2023.
+
+^ "AMD Xbox One X GPU". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "Radeon's next-generation Vega architecture" (PDF).
+
+^ Durant, Luke; Giroux, Olivier; Harris, Mark; Stam, Nick (May 10, 2017). "Inside Volta: The World's Most Advanced Data Center GPU". Nvidia developer blog.
+
+^ "NVIDIA TURING GPU ARCHITECTURE: Graphics Reinvented" (PDF). Nvidia. 2018. Retrieved June 28, 2019.
+
+^ "NVIDIA GeForce GTX 1650". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "NVIDIA GeForce GTX 1660 Ti". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "AMD Radeon RX 5700 XT". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "AMD Radeon RX 5500 XT". www.techpowerup.com. Retrieved February 5, 2020.
+
+^ "AMD Arcturus GPU Specs". TechPowerUp. Retrieved November 10, 2022.
+
+^ Walton, Jared (May 14, 2020). "Nvidia Unveils Its Next-Generation 7nm Ampere A100 GPU for Data Centers, and It's Absolutely Massive". Tom's Hardware.
+
+^ "Nvidia Ampere Architecture". www.nvidia.com. Retrieved May 15, 2020.
+
+^ "NVIDIA GA102 GPU Specs". Techpowerup. Retrieved September 5, 2020.
+
+^ "'Giant Step into the Future': NVIDIA CEO Unveils GeForce RTX 30 Series GPUs". www.nvidia.com. September 2020. Retrieved September 5, 2020.
+
+^ "NVIDIA GA103 GPU Specs". TechPowerUp. Retrieved March 21, 2023.
+
+^ "NVIDIA GeForce RTX 3070 Specs". TechPowerUp. Retrieved September 20, 2021.
+
+^ 
+"NVIDIA GA106 specs". TechPowerUp. Retrieved March 22, 2023.
+
+^ "NVIDIA GA107 GPU Specs". TechPowerUp. Retrieved March 21, 2023.
+
+^ "MI250X die size estimates". Twitter. November 17, 2021.
+
+^ 
+"AMD Instinct MI250 Professional Graphics Card". VideoCardz. November 2, 2022.
+
+^ 
+"AMD's Instinct MI250X OAM Card Pictured: Aldebaran's Massive Die Revealed". Tom's Hardware. November 17, 2021.
+
+^ "AMD MI250X and Toplogies Explained at HC34". ServeTheHome. August 22, 2022.
+
+^ "Nvidia Launches Hopper H100 GPU, New DGXs and Grace Superchips". HPCWire. March 22, 2022. Retrieved March 23, 2022.
+
+^ "NVIDIA details AD102 GPU, up to 18432 CUDA cores, 76.3B transistors and 608 mm2". VideoCardz. September 20, 2022.
+
+^ a b "NVIDIA confirms Ada 102/103/104 GPU specs, AD104 has more transistors than GA102". VideoCardz. September 23, 2022.
+
+^ a b "Alleged Nvidia AD106 and AD107 GPU Pics, Specs, Die Sizes Revealed". Tom's Hardware. February 3, 2023.
+
+^ "NVIDIA GeForce RTX 4060 Ti "AD106-350" GPU Pictured, Uses Samsung GDDR6 Dies". WCCFtech. April 28, 2023.
+
+^ "NVIDIA's Smallest Ada GPU, The AD107-400, For GeForce RTX 4060 GPUs Pictured". WCCFtech. May 21, 2023.
+
+^ "AMD Unveils World's Most Advanced Gaming Graphics Cards, Built on Groundbreaking AMD RDNA 3 Architecture with Chiplet Design". AMD (Press release). November 3, 2022.
+
+^ "AMD Announces the $999 Radeon RX 7900 XTX... (endnote RX-819)". TechPowerUp. November 4, 2022.
+
+^ "AMD Navi 31 GPU Specs". TechPowerUp. Retrieved November 7, 2023.
+
+^ "AMD Navi 32 GPU Specs". TechPowerUp. Retrieved November 7, 2023.
+
+^ "AMD Navi 33 GPU Specs". TechPowerUp. Retrieved March 21, 2023.
+
+^ "AMD Has a GPU to Rival Nvidia's H100". HPCWire. June 13, 2023. Retrieved June 14, 2023.
+
+^ "AMD Aqua Vanjaram Specs". TechPowerUp. Retrieved January 14, 2024.
+
+^ "NVIDIA Blackwell Platform Arrives to Power a New Era of Computing" (Press release). March 18, 2024.
+
+^ "NVIDIA GeForce RTX 5090 Specs". TechPowerUp. January 17, 2025. Retrieved January 17, 2025.
+
+^ "Taiwan Company UMC Delivers 65nm FPGAs to Xilinx." SDA-ASIA Thursday, November 9, 2006.
+
+^ ""Altera's new 40nm FPGAs — 2.5 billion transistors!". pldesignline.com. Archived from the original on June 19, 2010. Retrieved January 22, 2009.
+
+^ "Design of a High-Density SoC FPGA at 20nm" (PDF). 2014. Archived from the original (PDF) on April 23, 2016. Retrieved July 16, 2017.
+
+^ Maxfield, Clive (October 2011). "New Xilinx Virtex-7 2000T FPGA provides equivalent of 20 million ASIC gates". EETimes. AspenCore. Retrieved September 4, 2019.
+
+^ Greenhill, D.; Ho, R.; Lewis, D.; Schmit, H.; Chan, K. H.; Tong, A.; Atsatt, S.; How, D.; McElheny, P. (February 2017). "3.3 a 14nm 1GHz FPGA with 2.5D transceiver integration". 2017 IEEE International Solid-State Circuits Conference (ISSCC). pp. 54–55. doi:10.1109/ISSCC.2017.7870257. ISBN 978-1-5090-3758-2. S2CID 2135354.
+
+^ "3.3 A 14nm 1GHz FPGA with 2.5D transceiver integration | DeepDyve". May 17, 2017. Archived from the original on May 17, 2017. Retrieved September 19, 2019.
+
+^ Santarini, Mike (May 2014). "Xilinx Ships Industry's First 20-nm All Programmable Devices" (PDF). Xcell journal. No. 86. Xilinx. p. 14. Retrieved June 3, 2014.
+
+^ Gianelli, Silvia (January 2015). "Xilinx Delivers the Industry's First 4M Logic Cell Device, Offering >50M Equivalent ASIC Gates and 4X More Capacity than Competitive Alternatives". www.xilinx.com. Retrieved August 22, 2019.
+
+^ Sims, Tara (August 2019). "Xilinx Announces the World's Largest FPGA Featuring 9 Million System Logic Cells". www.xilinx.com. Retrieved August 22, 2019.
+
+^ Verheyde, Arne (August 2019). "Xilinx Introduces World's Largest FPGA With 35 Billion Transistors". www.tomshardware.com. Retrieved August 23, 2019.
+
+^ Cutress, Ian (August 2019). "Xilinx Announces World Largest FPGA: Virtex Ultrascale+ VU19P with 9m Cells". www.anandtech.com. Retrieved September 25, 2019.
+
+^ Abazovic, Fuad (May 2019). "Xilinx 7nm Versal taped out last year". Retrieved September 30, 2019.
+
+^ Cutress, Ian (August 2019). "Hot Chips 31 Live Blogs: Xilinx Versal AI Engine". Retrieved September 30, 2019.
+
+^ Krewell, Kevin (August 2019). "Hot Chips 2019 highlights new AI strategies". Retrieved September 30, 2019.
+
+^ Leibson, Steven (November 6, 2019). "Intel announces Intel Stratix 10 GX 10M FPGA, worlds highest capacity with 10.2 million logic elements". Retrieved November 7, 2019.
+
+^ Verheyde, Arne (November 6, 2019). "Intel Introduces World's Largest FPGA With 43.3 Billion Transistors". Retrieved November 7, 2019.
+
+^ Cutress, Ian (August 2020). "Hot Chips 2020 Live Blog: Xilinx Versal ACAPs". Retrieved September 9, 2020.
+
+^ "Xilinx Announces Full Production Shipments of 7nm Versal AI Core and Versal Prime Series Devices". April 27, 2021. Retrieved May 8, 2021.
+
+^ a b The DRAM memory of Robert Dennard history-computer.com
+
+^ a b c d "Late 1960s: Beginnings of MOS memory" (PDF). Semiconductor History Museum of Japan. January 23, 2019. Retrieved June 27, 2019.
+
+^ a b c d e f "1970: Semiconductors compete with magnetic cores". Computer History Museum. Retrieved June 19, 2019.
+
+^ "2.1.1 Flash Memory". TU Wien. Retrieved June 20, 2019.
+
+^ Shilov, Anton. "SK Hynix Starts Production of 128-Layer 4D NAND, 176-Layer Being Developed". www.anandtech.com. Retrieved September 16, 2019.
+
+^ "Samsung Begins Production of 100+ Layer Sixth-Generation V-NAND Flash". PC Perspective. August 11, 2019. Retrieved September 16, 2019.
+
+^ a b "1966: Semiconductor RAMs Serve High-speed Storage Needs". Computer History Museum. Retrieved June 19, 2019.
+
+^ "Specifications for Toshiba "TOSCAL" BC-1411". Old Calculator Web Museum. Archived from the original on July 3, 2017. Retrieved May 8, 2018.
+
+^ "Toshiba "Toscal" BC-1411 Desktop Calculator". Old Calculator Web Museum. Archived from the original on May 20, 2007.
+
+^ Castrucci, Paul (May 10, 1966). "IBM first in IC memory" (PDF). IBM News. Vol. 3, no. 9. IBM Corporation. Retrieved June 19, 2019 – via Computer History Museum.
+
+^ a b c d e f g h i j k l m "A chronological list of Intel products. The products are sorted by date" (PDF). Intel museum. Intel Corporation. July 2005. Archived from the original (PDF) on August 9, 2007. Retrieved July 31, 2007.
+
+^ a b "1970s: SRAM evolution" (PDF). Semiconductor History Museum of Japan. Retrieved June 27, 2019.
+
+^ a b c Pimbley, J. (2012). Advanced CMOS Process Technology. Elsevier. p. 7. ISBN 9780323156806.
+
+^ a b "Intel: 35 Years of Innovation (1968–2003)" (PDF). Intel. 2003. Archived from the original (PDF) on November 4, 2021. Retrieved June 26, 2019.
+
+^ a b Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. pp. 362–363. ISBN 9783540342588. The i1103 was manufactured on a 6-mask silicon-gate P-MOS process with 8 μm minimum features. The resulting product had a 2,400 μm2 memory cell size, a die size just under 10 mm2, and sold for around $21.
+
+^ "Manufacturers in Japan enter the DRAM market and integration densities are improved" (PDF). Semiconductor History Museum of Japan. Retrieved June 27, 2019.
+
+^ a b c d e f g h i j k l m n Gealow, Jeffrey Carl (August 10, 1990). "Impact of Processing Technology on DRAM Sense Amplifier Design" (PDF). Massachusetts Institute of Technology. pp. 149–166. Retrieved June 25, 2019 – via CORE.
+
+^ "Silicon Gate MOS 2102A". Intel. Retrieved June 27, 2019.
+
+^ "One of the Most Successful 16K Dynamic RAMs: The 4116". National Museum of American History. Smithsonian Institution. Retrieved June 20, 2019.
+
+^ Component Data Catalog (PDF). Intel. 1978. pp. 3–94. Retrieved June 27, 2019.
+
+^ a b c d e f g h i j k l m n o p q r s t "Memory". STOL (Semiconductor Technology Online). Archived from the original on November 2, 2023. Retrieved June 25, 2019.
+
+^ "The Cutting Edge of IC Technology: The First 294,912-Bit (288K) Dynamic RAM". National Museum of American History. Smithsonian Institution. Retrieved June 20, 2019.
+
+^ "Computer History for 1984". Computer Hope. Retrieved June 25, 2019.
+
+^ "Japanese Technical Abstracts". Japanese Technical Abstracts. 2 (3–4). University Microfilms: 161. 1987. The announcement of 1M DRAM in 1984 began the era of megabytes.
+
+^ "KM48SL2000-7 Datasheet". Samsung. August 1992. Retrieved June 19, 2019.
+
+^ "Electronic Design". Electronic Design. 41 (15–21). Hayden Publishing Company. 1993. The first commercial synchronous DRAM, the Samsung 16-Mbit KM48SL2000, employs a single-bank architecture that lets system designers easily transition from asynchronous to synchronous systems.
+
+^ Breaking the gigabit barrier, DRAMs at ISSCC portend major system-design impact. (dynamic random access memory; International Solid-State Circuits Conference; Hitachi Ltd. and NEC Corp. research and development), January 9, 1995
+
+^ a b "Japanese Company Profiles" (PDF). Smithsonian Institution. 1996. Retrieved June 27, 2019.
+
+^ a b "History: 1990s". SK Hynix. Archived from the original on February 5, 2021. Retrieved July 6, 2019.
+
+^ "Samsung 50nm 2GB DDR3 chips are industry's smallest". SlashGear. September 29, 2008. Retrieved June 25, 2019.
+
+^ Shilov, Anton (July 19, 2017). "Samsung Increases Production Volumes of 8 GB HBM2 Chips Due to Growing Demand". AnandTech. Retrieved June 29, 2019.
+
+^ "Samsung Unleashes a Roomy DDR4 256GB RAM". Tom's Hardware. September 6, 2018. Archived from the original on June 21, 2019. Retrieved June 21, 2019.
+
+^ "First 3D Nanotube and RRAM ICs Come Out of Foundry". IEEE Spectrum: Technology, Engineering, and Science News. July 19, 2019. Retrieved September 16, 2019. This wafer was made just last Friday... and it's the first monolithic 3D IC ever fabricated within a foundry
+
+^ "Three Dimensional Monolithic System-on-a-Chip". www.darpa.mil. Retrieved September 16, 2019.
+
+^ "DARPA 3DSoC Initiative Completes First Year, Update Provided at ERI Summit on Key Steps Achieved to Transfer Technology into SkyWater's 200mm U.S. Foundry". Skywater Technology Foundry (Press release). July 25, 2019. Retrieved September 16, 2019.
+
+^ "DD28F032SA Datasheet". Intel. Retrieved June 27, 2019.
+
+^ "TOSHIBA ANNOUNCES 0.13 MICRON 1Gb MONOLITHIC NAND FEATURING LARGE BLOCK SIZE FOR IMPROVED WRITE/ERASE SPEED PERFORMANCE". Toshiba. September 9, 2002. Archived from the original on March 11, 2006. Retrieved March 11, 2006.
+
+^ "TOSHIBA AND SANDISK INTRODUCE A ONE GIGABIT NAND FLASH MEMORY CHIP, DOUBLING CAPACITY OF FUTURE FLASH PRODUCTS". Toshiba. November 12, 2001. Retrieved June 20, 2019.
+
+^ a b c d "Our Proud Heritage from 2000 to 2009". Samsung Semiconductor. Samsung. Retrieved June 25, 2019.
+
+^ "TOSHIBA ANNOUNCES 1 GIGABYTE COMPACTFLASH CARD". Toshiba. September 9, 2002. Archived from the original on March 11, 2006. Retrieved March 11, 2006.
+
+^ a b c d "History". Samsung Electronics. Samsung. Retrieved June 19, 2019.
+
+^ a b "TOSHIBA COMMERCIALIZES INDUSTRY'S HIGHEST CAPACITY EMBEDDED NAND FLASH MEMORY FOR MOBILE CONSUMER PRODUCTS". Toshiba. April 17, 2007. Archived from the original on November 23, 2010. Retrieved November 23, 2010.
+
+^ a b "Toshiba Launches the Largest Density Embedded NAND Flash Memory Devices". Toshiba. August 7, 2008. Retrieved June 21, 2019.
+
+^ "Toshiba Launches Industry's Largest Embedded NAND Flash Memory Modules". Toshiba. June 17, 2010. Retrieved June 21, 2019.
+
+^ "Samsung e·MMC Product family" (PDF). Samsung Electronics. December 2011. Archived from the original (PDF) on November 8, 2019. Retrieved July 15, 2019.
+
+^ Shilov, Anton (December 5, 2017). "Samsung Starts Production of 512 GB UFS NAND Flash Memory: 64-Layer V-NAND, 860 MB/s Reads". AnandTech. Retrieved June 23, 2019.
+
+^ Manners, David (January 30, 2019). "Samsung makes 1TB flash eUFS module". Electronics Weekly. Retrieved June 23, 2019.
+
+^ Tallis, Billy (October 17, 2018). "Samsung Shares SSD Roadmap for QLC NAND And 96-layer 3D NAND". AnandTech. Retrieved June 27, 2019.
+
+^ "Micron's 232 Layer NAND Now Shipping". AnandTech. July 26, 2022.
+
+^ "232-Layer NAND". Micron. Retrieved October 17, 2022.
+
+^ "First to Market, Second to None: the World's First 232-Layer NAND". Micron. July 26, 2022.
+
+^ "Comparison: Latest 3D NAND Products from YMTC, Samsung, SK hynix and Micron". TechInsights. January 11, 2023.
+
+^ Han-Way Huang (December 5, 2008). Embedded System Design with C805. Cengage Learning. p. 22. ISBN 978-1-111-81079-5. Archived from the original on April 27, 2018.
+
+^ Marie-Aude Aufaure; Esteban Zimányi (January 17, 2013). Business Intelligence: Second European Summer School, eBISS 2012, Brussels, Belgium, July 15-21, 2012, Tutorial Lectures. Springer. p. 136. ISBN 978-3-642-36318-4. Archived from the original on April 27, 2018.
+
+^ a b c d "1965: Semiconductor Read-Only-Memory Chips Appear". Computer History Museum. Retrieved June 20, 2019.
+
+^ "1971: Reusable semiconductor ROM introduced". The Storage Engine. Computer History Museum. Retrieved June 19, 2019.
+
+^ Iizuka, H.; Masuoka, F.; Sato, Tai; Ishikawa, M. (1976). "Electrically alterable avalanche-injection-type MOS READ-ONLY memory with stacked-gate structure". IEEE Transactions on Electron Devices. 23 (4): 379–387. Bibcode:1976ITED...23..379I. doi:10.1109/T-ED.1976.18415. ISSN 0018-9383. S2CID 30491074.
+
+^ μCOM-43 SINGLE CHIP MICROCOMPUTER: USERS' MANUAL (PDF). NEC Microcomputers. January 1978. Retrieved June 27, 2019.
+
+^ "2716: 16K (2K x 8) UV ERASABLE PROM" (PDF). Intel. Archived from the original (PDF) on September 13, 2020. Retrieved June 27, 2019.
+
+^ "1982 CATALOG" (PDF). NEC Electronics. Retrieved June 20, 2019.
+
+^ Component Data Catalog (PDF). Intel. 1978. pp. 1–3. Retrieved June 27, 2019.
+
+^ "27256 Datasheet" (PDF). Intel. Retrieved July 2, 2019.
+
+^ "History of Fujitsu's Semiconductor Business". Fujitsu. Retrieved July 2, 2019.
+
+^ "D27512-30 Datasheet" (PDF). Intel. Retrieved July 2, 2019.
+
+^ "A Computer Pioneer Rediscovered, 50 Years On". The New York Times. April 20, 1994. Archived from the original on November 4, 2016.
+
+^ "History of Computers and Computing, Birth of the modern computer, Relays computer, George Stibitz". history-computer.com. Retrieved August 22, 2019. Initially the 'Complex Number Computer' performed only complex multiplication and division, but later a simple modification enabled it to add and subtract as well. It used about 400-450 binary relays, 6-8 panels, and ten multiposition, multipole relays called "crossbars" for temporary storage of numbers.
+
+^ a b c d e "1953: Transistorized Computers Emerge". Computer History Museum. Retrieved June 19, 2019.
+
+^ a b "ETL Mark III Transistor-Based Computer". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ a b "Brief History". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ "1962: Aerospace systems are first the applications for ICs in computers | The Silicon Engine | Computer History Museum". www.computerhistory.org. Retrieved September 2, 2019.
+
+^ a b "PDP-8 (Straight 8) Computer Functional Restoration". www.pdp8.net. Retrieved August 22, 2019. backplanes contain 230 cards, approximately 10,148 diodes, 1409 transistors, 5615 resistors, and 1674 capacitors
+
+^ "IBM 608 calculator". IBM. January 23, 2003. Retrieved March 8, 2021.
+
+^ "【NEC】 NEAC-2201". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ "【Hitachi and Japanese National Railways】 MARS-1". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ The IBM 7070 Data Processing System. Avery et al. (page 167)
+
+^ "【Matsushita Electric Industrial】 MADIC-I transistor-based computer". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ "【NEC】 NEAC-2203". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ "【Toshiba】 TOSBAC-2100". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ 7090 Data Processing System
+
+^ 
+Luigi Logrippo.
+"My first two computers: Elea 9003 and Elea 6001: Memories of a 'bare-metal' programmer".
+
+^ "【Mitsubishi Electric】 MELCOM 1101". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ Erich Bloch (1959). The Engineering Design of the Stretch Computer (PDF). Eastern Joint Computer Conference.
+
+^ "【NEC】NEAC-L2". IPSJ Computer Museum. Information Processing Society of Japan. Retrieved June 19, 2019.
+
+^ Thornton, James (1970). Design of a Computer: the Control Data 6600. p. 20.
+
+^ 
+"Digital Equipment PDP-8/S".
+
+^ 
+"The PDP-8/S - an exercise in cost reduction"
+
+^ 
+"PDP-8/S"
+
+^ 
+"The Digital Equipment Corporation PDP-8: Models and Options: The PDP-8/I".
+
+^ 
+James F. O'Loughlin.
+"PDP-8/I: bigger on the inside yet smaller on the outside".
+
+^ Jan M. Rabaey, Digital Integrated Circuits, Fall 2001: Course Notes, Chapter 6: Designing Combinatorial Logic Gates in CMOS, retrieved October 27, 2012.
+
+^ Richard F. Tinder (January 2000). Engineering Digital Design. Academic Press. ISBN 978-0-12-691295-1.
+
+^ a b c d Engineers, Institute of Electrical Electronics (2000). 100-2000 (7th ed.). doi:10.1109/IEEESTD.2000.322230. ISBN 978-0-7381-2601-2. IEEE Std 100-2000.
+
+^ a b c 
+Smith, Kevin (August 11, 1983). "Image processor handles 256 pixels simultaneously". Electronics.
+
+^ 
+Kanellos, Michael (February 9, 2005). "Cell chip: Hit or hype?". CNET News. Archived from the original on October 25, 2012.
+
+^ Kennedy, Patrick (June 2019). "Hands-on With a Graphcore C2 IPU PCIe Card at Dell Tech World". servethehome.com. Retrieved December 29, 2019.
+
+^ "Colossus –  Graphcore". en.wikichip.org. Retrieved December 29, 2019.
+
+^ Graphcore. "IPU Technology". www.graphcore.ai.
+
+^ "Cerebras Unveils 2nd Gen Wafer Scale Engine: 850,000 Cores, 2.6 Trillion Transistors - ExtremeTech". www.extremetech.com. April 21, 2021. Retrieved April 22, 2021.
+
+^ "Cerebras Wafer Scale Engine WSE-2 and CS-2 at Hot Chips 34". ServeTheHome. August 23, 2022.
+
+^ "NVIDIA NVLink4 NVSwitch at Hot Chips 34". ServeTheHome. August 22, 2022.
+
+^ a b Schor, David (April 6, 2019). "TSMC Starts 5-Nanometer Risk Production". WikiChip Fuse. Retrieved April 7, 2019.
+
+^ "1960: Metal Oxide Semiconductor (MOS) Transistor Demonstrated". Computer History Museum. Retrieved July 17, 2019.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. pp. 321–3. ISBN 9783540342588.
+
+^ "1963: Complementary MOS Circuit Configuration is Invented". Computer History Museum. Retrieved July 6, 2019.
+
+^ "1964: First Commercial MOS IC Introduced". Computer History Museum. Retrieved July 17, 2019.
+
+^ a b Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 330. ISBN 9783540342588.
+
+^ Lambrechts, Wynand; Sinha, Saurabh; Abdallah, Jassem Ahmed; Prinsloo, Jaco (2018). Extending Moore's Law through Advanced Semiconductor Design and Processing Techniques. CRC Press. p. 59. ISBN 9781351248655.
+
+^ Belzer, Jack; Holzman, Albert G.; Kent, Allen (1978). Encyclopedia of Computer Science and Technology: Volume 10 –  Linear and Matrix Algebra to Microorganisms: Computer-Assisted Identification. CRC Press. p. 402. ISBN 9780824722609.
+
+^ "Intel Microprocessor Quick Reference Guide". Intel. Retrieved June 27, 2019.
+
+^ "1978: Double-well fast CMOS SRAM (Hitachi)" (PDF). Semiconductor History Museum of Japan. Retrieved July 5, 2019.
+
+^ "0.18-micron Technology". TSMC. Retrieved June 30, 2019.
+
+^ a b c d 65nm CMOS Process Technology
+
+^ Diefendorff, Keith (15 November 1999). "Hal Makes Sparcs Fly". Microprocessor Report, Volume 13, Number 5.
+
+^ a b Cutress, Ian. "Intel's 10nm Cannon Lake and Core i3-8121U Deep Dive Review". AnandTech. Retrieved June 19, 2019.
+
+^ "Samsung Shows Industry's First 2-Gigabit DDR2 SDRAM". Samsung Semiconductor. Samsung. September 20, 2004. Retrieved June 25, 2019.
+
+^ Williams, Martyn (July 12, 2004). "Fujitsu, Toshiba begin 65nm chip trial production". InfoWorld. Retrieved June 26, 2019.
+
+^ Elpida's presentation at Via Technology Forum 2005 and Elpida 2005 Annual Report
+
+^ "Fujitsu Introduces World-class 65-Nanometer Process Technology for Advanced Server, Mobile Applications". Archived from the original on September 27, 2011. Retrieved June 20, 2019.
+
+^ a b c d "Intel Now Packs 100 Million Transistors in Each Square Millimeter". IEEE Spectrum: Technology, Engineering, and Science News. March 30, 2017. Retrieved November 14, 2018.
+
+^ "40nm Technology". TSMC. Retrieved June 30, 2019.
+
+^ "Toshiba Makes Major Advances in NAND Flash Memory with 3-bit-per-cell 32nm generation and with 4-bit-per-cell 43nm technology". Toshiba. February 11, 2009. Retrieved June 21, 2019.
+
+^ a b "History: 2010s". SK Hynix. Archived from the original on April 29, 2021. Retrieved July 8, 2019.
+
+^ Shimpi, Anand Lal (June 8, 2012). "SandForce Demos 19nm Toshiba & 20nm IMFT NAND Flash". AnandTech. Retrieved June 19, 2019.
+
+^ a b Schor, David (April 16, 2019). "TSMC Announces 6-Nanometer Process". WikiChip Fuse. Retrieved May 31, 2019.
+
+^ "16/12nm Technology". TSMC. Retrieved June 30, 2019.
+
+^ a b c "VLSI 2018: Samsung's 8nm 8LPP, a 10nm extension". WikiChip Fuse. July 1, 2018. Retrieved May 31, 2019.
+
+^ "Samsung Mass Producing 128Gb 3-bit MLC NAND Flash". Tom's Hardware. April 11, 2013. Archived from the original on June 21, 2019. Retrieved June 21, 2019.
+
+^ "10nm Technology". TSMC. Retrieved June 30, 2019.
+
+^ a b c d e f g h i "Can TSMC maintain their process technology lead". SemiWiki. April 29, 2020.
+
+^ a b Jones, Scotten (May 3, 2019). "TSMC and Samsung 5nm Comparison". Semiwiki. Retrieved July 30, 2019.
+
+^ a b c Nenni, Daniel (January 2, 2019). "Samsung vs TSMC 7nm Update". Semiwiki. Retrieved July 6, 2019.
+
+^ "7nm Technology". TSMC. Retrieved June 30, 2019.
+
+^ Schor, David (June 15, 2018). "A Look at Intel's 10nm Std Cell as TechInsights Reports on the i3-8121U, finds Ruthenium". WikiChip Fuse. Retrieved May 31, 2019.
+
+^ a b "Samsung Foundry update 2019". SemiWiki. August 6, 2019.
+
+^ Jones, Scotten, 7nm, 5nm and 3nm Logic, current and projected processes
+
+^ Shilov, Anton. "Samsung Completes Development of 5nm EUV Process Technology". AnandTech. Retrieved May 31, 2019.
+
+^ a b c d "Samsung Foundry Innovations Power the Future of Big Data, AI/ML and Smart, Connected Devices". October 7, 2021.
+
+^ "Qualcomm confirms Snapdragon 8 Gen 1 is made using Samsung's 4nm process". December 2, 2021.
+
+^ Wilde, Damien (January 14, 2022). "List of Snapdragon 8 Gen 1 smartphones available since December 2021". 9to5Google.
+
+^ a b "TSMC Extends Its 5nm Family With A New Enhanced-Performance N4P Node". WikiChip. October 26, 2021.
+
+^ "MediaTek Launches Dimensity 9000 built on TSMC N4 process". December 16, 2021.
+
+^ "TSMC Expands Advanced Technology Leadership with N4P Process (press release)". TSMC. October 26, 2021.
+
+^ Armasu, Lucian (January 11, 2019), "Samsung Plans Mass Production of 3nm GAAFET Chips in 2021", www.tomshardware.com
+
+^ "Samsung Starts 3nm Production: The Gate-All-Around (GAAFET) Era Begins". AnandTech. June 30, 2022.
+
+^ "TSMC Plans New Fab for 3nm". EE Times. December 12, 2016. Retrieved September 26, 2019.
+
+^ a b c "TSMC Roadmap Update: 3nm in Q1 2023, 3nm Enhanced in 2024, 2nm in 2025". www.anandtech.com. October 18, 2021.
+
+^ "TSMC Introduces N4X Process (press release)". TSMC. December 16, 2021.
+
+^ "The Future Is Now (blog post)". TSMC. December 16, 2021.
+
+^ "TSMC Unveils N4X Node". AnandTech. December 17, 2021.
+
+^ a b "TSMC roadmap update". AnandTech. April 22, 2022.
+
+^ Smith, Ryan (June 13, 2022). "Intel 4 Process Node In Detail: 2x Density Scaling, 20% Improved Performance". AnandTech.
+
+^ Alcorn, Paul (March 24, 2021). "Intel Fixes 7nm, Meteor Lake and Granite Rapids Coming in 2023". Tom's Hardware. Retrieved June 1, 2021.
+
+^ a b c d Cutress, Dr Ian. "Intel's Process Roadmap to 2025: with 4nm, 3nm, 20A and 18A?!". www.anandtech.com. Retrieved July 27, 2021.
+
+^ a b c Cutress, Dr Ian (February 17, 2022). "Intel Discloses Multi-Generation Xeon Scalable Roadmap: New E-Core Only Xeons in 2024". www.anandtech.com.
+
+^ "Samsung Electronics Unveils Plans for 1.4nm Process Technology and Investment for Production Capacity at Samsung Foundry Forum 2022". Samsung Global Newsroom. October 4, 2022.
+
+^ Gate-count estimates for performing quantum chemistry on small quantum computers
+
+^ Does gate count matter? Hardware effciency of logic-minimization techniques for cryptographic primitives
+
+^ Quantum Algorithm for Spectral Measurement with a Lower Gate Count
+
+^ Quantum Gate Count Analysis
+
+
+External links[edit]
+Transistor counts of Intel processors
+Evolution of FPGA Architecture
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+vteGraphics processing unitGPUDesktop
+Intel
+GT
+Xe
+Arc
+Nvidia
+GeForce
+Quadro
+Tesla
+Tegra
+AMD
+Radeon
+Radeon Pro
+Instinct
+Matrox
+InfiniteReality
+NEC µPD7220
+3dfx Voodoo
+S3
+Glaze3D
+Apple silicon
+Jingjia Micro
+Mobile
+Adreno
+Apple silicon
+Mali
+PowerVR
+VideoCore
+Vivante
+Imageon
+Intel 2700G
+Architecture
+Compute kernel
+Fabrication
+CMOS
+FinFET
+MOSFET
+Graphics pipeline
+Geometry
+Vertex
+HDR rendering
+MAC
+Rasterisation
+Shading
+Ray-tracing
+SIMD
+SIMT
+Tessellation
+T&L
+Tiled rendering
+Unified shader model
+Components
+Blitter
+Geometry processor
+Input–output memory management unit
+Render output unit
+Shader unit
+Stream processor
+Tensor unit
+Texture mapping unit
+Video display controller
+Video processing unit
+Memory
+DMA
+Framebuffer
+SGRAM
+GDDR
+GDDR2
+GDDR3
+GDDR4
+GDDR5
+GDDR6
+GDDR7
+HBM
+HBM2
+HBM2E
+HBM3
+HBM-PIM
+HBM3E
+Memory bandwidth
+Memory controller
+Shared graphics memory
+Texture memory
+VRAM
+Form factor
+IP core
+Discrete graphics
+Clustering
+Switching
+External graphics
+Integrated graphics
+System on a chip
+Performance
+Clock rate
+Display resolution
+Fillrate
+Pixel/s
+Texel/s
+FLOP/s
+Frame rate
+Performance per watt
+Transistor count
+Misc
+2D
+Scrolling
+Sprite
+Tile
+3D
+GI
+Texture
+ASIC
+GPGPU
+Graphics library
+Hardware acceleration
+Image processing
+Compression
+Parallel computing
+Vector processor
+Video coding
+Codec
+VLIW
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Transistor_count&oldid=1285087937"
+Categories: Integrated circuitsMOSFETsTransistorsHidden categories: Pages with reference errorsPages with broken reference namesWebarchive template wayback linksCS1 German-language sources (de)All articles with dead YouTube linksArticles with dead YouTube links from February 2022Articles with short descriptionShort description is different from WikidataUse mdy dates from January 2015Articles containing potentially dated statements from 2023All articles containing potentially dated statementsArticles containing potentially dated statements from 2020Articles containing potentially dated statements from 2024Articles containing potentially dated statements from March 2025Wikipedia articles needing clarification from November 2024Articles containing potentially dated statements from 2016Articles containing potentially dated statements from 2018Articles needing additional references from December 2019All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from May 2024Wikipedia articles needing clarification from June 2023Articles with unsourced statements from April 2022Articles with unsourced statements from June 2020All articles lacking reliable referencesArticles lacking reliable references from December 2019Articles containing potentially dated statements from 2019
+
+
+
+
+
+
+ This page was last edited on 11 April 2025, at 16:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Transistor count
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

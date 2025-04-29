@@ -1,0 +1,991 @@
+https://en.wikipedia.org/wiki/Nanoelectronics
+
+
+
+
+Nanoelectronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Fundamental concepts
+
+
+
+
+Toggle Fundamental concepts subsection
+
+
+
+
+
+1.1
+Mechanical issues
+
+
+
+
+
+
+
+
+
+
+2
+Approaches
+
+
+
+
+Toggle Approaches subsection
+
+
+
+
+
+2.1
+Nanofabrication
+
+
+
+
+
+
+
+
+2.2
+Nanomaterials electronics
+
+
+
+
+
+
+
+
+2.3
+Molecular electronics
+
+
+
+
+
+
+
+
+2.4
+Other approaches
+
+
+
+
+
+
+
+
+
+
+3
+Nanoelectronic devices
+
+
+
+
+Toggle Nanoelectronic devices subsection
+
+
+
+
+
+3.1
+Computers
+
+
+
+
+
+
+
+
+3.2
+Memory storage
+
+
+
+
+
+
+
+
+3.3
+Novel optoelectronic devices
+
+
+
+
+
+
+
+
+3.4
+Displays
+
+
+
+
+
+
+
+
+3.5
+Quantum computers
+
+
+
+
+
+
+
+
+3.6
+Radios
+
+
+
+
+
+
+
+
+3.7
+Energy production
+
+
+
+
+
+
+
+
+3.8
+Medical diagnostics
+
+
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+Further reading
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Nanoelectronics
+
+
+
+23 languages
+
+
+
+
+العربيةBosanskiCatalàDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançais한국어ItalianoעבריתМонгол日本語پښتوPolskiРусскийதமிழ்ไทยTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Use of nanotechnology in electronic components
+Part of a series of articles onNanoelectronics
+Single-molecule electronics
+
+Molecular scale electronics
+Molecular logic gate
+Molecular wires
+
+
+Solid-state nanoelectronics
+
+Nanocircuitry
+Nanowires
+Nanolithography
+NEMS
+Nanosensor
+Moore's law
+Multigate device
+Semiconductor device fabrication
+List of semiconductor scale examples
+
+
+Related approaches
+
+Nanoionics
+Nanophotonics
+Nanomechanics
+
+
+Portals
+ Electronics portal
+vte
+Part of a series of articles onNanotechnology
+History
+Organizations
+Popular culture
+Outline
+
+Impact and applications
+Nanomedicine
+Nanotoxicology
+Green nanotechnology
+Hazards
+Regulation
+
+Nanomaterials
+Fullerenes
+Carbon nanotubes
+Nanoparticles
+
+Molecular self-assembly
+Self-assembled monolayer
+Supramolecular assembly
+DNA nanotechnology
+
+Nanoelectronics
+Molecular scale electronics
+Molecular logic gate
+Nanolithography
+Moore's law
+Semiconductor device fabrication
+Semiconductor scale examples
+
+Nanometrology
+Atomic force microscopy
+Scanning tunneling microscope
+Electron microscope
+Super-resolution microscopy
+Nanotribology
+
+Molecular nanotechnology
+Molecular assembler
+Nanorobotics
+Mechanosynthesis
+Molecular engineering
+
+ Science portal
+ Technology portalvte
+Nanoelectronics refers to the use of nanotechnology in electronic components.  The term covers a diverse set of devices and materials, with the common characteristic that they are so small that inter-atomic interactions and quantum mechanical properties need to be studied extensively.  Some of these candidates include: hybrid molecular/semiconductor electronics, one-dimensional nanotubes/nanowires (e.g. silicon nanowires or carbon nanotubes) or advanced molecular electronics.
+Nanoelectronic devices have critical dimensions with a size range between 1 nm and 100 nm.[1] Recent silicon MOSFET (metal–oxide–semiconductor field-effect transistor, or MOS transistor) technology generations are already within this regime, including 22 nanometers CMOS (complementary MOS) nodes and succeeding 14 nm, 10 nm and 7 nm FinFET (fin field-effect transistor) generations. Nanoelectronics is sometimes considered as disruptive technology because present candidates are significantly different from traditional transistors.
+
+
+Fundamental concepts[edit]
+In 1965, Gordon Moore observed that silicon transistors were undergoing a continual process of scaling downward, an observation which was later codified as Moore's law. Since his observation, transistor minimum feature sizes have decreased from 10 micrometers to the 10 nm range as of 2019. Note that the technology node doesn't directly represent the minimum feature size. The field of nanoelectronics aims to enable the continued realization of this law by using new methods and materials to build electronic devices with feature sizes on the nanoscale.
+
+Mechanical issues[edit]
+The neutrality of this section is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (August 2023) (Learn how and when to remove this message)
+The volume of an object decreases as the third power of its linear dimensions, but the surface area only decreases as its second power. This somewhat subtle and unavoidable principle has significant ramifications. For example, the power of a drill (or any other machine) is proportional to the volume, while the friction of the drill's bearings and gears is proportional to their surface area.  For a normal-sized drill, the power of the device is enough to handily overcome any friction.  However, scaling its length down by a factor of 1000, for example, decreases its power by 10003 (a factor of a billion) while reducing the friction by only 10002 (a factor of only a million).  Proportionally it has 1000 times less power per unit friction than the original drill.  If the original friction-to-power ratio was, say, 1%, that implies the smaller drill will have 10 times as much friction as power; the drill is useless.
+For this reason, while super-miniature electronic integrated circuits are fully functional, the same technology cannot be used to make working mechanical devices beyond the scales where frictional forces start to exceed the available power. So even though you may see microphotographs of delicately etched silicon gears, such devices are currently little more than curiosities with limited real world applications, for example, in moving mirrors and shutters.[2]  Surface tension increases in much the same way, thus magnifying the tendency for very small objects to stick together.  This could possibly make any kind of "micro factory" impractical: even if robotic arms and hands could be scaled down, anything they pick up will tend to be impossible to put down. The above being said, molecular evolution has resulted in working cilia, flagella, muscle fibers and rotary motors in aqueous environments, all on the nanoscale.  These machines exploit the increased frictional forces found at the micro or nanoscale.  Unlike a paddle or a propeller which depends on normal frictional forces (the frictional forces perpendicular to the surface) to achieve propulsion, cilia develop motion from the exaggerated drag or laminar forces (frictional forces parallel to the surface) present at micro and nano dimensions.  To build meaningful "machines" at the nanoscale, the relevant forces need to be considered.  We are faced with the development and design of intrinsically pertinent machines rather than the simple reproductions of macroscopic ones.
+All scaling issues therefore need to be assessed thoroughly when evaluating nanotechnology for practical applications.
+
+Approaches[edit]
+Nanofabrication[edit]
+Main articles: Nanocircuitry and nanolithography
+For example, electron transistors, which involve transistor operation based on a single electron. Nanoelectromechanical systems also fall under this category.
+Nanofabrication can be used to construct ultradense parallel arrays of nanowires, as an alternative to synthesizing nanowires individually.[3][4] Of particular prominence in this field, Silicon nanowires are being increasingly studied towards diverse applications in nanoelectronics, energy conversion and storage. Such SiNWs can be fabricated by thermal oxidation in large quantities to yield nanowires with controllable thickness.
+
+Nanomaterials electronics[edit]
+Besides being small and allowing more transistors to be packed into a single chip, the uniform and symmetrical structure of nanowires and/or nanotubes
+allows a higher electron mobility (faster electron movement in the material), a higher dielectric constant (faster frequency), and a symmetrical electron/hole characteristic.[5]
+Also, nanoparticles can be used as quantum dots.
+
+Molecular electronics[edit]
+Main article: Molecular scale electronics
+Single-molecule electronic devices are extensively researched. These schemes would make heavy use of molecular self-assembly, designing the device components to construct a larger structure or even a complete system on their own.  This can be very useful for reconfigurable computing, and may even completely replace present FPGA technology.
+Molecular electronics[6] is a technology under development brings hope for future atomic-scale electronic systems.  A promising application of molecular electronics was proposed by the IBM researcher Ari Aviram and the theoretical chemist Mark Ratner in their 1974 and 1988 papers Molecules for Memory, Logic and Amplification (see unimolecular rectifier).[7][8]
+Many nanowire structures have been studied as candidates for interconnecting nanoelectronic devices: nanotubes of carbon and other materials, metal atom chaines, cumulene or polyyne carbon atom chains,[9] and many polymers such as polythiophenes.
+
+Other approaches[edit]
+Nanoionics studies the transport of ions rather than electrons in nanoscale systems.
+Nanophotonics studies the behavior of light on the nanoscale, and has the goal of developing devices that take advantage of this behavior.
+
+Nanoelectronic devices[edit]
+Current high-technology production processes are based on traditional top down strategies, where nanotechnology has already been introduced silently. The critical length scale of integrated circuits is already at the nanoscale (50 nm and below) regarding the gate length of transistors in CPUs or DRAM devices.
+
+Computers[edit]
+Simulation result for formation of inversion channel (electron density) and attainment of threshold voltage (IV) in a nanowire MOSFET. Note that the threshold voltage for this device lies around 0.45V.
+Nanoelectronics holds the promise of making computer processors more powerful than are possible with conventional semiconductor fabrication techniques.  A number of approaches are currently being researched, including new forms of nanolithography, as well as the use of nanomaterials such as nanowires or small molecules in place of traditional CMOS components. Field effect transistors have been made using both semiconducting carbon nanotubes[10] and with heterostructured semiconductor nanowires (SiNWs).[11]
+
+Memory storage[edit]
+Electronic memory designs in the past have largely relied on the formation of transistors. However, research into crossbar switch based electronics have offered an alternative using reconfigurable interconnections between vertical and horizontal wiring arrays to create ultra high density memories. Two leaders in this area are Nantero which has developed a carbon nanotube based crossbar memory called Nano-RAM and Hewlett-Packard which has proposed the use of memristor material as a future replacement of Flash memory.[citation needed]
+An example of such novel devices is based on spintronics. The dependence of the resistance of a material (due to the spin of the electrons) on an external field is called magnetoresistance. This effect can be significantly amplified (GMR - Giant Magneto-Resistance) for nanosized objects, for example when two ferromagnetic layers are separated by a nonmagnetic layer, which is several nanometers thick (e.g. Co-Cu-Co). The GMR effect has led to a strong increase in the data storage density of hard disks and made the gigabyte range possible. The so-called tunneling magnetoresistance (TMR) is very similar to GMR and based on the spin dependent tunneling of electrons through adjacent ferromagnetic layers. Both GMR and TMR effects can be used to create a non-volatile main memory for computers, such as the so-called magnetic random access memory or MRAM.[citation needed]
+
+Novel optoelectronic devices[edit]
+In the modern communication technology traditional analog electrical devices are increasingly replaced by optical or optoelectronic devices due to their enormous bandwidth and capacity, respectively. Two promising examples are
+photonic crystals and quantum dots.[citation needed] Photonic crystals are materials with a periodic variation in the refractive index with a lattice constant that is half the wavelength of the light used. They offer a selectable band gap for the propagation of a certain wavelength, thus they resemble a semiconductor, but for light or photons instead of electrons. Quantum dots are nanoscaled objects, which can be used, among many other things, for the construction of lasers. The advantage of a quantum dot laser over the traditional semiconductor laser is that their emitted wavelength depends on the diameter of the dot. Quantum dot lasers are cheaper and offer a higher beam quality than conventional laser diodes.
+
+
+Displays[edit]
+The production of displays with low energy consumption might be accomplished using carbon nanotubes (CNT) and/or Silicon nanowires. Such nanostructures are electrically conductive and due to their small diameter of several nanometers, they can be used as field emitters with extremely high efficiency for field emission displays (FED). The principle of operation resembles that of the cathode ray tube, but on a much smaller length scale.[citation needed]
+
+Quantum computers[edit]
+Main article: Quantum computer
+Entirely new approaches for computing exploit the laws of quantum mechanics for novel quantum computers, which enable the use of fast quantum algorithms.  The Quantum computer has quantum bit memory space termed "Qubit" for several computations at the same time. In nanoelectronic devices, the qubit is encoded by the quantum state of one or more electrons spin. The spin are confined by either a semiconductor quantum dot or a dopant.[12]
+
+Radios[edit]
+Nanoradios have been developed structured around carbon nanotubes.[13]
+
+Energy production[edit]
+Research is ongoing to use nanowires and other nanostructured materials with the hope to create cheaper and more efficient solar cells than are possible with conventional planar silicon solar cells.[14]  It is believed that the invention of more efficient solar energy would have a great effect on satisfying global energy needs.
+There is also research into energy production for devices that would operate in vivo, called bio-nano generators. A bio-nano generator is a nanoscale electrochemical device, like a fuel cell or galvanic cell, but drawing power from blood glucose in a living body, much the same as how the body generates energy from food. To achieve the effect, an enzyme is used that is capable of stripping glucose of its electrons, freeing them for use in electrical devices. The average person's body could, theoretically, generate 100 watts of electricity (about 2000 food calories per day) using a bio-nano generator.[15] However, this estimate is only true if all food was converted to electricity, and the human body needs some energy consistently, so possible power generated is likely much lower. The electricity generated by such a device could power devices embedded in the body (such as pacemakers), or sugar-fed nanorobots. Much of the research done on bio-nano generators is still experimental, with Panasonic's Nanotechnology Research Laboratory among those at the forefront.
+
+Medical diagnostics[edit]
+There is great interest in constructing nanoelectronic devices[16][17][18] that could detect the concentrations of biomolecules in real time for use as medical diagnostics,[19] thus falling into the category of nanomedicine.[20]
+A parallel line of research seeks to create nanoelectronic devices which could interact with single cells for use in basic biological research.[21]
+These devices are called nanosensors. Such miniaturization on nanoelectronics towards in vivo proteomic sensing should enable new approaches for health monitoring, surveillance, and defense technology.[22][23][24]
+
+References[edit]
+
+
+^ Beaumont, Steven P. (September 1996). "III–V Nanoelectronics". Microelectronic Engineering. 32 (1): 283–295. doi:10.1016/0167-9317(95)00367-3. ISSN 0167-9317.
+
+^ "MEMS Overview". Retrieved 2009-06-06.
+
+^ Melosh, N.; Boukai, Abram; Diana, Frederic; Gerardot, Brian; Badolato, Antonio; Petroff, Pierre; Heath, James R. (2003). "Ultrahigh density nanowire lattices and circuits". Science. 300 (5616): 112–5. Bibcode:2003Sci...300..112M. doi:10.1126/science.1081940. PMID 12637672. S2CID 6434777.
+
+^ Das, S.; Gates, A.J.; Abdu, H.A.; Rose, G.S.; Picconatto, C.A.; Ellenbogen, J.C. (2007). "Designs for Ultra-Tiny, Special-Purpose Nanoelectronic Circuits". IEEE Transactions on Circuits and Systems I. 54 (11): 11. doi:10.1109/TCSI.2007.907864. S2CID 13575385.
+
+^ Goicoechea, J.; Zamarreñoa, C.R.; Matiasa, I.R.; Arregui, F.J. (2007). "Minimizing the photobleaching of self-assembled multilayers for sensor applications". Sensors and Actuators B: Chemical. 126 (1): 41–47. Bibcode:2007SeAcB.126...41G. doi:10.1016/j.snb.2006.10.037.
+
+^ Petty, M.C.; Bryce, M.R.; Bloor, D. (1995). An Introduction to Molecular Electronics. London: Edward Arnold. ISBN 978-0-19-521156-6.
+
+^ Aviram, A.; Ratner, M. A. (1974). "Molecular Rectifier". Chemical Physics Letters. 29 (2): 277–283. Bibcode:1974CPL....29..277A. doi:10.1016/0009-2614(74)85031-1.
+
+^ Aviram, A. (1988). "Molecules for memory, logic, and amplification". Journal of the American Chemical Society. 110 (17): 5687–5692. Bibcode:1988JAChS.110.5687A. doi:10.1021/ja00225a017.
+
+^ Bryce, Martin R. (2021). "A review of functional linear carbon chains (oligoynes, polyynes, cumulenes) and their applications as molecular wires in molecular electronics and optoelectronics". J. Mater. Chem. C. 9 (33): 10524–10546. doi:10.1039/d1tc01406d. ISSN 2050-7526. S2CID 235456429.
+
+^ Postma, Henk W. Ch.; Teepen, Tijs; Yao, Zhen; Grifoni, Milena; Dekker, Cees (2001). "Carbon nanotube single-electron transistors at room temperature". Science. 293 (5527): 76–79. Bibcode:2001Sci...293...76P. doi:10.1126/science.1061797. PMID 11441175. S2CID 10977413.
+
+^ Xiang, Jie; Lu, Wei; Hu, Yongjie; Wu, Yue; Yan Hao; Lieber, Charles M. (2006). "Ge/Si nanowire heterostructures as highperformance field-effect transistors". Nature. 441 (7092): 489–493. Bibcode:2006Natur.441..489X. doi:10.1038/nature04796. PMID 16724062. S2CID 4408636.
+
+^ Achilli, Simona; Le, Nguyen H.; Fratesi, Guido; Manini, Nicola; Onida, Giovanni; Turchetti, Marco; Ferrari, Giorgio; Shinada, Takahiro; Tanii, Takashi; Prati, Enrico (February 2021). "Position-Controlled Functionalization of Vacancies in Silicon by Single-Ion Implanted Germanium Atoms". Advanced Functional Materials. 31 (21): 2011175. arXiv:2102.01390v2. doi:10.1002/adfm.202011175. S2CID 231749540.
+
+^ Jensen, K.; Weldon, J.; Garcia, H.; Zettl A. (2007). "Nanotube Radio". Nano Lett. 7 (11): 3508–3511. Bibcode:2007NanoL...7.3508J. doi:10.1021/nl0721113. PMID 17973438.
+
+^ Tian, Bozhi; Zheng, Xiaolin; Kempa, Thomas J.; Fang, Ying; Yu, Nanfang; Yu, Guihua; Huang, Jinlin; Lieber, Charles M. (2007). "Coaxial silicon nanowires as solar cells and nanoelectronic power sources". Nature. 449 (7164): 885–889. Bibcode:2007Natur.449..885T. doi:10.1038/nature06181. PMID 17943126. S2CID 2688078.
+
+^ "Power from blood could lead to 'human batteries'". Sydney Morning Herald. August 4, 2003. Retrieved 2008-10-08.
+
+^ LaVan, D.A.; McGuire, Terry & Langer, Robert (2003). "Small-scale systems for in vivo drug delivery". Nat. Biotechnol. 21 (10): 1184–1191. doi:10.1038/nbt876. PMID 14520404. S2CID 1490060.
+
+^ Grace, D. (2008). "Special Feature: Emerging Technologies". Medical Product Manufacturing News. 12: 22–23. Archived from the original on 2008-06-12.
+
+^ Saito, S. (1997). "Carbon Nanotubes for Next-Generation Electronics Devices". Science. 278 (5335): 77–78. doi:10.1126/science.278.5335.77. S2CID 137586409.
+
+^ Cavalcanti, A.; Shirinzadeh, B.; Freitas Jr, Robert A. & Hogg, Tad (2008). "Nanorobot architecture for medical target identification". Nanotechnology. 19 (1): 015103(15pp). Bibcode:2008Nanot..19a5103C. doi:10.1088/0957-4484/19/01/015103. S2CID 15557853.
+
+^ Cheng, Mark Ming-Cheng; Cuda, Giovanni; Bunimovich, Yuri L; Gaspari, Marco; Heath, James R; Hill, Haley D; Mirkin,Chad A; Nijdam, A Jasper; Terracciano, Rosa; Thundat, Thomas; Ferrari, Mauro (2006). "Nanotechnologies for biomolecular detection and medical diagnostics". Current Opinion in Chemical Biology. 10 (1): 11–19. doi:10.1016/j.cbpa.2006.01.006. PMID 16418011.
+
+^ Patolsky, F.; Timko, B.P.; Yu, G.; Fang, Y.; Greytak, A.B.; Zheng, G.; Lieber, C.M. (2006). "Detection, stimulation, and inhibition of neuronal signals with high-density nanowire transistor arrays". Science. 313 (5790): 1100–1104. Bibcode:2006Sci...313.1100P. doi:10.1126/science.1128640. PMID 16931757. S2CID 3178344.
+
+^ Frist, W.H. (2005). "Health care in the 21st century". N. Engl. J. Med. 352 (3): 267–272. doi:10.1056/NEJMsa045011. PMID 15659726.
+
+^ Cavalcanti, A.; Shirinzadeh, B.; Zhang, M. & Kretly, L.C. (2008). "Nanorobot Hardware Architecture for Medical Defense" (PDF). Sensors. 8 (5): 2932–2958. Bibcode:2008Senso...8.2932C. doi:10.3390/s8052932. PMC 3675524. PMID 27879858.
+
+^ Couvreur, P. & Vauthier, C. (2006). "Nanotechnology: intelligent design to treat complex disease". Pharm. Res. 23 (7): 1417–1450. doi:10.1007/s11095-006-0284-8. PMID 16779701. S2CID 1520698.
+
+
+Further reading[edit]
+Bennett, Herbert S.; Andres, Howard; Pellegrino, Joan; Kwok, Winnie; Fabricius, Norbert; Chapin, J. Thomas (March–April 2009). "Priorities for Standards and Measurements to Accelerate Innovations in Nano-Electrotechnologies: Analysis of the NIST-Energetics-IEC TC 113 Survey" (PDF). Journal of Research of the National Institute of Standards and Technology. 114 (2): 99–135. doi:10.6028/jres.114.008. PMC 4648624. PMID 27504216. Archived from the original (PDF) on 2010-05-05.
+Despotuli, Alexander; Andreeva, Alexandra (August–October 2009). "A Short Review on Deep-Sub-Voltage Nanoelectronics and Related Technologies". International Journal of Nanoscience. 8 (4–5): 389–402. doi:10.1142/S0219581X09006328.
+Veendrick, H.J.M. (2025). Nanometer CMOS ICs. Springer. p. 700. ISBN 978-3-031-64248-7. https://link.springer.com/book/10.1007/978-3-031-64249-4/
+Online course on Fundamentals of Electronics by Supriyo Datta (2008)
+Lessons from Nanoelectronics: A New Perspective on Transport(In 2 Parts)(2nd Edition) by Supriyo Datta (2018)
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Nanoelectronics.
+
+IEEE Silicon Nanoelectronics Workshop
+Virtual Institute of Spin Electronics
+Site on electronics of Single Walled Carbon nanotube at nanoscale - nanoelectronics
+Site on Nano Electronics and Advanced VLSI Research
+Website of the nanoelectronics unit of the European Commission, DG INFSO
+Nanoelectronics at UnderstandingNano Web site
+Nanoelectronics - PhysOrg
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+Authority control databases: National GermanyUnited StatesFranceBnF dataCzech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nanoelectronics&oldid=1286887066"
+Category: NanoelectronicsHidden categories: CS1: unfit URLArticles with short descriptionShort description matches WikidataWikipedia neutral point of view disputes from August 2023All Wikipedia neutral point of view disputesAll articles with unsourced statementsArticles with unsourced statements from January 2013Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 22 April 2025, at 16:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Nanoelectronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

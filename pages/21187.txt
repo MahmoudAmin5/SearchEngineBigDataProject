@@ -1,0 +1,743 @@
+https://en.wikipedia.org/wiki/List_of_computer_term_etymologies
+
+
+
+
+List of computer term etymologies - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of computer term etymologies
+
+
+
+5 languages
+
+
+
+
+العربيةবাংলাPortuguêsSimple EnglishTiếng Việt
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (October 2013) (Learn how and when to remove this message)
+This article's factual accuracy is disputed. Relevant discussion may be found on the talk page. Please help to ensure that disputed statements are reliably sourced. (October 2013) (Learn how and when to remove this message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "List of computer term etymologies" – news · newspapers · books · scholar · JSTOR (December 2010) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+This is a list of the origins of computer-related terms or terms used in the computing world (i.e., a list of computer term etymologies). It relates to both computer hardware and computer software.
+Names of many computer terms, especially computer applications, often relate to the function they perform, e.g., a compiler is an application that compiles (programming language source code into the computer's machine language). However, there are other terms with less obvious origins, which are of etymological interest. This article lists such terms.
+
+
+Contents: 
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+See also
+References
+
+A[edit]
+ABEND – originally from an IBM System/360 error message, short for "abnormal end". Jokingly reinterpreted as German Abend ("evening"), because "it is what system operators do to the machine late on Friday when they want to call it a day."[1]
+Ada – named after Ada Lovelace, who is considered by many to be the first programmer.
+Apache – originally chosen from respect for the Native American Indian tribe of Apache. It was suggested that the name was appropriate, as Apache began as a series of patches to code written for NCSA's HTTPd daemon. The result was "a patchy" server.[2]
+AWK – composed of the initials of its authors Aho, Weinberger, and Kernighan.[3]
+B[edit]
+The first case of an actual computer bug, a moth trapped in a relay of the Harvard Mark II
+B – probably a contraction of "BCPL", reflecting Ken Thompson's efforts to implement a smaller BCPL in 8 KB of memory on a DEC PDP-7.[citation needed] Or, named after Bon.[4]
+biff – named after a dog known by the developers at Berkeley, who – according to the UNIX manual page – died on 15 August 1993, at the age of 15, and belonged to Heidi Stettner. Some sources[5][6] report that the dog would bark at the mail carrier, making it a natural choice for the name of a mail notification system. The Jargon File contradicts[7] this description, but confirms at least that the dog existed.
+bit – first used by Claude E. Shannon in his seminal 1948 paper "A Mathematical Theory of Communication". Shannon's "bit" is a portmanteau of "binary digit". He attributed its origin to John W. Tukey,[8] who had used the word in a Bell Labs memo of 9 January 1947.[9]
+Bon – created by Ken Thompson and named either after his wife Bonnie, or else after "a religion whose rituals involve the murmuring of magic formulas" (a reference to the Tibetan native religion Bön).[4]
+booting or bootstrapping – from the phrase "to pull oneself up by one's bootstraps", originally used as a metaphor for any self-initiating or self-sustaining process. Used in computing due to the apparent paradox that a computer must run code to load anything into memory, but code cannot be run until it is loaded.
+bug – often (but erroneously) credited to Grace Hopper. In 1946, she joined the Harvard Faculty at the Computation Laboratory where she traced an error in the Harvard Mark II to a moth trapped in a relay. This bug was carefully removed and taped to the log book. However, use of the word 'bug' to describe defects in mechanical systems dates back to at least the 1870s, perhaps especially in Scotland.[citation needed] Thomas Edison, for one, used the term in his notebooks and letters.[10]
+byte – coined by Werner Buchholz in June 1956 during the early design phase for the IBM Stretch computer.[11][12][13][14]
+C[edit]
+Computer room at Dryden Flight Research Center, 1949
+C – a programming language.
+Dennis Ritchie, having improved on the B language, named his creation New B. He later renamed it C. (See also D).
+C++ – an object-oriented programming language, a successor to the C programming language.
+C++ creator Bjarne Stroustrup named his new language "C with Classes" and then "new C". The original language began to be called "old C" which was considered insulting to the C community. At this time Rick Mascitti suggested the name C++ as a successor to C.  In C the '++' operator increments the value of the variable it is appended to, thus C++ would increment the value of C.
+computer – from the human computers who carried out calculations mentally and possibly with mechanical aids, now replaced by electronic programmable computers.
+cookie – a packet of information that travels between a browser and the web server.
+The term was coined by web browser programmer Lou Montulli after the term "magic cookies" used by Unix programmers. The term "magic cookie" in turn derives from "fortune cookie", a cookie with an embedded message.
+Cursor (user interface) - Cursor is Latin for 'runner.' A cursor is the name given to the transparent slide engraved with a hairline that is used for marking a point on a slide rule. The term was then transferred to computers through analogy.
+D[edit]
+D – a programming language.
+Designed by Walter Bright as an improved C, avoiding many of the design problems of C (e.g., extensive pointer manipulation, unenforced array boundaries, etc.).
+daemon – a process in an operating system that runs in the background.
+It is not an acronym for Disk And Execution Monitor: according to the original team that introduced the concept, the use of the word daemon was inspired by the Maxwell's demon of physics and thermodynamics (an imaginary agent which helped sort molecules with differing velocities and worked tirelessly in the background)[15] The term was embraced, and possibly popularized,[citation needed] by the Unix operating systems which supported multiple background processes: various local (and later Internet) services were provided by daemons. This is exemplified by the BSD mascot, John Lasseter's drawing of a friendly imp.
+Dashboard - Originally, the word dashboard applied to a barrier of wood or leather fixed at the front of a horse-drawn carriage or sleigh to protect the driver from mud or other debris "dashed up" (thrown up) by the horses' hooves.[1] The first known use of the term (hyphenated as dash-board, and applied to sleighs) dates from 1847.[2] Commonly these boards did not perform any additional function other than providing a convenient handhold for ascending into the driver's seat, or a small clip with which to secure the reins when not in use.
+Debian – a Linux distribution.
+A portmanteau of the names Ian Murdock, the Debian Project creator, and Debra Lynn, Ian's then girlfriend and future wife.[16][17]
+default – an initial value for a variable or user setting.
+The original meaning of the word 'default' is 'failure to fulfill an obligation'. The obligation here is to provide an input that is required by a program. In the early days of programming, if an input value was missing, or 'null', the program would almost certainly crash. This is often to do with variable 'typing' – for example, a simple calculation program would expect a number as an input: any other type of input such as a text string or even a null (no value), would make any mathematical operation such as multiplication impossible. In order to guard against this possibility, programmers defined initial values that would be used if the user *defaulted* or failed to fulfill the obligation of providing the correct input value. Over time, the term 'default' has come to refer to the initial value itself.
+E[edit]
+Ethernet – a computer networking technology.
+According to Robert Metcalfe (one of its initial developers), he devised the name in an early company memo as an endocentric compound of "luminiferous ether"—the "substance" that was widely believed to be the medium through which electromagnetic radiation propagated in the late 19th century—and "net", short for "network".[18] When the networking team would describe data flowing into the network infrastructure, they would routinely describe it as data packets going "up into the ether".[19]
+F[edit]
+finger – Unix command that provides information about users logged into a system.
+Les Earnest wrote the finger program in 1971 to provide for users who wanted information about other users on a network or system. According to Earnest, it was named after the act of pointing, because it "bypassed the need to point to a user ID and ask, 'Who is that?'"[20][21]
+foobar – from the U.S. Army slang acronym, FUBAR. Both foo and bar are commonly used as metasyntactic variables.[22]
+G[edit]
+Gentoo Linux is named after the penguin
+Gentoo – a Linux distribution.
+Named after a variety of penguin, the universal Linux mascot.
+Git – a distributed version control system.
+In the project's initial README file, Linus Torvalds wrote that "'git' can mean anything, depending on your mood", and offers several definitions:[23]
+A random three-letter combination which is pronounceable and not a preexisting Unix command
+British English slang, meaning a stupid or contemptible person
+An acronym for "global information tracker" (when it works)
+An acronym for "goddamn idiotic truckload of sh*t" (when it breaks)
+When asked about the origin of the name, Torvalds jokingly stated, "I'm an egotistical bastard, and I name all my projects after myself."[24]
+GNU – a project with an original goal of creating a free operating system.
+Gnu (also called wildebeest) are a genus of African antelopes resembling cattle. The founder of the GNU project Richard Stallman liked the name because of the humour associated with its pronunciation (officially, /ɡnuː/ ⓘ),[25][26] and was also influenced by The Gnu Song,[27] by Flanders and Swann, which is sung by a gnu. It is also an early example of a recursive acronym: "GNU's Not Unix".[28]
+Google – a search engine.
+The name started as an exaggerated boast about the amount of information the search engine would be able to search. It was originally named 'Googol', a word for the number represented by 1 followed by 100 zeros. The word was originally invented by Milton Sirotta, nephew of mathematician Edward Kasner, in 1938 during a discussion of large numbers and exponential notation.
+Gopher – an early protocol for distributing documents over a network. Declined in favor of the World Wide Web.
+The name was coined by developer Farhad Anklesaria, as a play on gofer, an assistant who fetches things, and a gopher, who digs, as if through nested hierarchies.[29] The name was also inspired by Goldy Gopher, the mascot for the University of Minnesota where the protocol was developed.
+grep – a Unix command line utility
+The name comes from a command in the Unix text editor ed that takes the form  g/re/p  meaning search globally for a regular expression and print lines where instances are found.[30] "Grep" like "Google" is often used as a verb, meaning "to search".
+H[edit]
+Hotmail – free email service, now named Outlook.com.
+Founder Jack Smith got the idea of accessing e-mail via the web from a computer anywhere in the world. When Sabeer Bhatia came up with the business plan for the mail service, he tried all kinds of names ending in 'mail' and finally settled for Hotmail as it included the letters "HTML" – the markup language used to write web pages. It was initially referred to as HoTMaiL with selective upper casing.
+I[edit]
+i18n – short for "internationalization".
+"18" is for the number of letters between the i and the n. Related, less common terms include l10n (for localization), g11n (for globalization) and a11y (for accessibility).
+ICQ – an instant messaging service.
+ICQ is not an initialism. It is a play on the phrase "I seek you" or "Internet seek you" (similar to CQ in ham radio usage).[citation needed]
+ID10T – pronounced "ID ten T" – is a code frequently used by a customer service representative (CSR) to annotate their notes and identify the source of a problem as the person who is reporting the problem rather than the system being blamed. This is a thinly veiled reference to the CSR's opinion that the person reporting the problem is an IDIOT. Example: Problem reported caused by ID10T, no resolution possible. See also PEBKAC.[citation needed]
+J[edit]
+Jakarta Project – a project constituted by Sun and Apache to create a web server for Java servlets and JSPs.
+Jakarta was the name of the conference room at Sun where most of the meetings between Sun and Apache took place. The conference room was most likely named after Jakarta, the capital city of Indonesia, which is located on the northwest coast of the island of Java.
+Java – a programming language by Sun Microsystems, later acquired by Oracle.
+Named after java, a blend of coffee from the island of Java, and also used as slang for coffee in general. The language was initially called "Greentalk" and later "Oak", but this was already trademarked by Oak Technologies, so the developers had to choose another name shortly before release. Other suggested names were "WebRunner", "DNA", and "Silk".[31]
+
+
+JavaScript – a programming language.
+It was originally developed by Brendan Eich of Netscape under the name "Mocha", which was later renamed to "LiveScript", and finally to "JavaScript".[32] The change of name from LiveScript to JavaScript roughly coincided with Netscape adding support for Java technology in its Netscape Navigator web browser. JavaScript was first introduced and deployed in the Netscape browser version 2.0B3 in December 1995. The naming has caused confusion, giving the impression that the language is a spin-off of Java, and it has been characterized by many as a marketing ploy by Netscape to give JavaScript the cachet of what was then the hot new web-programming language.[33]
+K[edit]
+Kerberos – a computer network authentication protocol that is used by both Windows 2000 and Windows XP as their default authentication method.
+When created by programmers at MIT in the 1970s, they wanted a name that suggested high security for the project, so they named it after Kerberos, in Greek mythology the three-headed dog guarding the gates of Hades. The reference to Greek mythology is most likely because Kerberos was developed as part of Project Athena.[citation needed]
+L[edit]
+Linux – an operating system kernel, and the common name for many of the operating systems which use it.
+Linux creator Linus Torvalds originally used the MINIX operating system on his computer, didn't like it, liked DOS less, and started a project to develop an operating system that would address the problems of MINIX. Hence the working name was Linux (Linus' Minix). Originally, however, Linus had planned to have it named Freax (free + freak + x). His friend Ari Lemmke encouraged Linus to upload it to a network so it could be easily downloaded. Ari gave Linus a directory named linux on his FTP server, as he did not like the name Freax.
+Lisa – A personal computer designed at Apple Computer during the early 1980s.
+Apple stated that Lisa was an acronym for Local Integrated Software Architecture; however, it is often inferred that the machine was originally named after the daughter of Apple co-founder Steve Jobs, and that this acronym was invented later to fit the name. Accordingly, two humorous suggestions for expanding the acronym included Let's Invent Some Acronyms, and Let's Invent Silly Acronyms.
+liveware – computer personnel.
+A play on the terms "software" and "hardware". Coined in 1966, the word indicates that sometimes the computer problem is not with the computer itself, but with the user.
+Lotus Software – Lotus founder Mitch Kapor got the name for his company from 'The Lotus Position' ('Padmasana' in Sanskrit). Kapor used to be a teacher of Transcendental Meditation technique as taught by Maharishi Mahesh Yogi.
+M[edit]
+The original apple McIntosh
+Macintosh, Mac – a personal computer from Apple Computer.
+From McIntosh, a popular type of apple.
+N[edit]
+Nerd – A colloquial term for a computer person, especially an obsessive, singularly focused one. Originally created by Dr. Seuss from his book If I Ran the Zoo.
+O[edit]
+Oracle – a relational database management system (RDBMS).
+Larry Ellison, Ed Oates and Bob Miner were working on a consulting project for the CIA (Central Intelligence Agency). The code name for the project was Oracle (the CIA evidently saw this as a system that would give answers to all questions). The project was designed to use the newly written SQL database language from IBM. The project eventually was terminated but they decided to finish what they started and bring it to the world. They kept the name Oracle and created the RDBMS engine.
+P[edit]
+Pac-Man – a video arcade game.
+The term comes from paku paku which is a Japanese onomatopoeia used for noisy eating; similar to chomp chomp. The game was released in Japan with the name Puck-Man, and released in the US with the name Pac-Man, fearing that kids may deface a Puck-Man cabinet by changing the P to an F.
+Patch – A set of changes to a computer program or its supporting data designed to update, fix, or improve it.
+Historically, software suppliers distributed patches on paper tape or on punched cards, expecting the recipient to cut out the indicated part of the original tape (or deck), and patch in (hence the name) the replacement segment
+PCMCIA – the standards body for PC card and ExpressCard, expansion card form factors.
+The Personal Computer Memory Card International Association is an international standards body that defines and promotes standards for expansion devices such as modems and external hard disk drives to be connected to notebook computers. Over time, the acronym PCMCIA has been used to refer to the PC card form factor used on notebook computers. A twist on the acronym is People Can't Memorize Computer Industry Acronyms.
+PEBKAC – an acronym for "Problem Exists Between Keyboard And Chair", which is a code frequently used by a customer service representative (CSR) to annotate their notes and identify the source of a problem as the person who is reporting the problem rather than the system being blamed.  This is a thinly veiled reference to the CSR's opinion that the person reporting the problem is the problem. Example: PEBKAC, no resolution possible. See also ID10T.
+Pentium – a series of microprocessors from Intel.
+The fifth microprocessor in the 80x86 series. It would have been named i586 or 80586, but Intel decided to name it Pentium (penta = five) after it lost a trademark infringement lawsuit against AMD due to a judgment that numbers like "286", "386", and "486" cannot be trademarked.  According to Intel, Pentium conveys a meaning of strength, like titanium.[citation needed]
+Since some early Pentium chips contained a mathematical precision error, it has been jokingly suggested that the reason for the chip being named Pentium rather than 586 was that Intel chips would calculate 486 + 100 = 585.99999948.
+Perl – an interpreted scripting language.
+Perl was originally named Pearl, after the "pearl of great price" of Matthew 13:46.[citation needed] Larry Wall, the creator of Perl, wanted to give the language a short name with positive connotations and claims to have looked at (and rejected) every three- and four-letter word in the dictionary. He even thought of naming it after his wife Gloria. Before the language's official release Wall discovered that there was already a programming language named Pearl, and changed the spelling of the name. Although the original manuals suggested the backronyms "Practical Extraction and Report Language" and "Pathologically Eclectic Rubbish Lister", these were intended humorously.[citation needed]
+PHP – a server-side scripting language
+Originally named "Personal Home Page Tools" by creator Rasmus Lerdorf, it was rewritten by developers Zeev Suraski and Andi Gutmans who gave it the recursive name "PHP Hypertext Preprocessor". Lerdorf currently insists the name should not be thought of as standing for anything, for he selected "Personal Home Page" as the name when he did not foresee PHP evolving into a general-purpose programming language.
+Pine – e-mail client.
+Many people believe that Pine stands for "Pine Is Not Elm". However, one of its original authors, Laurence Lundblade, insists this was never the case and that it started off simply as a word and not an acronym; his first choice of a backronym for pine would be "Pine Is Nearly Elm".  Over time it was changed to mean Program for Internet News and E-mail.[34]
+ping – a computer network tool used to detect hosts.
+The author of ping, Mike Muuss, named it after the pulses of sound made by a sonar called a "ping". Later Dave Mills provided the backronym "Packet Internet Groper".
+Python – an interpreted scripting programming language.
+Named after the television series Monty Python's Flying Circus.[35]
+R[edit]
+Radio button – a GUI widget used for making selections.
+Radio buttons got their name from the preset buttons in radio receivers. When one used to select preset stations on a radio receiver physically instead of electronically, depressing one preset button would pop out whichever other button happened to be pushed in.
+Red Hat Linux – a Linux distribution from Red Hat.
+Company founder Marc Ewing was given the Cornell lacrosse team cap (with red and white stripes) by his grandfather while at college. People would turn to him to solve their problems, and he was referred to as "that guy in the red hat". He lost the cap and had to search for it desperately. The manual of the beta version of Red Hat Linux had an appeal to readers to return the hat if found by anyone.
+RSA – an asymmetric algorithm for public key cryptography.
+Based on the surnames of the authors of this algorithm – Ron Rivest, Adi Shamir and Len Adleman.
+S[edit]
+Samba – a free implementation of Microsoft's networking protocol.
+The name samba comes from inserting two vowels into the name of the standard protocol that Microsoft Windows network file system use, named Server Message Block (SMB). The author searched a dictionary using grep for words containing S M and B in that order; the only matches were Samba and Salmonberry.
+shareware – coined by Bob Wallace to describe his word processor PC-Write in early 1983.[citation needed] Before this Jim Knopf (also known as Jim Button) and Andrew Fluegelman called their distributed software "user supported software" and "freeware" respectively, but it was Wallace's terminology that prevailed.
+spam – unwanted repetitious messages, such as unsolicited bulk e-mail.
+The term spam is derived from the Monty Python SPAM sketch, set in a cafe where everything on the menu includes SPAM luncheon meat. While a customer plaintively asks for some kind of food without SPAM in it, the server reiterates the SPAM-filled menu. Soon, a chorus of Vikings join in with a song: "SPAM, SPAM, SPAM, SPAM, SPAM, lovely SPAM, wonderful SPAM", over and over again, drowning out all conversation.
+SPIM – a simulator for a virtual machine closely resembling the instruction set of MIPS processors, is simply MIPS spelled backwards. In recent time, spim has also come to mean SPam sent over Instant Messaging.
+Swing – a graphics library for Java.
+Swing was the code-name of the project that developed the new graphic components (the successor of AWT). It was named after swing, a style of dance band jazz that was popularized in the 1930s and unexpectedly revived in the 1990s. Although an unofficial name for the components, it gained popular acceptance with the use of the word in the package names for the Swing API, which begin with javax.swing.[citation needed]
+T[edit]
+Tomcat – a web server from the Jakarta Project.
+Tomcat was the code-name for the JSDK 2.1[clarification needed] project inside Sun.[citation needed] Tomcat started off as a servlet specification implementation by James Duncan Davidson who was a software architect at Sun. Davidson had initially hoped that the project would be made open-source, and since most open-source projects had O'Reilly books on them with an animal on the cover, he wanted to name the project after an animal. He came up with Tomcat since he reasoned the animal represented something that could take care of and fend for itself.
+troff – a document processing system for Unix.
+Troff stands for "typesetter roff", although many people have speculated that it actually means "Times roff" because of the use of the Times font family in troff by default.  Troff has its origins from roff, an earlier formatting program, whose name is a contraction of "run off".[citation needed]
+Trojan horse – a malicious program that is disguised as legitimate software.
+The term is derived from the classical myth of the Trojan Horse. Analogously, a Trojan horse appears innocuous (or even to be a gift), but in fact is a vehicle for bypassing security.
+Tux – The penguin mascot used as the primary logo for the Linux kernel, and Linux-based operating systems.
+Linus Torvalds, the creator of Linux, suggested a penguin mascot because he "likes penguins a lot", and wanted Linux to be associated with something "kind of goofy and fun".[36] The logo was originally created by Larry Ewing in 1996 as an entry in a Linux Logo competition. The name Tux was contributed by James Hughes, who suggested "(T)orvolds (U)ni(X) — TUX!"[37]
+U[edit]
+Ubuntu Linux – a Debian-based Linux distribution sponsored by Canonical Ltd.
+Derived from ubuntu, a South African ideology.
+Unix – an operating system.
+When Bell Labs pulled out of the MULTiplexed Information and Computing System (MULTICS) project, which was originally a joint Bell Labs/GE/MIT project, Ken Thompson of Bell Labs, soon joined by Dennis Ritchie, wrote a simpler version of the operating system for a spare DEC minicomputer, allegedly found in a corridor. They needed an OS to run the game Space Travel, which had been compiled under MULTICS. The new OS was named UNICS – UNiplexed Information and Computing System by Brian Kernighan.
+V[edit]
+vi – a text editor,
+Initialism for visual, a command in the ex editor which helped users to switch to the visual mode from the ex mode. the first version was written by Bill Joy at UC Berkeley.
+Vim – a text editor.
+Acronym for Vi improved after Vim added several features over the vi editor. Vim however had started out as an imitation of Vi and was expanded as Vi imitation.
+Virus – a piece of program code that spreads by making copies of itself.
+The term virus was first used as a technical computer science term by Fred Cohen in his 1984 paper "Computer Viruses Theory and Experiments", where he credits Len Adleman with coining it. Although Cohen's use of virus may have been the first academic use, it had been in the common parlance long before that. A mid-1970s science fiction novel by David Gerrold, When H.A.R.L.I.E. was One, includes a description of a fictional computer program named VIRUS that worked just like a virus (and was countered by a program named ANTIBODY). The term "computer virus" also appears in the comic book "Uncanny X-Men" No. 158, published in 1982. A computer virus's basic function is to insert its own executable code into that of other existing executable files, literally making it the electronic equivalent to the biological virus, the basic function of which is to insert its genetic information into that of the invaded cell, forcing the cell to reproduce the virus.
+W[edit]
+Wiki or WikiWiki – a hypertext document collection or the collaborative software used to create it.
+Coined by Ward Cunningham, the creator of the wiki concept, who named them for the "wiki wiki" or "quick" shuttle buses at Honolulu Airport. Wiki wiki was the first Hawaiian term he learned on his first visit to the islands. The airport counter agent directed him to take the wiki wiki bus between terminals.
+Worm –  a self-replicating program, similar to a virus.
+The name 'worm' was taken from a 1970s science fiction novel by John Brunner entitled The Shockwave Rider. The book describes programs known as "tapeworms" which spread through a network for the purpose of deleting data. Researchers writing an early paper on experiments in distributed computing noted the similarities between their software and the program described by Brunner, and adopted that name.
+WYSIWYG – describes a system in which content during editing appears very similar to the final product.
+Acronym for What You See Is What You Get, the phrase was originated by a newsletter published by Arlene and Jose Ramos, named WYSIWYG. It was created for the emerging Pre-Press industry going electronic in the late 1970s.
+X[edit]
+X Window System –  a windowing system for computers with bitmap displays.
+X derives its name as a successor to a pre-1983 window system named the W Window System.
+Y[edit]
+Yahoo! – internet portal and web directory.
+Yahoo!'s history site says the name is an acronym for "Yet Another Hierarchical Officious Oracle", but some remember that in its early days (mid-1990s), when Yahoo! lived on a server named akebono.stanford.edu, it was glossed as "Yet Another Hierarchical Object Organizer." The word "Yahoo!" was originally invented by Jonathan Swift and used in his book Gulliver's Travels. It represents a person who is repulsive in appearance and action and is barely human. Yahoo! founders Jerry Yang and David Filo selected the name because they considered themselves yahoos.
+Z[edit]
+zip – a file format, also used as a verb to mean compress.
+The file format was created by Phil Katz, and given the name by his friend Robert Mahoney. The compression tool Phil Katz created was named PKZIP. Zip means "speed", and they wanted to imply their product would be faster than ARC and other compression formats of the time.
+See also[edit]
+Glossary of computer terms
+List of company name etymologies
+Lists of etymologies
+References[edit]
+
+
+^ The New Hacker's Dictionary. Compiled by Eric S. Raymond (Third ed.). MIT Press. 1996. p. 34. ISBN 978-0-262-18178-5.{{cite book}}:  CS1 maint: others (link)
+
+^ 
+"FAQ – Httpd Wiki". Retrieved 15 November 2012.
+
+^ Hamilton, Naomi (27 May 2008). "The A-Z of Programming Languages: AWK". ComputerWorld.com.au. Retrieved 15 November 2012.
+
+^ a b Ritchie, Dennis M. (March 1993). "The Development of the C Language". ACM SIGPLAN Notices. 28 (3): 201–208. doi:10.1145/155360.155580. The B language's name most probably represents a contraction of BCPL, though an alternate theory holds that it derives from Bon [Thompson 69], an unrelated language created by Thompson during the Multics days. Bon in turn was named either after his wife Bonnie, or (according to an encyclopedia quotation in its manual), after a religion whose rituals involve the murmuring of magic formulas.
+
+^ Cooper, Eric. "biff: Did You Know?". Archived from the original on 13 November 2012. Retrieved 17 November 2012.
+
+^ "What does {some strange unix command name} stand for?". UNIXguide.net. Retrieved 17 November 2012.
+
+^ "Jargon File: biff". Retrieved 17 November 2012.
+
+^ Shannon, Claude E. (July 1948). "A Mathematical Theory of Communication". The Bell System Technical Journal. 27 (3): 379–423. doi:10.1002/j.1538-7305.1948.tb01338.x. hdl:10338.dmlcz/101429. Archived from the original on 1 October 2007. Retrieved 20 November 2012. The choice of a logarithmic base corresponds to the choice of a unit for measuring information. If the base 2 is used the resulting units may be called binary digits, or more briefly bits, a word suggested by J. W. Tukey.
+
+^ Dyson, George (29 March 2012). Darwin Among the Machines. Penguin Books Limited. p. 98. ISBN 9780718196950.
+
+^ Edison to Puskas, 13 November 1878, Edison papers, Edison National Laboratory, U.S. National Park Service, West Orange, N.J., cited in Thomas P. Hughes, American Genesis: A History of the American Genius for Invention, Penguin Books, 1989, ISBN 0-14-009741-4, on page 75.
+
+^ Bemer, Robert William (8 August 2000). "Why is a byte 8 bits? Or is it?". Computer History Vignettes. Archived from the original on 3 April 2017. Retrieved 3 April 2017. […] With IBM's STRETCH computer as background, handling 64-character words divisible into groups of 8 (I designed the character set for it, under the guidance of Dr. Werner Buchholz, the man who DID coin the term "byte" for an 8-bit grouping). […] The IBM 360 used 8-bit characters, although not ASCII directly. Thus Buchholz's "byte" caught on everywhere. I myself did not like the name for many reasons. […]
+
+^ Buchholz, Werner (11 June 1956). "7. The Shift Matrix" (PDF). The Link System. IBM. pp. 5–6. Stretch Memo No. 39G. Archived from the original (PDF) on 4 April 2017. Retrieved 4 April 2016. […] Most important, from the point of view of editing, will be the ability to handle any characters or digits, from 1 to 6 bits long […] the Shift Matrix to be used to convert a 60-bit word, coming from Memory in parallel, into characters, or "bytes" as we have called them, to be sent to the Adder serially. The 60 bits are dumped into magnetic cores on six different levels. Thus, if a 1 comes out of position 9, it appears in all six cores underneath. […] The Adder may accept all or only some of the bits. […] Assume that it is desired to operate on 4 bit decimal digits, starting at the right. The 0-diagonal is pulsed first, sending out the six bits 0 to 5, of which the Adder accepts only the first four (0-3). Bits 4 and 5 are ignored. Next, the 4 diagonal is pulsed. This sends out bits 4 to 9, of which the last two are again ignored, and so on. […] It is just as easy to use all six bits in alphanumeric work, or to handle bytes of only one bit for logical analysis, or to offset the bytes by any number of bits. […]
+
+^ Buchholz, Werner (February 1977). "The Word "Byte" Comes of Age..." Byte Magazine. 2 (2): 144. […] The first reference found in the files was contained in an internal memo written in June 1956 during the early days of developing Stretch. A byte was described as consisting of any number of parallel bits from one to six. Thus a byte was assumed to have a length appropriate for the occasion. Its first use was in the context of the input-output equipment of the 1950s, which handled six bits at a time. The possibility of going to 8 bit bytes was considered in August 1956 and incorporated in the design of Stretch shortly thereafter. The first published reference to the term occurred in 1959 in a paper "Processing Data in Bits and Pieces" by G A Blaauw, F P Brooks Jr and W Buchholz in the IRE Transactions on Electronic Computers, June 1959, page 121. The notions of that paper were elaborated in Chapter 4 of Planning a Computer System (Project Stretch), edited by W Buchholz, McGraw-Hill Book Company (1962). The rationale for coining the term was explained there on page 40 as follows:Byte denotes a group of bits used to encode a character, or the number of bits transmitted in parallel to and from input-output units. A term other than character is used here because a given character may be represented in different applications by more than one code, and different codes may use different numbers of bits (ie, different byte sizes). In input-output transmission the grouping of bits may be completely arbitrary and have no relation to actual characters. (The term is coined from bite, but respelled to avoid accidental mutation to bit.)System/360 took over many of the Stretch concepts, including the basic byte and word sizes, which are powers of 2. For economy, however, the byte size was fixed at the 8 bit maximum, and addressing at the bit level was replaced by byte addressing. […]
+
+^ Blaauw, Gerrit Anne; Brooks, Jr., Frederick Phillips; Buchholz, Werner (1962), "4: Natural Data Units" (PDF), in Buchholz, Werner (ed.), Planning a Computer System – Project Stretch, McGraw-Hill Book Company, Inc. / The Maple Press Company, York, PA., pp. 39–40, LCCN 61-10466, archived (PDF) from the original on 3 April 2017, retrieved 3 April 2017
+
+^ "The Origin of the word Daemon".
+
+^ Nixon, Robin (2010). Ubuntu: Up and Running. O'Reilly Media. p. 3. ISBN 978-0-596-80484-8.
+
+^ About Debian
+
+^ Cade Metz (13 March 2009). "Ethernet – a networking protocol name for the ages: Michelson, Morley, and Metcalfe". The Register. p. 2. Retrieved 4 March 2013.
+
+^ The History of Ethernet. NetEvents.tv. 2006. Archived from the original on 21 December 2021. Retrieved 10 September 2011.
+
+^ "Origins of the finger command". groups.google.com. Retrieved 30 April 2021.
+
+^ Earnest, Les (29 October 2017). "How a nosy bureaucrat accidentally created the first social networking and blogging service". web.stanford.edu. Retrieved 30 April 2021.
+
+^ Eastlake, D.; Manros, C.; Raymond, E. (1 April 2001). "RFC 3092 – Etymology of "Foo"". doi:10.17487/RFC3092. Retrieved 15 November 2012. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ "Initial revision of 'git', the information manager from hell · git/git@e83c516". GitHub. Archived from the original on 8 October 2017. Retrieved 21 January 2016.
+
+^ "After controversy, Torvalds begins work on "git"". PC World. Retrieved 30 April 2021.
+
+^ "What is GNU?". The GNU Operating System. Free Software Foundation. 4 September 2009. Retrieved 9 October 2009. The name 'GNU' is a recursive acronym for 'GNU's Not Unix'; it is pronounced g-noo, as one syllable with no vowel sound between the g and the n.
+
+^ Stallman, Richard (9 March 2006). The Free Software Movement and the Future of Freedom. Zagreb, Croatia: FSF Europe. Retrieved 20 February 2007.
+
+^ The Gnu Song
+
+^ Stallman, Richard. "Initial Announcement of the GNU Project September 27, 1983". gnu.org. Retrieved 20 November 2013.
+
+^ "The rise and fall of the Gopher protocol". MinnPost. 11 August 2016. Retrieved 30 April 2021.
+
+^ "The Open Group Base Specifications Issue 7 IEEE Std 1003.1, 2013 Edition Copyright © 2001-2013 The IEEE and The Open Group". The Open Group. Retrieved 20 November 2013.
+
+^ Murphy, Kieron (4 October 1996). "So why did they decide to call it Java?". InfoWorld. Retrieved 30 April 2021.
+
+^ Krill, Paul (23 June 2008). "JavaScript creator ponders past, future". InfoWorld. Retrieved 19 May 2009.
+
+^ "O'Reilly – Safari Books Online – 0596101996 – JavaScript: The Definitive Guide, 5th Edition". Safari.oreilly.com. Archived from the original on 8 December 2008. Retrieved 19 May 2009.
+
+^ Lundblade, Laurence. "Laurence's home page: Naming Pine". Archived from the original on 7 June 2011. Retrieved 17 November 2012.
+
+^ "General Python FAQ". Python.org. Python Software Foundation. Retrieved 4 June 2020.
+
+^ "Tux Gallery - Everyone's Favorite Linux Mascot". www3.nd.edu. Retrieved 30 April 2021.
+
+^ "The Story Behind Tux the Penguin". Wired. ISSN 1059-1028. Retrieved 30 April 2021.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_computer_term_etymologies&oldid=1272358868"
+Categories: Lists of computer termsLists of etymologiesHidden categories: Pages using the Phonos extensionCS1 maint: othersCS1 errors: missing periodicalArticles with short descriptionShort description is different from WikidataUse dmy dates from March 2021Articles that may contain original research from October 2013All articles that may contain original researchAccuracy disputes from October 2013All accuracy disputesArticles needing additional references from December 2010All articles needing additional referencesArticles with multiple maintenance issuesAll articles with unsourced statementsArticles with unsourced statements from November 2012Pages including recorded pronunciationsArticles with unsourced statements from October 2013Wikipedia articles needing clarification from October 2013
+
+
+
+
+
+
+ This page was last edited on 28 January 2025, at 06:34 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+List of computer term etymologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

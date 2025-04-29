@@ -1,0 +1,1325 @@
+https://en.wikipedia.org/wiki/International_Federation_for_Information_Processing
+
+
+
+
+International Federation for Information Processing - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+Congresses
+
+
+
+
+
+
+
+
+4
+Technical Committees
+
+
+
+
+Toggle Technical Committees subsection
+
+
+
+
+
+4.1
+IFIP TC1 Foundations of Computer Science
+
+
+
+
+
+
+
+
+4.2
+IFIP TC2 Software Theory and Practice
+
+
+
+
+
+
+
+
+4.3
+IFIP TC3 Education
+
+
+
+
+
+
+
+
+4.4
+IFIP TC5 Information Technology Applications
+
+
+
+
+
+
+
+
+4.5
+IFIP TC6 Communication Systems
+
+
+
+
+
+
+
+
+4.6
+IFIP TC7 System Modeling and Optimization
+
+
+
+
+
+
+
+
+4.7
+IFIP TC8 Information Systems
+
+
+
+
+
+
+
+
+4.8
+IFIP TC9 ICT and Society
+
+
+
+
+
+
+
+
+4.9
+IFIP TC10 Computer Systems Technology
+
+
+
+
+
+
+
+
+4.10
+IFIP TC11 Security and Privacy Protection in Information Processing Systems
+
+
+
+
+
+
+
+
+4.11
+IFIP TC12 Artificial Intelligence
+
+
+
+
+
+
+
+
+4.12
+IFIP TC13 Human-Computer Interaction
+
+
+
+
+
+
+
+
+4.13
+IFIP TC14 Entertainment Computing
+
+
+
+
+
+
+
+
+
+
+5
+Members
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+International Federation for Information Processing
+
+
+
+13 languages
+
+
+
+
+العربيةAzərbaycancaDeutschΕλληνικάEsperantoEuskaraفارسیFrançaisItaliano日本語РусскийУкраїнськаTiếng Việt
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Global computing organization
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (March 2018) (Learn how and when to remove this message)
+The International Federation for Information Processing (IFIP) is a global organisation for researchers and professionals working in the field of computing to conduct research, develop standards and promote information sharing.
+Established in 1960 under the auspices of UNESCO, IFIP is recognised by the United Nations and links some 50 national and international societies and academies of science with a total membership of over half a million professionals. IFIP is based in Laxenburg, Austria and is an international, non-governmental organisation that operates on a non-profit basis.
+
+
+Overview[edit]
+IFIP activities are coordinated by 14 Technical Committees (TCs) which are organised into more than 100 Working Groups (WGs), bringing together over 3,500 ICT professionals and researchers from around the world to conduct research, develop standards and promote information sharing. Each TC covers a particular aspect of computing and related disciplines, as detailed below.
+IFIP actively promotes the principle of open access and proceedings for which IFIP holds the copyright are made available electronically via IFIP's Open Access Digital Library.[1]  Downloading articles from IFIP's Open Access Digital Library is free of charge.
+Conference and workshop organizers who prefer publication with the IFIP publisher can take advantage of the agreement between IFIP and Springer and publish their proceedings as part of IFIP's Advances in Information and Communication Technology (AICT) series,[2] the Lecture Notes in Computer Science (LNCS) series or the Lecture Notes in Business Information Processing (LNBIP) series.[3] IFIP Proceedings published by Springer in IFIP's AICT, LNCS, and LNBIP series are accessible within IFIP's Open Access Digital Library after an embargo period of three years.
+An important activity of the IFIP Technical Committees is to organise and sponsor high quality conferences and workshops in the field of ICT. Sponsoring is generally in the form of Best Paper Awards (BPA) and/or Student Travel Grants (STG). To assist conference and workshop organisers, IFIP has facilities to host conference websites and supports conference management systems such as JEMS, which include export functions that seamlessly integrate with IFIP's Open DL.
+
+History[edit]
+IFIP was established in 1960 under the auspices of UNESCO, originally under the name of the International Federation of Information Processing Societies (IFIPS). In preparation, UNESCO had organised the first International Conference on Information Processing, which took place in June 1959 in Paris, and is now considered the first IFIP Congress. Christopher Strachey gave a paper "Time Sharing in Large Fast Computers" at the conference where he envisaged a programmer debugging a program at a console (like a teletype) connected to the computer, while another program was running in the computer at the same time.[4][5][6] At the conference, he passed his time-sharing concept on to J. C. R. Licklider.[7][8] His paper was credited by the MIT Computation Center in 1963 as "the first paper on time-shared computers".[9]
+The name was changed to IFIP in 1961. The founding president of IFIP was Isaac L. Auerbach (1960–1965).[10]
+In 2009, IFIP established the International Professional Practice Partnership (IFIP IP3) to lead the development of the global ICT profession."[11][12]
+
+Congresses[edit]
+As of 2022 the following IFIP World Computer Congress events took place:[13][14]
+
+1959  Paris, France  (pre IFIP)
+1962  Munich, Germany
+1965  New York, USA
+1968  Edinburgh, UK
+1971  Ljubljana, Yugoslavia
+1974  Stockholm, Sweden
+1977  Toronto, Canada
+1980  Melbourne/Tokyo, Australia and Japan
+1983  Paris, France
+1986  Dublin, Ireland
+1989  San Francisco, USA
+1992  Madrid, Spain
+1994  Hamburg, Germany
+1996  Canberra, Australia
+1998  Vienna/Budapest, Austria and Hungary
+2000  Beijing, China
+2002  Montreal, Canada
+2004  Toulouse, France
+2006  Santiago, Chile
+2008  Milan, Italy
+2010  Brisbane, Australia
+2012  Amsterdam, the Netherlands
+2015  Daejeon, South Korea
+2018  Poznan, Poland
+Technical Committees[edit]
+IFIP's activities are centered on its 14 Technical Committees,[15] which are divided into Working Groups.  These groups, (with names like "WG 2.4 Software Implementation Technology") organise conferences and workshops, distribute technical papers and promote discussion and research outcomes.
+A full list of IFIP Technical Committees is listed below:
+
+TC 1: Foundations of Computer Science[16][17]
+TC 2: Software:Theory and Practice
+TC 3: Education
+TC 5: Information Technology Applications
+TC 6: Communication Systems
+TC 7: System Modeling and Optimization
+TC 8: Information Systems
+TC 9: Relationship between Computers and Society[18]
+TC 10: Computer Systems Technology[19]
+TC 11: Security and Protection in Information Processing Systems
+TC 12: Artificial Intelligence
+TC 13: Human-Computer Interaction
+TC 14: Entertainment Computing[20]
+IFIP TC1 Foundations of Computer Science[edit]
+The current IFIP TC1, which focuses on Foundations of Computer Science, was established in 1997. There was an earlier TC1, covering Terminology, which was IFIP's first Technical Committee. Formed in 1961, it produced a multilingual dictionary of information-processing terminology but was later disbanded.
+The working groups of the current TC1 are:
+
+WG 1.1 Continuous Algorithms and Complexity
+WG 1.2 Descriptional Complexity
+WG 1.3 Foundations of System Specification
+WG 1.4 Computational Learning Theory
+WG 1.5 Cellular Automata and Discrete Complex Systems
+WG 1.6 Term Rewriting
+WG 1.7 Theoretical Foundations of Security Analysis and Design
+WG 1.8 Concurrency Theory
+WG 1.9 Verified Software (joint with WG 2.15)
+WG 1.10 String Algorithmics & Applications
+IFIP TC2 Software Theory and Practice[edit]
+Established in 1962, IFIP TC2 explores Software Theory and Practice with the aim of improving software quality by studying all aspects of the software development process to better understand and enhance programming concepts.
+The working groups of IFIP TC2 are:
+
+WG 2.1 on Algorithmic Languages and Calculi[21]
+WG 2.2 Formal Description of Programming Concepts[22]
+WG 2.3 Programming Methodology[23]
+WG 2.4 Software Implementation Technology
+WG 2.5 Numerical Software
+WG 2.6 Databases
+WG 2.7 User Interface Engineering (Joint with WG 13.4)
+WG 2.8 Functional Programming
+WG 2.9 Software Requirements Engineering[24]
+WG 2.10 on Software Architecture
+WG 2.11 Program Generation
+WG 2.12 Web Semantics (Joint with WG 12.14)
+WG 2.13 Open Source Software[usurped]
+WG 2.14 Service-Oriented Systems (Joint with WG 6.12/WG8.10)
+WG 2.15 Verified Software (joint with WG 1.9)
+WG 2.16 Programming Language Design[25]
+IFIP TC3 Education[edit]
+The formation of TC3, to deal with computers and education, was announced in 1962. Richard Buckingham of the University of London was appointed  its first chairman and TC3 held its initial meeting in Paris in February 1964.[26]
+The working groups of IFIP TC3 are:
+
+WG 3.1 Informatics and Digital Technologies in School Education
+WG 3.3 Research into Educational Applications of Information Technologies
+WG 3.4 Professional and Vocational Education in ICT
+WG 3.7 Information Technology in Educational Management
+IFIP TC5 Information Technology Applications[edit]
+Established in 1970, IFIP TC5 provides a focus for multi-disciplinary research into the application of information technologies and practices to facilitate information management. It encompasses work in product life-cycle management, digital modelling, virtual product creation, integrated manufacturing/production management and more.
+The working groups of IFIP TC5 are:
+
+WG 5.1 Information Technology in the Product Realization Process
+WG 5.4 Computer Aided Innovation
+WG 5.5 Cooperation Infrastructure for Virtual Enterprises and Electronic Business (COVE)
+WG 5.7 Advances in Production Management Systems
+WG 5.8 Enterprise Interoperability
+WG 5.10 Computer Graphics and Virtual Worlds
+WG 5.11 Computers and Environment
+WG 5.12 Architectures for Enterprise Integration
+WG 5.13 Bioinformatives and its Applications
+WG 5.14 Advanced Information Processing for Agriculture
+IFIP TC6 Communication Systems[edit]
+Established in 1971, IFIP TC6[27] (Communication Systems) is one of the largest TCs within IFIP in terms of activities and revenues. TC6 has nine Working Groups (WGs) as well as a number of Special Interest Groups (SIGs), the majority of which are concerned either with specific aspects of communications systems themselves or with the application of communications systems. In addition, one WG focuses on communications in developing countries. TC6 meets twice a year, in spring and fall, usually co-locating its meetings with a related conference. Examples of TC6 conferences include IFIP Networking, DisCoTec, Middleware, WiOpt, CNSM, Integrated Network Management (IM) and Wireless Days (WD).
+Membership of a TC6 WG or SIG is open to leading researchers within the field, independent of the national society within the country of origin. Well-known (past) TC6 members include: Vint Cerf, André Danthine, Donald Davies, Roger Scantlebury, Peter Kirstein, Robert (Bob) Metcalfe, Louis Pouzin, Otto Spaniol and Hubert Zimmermann. Many were members of the International Network Working Group. Each WG or SIG elects a chair and vice-chair for a period of three years. WG and SIG (vice-)chairs are, next to the national representatives and some key researchers, automatically members of TC6.
+TC6 is a strong proponent of open access and the driving force behind the IFIP TC6 Open Digital Library (DL).[28] The IFIP TC6 Open DL is currently operated by TC6 and eventually will move to the INRIA HAL system. To ensure maximum accessibility of accepted papers, several TC6 conferences publish their proceedings not only in the IFIP TC6 Open DL, but also in other online systems, such as IEEE Xplore, ACM DL, ResearchGate and arXiv.
+TC6 supports conferences by providing Best Paper Awards (usually 500 Euro each) as well as Student Travel Grants (usually 750 Euro). Conference organisers who intend to obtain IFIP sponsorship are encouraged to fill-in the online Event Request Form (ERF). Depending on the category and type of event, IFIP may charge fees to conferences to cover the costs of (future) awards as well as the IFIP secretariat.
+The working groups of IFIP TC6 are:
+
+WG 6.1 Architectures and Protocols for Distributed Systems
+WG 6.2 Network and Internetwork Architectures
+WG 6.3 Performance of Communication Systems
+WG 6.4 Internet Applications Engineering
+WG 6.6 Management of Networks and Distributed Systems
+WG 6.8 Mobile and Wireless Communications
+WG 6.9 Communications Systems in Developing Countries
+WG 6.10 Photonic Networking
+WG 6.11 Communication Aspects of the E-World
+WG 6.12 Service-Oriented Systems (Joint with WG 8.10/WG2.14)
+In November 2015, a new Special Interest Group on "Internet of People" (IoP) was created.
+
+IFIP TC7 System Modeling and Optimization[edit]
+IFIP TC7 was founded in 1972 by  A.V. Balakrishnan,  J.L. Lions and M. Marchuk.
+The aims of this Technical Committee are
+
+to provide an international clearing house for computational (as well as related theoretical) aspects of optimization problems in diverse areas and to share computing experience gained on specific applications;[29]
+to promote the development of necessary high-level theory to meet the needs of complex optimization problems and establish appropriate cooperation with the International Mathematics Union and similar organisations;[29]
+to foster interdisciplinary activity on optimization problems spanning the various areas such as Economics (including Business Administration and Management), Biomedicine, Meteorology, etc., in cooperation with associated international bodies.[29]
+The working groups of IFIP TC7 are:
+
+WG 7.1 Modeling and Simulation
+WG 7.2 Computational Techniques in Distributed Systems
+WG 7.3 Computer System Modeling
+WG 7.4 Inverse Problems and Imaging
+WG 7.5 Reliability and Optimization of Structural Systems
+WG 7.6 Optimization-Based Computer-Aided Modeling and Design
+WG 7.7 on Stochastic Optimization
+IFIP TC8 Information Systems[edit]
+IFIP TC8 was established in 1976 and focuses on Information Systems. This committee aims to promote and encourage the advancement of research and practice of concepts, methods, techniques and issues related to information systems in organisations. It currently includes the following working groups: 
+
+WG 8.1 Design and Evaluation of Information Systems
+WG 8.2 The Interaction of Information Systems and the Organization
+WG 8.3 Decision Support Systems
+WG 8.4 E-Business: Multi-disciplinary Research and Practice
+WG 8.5 Information Systems in Public Administration
+WG 8.6 Transfer and Diffusion of Information Technology
+WG 8.9 Enterprise Information Systems
+WG 8.10 Service-Oriented Systems (Joint with WG 6.12/2.14)
+WG 8.11 Information Systems Security Research (Joint with WG 11.13)
+IFIP TC9 ICT and Society[edit]
+IFIP TC9 on ICT and Society was formed in 1976 to develop greater understanding of how ICT innovation is associated with changes in society and to influence the shaping of socially responsible and ethical policies and professional practices. The main work of the TC9 is conducted through its working groups, which organise regular conferences and events, including the Human Choice and Computers (HCC) conference series. This is a well established forum for the study of ICT and Society - the first HCC conference took place in Vienna in 1974, while the last one took place in Finland in 2014.
+The working groups of IFIP TC9 are:
+
+WG 9.1 Computers and Work
+WG 9.2 Social Accountability and Computing
+SIG 9.2.2 Ethics and Computing
+WG 9.3 Home-Oriented Informatics and Telematics - HOIT
+WG 9.4 Social Implications of Computers in Developing Countries
+WG 9.5 Virtuality and Society
+WG 9.6 Information Technology Mis-use and the Law (Joint with WG 11.7)
+WG 9.7 History of Computing
+WG 9.8 Gender Diversity and ICT
+WG 9.9 ICT and Sustainable Development
+WG 9.10 ICT Uses in Peace and War
+IFIP TC10 Computer Systems Technology[edit]
+IFIP TC10 was founded in 1976 and revised in 1987.
+It aims to promote State-of-the-Art concepts, methodologies and tools in the life cycle of computer systems and to coordinate the exchange of information around these practices.
+TC10 currently has four working groups: 
+
+WG 10.2 Embedded Systems
+WG 10.3 Concurrent Systems
+WG 10.4 Dependable Computing and Fault Tolerance
+WG 10.5 Archived 2014-02-22 at the Wayback Machine Design and Engineering of Electronic Systems
+IFIP TC11 Security and Privacy Protection in Information Processing Systems[edit]
+IFIP TC11 on Security and Privacy Protection in Information Processing Systems was founded in 1984 and revised in 2006 and 2009. It focuses on increasing the trustworthiness of, and general confidence in, information processing and providing a forum for security and privacy protection experts and others professionally active in the field to share information and advance standards.
+IFIP TC11 currently has the following working groups:[30]
+
+WG 11.1 Information Security Management
+WG 11.2 Pervasive Systems Security
+WG 11.3 Data and Application Security and Privacy
+WG 11.4 Network & Distributed Systems Security
+WG 11.5 IT Assurance and Audit
+WG 11.6 Identity Management
+WG 11.7 Information Technology: Misuse and The Law (Joint with WG 9.6)
+WG 11.8 Information Security Education
+WG 11.9 Digital Forensics
+WG 11.10 Critical Infrastructure Protection
+WG 11.11 Trust Management
+WG 11.12 Human Aspects of Information Security and Assurance
+WG 11.13 Information Systems Security Research (Joint with WG 8.11)
+WG 11.14 Secure Engineering
+IFIP TC12 Artificial Intelligence[edit]
+IFIP TC12 on Artificial Intelligence was established in 1984 and revised in 1991 and 2004. It aims to foster the development and understanding of Artificial Intelligence (AI) and its applications worldwide and to promote interdisciplinary exchanges between AI and other fields of information processing.
+IFIP TC12 currently includes the following working groups:[31]
+
+WG 12.1 Knowledge Representation and Reasoning
+WG 12.2 Machine Learning and Data Mining
+WG 12.3 Intelligent Agents
+WG 12.4 Semantic Web
+WG 12.5 Artificial Intelligence Applications
+WG 12.6 Knowledge Management & Innovation AI4KM
+WG 12.7 Social Networking Semantics and collective Intelligence[32]
+WG 12.8 Intelligent Bioinformatics and Biomedical Systems
+WG 12.9 Computational Intelligence
+WG 12.10 Artificial Intelligence & Cognitive Science
+WG 12.11 AI for Energy & Sustainability (AIES)
+WG 12.12 AI Governance (AIGOV)
+WG 12.13: AI for Global Security (AI4GS)
+IFIP TC13 Human-Computer Interaction[edit]
+IFIP TC 13 on Human-Computer Interaction was founded in 1989. It aims to encourage empirical research (using valid and reliable methodology, with studies of the methods themselves where necessary); to promote the use of knowledge and methods from the human sciences in both design and evaluation of computer systems; to promote better understanding of the relation between formal design methods and system usability and acceptability; to develop guidelines, models and methods by which designers may be able to provide better human-oriented computer systems; and to co-operate with other groups, inside and outside IFIP, so as to promote user-orientation and "humani-zation" in system design.
+TC 13 currently has nine working groups:
+
+WG 13.1 Education in HCI and HCI Curricula
+WG 13.2 Methodology for User-Centered System Design  [33]
+WG 13.3 Human-Computer Interaction and Disability  [34]
+WG 13.4 User Interface Engineering (Joint with WG 2.7) [35]
+WG 13.5 Resilience, Reliability, Safety and Human Error in System Development
+WG 13.6 Human-Work Interaction Design[36]
+WG 13.7 Human-Computer Interaction & Visualization (HCIV) [37]
+WG 13.8 Interaction Design and International Development
+WG 13.9 Interaction Design and Children [38]
+IFIP TC14 Entertainment Computing[edit]
+Created in 2002 as SG16, on August 28, 2006, the General Assembly of IFIP decided to establish this new Technical Committee.[20] To encourage computer applications for entertainment and to enhance computer utilization in the home, the technical committee will pursue the following aims: to enhance algorithmic research on board and card games; to promote a new type of entertainment using information technologies; to encourage hardware technology research and development to facilitate implementing entertainment systems, and; to encourage non-traditional human interface technologies for entertainment.
+
+WG 14.1 Digital Storytelling [39]
+WG 14.2 Entertainment Robot [40]
+WG 14.3 Theoretical Foundation of Entertainment Computing [41]
+WG 14.4 Entertainment Games [42]
+WG 14.5 Social and Ethical Issues [43]
+WG 14.6 Interactive TeleVision (ITV) [44]
+WG 14.7 Art and Entertainment [45]
+WG 14.8 Serious Games [46]
+WG 14.9 Game Accessibility [47]
+Members[edit]
+List of full members as of 20 November 2018[update]:[48]
+
+
+Australian Computer Society Inc. (ACS), Australia
+Austrian Computer Society (OCG), Austria
+FBVI-FAIB, Belgium
+Sociedade Brasileira de Computação - SBC, Brazil
+Bulgarian Academy of Sciences, Bulgaria
+Canadian Information Processing Society (CIPS), Canada
+Chinese Institute of Electronics - CIE, China
+Centro Latinoamericano de Estudios Informatica, Costa Rica
+Croatian Information Technology Association (CITA) IIic, Croatia
+Cyprus Computer Society, Cyprus
+Czech Society for Cybernetics and Informatics, Czech Republic
+Danish IT Society, Denmark
+Finnish Information Processing Association, Finland
+Société informatique de France (SIF), France
+Gesellschaft für Informatik e.V. (GI), Germany
+John von Neumann Computer Society (NJSZT), Hungary
+Computer Society of India (CSI), India
+Computer Society of Iran, (CSI), Iran
+Irish Computer Society, Ireland
+Associazione Italiana per l` Informatica ed il Calcolo Automatico (A.I.C.A.), Italia
+Information Processing Society of Japan (IPSJ), Japan
+Lithuanian Computer Society - LIKS, Lithuania
+Koninklijke Nederlandse Vereniging van Informatieprofessionals (KNVI), Netherlands
+Institute of IT Professionals, New Zealand
+Norwegian Computer Society (NCS), Norway
+Polish Academy of Sciences, Poland
+Ordem dos Engenheiros, Portugal
+The Korean Institute of Information Scientists and Engineers (KIISE), Korea
+Informatics Association of Serbia (IAS), Serbia
+Slovak Society for Computer Science, Slovakia
+Slovenian Society INFORMATIKA, Slovenia
+Institute of Information Technology Professionals South Africa IITPSA NPC, South Africa
+Asociación de Técnicos de Informática (ATI), Spain
+The Computer Society of Sri Lanka CSSL, Sri Lanka
+Dataföreningen i Sverige, Sweden
+SI Schweizer Informatik Gesellschaft, Switzerland
+Syrian Computer Society (SCS), Syria
+Ecole Supérieure des Communications De Tunis (SUP`COM), Tunisia
+Ukrainian Federation of Informatics (UFI), Ukraine
+Hamdan Bin Mohammed Smart University, United Arab Emirates
+BCS The Chartered Institute for IT, United Kingdom
+Association for Computing Machinery, ACM
+Computer Society of Zimbabwe, Zimbabwe
+
+List of associate members as of 2015, June 22:[48]
+
+Council of European Professional Informatics Societies, Ireland
+International Medical Informatics Association, Japan
+South East Asia Regional Computer Confederation (SEARCC)
+The Very Large Data Bases Endowment (VLDB), Conferences
+References[edit]
+
+
+^ "IFIP Open Access Digital Library". Retrieved July 1, 2020.
+
+^ "IFIP's Advances in Information and Communication Technology (AICT) series". Retrieved July 1, 2020.
+
+^ "Lecture Notes in Business Information Processing (LNBIP) series". Retrieved July 1, 2020.
+
+^ Strachey, Christopher (1959-06-15). Time sharing in large fast computers. UNESCO Information Processing conference. Retrieved 30 May 2023.
+
+^ "Computer Pioneers - Christopher Strachey". history.computer.org. Retrieved 2020-01-23. What Strachey proposed in his concept of time-sharing was an arrangement that would preserve the direct contact between programmer and machine, while still achieving the economy of multiprogramming.
+
+^ John McCarthy, Reminiscences on the History of Time Sharing Archived 2007-10-20 at the Wayback Machine (Stanford University 1983). "in 1960 `time-sharing' as a phrase was much in the air. It was, however, generally used in my sense rather than in John McCarthy's sense of a CTSS-like object. "
+
+^ Gillies, James M.; Cailliau, Robert (2000). How the Web was Born: The Story of the World Wide Web. Oxford University Press. pp. 13. ISBN 978-0-19-286207-5.
+
+^ "Computer - Time-sharing and minicomputers". Encyclopedia Britannica. Retrieved 2020-01-23. In 1959 Christopher Strachey in the United Kingdom and John McCarthy in the United States independently described something they called time-sharing.
+
+^ F. J. Corbató, et al., The Compatible Time-Sharing System A Programmer's Guide (MIT Press, 1963) ISBN 978-0-262-03008-3. "To establish the context of the present work, it is informative to trace the development of time-sharing at MIT. Shortly after the first paper on time-shared computers by C. Strachey at the June 1959 UNESCO Information Processing conference, H.M. Teager and J. McCarthy delivered an unpublished paper "Time-Shared Program Testing" at the August 1959 ACM Meeting."
+
+^ "Isaac L Auerbach". IT History Society. Archived from the original on April 3, 2012. Retrieved April 12, 2012.
+
+^ "IFIP News March 2010 – IP3 News March 2010" (PDF). IFIP. Retrieved April 2, 2010.
+
+^ "IP3 -- Leading the Development of the Global IT Profession". IP3. Retrieved April 2, 2010.
+
+^ "IFIP World Computer Conferences". IFIP. Retrieved June 27, 2022.
+
+^ "The 24th IFIP World Computer Congress". IFIP. Retrieved June 27, 2022.
+
+^ "Technical Committees". Archived from the original on 2005-02-07. Retrieved 2005-03-04.
+
+^ "IFIP TC1 Homepage". kb.ecei.tohoku.ac.jp. Retrieved 2018-03-22.
+
+^ IFIP Working Group 1.2 "Descriptional Complexity" Archived 2007-07-15 at the Wayback Machine
+
+^ "IFIP WG 9.1 | IFIP Working Group 9.1: ICTs and the Future of Work". jpedia.org. Archived from the original on 2017-11-11. Retrieved 2018-03-22.
+
+^ "TC 10 - Computer Systems Technology". Archived from the original on 2014-01-09. Retrieved 2014-02-03.
+
+^ a b "IFIP Technical Committee 14: Entertainment Computing ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Retrieved 2018-03-22.
+
+^ "Home Page - IFIP Working Group 2.1". web.comlab.ox.ac.uk. Retrieved 2018-03-22.
+
+^ "Augenlasern - die Verfahren im Vergleich - Lasik und Lasek Methode". ifiptc2.org (in German). Retrieved 2018-03-22.
+
+^ "Home Page - IFIP Working Group 2.3". Archived from the original on 2022-06-30. Retrieved 2022-09-27.
+
+^ "IFIP 2.9 > Home". wrobinson.cis.gsu.edu. Archived from the original on 2010-01-29. Retrieved 2018-03-22.
+
+^ "Data". program-transformation.org.
+
+^ John Impagliazzo, History of Computing and Education 2 (HCE2): IFIP 19th World Computer Congress, WG 9.7, TC 9: History of Computing, Proceedings of the Second Conference on the History of Computing and Education, August 21–24, Santiago, Chile (2006), p. 8
+
+^ NÃ¶tzold, Volker. "IFIP - TCs - IFIP TC 6". ifip.informatik.uni-hamburg.de. Retrieved 2018-03-22.
+
+^ "IFIP TC6 Open Digital Library (DL)". Retrieved 2020-07-01.
+
+^ a b c "TC 7 - System Modeling and Optimization - Aims and Scopes".
+
+^ "Working Groups". IFIP Technical Committee 11: Security and Privacy Protection in Information Processing Systems. Retrieved 19 February 2018.
+
+^ Artificial Intelligence http://www.ifiptc12.org/[permanent dead link]
+
+^ About WG 12.7 | WG 12.7 - Social Networking Semantics and Collective Intelligence Archived 2014-12-17 at the Wayback Machine. Starlab.vub.ac.be. Retrieved on 2013-08-17.
+
+^ "Working Group 13.2 - Methodology for User-Centred System Design - IFIP TC13". wwwswt.informatik.uni-rostock.de. Retrieved 2018-03-22.
+
+^ IFIP Working Group 13.3 "Human-Computer Interaction and Disability" Archived 2011-10-16 at the Wayback Machine
+
+^ "Home - IFIP WG2.7/13.4 - User Interface Engineering". se-hci.org. Archived from the original on September 15, 2012. Retrieved 2018-03-22.
+
+^ "TC13 WG6 Human Work Interaction Design". hwid.unibs.it/. Retrieved 2005-02-27.
+
+^ "HCIV". hciv.de. Retrieved 2018-03-22.
+
+^ "Interaction Design & Children – TC13 SIG | Just another WordPress site". idc-sig.org. Retrieved 2018-03-22.
+
+^ "WG 14.1 - Digital Storytelling ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Archived from the original on 2021-11-29. Retrieved 2018-03-22.
+
+^ "WG 14.2 - Entertainment Robot ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Archived from the original on 2021-11-29. Retrieved 2018-03-22.
+
+^ "WG 14.3 - Theoretical Foundation of Entertainment Computing ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Retrieved 2018-03-22.[permanent dead link]
+
+^ "WG 14.4 - Entertainment Games ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Retrieved 2018-03-22.[permanent dead link]
+
+^ "WG 14.5 - Social and Ethical Issues in Entertainment Computing ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Archived from the original on 2021-11-29. Retrieved 2018-03-22.
+
+^ "WG 14.6 – Interactive TeleVision (ITV) ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Archived from the original on 2021-11-29. Retrieved 2018-03-22.
+
+^ "WG 14.7 – Art and Entertainment ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Retrieved 2018-03-22.[permanent dead link]
+
+^ "WG 14.8 – Serious Games ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Archived from the original on 2021-11-29. Retrieved 2018-03-22.
+
+^ "WG 14.9 – Game Accessibility ⋆ IFIP TC14: Entertainment Computing". ifip-tc14.org. Archived from the original on 2021-11-29. Retrieved 2018-03-22.
+
+^ a b Dundler, Eduard. "IFIP - Members". ifip.org. Retrieved 2015-06-22.
+
+
+External links[edit]
+International Federation for Information Processing
+Overview on IFIP publications incl. Open Access
+vteInternational Science Council (ISC)Nationalmembers
+Albania
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia & Herzegovina
+Republika Srpska
+Botswana
+Brazil
+ANPOCS
+Bulgaria
+Burkina Faso
+Cameroon
+Canada
+SSHRC
+Chile
+China
+CASS
+Colombia
+Costa Rica
+Côte d'Ivoire
+Cuba
+Czech Republic
+Denmark
+Dominican Republic
+Egypt
+El Salvador
+Estonia
+Eswatini
+Ethiopia
+Finland
+France
+Georgia
+Germany
+Ghana
+Greece
+Guatemala
+Honduras
+Hungary
+India
+ICSSR
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+North Korea
+South Korea
+KSSRC
+KAST
+Laos
+Latvia
+Lebanon
+Lesotho
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Mauritius
+Mexico
+COMECSO
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nigeria
+North Macedonia
+Norway
+UB
+Oman
+Pakistan
+PAS
+PCSIR
+Panama
+Peru
+Philippines
+PSSC
+Poland
+Portugal
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Singapore
+Slovak Republic
+Slovenia
+South Africa
+HSRC
+Spain
+Sri Lanka
+Sudan
+SNAS
+Sweden
+Switzerland
+Switzerland
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tunisia
+Turkey
+Science Academy
+TÜBİTAK
+Uganda
+Ukraine
+United Kingdom
+British Academy
+ESRC
+United States
+Uruguay
+Uzbekistan
+Vatican City
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+RCZ
+Transnationalmembers
+ACSS
+AASSREC
+CASS
+CLACSO
+CODESRIA
+FLACSO
+UAI
+OSSREA
+USP
+Unions andassociations
+4S
+IALS
+IASSA
+IAU
+ICA
+IEA
+IFSM
+IGU
+IMU
+INQUA
+IPRA
+IPSA
+ISA
+ISEE
+ISPRS
+IUBMB
+IUBS
+IUCr
+IUFoST
+IUFRO
+IUGG
+IUGS
+IUHPST
+IUIS
+IUMRS
+IUMS
+IUNS
+IUPAB
+IUPAC
+IUPAP
+IUPESM
+IUPHAR
+IUPS
+IUPsyS
+IUSS
+IUSSP
+IUTAM
+IUTOX
+URSI
+WAPOR
+WAU
+Affiliatedmembers
+AAS
+AASSA
+ACSS
+ASTC
+CIE
+EADI
+ECPR
+FIG
+GYA
+IAAP
+IAHR
+IASC
+ICA
+ICIAM
+ICLAS
+ICO
+ICSTI
+IFDO
+IFIP
+IFLA
+IFS
+IIASA
+ISA
+ISDE
+IUVSTA
+IWA
+PSA
+SSRC
+TNI
+TWAS
+UIS
+
+Authority control databases InternationalISNIVIAFNationalGermanyUnited StatesFranceBnF dataAustraliaCzech Republic2NorwayLatviaCroatiaIsraelFinlandCataloniaAcademicsCiNiiOtherIdRef
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=International_Federation_for_Information_Processing&oldid=1287749526"
+Categories: International Federation for Information ProcessingLower AustriaMembers of the International Council for ScienceOrganizations established in 1960Scientific organisations based in AustriaUNESCOMembers of the International Science CouncilHidden categories: Webarchive template wayback linksCS1 German-language sources (de)All articles with dead external linksArticles with dead external links from December 2017Articles with permanently dead external linksCS1: unfit URLArticles with dead external links from September 2024Articles with short descriptionShort description is different from WikidataWikipedia external links cleanup from March 2018Articles containing potentially dated statements from November 2018All articles containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 28 April 2025, at 06:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+International Federation for Information Processing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

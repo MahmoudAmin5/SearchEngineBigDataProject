@@ -1,0 +1,130 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_utilities_grayscale
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+  Grayscale Effect
+  The w3-grayscale classes add a grayscale effect to an element.
+
+  Normal:
+  
+  w3-grayscale-min:
+  
+  w3-grayscale:
+  
+  w3-grayscale-max (black and white):
+  
+
+  
+    Red with grayscale
+  
+  
+    Blue with grayscale
+  
+  
+    Green with grayscale
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

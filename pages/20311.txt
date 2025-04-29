@@ -1,0 +1,1025 @@
+https://en.wikipedia.org/wiki/Bit
+
+
+
+
+Bit - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Physical representation
+
+
+
+
+Toggle Physical representation subsection
+
+
+
+
+
+2.1
+Transmission and processing
+
+
+
+
+
+
+
+
+2.2
+Storage
+
+
+
+
+
+
+
+
+
+
+3
+Unit and symbol
+
+
+
+
+Toggle Unit and symbol subsection
+
+
+
+
+
+3.1
+Multiple bits
+
+
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Bit
+
+
+
+99 languages
+
+
+
+
+AfrikaansÆngliscالعربيةAragonésAsturianuAzərbaycancaتۆرکجهবাংলা閩南語 / Bân-lâm-gúБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiBrezhonegCatalàČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskFurlanGaeilgeGalego한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaInterlinguaИронIsiZuluÍslenskaItalianoעבריתಕನ್ನಡქართულიҚазақшаKiswahiliКыргызчаລາວLatinaLatviešuLëtzebuergeschLietuviųLombardMagyarМакедонскиമലയാളംMaltiमराठीBahasa MelayuMirandésМонголမြန်မာဘာသာNederlands日本語Norsk bokmålNorsk nynorskOccitanОлык марийOʻzbekcha / ўзбекчаپنجابیPolskiPortuguêsQaraqalpaqshaRomânăРусскийScotsShqipSicilianuسنڌيSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்తెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوTiếng ViệtWinaray吴语ייִדיש粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Unit of information
+This article is about the unit of information. For other uses, see Bit (disambiguation).
+
+
+
+Units ofinformation
+Information-theoretic
+shannon (base 2)
+nat (base e)
+hartley (base 10)
+
+Data storage
+bit (binary)
+trit (ternary)
+dit (decimal)
+
+Quantum information
+qubit (binary)
+qutrit (ternary)
+qudit (d-dimensional)
+vte
+The bit is the most basic unit of information in computing and digital communication. The name is a portmanteau of binary digit.[1] The bit represents a logical state with one of two possible values. These values are most commonly represented as either "1" or "0", but other representations such as true/false, yes/no, on/off, or +/− are also widely used.
+The relation between these values and the physical states of the underlying storage or device is a matter of convention, and different assignments may be used even within the same device or program. It may be physically implemented with a two-state device.
+A contiguous group of binary digits is commonly called a bit string, a bit vector, or a single-dimensional (or multi-dimensional) bit array. A group of eight bits is called one byte, but historically the size of the byte is not strictly defined.[2] Frequently, half, full, double and quadruple words consist of a number of bytes which is a low power of two. A string of four bits is usually a nibble.
+In information theory, one bit is the information entropy of a random binary variable that is 0 or 1 with equal probability,[3] or the information that is gained when the value of such a variable becomes known.[4][5] As a unit of information or negentropy, the bit is also known as a shannon,[6] named after Claude E. Shannon.  As a measure of the length of a digital string that is encoded as symbols over a 0-1 (binary) alphabet, the bit has been called a binit,[7] but this usage is now rare.[8]
+In data compression, the goal is to find a shorter representation for a string, so that it requires fewer bits when stored or transmitted; the string would be "compressed" into the shorter representation before doing so, and then "decompressed" into its original form when read from storage or received. The field of algorithmic information theory is devoted to the study of the "irreducible information content" of a string (i.e. its shortest-possible representation length, in bits), under the assumption that the receiver has minimal a priori knowledge of the method used to compress the string. In error detection and correction, the goal is to add redundant data to a string, to enable the detection and/or correction of errors during storage or transmission; the redundant data would be computed before doing so, and stored or transmitted, and then "checked" or "corrected" when the data is read or received.
+The symbol for the binary digit is either "bit", per the IEC 80000-13:2008 standard, or the lowercase character "b", per the IEEE 1541-2002 standard. Use of the latter may create confusion with the capital "B" which is the international standard symbol for the byte.
+
+
+History[edit]
+Ralph Hartley suggested the use of a logarithmic measure of information in 1928.[9] Claude E. Shannon first used the word "bit" in his seminal 1948 paper "A Mathematical Theory of Communication".[10][11][12] He attributed its origin to John W. Tukey, who had written a Bell Labs memo on 9 January 1947 in which he contracted "binary information digit" to simply "bit".[10]
+
+Physical representation [edit]
+A bit can be stored by a digital device or other physical system that exists in either of two possible distinct states. These may be the two stable states of a flip-flop, two positions of an electrical switch, two distinct voltage or current levels allowed by a circuit, two distinct levels of light intensity, two directions of magnetization or polarization, the orientation of reversible double stranded DNA, etc.
+Perhaps the earliest example of a binary storage device was the punched card invented by Basile Bouchon and Jean-Baptiste Falcon (1732), developed by Joseph Marie Jacquard (1804), and later adopted by Semyon Korsakov, Charles Babbage, Herman Hollerith, and early computer manufacturers like IBM. A variant of that idea was the perforated paper tape. In all those systems, the medium (card or tape) conceptually carried an array of hole positions; each position could be either punched through or not, thus carrying one bit of information. The encoding of text by bits was also used in Morse code (1844) and early digital communications machines such as teletypes and stock ticker machines (1870).
+The first electrical devices for discrete logic (such as elevator and traffic light control circuits, telephone switches, and Konrad Zuse's computer) represented bits as the states of electrical relays which could be either "open" or "closed". These relays functioned as mechanical switches, physically toggling between states to represent binary data, forming the fundamental building blocks of early computing and control systems. When relays were replaced by vacuum tubes, starting in the 1940s, computer builders experimented with a variety of storage methods, such as pressure pulses traveling down a mercury delay line, charges stored on the inside surface of a cathode-ray tube, or opaque spots printed on glass discs by photolithographic techniques.
+In the 1950s and 1960s, these methods were largely supplanted by magnetic storage devices such as magnetic-core memory, magnetic tapes, drums, and disks, where a bit was represented by the polarity of magnetization of a certain area of a ferromagnetic film, or by a change in polarity from one direction to the other. The same principle was later used in the magnetic bubble memory developed in the 1980s, and is still found in various magnetic strip items such as metro tickets and some credit cards.
+In modern semiconductor memory, such as dynamic random-access memory or a solid-state drive, the two values of a bit are represented by two levels of electric charge stored in a capacitor or a floating-gate MOSFET. In certain types of programmable logic arrays and read-only memory, a bit may be represented by the presence or absence of a conducting path at a certain point of a circuit. In optical discs, a bit is encoded as the presence or absence of a microscopic pit on a reflective surface. In one-dimensional bar codes and two-dimensional QR codes, bits are encoded as lines or squares which may be either black or white.
+In modern digital computing, bits are transformed in Boolean logic gates.
+
+Transmission and processing[edit]
+Bits are transmitted one at a time in serial transmission. By contrast, multiple bits are transmitted simultaneously in a parallel transmission. A serial computer processes information in either a bit-serial or a byte-serial fashion.  From the standpoint of data communications, a byte-serial transmission is an 8-way parallel transmission with binary signalling.
+In programming languages such as C, a bitwise operation operates on binary strings as though they are vectors of bits, rather than interpreting them as binary numbers.
+Data transfer rates are usually measured in decimal SI multiples.  For example, a channel capacity may be specified as 8 kbit/s = 8 kb/s = 1 kB/s.
+
+Storage[edit]
+File sizes are often measured in (binary) IEC multiples of bytes, for example 1 KiB = 1024 bytes = 8192 bits.  Confusion may arise in cases where (for historic reasons) filesizes are specified with binary multipliers using the ambiguous prefixes K, M, and G rather than the IEC standard prefixes Ki, Mi, and Gi.[13]
+Mass storage devices are usually measured in decimal SI multiples, for example 1 TB = 
+
+
+
+
+10
+
+12
+
+
+
+
+{\displaystyle 10^{12}}
+
+ bytes.  
+Confusingly, the storage capacity of a directly-addressable memory device, such as a DRAM chip, or an assemblage of such chips on a memory module, is specified as a binary multiple -- using the ambiguous prefix G rather than the IEC recommended Gi prefix.  For example, a DRAM chip that is specified (and advertised) as having "1 GB" of capacity has 
+
+
+
+
+2
+
+30
+
+
+
+
+{\displaystyle 2^{30}}
+
+ bytes of capacity.  As at 2022, the difference between the popular understanding of a memory system with "8 GB" of capacity, and the SI-correct meaning of "8 GB" was still causing difficulty to software designers.[14]
+
+Unit and symbol[edit]
+The bit is not defined in the International System of Units (SI). However, the International Electrotechnical Commission issued standard IEC 60027, which specifies that the symbol for binary digit should be 'bit', and this should be used in all multiples, such as 'kbit', for kilobit.[15] However, the lower-case letter 'b' is widely used as well and was recommended by the IEEE 1541 Standard (2002). In contrast, the upper case letter 'B' is the standard and customary symbol for byte.
+
+Multiple bits[edit]
+"MBit" redirects here. For the technical high school, see MBIT.
+
+
+Multiple-bit unitsvte
+
+
+
+
+
+Decimal
+
+
+Value
+
+Metric
+
+
+1000
+
+kbit
+kilobit
+
+
+10002
+
+Mbit
+megabit
+
+
+10003
+
+Gbit
+gigabit
+
+
+10004
+
+Tbit
+terabit
+
+
+10005
+
+Pbit
+petabit
+
+
+10006
+
+Ebit
+exabit
+
+
+10007
+
+Zbit
+zettabit
+
+
+10008
+
+Ybit
+yottabit
+
+
+10009
+
+Rbit
+ronnabit
+
+
+100010
+
+Qbit
+quettabit
+
+
+
+
+
+Binary
+
+
+Value
+
+IEC
+
+Memory
+
+
+1024
+
+Kibit
+kibibit
+
+Kbit
+Kb
+kilobit
+
+
+10242
+
+Mibit
+mebibit
+
+Mbit
+Mb
+megabit
+
+
+10243
+
+Gibit
+gibibit
+
+Gbit
+Gb
+gigabit
+
+
+10244
+
+Tibit
+tebibit
+
+—
+
+
+10245
+
+Pibit
+pebibit
+
+—
+
+
+10246
+
+Eibit
+exbibit
+
+—
+
+
+10247
+
+Zibit
+zebibit
+
+—
+
+
+10248
+
+Yibit
+yobibit
+
+—
+
+
+10249
+
+Ribit
+robibit
+
+—
+
+
+102410
+
+Qibit
+quebibit
+
+—
+
+
+
+Orders of magnitude of data
+
+Multiple bits may be expressed and represented in several ways. For convenience of representing commonly reoccurring groups of bits in information technology, several units of information have traditionally been used. The most common is the unit byte, coined by Werner Buchholz in June 1956, which historically was used to represent the group of bits used to encode a single character of text (until UTF-8 multibyte encoding took over) in a computer[2][16][17][18][19] and for this reason it was used as the basic addressable element in many computer architectures. By 1993, the trend in hardware design had converged on the 8-bit byte.[20]  However, because of the ambiguity of relying on the underlying hardware design, the unit octet was defined to explicitly denote a sequence of eight bits.
+Computers usually manipulate bits in groups of a fixed size, conventionally named "words". Like the byte, the number of bits in a word also varies with the hardware design, and is typically between 8 and 80 bits, or even more in some specialized computers. In the early 21st century, retail personal or server computers have a word size of 32 or 64 bits.
+The International System of Units defines a series of decimal prefixes for multiples of standardized units which are commonly also used with the bit and the byte. The prefixes kilo (103) through yotta (1024) increment by multiples of one thousand, and the corresponding units are the kilobit (kbit) through the yottabit (Ybit).
+
+See also[edit]
+Baud – Symbol rate measurement in telecommunications
+Binary numeral system – Number expressed in the base-2 numeral systemPages displaying short descriptions of redirect targets
+Bit rate – Information transmission rate expressed in bits per second
+Bitstream – Sequence of binary digits
+Entropy (information theory) – Expected amount of information needed to specify the output of a stochastic data source
+Fuzzy bit
+Integer (computer science) – Datum of integral data type
+Primitive data type – Extremely basic data type
+Qubit – Basic unit of quantum information (quantum bit)
+Shannon (unit) – Unit of information
+Ternary numeral system – Base-3 numeral system
+Trit (computing) – Base-3 numeral systemPages displaying short descriptions of redirect targets (Trinary digit)
+References[edit]
+
+
+^ Mackenzie, Charles E. (1980). Coded Character Sets, History and Development (PDF). The Systems Programming Series (1 ed.). Addison-Wesley Publishing Company, Inc. p. x. ISBN 978-0-201-14460-4. LCCN 77-90165. Archived (PDF) from the original on May 26, 2016. Retrieved August 25, 2019.
+
+^ a b Bemer, Robert William (2000-08-08). "Why is a byte 8 bits? Or is it?". Computer History Vignettes. Archived from the original on 2017-04-03. Retrieved 2017-04-03. […] With IBM's STRETCH computer as background, handling 64-character words divisible into groups of 8 (I designed the character set for it, under the guidance of Dr. Werner Buchholz, the man who DID coin the term "byte" for an 8-bit grouping). […] The IBM 360 used 8-bit characters, although not ASCII directly. Thus Buchholz's "byte" caught on everywhere. I myself did not like the name for many reasons. […]
+
+^ Anderson, John B.; Johnnesson, Rolf (2006), Understanding Information Transmission
+
+^ Haykin, Simon (2006), Digital Communications
+
+^ IEEE Std 260.1-2004
+
+^ "Units: B". Archived from the original on 2016-05-04.
+
+^ Breipohl, Arthur M. (1963-08-18). Adaptive Communication Systems. University of New Mexico. p. 7. Retrieved 2025-01-07.
+
+^ "binit". The Free Dictionary. Retrieved 2025-01-07.
+
+^ Abramson, Norman (1963). Information theory and coding. McGraw-Hill.
+
+^ a b Shannon, Claude Elwood (July 1948). "A Mathematical Theory of Communication" (PDF). Bell System Technical Journal. 27 (3): 379–423. doi:10.1002/j.1538-7305.1948.tb01338.x. hdl:11858/00-001M-0000-002C-4314-2. Archived from the original (PDF) on 1998-07-15 – via Bell Labs Computing and Mathematical Sciences Research. The choice of a logarithmic base corresponds to the choice of a unit for measuring information. If the base 2 is used the resulting units may be called binary digits, or more briefly bits, a word suggested by J. W. Tukey.
+
+^ Shannon, Claude Elwood (October 1948). "A Mathematical Theory of Communication". Bell System Technical Journal. 27 (4): 623–666. doi:10.1002/j.1538-7305.1948.tb00917.x. hdl:11858/00-001M-0000-002C-4314-2.
+
+^ Shannon, Claude Elwood; Weaver, Warren (1949). A Mathematical Theory of Communication (PDF). University of Illinois Press. ISBN 0-252-72548-4. Archived from the original (PDF) on 1998-07-15 – via Bell Labs Computing and Mathematical Sciences Research. {{cite book}}: ISBN / Date incompatibility (help)
+
+^ "UnitsPolicy - Ubuntu Wiki". Retrieved 2025-01-07.
+
+^ "Use MB/GB/TB suffix for VM memory input". Github Netbox Community. 2022. Retrieved 2025-01-08.
+
+^ National Institute of Standards and Technology (2008), Guide for the Use of the International System of Units. Online version. Archived 3 June 2016 at the Wayback Machine
+
+^ Buchholz, Werner (1956-06-11). "7. The Shift Matrix" (PDF). The Link System. IBM. pp. 5–6. Stretch Memo No. 39G. Archived (PDF) from the original on 2017-04-04. Retrieved 2016-04-04. […] Most important, from the point of view of editing, will be the ability to handle any characters or digits, from 1 to 6 bits long […] the Shift Matrix to be used to convert a 60-bit word, coming from Memory in parallel, into characters, or "bytes" as we have called them, to be sent to the Adder serially. The 60 bits are dumped into magnetic cores on six different levels. Thus, if a 1 comes out of position 9, it appears in all six cores underneath. […] The Adder may accept all or only some of the bits. […] Assume that it is desired to operate on 4 bit decimal digits, starting at the right. The 0-diagonal is pulsed first, sending out the six bits 0 to 5, of which the Adder accepts only the first four (0-3). Bits 4 and 5 are ignored. Next, the 4 diagonal is pulsed. This sends out bits 4 to 9, of which the last two are again ignored, and so on. […] It is just as easy to use all six bits in alphanumeric work, or to handle bytes of only one bit for logical analysis, or to offset the bytes by any number of bits. […]
+
+^ Buchholz, Werner (February 1977). "The Word "Byte" Comes of Age..." Byte Magazine. 2 (2): 144. […] The first reference found in the files was contained in an internal memo written in June 1956 during the early days of developing Stretch. A byte was described as consisting of any number of parallel bits from one to six. Thus a byte was assumed to have a length appropriate for the occasion. Its first use was in the context of the input-output equipment of the 1950s, which handled six bits at a time. The possibility of going to 8 bit bytes was considered in August 1956 and incorporated in the design of Stretch shortly thereafter. The first published reference to the term occurred in 1959 in a paper "Processing Data in Bits and Pieces" by G A Blaauw, F P Brooks Jr and W Buchholz in the IRE Transactions on Electronic Computers, June 1959, page 121. The notions of that paper were elaborated in Chapter 4 of Planning a Computer System (Project Stretch), edited by W Buchholz, McGraw-Hill Book Company (1962). The rationale for coining the term was explained there on page 40 as follows:Byte denotes a group of bits used to encode a character, or the number of bits transmitted in parallel to and from input-output units. A term other than character is used here because a given character may be represented in different applications by more than one code, and different codes may use different numbers of bits (ie, different byte sizes). In input-output transmission the grouping of bits may be completely arbitrary and have no relation to actual characters. (The term is coined from bite, but respelled to avoid accidental mutation to bit.)System/360 took over many of the Stretch concepts, including the basic byte and word sizes, which are powers of 2. For economy, however, the byte size was fixed at the 8 bit maximum, and addressing at the bit level was replaced by byte addressing. […]
+
+^ Blaauw, Gerrit Anne; Brooks, Jr., Frederick Phillips; Buchholz, Werner (1962), "Chapter 4: Natural Data Units" (PDF), in Buchholz, Werner (ed.), Planning a Computer System – Project Stretch, McGraw-Hill Book Company, Inc. / The Maple Press Company, York, PA., pp. 39–40, LCCN 61-10466, archived from the original (PDF) on 2017-04-03, retrieved 2017-04-03
+
+^ Bemer, Robert William (1959). "A proposal for a generalized card code of 256 characters". Communications of the ACM. 2 (9): 19–23. doi:10.1145/368424.368435. S2CID 36115735.
+
+^ "ISO/IEC 2382-1:1993(en) Information technology — Vocabulary — Part 1: Fundamental terms". p. 01.02.09. Retrieved 2025-01-08.
+
+
+External links[edit]
+
+
+
+Look up bit in Wiktionary, the free dictionary.
+
+Bit Calculator – a tool providing conversions between bit, byte, kilobit, kilobyte, megabit, megabyte, gigabit, gigabyte
+BitXByteConverter Archived 2016-04-06 at the Wayback Machine – a tool for computing file sizes, storage capacity, and digital information in various units
+vteUnits of informationPlatform-independent units
+bit
+hextet
+octet
+Platform-dependent units
+nibble
+byte
+syllable
+word
+Metric bit units
+kilobit
+megabit
+Metric byte units
+kilobyte
+megabyte
+gigabyte
+
+vteData typesUninterpreted
+Bit
+Byte
+Trit
+Tryte
+Word
+Bit array
+Numeric
+Arbitrary-precision or bignum
+Complex
+Decimal
+Fixed point
+Block floating point
+Floating point
+Reduced precision
+Minifloat
+Half precision
+bfloat16
+Single precision
+Double precision
+Quadruple precision
+Octuple precision
+Extended precision
+Long double
+Integer
+signedness
+Interval
+Rational
+Pointer
+Address
+physical
+virtual
+Reference
+Text
+Character
+String
+null-terminated
+Composite
+Algebraic data type
+generalized
+Array
+Associative array
+Class
+Dependent
+Equality
+Inductive
+Intersection
+List
+Object
+metaobject
+Option type
+Product
+Record or Struct
+Refinement
+Set
+Union
+tagged
+Other
+Boolean
+Bottom type
+Collection
+Enumerated type
+Exception
+Function type
+Opaque data type
+Recursive data type
+Semaphore
+Stream
+Strongly typed identifier
+Top type
+Type class
+Empty type
+Unit type
+Void
+Relatedtopics
+Abstract data type
+Boxing
+Data structure
+Generic
+Kind
+metaclass
+Parametric polymorphism
+Primitive data type
+Interface
+Subtyping
+Type constructor
+Type conversion
+Type system
+Type theory
+Variable
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bit&oldid=1287382974"
+Categories: Binary arithmeticPrimitive typesData typesUnits of informationHidden categories: CS1 errors: ISBN dateWebarchive template wayback linksArticles with short descriptionShort description is different from WikidataUse dmy dates from December 2020Pages displaying short descriptions of redirect targets via Module:Annotated link
+
+
+
+
+
+
+ This page was last edited on 25 April 2025, at 21:35 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+99 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

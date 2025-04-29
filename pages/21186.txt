@@ -1,0 +1,768 @@
+https://en.wikipedia.org/wiki/Embarrassingly_parallel
+
+
+
+
+Embarrassingly parallel - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Etymology
+
+
+
+
+
+
+
+
+2
+Examples
+
+
+
+
+
+
+
+
+3
+Implementations
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Embarrassingly parallel
+
+
+
+6 languages
+
+
+
+
+Español한국어MagyarРусскийУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Parallel computing, a problem which is able to be trivially divided into parallelized tasks
+In parallel computing, an embarrassingly parallel workload or problem (also called embarrassingly parallelizable, perfectly parallel, delightfully parallel or pleasingly parallel) is one where little or no effort is needed to split the problem into a number of parallel tasks.[1] This is due to minimal or no dependency upon communication between the parallel tasks, or for results between them.[2]
+These differ from distributed computing problems, which need communication between tasks, especially communication of intermediate results. They are easier to perform on server farms which lack the special infrastructure used in a true supercomputer cluster. They are well-suited to large, Internet-based volunteer computing platforms such as BOINC, and suffer less from parallel slowdown. The opposite of embarrassingly parallel problems are inherently serial problems, which cannot be parallelized at all.
+A common example of an embarrassingly parallel problem is 3D video rendering handled by a graphics processing unit, where each frame (forward method) or pixel (ray tracing method) can be handled with no interdependency.[3] Some forms of password cracking are another embarrassingly parallel task that is easily distributed on central processing units, CPU cores, or clusters.
+
+
+Etymology[edit]
+"Embarrassingly" is used here to refer to parallelization problems which are "embarrassingly easy".[4] The term may imply embarrassment on the part of developers or compilers: "Because so many important problems remain unsolved mainly due to their intrinsic computational complexity, it would be embarrassing not to develop parallel implementations of polynomial homotopy continuation methods."[5] The term is first found in the literature in a 1986 book on multiprocessors by MATLAB's creator Cleve Moler,[6] who claims to have invented the term.[7]
+An alternative term, pleasingly parallel, has gained some use, perhaps to avoid the negative connotations of embarrassment in favor of a positive reflection on the parallelizability of the problems: "Of course, there is nothing embarrassing about these programs at all."[8]
+
+Examples[edit]
+A trivial example involves serving static data. It would take very little effort to have many processing units produce the same set of bits. Indeed, the famous Hello World problem could easily be parallelized with few programming considerations or computational costs.
+Some examples of embarrassingly parallel problems include:
+
+Monte Carlo method[9]
+Distributed relational database queries using distributed set processing.
+Numerical integration[10]
+Bulk processing of unrelated files of similar nature in general, such as photo gallery resizing and conversion.
+The Mandelbrot set, Perlin noise and similar images, where each point is calculated independently.
+Rendering of computer graphics. In computer animation, each frame or pixel may be rendered independently (see: Parallel rendering).
+Some brute-force searches in cryptography.[11] Notable real-world examples include distributed.net and proof-of-work systems used in cryptocurrency.
+BLAST searches in bioinformatics with split databases.[12]
+Large scale facial recognition systems that compare thousands of arbitrary acquired faces (e.g., a security or surveillance video via closed-circuit television) with similarly large number of previously stored faces (e.g., a rogues gallery or similar watch list).[13]
+Computer simulations comparing many independent scenarios.
+Genetic algorithms.[14]
+Ensemble calculations of numerical weather prediction.
+Event simulation and reconstruction in particle physics.
+The marching squares algorithm.
+Sieving step of the quadratic sieve and the number field sieve.
+Tree growth step of the random forest machine learning technique.
+Discrete Fourier transform where each harmonic is independently calculated.
+Convolutional neural networks running on GPUs.
+Parallel search in constraint programming[15]
+Implementations[edit]
+In R (programming language) – The Simple Network of Workstations (SNOW) package implements a simple mechanism for using a set of workstations or a Beowulf cluster for embarrassingly parallel computations.[16] Similar R packages include "future", "parallel" and others.
+See also[edit]
+Amdahl's law defines value P, which would be almost or exactly equal to 1 for embarrassingly parallel problems.
+Cellular automaton
+Connection Machine
+CUDA framework
+Manycore processor
+Map (parallel pattern)
+Massively parallel
+Multiprocessing
+Parallel computing
+Process-oriented programming
+Shared-nothing architecture (SN)
+Symmetric multiprocessing (SMP)
+Vector processor
+References[edit]
+
+^ Herlihy, Maurice; Shavit, Nir (2012). The Art of Multiprocessor Programming, Revised Reprint (revised ed.). Elsevier. p. 14. ISBN 9780123977953. Retrieved 28 February 2016. Some computational problems are "embarrassingly parallel": they can easily be divided into components that can be executed concurrently.
+
+^ Section 1.4.4 of: Foster, Ian (1995). Designing and Building Parallel Programs. Addison–Wesley. ISBN 9780201575941. Archived from the original on 2011-03-01.
+
+^ Alan Chalmers; Erik Reinhard; Tim Davis (21 March 2011). Practical Parallel Rendering. CRC Press. ISBN 978-1-4398-6380-0.
+
+^ Matloff, Norman (2011). The Art of R Programming: A Tour of Statistical Software Design, p.347. No Starch. ISBN 9781593274108.
+
+^ Leykin, Anton; Verschelde, Jan; Zhuang, Yan (2006). "Parallel Homotopy Algorithms to Solve Polynomial Systems". Mathematical Software - ICMS 2006. Lecture Notes in Computer Science. Vol. 4151. pp. 225–234. doi:10.1007/11832225_22. ISBN 978-3-540-38084-9.
+
+^ Moler, Cleve (1986). "Matrix Computation on Distributed Memory Multiprocessors". In Heath, Michael T. (ed.). Hypercube Multiprocessors. Society for Industrial and Applied Mathematics, Philadelphia. ISBN 978-0898712094.
+
+^ The Intel hypercube part 2 reposted on Cleve's Corner blog on The MathWorks website
+
+^ Kepner, Jeremy (2009). Parallel MATLAB for Multicore and Multinode Computers, p.12. SIAM. ISBN 9780898716733.
+
+^ Erricos John Kontoghiorghes (21 December 2005). Handbook of Parallel Computing and Statistics. CRC Press. ISBN 978-1-4200-2868-3.
+
+^ Yuefan Deng (2013). Applied Parallel Computing. World Scientific. ISBN 978-981-4307-60-4.
+
+^ Josefsson, Simon; Percival, Colin (August 2016). "The scrypt Password-Based Key Derivation Function". tools.ietf.org. doi:10.17487/RFC7914. Retrieved 2016-12-12.
+
+^ Mathog, DR (22 September 2003). "Parallel BLAST on split databases". Bioinformatics. 19 (14): 1865–6. doi:10.1093/bioinformatics/btg250. PMID 14512366.
+
+^ How we made our face recognizer 25 times faster (developer blog post)
+
+^ Shigeyoshi Tsutsui; Pierre Collet (5 December 2013). Massively Parallel Evolutionary Computation on GPGPUs. Springer Science & Business Media. ISBN 978-3-642-37959-8.
+
+^ Youssef Hamadi; Lakhdar Sais (5 April 2018). Handbook of Parallel Constraint Reasoning. Springer. ISBN 978-3-319-63516-3.
+
+^ Simple Network of Workstations (SNOW) package
+
+
+External links[edit]
+
+
+
+Look up embarrassingly parallel in Wiktionary, the free dictionary.
+
+Embarrassingly Parallel Computations, Engineering a Beowulf-style Compute Cluster
+"Star-P: High Productivity Parallel Computing"
+vteParallel computingGeneral
+Distributed computing
+Parallel computing
+Massively parallel
+Cloud computing
+High-performance computing
+Multiprocessing
+Manycore processor
+GPGPU
+Computer network
+Systolic array
+Levels
+Bit
+Instruction
+Thread
+Task
+Data
+Memory
+Loop
+Pipeline
+Multithreading
+Temporal
+Simultaneous (SMT)
+Simultaneous and heterogenous
+Speculative (SpMT)
+Preemptive
+Cooperative
+Clustered multi-thread (CMT)
+Hardware scout
+Theory
+PRAM model
+PEM model
+Analysis of parallel algorithms
+Amdahl's law
+Gustafson's law
+Cost efficiency
+Karp–Flatt metric
+Slowdown
+Speedup
+Elements
+Process
+Thread
+Fiber
+Instruction window
+Array
+Coordination
+Multiprocessing
+Memory coherence
+Cache coherence
+Cache invalidation
+Barrier
+Synchronization
+Application checkpointing
+Programming
+Stream processing
+Dataflow programming
+Models
+Implicit parallelism
+Explicit parallelism
+Concurrency
+Non-blocking algorithm
+Hardware
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+MISD
+MIMD
+Dataflow architecture
+Pipelined processor
+Superscalar processor
+Vector processor
+Multiprocessor
+symmetric
+asymmetric
+Memory
+shared
+distributed
+distributed shared
+UMA
+NUMA
+COMA
+Massively parallel computer
+Computer cluster
+Beowulf cluster
+Grid computer
+Hardware acceleration
+APIs
+Ateji PX
+Boost
+Chapel
+HPX
+Charm++
+Cilk
+Coarray Fortran
+CUDA
+Dryad
+C++ AMP
+Global Arrays
+GPUOpen
+MPI
+OpenMP
+OpenCL
+OpenHMPP
+OpenACC
+Parallel Extensions
+PVM
+pthreads
+RaftLib
+ROCm
+UPC
+TBB
+ZPL
+Problems
+Automatic parallelization
+Deadlock
+Deterministic algorithm
+Embarrassingly parallel
+Parallel slowdown
+Race condition
+Software lockout
+Scalability
+Starvation
+
+ Category: Parallel computing
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Embarrassingly_parallel&oldid=1283012331"
+Categories: Applications of distributed computingDistributed computing problemsParallel computingHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 29 March 2025, at 22:35 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Embarrassingly parallel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1059 @@
+https://en.wikipedia.org/wiki/ILLIAC_IV
+
+
+
+
+ILLIAC IV - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Origins
+
+
+
+
+
+
+
+
+1.2
+SOLOMON
+
+
+
+
+
+
+
+
+1.3
+ILLIAC IV
+
+
+
+
+
+
+
+
+1.4
+Construction, problems
+
+
+
+
+
+
+
+
+1.5
+Move to Ames
+
+
+
+
+
+
+
+
+1.6
+Making it work
+
+
+
+
+
+
+
+
+1.7
+Aftermath
+
+
+
+
+
+
+
+
+
+
+2
+Description
+
+
+
+
+Toggle Description subsection
+
+
+
+
+
+2.1
+Physical arrangement
+
+
+
+
+
+
+
+
+2.2
+Processor details
+
+
+
+
+
+
+
+
+2.3
+Logical arrangement
+
+
+
+
+
+
+
+
+2.4
+Branches
+
+
+
+
+
+
+
+
+
+
+3
+Terminology
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+Notes
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+6.1
+Citations
+
+
+
+
+
+
+
+
+6.2
+Bibliography
+
+
+
+
+
+
+
+
+6.3
+Further reading
+
+
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+ILLIAC IV
+
+
+
+8 languages
+
+
+
+
+CatalàEspañolHrvatskiItaliano日本語PortuguêsСрпски / srpskiSuomi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+First massively parallel computer
+ILLIAC IV parallel computer's Control Unit (CU)
+The ILLIAC IV was the first massively parallel computer.[1] The system was originally designed to have 256 64-bit floating point units (FPUs) and four central processing units (CPUs) able to process 1 billion operations per second.[2] Due to budget constraints, only a single "quadrant" with 64 FPUs and a single CPU was built. Since the FPUs all processed the same instruction – ADD, SUB etc. – in modern terminology, the design would be considered to be single instruction, multiple data, or SIMD.[3]
+The concept of building a computer using an array of processors came to Daniel Slotnick while working as a programmer on the IAS machine in 1952. A formal design did not start until 1960, when Slotnick was working at Westinghouse Electric and arranged development funding under a US Air Force contract. When that funding ended in 1964, Slotnick moved to the University of Illinois Urbana–Champaign and joined the Illinois Automatic Computer (ILLIAC) team. With funding from Advanced Research Projects Agency (ARPA), they began the design of a newer concept with 256 64-bit processors instead of the original concept with 1,024 1-bit processors.
+While the machine was being assembled by Burroughs, the university began building a new facility to house it. Political tension over the funding from the US Department of Defense led to the ARPA and the university fearing for the machine's safety. When the first 64-processor quadrant of the machine was completed in 1972, it was sent to the NASA Ames Research Center in California. After three years of thorough modification to fix various flaws, ILLIAC IV was connected to the ARPANET for distributed use in November 1975, becoming the first network-available supercomputer, beating the Cray-1 by nearly 12 months.
+Running at half its design speed, the one-quadrant ILLIAC IV delivered 50 MFLOP peak,[4] making it the fastest computer in the world at that time. It is also credited with being the first large computer to use solid-state memory, as well as the most complex computer built to that date, with over 1 million gates.[5] Generally considered a failure due to massive budget overruns,[5][6] the design was instrumental in the development of new techniques and systems for programming parallel systems. In the 1980s, several machines based on ILLIAC IV concepts were successfully delivered.
+
+
+History[edit]
+Origins[edit]
+In June 1952, Daniel Slotnick began working on the IAS machine at the Institute for Advanced Study (IAS) at Princeton University.[7] The IAS machine featured a bit-parallel math unit that operated on 40-bit words.[8] Originally equipped with Williams tube memory, a magnetic drum from Engineering Research Associates was later added. This drum had 80 tracks so two words could be read at a time, and each track stored 1,024 bits.[9]
+While contemplating the drum's mechanism, Slotnik began to wonder if that was the correct way to build a computer. If the bits of a word were written serially to a single track, instead of in parallel across 40 tracks, then the data could be fed into a bit-serial computer directly from the drum bit-by-bit. The drum would still have multiple tracks and heads, but instead of gathering up a word and sending it to a single ALU, in this concept the data on each track would be read a bit at a time and sent into parallel ALUs. This would be a word-parallel, bit-serial computer.[7]
+Slotnick raised the idea at the IAS, but John von Neumann dismissed it as requiring "too many tubes".[7] Slotnick left the IAS in February 1954 to return to school for his PhD and the matter was forgotten.[7]
+
+SOLOMON[edit]
+After completing his PhD and some post-doc work, Slotnick ended up at IBM. By this time, for scientific computing at least, tubes and drums had been replaced with transistors and magnetic-core memory. The idea of parallel processors working on different streams of data from a drum no longer had the same obvious appeal. Nevertheless, further consideration showed that parallel machines could still offer significant performance in some applications; Slotnick and a colleague, John Cocke (better known as the inventor of RISC), wrote a paper on the concept in 1958.[10]
+After a short time at IBM and then another at Aeronca Aircraft, Slotnick ended up at Westinghouse's Air Arm division, which worked on radar and similar systems.[11] Under a contract from the US Air Force's RADC, Slotnik was able to build a team to design a system with 1,024 bit-serial ALUs, known as "processing elements" or PE's. This design was given the name SOLOMON, after King Solomon, who was both very wise and had 1,000 wives.[12]
+The PE's would be fed instructions from a single master central processing unit (CPU), the "control unit" or CU. SOLOMON's CU would read instructions from memory, decode them, and then hand them off to the PE's for processing. Each PE had its own memory for holding operands and results, the PE Memory module, or PEM. The CU could access the entire memory via a dedicated memory bus, whereas the PE's could only access their own PEM.[13] To allow results from one PE to be used as inputs in another, a separate network connected each PE to its eight closest neighbours.[14]
+Several testbed systems were constructed, including a 3-by-3 (9 PE) system and a 10-by-10 model with simplified PEs. During this period, some consideration was given to more complex PE designs, becoming a 24-bit parallel system that would be organized in a 256-by-32 arrangement. A single PE using this design was built in 1963. As the design work continued, the primary sponsor within the US Department of Defense was killed in an accident and no further funding was forthcoming.[15]
+Looking to continue development, Slotnik approached Livermore, who at that time had been at the forefront of supercomputer purchases. They were very interested in the design but convinced him to upgrade the current design's fixed-point math units to true floating point, which resulted in the SOLOMON.2 design.[16]
+Livermore would not fund development, instead, they offered a contract in which they would lease the machine once it was completed. Westinghouse management considered it too risky, and shut down the team. Slotnik left Westinghouse attempting to find venture capital to continue the project, but failed. Livermore would later select the CDC STAR-100 for this role, as CDC was willing to take on the development costs.[17]
+
+ILLIAC IV[edit]
+When SOLOMON ended, Slotnick joined the Illinois Automatic Computer design (ILLIAC) team at the University of Illinois at Urbana-Champaign. Illinois had been designing and building large computers for the U.S. Department of Defense and the Advanced Research Projects Agency (ARPA) since 1949. In 1964 the university signed a contract with ARPA to fund the effort, which became known as ILLIAC IV, since it was the fourth computer designed and created at the university. Development started in 1965, and a first-pass design was completed in 1966.[18]
+In contrast to the bit-serial concept of SOLOMON, in ILLIAC IV the PE's were upgraded to be full 64-bit (bit-parallel) processors, using 12,000 gates and 2048-words of thin-film memory.[19] The PEs had five 64-bit registers, each with a special purpose. One of these, RGR, was used for communicating data to neighbouring PEs, moving one "hop" per clock cycle. Another register, RGD, indicated whether or not that PE was currently active. "Inactive" PEs could not access memory, but they would pass results to neighbouring PEs using the RGR.[14] The PEs were designed to work as a single 64-bit FPU, two 32-bit half-precision FPUs, or eight 8-bit fixed-point processors.[19]
+Instead of 1,024 PEs and a single CU, the new design had a total of 256 PEs arranged into four 64-PE "quadrants", each with its own CU. The CU's were also 64-bit designs, with sixty-four 64-bit registers and another four 64-bit accumulators. The system could run as four separate 64-PE machines, two 128-PE machines, or a single 256-PE machine. This allowed the system to work on different problems when the data was too small to demand the entire 256-PE array.[19]
+Based on a 25 MHz clock, with all 256-PEs running on a single program, the machine was designed to deliver 1 billion floating point operations per second, or in today's terminology, 1 GFLOPS.[20] This made it much faster than any machine in the world; the contemporary CDC 7600 had a clock cycle of 27.5 nanoseconds, or 36 MIPS,[21] although for a variety of reasons it generally offered performance closer to 10 MIPS.[22][a]
+To support the machine, an extension to the Digital Computer Laboratory buildings were constructed.[23][24] Sample work at the university was primarily aimed at ways to efficiently fill the PEs with data, thus conducting the first "stress test" in computer development. In order to make this as easy as possible, several new computer languages were created; IVTRAN and TRANQUIL were parallelized versions of FORTRAN, and Glypnir was a similar conversion of ALGOL. Generally, these languages provided support for loading arrays of data "across" the PEs to be executed in parallel, and some even supported the unwinding of loops into array operations.[25]
+
+Construction, problems[edit]
+In early 1966, the university sent out a request for proposals looking for industrial partners interested in building the design. Seventeen responses were received in July, seven responded, and of these three were selected.[26] Several of the responses, including Control Data, attempted to interest them in a vector processor design instead, but as these were already being designed the team was not interested in building another. In August 1966,[b] eight-month contracts were offered to RCA, Burroughs, and Univac to bid on the construction of the machine.[19]
+Burroughs eventually won the contract, having teamed up with Texas Instruments (TI). Both offered new technical advances that made their bid the most interesting. Burroughs was offering to build a new and much faster version of thin-film memory which would improve performance. TI was offering to build 64-pin emitter-coupled logic (ECL) integrated circuits (ICs) with 20 logic gates each.[c] At the time, most ICs used 16-pin packages and had between 4 and 7 gates. Using TI's ICs would make the system much smaller.[19]
+Burroughs also supplied the specialized disk drives, which featured a separate stationary head for every track and could offer speeds up to 500 Mbit/s and stored about 80 MB per 36" disk. They would also provide a Burroughs B6500 mainframe to act as a front-end controller, loading data from secondary storage and performing other housekeeping tasks. Connected to the B6500 was a 3rd party laser optical recording medium, a write-once system that stored up to 1 Tbit on thin metal film coated on a strip of polyester sheet carried by a rotating drum. Construction of the new design began at Burroughs' Great Valley Lab.[13] At the time, it was estimated the machine would be delivered in early 1970.[27]
+After a year of working on the ICs, TI announced they had failed to be able to build the 64-pin designs. The more complex internal wiring was causing crosstalk in the circuitry, and they asked for another year to fix the problems. Instead, the ILLIAC team chose to redesign the machine based on available 16-pin ICs. This required the system to run slower, using a 16 MHz clock instead of the original 25 MHz.[28] The change from 64-pin to 16-pin cost the project about two years, and millions of dollars. TI was able to get the 64-pin design working after just over another year, and began offering them on the market before ILLIAC was complete.[28]
+As a result of this change, the individual PC boards grew about 1 inch (2.5 cm) square to about 6 by 10 inches (15 cm × 25 cm). This doomed Burroughs' efforts to produce a thin-film memory for the machine, because there was now no longer enough space for the memory to fit within the design's cabinets. Attempts to increase the size of the cabinets to make room for the memory caused serious problems with signal propagation.[29] Slotnick surveyed the potential replacements and picked a semiconductor memory from Fairchild Semiconductor, a decision that was so opposed by Burroughs that a full review by ARPA followed.[19]
+In 1969, these problems, combined with the resulting cost overruns from the delays, led to the decision to build only a single 64-PE quadrant,[19] thereby limiting the machine's speed to about 200 MFLOPS.[30] Together, these changes cost the project three years and $6 million.[19] By 1969, the project was spending $1 million a month, and had to be spun out of the original ILLIAC team who were becoming increasingly vocal in their opposition to the project.[31]
+
+Move to Ames[edit]
+By 1970, the machine was finally being built at a reasonable rate and it was being readied for delivery in about a year. On 6 January 1970, The Daily Illini, the student newspaper, claimed that the computer would be used to design nuclear weapons.[32] In May, the Kent State shootings took place, and anti-war violence erupted across university campuses.[31]
+Slotnick grew to be opposed to the use of the machine on classified research, and announced that as long as it was on the university grounds that all processing that took place on the machine would be publicly released. He also grew increasingly concerned that the machine would be subject to attack by the more radical student groups.[31] a position that seemed wise after the local students joined the 9 May 1970 nationwide student strike by declaring a "day of Illiaction",[33] and especially the 24 August bombing of the mathematics building at the University of Wisconsin–Madison.[34]
+With the help of Hans Mark, the director of the NASA Ames Research Center in what was becoming Silicon Valley, in January 1971 the decision was made to deliver the machine to Ames rather than the university. Located on an active US Navy base and protected by the U.S. Marines, security would no longer be a concern. The machine was finally delivered to Ames in April 1972, and installed in the Central Computer Facility in building N-233.[35] By this point it was several years late and well over budget at a total price of $31 million, almost four times the original estimate of $8 million for the complete 256-PE machine.[31][2][d][e]
+NASA also decided to replace the B6500 front-end machine with a PDP-10, which were in common use at Ames and would make it much easier to connect to the ARPAnet.[36] This required the development of new software, especially compilers, on the PDP-10. This caused further delays in bringing the machine online.[31]
+The Illiac IV was contracted to be managed by ACTS Computing Corporation headquartered in Southfield, MI, a Timesharing and Remote Job Entry (RJE) company that had recently been acquired by the conglomerate, Lear Siegler Corporation. The DoD contracted with ACTS under a cost plus 10% contract. This unusual arrangement was due to the constraint that no government employee could be paid more than a Congress person and many Illiac IV personnel made more than that limit. Dr. Mel Pirtle, with a background from the University of California, Berkeley and the Berkeley Computer Corporation (BCC) was engaged as the Illiac IV's director.
+
+Making it work[edit]
+ILLIAC IV Processing Unit on display in Computer History Museum
+When the machine first arrived, it could not be made to work. It suffered from all sorts of problems from cracking PCBs, to bad resistors, to the packaging of the TI ICs being highly sensitive to humidity. These issues were slowly addressed, and by the summer of 1973 the first programs were able to be run on the system although the results were highly questionable. Starting in June 1975, a concerted four-month effort began that required, among other changes, replacing 110,000 resistors, rewiring parts to fix propagation delay issues, improving filtering in the power supplies, and a further reduction in clock speed to 13 MHz. At the end of this process, the system was finally working properly.[31][2]
+From then on, the system ran Monday morning to Friday afternoon, providing 60 hours of up-time for the users, but requiring 44 hours of scheduled downtime.[2] Nevertheless, it was increasingly used as NASA programmers learned ways to get performance out of the complex system. At first, performance was dismal, with most programs running at about 15 MFLOPS, about three times the average for the CDC 7600.[37] Over time this improved, notably after Ames programmers wrote their own version of FORTRAN, CFD, and learned how to parallel I/O into the limited PEMs. On problems that could be parallelized the machine was still the fastest in the world, outperforming the CDC 7600 by two to six times, and it is generally credited as the fastest machine in the world until 1981.[31]
+On 7 September 1981, after nearly 10 years of operation, the ILLIAC IV was turned off.[38] The machine was officially decommissioned in 1982, and NASA's advanced computing division ended with it. One control unit and one processing element chassis from the machine is now on display at the Computer History Museum in Mountain View, less than a mile from its operational site.[39]
+
+Aftermath[edit]
+ILLIAC was very late, very expensive, and never met its goal of producing 1 GFLOP. It was widely considered a failure even by those who worked on it; one stated simply that "any impartial observer has to regard Illiac IV as a failure in a technical sense."[40] In terms of project management it is widely regarded as a failure, running over its cost estimates by four times and requiring years of remedial efforts to make it work. As Slotnik himself later put it:
+
+I'm bitterly disappointed, and very pleased... delighted and dismayed. Delighted that the overall objectives came out well in the end. Dismayed that it cost too much, took too long, doesn't do enough, and not enough people are using it.[41]
+However, later analyses note that the project had several long-lasting effects on the computer market as a whole, both intentionally and unintentionally.[42]
+Among the indirect effects was the rapid update of semiconductor memory after the ILLIAC project. Slotnick received a lot of criticism when he chose Fairchild Semiconductor to produce the memory ICs, as at the time the production line was an empty room and the design existed only on paper.[43] However, after three months of intense effort, Fairchild had a working design being produced en masse. As Slotnick would later comment, "Fairchild did a magnificent job of pulling our chestnuts out of the fire. The Fairchild memories were superb and their reliability to this day is just incredibly good."[29] ILLIAC is considered to have dealt a death blow to magnetic-core memory and related systems like thin-film.[29]
+Another indirect effect was caused by the complexity of the printed circuit boards (PCBs), or modules. At the original 25 MHz design speed, impedance in the ground wiring proved to be a serious problem, demanding that the PCBs be as small as possible. As their complexity grew, the PCBs had to add more and more layers in order to avoid growing larger. Eventually, they reached 15-layers deep, which proved to be well beyond the capabilities of draftsmen. The design was ultimately completed using new automated design tools provided by a subcontractor, and the complete design required two years of computer time on a Burroughs mainframe. This was a major step forward in computer aided design, and by the mid-1970s such tools were commonplace.[44]
+ILLIAC also led to major research into the topic of parallel processing that had wide-ranging effects. During the 1980s, with the price of microprocessors falling according to Moore's Law, a number of companies created MIMD (Multiple Instruction, Multiple Data) to build even more parallel machines, with compilers that could make better use of the parallelism. The Thinking Machines CM-5 is an excellent example of the MIMD concept. It was the better understanding of parallelism on ILLIAC that led to the improved compilers and programs that could take advantage of these designs. As one ILLIAC programmer put it, "If anybody builds a fast computer out of a lot of microprocessors, Illiac IV will have done its bit in the broad scheme of things."[45]
+Most supercomputers of the era took another approach to higher performance, using a single very-high-speed vector processor. Similar to the ILLIAC in some ways, these processor designs loaded up many data elements into a single custom processor instead of a large number of specialized ones. The classic example of this design is the Cray-1, which had performance similar to the ILLIAC. There was more than a little "backlash" against the ILLIAC design as a result, and for some time the supercomputer market looked on massively parallel designs with disdain, even when they were successful. As Seymour Cray famously quipped, "If you were plowing a field, which would you rather use? Two strong oxen or 1024 chickens?"[46]
+
+Description[edit]
+Physical arrangement[edit]
+Each quadrant of the machine was 10 feet (3 m) high, 8 feet (2.4 m) deep and 50 feet (15 m) long.[47] Arranged beside the quadrant was its input/output (I/O) system, whose disk system stored 2.5 GiB and could read and write data at 1 billion bits per second, along with the B6700 computer that connected to the machine through the same 1,024-bit-wide interface as the disk system.[48]
+The machine consisted of a series of carrier chassis holding a number of the small modules. The majority of these were the Processing Units (PUs), which contained the modules for a single PE, its PEM, and the Memory Logic Unit that handled address translation and I/O. The PUs were identical, so they could be replaced or reordered as required.[49]
+
+Processor details[edit]
+Each CU had about 30 to 40,000 gates.[50] The CU had sixteen 64-bit registers and a separate sixty-four slot 64-bit "scratchpad", LDB. There were four accumulators, AC0 through AC3, a program counter ILR, and various control registers. The system had a short instruction pipeline and implemented instruction look ahead.[51]
+The PEs had about 12,000 gates.[50] It included four 64-bit registers, using an accumulator A, an operand buffer B and a secondary scratchpad S. The fourth, R, was used to broadcast or receive data from the other PEs.[52] The PEs used a carry-lookahead adder, a leading-one detector for Boolean operations, and a barrel shifter. 64-bit additions took about 200 ns and multiplications about 400 ns. The PE's were connected to a private memory bank, the PEM, which held 2,048 64-bit words. Access time was on the order of 250 ns[53] The PEs used a load/store architecture.[54]
+The instruction set (ISA) contained two separate sets of instructions, one for the CU (or a unit within it, ADVAST) and another for the PEs. Instructions for the PEs were not decoded, and instead sent directly to the FINST register to be sent to the PEs to process. The ADVAST instructions were decoded and entered the CU's processing pipeline.[55]
+
+Logical arrangement[edit]
+Each quadrant contained 64 PEs and one CU. The CU had access to the entire I/O bus and could address all of the machine's memory. The PEs could only access their own local store, the PEM, of 2,048 64-bit words. Both the PEs and CU could use load and store operations to access the disk system.[48]
+The cabinets were so large that it required 240 ns for signals to travel from one end to the other. For this reason, the CU could not be used to coordinate actions, instead, the entire system was clock-synchronous with all operations in the PEs guaranteed to take the same amount of time no matter what the operands were. That way the CU could be sure that the operations were complete without having to wait for results or status codes.[47]
+To improve the performance of operations that required the output of one PE's results to be used as the input to another PE, the PEs were connected directly to their neighbours, as well as the ones eight-steps away - for instance, PE1 was directly connected to PE0 and PE2, as well as PE9 and PE45. The eight-away connections allowed faster transport when the data needed to travel between more distant PEs.[48] Each shift of data moved 64-words in a single 125 ns clock cycle.[47]
+The system used a one-address format, in which the instructions included the address of one of the operands and the other operand was in the PE's accumulator (the A register). The address was sent to the PE's over a separate "broadcast" bus. Depending on the instruction, the value on the bus might refer to a memory location in the PE's PEM, a value in one of the PE registers, or a numeric constant.[56]
+Since each PE had its own memory, while the instruction format and the CUs saw the entire address space, the system included an index register (X) to offset the base address. This allowed, for example, the same instruction stream to work on data that was not aligned in the same locations in different PEs. The common example would be an array of data that was loaded into different locations in the PEMs, which could then be made uniform by setting the index in the different PEs.[56]
+
+Branches[edit]
+In traditional computer designs, instructions are loaded into the CPU one at a time as they are read from memory. Normally, when the CPU completes processing an instruction, the program counter (PC) is incremented by one word and the next instruction is read. This process is interrupted by branches, which causes the PC to jump to one of two locations depending on a test, like whether a given memory address holds a non-zero value. In the ILLIAC design, each PE would be applying this test to different values, and thus have different outcomes. Since those values are private to the PE, the following instructions would need to be loaded based on a value only the PE knew.[57]
+To avoid the delays reloading the PE instructions would cause, the ILLIAC loaded the PEMs with the instructions on both sides of the branch. Logical tests did not change the PC, instead, they set "mode bits" that told the PE whether or not to run the next arithmetic instruction. To use this system, the program would be written so that one of the two possible instruction streams followed the test, and ended with an instruction to invert the bits. Code for the second branch would then follow, ending with an instruction to set all the bits to 1.[57]
+If the test selected the "first" branch, that PE would continue on as normal. When it reached the end of that code, the mode operator instruction would flip the mode bits, and from then on that PE would ignore further instructions. This would continue until it reached the end of the code for the second branch, where the mode reset instruction would turn the PE back on. If a particular PE's test resulted in the second branch being taken, it would instead set the mode bits to ignore further instructions until it reached the end of the first branch, where the mode operator would flip the bits and cause the second branch to begin processing, once again turning them all on at the end of that branch.[57]
+Since the PEs can operate in 64-, 32- and 8-bit modes, the mode flags had multiple bits so the individual words could be turned on or off. For instance, in the case when the PE was operating in 32-bit mode, one "side" of the PE might have the test come out true while the other side was false.[57]
+
+Terminology[edit]
+CU: control unit
+CPU: central processing unit
+ISA: instruction set architecture
+MAC: multiply-and-accumulate
+PC: program counter
+PE: processing element
+PEM: processing element memory module
+PU: processing unit
+See also[edit]
+Amdahl's law, which suggests there are limits to the performance increase of parallel computers
+ILLIAC III, a special-purpose SIMD machine built around the same time as ILLIAC IV
+Parallel Element Processing Ensemble, another massively-parallel Burroughs machine, this one a Bell Labs design
+Bull Gamma 60, an early parallel computer released in 1960
+Notes[edit]
+
+
+^ Note that the term "FLOP" was not widely used at this time, MIPS and FLOPS were synonymous.
+
+^ Chen says July.[26]
+
+^ Later known as medium scale integration.
+
+^ Slotnick, and others, have claimed the original $8 million estimate was an ad hoc number that was the same as the purse in the Clay-Liston fight.[2]
+
+^ It was being developed during a period of historically high inflation rates, and at least some of the increase in the price is attributable to those increases.[2]
+
+
+References[edit]
+Citations[edit]
+
+
+^ Hord 1982, p. 1.
+
+^ a b c d e f Hord 1982, p. 14.
+
+^ Hord 1982, p. 5.
+
+^ Hockney & Jesshope 1988, p. 24.
+
+^ a b Hord 1982, p. 8.
+
+^ Hockney & Jesshope 1988, p. 25.
+
+^ a b c d Slotnick 1982, p. 20.
+
+^ Ware, W.H. (10 March 1953). History and Development of the IAS Computer (PDF) (Technical report). Rand.
+
+^ MacKenzie 1998, p. 295.
+
+^ Slotnick 1982, p. 21.
+
+^ Slotnick 1982, pp. 21–22.
+
+^ MacKenzie 1998, p. 105.
+
+^ a b Bouknight et al. 1972, p. 371.
+
+^ a b Slotnick 1982, p. 23.
+
+^ Slotnick 1982, p. 24.
+
+^ MacKenzie 1998, p. 118.
+
+^ MacKenzie 1998, p. 119.
+
+^ Slotnick 1982, p. 25.
+
+^ a b c d e f g h Slotnick 1982, p. 26.
+
+^ Barnes et al. 1968, p. 746.
+
+^ Levesque, John; Williamson, Joel (2014). A Guidebook to Fortran on Supercomputers. Academic Press. p. 14.
+
+^ Parkinson, Dennis (17 June 1976). "Computers by the thousand". New Scientist. p. 626.
+
+^ Hord 1982, p. 9.
+
+^ Leetaru, Kalev (2010). "Digital Computer Laboratory / DCL". UI Histories/University of Illinois.
+
+^ Hord 1982, p. 15.
+
+^ a b Chen 1967, p. 3.
+
+^ Barnes et al. 1968, p. 747.
+
+^ a b Hord 1982, p. 11.
+
+^ a b c Falk 1976, p. 67.
+
+^ Burroughs 1974, p. 3.
+
+^ a b c d e f g Slotnick 1982, p. 27.
+
+^ Falk 1976, p. 65.
+
+^ "Byte of History: Computing at the University of Illinois". University of Illinois. March 1997. Archived from the original on 10 June 2007.
+
+^ "Sterling Hall Bombing of 1970". University of Wisconsin–Madison.
+
+^ "Scientific Information Bulletin" (PDF). Office of Naval Research Asian Office. December 1993. p. 51. Archived (PDF) from the original on September 24, 2015. Retrieved March 25, 2024.
+
+^ Hord 1982, p. 7.
+
+^ Falk 1976, p. 69.
+
+^ 'This Day in History: September 7', Computer History Museum
+
+^ "ILLIAC IV control unit". Computer History Museum.
+
+^ Falk 1976, p. 68.
+
+^ Hord 1990, p. 9.
+
+^ Hord 1990, p. 10.
+
+^ Hord 1990, p. 12.
+
+^ Hord 1990, p. 13.
+
+^ Falk 1976, p. 66.
+
+^ Robbins, Kay; Robbins, Steven (2003). UNIX Systems Programming: Communication, Concurrency, and Threads. Prentice Hall. p. 582. ISBN 9780130424112.
+
+^ a b c Burroughs 1974, p. 5.
+
+^ a b c Burroughs 1974, p. 4.
+
+^ Burroughs 1974, pp. 11–12.
+
+^ a b Chen 1967, p. 9.
+
+^ Technical 1968, p. 2.10.
+
+^ Technical 1968, p. 2.7.
+
+^ Technical 1968, p. 2.8.
+
+^ Technical 1968, p. 2.11.
+
+^ Technical 1968, p. 2.12.
+
+^ a b Burroughs 1974, p. 7.
+
+^ a b c d Burroughs 1974, p. 6.
+
+
+Bibliography[edit]
+MacKenzie, Donald (1998). Knowing Machines: Essays on Technical Change. MIT Press. Bibcode:1998kmet.book.....M.
+Slotnick, Daniel (January 1982). "The Conception and Development of Parallel Processors - A Personal Memoir". Annals of the History of Computing. 4 (1): 20–30. doi:10.1109/mahc.1982.10003. S2CID 16500220.
+Barnes, George; Brown, Richard; Kato, Maso; Kuck, David; Slotnick, Daniel; Stokes, Richard (August 1968). "The ILLIAC IV Computer" (PDF). IEEE Transactions on Computers. C.17 (8): 746–757. doi:10.1109/tc.1968.229158. S2CID 206617237.
+Hockney, R.W; Jesshope, C.R (1988). Parallel Computers 2: Architecture, Programming and Algorithms. CRC Press. p. 25. ISBN 9780852748114.
+Bouknight, W.J.; Denenberg, Stewart; McIntyre, David; Randall, J.M.; Sameh, Amed; Slotnick, Daniel (April 1972). "The Illiac IV System" (PDF). Proceedings of the IEEE. 60 (4): 369–388. doi:10.1109/proc.1972.8647.
+ILLIAC IV (PDF). Burroughs. 1974.
+Chen, Tie Chi (1 May 1967). A Description of the ILLIAC IV (PDF) (Technical report). IBM.
+ILLIAC IV Technical Summary (PDF) (Technical report). Burroughs. 22 April 1968.
+Falk, Howard (October 1976). "Reaching for a gigaflop". IEEE Spectrum. 13 (10): 65–70. doi:10.1109/mspec.1976.6367550. S2CID 6451271.
+Hord, R. Michael (1990). Parallel Supercomputing in SIMD Architectures. CRC Press. ISBN 978-0-8493-4271-4.
+Hord, R. Michael (1982). The Illiac IV: The First Supercomputer. Springer-Verlag. ISBN 9783662103456.
+Further reading[edit]
+ILLIAC IV CFD Archived 2022-07-02 at the Wayback Machine
+ILLIAC IV
+External links[edit]
+ILLIAC IV documentation at bitsavers.org
+Oral history interview with Ivan Sutherland, Charles Babbage Institute, University of Minnesota. Sutherland describes his tenure from 1963 to 1965 as head of the Information Processing Techniques Office (IPTO) and new initiatives such as ILLIAC IV.
+The Legacy of Illiac IV panel discussion at Computer History Museum, June 24, 1997.
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ILLIAC_IV&oldid=1286007893"
+Categories: Massively parallel computersOne-of-a-kind computersParallel computingSupercomputersHidden categories: Articles with short descriptionShort description matches WikidataWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 17 April 2025, at 03:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+ILLIAC IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

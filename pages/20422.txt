@@ -1,0 +1,907 @@
+https://en.wikipedia.org/wiki/Digital_media
+
+
+
+
+Digital media - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Examples
+
+
+
+
+
+
+
+
+2
+Business model
+
+
+
+
+
+
+
+
+3
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+3.1
+Digital computers
+
+
+
+
+
+
+
+
+3.2
+"As We May Think"
+
+
+
+
+
+
+
+
+
+
+4
+Impact
+
+
+
+
+Toggle Impact subsection
+
+
+
+
+
+4.1
+The digital revolution
+
+
+
+
+
+
+
+
+4.2
+Disruption in industry
+
+
+
+
+
+
+
+
+4.3
+Individual as content creator
+
+
+
+
+
+
+
+
+4.4
+Web-only news
+
+
+
+
+
+
+
+
+4.5
+Copyright challenges
+
+
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital media
+
+
+
+37 languages
+
+
+
+
+AfrikaansالعربيةAzərbaycancaবাংলাБеларускаяБългарскиBosanskiDanskDeutschEspañolفارسیGaeilge한국어हिन्दीBahasa IndonesiaעבריתქართულიҚазақшаBahasa Melayu日本語Norsk bokmålОлык марийپنجابیPolskiPortuguêsRuna SimiSimple EnglishکوردیСрпски / srpskiSuomiதமிழ்Татарча / tatarçaไทยTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Any that are encoded in machine-readable formats
+Hard drives store information in binary form and so are considered a type of physical digital media.
+In mass communication, digital media is any communication media that operates in conjunction with various encoded machine-readable data formats. Digital content can be created, viewed, distributed, modified, listened to, and preserved on a digital electronic device, including digital data storage media (in contrast to analog electronic media) and digital broadcasting. Digital is defined as any data represented by a series of digits, and media refers to methods of broadcasting or communicating this information. Together, digital media refers to mediums of digitized information broadcast through a screen and/or a speaker.[1] This also includes text, audio, video, and graphics that are transmitted over the internet for viewing or listening to on the internet.[2]
+Digital media platforms, such as YouTube, Kick, and Twitch, accounted for viewership rates of 27.9 billion hours in 2020.[3] A contributing factor to its part in what is commonly referred to as the digital revolution can be attributed to the use of interconnectivity.[4]
+
+
+Examples[edit]
+Examples of digital media include software, digital images, digital video, video games, web pages and websites, social media, digital data and databases, digital audio such as MP3, electronic documents and electronic books. Digital media often contrasts with print media, such as printed books, newspapers and magazines, and other traditional or analog media, such as photographic film, audio tapes or video tapes.
+Digital media has had a significantly broad and complex impact on society and culture. Combined with the Internet and personal computing, digital media has caused disruptive innovation in publishing, journalism, public relations, entertainment, education, commerce and politics. Digital media has also posed new challenges to copyright and intellectual property laws, fostering an open content movement in which content creators voluntarily give up some or all of their legal rights to their work. The ubiquity of digital media and its effects on society suggest that we are at the start of a new era in industrial history, called the Information Age, perhaps leading to a paperless society in which all media are produced and consumed on computers.[5] However, challenges to a digital transition remain, including outdated copyright laws, censorship, the digital divide, and the spectre of a digital dark age, in which older media becomes inaccessible to new or upgraded information systems.[6] Digital media has a significant, wide-ranging and complex impact on society and culture.[5]
+
+Business model[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Digital media" – news · newspapers · books · scholar · JSTOR (June 2023) (Learn how and when to remove this message)
+"Triple-product" business model of digital media platforms.[7]
+Digital media platforms like YouTube work through a triple-product business model in which platforms provide information and entertainment (infotainment) to the public often at no cost, while simultaneously capturing their attention, and also collecting user data to sell to advertisers.[7] This business model aims to maximize consumer engagement on the platform. 
+
+Paid Media
+Paid media refers to promotional channels that marketers pay to use, including traditional media (e.g., television, radio, print, or outdoor advertising), online and digital media (e.g., paid search ads, web and social media display ads, mobile ads, or email marketing). This model compels businesses to develop sponsored media then pay social media platforms like Instagram for the right to show such media to customers in the platforms' newsfeeds. These customers become exposed to paid media, sometimes referred to as promoted or sponsored posts.[8]
+
+Owned Media
+Owned media refers to digital assets and channels that a company or individual controls and manages. This includes websites, social media profiles for example Facebook etc., blogs, and any other content platforms own and operated by the entity. Entity means the owner or controller of the channel such as business or person managing their online presence[8]
+
+Earned Media
+Earned media denotes public relations media channels like television, newspapers, blogs, or video sites that do not require direct payment or control by marketers but are included because viewers, readers, or users are interested in them. Free media is essentially online word of mouth, typically in "viral" trends, mentions, shares, retweets, reviews, recommendations, or content from third-party websites. When one's product or service is so good that users cannot help but post it on their social media, they get a lot of "earned media". They win the credibility of the media compared to other forms of credibility, becoming more transparent.[8]
+
+History[edit]
+Codes and information by machines were first conceptualized by Charles Babbage in the early 1800s. Babbage imagined that these codes would give him instructions for his Motor of Difference and Analytical Engine, machines that Babbage had designed to solve the problem of error in calculations. Between 1822 and 1823, the mathematician Ada Lovelace wrote the first instructions for calculating numbers on Babbage engines.[9] Lovelace's instructions are now believed to be the first computer program. Although the machines were designed to perform analysis tasks, Lovelace anticipated the possible social impact of computers and program writing. "For in the distribution and combination of truths and formulas of analysis, which may become easier and more quickly subjected to the mechanical combinations of the engine, the relationships and the nature of many subjects in which science necessarily relates in new subjects, and more deeply researched […] there are in all extensions of human power or additions to human knowledge, various collateral influences, in addition to the primary and primary object reached." Other old machine readable media include instructions for pianolas and weaving machines.
+
+Binary Code shown here which can used to represent the whole alphabet
+It is estimated that in the year 1986 less than 1% of the world's media storage capacity was digital and in 2007 it was already 94%.[10] The year 2002 is assumed to be the year when human kind was able to store more information in digital than in analog media (the "beginning of the digital age").[11]
+
+Digital computers[edit]
+See also: Digital electronics, History of computing, History of programming languages, and History of the transistor
+Digital codes, like binary, can be changed without reconfiguring mechanical parts.
+Though they used machine-readable media, Babbage's engines, player pianos, jacquard looms and many other early calculating machines were themselves analog computers, with physical, mechanical parts. The first truly digital media came into existence with the rise of digital computers.[12]  Digital computers use binary code and Boolean logic to store and process information, allowing one machine in one configuration to perform many different tasks. The first modern, programmable, digital computers, the Manchester Mark 1 and the EDSAC, were independently invented between 1948 and 1949.[12][13] Though different in many ways from modern computers, these machines had digital software controlling their logical operations. They were encoded in binary, a system of ones and zeroes that are combined to make hundreds of characters. The 1s and 0s of binary are the "digits" of digital media.[14]
+
+"As We May Think"[edit]
+While digital media did not come into common use until the late 20th century, the conceptual foundation of digital media is traced to the work of scientist and engineer Vannevar Bush and his celebrated essay "As We May Think", published in The Atlantic Monthly in 1945.[15] Bush envisioned a system of devices that could be used to help scientists, doctors, and historians, among others, to store, analyze and communicate information.[15] Calling this then-imaginary device a "memex", Bush wrote:
+
+The owner of the memex, let us say, is interested in the origin and properties of the bow and arrow. Specifically, he is studying why the short Turkish bow was apparently superior to the English long bow in the skirmishes of the Crusades. He has dozens of possibly pertinent books and articles in his memex. First, he runs through an encyclopedia, finds an interesting but sketchy article, and leaves it projected. Next, in history, he finds another pertinent item and ties the two together. Thus he goes, building a trail of many items. Occasionally he inserts a comment of his own, either linking it into the main trail or joining it by a side trail to a particular item. When it becomes evident that the elastic properties of available materials had a great deal to do with the bow, he branches off on a side trail which takes him through textbooks on elasticity and tables of physical constants. He inserts a page of longhand analysis of his own. Thus he builds a trail of his interest through the maze of materials available to him.[16]
+Bush hoped that the creation of this memex would be the work of scientists after World War II.[16] Though the essay predated digital computers by several years, "As We May Think" anticipated the potential social and intellectual benefits of digital media and provided the conceptual framework for digital scholarship, the World Wide Web, wikis and even social media.[15][17] It was recognized as a significant work even at the time of its publication.[16]
+
+Impact[edit]
+The digital revolution[edit]
+Motorola phones in their first generation of production
+See also: Digital Revolution
+Since the 1960s, computing power and storage capacity have increased exponentially, largely as a result of MOSFET scaling which enables MOS transistor counts to increase at a rapid pace predicted by Moore's law.[18][19][20] Personal computers and smartphones put the ability to access, modify, store and share digital media in the hands of billions of people. Many electronic devices, from digital cameras to drones have the ability to create, transmit and view digital media. Combined with the World Wide Web and the Internet, digital media has transformed 21st century society in a way that is frequently compared to the cultural, economic and social impact of the printing press.[5][21] The change has been so rapid and so widespread that it has launched an economic transition from an industrial economy to an information-based economy, creating a new period in human history known as the Information Age or the digital revolution.[5]
+The transition has created some uncertainty about definitions. Digital media, new media, multimedia, and similar terms all have a relationship to both the engineering innovations and cultural impact of digital media.[22]  The blending of digital media with other media, and with cultural and social factors, is sometimes known as new media or "the new media."[23] Similarly, digital media seems to demand a new set of communications skills, called transliteracy, media literacy, or digital literacy.[24] These skills include not only the ability to read and write—traditional literacy—but the ability to navigate the Internet, evaluate sources, and create digital content.[25] The idea that we are moving toward a fully digital, paperless society is accompanied by the fear that we may soon—or currently—be facing a digital dark age, in which older media are no longer accessible on modern devices or using modern methods of scholarship.[6] Digital media has a significant, wide-ranging and complex effect on society and culture.[5]
+A senior engineer at Motorola named Martin Cooper was the first person to make a phone call on April 3, 1973. He decided the first phone call should be to a rival telecommunications company saying "I'm speaking via a mobile phone".[26] Ten years later, Motorola released the Motorola DynaTAC, the first commercially available mobile phone. In the early 1990s Nokia released the Nokia 1011, the first mass-produced mobile phone.[26] The number of smartphone users has increased dramatically, as has the commercial landscape. While Android and iOS both dominate the smartphone market. A study By Gartner found that in 2016 about 88% of the worldwide smartphones were Android while iOS had a market share of about 12%.[27] About 85% of the mobile market revenue came from mobile games.[27]
+The impact of the digital revolution can also be assessed by exploring the amount of worldwide mobile smart device users there are. This can be split into 2 categories; smart phone users and smart tablet users. Worldwide there are currently 2.32 billion smartphone users across the world.[28] This figure is to exceed 2.87 billion by 2020. Smart tablet users reached a total of 1 billion in 2015, 15% of the world's population.[29]
+The statistics evidence the impact of digital media communications today. What is also of relevance is the fact that the number of smart device users is rising rapidly yet the amount of functional uses increase daily. A smartphone or tablet can be used for hundreds of daily needs. There are currently over 1 million apps on the Apple App store.[30] These are all opportunities for digital marketing efforts. A smartphone user is impacted with digital advertising every second they open their Apple or Android device. This further evidences the digital revolution and the impact of revolution.[31] This has resulted in a total of 13 billion dollars being paid out to the various app developers over the years.[32] This growth has fueled the development of millions of software applications. Most of these apps are able to generate income via in app advertising.[27] Gross revenue for 2020 is projected to be about $189 million.[27]
+
+Disruption in industry[edit]
+Compared with print media, the mass media, and other analog technologies, digital media are easy to copy, store, share and modify. This quality of digital media has led to significant changes in many industries, especially journalism, publishing, education, entertainment, and the music business. The overall effect of these changes is so far-reaching that it is difficult to quantify. For example, in movie-making, the transition from analog film cameras to digital cameras is nearly complete. The transition has economic benefits to Hollywood, making distribution easier and making it possible to add high-quality digital effects to films.[33] At the same time, it has affected the analog special effects, stunt, and animation industries in Hollywood.[34]  It has imposed painful costs on small movie theaters, some of which did not or will not survive the transition to digital.[35] The effect of digital media on other media industries is similarly sweeping and complex.[34]
+Between 2000 and 2015, the print newspaper advertising revenue has fallen from $60 billion to a nearly $20 billion.[36] Even one of the most popular days for papers, Sunday, has seen a 9% circulation decrease the lowest since 1945.[37]
+In journalism, digital media and citizen journalism have led to the loss of thousands of jobs in print media and the bankruptcy of many major newspapers.[38] But the rise of digital journalism has also created thousands of new jobs and specializations.[39] E-books and self-publishing are changing the book industry, and digital textbooks and other media-inclusive curricula are changing primary and secondary education.[40][41]
+In academia, digital media has led to a new form of scholarship, also called digital scholarship, making open access and open science possible thanks to the low cost of distribution. New fields of study have grown, such as digital humanities and digital history. It has changed the way libraries are used and their role in society.[21] Every major media, communications and academic endeavor is facing a period of transition and uncertainty related to digital media.
+Often time the magazine or publisher have a Digital edition which can be referred to an electronic formatted version identical to the print version.[37] There is a huge benefit to the publisher and cost, as half of traditional publishers' costs come from production, including raw materials, technical processing, and distribution.[42]
+
+Decline of print ads over the years of 2008 US economic problem
+Since 2004, there has been a decrease in newspaper industry employment, with only about 40,000 people working in the workforce currently.[43] Alliance of Audited Media & Publishers information during the 2008 recession, over 10% of print sales are diminished for certain magazines, with a hardship coming from only 75% of the sales advertisements as before.[37] However, in 2018, major newspapers advertising revenue was 35% from digital ads.[43]
+In contrast, mobile versions of newspapers and magazines came in second with a huge growth of 135%. The New York Times has noted a 47% year of year rise in their digital subscriptions.[44] 43% of adults get news often from news websites or social media, compared with 49% for television. Pew Research also asked respondents if they got news from a streaming device on their TV – 9% of U.S. adults said that they do so often.[37]
+
+Individual as content creator[edit]
+See also: Social impact of YouTube
+Average camera of a YouTube blogger, a Canon EOS
+Digital media has also allowed individuals to be much more active in content creation.[45] Anyone with access to computers and the Internet can participate in social media and contribute their own writing, art, videos, photography and commentary to the Internet, as well as conduct business online. The dramatic reduction in the costs required to create and share content have led to a democratization of content creation as well as the creation of new types of content, like blogs, memes, and video essays. Some of these activities have also been labelled citizen journalism. This spike in user-created content is due to the development of the internet as well as the way in which users interact with media today. As more users join and use social media sites, the relevance of content creation increases.[46] The release of technologies such mobile devices allow for easier and quicker access to all things media.[47] Many media creation tools that were once available to only a few are now free and easy to use. The cost of devices that can access the Internet is steadily falling, and personal ownership of multiple digital devices is now becoming the standard. These elements have significantly affected political participation.[48] Digital media is seen by many scholars as having a role in Arab Spring, and crackdowns on the use of digital and social media by embattled governments are increasingly common.[49] Many governments restrict access to digital media in some way, either to prevent obscenity or in a broader form of political censorship.[50]
+Over the years YouTube has grown to become a website with user generated media. This content is oftentimes not mediated by any company or agency, leading to a wide array of personalities and opinions online. Over the years, YouTube and other platforms have also shown their monetary gains. In 2020, the top 10 highest earning YouTube content creators each generated over 15 million dollars.[51] Many of these YouTube profiles over the years have a multi camera set up as we would see on TV. Many of these creators also creating their own digital companies as their personalities grow.[citation needed] Personal devices have also seen an increase over the years. Over 1.5 billion users of tablets exist in this world right now and that is expected to slowly grow [52] About 20% of people in the world regularly watch their content using tablets in 2018[52]
+User-generated content raises issues of privacy, credibility, civility and compensation for cultural, intellectual and artistic contributions. The spread of digital media, and the wide range of literacy and communications skills necessary to use it effectively, have deepened the digital divide between those who have access to digital media and those who do not.[53]
+The rising of digital media has made the consumer's audio collection more precise and personalized. It is no longer necessary to purchase an entire album if the consumer is ultimately interested in only a few audio files.
+
+Web-only news[edit]
+See also: Web television and Streaming television
+US Philips TV Controller with built in Netflix Streaming button
+The rise of streaming services has led to a decrease of cable TV services to about 59%, while streaming services are growing at around 29%, and 9% are still users of the digital antenna.[54] TV Controllers now incorporate designated buttons for streaming platforms.[55] Users are spending an average of 1:55 with digital video each day, and only 1:44 on social networks.[56] 6 out of 10 people report viewing their television shows and news via a streaming service.[54] Platforms such as Netflix have gained attraction due to their adorability, accessibility, and for its original content.[57] Companies such as Netflix have even bought previously cancelled shows such as Designated Survivor, Lucifer, and Arrested Development.[58] As the internet becomes more and more prevalent, more companies are beginning to distribute content through internet only means. Indeed, young people today are increasingly likely to use TikTok over Google, television or newspapers for their news.[59] With the loss of viewers, there is a loss of revenue but not as bad as what would be expected.
+As of 2024 there has also been a wave of those considered too controversial by main-stream media moving over to online platforms such as X (formerly Twitter) to keep spreading their messages. One instance is Tucker Carlson leaving Fox News due to his controversial opinions and moving over to X.[60] This has sparked debate surrounding topics such as free speech and hate speech.[61]
+
+Copyright challenges[edit]
+See also: Open data, Open access, and Open source
+Digital media[62] encompasses numerical networks of interactive systems that link databases, allowing users to navigate from one bit of content or webpage to another. Because of this ease, digital media poses several challenges to the current copyright and intellectual property laws.[63] The ease of creating, modifying, and sharing digital media can influence copyright enforcement challenging and many copyright laws are widely seen as outdated.[64][65] Under current copyright law, common Internet memes are generally illegal to share in many countries.[66] Legal rights can be unclear for many common Internet activities. These include posting pictures from someone else's social media account, writing fanfiction, or covering and/or using popular songs in content such as YouTube videos. During the last decade, the concepts of fair use and copyright have been applied to different types of online media.
+Copyright challenges are spreading to all parts of digital media. Content creators on platforms such as YouTube follow guidelines set by copyright, IP laws, and the platform's copyright requirements. If these guidelines are not followed, the content may get demonetized, deleted, or sued.[67] The situation can also occur when creators accidentally use audio tracks or background scenes that are under copyright.[67] To avoid or resolve some of these issues, content creators can voluntarily adopt open, or copyleft licenses or they can release their work to the public domain. By doing this, creators are giving up certain legal rights regarding their content. Fair use is a doctrine of the US Copyright Law that allows limited use of copyrighted materials without the need to obtain permission. There are four factors that make up fair use. The first, Purpose, refers to what the content is being used for. The second factor is what copyrighted content is being used. If the content is non-fiction, it is more likely to fall under fair use than if the content is fiction. The third factor is how much of the copyrighted content is in use. Small amounts of copyrighted content are more likely to be considered fair. The last factor is, whether the use of copyrighted content earns money or affect the value of the content.[68]
+Wikipedia uses some of the most common open licenses, Creative Commons licenses, and the GNU Free Documentation License. Open licenses are one aspect of a broad open content movement that advocates for the reduction or removal of copyright restrictions from software, data, and other digital media.[69] To facilitate the collection and consumption of such licensing information and availability status, tools like the Creative Commons Search engine are used mostly for web images, and Unpaywall, or used for scholarly communication.
+Additional software has been developed to restrict access to digital media. Digital rights management (DRM) is used to lock material. This allows users to apply the media content to specific cases. DRM allows movie producers to rent at a lower price. This restricts the movie rental license length, rather than only selling the movie at full price. Additionally, DRM can prevent unauthorized modification or sharing of media. 
+
+YouTube Copyright Claim Takedown
+Digital media copyright protection technologies fall under intellectual property protection technology. This is because a series of computer technologies protect the digital content being created and transmitted.[70] The Digital Millennium Copyright Act (DMCA) provides safety to intermediaries that host user content, such as YouTube, from being held liable for copyright infringement so long as they meet all required conditions. The most notable of which is the "notice and take down" policy.[71] The policy requires online intermediaries to remove and/or disable access to the content in question when there are court orders and/or allegations of illegal use of the content on their site. As a result, YouTube has and continues to develop more policies and standards that go far past what the DMCA requires. YouTube has also created an algorithm which continuously scans their cite to make sure all content follows all policies.[71]
+One digital media platform known to have copyright concerns is the short video-sharing app TikTok. TikTok is a social media app that allows users to share short videos up to one minute in length, using a variety of visual effects and audio.[72]  According to Loyola University's Chicago School of Law, around 50% of the music used on TikTok is unlicensed.[73] TikTok has several music licensing agreements with various artists and labels, creating a library of fair and legal use of music.[74] However, this does not cover all content for its users. A user could still commit a copyright violation on TikTok. One example is, accidentally having music playing on a stereo in the background or recording a laptop screen playing a song.[75]
+Online magazines or digital magazines are one of the largest targets for copyright issues. According to the Audit Bureau of Circulations report from March 2011, the definition of this medium is when a digital magazine involves the distribution of magazine content by electronic means; it may be a replica.[76] This definition can be considered outdated now that PDF replicas of print magazines are no longer common practice. These days digital magazines refer to magazines specifically created to be interactive digital platforms such as the internet, mobile phones, private networks, iPad, or other devices.[76] The barriers to digital magazine distribution are thus decreasing. However, these platforms are also broadening the scope of where digital magazines can be published;[77] smartphones are an example. Thanks to the improvements in tablets and other personal electronic devices, digital magazines have become much more readable and enticing through the use of graphic art.[78] The evolution of online magazines began to focus on becoming more of a social media and entertainment platform.
+Online piracy has become one of the larger issues that have occurred concerning digital media copyright. The piracy of digital media, such as film and television, directly impacts the copyright party (the owner of the copyright). This action can impact the "health" of the digital media industry. Piracy directly breaks the laws and morals of copyright.[70] Along with piracy, digital media has contributed to the ability to spread false information or fake news. Due to the widespread use of digital media, fake news can receive more notoriety. This notoriety enhances the negative effects fake news creates. As a result, people's health and well-being can directly be affected.[79]
+
+See also[edit]
+Digital media use and mental health
+Electronic media
+Media psychology
+Virtual artifact
+Digital preservation
+Digital continuity
+Content creation
+Digital rhetoric
+References[edit]
+
+
+^ Smith, Richard (2013-10-15). "What is Digital Media?". The Centre for Digital Media. Archived from the original on 2022-12-27. Retrieved 2020-04-22.
+
+^ Rayburn, Dan (2012-07-26). Streaming and Digital Media: Understanding the Business and Technology. Taylor & Francis. ISBN 978-1-136-03217-2.
+
+^ Londoño, Juan (2021-09-16). "The Growing Tensions Between Digital Media Platforms and Copyright Enforcement". Archived from the original on 2021-09-25. Retrieved 2021-09-25.
+
+^ Fourie, Pieter J. (2017). "Normative media theory in the digital media landscape: from media ethics to ethical communication". South African Journal for Communication Theory and Research. 43 (2): 109–127. doi:10.1080/02500167.2017.1331927. S2CID 149049921. Archived from the original on 16 December 2022. Retrieved 16 December 2022.
+
+^ a b c d e Dewar, James A. (1998). "The information age and the printing press: looking backward to see ahead". RAND Corporation. Archived from the original on 30 March 2014. Retrieved 29 March 2014.
+
+^ a b Koehl, Sean (15 May 2013). "We need to act now to prevent a digital 'dark age'". Wired. Archived from the original on 12 September 2013. Retrieved 29 March 2014.
+
+^ a b Diaz Ruiz, Carlos (2023-10-30). "Disinformation on digital media platforms: A market-shaping approach". New Media & Society. doi:10.1177/14614448231207644. ISSN 1461-4448. "Figure 3. The triple-product business model of digital media markets."
+
+^ a b c Lovett, Mitchell J.; Staelin, Richard (January 28, 2016). "The Role of Paid, Earned, and Owned Media in Building Entertainment Brands: Reminding, Informing, and Enhancing Enjoyment". Marketing Science. 35 (1): 142–157. doi:10.1287/mksc.2015.0961. ISSN 0732-2399.
+
+^ Frank, J. Swetz. "Mathematical Treasure: Ada Lovelace's Notes on the Analytic Engine". maa.org. MAA Publications. Archived from the original on 2023-12-24. Retrieved 2023-09-29.
+
+^ Hilbert, Martin; López, Priscila (2011). "The World's Technological Capacity to Store, Communicate, and Compute Information". Science. 332 (6025): 60–65. Bibcode:2011Sci...332...60H. doi:10.1126/science.1200970. PMID 21310967. S2CID 206531385. Archived from the original on 2017-07-03. Retrieved 2020-02-18. especially Supporting online material Archived 2018-06-12 at the Wayback Machine
+
+^ Martin Hilbert (11 June 2011). "World_info_capacity_animation". Archived from the original on 2021-10-30 – via YouTube.
+
+^ a b Copeland, B. Jack (Fall 2008). "The modern history of computing". The Stanford Encyclopedia of Philosophy. Stanford University. Retrieved 31 March 2014.
+
+^ "Sci/tech pioneers recall computer creation". BBC. 15 April 1999. Archived from the original on 30 March 2014. Retrieved 29 March 2014.
+
+^ "12 Projects You Should Know About Under the Digital India Initiative". 2 July 2015. Archived from the original on 5 May 2016. Retrieved 3 May 2016.
+
+^ a b c Simpson, Rosemary; Allen Renear; Elli Mylonas; Andries van Dam (March 1996). "50 years after "As We May Think": the Brown/MIT Vannevar Bush symposium" (PDF). Interactions. pp. 47–67. Archived from the original (PDF) on 14 May 2014. Retrieved 29 March 2014.
+
+^ a b c Bush, Vannevar (1 July 1945). "As We May Think". The Atlantic Monthly. Archived from the original on 29 March 2014. Retrieved 29 March 2014.
+
+^ Mynatt, Elizabeth. "As we may think: the legacy of computing research and the power of human cognition". Computing Research Association. Archived from the original on 7 April 2014. Retrieved 30 March 2014.
+
+^ Motoyoshi, M. (2009). "Through-Silicon Via (TSV)". Proceedings of the IEEE. 97 (1): 43–48. doi:10.1109/JPROC.2008.2007462. ISSN 0018-9219. S2CID 29105721.
+
+^ "Tortoise of Transistors Wins the Race - CHM Revolution". Computer History Museum. Archived from the original on 10 March 2020. Retrieved 22 July 2019.
+
+^ "Transistors Keep Moore's Law Alive". EETimes. 12 December 2018. Archived from the original on 24 September 2019. Retrieved 18 July 2019.
+
+^ a b Bazillion, Richard (2001). "Academic libraries in the digital revolution" (PDF). Educause Quarterly. Archived from the original (PDF) on 3 May 2013. Retrieved 31 March 2014.
+
+^ Lauer, Claire (2009). "Contending with Terms: "Multimodal" and "Multimedia" in the Academic and Public Spheres" (PDF). Computers and Composition. 26 (4): 225–239. CiteSeerX 10.1.1.457.673. doi:10.1016/j.compcom.2009.09.001. Archived from the original (PDF) on 2014-03-27.
+
+^ Ito, Mizuko; et al. (November 2008). "Living and learning with the new media: summary of findings from the digital youth project" (PDF). Archived from the original (PDF) on November 27, 2008. Retrieved April 27, 2022.
+
+^ "Digital literacy definition". ALA Connect. 14 September 2012. Archived from the original on 3 March 2014. Retrieved 30 March 2014.
+
+^ "What is digital literacy?". Cornell University Digital Literacy Resource. Cornell University. Archived from the original on 26 June 2010. Retrieved 30 March 2014.
+
+^ a b "History of Mobile Phones (1973–2008): The Cellphone Game-Changers!". Know Your Mobile. 2020-04-15. Archived from the original on 2020-03-20. Retrieved 2020-04-19.
+
+^ a b c d "Current Trends And Future Prospects Of The Mobile App Market". Smashing Magazine. 2017-02-20. Archived from the original on 2020-08-04. Retrieved 2020-04-19.
+
+^ "Number of smartphone users worldwide 2014-2020 | Statista". Statista. Archived from the original on 2017-06-26. Retrieved 2017-05-12.
+
+^ "Tablet Users to Surpass 1 Billion Worldwide in 2015 - eMarketer". www.emarketer.com. Archived from the original on 2016-10-27. Retrieved 2017-05-12.
+
+^ "Apple announces 1 million apps in the App Store, more than 1 billion songs played on iTunes radio". The Verge. 2013-10-22. Archived from the original on 2017-05-12. Retrieved 2017-05-12.
+
+^ jaehyun, Lee (2013-02-25). 뉴미디어 이론 [New Media Theory] (in Korean). KOREA: Communication Books. ISBN 978-89-6680-847-2. We experience virtuality and reality through new media. We experience media, content everywhere. Still, the media is a device that disciplines our sensory patterns, body organs, and cognitive processes. P107
+
+^ Ingraham, Nathan (2013-10-22). "Apple announces 1 million apps in the App Store, more than 1 billion songs played on iTunes radio". The Verge. Archived from the original on 2017-05-12. Retrieved 2020-04-19.
+
+^ Cusumano, Catherine (18 March 2013). "Changeover in film technology spells end for age of analog". Brown Daily Herald. Archived from the original on 31 March 2014. Retrieved 31 March 2014.
+
+^ a b Carter, Beth (26 April 2012). "Side by side takes digital vs. analog debate to the movies". Wired. Archived from the original on 12 April 2014. Retrieved 31 March 2014.
+
+^ McCracken, Erin (5 May 2013). "Last reel: Movie industry's switch to digital hits theaters -- especially small ones -- in the wallet". York Daily Record. Archived from the original on 7 April 2014. Retrieved 29 March 2014.
+
+^ Thompson, Derek (2016-11-03). "The Print Apocalypse of American Newspapers". The Atlantic. Archived from the original on 2020-04-15. Retrieved 2020-04-19.
+
+^ a b c d "Time Inc. spinoff reflects a troubled magazine business". Pew Research Center. 5 June 2014. Archived from the original on 2020-09-27. Retrieved 2020-04-14.
+
+^ Kirchhoff, Suzanne M. (9 September 2010). "The U.S. newspaper industry in transition" (PDF). Congressional Research Service. Archived (PDF) from the original on 27 November 2013. Retrieved 29 March 2014.
+
+^ Zara, Christopher (2 October 2012). "Job growth in digital journalism is bigger than anyone knows". International Business Times. Archived from the original on 7 April 2014. Retrieved 29 March 2014.
+
+^ "Publishing in the digital era" (PDF). Bain & Company. 2011. Archived (PDF) from the original on 11 February 2014. Retrieved 29 March 2014.
+
+^ Toppo, Greg (31 January 2012). "Obama wants schools to speed digital transition". USA Today. Archived from the original on 18 March 2014. Retrieved 17 March 2014.
+
+^ van der Burg, Miriam; Van den Bulck, Hilde (2017-04-03). "Why are traditional newspaper publishers still surviving in the digital era? The impact of long-term trends on the Flemish newspaper industry's financing, 1990–2014". Journal of Media Business Studies. 14 (2): 82–115. doi:10.1080/16522354.2017.1290024. ISSN 1652-2354. S2CID 219296760.
+
+^ a b "Trends and Facts on Newspapers | State of the News Media". Pew Research Center's Journalism Project. Archived from the original on 2020-04-18. Retrieved 2020-04-19.
+
+^ "Circulation, revenue fall for US newspapers overall despite gains for some". Pew Research Center. June 2017. Archived from the original on 2020-04-17. Retrieved 2020-04-19.
+
+^ Horrigan, John (May 2007). "A Typology of Information and Communication Technology Users". Pew Internet and American Life Study. Archived from the original on 2014-01-12. Retrieved 2014-03-31.
+
+^ Brake, David R. (2014-04-01). "Are We All Online Content Creators Now? Web 2.0 and Digital Divides*". Journal of Computer-Mediated Communication. 19 (3): 591–609. doi:10.1111/jcc4.12042. ISSN 1083-6101. S2CID 35491.
+
+^ Pavlik, John; McIntosh, Shawn (2014). Converging Media (Fourth ed.). Oxford University Press. pp. 237–239. ISBN 978-0-19-934230-3.
+
+^ Cohen, Cathy J.; Joseph Kahne (2012). "Participatory politics: new media and youth political action" (PDF). Youth & Participatory Politics. Archived from the original (PDF) on 7 April 2015. Retrieved April 27, 2022.
+
+^ Kelley, Peter (13 June 2013). "Philip Howard's new book explores digital media role in Arab Spring". University of Washington. Archived from the original on 26 March 2014. Retrieved 30 March 2014.
+
+^ Rininsland, Andrew (16 April 2012). "Internet censorship listed: how does each country compare?". The Guardian. Archived from the original on 7 April 2014. Retrieved 30 March 2014.
+
+^ Berg, Madeline. "The Highest-Paid YouTube Stars Of 2020". Forbes. Archived from the original on 2020-12-25. Retrieved 2022-03-18.
+
+^ a b "Tablet Users to Surpass 1 Billion Worldwide in 2015 - eMarketer". www.emarketer.com. Archived from the original on 2020-04-19. Retrieved 2020-04-19.
+
+^ Crawford, Susan P. (3 December 2011). "Internet access and the new digital divide". The New York Times. Archived from the original on 10 April 2014. Retrieved 30 March 2014.
+
+^ a b "61% of young adults in U.S. watch mainly streaming TV". Pew Research Center. 13 September 2017. Archived from the original on 2020-03-28. Retrieved 2020-04-22.
+
+^ Roku. "Roku". Roku. Archived from the original on 2022-05-21. Retrieved 2020-04-22.
+
+^ "The Explosive Growth of Online Video, in 5 Charts". Contently. 2015-07-06. Archived from the original on 2020-04-09. Retrieved 2020-04-22.
+
+^ "Netflix: the rise of a new online streaming platform universe – Digital Innovation and Transformation". digital.hbs.edu. Archived from the original on 2020-04-02. Retrieved 2020-04-22.
+
+^ "TV Shows That Found New Homes After Cancellation (Photos)". TheWrap. 2019-07-01. Archived from the original on 2020-04-29. Retrieved 2020-04-22.
+
+^ "Is TikTok about to replace Google as the top search engine?". euronews. 2023-02-05. Retrieved 2024-02-06.
+
+^ Levine, Sam (2023-04-25). "Tucker Carlson leaves Fox News – reportedly fired by Rupert Murdoch". The Guardian. ISSN 0261-3077. Retrieved 2024-02-06.
+
+^ Otten, Tori; Thakker, Prem; Otten, Tori; Otten, Tori; Thakker, Prem; Thakker, Prem; Otten, Tori; Otten, Tori; Otten, Tori (2022-11-01). "The 10 Most Fascist Things Tucker Carlson Said on Air". The New Republic. ISSN 0028-6583. Retrieved 2024-02-06.
+
+^ Sullivan, Ann Marie (2016). "Cultural Heritage & New Media: A Future for the Past". J. Marshall Rev. Intell. Prop. L. 15 (3): 604–646. Archived from the original on 2020-04-05. Retrieved 2018-04-30.
+
+^ "Copyright: an overview". Jisc Digital Media. Archived from the original on 27 March 2014. Retrieved 30 March 2014.
+
+^ Barnett, Emma (18 May 2011). "Outdated copyright laws hinder growth says Government". The Telegraph. Archived from the original on 2022-01-12. Retrieved 30 March 2014.
+
+^ Brunet, Maël (March 2014). "Outdated copyright laws must adapt to the new digital age". Policy Review. Archived from the original on 19 February 2015. Retrieved 30 March 2014.
+
+^ Kloc, Joe (12 November 2013). "Outdated copyright law makes memes illegal in Australia". Daily Dot. Archived from the original on 9 February 2014. Retrieved 30 March 2014.
+
+^ a b Alexander, Julia (2019-04-05). "The golden age of YouTube is over". The Verge. Archived from the original on 2021-05-23. Retrieved 2020-04-27.
+
+^ "Fair Use | Digital Media Law Project". www.dmlp.org. Archived from the original on 2021-10-07. Retrieved 2021-11-01.
+
+^ Trotter, Andrew (17 October 2008). "The open-content movement". Digital Directions. Archived from the original on 7 April 2014. Retrieved 30 March 2014.
+
+^ a b Chen, Yixin; Hu, Xi; Xiao, Feng (2020). "Digital Media Copyright Protection Technology in the Age of All Media". In Huang, Chuanchao; Chan, Yu-Wei; Yen, Neil (eds.). Data Processing Techniques and Applications for Cyber-Physical Systems (DPTA 2019). Advances in Intelligent Systems and Computing. Vol. 1088. Singapore: Springer. pp. 843–850. doi:10.1007/978-981-15-1468-5_99. ISBN 978-981-15-1468-5. S2CID 211080740. Archived from the original on 2022-04-07. Retrieved 2021-11-21.
+
+^ a b Kaye, D. Bondy Valdovinos; Gray, Joanne E. (2021-07-01). "Copyright Gossip: Exploring Copyright Opinions, Theories, and Strategies on YouTube". Social Media + Society. 7 (3): 20563051211036940. doi:10.1177/20563051211036940. ISSN 2056-3051. S2CID 238732750.
+
+^ Herrman, John (10 March 2019). "How TikTok Is Rewriting The World". The New York Times. Archived from the original on 10 March 2019. Retrieved 17 October 2021.
+
+^ Bayley, Lydia (29 March 2021). "TikTok: A Copyright Time Bomb". luc.edu. Loyola University's Chicago School of Law. Archived from the original on 17 October 2021. Retrieved 17 October 2021.
+
+^ Gardoce, Rowan (12 August 2021). "The Legal Side Of TikTok: Music, Copyright and Ownership". sprintlaw.com.au. Sprint Law. Archived from the original on 17 October 2021. Retrieved 17 October 2021.
+
+^ Gleason, Ann Potter. "Copyright Owners' Love/Hate Relationship With TikTok and Instagram Raises Legal Issues". natlawreview.com. National Law Review. Archived from the original on 17 October 2021. Retrieved 17 October 2021.
+
+^ a b Santos Silva, Dora (June 14–15, 2012). "The Future of Digital Magazine Publishing" (PDF). In Baptista, A.A.; et al. (eds.). Social Shaping of Digital Publishing: Exploring the Interplay Between Culture and Technology. ELPUB - 16th International Conference on Electronic Publishing. Guimarães, Portugal. Archived from the original (PDF) on 23 November 2015. Retrieved 21 November 2014.
+
+^ Jones, Ryan. "Are Digital Magazines Dead". WWW.wired.com. Archived from the original on 4 December 2014. Retrieved 21 November 2014.
+
+^ Pavlik, John; Mclntosh, Shawn (2014). Converging Media (fourth ed.). Oxford University Press. p. 89. ISBN 978-0-19-934230-3.
+
+^ de Oliveira, Danilo Vicente Batista; Albuquerque, Ulysses Paulino (2021-08-28). "Cultural Evolution and Digital Media: Diffusion of Fake News About COVID-19 on Twitter". SN Computer Science. 2 (6): 430. doi:10.1007/s42979-021-00836-w. ISSN 2661-8907. PMC 8397611. PMID 34485922.
+
+
+Further reading[edit]
+Ramón Reichert, Annika Richterich, Pablo Abend, Mathias Fuchs, Karin Wenz (eds.), Digital Culture & Society.
+Schiffrin, Anya. Media Capture: How Money, Digital Platforms, and Governments Control the News. Edited by Anya Schiffrin. New York, New York State: Columbia University Press, 2021.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_media&oldid=1286392733"
+Categories: Digital mediaHyperrealityInformation scienceLibrary scienceMass media technologyHidden categories: Webarchive template wayback linksCS1 Korean-language sources (ko)Articles with short descriptionShort description is different from WikidataArticles needing additional references from June 2023All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from April 2023Articles containing video clips
+
+
+
+
+
+
+ This page was last edited on 19 April 2025, at 17:05 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

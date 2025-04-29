@@ -1,0 +1,782 @@
+https://en.wikipedia.org/wiki/Programmable_logic_array
+
+
+
+
+Programmable logic array - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Implementation procedure
+
+
+
+
+
+
+
+
+3
+Advantages over read-only memory
+
+
+
+
+
+
+
+
+4
+Applications
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Programmable logic array
+
+
+
+9 languages
+
+
+
+
+العربيةDeutschفارسیItalianoMagyarPolskiСрпски / srpskiSvenska中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Type of programmable logic device
+Not to be confused with Programmable Array Logic.
+PLA schematic example
+A  programmable logic array (PLA) is a kind of programmable logic device used to implement combinational logic circuits. The PLA has a set of programmable AND gate planes, which link to a set of programmable OR gate planes, which can then be conditionally complemented to produce an output. It has 2N AND gates for N input variables, and for M outputs from the PLA, there should be M OR gates, each with programmable inputs from all of the AND gates. This layout allows for many logic functions to be synthesized in the sum of products canonical forms.
+PLAs differ from programmable array logic devices (PALs and GALs) in that both the AND and OR gate planes are programmable. PAL has programmable AND gates but fixed OR gates [clarification needed]
+
+
+History[edit]
+In 1970, Texas Instruments developed a mask-programmable IC based on the IBM read-only associative memory or ROAM. This device, the TMS2000, was programmed by altering the metal layer during the production of the IC. The TMS2000 had up to 17 inputs and 18 outputs with 8 JK flip-flops for memory. TI coined the term Programmable Logic Array for this device.[1]
+
+Implementation procedure[edit]
+Preparation in SOP (sum of products) form.
+Obtain the minimum SOP form to reduce the number of product terms to a minimum.
+Decide the input connection of the AND matrix for generating the required product term.
+Then decide the input connections of the OR matrix to generate the sum terms.
+Decide the connections of the inversion matrix.
+Program the PLA.
+PLA block diagram:
+
+
+
+1ST BLOCK
+2ND BLOCK
+3RD BLOCK
+4TH BLOCK
+5TH BLOCK
+
+
+INPUT BUFFER
+AND MATRIX
+OR MATRIX
+INVERT/ NON INVERT MATRIX
+FLIP-FLOP OUTPUT BUFFER
+
+Advantages over read-only memory[edit]
+The desired outputs for each combination of inputs could be programmed into a read-only memory, with the inputs being driven by the address bus and the outputs being read out as data. However, that would require a separate memory location for every possible combination of inputs, including combinations that are never supposed to occur, and also duplicating data for "don't care" conditions (for example, logic like "if input A is 1, then, as far as output X is concerned, we don't care what input B is": in a ROM this would have to be written out twice, once for each possible value of B, and as more "don't care" inputs are added, the duplication grows exponentially); therefore, a programmable logic array can often implement a piece of logic using fewer transistors than the equivalent in read-only memory. This is particularly valuable when it is part of a processing chip where transistors are scarce (for example, the original 6502 chip contained a PLA to direct various operations of the processor[2]).
+
+Applications[edit]
+One application of a PLA is to implement the control over a datapath. It defines various states in an instruction set, and produces the next state (by conditional branching). [e.g. if the machine is in state 2, and will go to state 4 if the instruction contains an immediate field; then the PLA should define the actions of the control in state 2, will set the next state to be 4 if the instruction contains an immediate field, and will define the actions of the control in state 4]. Programmable logic arrays should correspond to a state diagram for the system.
+The earliest Commodore 64 home computers released in 1982 (into early 1983) initially used a programmed Signetics 82S100 PLA, but as the demand increased, MOS Technology / Commodore Semiconductor Group began producing a mask-programmed PLA, which bore part number 906114-01.[3]
+
+See also[edit]
+Field-programmable gate array
+Gate array
+Programmable Array Logic
+References[edit]
+
+
+^ Andres, Kent (October 1970). A Texas Instruments Application Report: MOS programmable logic arrays. Texas Instruments. Bulletin CA-158.
+
+^ How MOS 6502 Illegal Opcodes really work
+
+^ arcadecomponents.com - Commodore 906114-01 64 PLA IC
+
+
+External links[edit]
+"Programmable Logic Array (PLA)". cmsc311. University of Maryland. 2003. Archived from the original on 2017-12-14.
+"PLA (programmable logic array)". Java Applet. University of Hamburg. Archived from the original on 2013-01-15. Retrieved 2010-04-07.
+vteProgrammable logicConcepts
+ASIC
+SoC
+FPGA
+Logic block
+CPLD
+EPLD
+PLA
+PAL
+GAL
+PSoC
+Reconfigurable computing
+Xputer
+Soft microprocessor
+Circuit underutilization
+High-level synthesis
+Hardware acceleration
+Languages
+Verilog
+A
+AMS
+VHDL
+AMS
+VITAL
+SystemVerilog
+DPI
+SystemC
+AHDL
+Handel-C
+Lola
+PSL
+UPF
+PALASM
+ABEL
+CUPL
+C to HDL
+Flow to HDL
+MyHDL
+ELLA
+Chisel
+Companies
+Accellera
+Achronix
+AMD
+Aldec
+Arm
+Cadence
+Infineon
+Intel
+Lattice
+Microchip Technology
+NXP
+Siemens
+Synopsys
+Texas Instruments
+ProductsHardware
+iCE
+Stratix
+Virtex
+Software
+Intel Quartus Prime
+Xilinx ISE
+Vivado
+ModelSim
+VTR
+Simulators
+IntellectualpropertyProprietary
+ARC
+ARM Cortex-M
+LEON
+LatticeMico8
+MicroBlaze
+PicoBlaze
+Nios
+Nios II
+Open-source
+JOP
+LatticeMico32
+OpenCores
+OpenRISC
+1200
+Power ISA
+Libre-SOC
+Microwatt
+RISC-V
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+Authority control databases: National GermanyFranceBnF data
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Programmable_logic_array&oldid=1266324925"
+Categories: Electronic design automationGate arraysHidden categories: Articles with short descriptionShort description is different from WikidataWikipedia articles needing clarification from March 2021
+
+
+
+
+
+
+ This page was last edited on 31 December 2024, at 02:51 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Programmable logic array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

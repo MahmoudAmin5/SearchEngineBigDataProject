@@ -1,0 +1,820 @@
+https://en.wikipedia.org/wiki/Handheld_PC
+
+
+
+
+Handheld PC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History and definitions
+
+
+
+
+
+
+
+
+2
+Microsoft Handheld PC
+
+
+
+
+Toggle Microsoft Handheld PC subsection
+
+
+
+
+
+2.1
+Specifications
+
+
+
+
+
+
+
+
+2.2
+Devices
+
+
+
+
+
+
+
+
+2.3
+Versions
+
+
+
+
+
+
+
+
+2.4
+Reception
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Handheld PC
+
+
+
+15 languages
+
+
+
+
+AzərbaycancaCatalàČeštinaDeutsch한국어Bahasa IndonesiaItalianoLietuvių日本語PolskiPortuguêsРусскийTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer that is significantly smaller than a laptop
+Various mobile devices described as handheld PCs, clockwise from left: Sony Vaio UX Micro PC (ultra-mobile PC), Philips Velo (Handheld PC), GPD Win 2 (handheld gaming PC), HP 200LX (Palmtop PC)
+A handheld computer, also called a palmtop computer, is a term that has variously been used to describe a small-sized personal computer (PC) typically built around a clamshell form factor and a laptop-like keyboard, including: Palmtop PCs, personal digital assistants (PDA), ultra-mobile PCs (UMPC) or portable gaming PCs. The brand Handheld PC specifically is a now-defunct class of computers introduced in the 1990s that was marketed by Microsoft, and is detailed below.
+
+
+History and definitions[edit]
+See also: Palmtop PC and SubnotebookAtari Portfolio (1989)
+Toshiba Libretto 50CT (c. 1996), these subnotebooks have also been called a "palmtop" or "handheld" due to its size
+The term has been varyingly used and intermixed with other terms.[1] The first "hand-held" device compatible with desktop IBM personal computers of the time was the Atari Portfolio of 1989; such devices were often called "Palmtop PCs" at the time, as they were IBM PC–compatibles that could fit in the palm of a human hand. Other early models were the Poqet PC of 1989 and the Hewlett Packard HP 95LX of 1991 which run the MS-DOS operating system.[2] Other DOS-compatible hand-held computers also existed. The popular definition of "handheld PC" eventually became a device bigger than a personal digital assistant (PDA) and with the addition of a keyboard that folds in half (making it more similar to a laptop rather than for example a cell phone) with both PDAs and handheld PCs considered under the umbrella "palmtop computer".[3][4]An Asus ROG Ally handheld gaming PC (2023) has been referred to as a "handheld gaming PC" despite not having a keyboardAfter 2000 the handheld PC segment practically halted, replaced by other forms and continuing only as a niche, although later communicators such as Nokia E90 or Toshiba Portégé G910[5] can be considered to be of the same class. On the other hand, ultra-compact laptops capable of running common x86-compatible desktop operating systems have been typically classified as subnotebooks. Microsoft's ultra-mobile PC brought x86-based Windows — typically the modern definition of 'PC' — to palm sized mobile devices for the first time and these have also been referred to as handheld PCs.[6] The Steam Deck has rekindled interest in "handheld" PCs since 2021, specifically for gaming, designed with a gamepad integrated for video games although it does not have a keyboard.
+
+Microsoft Handheld PC[edit]
+See also: Windows CE
+DeveloperMicrosoftManufacturerVariousTypePersonal digital assistant, SubnotebookLifespan1996–c. 2003Operating systemWindows CERelatedPocket PCThe Handheld PC (H/PC) is a class of portable computers running Windows CE created and marketed by Microsoft. Introduced in 1996, the intent of Windows CE was to provide an environment for applications compatible with the Microsoft Windows operating system, on processors better suited to low-power operation in a portable device. These devices could run on the SH-3, MIPS, and later ARM processor architectures.[7]
+It provides the appointment calendar functions usual for any PDA. Microsoft was wary of using the term "PDA" for the Handheld PC. Instead, Microsoft marketed this type of device as a "PC companion".[8][9] Its main competitor in the field was Psion with their Series 3 and Series 5.
+
+Specifications[edit]
+An NEC Handheld PC running Windows CE 1.0To be classed as a Windows CE Handheld PC, the device must:[10]
+Run Microsoft's Windows CE
+Be bundled with an application suite only found through an OEM Platform Release and not in Windows CE itself
+Use ROM
+Have a screen supporting a resolution of at least 480×240
+Include a keyboard (except tablet models)
+Include a PC card slot
+Include an infrared (IrDA) port
+Provide wired serial and/or Universal Serial Bus (USB) connectivity
+Devices[edit]
+Sharp Mobilon PRO PV5000A, Handheld PC running Windows CE 2.11 released in 1998HP's first displays' widths were more than a third larger than that of Microsoft's specification. Soon, all of their competition followed. Examples of Handheld PC devices are the NEC MobilePro 900c, HP 320LX, Sharp Telios, HP Jornada 720, IBM WorkPad Z50, and Vadem Clio.[11] Also included are tablet computers like the Fujitsu PenCentra 130, and even communicators like the late Samsung NEXiO S150.
+Versions[edit]
+The second generation of Handheld PCs were based on Windows CE 2.0. Improvements include color 640 x 240 resolution displays (the first generation devices only supported 480 x 240), taskbar customization, printer support, and the addition of Pocket PowerPoint to the Pocket Office suite.[12] In October 1998, Handheld PC Professional based on Windows CE 2.11 was released with many enhancements under the hood, as well as full VGA display resolution.[13] New hardware resembling subnotebooks were released on the market using this version.[14]
+In September 2000, the updated Handheld PC 2000 was announced which is based on version 3.0 of Windows CE.[15][4]
+
+
+Handheld PC version history[16]
+
+
+Handheld PC version
+
+Windows CE version
+
+Other platforms
+
+
+Handheld PC
+
+1.0
+
+—
+
+
+2.0
+
+Palm-size PC 1.0, Auto PC 1.0
+
+
+Handheld PC Professional
+
+2.11
+
+Palm-size PC 1.1 / 1.2
+
+
+Handheld PC 2000
+
+3.0
+
+Pocket PC 2000, Pocket PC 2002, Smartphone 2002
+
+Reception[edit]
+Handheld PC failed to be a success, being not so competitive against Palm's smaller and lighter keyboard-less Palm PDAs as well against subnotebook computers that were quickly dropping in price. The second version of the CE software failed to improve the situation.[4] In October 1999, Philips announced that it will stop producing their Velo Handheld PC and stop using Windows CE entirely due to low sales.[17] After 2000, with Microsoft attempting again with Handheld PC 2000, interest in the form factor overall quickly evaporated, and by early 2002 Microsoft were no longer working on Handheld PC, with its distinct functionality removed from version 4.0 of Windows CE.[9] HP and Sharp both discontinued their Windows CE H/PCs in 2002,[18] while NEC was last to leave the market.[citation needed] At the same time, notebook computers had become increasingly slimmer and portable, and the Handheld PC was increasingly limited by its Windows CE software in comparison.[19] Due to limited success of Handheld PC, Microsoft focused more on the keyboard-less and smaller Pocket PC, which would run what would later be known as Windows Mobile.[20]
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Handheld PC.
+
+
+ActiveSync
+GPD Win
+Handheld PC Explorer
+Netbook
+Nokia 9000 Communicator
+Palmtop PC
+Pandora (computer)
+Pocket PC
+Psion Teklogix
+Smartbook
+Sony CLIÉ UX Series
+Steam Deck
+Subnotebook
+References[edit]
+
+
+^ https://www.nytimes.com/1995/12/08/style/08iht-freq.t.html.%C2%A0
+
+^ "HP Virtual Museum: Hewlett-Packard 95LX computer, 1991". www.hp.com. Retrieved 2020-09-09.
+
+^ "Put a brain in your pocket". The Guardian. 1999-12-16. ISSN 0261-3077. Retrieved 2024-11-05.
+
+^ a b c "Microsoft launches CE-based Handheld PC 2000". www.itprotoday.com. Retrieved 2024-11-05.
+
+^ "Toshiba - Portégé G910". www.mobilephonemuseum.com. Retrieved 2024-11-05.
+
+^ "Sony revives mini PC line for UMPC era". Retrieved 2024-11-07.
+
+^ Edwards, Benj (2021-01-23). "What Was Windows CE, and Why Did People Use It?". How-To Geek. Retrieved 2024-11-05.
+
+^ "The Spectacular Failure of WinCE and Windows Mobile". www.roughlydrafted.com. Retrieved 2021-04-24.
+
+^ a b "The history of Windows CE - thisishenry168". sites.google.com. Archived from the original on 2022-05-17. Retrieved 2021-04-24.
+
+^ Tilley, Chris (2001-02-18). "The History of Windows CE: Windows CE 1". HPC:Factor. Retrieved 2007-04-20.
+
+^ "Rugged PC Review.com - Windows CE 2.0". www.ruggedpcreview.com. Retrieved 2024-11-05.
+
+^ "Microsoft Ships Windows CE 2.0 For the Handheld PC". Stories. 1997-10-13. Retrieved 2024-11-07.
+
+^ "Rugged PC Review.com - The Microsoft Handheld PC Pro". www.ruggedpcreview.com. Retrieved 2024-11-05.
+
+^ "The History of Microsoft Windows CE - Windows CE 2.0, 2.10. 2.11 & 2.12 - hpcfactor.com". www.hpcfactor.com. Retrieved 2024-11-05.
+
+^ Brewin, Bob (2000-09-07). "Microsoft tries again with Handheld PC". Computerworld. Retrieved 2021-04-24.
+
+^ https://jingxinwang.forestry.wvu.edu/files/d/ef7172fc-ffbe-4698-ab92-03b55829f3ed/hpcwce.pdf
+
+^ "Philips cans Velo, bows out of WinCE". Retrieved 2024-11-07.
+
+^ "HP moots handheld PC comeback". Retrieved 2024-11-07.
+
+^ "Never mind the jetpack, where's my 21st-century Psion?". Retrieved 2024-11-07.
+
+^ Evers, Joris (2005-01-06). "Microsoft to phase out Pocket PC, Smartphone brands". InfoWorld. Retrieved 2024-06-19.
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Handheld_PC&oldid=1260873721"
+Categories: Handheld personal computersMobile computersWindows CE devicesHidden categories: Articles with short descriptionShort description is different from WikidataPages using multiple image with manual scaled imagesAll articles with unsourced statementsArticles with unsourced statements from November 2024Commons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 3 December 2024, at 01:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Handheld PC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

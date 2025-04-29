@@ -1,0 +1,122 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_responsive_threequarter
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+  Mobile First Responsiveness
+  Try to resize the window!
+
+
+
+
+  w3-threequarter  
+  The w3-threequarter class uses 75% of parent container.
+  On screens smaller than 601 pixels it resizes to full screen.
+
+
+  w3-quarter
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

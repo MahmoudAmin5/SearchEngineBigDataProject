@@ -1,0 +1,638 @@
+https://en.wikipedia.org/wiki/Template:Mainframes
+
+
+
+
+Template:Mainframes - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Initial visibility
+
+
+
+
+
+
+
+
+2
+TemplateData
+
+
+
+
+
+
+
+
+3
+Template transclusions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Template:Mainframes
+
+
+
+Add languages
+
+
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+TemplateTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+This template does not display in the mobile view of Wikipedia; it is desktop only. See Template:Navbox visibility for a brief explanation.
+This is a navigational template created using {{navbox}}. It can be transcluded on pages by placing {{Mainframes}} below the standard article appendices.
+
+Initial visibility
+This template's initial visibility currently defaults to autocollapse, meaning that if there is another collapsible item on the page (a navbox, sidebar, or table with the collapsible attribute), it is hidden apart from its title bar; if not, it is fully visible.
+To change this template's initial visibility, the |state= parameter may be used:
+
+
+{{Mainframes|state=collapsed}} will show the template collapsed, i.e. hidden apart from its title bar.
+{{Mainframes|state=expanded}} will show the template expanded, i.e. fully visible.
+
+Templates using the classes class=navbox ({{navbox}}) or class=nomobile ({{sidebar}}) are not displayed in article space on the mobile web site of English Wikipedia. Mobile page views account for approximately 68% of all page views (90-day average as of September 2024[update]). Briefly, these templates are not included in articles because 1) they are not well designed for mobile, and 2) they significantly increase page sizes—bad for mobile downloads—in a way that is not useful for the mobile use case. You can review/watch phab:T124168 for further discussion.
+
+TemplateData
+A navigational box that can be placed at the bottom of articles.Template parameters[Edit template data]ParameterDescriptionTypeStatusStatestateThe initial visibility of the navboxSuggested valuescollapsed expanded autocollapseStringsuggested
+Template transclusions
+
+
+Transclusion maintenance
+
+
+Check completeness of transclusions
+
+
+
+
+The above documentation is transcluded from Template:Navbox documentation. (edit | history)Editors can experiment in this template's sandbox (create | mirror) and testcases (create) pages. Subpages of this template.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Mainframes&oldid=1276809702"
+Category: Computer hardware navigational boxes
+
+
+
+
+
+
+ This page was last edited on 20 February 2025, at 22:01 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Template:Mainframes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1248 @@
+https://en.wikipedia.org/wiki/List_of_transistorized_computers
+
+
+
+
+List of transistorized computers - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+1950s
+
+
+
+
+Toggle 1950s subsection
+
+
+
+
+
+1.1
+1953
+
+
+
+
+
+
+
+
+1.2
+1954
+
+
+
+
+
+
+
+
+1.3
+1955
+
+
+
+
+
+
+
+
+1.4
+1956
+
+
+
+
+
+
+
+
+1.5
+1957
+
+
+
+
+
+
+
+
+1.6
+1958
+
+
+
+
+
+
+
+
+1.7
+1959
+
+
+
+
+
+
+
+
+
+
+2
+1960s
+
+
+
+
+Toggle 1960s subsection
+
+
+
+
+
+2.1
+1960
+
+
+
+
+
+
+
+
+2.2
+1961
+
+
+
+
+
+
+
+
+2.3
+1962
+
+
+
+
+
+
+
+
+2.4
+1963
+
+
+
+
+
+
+
+
+2.5
+1964
+
+
+
+
+
+
+
+
+2.6
+1965
+
+
+
+
+
+
+
+
+2.7
+1966
+
+
+
+
+
+
+
+
+2.8
+1967
+
+
+
+
+
+
+
+
+2.9
+1968
+
+
+
+
+
+
+
+
+2.10
+1969
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+Notes
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of transistorized computers
+
+
+
+2 languages
+
+
+
+
+Français日本語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+Main article: Transistor computer
+TRADIC
+This is a list of transistorized computers, which were digital computers that used discrete transistors as their primary logic elements. Discrete transistors were a feature of logic design for computers from about 1960, when reliable transistors became economically available, until monolithic integrated circuits displaced them in the 1970s. The list is organized by operational date or delivery year to customers. Computers announced, but never completed, are not included. Some very early "transistor" computers may still have included vacuum tubes in the power supply or for auxiliary functions.
+
+
+1950s[edit]
+Harwell CADET
+1953[edit]
+University of Manchester Transistor Computer 1953 (prototype) 1955 (full scale) experimental
+1954[edit]
+Bell Labs TRADIC  for U.S. Air Force
+1955[edit]
+Harwell CADET demonstrated February 1955, one-off scientific computer
+1956[edit]
+Electrotechnical Laboratory ETL Mark III (Japan)  experimental, began development 1954, completed 1956,[1] Japan's first transistorized stored-program computer[2][3][4]
+MIT TX-0
+Metrovick 950
+1957[edit]
+Burroughs SM-65 Atlas ICBM Guidance Computer MOD1, AN/GSQ-33 (no relation to Manchester ATLAS)
+Ramo-Wooldridge (TRW) RW-30 airborne computer[5][6]
+Univac TRANSTEC,[7]  for US Navy
+Univac ATHENA, US Air Force missile guidance (ground control)
+IBM 608 transistor calculator (its development was preceded by the prototyping of an experimental all-transistor version of the 604 demonstrated in October 1954), announced 1955, first shipped December 1957
+DRTE Computer, Canadian experimental system delivered 1957, added parallel math unit and other improvements in 1960.[8]
+ETL Mark IV computer, upgraded to the ETL Mark IV A in 1958, a transistor-based computer built at the Japanese government's ElectroTechnical Laboratory, inspired almost every Japanese computer company.[9][10][11][12]
+1958[edit]
+Philco 2000
+Electrologica X1
+TX-2
+UNIVAC Solid State (partially transistorized)
+Philco Transac S-1000 scientific computer- Navy/NSA SOLO,  one-off for NSA
+Philco Transac S-2000 electronic data processing computer[13]
+Mailüfterl
+RCA 501 intended as a commercial system but used in military applications
+Siemens System 2002[14][15] – Prototype in operation since 1956, first machine was put in operation in 1958.[16]
+Autonetics Recomp II
+NCR 304
+1959[edit]
+IBM 1401
+NCR 304, announced in 1957, first delivery in 1959
+Olivetti Elea 9003
+Sylvania MOBIDIC
+IBM 7090 (6/60)[17]
+IBM 1401
+IBM 1620 Model I
+NEAC 2201 (NEC)
+EMIDEC 1100
+TRW RW-300[18]
+PDP-1
+Standard Elektrik Lorenz SEL ER 56[19][20][21]
+1960s[edit]
+UNIVAC LARC
+1960[edit]
+AEI 1010[22]
+Bull Gamma 60
+Honeywell 200
+Honeywell 800 first installation 1960
+UNIVAC LARC
+CDC 160 (7/60)[23]
+CDC 1604 (1/60)[24]
+Datasaab D2
+DRTE Computer, expanded version
+Elliott 803
+GE 210
+AN/FSQ-32 (IBM 4020)
+AN/FSQ-31V
+IBM 7070 (6/60)[25]
+Japan Electrotechnical Laboratory ETL Mark V (5/60)
+Mitsubishi MELCOM 3409
+Clary DE-60
+Monroe Calculating Machine Mark XI (or "Monrobot XI")
+Packard Bell Corporation PB 250[26][27][28] (PB250; no relation to the modern brand of personal computers) used, among others, as the controller for hybrid digital/analog system TRICE[29][30] and HYCOMP 250,[31] and as the control computer for mobile data systems[32]
+Philco TRANSAC S-2000 Model 211
+RCA 301
+1961[edit]
+IBM 7030
+Plessey XL4
+MANIAC III
+CAB 500
+LEO III
+English Electric KDP10
+Bendix G-20
+NEC NEAC 2205
+CDC 160A (7/61)[33]
+CDC 924,[34]
+CDC 924A (8/61)[35]
+Fujitsu FACOM 222
+GE-200 series
+GE-225 1961
+GE-215 1963
+GE-205,235 1964
+GE Datanet 30
+Honeywell 400 (12/61)[36]
+IBM 1410
+IBM 7030 Stretch
+IBM 7074 (12/51)[37]
+Zuse Z23
+IBM 7080 (9/61)[38]
+IBM 1710
+Matsushita MADIC IIA
+RCA 301 (2/61)[39]
+TRW-130 aka AN/UYK-1[40] for Transit submarine navigation satellite receivers
+UNIVAC 490
+Regnecentralen GIER[19]
+1962[edit]
+ICT 1301
+Philco TRANSAC S-2000 Model 212
+Atlas Computer (Manchester)
+ASC-15
+Burroughs D825[41]
+CDC 1604-A[42]
+DEC PDP-4
+GE 412 (7/62)[43]
+IBM 1620 Model II
+ICT 1301
+ILLIAC II
+UNIVAC 1004
+UNIVAC 1107
+UNIVAC III
+IBM 7072 (6/62)[44]
+IBM 7094 (9/62)[45]
+Autonetics D-17B
+Royal Radar Establishment Automatic Computer
+Telefunken TR4
+RW-400 aka AN/FSQ-27 by TRW[46][47][48][49]
+SDS 910
+SDS 920
+Odra 1002
+Ferranti Argus – first delivery in 1962, renamed to Argus 200 in 1963
+Librascope L-2010
+1963[edit]
+CDC 3800
+PDP-6
+Librascope LGP-21
+IBM 1440
+IBM 7010
+IBM 7040 and IBM 7044
+CDC 3000 series, 5 models (1963-1967)
+DEC PDP-5
+Elliott 503
+Ferranti-Packard 6000
+Ferranti Argus 100
+Honeywell 1400 (12/63)[50]
+Honeywell 1800 (11/63)[51]
+Computer Control Company DDP-24 (6/63)[52]
+RCA 601[53]
+UNIVAC 418
+UNIVAC 1050 III*UNIVAC 1050 III (9/63)[54]
+SDS 9300
+BESM 3M, 4 circa 1963
+Siemens 3003[55]
+IBM Saturn Launch Vehicle Computer (hybrid, August 1963)
+1964[edit]
+SDS 930
+Burroughs B5500
+CDC 1604B[56][citation needed]
+DEC PDP-7
+DEC PDP-8
+IBM 7094 II (4/64)[57]
+GE 235 (4/64)[58]
+GE-400 series
+GE 415 (5/64)[59]
+GE 425 (6/64)[60]
+English Electric KDF8
+English Electric KDF9
+Honeywell 200/200 (7/64)[61]
+Honeywell 200/2200 (12/65)[62]
+RCA 3301 (7/64)[1]
+SDS 925
+SDS 930
+UNIVAC 1004 II, III (6/64)[63]
+CDC 160G (4/64)[64]
+CDC 6600
+Titan (1963 computer) (Atlas 2)
+Bunker-Ramo BR-133[65] aka AN/UYK-3[66]
+UMC-10
+PDP-6
+1965[edit]
+NCR 315
+ICT 1900 series
+CDC 1604-C[67]
+GE 435 (9/65)[68]
+GE-600 series  (some integrated circuits)
+NCR 315-RMC
+PDP-8 & 8S (1965 & 1966)[69]
+IBM System/360 family, 14 models (1965-1971). Used IBM SLT[70] hybrid circuits.
+IBM 1130 IBM's least-expensive computer at that time, also used hybrid circuits (IBM SLT)[70]
+IBM M44/44X
+SDS 940
+TRASK, transistor version of BESK
+Model 109-B
+Ural computer family, 3 models (1965-1969)[71][72][73]
+Fabri-Tek BI-TRAN SIX Computer Educational System[74][75][76][77][78]
+Computer Control DDP-116 & 124
+Marconi Myriad I, Ferranti Minicor I hybrid[79] diode–transistor logic
+UNIVAC 1108 II (9/65)[80]
+1966[edit]
+CDC 6400
+CDC 6400 (June 1966)
+DEC PDP-8/S
+DEC PDP-9
+GE 115 (4/66)[81]
+Honeywell 200/120 (2/66)[82]
+Honeywell 200/1200 (1/66)[83]
+Honeywell 200/4200 (12/66)[84]
+IBM 1800
+SDS 940
+SDS Sigma 2
+UNIVAC 494
+UNIVAC 1005 I, II, III (2/66)[85]
+1967[edit]
+CER-22
+D4a built in 1963 by Joachim Lehmann at the TU Dresden in about 10 exemplars.[NB 1] After modifications produced from 1967 as Cellatron 8201.[NB 2][86][87][88][89][90]
+Honeywell 200/8200[91]
+1968[edit]
+PDP-10 (first model only – later versions used ICs)
+SDS 945
+BESM-6 (first model only – later versions used ICs)
+Moscow Power Engineering Institute M-54[92]
+Digico Micro 16
+1969[edit]
+CDC 6700
+CDC 7600
+GE 105
+GE-615
+UNIVAC 1106
+Univac 400
+PDP-12
+See also[edit]
+Transistor count § Transistor computers
+List of vacuum tube computers
+Notes[edit]
+
+
+^ Used for training and research purposes.
+
+^ Revised in 1969 as Cellatron 8205.
+
+
+References[edit]
+
+^ Fransman, Martin (1993-02-25). The Market and Beyond: Cooperation and Competition in Information Technology. Cambridge University Press. pp. 19–20. ISBN 9780521435253.
+
+^ Early Computers, Information Processing Society of Japan
+
+^ 【Electrotechnical Laboratory】 ETL Mark III Transistor-Based Computer, Information Processing Society of Japan
+
+^ Early Computers: Brief History, Information Processing Society of Japan
+
+^ Grabbe, E. M. (February 7, 1957), "The Ramo- Wooldridge Corporation" (PDF), SOME RECENT DEVELOPMENTS IN DIGITAL CONTROL SYSTEMS, Instrumentation and Control in the Process Industries Conference, Chicago, p. 5{{citation}}:  CS1 maint: location missing publisher (link)
+
+^ "RW-30 advertisement". The Michigan Technic. LXXVI (4). UM Libraries: 61. January 1958.
+
+^ Boslaugh, David L. (2003). When Computers Went to Sea: The Digitization of the United States Navy. John Wiley & Sons. p. 113. ISBN 9780471472209.
+
+^ "The DRTE Computer". friendsofcrc.ca. Retrieved 2017-12-28.
+
+^ Sigeru Takahashi (April–June 1986). "Early Transistor Computers in Japan". Annals of the History of Computing. 8 (2): 144–154. doi:10.1109/MAHC.1986.10039.
+
+^ Katsuhiko Noda (June 27, 1966). "Success story: Japanese originals" (PDF). Electronics. 39 (13): 93.
+
+^ 
+"ETL Mark IV"
+
+^ 
+"ETL Mark IV A".
+
+^ Saul Rosen (June 1991). PHILCO: Some Recollections of the PHILCO TRANSAC S-2000 (Computer Science Technical Reports / Purdue e-Pubs). Purdue University. Here: page 2
+
+^ "READERS' AND EDITOR'S FORUM: The Siemens 2002, MAJER-TRENDEL" (PDF). Computers and Automation. 10 (3): 21. March 1961.
+
+^ "COMPUTERS AND CENTERS, OVERSEAS: 10. Siemens & Halske AG, Siemens 2002, Munich, Germany". Digital Computer Newsletter. 11 (2): 19–23. April 1959.
+
+^ "COMPUTERS AND CENTERS, OVERSEAS: 10. Siemens & Halske AG, Siemens 2002, Munich, Germany". Digital Computer Newsletter. 12 (1): 19–20. January 1960.
+
+^ Computer Characteristics Quarterly (PDF). Adams Associates. 1967. p. 44.
+
+^ Weik, Martin H. (March 1961). "RW-300". A Third Survey of Domestic Electronic Digital Computing Systems. Ballistic Research Laboratories Report No. 1115.
+
+^ a b Isaac L. Auerbach (January 1961). "European Information Technology - A Report on the Industry and the State-of-the-Art" (PDF). Proceedings of the IRE. 49 (1): 347.
+
+^ "REFERENCE INFORMATION: A Survey of European Digital Computers, Part 2" (PDF). Computers and Automation. 9 (3): 28–29. March 1960.
+
+^ "COMPUTERS AND CENTERS, OVERSEAS: 1. Standard Elektrik Lorenz AG, ER 56, Stuttgart, Germany". Digital Computer Newsletter. 12 (2): 13–14. April 1960.
+
+^ Foulkes, Ron (Summer 2008). "Computers at Metrovick : the MV 950 & AEI 1010". Resurrection: The Bulletin of the Computer Conservation Society (43). ISSN 0958-7403.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 12.
+
+^ "Control Data Corporation". Computing History. The Minnesota Computing History Project. 15 July 2018.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 44.
+
+^ Beck, Robert Mark (30 December 1960). PB-250 - A High Speed Serial General Purpose Computer Using Magnetostrictive Delay Line Storage. 1960 Fall Joint Computer Conference. p. 284. doi:10.1109/afips.1960.58. The first production computer was delivered in October 1960.
+
+^ 
+"PB-250". The Retro-Computing Society of RI, Inc.
+
+^ Weik, Martin H. (March 1961). "PACKARD BELL 250". A Third Survey of Domestic Electronic Digital Computing Systems. Ballistic Research Laboratories Report No. 1115.
+
+^ Programming manual for TRICE and other material on DDA's 2nd edition | 102664334 | Computer History Museum. Packard Bell Electronics. Packard Bell Computer. 3 May 1960.
+
+^ Weik, Martin H. (March 1961). "TRICE". A Third Survey of Domestic Electronic Digital Computing Systems. Ballistic Research Laboratories Report No. 1115.
+
+^ "Packard Bell Computer | Selling the Computer Revolution | Computer History Museum". www.computerhistory.org.
+
+^ "ACROSS THE EDITOR'S DESK: New Firms, Divisions, and Mergers - ON-CALL DATA VANS FOR HIRE" (PDF). Computers and Automation. XI (7): 28. July 1962.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 12.
+
+^ "Control Data Corporation Collection - Historical Timeline". Charles Babbage Institute.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 12.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 32.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 44.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 44.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 54.
+
+^ "AN/UYK-1 - A "Stored Logic" Multiple Purpose Computer" (PDF). Ramo-Woolridge. 1961-04-21. Archived from the original (PDF) on 2011-09-30. Retrieved 2011-10-19.
+
+^ James P. Anderson; Samuel A. Hoffman; Joseph Shifman; Robert J. Williams (1962), D825 - a multiple-computer system for command & control, Proceedings of the Fall Joint Computer Conference, Spartan, pp. 86–96, doi:10.1109/AFIPS.1962.41
+
+^ "advertisement" (PDF). Datamation. Vol. 8, no. 11. FRANK D. THOMPSON. Nov 1962. pp. 12–14.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 26.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 44.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 44.
+
+^ Weik, Martin H. (March 1961). "RW 400". A Third Survey of Domestic Electronic Digital Computing Systems. Ballistic Research Laboratories Report No. 1115.
+
+^ Helfinstein, Bert (1961-02-01). "Programming Manual AN/FSQ-27 (RW-400)" (PDF) (second ed.). Ramo-Woolridge.
+
+^ "RW-400 Notes" (PDF).
+
+^ Culler, Glen; Huff, Robert (1962), "Managing Requirements Knowledge, International Workshop on", Solution of Non-Linear Integral Equations Using on-Line Computer Control, Proceedings of the Spring Joint Computer Conference, San Francisco, pp. 129–138, doi:10.1109/AFIPS.1962.26{{citation}}:  CS1 maint: location missing publisher (link)
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 32.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 32.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 32.
+
+^ "News Briefs in Datamation 1st 601 is on the air at NJ Bell" (PDF), Datamation, vol. 9, no. 6, GARDNER F. LANDON, p. 52
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 62.
+
+^ "COMPUTERS AND CENTERS, OVERSEAS: 2. Siemens and Halske A.G., 2002 and 3003 Computing Systems, Munich, Germany". Digital Computer Newsletter. 16 (2): 10–14. Apr 1964.
+
+^ "The Air Force comptroller". October 1967. Retrieved September 6, 2020. the 1604B was a three year old second generation computer [in 1967]
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 46.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 26.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 26.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 26.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 30.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 30.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 62.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 12.
+
+^ trw :: BR-133 Brochure May64. May 1964.
+
+^ "AN/UYK-3 General Purpose Computer".
+
+^ "Record of Revisions". Reference Manual Control Data 1604-Computer (PDF). CDC.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 26.
+
+^ Jones, Douglas W. "The PDP-8". THE UNIVERSITY OF IOWA Department of Computer Science. Retrieved May 30, 2018.
+
+^ a b Davis, E.M.; et al. (April 1964). "Solid Logic Technology: Versatile, High-Performance Microelectronics". IBM Journal of Research and Development. 8 (2): 102–114. CiteSeerX 10.1.1.87.4832. doi:10.1147/rd.82.0102. A new microelectronics technique called Solid Logic Technology, or SLT, is utilized in the new family of IBM/360 computers. This new technology provides a hybrid, integrated circuit module which combines discrete, glass-encapsulated silicon transistors and diodes with stencil-screened land patterns and precision passive components.
+
+^ "Electronic Digital Computer Ural-11 (Урал-11)".
+
+^ "Electronic Digital Computer Ural-14 (Урал-14)".
+
+^ "Electronic Digital Computer Ural-16 (Урал-16)".
+
+^ "BI-TRAN SIX ad". Computers and Automation. March 1965.
+
+^ "COMPUTER SCHEMATICS: 4. Bi-Tran Six". Amateur Computer Society Newsletter (1): 4. Aug 1966.
+
+^ "AnyCPU - View topic - Early trainer computers from 1965 and 1972". www.anycpu.org.
+
+^ "FABRI-TEK INTRODUCES NEW CONTROL KEYBOARD CONSOLE FOR BI-TRAN SIX COMPUTER". Computers and Automation: 61. October 1968.
+
+^ "Imgur BI-TRAN SIX image galleries". Imgur.
+
+^ Georghiou, Luke; Evans, Janet; Ray, Tim; Metcalfe, J. Stanley; Gibbons, Michael (1986-03-10). "PART II CASE-STUDIES: 9. Ferranti: Monolithic Microcircuits". Post-Innovation Performance: Technological Development and Competition. Springer. pp. 146–156. ISBN 9781349074556.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 62.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 24.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 30.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 30.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 30.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 62.
+
+^ "Computer D4A". www.robotrontechnik.de (in German). Retrieved 2018-11-05.
+
+^ "Rechenautomaten mit Trommelspeicher" [Calculating machines with drum memory]. www.fv-tsd.de (in German).
+
+^ Robotron Erzeugnislisten (in German). p. 5.
+
+^ "Mercedes Büromaschinen-Werke in Zella-Mehlis – Rechenschieber.org" [Mercedes office machines in Zella-Mehlis – Rechenschieber.org]. www.rechenschieber.org (in German). 2009. pp. 22–28.
+
+^ "Das Leben und Wirken von Prof. N. J. Lehmann" [The life and work of prof. N. J. Lehmann]. www.math.tu-dresden.de (in German). pp. 15–19.
+
+^ "Computer Characteristics Quarterly" (PDF). Adams Associates. 1967. p. 32.
+
+^ U.S. Government Research & Development Reports. National Technical Information Service. 1971. p. 102.
+
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_transistorized_computers&oldid=1276729195"
+Categories: Transistorized computersLists of computer hardwareHidden categories: CS1 maint: location missing publisherCS1 German-language sources (de)Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from September 2020
+
+
+
+
+
+
+ This page was last edited on 20 February 2025, at 12:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of transistorized computers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

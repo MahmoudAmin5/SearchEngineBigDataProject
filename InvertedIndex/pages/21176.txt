@@ -1,0 +1,796 @@
+https://en.wikipedia.org/wiki/List_of_computer_size_categories
+
+
+
+
+List of computer size categories - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Large
+
+
+
+
+
+
+
+
+2
+Intermediate
+
+
+
+
+
+
+
+
+3
+Microcomputer
+
+
+
+
+
+
+
+
+4
+Mobile
+
+
+
+
+
+
+
+
+5
+Others
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of computer size categories
+
+
+
+4 languages
+
+
+
+
+বাংলাفارسی한국어Українська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "List of computer size categories" – news · newspapers · books · scholar · JSTOR (April 2024) (Learn how and when to remove this message)
+This list of computer size categories attempts to list commonly used categories of computer by the physical size of the device and its chassis or case, in descending order of size. One generation's "supercomputer" is the next generation's "mainframe", and a "PDA" does not have the same set of functions as a "laptop", but the list still has value, as it provides a ranked categorization of devices. It also ranks some more obscure computer sizes. There are different sizes like minicomputers, microcomputers, mainframe computers and super computers.[1][2]
+
+
+Large[edit]
+A supercomputer at the Argonne Leadership Angela Yang Computing Facility in Lemont, Illinois, USA
+These are mainly used for scientific calculations or simulations and processing big data with high precission.[2]
+
+Mainframe computer [1][3]
+Supercomputer[4]
+Minisupercomputer
+Intermediate[edit]
+Midrange computer
+Workstation[1]
+Minicomputer[2]
+Superminicomputer[5]
+Microcomputer[edit]
+Main article: Microcomputer
+This is a very broad categorization that includes computers with a single microprocessor as their central processing unit (CPU).[2][6]
+
+Personal computer (PC) [1]
+Desktop computer—see computer form factor for some standardized sizes of desktop computers
+Full-size
+All-in-one
+Compact
+Home theater
+Home computer
+Mobile[edit]
+Main article: Mobile computing
+Desktop replacement computer or desknote
+Laptop computer
+Notebook computer
+Subnotebook computer
+Tablet personal computer
+Handheld computers, which include the classes:
+Ultra-mobile personal computer, or UMPC
+Personal digital assistant or enterprise digital assistant, which include:
+HandheldPC or Palmtop computer
+Pocket personal computer
+Electronic organizer
+E-reader
+Pocket computer
+Calculator, which includes the class:
+Graphing calculator
+Scientific calculator
+Programmable calculator
+Accounting / Financial Calculator
+Handheld game console
+Portable media player
+Portable data terminal
+Handheld
+Smartphone, a class of mobile phone
+Feature phone
+Wearable computer
+Single-board computer
+Wireless sensor network components
+Plug computer
+Stick PC, a single-board computer in a small elongated casing resembling a stick
+Microcontroller
+Smartdust
+Nanocomputer
+Others[edit]
+Rackmount computer
+Blade server
+Blade PC
+Small form-factor PC (SFF, ITX, DTX.etc.)
+See also[edit]
+Classes of computers
+Form factor (design)
+References[edit]
+
+
+^ a b c d Warford, J. Stanley (November 2004). Computer Systems. Jones & Bartlett Learning. p. 11. ISBN 978-0-7637-3239-4.
+
+^ a b c d II, Joseph D. Dumas (25 November 2016). Computer Architecture: Fundamentals and Principles of Computer Design, Second Edition. CRC Press. p. 35. ISBN 978-1-4987-7274-7.
+
+^ "Mainframe | Definition & Facts | Britannica". www.britannica.com. 8 March 2024.
+
+^ "Supercomputer | Definition, Characteristics, Examples, & Facts | Britannica". www.britannica.com. 8 April 2024.
+
+^ Connolly, James (September 30, 1985). "Superminis: Dynamic machines evolving to new uses". Computerworld. p. SR/4, SR10. Retrieved 5 December 2019. No one can say with certainty who coined the word 'superminicomputer' and to what systems he meant it to apply, but consensus is emerging that a supermini is nothing more than a minicomputer — a high-end mini, but a mini nonetheless.
+
+^ "Microcomputer | Definition, Examples, Uses, & Facts | Britannica". www.britannica.com. 19 March 2024.
+
+
+vteComputer form factorsListed by PCB size (mm)Servers
+SSI MEB (411×330)
+SSI EEB (305×330)
+HPTX (345×381)
+WTX (356×425)
+SWTX (419×330)
+Desktop/Workstation
+AT (351×305)
+ATX (305×244)
+EATX (Extended) (305×330)
+Baby-AT (330×216)
+WTX (356×425)
+BTX (325×267)
+LPX (330×229)
+SSI CEB (305x267)
+Ultra ATX (367×244)
+Small form factor
+NLX (254×228)
+microATX (244×244)
+FlexATX (229×191)
+DTX (203×244)
+microBTX (264×267)
+Mini-DTX (203×170)
+Mini-ITX (170×170)
+Mini ATX (150×150)
+Mini-STX (140×147)
+Embedded
+EPIC (Express) (165×115)
+ESM (149×71)
+Nano-ITX (120×120)
+COM Express (125×95)
+ESMexpress (125×95)
+ETX (114×95)
+XTX (114×95)
+NUC (102×102)
+Pico-ITX (100×72)
+PC/104 (-Plus) (96×90)
+ESMini (95×55)
+SMARC (82×80)
+Qseven (70×70)
+mobile-ITX (60×60)
+CoreExpress (58×65)
+
+Small Form Factor Special Interest Group
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_computer_size_categories&oldid=1279582226"
+Categories: Classes of computersComputing-related listsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from April 2024All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 9 March 2025, at 10:43 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of computer size categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

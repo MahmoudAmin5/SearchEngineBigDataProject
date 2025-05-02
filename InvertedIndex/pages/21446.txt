@@ -1,0 +1,165 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_tables_responsive
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+
+Responsive Table
+
+
+
+  First Name
+  Last Name
+  Points
+  Points
+  Points
+  Points
+  Points
+  Points
+  Points
+
+
+  Jill
+  Smith
+  50
+  50
+  50
+  50
+  50
+  50
+  50
+
+
+  Eve
+  Jackson
+  94
+  94
+  94
+  94
+  94
+  94
+  94
+
+
+  Adam
+  Johnson
+  67
+  67
+  67
+  67
+  67
+  67
+  67
+
+
+
+
+
+  A responsive table will display a horizontal scroll bar if the screen is too small to display the full content.
+  Resize the screen to see the effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

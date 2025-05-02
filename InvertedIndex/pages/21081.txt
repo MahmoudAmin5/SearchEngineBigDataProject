@@ -1,0 +1,693 @@
+https://en.wikipedia.org/wiki/Pocket_computer
+
+
+
+
+Pocket computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Pocket computer
+
+
+
+8 languages
+
+
+
+
+CatalàDeutschFrançais한국어日本語Српски / srpskiSuomiTürkçe
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Form of handheld computer popular in the 1980s
+For the class of PDA defined by Microsoft, see Pocket PC.  For other uses, see Pocket computer (disambiguation).
+Sharp PC-E500S pocket computer
+A pocket computer is a class of handheld computer characterized by very short displays (typically accommodating only one or a handful of lines of text) and calculator-style alphanumeric keypads. Pocket computers occupy a small footprint, allowing the unit to be comfortably stashed in one's pocket when on the go, and usually weigh less than 1 pound (0.45 kg). Many feature a port for an expansion chassis, allowing the computers to be used with external peripherals.
+Pocket computers had their peak of popularity in the early 1980s, but sales quickly plateaued and declined in Western markets as consumers became aware of their limitations. In Japan, where they were invented, pocket computers maintained their popularity and continued to be used as teaching aids into the 21st century.
+
+
+History[edit]
+The Sharp PC-1211, the first pocket computer, in a travel case
+The first pocket computer was the Sharp PC-1211, introduced in March 1980 by Sharp Corporation and sold exclusively in Japan. Later in 1980, the PC-1211 was resold and rebranded by Tandy Corporation in the United States as the TRS-80 Pocket Computer (PC-1).[1][2] The invention of the pocket computer was prefigured by pocketable programmable calculators, such as Hewlett-Packard's HP-65 in 1974.[1] Within a couple of years of the PC-1211's release, many other manufacturers, including Hewlett-Packard, Panasonic, and Casio, announced their own pocket computers.[3][4]
+Many pocket computers feature ports for an expansion chassis, allowing the computers to be used with external peripherals. Such peripherals include data cassettes, printers, plotters, and modems.[5]: 61 [6]: 2247  Sharp's PC-1401, released in 1983, merged the scientific calculator and pocket computer for the first time through the addition of scientific calculation function buttons to the side. This served as the foundation for competing clone models by Casio and HP.[7] Toward the end of the 1980s, a number of pocket computers were developed with larger screens capable of displaying both graphics and text.[8]: 90 
+Pocket computers had a surge of popularity on their market introduction in the early 1980s. In 1983, however, sales of pocket computers dropped considerably; Radio Shack reported that they had shipped 40,000 units of their pocket computers in 1983, compared to 70,000 in 1982. According to InfoWorld, this drop was due to both ambiguous marketing and consumers becoming become aware of the limitations of pocket computers. Owing to their limited random-access memory (RAM), the extent of the built-in software of most early pocket computers was limited to a simple interpreter, usually for the BASIC and Fortran programing languages. The few aftermarket commercial software titles that were available for these pocket computers were very limited in scope and capability, due to the lack of RAM and limited screen real estate. This reduced their mass-market appeal, and by the mid-1980s the user-base of pocket computers comprised largely scientific engineers, surveyors, and technicians.[5]: 59  Additionally, the diminutive keypads rendered touch typing impossible for almost all pocket computer users.[6]: 2247 
+Sales of pocket computers in the West had all but stalled by the late 1980s with the transition away from home computers to the IBM PC paradigm.[7] In these Western markets they were succeeded by so-called handheld PCs, like the Poqet PC and the Atari Portfolio, which were both software-compatible with the IBM PC and featured more RAM.[9] For those who did not need advanced programming capability, electronic organizers such as the Sharp Wizard proliferated in the 1990s among casual users and businesspeople.[10] In Japan, however, pocket computers managed to stay popular into the early 21st century, finding use as a teaching aid in education. The last pocket computers manufactured by Sharp, the PC-G850 series, were released in 2001 and featured 24-column, 6-line dot-matrix LCDs while being powered by CMOS-based Z80-compatible processors.[7]
+
+See also[edit]
+Personal digital assistant
+Smartbook
+Ultra-mobile PC
+References[edit]
+
+
+^ a b Hayes, Frank (December 16, 2002). "The Story So Far". Computerworld. 36 (51). IDG Publications: 28 – via ProQuest.
+
+^ Ockenden, Paul (January 2022). "'Even the baggy-trousered fashion of the time didn't have pockets that big!'". PC Pro. Future Publishing: 111 – via Gale.
+
+^ Staff writer (June 14, 1982). "When 'calculator' is a dirty word". Business Week (2743). McGraw-Hill: 62 – via Google Books.
+
+^ Slotnick, D. L. (1986). Computers and Applications: An Introduction to Data Processing. D.C. Heath. p. 444. ISBN 9780669086751 – via Google Books.
+
+^ a b Chin, Kathy (February 13, 1984). "Hand-held micros lose hold". InfoWorld. 6 (7). IDG Publications: 59, 61–64 – via Google Books.
+
+^ a b Król, Karol (September 2021). "Hardware Heritage – Briefcase-Sized Computers". Heritage. 4 (3). MDPI: 2237–2252. doi:10.3390/heritage4030126 – via ProQuest.
+
+^ a b c Staff writers (November 2023). "A computer in your pocket". APC (525). Future US: 60 et seq – via Gale.
+
+^ Computer Age. Time-Life Books. 1992. pp. 90–91. ISBN 0809496704 – via Google Books.
+
+^ Knight, John (December 2021). "Ultra-Mobile Computers". MaxPC US. Future US: 38 et seq – via Gale.
+
+^ Woodill, Gary (2010). The Mobile Learning Edge: Tools and Technologies for Developing Your Teams. McGraw-Hill. p. 9. ISBN 9780071739849 – via Google Books.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Pocket computers.
+
+The Pocket Computer Museum
+List of pocket computer manufacturers at Epocalc.net
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+Authority control databases: National Czech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pocket_computer&oldid=1284090529"
+Categories: Pocket computersJapanese inventionsComputer-related introductions in 1980Hidden categories: Articles with short descriptionShort description is different from WikidataCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 5 April 2025, at 14:32 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Pocket computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

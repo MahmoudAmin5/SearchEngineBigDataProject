@@ -1,0 +1,1567 @@
+https://en.wikipedia.org/wiki/QNX
+
+
+
+
+QNX - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Technology
+
+
+
+
+
+
+
+
+3
+Releases
+
+
+
+
+
+
+
+
+4
+Uses
+
+
+
+
+
+
+
+
+5
+Licensing
+
+
+
+
+
+
+
+
+6
+Community
+
+
+
+
+Toggle Community subsection
+
+
+
+
+
+6.1
+QNX Board Support Packages
+
+
+
+
+
+
+
+
+6.2
+BlackBerry QNX Partners
+
+
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Further reading
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+QNX
+
+
+
+28 languages
+
+
+
+
+العربيةБеларускаяCatalàČeštinaDeutschEspañolفارسیFrançais한국어IlokanoItalianoעבריתLietuviųMagyarNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSimple EnglishSlovenčinaSuomiSvenskaதமிழ்TürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Real-time operating system (RTOS) software
+Operating system
+QNXDeveloperBlackBerry (formerly QNX Software Systems)OS familyUnix-likeWorking stateCurrentSource modelClosed sourceInitial release1982; 43 years ago (1982)Latest release8.0 / December 2023; 1 year ago (2023-12)Marketing targetEmbedded systemsPackage managerAble to use Pkgsrc framework from NetBSD projectPlatformsCurrent: x86-64, ARM32, ARM64Former: MIPS, PowerPC, SH-4, StrongARM, XScaleKernel typeRTOS (microkernel)UserlandPOSIXLicenseProprietaryOfficial websiteblackberry.qnx.com
+QNX (/ˌkjuː ˌɛn ˈɛks/ or /ˈkjuːnɪks/) is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market.
+The product was originally developed in the early 1980s by Canadian company Quantum Software Systems, founded March 30, 1980, and later renamed QNX Software Systems.
+As of 2022[update], it is used in a variety of devices including automobiles,[1] medical devices, program logic controllers, automated manufacturing, trains, and more.
+
+
+History[edit]
+This section is in list format but may read better as prose. You can help by converting this section, if appropriate. Editing help is available. (April 2022)
+Gordon Bell and Dan Dodge, both students at the University of Waterloo in 1980, took a course in real-time operating systems, in which the students constructed a basic real-time microkernel and user programs. Both were convinced there was a commercial need for such a system, and moved to the high-tech planned community Kanata, Ontario, to start Quantum Software Systems that year. In 1982, the first version of QUNIX was released for the Intel 8088 CPU. In 1984, Quantum Software Systems renamed QUNIX to QNX (Quantum's Network eXecutive) in an effort to avoid any trademark infringement challenges.
+One of the first widespread uses of the QNX real-time OS (RTOS) was in the nonembedded world when it was selected as the operating system for the Ontario education system's own computer design, the Unisys ICON. Over the years QNX was used mostly for larger projects, as its 44k kernel was too large to fit inside the one-chip computers of the era. The system garnered a reputation for reliability[citation needed] and became used in running machinery in many industrial applications.
+In the late-1980s, Quantum realized that the market was rapidly moving towards the Portable Operating System Interface (POSIX) model and decided to rewrite the kernel to be much more compatible at a low level. The result was QNX 4. During this time Patrick Hayden, while working as an intern, along with Robin Burgener (a full-time employee at the time), developed a new windowing system. This patented[2] concept was developed into the embeddable graphical user interface (GUI) named the QNX Photon microGUI. QNX also provided a version of the X Window System.
+To demonstrate the OS's capability and relatively small size, in the late 1990s QNX released a demo image that included the POSIX-compliant QNX 4 OS, a full graphical user interface, graphical text editor, TCP/IP networking, web browser and web server that all fit on a bootable 1.44 MB floppy disk for the 386 PC.[3][4]
+Toward the end of the 1990s, the company, then named QNX Software Systems, began work on a new version of QNX, designed from the ground up to be symmetric multiprocessing (SMP) capable, and to support all current POSIX application programming interfaces (APIs) and any new POSIX APIs that could be anticipated while still retaining the microkernel architecture. This resulted in QNX Neutrino, released in 2001.
+Along with the Neutrino kernel, QNX Software Systems became a founding member of the Eclipse (integrated development environment) consortium. The company released a suite of Eclipse plug-ins packaged with the Eclipse workbench in 2002, and named QNX Momentics Tool Suite.
+In 2004, the company announced it had been sold to Harman International Industries. Before this acquisition, QNX software was already widely used in the automotive industry for telematics systems. Since the purchase by Harman, QNX software has been designed into over 200 different automobile makes and models, in telematics systems, and in infotainment and navigation units.[citation needed] The QNX CAR Application Platform was running in over 20 million vehicles as of mid-2011.[5] The company has since released several middleware products including the QNX Aviage Multimedia Suite, the QNX Aviage Acoustic Processing Suite and the QNX HMI Suite.
+The microkernels of Cisco Systems' IOS-XR (ultra high availability IOS, introduced 2004)[6][7] and IOS Software Modularity (introduced 2006)[8] were based on QNX. IOS Software Modularity never gained traction and was limited only to small run for Catalyst 6500, while IOS XR moved to Linux  as of release 6.x.
+In September 2007, QNX Software Systems announced the availability of some of its source code.[9]
+On April 9, 2010, Research In Motion (later renamed to BlackBerry Limited) announced they would acquire QNX Software Systems from Harman International Industries.[10] On the same day, QNX source code access was restricted from the public and hobbyists.[11]
+In September 2010, the company announced a tablet computer, the BlackBerry PlayBook, and a new operating system BlackBerry Tablet OS based on QNX to run on the tablet.[12]
+On October 18, 2011, Research In Motion announced "BBX",[13] which was later renamed BlackBerry 10, in December 2011.[14] Blackberry 10 devices build upon the BlackBerry PlayBook QNX based operating system for touch devices, but adapt the user interface for smartphones using the Qt based Cascades Native User-Interface framework.
+At the Geneva Motor Show, Apple demonstrated CarPlay which provides an iOS-like user interface to head units in compatible vehicles. Once configured by the automaker, QNX can be programmed to hand off its display and some functions to an Apple CarPlay device.[15][16]
+On December 11, 2014, Ford Motor Company stated that it would replace Microsoft Auto with QNX.[1]
+In January 2017, QNX announced the upcoming release of its SDP 7.0, with support for Intel and ARM 32- and 64-bit platforms, and support for C++14. It was released in March 2017.[17]
+In December 2023, QNX released QNX SDP 8.0 which is powered by a next generation microkernel with support for the latest Intel and ARM [v8 and v9] 64 bit platforms, GCC12 based toolchain and a QNX toolkit for Visual Studio Code.[18]
+
+Technology[edit]
+As a microkernel-based OS, QNX is based on the idea of running most of the operating system kernel in the form of a number of small tasks, named Resource Managers. This differs from the more traditional monolithic kernel, in which the operating system kernel is one very large program composed of a huge number of parts, with special abilities. In the case of QNX, the use of a microkernel allows users (developers) to turn off any functions they do not need without having to change the OS. Instead, such services will simply not run.
+The QNX kernel, procnto (also name of the binary executable program for the QNX Neutrino ('nto') process ('proc') itself), contains only CPU scheduling, interprocess communication, interrupt redirection and timers. Everything else runs as a user process, including a special process known as proc which performs process creation and memory management by operating in conjunction with the microkernel. This is made possible by two key mechanisms: subroutine-call type interprocess communication, and a boot loader which can load an image containing the kernel and any desired set of user programs and shared libraries. There are no device drivers in the kernel. The network stack is based on NetBSD code.[19] Along with its support for its own, native, device drivers, QNX supports its legacy, io-net manager server, and the network drivers ported from NetBSD.[20]
+QNX interprocess communication consists of sending a message from one process to another and waiting for a reply. This is a single operation, called MsgSend. The message is copied, by the kernel,[citation needed] from the address space of the sending process to that of the receiving process. If the receiving process is waiting for the message, control of the CPU is transferred at the same time, without a pass through the CPU scheduler. Thus, sending a message to another process and waiting for a reply does not result in "losing one's turn" for the CPU. This tight integration between message passing and CPU scheduling is one of the key mechanisms that makes QNX message passing broadly usable. Most Unix and Linux interprocess communication mechanisms lack this tight integration, although a user space implementation of QNX-type messaging for Linux does exist. Mishandling of this subtle issue is a primary reason for the disappointing performance of some other microkernel systems such as early versions of Mach.[citation needed] The recipient process need not be on the same physical machine.
+All I/O operations, file system operations, and network operations were meant to work through this mechanism, and the data transferred was copied during message passing. Later versions of QNX reduce the number of separate processes and integrate the network stack and other function blocks into single applications for performance reasons.
+Message handling is prioritized by thread priority. Since I/O requests are performed using message passing, high priority threads receive I/O service before low priority threads, an essential feature in a hard real-time system.
+The boot loader is the other key component of the minimal microkernel system. Because user programs can be built into the boot image, the set of device drivers and support libraries needed for startup need not be, and are not, in the kernel. Even such functions as program loading are not in the kernel, but instead are in shared user-space libraries loaded as part of the boot image. It is possible to put an entire boot image into ROM, which is used for diskless embedded systems.
+Neutrino supports symmetric multiprocessing and processor affinity, called bound multiprocessing (BMP) in QNX terminology. BMP is used to improve cache hitting and to ease the migration of non-SMP safe applications to multi-processor computers.
+Neutrino supports strict priority-preemptive scheduling and adaptive partition scheduling (APS). APS guarantees minimum CPU percentages to selected groups of threads, even though others may have higher priority. The adaptive partition scheduler is still strictly priority-preemptive when the system is underloaded. It can also be configured to run a selected set of critical threads strictly real time, even when the system is overloaded.
+The QNX operating system also contained a web browser known as 'Voyager'.[21]
+Due to its microkernel architecture QNX is also a distributed operating system. Dan Dodge and Peter van der Veen hold U.S. Patent 6,697,876: Distributed kernel operating system based on the QNX operating system's distributed processing features known commercially as Transparent Distributed Processing. This allows the QNX kernels on separate devices to access each other's system services using effectively the same communication mechanism as is used to access local services.[non-primary source needed]
+
+Releases[edit]
+
+QNX RTOS history[22]
+
+
+Version
+
+Date
+
+Distribution medium
+
+Notes
+
+
+
+
+1981
+
+
+
+QUNIX Founded.
+
+
+Beta
+
+1983
+
+
+
+As QNX Beta
+
+
+1.0
+
+1984
+
+
+
+
+
+
+2.0
+
+1987
+
+
+
+Elements of 4.3BSD like TCP/IP and PPP merged into QNX 2.0.
+
+
+2.21
+
+1989
+
+
+
+QNX 2.21
+
+
+4.0
+
+1990
+
+
+
+QNX 4.0
+
+
+4.1
+
+1994
+
+
+
+Elements of 4.4BSD into  QNX 4.1
+
+
+4.2
+
+1995
+
+
+
+QNX 4.2
+
+
+4.22
+
+1995
+
+
+
+QNX 4.22
+
+
+4.24
+
+1995
+
+
+
+QNX/Neutrino 1.0 is forked from QNX 4.24
+
+
+4.25
+
+1997
+
+
+
+QNX 4.25 continues after fork with QNX/Neutrino 1.0.
+
+
+QNX/Neutrino microkernel history (forked from QNX 4.24 in 1996)
+
+
+Release
+
+Date
+
+Notes
+
+
+1.0
+
+1996
+
+QNX/Neutrino 1.0 as forked from QNX 4.24
+
+
+2.0
+
+1998
+
+QNX/Neutrino 2.0
+
+
+2.10
+
+1999
+
+QNX/Neutrino 2.10 (QRTP)
+
+
+6
+
+January 18, 2001
+
+QNX RTOS 6
+
+
+6.1.0
+
+2001
+
+QNX RTOS 6
+
+
+6.1.0 (patch A)
+
+September 28, 2001
+
+
+
+
+6.2
+
+June 4, 2002
+
+QNX 6.2 (Momentics)
+
+
+6.2 (patch A)
+
+October 18, 2002
+
+QNX 6.2
+
+
+6.2.1
+
+February 18, 2003
+
+QNX 6.2.1 (Momentics)
+
+
+6.3
+
+June 3, 2004
+
+QNX 6.3
+
+
+6.3.0 SP1
+
+?
+
+
+
+
+6.3.0 SP2
+
+?
+
+
+
+
+6.3.0 SP3/OS 6.3.2
+
+?
+
+
+
+
+6.3.2
+
+August 16, 2006[23]
+
+
+
+
+6.4.0
+
+October 30, 2008
+
+QNX Neutrino RTOS 6.4.0
+
+
+6.4.1
+
+May 2009
+
+QNX Neutrino RTOS 6.4.1
+
+
+6.5.0
+
+July 2010
+
+QNX Neutrino RTOS 6.5.0 is forked to produce BBX,as announced on October 18, 2011, and later previewed,named "BlackBerry 10 OS" on May 1, 2012.
+
+
+6.5 SP1
+
+July 11, 2012
+
+QNX Neutrino RTOS 6.5 SP1
+
+
+6.6
+
+February 28, 2014
+
+QNX 6.6
+
+
+7.0
+
+January 4, 2017
+
+QNX SDP 7.0, first version with 64-bit support
+
+
+7.1
+
+July 23, 2020
+
+QNX SDP 7.1
+
+
+8.0
+
+December 2023
+
+QNX SDP 8.0[24]
+
+Uses[edit]
+The BlackBerry PlayBook tablet computer designed by BlackBerry uses a version of QNX as the primary operating system. The BlackBerry 10 operating system is also based on QNX.
+QNX is also used in car infotainment systems with many major car makers offering variants that include an embedded QNX architecture. It is supported by popular SSL/TLS libraries such as wolfSSL.[25]
+Since the introduction of its "Safe Kernel 1.0" in 2010, QNX was projected and used subsequently in automated drive or ADAS systems for automotive projects that require a functional safety certified RTOS. QNX provides this with its QNX OS for Safety products.[26]
+QNX Neutrino (2001) has been ported to a number of platforms and now runs on practically any modern central processing unit (CPU) family that is used in the embedded market. This includes the PowerPC, x86, MIPS, SH-4, and the closely interrelated group of ARM, StrongARM, and XScale.
+As of June 26, 2023, QNX software is now embedded in over 255 million[27] vehicles worldwide, including most leading OEMs and Tier 1s, such as BMW, Bosch, Continental, Dongfeng Motor, Geely, Ford, Honda, Mercedes-Benz, Subaru, Toyota, Volkswagen, Volvo, and more.[28]
+
+Licensing[edit]
+On Jan 06, 2005, QNX made its software development platform available for non-commercial use.[29]
+QNX offers a license for noncommercial and academic users.[30] In January 2024, BlackBerry introduced QNX Everywhere to make QNX more accessible to Hobbyists. QNX Everywhere was made publicly accessible in early 2024.[31]
+
+Community[edit]
+OpenQNX is a QNX Community Portal established and run independently. An IRC channel and Newsgroups access via web is available. Diverse industries are represented by the developers on the site.[32]
+Foundry27 is a web-based QNX community established by the company. It serves as a hub to QNX Neutrino development where developers can register, choose the license, and get the source code and related toolkit of the RTOS.[33]
+QNX Board Support Packages[edit]
+QNX Standard Support is available for a BSP that is listed below as available on QNX Software Center. For other BSPs, alternative forms of support (e.g., custom support plans, etc.) may be available or required from the “BSP Supplier” or “Board Vendor” indicated below. [34]
+
+BlackBerry QNX Partners[edit]
+BlackBerry QNX has worked with a network of partner organizations to provide complementary technologies. These important relationships have ability to provide the foundational software, middleware, and services behind the world's most critical embedded systems.[35]
+
+See also[edit]
+Comparison of operating systems
+Android Auto
+Android Automotive
+Automotive Grade Linux
+CarPlay
+Ford Sync
+HarmonyOS NEXT
+OpenHarmony
+Windows Embedded Automotive
+References[edit]
+
+
+^ a b Burns, Matt (December 11, 2014). "Ford Ditches Microsoft For QNX In Latest In-Vehicle Tech Platform". TechCrunch. Retrieved February 26, 2015.
+
+^ US5745759
+
+^ Hildebrand, Dan (6 June 1997). "Think Small. (The 1.44M Web Challenge)". marc.info.
+
+^ "How we did it!". Archived from the original on 28 November 1999. Retrieved 3 August 2020.
+
+^ QNX CAR http://www.qnx.com/products/qnxcar/
+
+^ "QNX Delivers Extremely Reliable Microkernel for Massively Scalable Routing System". 2004-08-17. Retrieved 2012-03-16.
+
+^ "CRS-1 and IOS XR Operational Best Practices". Cisco.
+
+^ Brad Reese- BradReese.Com (2006-09-26). "Which OS is behind IOS?". Archived from the original on 2011-12-22. Retrieved 2012-03-16.
+
+^ Leroux, Paul (12 September 2007). "QNX Publishes Neutrino Source Code and Opens Development Process". www.qnx.com.
+
+^ "RIM to buy QNX Software". The Globe and Mail. Toronto. The Canadian Press. 9 April 2010. Retrieved 2010-04-09.
+
+^ "foundry27: View Wiki Page: UpdatedQNXSourceAccessPolicyFAQ". community.qnx.com.
+
+^ "RIM Unveils The BlackBerry PlayBook" (official press release). September 27, 2010.
+
+^ Molen, Brad (18 October 2011). "Research in Motion announces BBX, 'combines the best of BlackBerry and QNX'". Engadget. Retrieved 20 January 2013.
+
+^ Arthur, Charles (2011-12-07). "BlackBerry-maker RIM forced to drop BBX name for new software". Guardian. London. Retrieved 2013-01-20.
+
+^ Hartley, Matt (3 March 2014). "Apple Inc CarPlay brings iPhone features to GM, BMW, Ford and other car dashboards". Financial Post. Retrieved 2014-03-28.
+
+^ "BlackBerry's QNX: Why it's so valuable to Apple, Google, auto industry". ZDNet. Retrieved 2014-10-27.
+
+^ "BlackBerry QNX Launches its Most Advanced and Secure Embedded Software Platform for Autonomous Drive and Connected Cars". 2017-01-04.
+
+^ "QNX® Software Development Platform (SDP) 8.0". 11 December 2023.
+
+^ "Core Networking 6.4: Neutrino's Next Gen Networking Stack and Foundry27".
+
+^ "foundry27: View Wiki Page: Drivers_wiki_page". community.qnx.com.
+
+^ "QNX Neutrino RTOS – Embedded OS | BlackBerry QNX | BlackBerry QNX".
+
+^ Lévénez, Éric (May 1, 2011). "UNIX History". levenez.com. Retrieved May 18, 2011.
+
+^ "QNX® Neutrino® Core OS 6.3.2 Release Notes". 16 August 2006.
+
+^ "QNX® Software Development Platform (SDP) 8.0: Release Notes". 11 December 2023.
+
+^ "wolfSSL Build Sizes for the QNX Embedded RTOS". wolfSSL. 17 September 2010. Retrieved 2019-02-13.
+
+^ "QNX OS for Safety".
+
+^ "QNX Embedded Technology Powers 255 Million Vehicles On The Road Today".
+
+^ "BlackBerry Software Is Now Embedded In Over 235 Million Vehicles". www.blackberry.com. Retrieved 2024-09-23.
+
+^ "QNX Doubles Down on Developer Support to Fuel Embedded Software Innovation Everywhere".
+
+^ "BlackBerry Launches QNX Everywhere to Address Global Embedded Software Developer Skills Shortage".
+
+^ "Free Access to QNX SDP 8.0 for Non-Commercial Use".
+
+^ OpenQNX Community Portal: Announce
+
+^ QNX Press Releases: Foundry27
+
+^ "QNX Board Support Packages". 7 November 2024.
+
+^ "Blackberry QNX Partners". 12 November 2024.
+
+
+Further reading[edit]
+Dan Hildebrand (1992). "An Architectural Overview of QNX". Proceedings of the Workshop on Micro-kernels and Other Kernel Architectures: 113–126. ISBN 1-880446-42-1.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to QNX.
+
+Official website
+Development for QNX phones
+Foundry27
+QNX User Community
+Open source applications
+GUIdebook > GUIs > QNX
+QNX used for Canadian Nuclear Power Plants
+QNX demo floppy disk
+vteBlackBerry LimitedExecutive team
+John S. Chen (CEO and Executive Chair)
+DevicesAndroid
+Priv
+DTEK
+KeyOne
+Aurora
+Motion
+Key2
+Evolve
+BlackBerry 10
+Z series
+Z30
+Z10
+Z3
+Q series
+Q10
+Q5
+P'9982
+Passport
+Classic
+Leap
+BlackBerry Tablet OS
+PlayBook
+Classic BlackBerry OS
+pagers
+900
+950
+Quark series
+Charm
+Electron series
+Pearl series
+Curve series
+8520
+Bold series
+9700
+Storm
+Tour
+Storm 2
+Torch series
+9800
+Style
+P'9981
+Services
+BlackBerry Messenger (BBM)
+BBM Enterprise
+BlackBerry World
+BlackBerry Enterprise Server (BES)
+Documents To Go
+
+ Telephones portal
+ Category
+ Commons
+
+vteReal-time operating systems (RTOS)OperatingsystemsPOSIX supportUnix-like
+DNIX
+Junos OS
+LynxOS
+Multi-Environment Real-Time^ (MERT – Unix-RT)
+OS2000
+QNX^
+Real-Time Linux°
+RTLinux°
+UNOS
+LiteOS
+LiteOS°
+Partial
+ChorusOS^
+Integrity^
+Nucleus RTOS^
+NuttX^°
+Operating System Embedded^ (OSE)
+PX5 RTOS^
+RIOT^°
+RTEMS°
+TRON support
+ITRON project
+T-Kernel
+Micro T-Kernel
+T-Engine Forum (organization)
+T-License
+Partial
+eCos°
+RTEMS°
+Capability-based
+EROS^°
+seL4^°
+Java virtual machine
+Chorus/Jazz^ (JavaOS + ChorusOS^)
+DOS
+Multiuser DOS
+Concurrent DOS
+FlexOS
+REAL/32
+L4 kernel
+L4Linux^°
+PikeOS^
+REX OS^
+Wombat^°
+Psion
+EKA2^° kernel → Symbian OS^°
+Microsoft
+ThreadX^
+Windows Embedded Compact
+IBM
+4680 OS
+4690 OS
+Transaction Processing Facility (TPF)
+Texas Instruments
+DSOS
+TI-RTOS Kernel^°
+DEC PDP-11 & VAX
+RSX-11
+RT-11
+VAXELN
+Low resource
+ChibiOS/RT^°
+Contiki°
+ERIKA Enterprise°
+FunkOS°
+Mynewt°
+Nano-RK°
+OpenComRTOS^
+PX5 RTOS^
+RT-Thread° Nano
+RIOT°
+RTEMS°
+ThreadX^
+Zephyr^°
+
+BeRTOS^°
+DioneOS
+embOS
+FreeRTOS^°
+µC/OS^°
+µ-velOSity^
+MQX^
+OS-9 (Microware)
+Phantom OS^°
+pSOS
+RMX
+RT-Thread° Standard
+ScreenOS
+Sintran III
+THEOS
+Thoth^ → Harmony^
+VRTX^
+VxWorks
+UniProtonFrameworks, kits
+Robot Operating System° 2
+RTAI°
+TI-RTOS^°
+Xenomai°
+Developers
+Gordon Bell
+David Cheriton
+Dave Cutler
+Dan Dodge
+Adam Dunkels
+Ken Sakamura
+
+Italics = discontinued
+^ = Microkernel
+° = Open-source software Comparison  Category
+
+vteUnix and Unix-like operating systems and compatibility layers
+Architecture
+Filesystem
+History
+Philosophy
+Security
+Shell
+OperatingsystemsBSD
+386BSD
+FreeBSD
+NetBSD
+OpenBSD
+DragonFly BSD
+Darwin
+macOS
+iOS
+audioOS
+iPadOS
+tvOS
+watchOS
+bridgeOS
+DYNIX
+NeXTSTEP
+SunOS
+Ultrix
+Linux
+Android
+Arch
+ChromeOS
+Debian
+Fedora
+Gentoo
+Red Hat
+Slackware
+SUSE
+Ubuntu
+Other distributions
+System V
+A/UX
+AIX
+HP-UX
+IRIX
+OpenServer
+Solaris
+OpenSolaris
+Illumos
+Tru64 UNIX
+UnixWare
+Other
+Coherent
+Domain/OS
+GNU
+Hurd
+LynxOS
+Minix
+MOS
+OSF/1
+QNX
+BlackBerry 10
+Research Unix
+SerenityOS
+Xenix
+more...
+Compatibilitylayers
+Cygwin
+Darling
+Eunice
+GNV
+Interix
+MachTen
+Microsoft POSIX subsystem
+MKS Toolkit
+PASE
+P.I.P.S.
+PWS/VSE-AF
+UNIX System Services
+UserLAnd Technologies
+Windows Services for UNIX
+Windows Subsystem for Linux
+
+Italics indicate discontinued systems.  Category
+ Commons
+
+vteMicrokernels-nanokernelsKernelsL4 family
+Eumel → L3 → L4°
+OKL4°
+Macintosh hosted
+Mac OS nanokernel
+NuKernel
+Psion
+EKA1 → EKA2^°
+Amiga-type
+Exec
+ExecSG
+Quark
+WarpOS
+
+ADEOS°
+EROS^°
+K42°
+Little Kernel
+Mach°
+GNU Mach°
+MicroEmpix
+µ-velOSity^
+nucleus
+Off++ → Plan B
+Opus
+PowerUP
+RTLinux°
+TI-RTOS kernel^°
+VanguardOperatingsystemsPOSIX supportUnix-like
+ARX
+GNU Hurd°
+Lites
+MeikOS
+Minix°
+Minix-vmd°
+Minix 3°
+MkLinux°
+Multi-Environment Real-Time^ (MERT – Unix-RT)
+OS2000
+QNX^
+Redox°
+Spring
+Tinix
+UNICOS
+VSTa
+Partial
+ChorusOS^
+Integrity^
+Nucleus RTOS^
+NuttX^°
+OSE^
+RIOT^°
+Capability-based
+GNOSIS → KeyKOS → EROS → CapROS
+Hydra
+seL4^°
+Midori
+NLTSS
+HarmonyOS NEXT (OpenHarmony, Oniro OS) → HarmonyOS
+L4 kernel
+L4Linux^°
+PikeOS^
+REX OS^
+Wombat^°
+Java virtual machine
+JavaOS (Chorus/Jazz^ integrates ChorusOS^)
+JX°
+Macintosh hostedUnix-like
+MachTen
+MacMach
+
+Copland
+Classic Mac OS (PowerPC kernel)Psion
+EPOC → Symbian OS^°
+Amiga-type
+AmigaOS
+AROS°
+AspireOS°
+Broadway°
+Icaros Desktop°
+MorphOS
+Microsoft
+Singularity
+ThreadX^°
+Verve
+AIM alliance
+Pink → Taligent OS → Workplace OS
+
+Amoeba°
+BeRTOS^°
+ChibiOS/RT^°
+FreeRTOS^°
+HelenOS°
+µC/OS^°
+MQX^
+OpenComRTOS^
+Phantom OS^°
+RC 4000
+SharpOS°
+SPIN°
+Thoth^ → Harmony^ → V
+VRTX^Frameworks, kits
+Cosmos°
+Genode°
+TI-RTOS^°
+Developers
+Gordon Bell
+Thomas Bushnell
+David Cheriton
+Dan Dodge
+Per Brinch Hansen
+Gernot Heiser
+Jochen Liedtke
+James G. Mitchell
+Ike Nassi
+Richard Rashid
+Andrew S. Tanenbaum
+Avie Tevanian
+William Wulf
+
+Italics = discontinued
+^ = Real-time
+° = Open-source software Category: Microkernel-based operating systems  Category: Microkernels
+
+vteMobile operating systems
+Comparison
+Open-source mobile phones, OSes
+Open Handset Alliance
+Open Mobile Alliance
+Mobile app distributions
+Mobile app development
+LinuxKernel
+Active: Android
+forks
+Android Go
+Wear OS
+EMUI, HarmonyOS (Linux kernel subsystem)
+ChromeOS
+ChromeOS Flex
+KaiOS
+Smart Feature OS
+Kindle firmware
+LuneOS
+Maemo Leste
+Tizen
+Defunct: Bada
+Firefox OS
+B2G OS
+MeeGo
+MontaVista
+MotoMagx
+Mobilinux
+OpenEmbedded
+Ångström
+Openmoko Linux
+QtMoko
+SHR
+OpenEZX
+WebOS
+GNU/Linux
+Active: Fedora Mobility
+Manjaro ARM
+postmarketOS
+PureOS
+Sailfish OS
+SteamOS
+Ubuntu Touch
+UBports
+Mobian
+Defunct: Maemo
+Mer
+Moblin
+XNU
+iOS
+iPadOS
+watchOS
+bridgeOS
+QNX
+BlackBerry 10
+BlackBerry Tablet OS
+MicrosoftWindows
+Windows XP Tablet PC Edition
+Windows Mobile
+Windows Phone
+7
+8
+8.1
+Windows RT
+Windows 10 Mobile
+Windows 8
+Windows 8.1
+Windows 10
+Windows 11
+Zircon
+Fuchsia
+FreeBSD, NetBSD
+PlayStation Vita system software
+OpenHarmony,HarmonyOS NEXT
+Active: OpenHarmony
+HarmonyOS
+HarmonyOS NEXT
+Defunct: EMUI (non GMS-based)
+LiteOS
+Huawei Band OS
+FreeRTOS
+Amazfit OS
+Zepp OS
+MIUI Band OS
+Nintendosystem software
+Nintendo 3DS system software
+Nintendo DSi system software
+Nintendo Switch system software
+Minix 3
+Intel Management Engine
+Symbian
+S60
+S80
+S90
+UIQ
+Others
+Binary Runtime Environment for Wireless (BREW)
+BlackBerry OS
+EPOC
+GEOS
+Magic Cap
+Nokia Asha platform
+PalmDOS
+Palm OS
+PlayStation Portable system software
+S30
+S30+
+S40
+Sony Ericsson Java Platform
+ThreadX
+
+Software
+ Mobile operating systems
+Mobile applications
+ Telecommunication
+
+vteDistributed operating systemsCurrent
+Barrelfish
+HarmonyOS
+OpenHarmony
+HarmonyOS NEXT
+Inferno
+Plan 9 from Bell Labs
+QNX
+Historic
+Amoeba
+Cambridge Distributed Computing System
+ChorusOS
+Domain/OS
+HeliOS
+LOCUS
+MOSIX
+Sprite
+V
+Projects
+Cairo
+
+ Category
+
+Authority control databases: National FranceBnF dataCzech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=QNX&oldid=1287171631"
+Categories: 1980 establishments in OntarioARM operating systemsBlackBerry LimitedComputing platformsDistributed operating systemsEmbedded operating systemsInformation technology companies of CanadaLightweight Unix-like systemsMicrokernel-based operating systemsMicrokernelsMobile operating systemsProprietary operating systemsReal-time operating systemsTablet operating systemsSoftware companies established in 1980X86 operating systemsX86-64 operating systemsHidden categories: Articles with short descriptionShort description is different from WikidataPages using infobox OS with unknown parametersArticles containing potentially dated statements from 2022All articles containing potentially dated statementsArticles needing cleanup from April 2022All pages needing cleanupArticles with sections that need to be turned into prose from April 2022All articles with unsourced statementsArticles with unsourced statements from July 2014Articles with unsourced statements from June 2014Articles with unsourced statements from January 2012All pages needing factual verificationWikipedia articles needing factual verification from January 2024Commons category link from WikidataOfficial website different in Wikidata and Wikipedia
+
+
+
+
+
+
+ This page was last edited on 24 April 2025, at 13:43 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+QNX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

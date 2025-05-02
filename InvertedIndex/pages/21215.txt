@@ -1,0 +1,1184 @@
+https://en.wikipedia.org/wiki/Webcam
+
+
+
+
+Webcam - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Early development (early 1990s)
+
+
+
+
+
+
+
+
+1.2
+Entering the mainstream (late 1990s)
+
+
+
+
+
+
+
+
+1.3
+2000s–2019
+
+
+
+
+
+
+
+
+1.4
+2020–present
+
+
+
+
+
+
+
+
+
+
+2
+Technology
+
+
+
+
+Toggle Technology subsection
+
+
+
+
+
+2.1
+Image sensor
+
+
+
+
+
+
+
+
+2.2
+Optics
+
+
+
+
+
+
+
+
+2.3
+Internal software
+
+
+
+
+
+
+
+
+2.4
+Interface and external software
+
+
+
+
+
+
+
+
+
+
+3
+Uses
+
+
+
+
+Toggle Uses subsection
+
+
+
+
+
+3.1
+Videotelephony
+
+
+
+
+
+
+
+
+3.2
+Monitoring
+
+
+
+
+
+
+
+
+3.3
+Astrophotography
+
+
+
+
+
+
+
+
+3.4
+Laser beam profiling
+
+
+
+
+
+
+
+
+
+
+4
+Privacy concerns
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+Further reading
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Webcam
+
+
+
+70 languages
+
+
+
+
+العربيةAsturianuAzərbaycancaবাংলাБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskGalego한국어Հայերենहिन्दीBahasa IndonesiaÍslenskaItalianoעבריתJawaҚазақшаKiswahiliКомиLatviešuLietuviųLombardMagyarМакедонскиമലയാളംBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskОлык марийOʻzbekcha / ўзбекчаਪੰਜਾਬੀپښتوPolskiPortuguêsRomânăРусскийShqipSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்తెలుగుไทยTürkçeУкраїнськаاردوVènetoTiếng ViệtWayuunaiki吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Video camera connected to a computer or network
+A Logitech-branded webcam attached to a laptop
+A webcam is a video camera which is designed to record or stream to a computer or computer network. They are primarily used in video telephony, live streaming and social media, and security. Webcams can be built-in computer hardware or peripheral devices, and are commonly connected to a device using USB or wireless protocol.  
+Webcams have been used on the Internet as early as 1993, and the first widespread commercial one became available in 1994. Early webcam usage on the Internet was primarily limited to stationary shots streamed to web sites. In the late 1990s and early 2000s, instant messaging clients added support for webcams, increasing their popularity in video conferencing. Computer manufacturers later started integrating webcams into laptop hardware. In 2020, the COVID-19 pandemic caused a shortage of webcams due to the increased number of people working from home.
+
+
+History[edit]
+See also: History of videotelephony
+Early development (early 1990s)[edit]
+The Trojan Room coffee pot, as displayed in XCoffee
+First developed in 1991, a webcam was pointed at the Trojan Room coffee pot in the Cambridge University Computer Science Department (initially operating over a local network instead of the web). The camera was finally switched off on August 22, 2001. The final image captured by the camera can still be viewed at its homepage.[1][2] The oldest continuously operating webcam, San Francisco State University's FogCam, has run since 1994 and is still operating as of January 2025.[update] It updates every 20 seconds.[3]SGI IndyCam
+The SGI Indy, released in 1993, is the first commercial computer to have a standard video camera,[4] and the first SGI computer to have standard video inputs.[5]
+The maximum supported input resolution is 640×480 for NTSC or 768×576 for PAL. A fast machine is required to capture at either of these resolutions, though; an Indy with slower R4600PC CPU, for example, may require the input resolution to be reduced before storage or processing. However, the Vino hardware is capable of DMAing video fields directly into the frame buffer with minimal CPU overhead.
+The first widespread commercial webcam, the black-and-white QuickCam, entered the marketplace in 1994, created by the U.S. computer company Connectix. QuickCam was available in August 1994 for the Apple Macintosh, connecting via a serial port, at a cost of $100. Jon Garber, the designer of the device, had wanted to call it the "Mac-camera", but was overruled by Connectix's marketing department; a version with a PC-compatible parallel port and software for Microsoft Windows was launched in October 1995. The original Quick Cam provided 320x240-pixel resolution with a grayscale depth of 16 shades at 60 frames per second, or 256 shades at 15 frames per second.[6] These cam were tested on several Delta II launch using a variety of communication protocols including CDMA, TDMA, GSM and HF.
+Videoconferencing via computers already existed, and at the time client-server based videoconferencing software such as CU-SeeMe had started to become popular.
+The first widely known laptop with integrated webcam option, at a pricepoint starting at US$ 12,000, was an IBM RS/6000 860 laptop[7][8] and its related ThinkPad 850,[9] released in 1996.
+
+Entering the mainstream (late 1990s)[edit]
+iSight webcam, released in 2003
+One of the most widely reported-on webcam sites was JenniCam, created in 1996, which allowed Internet users to observe the life of its namesake constantly, in the same vein as the reality TV series Big Brother, launched four years later.[10] Other cameras are mounted overlooking bridges, public squares, and other public places, their output made available on a public web page in accordance with the original concept of a "webcam". Aggregator websites have also been created, providing thousands of live video streams or up-to-date still pictures, allowing users to find live video streams based on location or other criteria.
+In the late 1990s, Microsoft NetMeeting was the only videoconferencing software on PC in widespread use, making use of webcams.[11] In the following years, instant messaging clients started adding webcam support: Yahoo Messenger introduced this with version 5.5 in 2002, allowing video calling in 20 frames per second using a webcam.[12] MSN Messenger gained this in version 5.0 in 2003.[13]
+
+2000s–2019[edit]
+Around the turn of the 21st century, computer hardware manufacturers began building webcams directly into laptop and desktop screens, thus eliminating the need to use an external USB or FireWire camera. Gradually webcams came to be used more for telecommunications, or videotelephony, between two people, or among several people, than for offering a view on a Web page to an unknown public.
+For less than US$100 in 2012, a three-dimensional space webcam became available, producing videos and photos in 3D anaglyph image with a resolution up to 1280 × 480 pixels. Viewers must use 3D glasses to see the effect of three dimensional image.[14]
+
+2020–present[edit]
+With remote work entering the mainstream, the built-in cameras of average laptops were sometimes considered inadequate. Consequently,
+during the COVID-19 pandemic, a shortage of external webcams in retail occurred.[15] Most laptops before and during the pandemic were made with cameras capping out at 720p recording quality at best, compared to the industry standard of 1080p or 4K seen in smartphones and televisions from the same period.[16] The backlog on new developments for built-in webcams is the result of a design flaw with laptops being too thin to support the 7mm camera modules to fit inside, instead resorting to ~2.5mm.[17][18] Also the camera components are more expensive and not a high level of demand for this feature, [19][20] Smartphones started to be used as a backup option or webcam replacement, with kits including lighting and tripods or downloadable apps.[21]
+
+Technology[edit]
+Image sensor[edit]
+Main article: Image sensor
+Charge-coupled device (CCD) image sensor of a webcam
+Image sensors can be CMOS or CCD, the former being dominant for low-cost cameras, but CCD cameras do not necessarily outperform CMOS-based cameras in the low-price range. Most consumer webcams are capable of providing VGA-resolution video at a frame rate of 30 frames per second. Many newer devices can produce video in multi-megapixel resolutions, and a few can run at high frame rates such as the PlayStation Eye, which can produce 320×240 video at 120 frames per second.[22] Most image sensors are sourced from Omnivision or Sony.
+As webcams evolved simultaneously with display technologies, USB interface speeds and broadband internet speeds, the resolution went up from gradually from 320×240, to 640×480, and some now even offer 1280×720 (aka 720p) or 1920×1080 (aka 1080p) resolution.[23][24][25] Despite the low cost, the resolution offered as of 2019 is impressive, with now the low-end webcams offering resolutions of 720p, mid-range webcams offering 1080p resolution, and high-end webcams offering 4K resolution at 60 fps.
+
+Optics[edit]
+S-mount lens, designed to attach to the webcam's PCB
+Various lenses are available, the most common in consumer-grade webcams being a plastic lens that can be manually moved in and out to focus the camera. Fixed-focus lenses, which have no provision for adjustment, are also available. As a camera system's depth of field is greater for small image formats and is greater for lenses with a large f-number (small aperture), the systems used in webcams have a sufficiently large depth of field that the use of a fixed-focus lens does not impact image sharpness to a great extent.
+Most models use simple, focal-free optics (fixed focus, factory-set for the usual distance from the monitor to which it is fastened to the user) or manual focus.
+Webcams can come with different presets and fields of view. Individual users can make use of less than 90° horizontal FOV for home offices and live streaming. Webcams with as much as 360° horizontal FOV can be used for small- to medium-sized rooms (sometimes even large rooms). Depending on the users' purposes, webcams in the market can display the whole room or just the general vicinity.
+
+Internal software[edit]
+As the bayer filter is proprietary, any webcam contains some built-in image processing, separate from compression. Digital video streams are represented by huge amounts of data, burdening its transmission (from the image sensor, where the data is continuously created) and storage alike. Most if not all cheap webcams come with built-in ASIC to do video compression in real-time.
+Support electronics read the image from the sensor and transmit it to the host computer. Most webcams come with a controller that translates video over USB from Sonix, Suyin, Ricoh, Realtek or others. Typically, each frame is transmitted uncompressed in RGB or YUV or compressed as JPEG. Some cameras, such as mobile-phone cameras, use a CMOS sensor with supporting electronics "on die", i.e. the sensor and the support electronics are built on a single silicon chip to save space and manufacturing costs. Most webcams feature built-in microphones to make video calling and videoconferencing more convenient.
+
+Interface and external software[edit]
+A picture taken by a webcam in 2010, showing a large amount of noiseTypical interfaces used by articles marketed as a "webcam" are USB, Ethernet and IEEE 802.11 (denominated as IP camera). Further interfaces such as e.g. Composite video, S-Video or FireWire were also available. The USB video device class (UVC) specification allows inter-connectivity of webcams to computers without the need for proprietary device drivers.
+Various proprietary as well as free and open-source software is available to handle the UVC stream. One could use Guvcview or GStreamer and GStreamer-based software to handle the UVC stream. Another could use multiple USB cameras attached to the host computer the software resides on, and broadcast multiple streams at once over (Wireless) Ethernet, such as MotionEye. MotionEye can either be installed onto a Raspberry Pi as MotionEyeOs, or afterwards on Raspbian as well. MotionEye can also be set up on Debian, Raspbian is a variant of Debian. MotionEye V4.1.1 ( Aug '21 ) can only run on Debian 10 Buster ( oldstable ) and Python 2.7. Newer versions such as 3.X are not supported at this point of time according to Ccrisan, foundator and author of MotionEye.
+Various software tools in wide use can be employed to take video and pictures, such as PicMaster and Microsoft's Camera app (for use with Windows operating systems), Photo Booth (Mac), or Cheese (with Unix systems). For a more complete list see Comparison of webcam software.
+
+Uses[edit]
+The most popular use of webcams is the establishment of video links, permitting computers to act as videophones or videoconference stations. For example, Apple's iSight camera, which is built into Apple laptops, iMacs and a majority of iPhones, can be used for video chat sessions, using the Messages instant messaging program. Other popular uses include security surveillance, computer vision, video broadcasting, and for recording social videos.
+
+Videotelephony[edit]
+Further information: Videotelephony
+A video call session with use of webcams
+Webcams can be added to instant messaging, text chat services such as AOL Instant Messenger, and VoIP services such as Skype, one-to-one live video communication over the Internet has now reached millions of mainstream PC users worldwide. Improved video quality has helped webcams encroach on traditional video conferencing systems. New features such as automatic lighting controls, real-time enhancements (retouching, wrinkle smoothing and vertical stretch), automatic face tracking and autofocus, assist users by providing substantial ease-of-use, further increasing the popularity of webcams.
+Webcams can also encourage remote work, enabling people to work remotely via the Internet. This usage was crucial to the survival of many businesses during the COVID-19 pandemic, when in-person office work was discouraged. Businesses, schools, and individuals have relied on video conferencing instead of spending on business travel for meetings. Moreover, the number of video conferencing cameras and software have multiplied since then due to their popularity. 
+Webcam features and performance can vary by program, computer operating system, and also by the computer's processor capabilities. Video calling support has also been added to several popular instant messaging programs.
+Webcams allow for inexpensive, real-time video chat and webcasting, in both amateur and professional pursuits. They are frequently used in online dating and for online personal services offered mainly by women when camgirling. However, the ease of webcam use through the Internet for video chat has also caused issues. For example, moderation system of various video chat websites such as Omegle has been criticized as being ineffective, with sexual content still rampant.[26] In a 2013 case, the transmission of nude photos and videos via Omegle from a teenage girl to a schoolteacher resulted in a child pornography charge.[27]
+The popularity of webcams among teenagers with Internet access has raised concern about the use of webcams for cyber-bullying.[28] Webcam recordings of teenagers, including underage teenagers, are frequently posted on popular Web forums and imageboards such as 4chan.[29][30]
+
+Monitoring[edit]
+Webcam mounted on a building, used as a CCTV
+Webcams can be used as security cameras. Software is available to allow PC-connected cameras to watch for movement and sound, recording both when they are detected. These recordings can then be saved to the computer, e-mailed, or uploaded to the Internet. In one well-publicised case,[31] a computer e-mailed images of the burglar during the theft of the computer, enabling the owner to give police a clear picture of the burglar's face even after the computer had been stolen.
+In December 2011, Russia announced that 290,000 Webcams would be installed in 90,000 polling stations to monitor the 2012 Russian presidential election.[32] Webcams may be installed at places such as childcare centres, offices, shops and private areas to monitor security and general activity.
+
+Astrophotography[edit]
+An image of the Moon created by stitching images from a webcam
+With very-low-light capability, a few specific models of webcams are very popular to photograph the night sky by astronomers and astro photographers. Mostly, these are manual-focus cameras and contain an old CCD array instead of comparatively newer CMOS array. The lenses of the cameras are removed and then these are attached to telescopes to record images, video, still, or both. In newer techniques, videos of very faint objects are taken for a couple of seconds and then all the frames of the video are "stacked" together to obtain a still image of respectable contrast.[33]
+
+Laser beam profiling[edit]
+A webcam's CCD response is linearly proportional to the incoming light.[34] Therefore, webcams are suitable to record laser beam profiles, after the lens is removed. The resolution of a laser beam profiler depends on the pixel size. Commercial webcams are usually designed to record color images. The size of a webcam's color pixel depends on the model and may lie in the range of 5 to 10 μm. However, a color pixel consists of four black and white pixels each equipped with a color filter (for details see Bayer filter). Although these color filters work well in the visible, they may be rather transparent in the near infrared. By switching a webcam into the Bayer-mode it is possible to access the information of the single pixels and a resolution below 3 μm was possible.[35]
+
+Privacy concerns[edit]
+Tape over the built-in laptop webcam to block spies from viewing activities
+Many users do not wish the continuous exposure for which webcams were originally intended, but rather prefer privacy.[36] Such privacy is lost when malware allow malicious hackers to activate the webcam without the user's knowledge, providing the hackers with a live video and audio feed.[37] This is a particular concern on many laptop computers, as such cameras normally cannot be physically disabled if hijacked by such a Trojan Horse program or other similar spyware programs.
+Cameras such as Apple's older external iSight cameras include lens covers to thwart this. Some webcams have built-in hardwired LED indicators that light up whenever the camera is active, sometimes only in video mode.[38] However, it is possible, depending on the circuit design of a webcam, for malware to circumvent the indicator and activate the camera surreptitiously, as researchers demonstrated in the case of a MacBook's built-in camera in 2013.[38]
+Various companies sell sliding lens covers and stickers that allow users to retrofit a computer or smartphone to close access to the camera lens as needed.[38] One such company reported having sold more than 250,000 such items from 2013 to 2016.[38] However, any opaque material will work just as well.[38]
+The process of attempting to hack into a person's webcam and activate it without the webcam owner's permission has been called camfecting, a portmanteau of cam and infecting. The remotely activated webcam can be used to watch anything within the webcam's field of vision. Camfecting is most often carried out by infecting the victim's computer with a computer virus.
+
+See also[edit]
+Action camera
+Camera phone
+IP camera
+List of video telecommunication services and product brands
+Trail camera
+References[edit]
+
+
+^ CoffeeCam Archived 2012-03-13 at the Wayback Machine, University of Cambridge.
+
+^ "Trojan Room Coffee Pot – SPIEGEL ONLINE". Archived from the original on 25 September 2015. Retrieved 29 July 2015.
+
+^ "'World's oldest webcam' to be switched off". BBC News. 20 August 2019. Archived from the original on 20 August 2019. Retrieved 20 August 2019.
+
+^ "Low-cost, high-speed SGI Indy comes with camera". Machine Design. Vol. 65, no. 16. August 13, 1993. p. 84. ProQuest 217148786. Archived from the original on July 13, 2021. Retrieved March 5, 2021 – via ProQuest.
+
+^ DB (July 22, 1993). "Video input becoming workstation standard". Electronic Design. Vol. 41, no. 15. p. 30. ISSN 0013-4872. Archived from the original on August 19, 2022. Retrieved March 5, 2021 – via EBSCO. {{cite magazine}}: Wikipedia Library link in |url= (help)
+
+^ Edwards, Benj. History of Video Calls: From Fantasy to Flops to Facetime Archived 2011-10-10 at the Wayback Machine, PC World Magazine, June 17, 2010.
+
+^ "RS/6000 Notebook 860" (PDF). kev009.com. Archived (PDF) from the original on 2021-02-25. Retrieved 2020-12-30.
+
+^ "US - IBM RS/6000 Notebook 860 Model 860". www-01.ibm.com. 2000-06-28. Archived from the original on 2020-09-19. Retrieved 2020-12-30.
+
+^ "IBM ThinkPad Power Series 820 and 850". www-01.ibm.com. 1996-07-09. Retrieved 2020-12-30.
+
+^ "Plug pulled on live website seen by millions" Archived 2022-08-19 at the Wayback Machine by Oliver Burkeman in The Guardian, January 3, 2004
+
+^ "Video-Conference Program Allows More Private Face-To-Face Time". Chicago Tribune. 24 May 1999. Archived from the original on 2022-04-21. Retrieved 2021-07-03.
+
+^ "Yahoo! Instant messenger unveils broadband Webcam". Archived from the original on 2021-07-09. Retrieved 2021-07-03.
+
+^ "MSN Messenger gains webcam functionality". Archived from the original on 2021-07-09. Retrieved 2021-07-03.
+
+^ Lanxon, Nate (July 16, 2009). "3D photos: Minoru 3D webcam hands-on". CNET. Archived from the original on 2010-12-05.
+
+^ "Webcams have become impossible to find, and prices are skyrocketing". The Verge. 9 April 2020. Archived from the original on 19 May 2021. Retrieved 4 May 2021.
+
+^ "Best webcams 2021: Top picks for working from home". TechRadar. 5 August 2021. Archived from the original on 6 May 2021. Retrieved 4 May 2021.
+
+^ "Huawei's new laptop has a mechanical pop-up webcam in the keyboard". The Verge. 25 February 2018. Archived from the original on 4 May 2021. Retrieved 4 May 2021.
+
+^ "In the Age of Zoom, Bad Laptop Webcams Are a Big Problem". 8 April 2020. Archived from the original on 4 May 2021. Retrieved 4 May 2021.
+
+^ "New MacBook Pro Finally Features a 1080p Webcam Within a Notch". MacRumors. 18 October 2021. Retrieved 2023-04-25.
+
+^ "Dear Apple, please stop putting crummy cameras on your MacBooks". 19 March 2020. Archived from the original on 4 May 2021. Retrieved 4 May 2021.
+
+^ "How to Turn Your Smartphone into a Webcam". Wired. Archived from the original on 2021-05-13. Retrieved 2021-05-04.
+
+^ "Cnet". Archived from the original on 2021-07-14. Retrieved 2021-07-19.
+
+^ "How Much Resolution is Enough? Picking a Webcam". eBay. Archived from the original on 4 July 2015. Retrieved 29 July 2015.
+
+^ Jonathan Knoder (9 May 2013). "1080p, 2.0 Mega Pixels? Understanding Webcam Technical Terms". Top Ten Reviews. Archived from the original on 10 August 2015. Retrieved 29 July 2015.
+
+^ Alan Henry (18 November 2012). "Five Best Webcams". Lifehacker. Gawker Media. Archived from the original on 29 July 2015. Retrieved 29 July 2015.
+
+^ "The Problems with Omegle Girls and Free Chat Services". OmegleGirlsChat. Archived from the original on 3 September 2013. Retrieved 14 May 2013.
+
+^ "Ex-band teacher pleads guilty to porn charge with girl, 16". jconline.com. Retrieved 14 May 2013.
+
+^ Poeter, Damon. "Webcam Peeper Convicted in Rutgers Cyberbullying Case Archived 2017-08-10 at the Wayback Machine," PC Magazine, March 16, 2012.
+
+^ Tip From 4chan Leads To Arrest Of Site Visitor On Child Porn Charges Archived 2012-03-28 at the Wayback Machine," The Smoking Gun, February 27, 2012.
+
+^ Goodin, Dan. Feds: bald man posing as 17-year-old secretly taped teens Archived 2017-12-10 at the Wayback Machine," The Register (UK), October 13, 2009.
+
+^ Serial burglar caught on webcam Archived 2006-12-09 at the Wayback Machine BBC News, February 16, 2005, retrieved January 3, 2006.
+
+^ Russia Election Webcams Archived 2017-09-22 at the Wayback Machine The Wall Street Journal, January 16, 2012.
+
+^ North, Gerald (2007). Observing the Moon: The modern astronomer's guide (2nd ed.). Cambridge, UK: Cambridge University Press. pp. 109–120. ISBN 978-0-511-29054-1. OCLC 772458173.
+
+^ Cignoli F, De Iuliis S, Zizak GA. Webcam as a light probe beam profiler. Appl. Spectrosc. 58, (2004), 1372.
+
+^ G. Langer et al., A webcam in Bayer-mode as a light beam profiler for the near infrared, Optics and Lasers in Engineering 51 (2013) 571–575
+
+^ "Jogador esquece webcam ligada e transmite sexo com namorada". Yahoo Notícias. 13 November 2012. Archived from the original on 26 November 2015. Retrieved 29 July 2015.
+
+^ Gray, Leon (2009). Virtual crime! : solving cybercrime. Berkeley Heights, NJ: Enslow Publishers. ISBN 978-0766033764. Archived from the original on 2021-07-24. Retrieved 2020-10-11.
+
+^ a b c d e Yadron, Danny (2016-06-06). "Why is everyone covering up their laptop cameras?". the Guardian. Archived from the original on 2019-04-13. Retrieved 2016-06-13.
+
+
+Further reading[edit]
+Mühlbach, Lothar; Böcker, A; Prussog, A (June 1995). "Telepresence in Videocommunications: A Study on Stereoscopy and Individual Eye Contact". Human Factors. 37 (2): 290–305. doi:10.1518/001872095779064582. ISSN 0018-7208. PMID 7642183. S2CID 31369406. Gale Document Number: GALE|A18253819. Accessed December 23, 2011 via General Science eCollection (subscription).
+External links[edit]
+ Media related to Webcams at Wikimedia Commons
+vteComputer-mediated communication
+Online chat
+Online discussion
+Communication software
+Collaborative software
+Social network service
+Virtual learning environment
+Asynchronous conferencing
+Email
+Electronic mailing list
+FidoNet
+Usenet
+Internet forum
+Textboard
+Imageboard
+Bulletin board system
+Online guestbook
+Synchronous conferencing
+Data conferencing
+Instant messaging
+Internet Relay Chat
+LAN messenger
+Talker
+Videoconferencing
+Voice over IP
+Voice chat in online gaming
+Web chat
+Web conferencing
+Publishing
+Blog
+Microblogging
+Wiki
+
+vteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Phryctoria
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Donald Davies
+Daniel Davis Jr.
+Amos Dolbear
+Thomas Edison
+Philo Farnsworth
+Reginald Fessenden
+Lee de Forest
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Roberto Landell
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Puskás
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Internet pioneers
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Network switching
+circuit
+packet
+Nodes
+terminal
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+Global telecommunications regulation bodies
+
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Webcam&oldid=1284658987"
+Categories: WebcamsComputing input devicesEnglish inventionsFilm and video technologyPrivacyTeleconferencingVideotelephonyHidden categories: Webarchive template wayback linksCS1 errors: URLArticles with short descriptionShort description is different from WikidataArticles containing potentially dated statements from January 2025All articles containing potentially dated statementsCommons category link is on WikidataArticles containing video clips
+
+
+
+
+
+
+ This page was last edited on 8 April 2025, at 23:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Webcam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

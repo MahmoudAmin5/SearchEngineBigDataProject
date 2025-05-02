@@ -1,0 +1,751 @@
+https://en.wikipedia.org/wiki/BESM-6
+
+
+
+
+BESM-6 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+Peripherals
+
+
+
+
+
+
+
+
+3
+Further reading
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+BESM-6
+
+
+
+3 languages
+
+
+
+
+PolskiРусскийУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Soviet computer model (1968–1985)
+BESM-6BESM-6 at London Science MuseumDesignManufacturerMoscow Plant of Calculating and Analysing Machines (SAM)[1]DesignerS. A. Lebedev[1]Release date1968; 57 years ago (1968)[1]Units sold355[1]Price530,000 Rbls[2]CasingDimensionsFootprint : 150-200 m²Weight-Power30 kW @ 220 V 50 Hz[1]SystemOperating systemD-68, Dispak, Dubna OSCPU48-bit processor @ 9 MHz[3][1]MemoryUp to 192 kilobytes (32768 x 48 bits)[3]MIPS1 MIPS [3]FLOPS0.418 MFLOPS [4]PredecessorBESM-4SuccessorElbrus-1K2vte
+BESM-6 (Russian: БЭСМ-6, short for Большая электронно-счётная машина, i.e. 'Large Electronic Calculating Machine') was a Soviet electronic computer of the BESM series.
+
+
+Overview[edit]
+The BESM-6 was the most well-known and influential model of the series designed at the Institute of Precision Mechanics and Computer Engineering. The design was completed in 1965. Production started in 1968 and continued for the following 19 years.[5]
+Like its BESM-3 and BESM-4 predecessors, the original BESM-6 was transistor-based (however, the version used in the 1980s as a component of the Elbrus supercomputer was built with integrated circuits). The machine's 48-bit processor ran at 10 MHz clock speed and featured two instruction pipelines, separate for the control and arithmetic units, and a data cache of sixteen 48-bit words.  The system achieved a performance of 1 MIPS.
+The CDC 6600, a common Western supercomputer when the BESM-6 was released, achieved about 2 MIPS.
+The system memory was word-addressable using 15-bit addresses. The maximum addressable memory space was thus 32K words (192K bytes). A virtual memory system allowed to expand this up to 128K words (768K bytes).
+The BESM-6 was widely used in USSR in the 1970s for various computation and control tasks. During the 1975 Apollo-Soyuz Test Project the processing of the space mission telemetry data was accomplished by a new computer complex which was based on a BESM-6. The Apollo-Soyuz mission's data processing by Soviet scientists finished half an hour earlier than their American colleagues from NASA.[6]
+A total of 355 of these machines were built. Production ended in 1987.
+As the first Soviet computer with an installed base that was large for the time, the BESM-6 gathered a dedicated developer community. Over the years several operating systems [7] and compilers for programming languages such as Fortran, ALGOL and Pascal were developed.[8]
+A modification of the BESM-6 based on integrated circuits, with 2-3 times higher performance than the original machine, was produced in the 1980s under the name Elbrus-1K2 as a component of the Elbrus supercomputer.
+In 1992, one of the last surviving BESM-6 machines was purchased by the Science Museum in London, England.[9]
+
+Peripherals[edit]
+The BESM-6 could send output to an АЦПУ-128 (Алфавитно-Цифровое Печатающее Устройство) printer, and read input from punched cards in the GOST 10859 character set. A Consul-254 teletype, made by Zbrojovka Brno in Czechoslovakia, could be used for interactive sessions.[10] When CRT terminals became available, the BESM-6 could be connected to Videoton 340 terminals.[11][12]
+
+Further reading[edit]
+Savard, John J. G. (2018) [2005]. "Computer Arithmetic". quadibloc. The Early Days of Hexadecimal. Archived from the original on 2018-07-16. Retrieved 2018-07-16. (NB. Has information on the BESM-6 character set.)
+References[edit]
+
+
+^ a b c d e f "BESM-6 Computer". Russian Virtual Computer Museum.
+
+^ Grubov, Vladimir Ivanovich; Kirdan, Vladimir Sergeyevich (1971). Electronic computers and analog devices. Wright-Patterson Air Force Base, Foreign Technology Division. OCLC 24313499.
+
+^ a b c "BESM-6 Nostalgia Page".
+
+^ "Simulation of Whetstone benchmark on a BESM-6". retrocomputing.stackexchange.com.
+
+^ Дубова, Наталия. "БЭСМ-6" [BESM-6]. Очерки по истории советской вычислительной техники и школ программирования [Essays on the history of Soviet computer technology and programming schools] (in Russian). Издательство "Открытые Системы". Archived from the original on 2007-09-30.
+
+^ Malinovsky, Boris (2010). "Pioneers of Soviet Computing" (PDF). p. 100. The 1975 Apollo-Soyuz space mission was controlled from a new computer complex that included a BESM-6 and other domestic high-speed computers developed by Lebedev's students. Prior to this, the space mission telemetry data processing would have taken approximately thirty minutes. Using the new computer complex, the work was performed in one minute. Soviet scientists completed all of the Apollo-Soyuz mission's data processing one half-hour earlier than their American colleagues. This marked Lebedev's real triumph: his school and his students developed a first-class computer that was capable of competing with the best machines in the world. For their work on BESM-6, Lebedev and his team won the State Prize
+
+^ Kraineva, Irina (2016). "ДИСПАК — операционная система атомного проекта" [DISPAK - Operating System for USSR Nuclear Project]. Открытые системы [Open Systems] (in Russian). 24 (1).
+
+^ Иванников, В.П.; Королев, Л.Н.; Любимский, Э.З.; Томилин, А.Н. "Разработки Московской Школы Операционных Систем Эвм" [Developments of the Moscow School of Computer Operating Systems] (in Russian).
+
+^ Swade, Doron (1996). "Back in the USSR". Inc.
+
+^ Èlektričeskaâ pišuŝaâ mašina CONSUL 254: tehničeskoe opisanie (Electronic Writing Machine CONSUL 254: Technical description). Zbrojovka Brno, 1972.
+
+^ Telksnys, Laimutis; Zilinskas, Antanas (July–September 1999). "Computers in Lithuania". IEEE Annals of the History of Computing. 21 (3): 31–37. doi:10.1109/85.778980. S2CID 16240778.
+
+^ The use of the "Videoton-340" video terminal with a printer on-line with the BESM-6 for electrical power network enterprise data processing.  In USSR Report: Cybernetics, Computers and Automation Technology. Central Intelligence Agency, 26 December 1979.
+
+
+External links[edit]
+BESM-6 Nostalgia Page
+vteList of Soviet computer systems
+A
+Agat
+Aragats
+Argon
+ATM Turbo
+BESM
+Besta
+Dnepr
+Dubna 48K
+Elbrus
+UKNC
+DVK
+Electronika BK
+Electronika 60
+Electronika 85
+Electronika SS BIS
+Electronika MS 1502
+Electronika MS 1504
+ES EVM
+ES PEVM
+GVS-100
+Hobbit
+Hrazdan
+Iskra
+Irisha
+Juku
+Kiev
+KVM-1
+Korvet
+M-1
+M
+MESM
+Micro-80
+Microsha
+Minsk
+MIR
+MIR-2
+MIR-3
+Nairi
+Orion-128
+Pentagon
+Poisk
+Pravetz
+Promina
+PS-2000, PS-3000
+Radon
+Radio-86RK
+Scorpion ZS-256
+Setun
+SM EVM
+Sneg
+Specialist
+Strela
+SVS
+CUM-1
+UM
+Ural
+UT-88
+Vector-06C
+Vesna
+See also: History of computing in the Soviet Union
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=BESM-6&oldid=1254194745"
+Categories: Soviet computer systems1965 establishments in RussiaSupercomputersHidden categories: CS1 Russian-language sources (ru)Articles with short descriptionShort description is different from WikidataArticles containing Russian-language text
+
+
+
+
+
+
+ This page was last edited on 29 October 2024, at 21:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+BESM-6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

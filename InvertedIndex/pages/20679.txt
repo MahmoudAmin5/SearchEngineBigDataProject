@@ -1,0 +1,568 @@
+https://en.wikipedia.org/wiki/Carl_Frosch
+
+
+
+
+Carl Frosch - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Transistors devices
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Carl Frosch
+
+
+
+4 languages
+
+
+
+
+DeutschFrançaisFulfulde日本語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+American scientist (1908–1984)
+This article is about the scientist. For the boxer, see Carl Froch.NPN field effect transistor, 1957Carl John[1] Frosch (September 6, 1908 – May 18, 1984)[2] was a Bell Labs researcher who along Lincoln Derick build the first silicon dioxide field effect transistors. In 1955 they accidentally discovered that silicon could be protectively coated by silicon dioxide by the right exposure to oxygen when hot, and patented the method.[3][4] Such protective coating overcame a problem of surface states found in active silicon circuit elements. The discovery also revealed the potential for the process of silicon etching. NPNP field effect transistor, 1957
+In 1957 Frosch and Derick published their discovery of silicon surface passivation by silicon dioxide, using selective SiO2 predeposition and masking to produce semiconductor surface patterns, to build silicon dioxide field effect transistors, thus devising the first MOSFET.[5] Their transistors were the first in which drain and source were adjacent at the surface, showing that silicon dioxide surface passivation protected and insulated silicon wafers. 
+At Bell Labs, the importance of Frosch's technique was immediately realized. Results of their work circulated around Bell Labs in the form of BTL memos before being published in 1957. At Shockley Semiconductor, William Shockley had circulated the preprint of their article in December 1956 to all his senior staff, including Jean Hoerni.[6][7][8][9] Taking advantage of silicon dioxide's passivating effect on the silicon surface, Hoerni proposed to make transistors that were protected by a layer of silicon dioxide.[10] Later, Jean Hoerni, while working at Fairchild Semiconductor, had first patented the planar process in 1959.[11][12]
+
+Transistors devices[edit]
+Frosch and Derrick build several silicon dioxide field effect transistors in 1957. One resembling modern MOSFETs and another with a NPNP structure, similar to modern IGBTs.
+
+References[edit]
+Michael Riordan & Lillian Hoddeson (1997) Crystal Fire, page 222, W. W. Norton & Company ISBN 0-393-04124-7 .
+Specific
+
+
+^ "Carl+John+Frosch" The Canadian Patent Office Record and Register of Copyrights and Trade Marks, Volume 77, Issues 36-43
+
+^ Carl J Frosch (1908-1984), Find A Grave
+
+^ Huff, Howard; Riordan, Michael (2007-09-01). "Frosch and Derick: Fifty Years Later (Foreword)". The Electrochemical Society Interface. 16 (3): 29–29. doi:10.1149/2.F02073IF. ISSN 1064-8208.
+
+^ US2802760A, Lincoln, Derick & Frosch, Carl J., "Oxidation of semiconductive surfaces for controlled diffusion", issued 1957-08-13 
+
+^ Frosch, C. J.; Derick, L. (1957-09-01). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650. ISSN 1945-7111.
+
+^ Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. p. 168. ISBN 978-0-470-50892-3.
+
+^ Christophe Lécuyer; David C. Brook; Jay Last (2010). Makers of the Microchip: A Documentary History of Fairchild Semiconductor. MIT Press. pp. 62–63. ISBN 978-0-262-01424-3.
+
+^ Claeys, Cor L. (2003). ULSI Process Integration III: Proceedings of the International Symposium. The Electrochemical Society. pp. 27–30. ISBN 978-1-56677-376-8.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ US 3025589  Hoerni, J. A.: "Method of Manufacturing Semiconductor Devices” filed May 1, 1959
+
+^ US 3064167  Hoerni, J. A.: "Semiconductor device" filed May 15, 1960
+
+
+External links[edit]
+Silicon Burns A description of the discovery from the point of view of a colleague at Bell Labs.
+ This article about an American scientist is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Carl_Frosch&oldid=1244809992"
+Categories: 1908 births1984 deathsScientists at Bell LabsAmerican scientist stubsHidden categories: Articles with short descriptionShort description is different from WikidataAll stub articles
+
+
+
+
+
+
+ This page was last edited on 9 September 2024, at 09:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Carl Frosch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

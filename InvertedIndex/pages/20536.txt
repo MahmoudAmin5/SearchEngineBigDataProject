@@ -1,0 +1,974 @@
+https://en.wikipedia.org/wiki/Pocket_PC
+
+
+
+
+Pocket PC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Specification
+
+
+
+
+
+
+
+
+3
+Operating system versions
+
+
+
+
+Toggle Operating system versions subsection
+
+
+
+
+
+3.1
+Windows Mobile 6.5
+
+
+
+
+
+
+
+
+3.2
+Windows Mobile 6.1
+
+
+
+
+
+
+
+
+3.3
+Windows Mobile 6
+
+
+
+
+
+
+
+
+3.4
+Windows Mobile 5
+
+
+
+
+
+
+
+
+3.5
+Windows Mobile 2003
+
+
+
+
+
+
+
+
+3.6
+Windows CE 3.0
+
+
+
+
+
+
+
+
+
+
+4
+Vendors
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Pocket PC
+
+
+
+29 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschEspañolفارسیFrançais한국어HrvatskiBahasa IndonesiaItalianoKurdîMagyarМонголNederlands日本語PolskiPortuguêsРусскийසිංහලСрпски / srpskiSuomiSvenskaไทยTürkçeУкраїнськаTiếng ViệtŽemaitėška中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Obsolete type of personal digital assistant comparable to smartphones
+This article is about the class of PDA. For the calculator-like handheld computers of the 1980s, see Pocket computer. For other uses, see Pocket PC (disambiguation).
+"P/PC" redirects here. For other uses, see PPC.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Pocket PC" – news · newspapers · books · scholar · JSTOR (June 2016) (Learn how and when to remove this message)
+Pocket PCA Compaq iPAQ 3630 Pocket PC from 2001DeveloperMicrosoftManufacturerVariousType
+Personal digital assistant
+Smartphone
+Lifespan
+2000–2007
+2007–2010 (as Windows Mobile)
+Operating systemPocket PC/Windows Mobile based on Windows CEPredecessorPalm-size PCSuccessorWindows Phone (as a combined software and hardware branding)RelatedHandheld PC
+A Pocket PC (P/PC, PPC) is a class of personal digital assistant (PDA) that runs the Windows Mobile operating system, which is based on Windows CE/Windows Embedded Compact, and that has some of the abilities of modern desktop PCs. The name was introduced by Microsoft in 2000 as a rebranding of the Palm-size PC category and was marketed until 2007. Some of these devices also had integrated phone and data capabilities, which were called Pocket PC Phone Edition. Windows "Smartphone" is another Windows CE based platform for non-touch and non-PDA devices. 
+In 2007, with the advent of Windows Mobile 6.0, Microsoft dropped the name Pocket PC in favor of a new naming scheme:[1]
+
+Windows Mobile Classic (formerly Pocket PC): devices without an integrated phone;
+Windows Mobile Professional (formerly Pocket PC Phone Edition): devices with an integrated phone and a touch screen;
+Windows Mobile Standard (formerly Smartphone): devices with an integrated phone but without a touch screen.
+As of 2010, thousands of applications existed for handhelds adhering to the Microsoft Pocket PC specification, many of which were freeware.[2][better source needed] Microsoft-compliant Pocket PCs can be used with many add-ons such as GPS receivers, barcode readers, RFID readers, and cameras. Pocket PC was replaced by Windows Phone in 2010 but even after versions were released based on the Windows NT kernel were ultimately unable to compete with the iPhone of 2007 and Android phones and interest waned in Pocket PCs without phones.
+
+
+History[edit]
+HTC Kangaroo, Bluebird and Peacock Palm-size PCs from the late 1990s
+The Pocket PC was an evolution from prior calculator-sized computers. Keystroke-programmable calculators which could do simple business and scientific applications were available by the 1970s. In 1982, Hewlett Packard's HP-75 incorporated a 1-line text display, an alphanumeric keyboard, HP BASIC language and some basic PDA abilities. The HP 95LX, HP 100LX and HP 200LX series packed a PC-compatible MS-DOS computer with graphics display and QWERTY keyboard into a palmtop format. The HP OmniGo 100 and 120 used a pen and graphics interface on DOS-based PC/GEOS, but was not widely sold in the United States. The HP 300LX built a palmtop computer on the Windows CE operating system.
+Palm-size PC (PsPC) was Microsoft's official name for Windows CE PDAs that were smaller than Handheld PCs by the lack of a physical keyboard. The class was announced in January 1998 originally as "Palm PC" which provoked a lawsuit by Palm Inc., and the name changed soon afterwards to Palm-size PC before release.[3] These devices were similar to the Handheld PC and also ran Windows CE, however this version was more limited and lacked Pocket Microsoft Office, Pocket Internet Explorer, ActiveX and some other tools.[4] Its main competitor was the PalmPilot and Palm III.[5] According to the specification, Palm-size PCs use SuperH SH3 processors and MIPS architecture. The term "palm-sized PC" was also used as a generic term of similar such devices that are not necessary connected to Microsoft, such as the PalmPilot.
+
+Pocket PC wordmark at the introduction of Pocket PC 2000
+Microsoft's Handheld PCs and Palm-size PCs did not gain much success in the markets compared to Palm, with users complaining the Windows CE software were hard to use and the devices themselves were thick.[6] On April 19, 2000, Microsoft introduced Pocket PC with a revamped interface and to better compete against the popular Palm devices. The Pocket PC was based on the all new version 3.0 of Windows CE. HP, Casio and Compaq were the first OEMs with Pocket PC devices in 2000.[7][8] The familiar desktop Windows UI from Palm-size PCs was removed in favor of a more tailored interface on Pocket PCs.[4]
+
+According to Microsoft, the Pocket PC is "a handheld device that enables users to store and retrieve e-mail, contacts, appointments, tasks, play multimedia files, games, exchange text messages with Windows Live Messenger (formerly known as MSN Messenger), browse the Web, and more."[9]HTC Apache Pocket PC (Phone Edition) with a slide-out keyboard, showing Wikipedia from 2005Prior to the release of Windows Mobile 2003, third-party software was developed using Microsoft's eMbedded Visual Tools, eMbedded Visual Basic (eVB) and eMbedded Visual C (eVC).[10] eVB programs can usually be converted fairly easily to NS Basic/CE.[11] or to Basic4ppc.
+In 2007 the Pocket PC name was dropped altogether. The Pocket PC Phone Edition became Windows Mobile Professional; the Smartphone became Windows Mobile Standard; and the classic phone-less Pocket PC (which by now had become a niche) became Windows Mobile Classic.[12]
+The Pocket PC/Windows Mobile OS was superseded by Windows Phone on February 15, 2010, when the latter was announced at Mobile World Congress that year. No existing hardware was officially supported for a Windows Phone 7 upgrade. Additionally, not a single one of the thousands of apps available for Windows Mobile would run unaltered on Windows Phone.
+
+Specification[edit]
+From a technical standpoint, "Pocket PC" is a Microsoft specification that sets various hardware and software requirements for mobile devices bearing the "Pocket PC" label.
+For instance, any device which is to be classified as a Pocket PC must:
+
+Run Microsoft's Windows Mobile, Pocket PC edition
+Come bundled with a specific suite of applications in ROM
+Note: the name Windows Mobile includes both the Windows CE operating system and a suite of basic applications along with a specified user interface
+Include a touchscreen
+Include a directional pad or touchpad
+Include a set of hardware application buttons
+Be based on an ARMv4 compatible, Intel XScale (ARMv5), MIPS or SH3 CPU. (As of the Pocket PC 2002 specification, ARM-based CPUs are required.)
+Operating system versions[edit]
+Main article: Windows Mobile
+Windows Mobile 6.5[edit]
+Main article: Windows Mobile 6.5
+The first Windows Mobile 6.5 device was first shown in September 2009. Leaked ROMs surfaced in July 2009 for specific devices.[13] The generic ROM images for Mobile 6.5 are also available as part of the officially distributed and freely downloadable development kit.[14]
+Several phones running Windows Mobile 6.1 can be updated to Windows Mobile 6.5.[15]
+
+Windows Mobile 6.1[edit]
+Main article: Windows Mobile 6.1
+Microsoft's Windows Mobile 6.1 was announced on April 1, 2008, and introduced instant messaging-like texting.[16] Windows Mobile 6.1 was built upon Windows CE 5.
+
+Windows Mobile 6[edit]
+Main article: Windows Mobile 6.0
+Microsoft's Windows Mobile 6, internally code-named 'Crossbow', was officially released by Microsoft on February 12, 2007. Mobile 6 was still based on Windows CE 5 and was effectively just a face-lift of Windows Mobile 5. With Mobile 6 also came Microsoft's new naming conventions and devices were no longer called Pocket PCs: devices with no phone abilities were named Windows Mobile Classic, and devices with phone abilities were named Windows Mobile Professional.
+
+Windows Mobile 5[edit]
+Main article: Windows Mobile 5.0
+Windows Mobile 5 for Pocket PC was based on Windows CE 5 and contained many fixes and improvements over Windows Mobile 2003.
+Pocket PCs running prior versions of the operating system generally stored user-installed applications and data in RAM, which meant that if the battery was depleted the device would lose all of its data. Windows Mobile 5.0 solved this problem by storing all user data in persistent (flash) memory, leaving the RAM to be used only for running applications, as it would be on a desktop computer. As a result, Windows Mobile 5.0 Pocket PCs generally had more flash memory, and less RAM, compared to earlier devices.
+
+Windows Mobile 2003[edit]
+Main article: Windows Mobile 2003
+Windows Mobile 2003 consisted of the Windows CE.NET 4.2 operating system bundled with scaled-down versions of many popular desktop applications, including Microsoft Outlook, Internet Explorer, Word, Excel, Windows Media Player, and others.
+Windows Mobile 2003 Second Edition added native landscape, square screen and VGA support as well as other fixes and changes to those features already present in the original release of Windows Mobile 2003.
+
+Windows CE 3.0[edit]
+Main articles: Pocket PC 2000 and Pocket PC 2002
+Pocket PC 2000 was launched April 2000, and ran Windows CE 3.0. Pocket PC 2000 featured a mobile version of Microsoft Office, a chief feature being the ability to password-protect Excel files.
+Pocket PC 2002 was launched October 2001, and was powered by Windows CE 3.0, as with its predecessor. Some Pocket PC 2002 devices were also sold as "Phone Editions", which included cell phone functionality in addition to the PDA abilities.
+
+Vendors[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (January 2008) (Learn how and when to remove this message)
+HTC Universal from 2005
+O2 XDA lli showing Wikipedia from 2005
+Before the Pocket PC brand was launched, there were other Windows-based machines of the same form factor called Palm-size PCs. These devices ran Windows CE 2.0–2.11 and had an interface that was similar to the then-current desktop versions of Windows like Windows 95. The first of these was the Everex Freestyle, also known as HTC Kangaroo, from 1998.[17] Other examples include Casio Cassiopeia E-10/E-11, Compaq Aero 1500/1520, Philips Nino and HP Jornada 420/430.
+Pocket PCs were manufactured and sold by several different companies; the major manufacturers include HP (under the iPAQ and now defunct Jornada brands), Toshiba, Acer, Asus, Dell (under the now defunct Axim brand), Fujitsu Siemens, E-TEN, HTC, and ViewSonic. In mid-2003, Gateway Computers and JVC announced they would release Pocket PCs, but the projects were discontinued before a product was released. Prices in 2003 ranged from around US$800 for the high-end models, some of which are combined with cell phones, to $200 for low-end models. A $100–$200 model was rumored to be released within 2004 or early 2005, although the lowest price for a just-released Pocket PC never went under $300. Many companies ceased to sell PDA's by 2003–2004 because of a declining market. Major companies such as Viewsonic and Toshiba stopped producing new Pocket PCs.
+Companies like O2, T-Mobile and Orange were marketing Pocket PCs that have integrated mobile telephony (smartphones). All users have to do is put in the SIM card and follow the wizard, to put their SIM contacts in the address book. An example is O2's Xda, or T-Mobile's MDA Compact. Both of these devices, while bearing the phone operator's logo, are manufactured by the dominant Pocket PC manufacturer HTC.
+One of the more popular high-end consumer-market Pocket PCs was the Dell Axim x51v, which was discontinued in 2007. Hardware specs included 3.7" color TFT VGA display with 640x480 resolution, Intel XScaleTM PXA270 processor at 624 MHz, 336 MB of memory (256 MB flash, 64 MB SDRAM), integrated 802.11b and Bluetooth 1.2, integrated Intel 2700G multimedia accelerator with 16 MB video memory. Expansion was possible via CompactFlash Type II and SD slots (supporting SDIO Now!, SDIO and MMC cards). Included is a 1,100 mAh user replaceable battery (est. 4–6.5 hours, 2200 mAh also available).[18]
+Some Pocket PCs featured integrated GPS often combined with mobile phone functionality. Pocket PCs with built-in telephony differ from Windows Mobile Smartphone Edition devices in several respects, including the lack of a touchscreen on the latter. Some examples of current Pocket PCs with GPS integrated are the Fujitsu Siemens Pocket Loox N560, a high-end Pocket PC with a VGA screen and an integrated SiRF Star III GPS; the HTC TyTN, a small communicator with integrated slide in keyboard; the HP hw6945 and HP iPAQ hw6515 with integrated thumb-board, GPS and GSM/GPRS telephony; the HTC top-of-the-line Universal, branded as the QTek 9000 (also branded by various telecommunications companies as the Orange SPV M5000, T-mobile MDA Pro, Vodafone VPA IV, O2 Xda Exec, i-Mate JasJar, Dopod 900).[19]
+A newer entrant into the Pocket PC market was its rival Palm, which sold devices like the Treo 700w/wx based on Windows Mobile 5.0 and featuring integrated telephony. Previous to this, Palm only produced PDAs running its own Palm OS (as did the first versions of the Palm Treo) before it was losing popularity to Pocket PC's Windows Mobile.[20]
+HTC manufactured up to 80% of all phone enabled Windows Mobile devices for other companies (including HP and O2), as well as many non-phone Pocket PCs (for companies such as Dell, HP and Fujitsu Siemens) as of 2006. HTC was by now marketing Windows Mobile devices under their own brand, as well as that of Dopod.[21]
+
+See also[edit]
+List of Pocket PC Devices
+List of Windows Mobile Professional games
+ActiveSync
+Windows CE
+Windows CE 3.0
+Windows Mobile
+Smartphone
+HTC HD2
+References[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Pocket PC" – news · newspapers · books · scholar · JSTOR (July 2008) (Learn how and when to remove this message)
+
+
+^ Hall, Rich (June–July 2007). "New Windows Mobile 6 Devices". Smartphone & Pocket PC magazine. Archived from the original on November 22, 2008. Retrieved 2011-04-19.
+
+^ "Freeware Pocket PC / Freeware Windows Mobile: Manual Search – displaying all titles". FreewarePPC.com. Retrieved 2014-03-16.
+
+^ "The Spectacular Failure of WinCE and Windows Mobile". www.roughlydrafted.com.
+
+^ a b "The history of Windows CE - thisishenry168". sites.google.com. Archived from the original on 2022-05-17. Retrieved 2020-10-21.
+
+^ "Pocket Power The smallest portable computers are becoming more useful. - June 29, 1998". archive.fortune.com.
+
+^ Lohr, Steve (April 18, 2000). "Microsoft Will Challenge Palm's Hand-Held Computer Dominance". The New York Times.
+
+^ ""Pocket PC" makes its debut - Apr. 19, 2000". CNN Money.
+
+^ "IE incorporated into "Windows Me" - Apr. 18, 2000". December 30, 2001. Archived from the original on 2001-12-30.
+
+^ "Mobile Devices". Microsoft. February 7, 2003. Archived from the original on 2003-02-07.
+
+^ "Learn Windows Mobile: Overview". Microsoft. Archived from the original on 2007-10-09. Retrieved 2007-10-05.
+
+^ "Tech Note 25: eVB2NSB". Nsbasic.com. 2009-09-21. Retrieved 2010-04-27.
+
+^ "Microsoft switches up names for Windows Mobile 6". Engadget. 29 January 2007.
+
+^ Herrman, John (2009-06-06). "How To: Install Windows Mobile 6.5 Right Now". Gizmodo. Retrieved 2014-03-16.
+
+^ "Windows Mobile 6.5 Developer Tool Kit". Microsoft. Retrieved 2014-03-16.
+
+^ "Updating your phone to Windows Mobile 6.5". Microsoft. 2010-03-04. Retrieved 2010-06-20.
+
+^ "Press release" (Press release). 2008-04-01. Retrieved 2009-02-03.
+
+^ Date, Gareth Branwyn Pub (20 July 1998). "The Pilot Killer? Everex Freestyle does Windows..." baltimoresun.com.
+
+^ Brown, Adama D. "Review – Dell Axim X51v". Brighthand. Retrieved 2014-03-16.
+
+^ "9000". Qtek. Archived from the original on 2010-02-08. Retrieved 2014-03-16.
+
+^ Miller, Matthew. "Crash of the mobile titans: What happened to Palm, BlackBerry, Nokia, and HTC?". ZDNet.
+
+^ Moses, Asher (2006-09-19). "HTC snubs i-mate, O2 in favour of Dopod". CNET. Archived from the original on 2007-09-06. Retrieved 2014-03-16.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Pocket PC Powered.
+
+vteWindows MobileVersions
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+Device software
+Bing Mobile
+Bing Maps
+Internet Explorer Mobile
+Media Player Mobile
+MSN Mobile
+Office Mobile
+Remote Desktop
+Voice Command
+Windows Live for Mobile
+Desktop synchronization
+ActiveSync
+H/PC Explorer
+Media Center
+Media Player
+Mobile Device Center
+Outlook
+Services
+Calendar
+Contacts
+My Phone
+Windows Error Reporting
+Windows Marketplace for Mobile
+Server utilization
+Direct Push
+Exchange Server
+Development
+.NET Compact Framework
+Device Emulator
+Silverlight
+SQL Server Compact
+XNA
+ModelsHTC
+Athena
+Dash
+HD2
+HD Mini
+Shadow
+Smartflip
+Touch
+2
+3G
+Cruise
+Diamond
+2
+Dual
+HD
+Pro
+2
+Viva
+MAX 4G
+TyTN
+II
+Vox
+Wing
+Wings
+Samsung
+BlackJack
+II
+i600
+i780
+Jack
+Omnia
+II
+Lite
+Pro B7330
+Pro B7610
+Propel Pro
+Other
+810-F
+A3100
+DX900
+eXpo
+Incite
+KS20
+nüvifone M10
+nüvifone M20
+Treo Pro
+Xda
+Xperia X1
+Xperia X2
+TG01
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pocket_PC&oldid=1255590604"
+Categories: Windows Mobile Professional devicesWindows Mobile Classic devicesRadio-frequency identificationPersonal computersHidden categories: CS1: unfit URLArticles with short descriptionShort description is different from WikidataArticles needing additional references from June 2016All articles needing additional referencesAll articles lacking reliable referencesArticles lacking reliable references from February 2022Articles needing additional references from January 2008Articles needing additional references from July 2008Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 5 November 2024, at 18:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Pocket PC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

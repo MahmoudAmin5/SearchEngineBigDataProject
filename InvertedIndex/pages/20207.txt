@@ -1,0 +1,1526 @@
+https://en.wikipedia.org/wiki/First-person_shooter
+
+
+
+
+First-person shooter - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Definition
+
+
+
+
+
+
+
+
+2
+Game design
+
+
+
+
+Toggle Game design subsection
+
+
+
+
+
+2.1
+Combat and power-ups
+
+
+
+
+
+
+
+
+2.2
+Level design
+
+
+
+
+
+
+
+
+2.3
+Multiplayer
+
+
+
+
+
+
+
+
+2.4
+Free-to-play
+
+
+
+
+
+
+
+
+
+
+3
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+3.1
+Origins: 1970s–1980s
+
+
+
+
+
+
+
+
+3.2
+Early first-person shooters: 1987–1992
+
+
+
+
+
+
+
+
+3.3
+Rise in popularity: 1992–1993
+
+
+
+
+
+
+
+
+3.4
+Advances in 3D engines: 1993-1997
+
+
+
+
+
+
+
+
+3.5
+Online and console games: 1997-2020
+
+
+
+
+
+
+
+
+3.6
+Rise of VR technology: 2020–present
+
+
+
+
+
+
+
+
+
+
+4
+Research
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+First-person shooter
+
+
+
+59 languages
+
+
+
+
+العربيةAsturianuAzərbaycancaবাংলা閩南語 / Bân-lâm-gúBosanskiBrezhonegCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFrysk한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתქართულიКыргызчаLatviešuLietuviųMagyarМакедонскиمصرىBahasa MelayuNederlands日本語NapulitanoNorsk bokmålNorsk nynorskPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaไทยTürkçeУкраїнськаاردوTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Video game genre
+Not to be confused with Light gun shooter, Rail shooter, or Shooting gallery game.
+For other uses, see First-person shooter (disambiguation).
+"Doom clone" redirects here. For the modern revival, see Boomer shooter. For the Drake song, see First Person Shooter (song).
+
+
+A screenshot of S.T.A.L.K.E.R.: Call of Pripyat showcasing the first-person perspectivePart of a series onFirst-person shooters
+Subgenres
+MMOFPS
+
+Gameplay
+Advance and secure
+Bot
+Deathmatch
+Last man standing
+Hitscan
+Rocket jumping
+Social interaction
+Strafing
+
+Lists
+List of FPSs
+List of free FPSs
+List of MMOFPSs
+vte
+A first-person shooter (FPS) is a video game centered on gun fighting and other weapon-based combat seen from a first-person perspective, with the player experiencing the action directly through the eyes of the main character.[1] This genre shares multiple common traits with other shooter games, and in turn falls under the action games category. Since the genre's inception, advanced 3D and pseudo-3D graphics have proven fundamental to allow a reasonable level of immersion in the game world, and this type of game helped pushing technology progressively further, challenging hardware developers worldwide to introduce numerous innovations in the field of graphics processing units. Multiplayer gaming has been an integral part of the experience, and became even more prominent with the diffusion of internet connectivity in recent years.
+Although earlier games predate it by 20 years, Wolfenstein 3D (1992) was the highest-profile archetype upon which most subsequent first-person shooters were based. One such game, considered the progenitor of the genre's mainstream acceptance and popularity, was Doom (1993), often cited as the most influential game in this category; for years, the term "Doom clone" was used to designate this type of game, due to Doom's enormous success.[2] Another common name for the genre in its early days was "corridor shooter", since processing limitations of that era's computer hardware meant that most of the action had to take place in enclosed areas, such as corridors and small rooms.[3]
+During the 1990s, the genre was one of the main cornerstones for technological advancements of computer graphics, starting with the release of Quake in 1996. Quake was one of the first real-time 3D rendered video games in history, and quickly became one of the most acclaimed shooter games of all time.[4][5] Graphics accelerator hardware became essential to improve performances and add new effects such as full texture mapping, dynamic lighting and particle processing to the 3D engines that powered the games of that period, such as the iconic id Tech 2, the first iteration of the Unreal Engine, or the more versatile Build. Other seminal games were released during the years, with Marathon enhancing the narrative and puzzle elements,[6][7][8] Duke Nukem 3D introducing voice acting, complete interactivity with the environment, and city-life settings to the genre, and games like Tom Clancy's Rainbow Six and Counter-Strike starting to adopt a realistic and tactical approach aimed at simulating real life counter-terrorism situations. GoldenEye 007, released in 1997, was a landmark first-person shooter for home consoles, while the critical and commercial success of later titles like Perfect Dark, Medal of Honor and the Halo series helped to heighten the appeal of this genre for the consoles market, straightening the road to the current tendency to release most titles as cross-platform, like many games in the Far Cry and Call of Duty series.
+
+
+Definition[edit]
+First-person shooters are a type of shooter game[9] that relies on a first-person point of view with which the player experiences the action through the eyes of the character. They differ from third-person shooters in that, in a third-person shooter, the player can see the character they are controlling (usually from behind, or above). The primary design focus is combat, mainly involving firearms or other types of long range weapons.[10]
+A defining feature of the genre is "player-guided navigation through a three-dimensional space." This is a defining characteristic that clearly distinguishes the genre from other types of shooting games that employ a first-person perspective, including light gun shooters, rail shooters, shooting gallery games, or older shooting electro-mechanical games.[1] First person-shooter games are thus categorized as being distinct from light gun shooters, a similar genre with a first-person perspective which uses dedicated light gun peripherals, in contrast to the use of conventional input devices.[11] Light-gun shooters (like Virtua Cop) often feature "on-rails" (scripted) movement, whereas first-person shooters give the player complete freedom to roam the surroundings.
+The first-person shooter may be considered a distinct genre itself, or a type of shooter game, in turn a subgenre of the wider action game genre.[12] Following the release of Doom in 1993, games in this style were commonly referred to as "Doom clones";[13][14] over time this term has largely been replaced by "first-person shooter".[14] Wolfenstein 3D, released in 1992, the year before Doom, has been often credited with introducing the genre, but critics have since identified similar, though less advanced, games developed as far back as 1973.[10] There are occasional disagreements regarding the specific design elements which constitute a first-person shooter. For example, titles like Deus Ex or BioShock may be considered as first-person shooters, but may also fit into the role-playing games category, as they borrow extensively from that genre.[15] Other examples, like Far Cry and Rage, could also be considered adventure games, because they focus more on exploration than simple action, they task players with multiple different objectives other than just killing enemies, and they often revolve around the construction of complex cinematic storylines with a well defined cast of secondary characters to interact with. Furthermore, certain puzzle or platforming games are also sometimes categorized as first-person shooters, in spite of lacking any direct combat or shooting element, instead using a first-person perspective to help players immerse within the game and better navigate 3D environments (for example, in the case of Portal, the 'gun' the player character carries is used to create portals through walls rather than fire projectiles).[16] Some commentators also extend the definition to include combat flight simulators and space battle games, whenever the cockpit of the aircraft is depicted from a first-person point of view.[7][10]
+
+Game design[edit]
+A player character examining their weapon in SCP: Secret Laboratory
+Like most shooter games, first-person shooters involve an avatar, one or more ranged weapons, and a varying number of enemies.[12] Because they take place in a 3D environment, these games tend to be somewhat more realistic than 2D shooter games, and have more accurate representations of gravity, lighting, sound and collisions.[9] First-person shooters played on personal computers are most often controlled with a combination of a keyboard and mouse. This system has been claimed as superior to that found in console games,[17][18] which frequently use two analog sticks: one used for running and sidestepping, the other for looking and aiming.[19] It is common to display the character's hands and weaponry in the main view, with a heads-up display showing health, ammunition and location details. Often, it is possible to overlay a map of the surrounding area.[20]
+
+Combat and power-ups[edit]
+First-person shooters generally focus on action gameplay, with fast-paced combat and dynamic firefights being a central point of the experience, though certain titles may also place a greater emphasis on narrative, problem-solving and logic puzzles.[21] In addition to shooting, melee combat may also be used extensively. In some games, melee weapons are especially powerful, as a reward for the risk the player must take in maneuvering his character into close proximity to the enemy.[22] In other games, instead, melee weapons may be less effective but necessary as a last resort.[23] "Tactical shooters" tend to be more realistic, and require the players to use teamwork and strategy in order to succeed;[19] the players can often command a squad of characters, which may be controlled by the A.I. or by human teammates,[24] and can be given different tasks during the course of the mission.
+First-person shooters typically present players with a vast arsenal of weapons, which can have a large impact on how they will approach the game.[9] Some games offer realistic reproductions of actual existing (or even historical) firearms, simulating their rate of fire, magazine size, ammunition amount, recoil and accuracy. Depending on the context, other first-person shooters may incorporate some imaginative variations, including futuristic prototypes, alien-technology or magical weapons, and/or implementing a wide array of different projectiles, from lasers, to energy, plasma, rockets, and arrows. These many variations may also be applied to the tossing of grenades, bombs, spears and the like. Also, more unconventional modes of destruction may be employed by the playable character, such as flames, electricity, telekinesis or other supernatural powers, and traps.
+In the early era of first-person shooters, often designers allowed characters to carry a large number of different weapons with little to no reduction in speed or mobility. More modern games started to adopt a more realistic approach, where the player can only equip a handheld gun, coupled with a rifle, or even limiting the players to only one weapon of choice at a time, forcing them to swap between different alternatives according to the situation. In some games, there's the option to trade up or upgrade weapons, resulting in multiple degrees of customization. Thus, the standards of realism are extremely variable.[9] The protagonist can generally get healing and equipment supplies by means of collectible items such as first aid kits or ammunition packs, simply by walking over, or interacting with them.[25] Some games allow players to accumulate experience points in a role-playing game fashion, that can generally be used to unlock new weapons, bonuses and skills.[26]
+
+Level design[edit]
+First-person shooters may be structurally composed of levels, or use the technique of a continuous narrative in which the game never leaves the first-person perspective.[7] Others feature large sandbox environments, which are not divided into levels and can be explored freely.[27] In first-person shooters, protagonists interact with the environment to varying degrees, from basics such as using doors, to problem solving puzzles based on a variety of interactive objects.[7] In some games, the player can damage the environment, also to varying degrees: one common device is the use of barrels containing explosive material which the player can shoot, harming nearby enemies.[25] Other games feature environments which are extensively destructible, allowing for additional visual effects.[28] The game world will often make use of science fiction, historic (particularly World War II) or modern military themes, with such antagonists as aliens, monsters, terrorists and soldiers of various types.[29] Games feature multiple difficulty settings; in harder modes, enemies are tougher, more aggressive and do more damage, and power-ups are limited. In easier modes, the player can succeed through reaction times alone; on more difficult settings, it is often necessary to memorize the levels through trial and error.[30]
+
+Multiplayer[edit]
+More 21st century first-person shooters utilize the Internet for multiplayer features, but local area networks were commonly used in early games.
+First-person shooters may feature a multiplayer mode, taking place on specialized levels. Some games are designed specifically for multiplayer gaming, and have very limited single player modes in which the player competes against game-controlled characters termed "bots".[31] Massively multiplayer online first-person shooters like those in the PlanetSide series allow thousands of players to compete at once in a persistent world.[32] Large scale multiplayer games allow multiple squads, with leaders issuing commands and a commander controlling the team's overall strategy.[31] Multiplayer games have a variety of different styles of match.
+
+A player standing close to the blue flag in a "capture the flag" round of the 2023 game Xonotic
+The classic types are the deathmatch (and its team-based variant) in which players score points by killing other players' characters; and capture the flag, in which teams attempt to penetrate the opposing base, capture a flag and return it to their own base whilst preventing the other team from doing the same. Other game modes may involve attempting to capture enemy bases or areas of the map, attempting to take hold of an object for as long as possible while evading other players, or deathmatch variations involving limited lives or in which players fight over a particularly potent power-up. These match types may also be customizable, allowing the players to vary weapons, health and power-ups found on the map, as well as victory criteria.[33] Games may allow players to choose between various classes, each with its own strengths, weaknesses, equipment and roles within a team.[23]
+
+Free-to-play[edit]
+Main article: Free-to-play
+There are many free-to-play first-person shooters on the market now, including Wolfenstein: Enemy Territory, Apex Legends, Team Fortress 2, PlanetSide 2, and Halo Infinite Multiplayer.[34] Some games are released as free-to-play as their intended business model and can be highly profitable (League of Legends earned $2 billion in 2017),[35] but others such as Warhammer 40,000: Eternal Crusade begin their life as paid games and become free-to-play later to reach a wider audience after an initially disappointing reception.[36] Some player communities complain about freemium first-person-shooters, fearing that they create unbalanced games, but many game designers have tweaked prices in response to criticism, and players can usually get the same benefits by playing longer rather than paying.[36]
+
+History[edit]
+For the history of light gun shooter, rail shooter and shooting gallery games that employ a first-person perspective, see Shooter game § History, and Light gun shooter § History.
+This section may contain an excessive amount of intricate detail that may interest only a particular audience. Specifically, Far too much detail on individual games without expressing their importance to the FPS genre development.. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (July 2024) (Learn how and when to remove this message)
+Origins: 1970s–1980s[edit]
+Before the popularity of first-person shooters, the first-person viewpoint was used in vehicle simulation games such as Battlezone.
+The earliest two documented first-person shooter video games are Maze War and Spasim. Maze War was originally developed in 1973 by Greg Thompson, Steve Colley and Howard Palmer, high-school students in a NASA work-study program trying to develop a program to help visualize fluid dynamics for spacecraft designs. The work became a maze game presented to the player in the first-person, and later included support for a second player and the ability to shoot the other player to win the game. Thompson took the game's code with him to Massachusetts Institute of Technology, where with help from Dave Lebling to create an eight-player version that could be played over ARPANET, computer-run players using artificial intelligence, customizable maps, online scoreboards and a spectator mode.[37] Spasim had a documented debut at the University of Illinois in 1974 on the PLATO mainframe system. The game was a rudimentary space flight simulator for up to 32 players, featuring a first-person perspective.[10] Both games were distinct from modern first-person shooters, involving simple tile-based movement where the player could only move from square to square and turn in 90-degree increments.[38] Such games spawned others that used similar visuals to display the player as part of a maze (such as Akalabeth: World of Doom in 1979), and were loosely called "rat's eye view" games, since they gave the appearance of a rat running through a maze.[37] Another crucial early game that influenced first-person shooters was Wayout. It featured the player trying to escape a maze, using ray casting to render the environment, simulating visually how each wall segment would be rendered relative to the player's position and facing angle. This allowed more freeform movement compared to the grid-based and cardinal Maze War and Spasim.[37] Among PLATO games, Witz and Boland's 1977 Futurewar, a dystopian 3D first-person dungeon shooter, has been argued to be the first true FPS. This is due to the combination of a fully perspective-shifting 3D maze with enemies ahead, and what may be the earliest representation of weapons appearing in perspective in front of the player.[39][40][41][42]
+A slightly more sophisticated first-person shooting mainframe game was Panther (1975), a tank simulator for the PLATO system. Atari's first-person tank shooter arcade video game Battlezone (1980), modeled closely after PLATO Panther, was released for arcades and presented using a vector graphics display, with the game designed by Ed Rotberg. It is considered to be the first successful first-person shooter video game, making it a milestone for the genre. It was primarily inspired by Atari's top-down arcade shooter game Tank (1974).[43] The original arcade cabinet also employed a periscope viewfinder similar to submarine shooting arcade games such as Midway's video game Sea Wolf (1976) and Sega's electro-mechanical game Periscope (1966).[43] Battlezone became the first successful mass-market game featuring a first-person viewpoint and wireframe 3D graphics, with a version later released for home computers in 1983.[44]
+
+Early first-person shooters: 1987–1992[edit]
+MIDI Maze, a first-person shooter released in 1987 for the Atari ST,[45] featured maze-based gameplay and character designs similar to Pac-Man, but displayed in a first-person perspective.[46][47] Later ported to various systems—including the Game Boy and Super NES under the title Faceball 2000—it featured the first network multiplayer deathmatches, using a MIDI interface.[48][47] Despite the inconvenience of connecting numerous machines together, it gained a cult following; 1UP.com called it the "first multi-player 3D shooter on a mainstream system" and the first "major LAN action game".[48]
+In 1986, MacroMind released a version of the game for the Apple Macintosh titled Maze Wars+, which was playable on the AppleTalk local network by up to 30 players. The game featured five different character avatars, including an eyeball similar to that found in the Xerox version of the game, four different types of robot players, additional maze features such as teleporters, and walls made of lines rather than blocks.
+Id Software's Hovertank 3D pioneered ray casting technology in May 1991 to enable faster gameplay than 1980s vehicle simulators,[44] though it was preceded by 3 years by the FPS The Colony in doing so and Catacomb 3-D introduced another advance, texture mapping, in November 1991. The second game to use texture mapping was Ultima Underworld: The Stygian Abyss, a March 1992 action role-playing game by Looking Glass Technologies that featured a first-person viewpoint and an advanced graphics engine. In October 1990, id developer John Romero learned about texture mapping from a phone call to Paul Neurath. Romero described the texture mapping technique to id programmer John Carmack, who remarked, "I can do that.",[49] and would feel motivated by Looking Glass's example to do the same in Catacomb 3-D.[44] Catacomb 3-D also introduced the display of the protagonist's hand and weapon (in this case, magical spells) on the screen, whereas previously aspects of the player's avatar were not visible.[44] The experience of developing Ultima Underworld would make it possible for Looking Glass to create the Thief and System Shock series years later.[50]
+
+Rise in popularity: 1992–1993[edit]
+Although it was not the earliest shooter game with a first-person perspective, Wolfenstein 3D is often credited with establishing the first-person shooter genre and many of its staples.
+Wolfenstein 3D was the first episodic FPS game developed by id Software, as a successor to the successful 1980s 2D infiltration video-games Castle Wolfenstein[51] and Beyond Castle Wolfenstein[52] from Muse Software, and published by Apogee Software the 5th of May 1992[53] in which the player had to explore mazes while battling Nazis to find keys required to unlock doors to reach each floor's exit all while searching every wall for secret areas filled with treasures for a higher score until each episode's last floor's boss and was an instant success because of its first episode's distribution and spread as shareware[54] whereas the second and the third available after registration; and the three last prequel episodes available as a separate mission pack, to the point that it has since been credited for having single-handedly invented the concept of first-person-shooter as a genre of video-games.[7][10] It was built on John Carmack's ray casting technology already experimented into id's previous games Hovertank One and Catacomb 3D to create a new standard for first-person-shooter video-games widely emulated, improved, and still applied to this day.[7][10][21] Tom Hall originally designed it to be a first-person infiltration game including stealth, hiding dead bodies, disguises and alarms, following the legacy of its predecessors, and the game engine does include these original features, however John Romero and John Carmack wanted a simple shooter and Tom Hall had to fight hard to even include the secret areas.[55][56][57][58] Despite its violent themes, Wolfenstein largely escaped the controversy generated by the later Doom, although it was banned from Germany due to the use of Nazi iconography which is a sensitive topic there where Wolfenstein has been forbidden until 2022[59][60][61][62] and Nintendo too required id Software to remove blood, gore, and all Nazi iconography as well as replace the enemy attack dogs with giant rats to allow it to be released on SNES because of their anti-violence policy.[63] id Software released a map editor to let players create and share online their own home-made maps for the game which started the players' modding communities who blossomed with Doom and maintain their games alive continuously sustaining new content for them. During Doom's development, id Software quickly developed a short extension for Wolfenstein 3D titled Spear of Destiny released the 19th of September 1992[64] to tease the players with the Hell to come in Doom as Spear of Destiny concluded into Hell,[65][66] then two years later, Doom 2 included two secret levels featuring Wolfenstein in Hell while re-using Spear of Destiny's Hell final level's music to close the loop.[67]
+Ken Silverman decided to develop his own game engine after he played Wolfenstein 3D in 1992. His first game, that he named Walken as in "Ken's Walking simulator", was close to Wolf3D engine. Then he improved his game with his friend Andrew Cotter, added narration to each floor, renamed it Ken's Labyrinth, and released it on Internet as shareware under his brother's company Advanced Systems on 1 January 1993.[68] The game was about escaping a bizarre dream labyrinth full of people shooting projectiles at the player while projectiles were more balls than bullets, meaning they had limited range and were slow enough to dodge them as opposite to Wolfenstein 3D whose weapons were hitscan firearms, some walls reflected projectiles, killed enemies vanished without any death animation nor remnant body on the floor, and Ken himself voiced the protagonist and filled his game with pictures of himself which hurt the player if they dared to shoot them, which made his game personal. Epic MegaGames, then Wolfenstein 3D's publisher Apogee Software's main competitor, noticed it, saw potential, then signed a commercial agreement with Ken's father, as Ken was still minor. However, the original Advanced Systems' Ken's Labyrinth was made from Ken and Andrew's limited resources to the point that Ken made the sound effects with his mouth, therefore Epic MegaGames made use of their resources to revamp the game, replaced the projectiles balls with bubble gum balls, starbursts which bounced off walls, and homing missiles, while collecting more of the same weapon increased their range and collecting thunderbolts increased the range of all weapons at once, also replaced the original final boss with Ken himself, added diverse monsters, temporary power-ups such as reflecting enemies' projectiles, kill enemies on contact, and invincibility, as well as treasures for buying these power-ups from vending-machines and for paying doors' toll, slot-machines to win coins instead of finding treasures in secret areas, death-traps such as holes in floors which were the only way to get rid of some invulnerable enemies, water fountains which slowly restored health (much like in Duke Nukem 3D three years later), changed the goal from the original's merely escaping the labyrinth to rescue the player's abducted dog Sparky and save the world, added the requirement to have Sparky follow the player to the exit of each floor to be able to reach the next floor, which made the player have to pay attention to another character beside their own, and commercialized Ken's Labyrinth v2 still as shareware the 21st of March 1993.[68] All versions of Ken's Labyrinth got to be source-ported many times and even onto Nintendo Switch by a fan.[69][70][71][72][73] As soon as id Software showed off some previews of Doom in the middle of its development, Ken Silverman started to develop his own game engine to rival with John Carmack once again, used a thesaurus to search synonyms for the word "construction", and named his new game engine "Build". Apogee Software wanted Build since id Software went their own way and didn't want to license their new Doom engine (yet). Both Epic MegaGames and Apogee Software attempted to contract Ken Silverman who chose Apogee Software which he never explained his reasons however Epic Games expressed no regret since not relying on Ken Silverman motivated them to develop their own technologies, which paid off.[74][75][76]
+Most shooters in this period were developed for IBM PC compatible computers. On the Macintosh side, Bungie released its first shooter, Pathways into Darkness in August 1993,[77] which featured more adventure and narrative elements alongside first-person shooter gameplay. Pathways had been inspired by Wolfenstein 3D, and born out of an attempt to take their previous top-down dungeon exploration game Minotaur: The Labyrinths of Crete into a 3D setting.[78][79]
+ShadowCaster, developed by Raven Software and published by Origin Systems the 27th of October 1993,[80] used a heavily modified version of Wolf3D engine made by John Carmack during summer 1992 who offered it to Raven Software after he was impressed with their first RPVG Black Crypt because he was curious about how Raven would use his game engine to make a RPVG instead of a FPSG. ShadowCaster was the first commercial game released with classic "2.5D Doom engine" improvements such as distance fogging, non-orthogonal walls, textured ceilings and floors, etc. before Doom itself came out. It introduced some RPG elements into a FPS game engine as well as a customizable HUD, an auto-map, jumping, swimming, flying, shapeshifting with each metamorphosis featuring its own characteristics to adapt to each situation.[81] Then it got enhanced with redbook audio narration, voiced dialogues which replaced the text boxes, two new levels, and 3D rendered cutscenes, then re-released on CD-ROM in 1994.[82][83][84][85] ShadowCaster started a durable close friendship between id Software and Raven Software as id will always share their technologies with Raven who will continuously use and upgrade them.
+Apogee Software, the publisher of Wolfenstein 3D, followed up its success and released another FPS game based on its engine titled Blake Stone: Aliens of Gold from another developer Jam Productions 5 December 1993[86] which featured a sci-fi setting about a British secret agent named Blake Stone pursuing a mad scientist through his facilities like a sci-fi James Bond, a similar Wolf3D's gameplay of exploring mazes while battling various foes to find keycards required to unlock doors to reach each floor's exit all while searching every wall for secret areas filled with treasures for a higher score until each episode's last floor's boss but with a far wider diversity of enemies,[87] and added textured floors and ceilings, switches to find and to press to open new areas, traps, an auto-map, stats tracking, a grenade launcher, limited-use vending-machines, teleporters, enemies spawners, back-tracking to previous levels as well as some friendly NPCs in the form of scientists who would give the player hints and supplies provided the player didn't kill them.[88][89][90][91][92][93] The game was initially well-received but sales rapidly declined in the wake of the success of id's Doom, released a week later.[94][95][96][97] It still got a sequel Blake Stone: Planet Strike the 28th of October 1994[98] which integrated the auto-map into the HUD as a rotating mini-map which revealed secret doors at the cost of consuming auto-mapper charges and added some enemies who camouflaged into the environment or were cloaked to surprise the player though.[99][100][101]
+
+Advances in 3D engines: 1993-1997[edit]
+During the Doom & Quake's era from 1993 to 1997, FPS games were still all about their game engines as original and innovative games were ignored for the only reason that their game engine was outdated. FPS games were simplistic, such as shooting everything without any complex plot. However their gameplay started to evolve, and the combo id Software & Raven Software still dominated the market, while a challenger Captone Software persisted at attempting to be original, and competed with them and failed every time for diverse reasons,[which?] when another challenger LucasArts succeeded, and Bungie Software made FPS games featuring a complex plot.[citation needed] The modding communities who sustain life into their games blossomed starting from Doom, 2D sprites were replaced with 3D polygons starting from Descent then Quake, and Apogee Software returned on the market as 3D Realms thanks to Ken Silverman.[citation needed]
+Doom, released the 10th of December 1993,[102] refined Wolfenstein 3D's template by adding support for higher resolution, improved textures, variations in height (e.g., stairs and platforms the player's character could climb upon), more intricate level design (Wolfenstein 3D was limited to a grid based system where walls had to be orthogonal to each other, whereas Doom allowed for any inclination) and rudimentary illumination effects such as flickering lights and areas of darkness, creating a far more believable 3D environment than Wolfenstein 3D's levels, all of which had a flat-floor space and corridors.[103] Doom allowed competitive matches between multiple players, termed "deathmatches", and the game was responsible for the word's subsequent entry into the video gaming lexicon.[103] According to creator John Romero, the game's deathmatch concept was inspired by the competitive multiplayer of fighting games[104] such as Street Fighter II and Fatal Fury. Doom became so popular that its multiplayer features began to cause problems for companies whose networks were used to play the game, causing frequent bandwidth reductions.[21][103] Doom has been considered the most important first-person shooter ever made.[105] It was highly influential not only on subsequent shooter games but on video gaming in general,[103] and has been made available on almost every video gaming system since.[21] Multiplayer gaming, which is now integral to the first-person shooter genre, was first successfully achieved on a large scale by Doom.[7][103] While its combination of gory violence, dark humor and hellish imagery garnered acclaim from critics,[103][106] these attributes also generated criticism from religious groups and censorship committees, with many commentators labelling the game a "murder simulator".[107] There was further controversy when it emerged that the perpetrators of the Columbine High School massacre were fans of the game; the families of several victims later unsuccessfully attempted to sue numerous video game companies - among them id Software - whose work the families claimed inspired the massacre.[59] John Carmack explained how he designed his Doom engine to Ken Silverman that he considered his only equal which inspired Ken who was in the process of developing his Build engine.[74][108][109]
+Operation Body Count, developed on Wolf3D engine and released by Capstone Software on 1 January 1994,[110][111] was Capstone's first FPS game, was all about a terrorist attack on the UNO tower, and was an early attempt at making a tactical FPS game since the player was in command of an anti-terrorist squad that they could order around and even switch to any of their body at any time as long as they were not dead and featured some digitized graphics, transparent textures such as breakable glass, randomization of enemies and items' placement, body armors, booby-traps, and a nearly fully destructible environment since the flamethrower could set people and environments on fire, which could make movement extremely hazardous for the player, especially since the fire randomly spread, and the grenade-launcher too could destroy any wall (with some hard coded exceptions). OBC also featured textured floors and ceilings and an auto-map like Blake Stone however, unlike BS, OBC featured more than one floor texture per level although its floors and ceilings' graphics were partially parallax meaning that they appeared to "warp" as the player moved around.[112][113][114] Despite some of its original ideas, it was badly made, the terrorists were stereotypes of Arabian people, the AI was not smart enough to make nor the enemies pose any challenge nor the squad's teammates be actually useful, and being based on Wolf3D engine after Doom was released made it already technologically outdated and "doomed" from the start as opposite to Blake Stone which did enjoy one week of glory before Doom was released.[115] OBC still got to be source-ported into GZDoom and remastered by its modding community eventually though.[116]
+Corridor 7: Alien Invasion, developed and published by Capstone Software the 1st of March 1994,[117] was their second attempt to make a FPS game. Still based on Wolf3D engine, the plot reminds strikingly of Half-Life's, four years later, since it was about scientific experiments with gamma beam on an alien artifact brought from Mars by a team of American scientists which opened a portal and connected Earth to another world from which an alien invasion started into the research facility. Corridor 7 added animated textures such as computer screens, distant shading which darkened distant areas to limit the player's sight's distance, dark areas and night vision mode to see into them, some invisible aliens and traps which could only be seen through thermal vision mode, some energy stations to recharge the visor's battery, some aliens who camouflaged into the environments (like Blake Stone: Planet Strike released half a year later), screen jumpscares whenever the player was idle for 10 seconds, body armors, limited-use healing chambers, force fields which hurt the player if they walked into them, mines to trap corridors, maps of the floors, and replaced keys with security computer screens which unlocked all doors of the same color within the floor whereas some computers were traps which triggered an alarm which attracted nearby enemies to the player. Capstone Software released Corridor 7 first as floppy disks, then as a CD-ROM the 6th of May 1995 which featured a different soundtrack, randomization of placements within floors, and added 10 more levels into the alien homeworld with new weapons and alien types along with multiplayer in the form of up to 12 players' deathmatch and team deathmatch modes (believed to be the first FPS game to allow that many players) and 8 additional maps made specially for it. In deathmatch, the player could choose among 12 of the game's characters both humans and aliens who had different speed and health stats, however all characters used the same weapons though.[118][119][120] Corridor 7 was a significant improvement after Capstone's previous FPS game Operation Body Count (read above), the atmosphere was gripping, the aliens were more appreciated than the stereotypes of Arabian people, the AI was improved with some enemies patrolling routes and some others camouflaging into environments or being invisible and not attacking until the player was close enough to ambush them, providing an actual challenge to players, and the game was considerably more evolved than Wolfenstein 3D and Blake Stone, however it was still based on the then outdated Wolf3D engine after Doom was released and therefore was "doomed" from the start too even if it did better than its predecessor, it was still not technologically on par with Doom and Capstone moved onto another new game engine after this game.[121][122][123][124] Still, Corridor 7 was so appreciated that it got to be source-ported only five years after its original release into the Doomsday engine and completely remastered by its modding community.[125]
+The 12th of March 1994, the Japanese company Exact released Geograph Seal for the Sharp X68000 home computer.[126] An obscure import title as far as the Western market is concerned, it was nonetheless an early example of a 3D polygonal first-person shooter, with innovative platform game mechanics and free-roaming outdoor environments.
+CyClones was begun in February 1994 and published by Raven Software the 1st of November 1994,[127] marking the beginning of a new period for Raven who split into two groups: One which worked with id's new DOOM engine to create Mage, a fantasy action game, which would eventually evolve into the game Heretic. The other team started on a project that was to use the engine from ShadowCaster to create a futuristic missions-based FPS game called CyClones. The name referred to Cybernetic Clones, the minions of aliens who had ravaged and devastated Earth. The game was in first person 3D, as was most other Raven games, so reusing the ShadowCaster engine and its tools was a natural choice. But within a short time, the team found that they wanted to do more with the game and engine than they had done before. A new, 100% in-house engine was created that could handle moving platforms, catwalks, sloped areas, and transparent textures. The engine, by Carl Stika, was nicknamed STEAM. A small budget was granted for full-motion video sequences to be created for the game, to be presented between missions as briefings. CyClones allowed to use the mouse to aim without moving, as opposite to other FPS games from the time which bound the mouse to both aiming and moving simultaneously, and without turning either, as the crosshair was not fixed at the center of the screen on which it could move freely as opposite to nowadays standard fixed aiming, CyClones's aiming was comparable to Metroid Prime's years later. CyClones used the mouse not only for aiming but also for picking up objects and interacting with the environment such as doors and switches and even revealed secret doors since the crosshair changed color upon pointing a secret door. It also included vertical aiming, jumping, various missions objectives as well as one of the first training modes in a FPS game.[128][129]
+Apogee Software's Rise of the Triad: Dark War, released the 21st of December 1994,[130] began as a sequel to Wolfenstein 3D, but was soon altered and became a stand-alone game . The game included "ludicrous" gibs, bullet holes persisted, and sheets of glass could be shattered by shooting or running through them.[131][132]
+Bungie Software released the sci-fi FPS game Marathon the 21st of December 1994 still exclusively on Mac,[133] which streamlined concepts from their previous game Pathways Into Darkness by eliminating role-playing elements in favor of the shooter action spurred by Doom's success. Marathon was highly successful, leading to two sequels Marathon 2: Durandal released the 24th of November 1995[134] then Marathon: Infinity released the 15th of October 1996[135] to form the Marathon Trilogy,[136] and becoming the standard for FPS games on Mac which pioneered or was an early adopter of several new gameplay features such as default freelook, ammo clips and weapons reloading though not manually, forcing the player to keep an eye on their ammo clips to anticipate the next reloading, dual-wielded and dual-function weapons, a motion sensor to detect both enemies and allies in the area, gravity alterations, swimming, interactive environments such as healing stations, oxygen stations, save points, teleporters, many computer terminals spread all around the levels as plot devices which provided messages, informations, various objectives and maps to the player's character[137] as well as friendly defense drones and non-player characters (NPCs), versatile multiplayer modes (such as King of the Hill, Kill the Man with the Ball, and cooperative campaign) and a map editor for players to create and share their own maps for the games. The Marathon games also had a strong emphasis on storytelling in addition to the action, which revolved around evolving relationships between the human player's character and some AIs during a surprise invasion and subsequent war against a hostile alien Empire which already conquered and enslaved some other alien species, much like Bungie's future projects such as the Halo and Destiny series which took a lot from the Marathon trilogy[138][139][140][78][141][142] which is no more exclusive to Mac since Bungie Software open-sourced it in 2000 then released the original trilogy as freeware in 2005, some fans have source-ported it to Windows and Linux as well as remastered them using the open-source engine Aleph One and have even been developing many new scenarios, total conversions, and multiplayer maps sustaining a still active community.[143][144] Many sci-fi games both from Bungie themselves and from other studios have cited the Marathon trilogy as a huge influence on their stories and settings such as the series Halo, Destiny, Mass Effect and Warframe.[145]
+After having provided a modified Wolfenstein 3D engine to Raven Software for ShadowCaster and being impressed by the final result, id Software requested that Raven develop a medieval-themed/dark fantasy game using a modified version of id's Doom engine. Raven considered themselves as typical D&D fans and initially drafted the game with role-playing elements. They then took instruction from id programmer John Carmack to simply "do it like Doom, and add the fantasy flavor."[146] Raven Software then used and upgraded the Doom engine and released Heretic the 23rd of December 1994[147] which introduced larger maps, vertical aiming, flying, gibs, randomized ambient sound effects, interactive environments such as rushing water and winds which push the player along, an inventory system to store and select many different items which range from health potions to the "morph ovum" which transforms enemies into chickens and one of the most notable item that can be found is the "Tome of Power" which acts as a secondary firing mode for certain weapons, resulting in a much more powerful projectile for each weapon, some of which change the look of the projectile entirely,[148][149][150][151][152] then Raven added two more episodes and re-released it as Heretic: Shadow of the Serpent Riders the 31st of March 1996.[153][154][155][156]
+Super 3D Noah's Ark, developed on Wolf3D engine and published by the christian video-games company Wisdom Tree (formerly named Color Dreams) on 1 January 1995,[157] was the first non-violent FPS game along with being the first religious FPS game (Doom was already based on christian mythology as well since the enemy was christian's Hell however unlike Super 3D Noah's Ark, it merely used it as a setting and didn't attempt to teach religion) which featured Noah from Abrahamic mythology's Noah's Ark as the protagonist and re-used Wolfenstein 3D's gameplay and level-design while replacing enemies' death animations by seemingly friendly animals falling asleep upon being hit by the player's weapon which was a slingshot shooting food to feed the unresting hungry animals aboard goats filled Noah's Ark made of the recycled original maps from Wolfenstein 3D including the same items' placements and even the SNES version was itself a mere reskin from Wolfenstein 3D's SNES version as well however the PC version did upgrade some things upon Wolfenstein 3D such as textured floors (like Blake Stone) along with higher resolutions graphics and MIDI music, and added a new gameplay feature such as quizzes which tested the player's religious knowledge whose rewards were more ammo to keep playing the game along with some score's points. This is not what Wisdom Tree had originally designed though, since they originally designed a FPS game based on the horror movies Hellraiser themselves adapted from Clive Barker's novels, until they realized that this was in contradiction with their christian social image then designed Super 3D Noah's Ark instead. A popular rumor has it that Wolf3D engine was given to Wisdom Tree by id Software as a kind of "revenge" against Nintendo for all the censorship that Wolfenstein 3D had to go through to be on the Super Nintendo. However, there's no proof of this, and Wisdom Tree bought a license for the game engine like everybody else instead of having it "given" to them.[158] The SNES version was not licensed by Nintendo and therefore couldn't be played on a SNES by itself which is why the SNES game cartridge was actually an adapter cartridge which required another licensed SNES game cartridge to be inserted into it in order to get Super 3D Noah's Ark to work despite being unlicensed.[159][160][161][162][163][164]
+Star Wars: Dark Forces was released the 6th of February 1995[165] after LucasArts decided Star Wars would make appropriate material for a game in the style of Doom. However, Star Wars: Dark Forces improved on several technical features that Doom lacked, such as the ability to crouch, jump, or look and aim up and down.[13][21][166] Dark Forces also was one of the first games to incorporate 3D-designed objects rendered into the game's 2.5D graphics engine.[167] The game's success launched the Star Wars: Jedi Knight series, beginning with the direct sequel Star Wars Jedi Knight: Dark Forces II[168] the 9th of October 1997.[169]
+Descent (released by Parallax Software the 17th of March 1995[170]), a game in which the player pilots a spacecraft around caves and factory ducts, was among the earliest truly three-dimensional first-person shooters. It abandoned sprites and ray casting in favour of polygonal models and allowed movement through all of the six possible degrees of freedom.[7][21]
+The 28th of April 1995, the Japanese company Exact released the successor to Geograph Seal for the PlayStation console, called Jumping Flash!, which placed more emphasis on its platform elements.[171][172]
+Witchaven,[173] developed by Capstone Software and published by their parent company IntraCorp the 20th of September 1995,[174] was the first commercial game licensed on Apogee Software rebranded 3D Realms' Ken Silverman's new Build engine to rival id Software's John Carmack's Doom engine and was a medieval fantasy First Person Slasher game as in a melee-focused FPS game, reminiscent of Raven Software's Heretic including an inventory system, both a single-player campaign and multiplayer, but far harder as it was far more tactical, making use of environmental hazards such as magma and traps against enemies, while implementing more of a RPG gameplay such as weapons' durability which broke after many uses, requiring the player to find other weapons and save the strongest weapons for the strongest foes, evolving stats from earned experience where each level up unlocked new spells and abilities such as lockpicking in the form of an unlocking spell as well as dual wielding some weapons.[175] The campaign involved a knight on an epic quest to defeat a witch who cast a curse of never-ending darkness onto his land. In order to complete this quest, he had to battle hordes of minions with both medieval weapons and magical spells to reach the witch on her volcanic island.[176][177] It featured digitized graphics, however the characters made of clay didn't appeal to everyone and the environments were empty, as well as adjustable level of gore, the same Corridor 7's trick to spawn a screen jumpscare whenever the player is idle, and it is known for game logic issues, dumb AI, hazardous map triggers and game physics that cause slippery player movement, sudden deaths, and faulty hit detection.[178][179] Witchaven was open-sourced in 2006 then source-ported into JFBuild by JonoF and into BuildGDX by its community which fixed most of its original issues in 2018.[174][180][181]
+William Shatner's TekWar, developed by Capstone Software and published by SoftKey Multimedia Inc. the 30th of September 1995,[182] barely ten days after Witchaven (read above), was the second commercial game licensed on Apogee Software rebranded 3D Realms' Ken Silverman's new Build engine to rival id Software's John Carmack's Doom engine and was a FPS game adapted from William Shatner's TekWar novels and TV series who personally contributed to the video-game to the point of live-acting the player's boss during briefings and debriefings. William Shatner's TekWar, both novels, TV series and video-game, is a sci-fi story revolving around a neural drug named Tek and the Matrix, a virtual reality (four years before the first Matrix movie).[183][184] The video-game featured FMVs, digitized live-actors and actresses, a stun gun to neutralize people in a non-lethal fashion, and gibs and dropped the player into a lively open-world future Los Angeles, making it the first FPS game which featured an open-world modern city, full of civilians, cops and enemies where civilians panicked if the player drew a weapon who they begged to not shoot while holding their hands up and ran away for their life whereas cops drew their gun onto the player and ordered him to drop their weapon and enemies shot him on sight from everywhere without the cops ever reacting whereas they shot the player if he dared to shoot back at the enemies, which is the main issue with this game: everyone is allowed to shoot you but you are not allowed to shoot anyone.[185] Some civilians were actually kamikaze androids who self-destructed when close to the player, taking them into their explosion. Half of the game also took place into the Matrix.[186][187][188] William Shatner's TekWar was the worst of Capstone's FPS games however it still got to be source-ported into BuildGDX.[189]
+Raven Software upgraded the Doom engine further and released Hexen: Beyond Heretic the 30th of October 1995[190] which added jumping, more immersive environments with effects such as swirling leaves or scattering bats upon the player's approach, weather effects, some destructible objects, scripted environmental changes such as earthquakes, different character classes to allow different playstyles as well as interconnected maps through hub maps instead of the standard linear succession of maps which granted a taste of open-world in a FPS game.[191][192][193]
+Apogee Software, then renamed 3D Realms, followed up with Duke Nukem 3D (sequel to the earlier platformers Duke Nukem and Duke Nukem II), released as shareware the 29th of January 1996,[194] which ran on the then new Build engine developed by Ken Silverman with the support of John Carmack.[195] Duke Nukem 3D won acclaim for its humour based around stereotyped machismo as well as its adrenalinic gameplay and graphics. However, some found the game's (and later the whole series') treatment of women to be derogatory and tasteless.[21][59][196]
+Witchaven 2: Blood Vengeance, developed by Capstone Software and published by their parent company IntraCorp the 6th of May 1996,[197] was a sequel to the first Witchaven which set the knight from the first game onto an even more perilous quest to rescue the princess abducted by the witch's sister seeking vengeance, still licensed on 3D Realms' Build engine, it added dual weapons wielding or wielding a shield in the place of the second weapon as well as a map editor to let players create and share their own maps,[198][199] however Capstone didn't fix the first game's issues[200] and it was their last game before going extinct as they were developing a Build-based sequel to their previous Wolf3D-based game Corridor 7 when their parent company IntraCorp went bankrupt.[201][202] Witchaven 2 was open-sourced in 2006 then source-ported into BuildGDX by its community which fixed most of its original issues in 2018.[197][203]
+The game PowerSlave was initially designed using the Build engine for MS-DOS, but was later spun off into releases for Sega Saturn and Sony PlayStation using developer Lobotomy Software's in-house SlaveDriver engine. While the PC version is a traditional linear first-person shooter, the console versions feature non-linear progression and unlockable player abilities reminiscent of a metroidvania.[204]
+Strife, developed by Rogue Entertainment and published by Velocity Inc. the 15th of May 1996,[205] was the last commercial game which used and modified the Doom engine before id released the new Quake engine the following month[206] and it introduced some RPVG's features into the standard FPS formula such as an actual lively open-world filled with NPCs, dialogues with choices of answers, some of them were even voiced, trade, reinforcements who engage the enemies in battle, mandatory and optional quests, character's evolution of his abilities, an intriguing plot branching into different routes and conclusions according to the player's choices and actions, some burning effects as well as some infiltration gameplay such as stealth, disguises and alarms. The plot takes place in a medieval world struck by a comet which released a virus which wiped out almost all life on the planet and corrupted most of the remaining people who created a high-tech theocratic new world order known as "The Order" whereas the few remaining free people organized into an underground resistance known as "The Front" and the player is an unnamed mercenary (sometimes referred to as the Strifeguy) who joins the Front to fight the Order's oppressive rule while being remotely assisted by a Front's radio operative woman nicknamed Blackbird who occasionally comments with humor the situations that the player encounters.[207][208][209][210][211] However, despite all of its innovations, Strife went relatively unnoticed because it was released right between the two other overwhelmingly popular games Duke Nukem 3D and Quake which made the Doom engine already outdated by then.[212] Still, players who discovered it many years after its original release appreciated its originality for its time and even compared it to Deus Ex and Marathon.[213][214][215] Doom's modding community source-ported Strife into GZDoom to update and upgrade it from its original version to modern standards.[216][217][218]
+Shortly after the release of Duke Nukem 3D, id Software released the much anticipated Quake the 22nd of June 1996.[206] Like Doom, Quake was influential and genre-defining, featuring fast-paced, gory gameplay, within a completely 3D game environment, and making use of real-time rendered polygonal models instead of sprites. It was centered on online gaming and featured multiple match types still found in first-person shooter games today. It was the first FPS game to gain a cult following of player clans (although the concept had existed previously in MechWarrior 2's Netmech, with its Battletech lore as well as amongst MUD players), and would inspire popular LAN parties and events such as QuakeCon.[219] The game's popularity and use of 3D polygonal graphics also helped to expand the growing market for video card hardware;[7][21][220] and the additional support and encouragement for game modifications attracted players who wanted to tinker with the game and create their own modules.[219] According to creator John Romero, Quake's 3D world was inspired by the 3D fighting game Virtua Fighter. Quake was also intended to expand the genre with Virtua Fighter influenced melee brawling, but this element was eventually scrapped from the final game.[221][222]
+Shadow Warrior, developed and published by 3D Realms the 13th of May 1997,[223] introduced 3D voxels instead of 2D sprites for weapons and inventory items as well as weapons' secondary firing mode, climbable ladders, true room-over-room situations, transparent water, some vehicles to drive, and a brand new Asian hero named Lo Wang into a brand new Asian setting in contrast to its predecessor Duke Nukem 3D's occidental atmosphere and Shadow Warrior, just as its predecessor, features deliberately immature and politically incorrect humor, as well as a protagonist who delivers regular one-liners, commenting upon the situation at hand. Much of the humor is derived from over-the-top, stereotypical portrayals of Asian culture.[224]
+
+Online and console games: 1997-2020[edit]
+Based on the James Bond film, Rare's GoldenEye 007 was released in 1997, and as of 2004 it was still the best-selling Nintendo 64 game in the United States.[225] It has been the first landmark first-person shooter for console gamers and was highly acclaimed for its atmospheric single-player campaign and well designed multiplayer maps. It featured a sniper rifle, the ability to perform head-shots, and the incorporation of stealth elements[7][21][226][227] (all of these aspects were also included in the game's spiritual sequel, Perfect Dark) as well as some Virtua Cop-inspired features such as weapon reloading, position-dependent hit reaction animations, penalties for killing innocents, and a newly designed aiming system that allowed players to aim at a precise spot on the screen.[225]
+Though not the first of its kind, Tom Clancy's Rainbow Six started a popular trend of tactical first-person shooters in 1998. It featured a team-based, realistic design and themes based around counter-terrorism, requiring missions to be planned before execution and in it, a single hit was sometimes enough to kill a character.[24][228] Medal of Honor, released in 1999, gave birth to a long running proliferation of simulative first-person shooters set during World War II.[21]
+Valve's Half-Life was released in 1998, based upon Quake's graphics technology.[229] Initially met with only mild anticipation, it went on to become a commercial success.[21][230] While most of the previous first-person shooters on the IBM PC platform had focused on visceral gameplay with relatively weak or irrelevant plots, Half-Life placed a far bigger focus on strong narrative; the game featured no cut scenes but remained in the first-person perspective at all times. It capitalized heavily on the concepts of non-enemy characters (previously featured in many other titles, such as the Marathon series and Strife)[231] and wider in-game interactivity (as first introduced by the likes of Duke Nukem 3D and System Shock) but did not employ power-ups in the traditional sense,[7] making for a somewhat more believable overall experience. The game was praised for its artificial intelligence, selection of weapons and attention to detail and "has since been recognized as one of the greatest games of all time" according to GameSpot. Its sequel, Half-Life 2, (released in 2004), was less influential though "arguably a more impressive game".[232]
+Starsiege: Tribes, also released in 1998, was a multiplayer online shooter allowing more than 32 players in a single match. It featured team-based gameplay with a variety of specialized roles, and an unusual jet pack feature. The game was highly popular and later imitated by many other titles such as the Battlefield series.[7][8] Id's Quake III Arena and Epic's Unreal Tournament, both released in 1999, became the real milestones for multiplayer gaming, thanks to their incredible graphics and frenetic, yet accessible and perfectly balanced online modes; on the other hand, both games only featured a very limited single player campaign designed for a more "disposable" arcade approach.[21] Counter-Strike was also released in 1999, a Half-Life modification with a counter-terrorism theme copied from Rainbow Six. The game and later version Counter-Strike: Source (2004) went on to become the most popular multiplayer game modification ever, with over 90,000 players competing online at any one time during its peak.[21][229]
+At the E3 game show in 1999, Bungie unveiled a real-time strategy game called Halo; aka Halo CE at the following E3, an overhauled third-person shooter version was displayed. In 2000, Bungie was bought by Microsoft. Halo was then revamped and released as a first-person shooter; it was one of the launch titles for the Xbox console. It was a runaway critical and commercial success, and is considered a premier console first-person shooter. It featured narrative and storyline reminiscent of Bungie's earlier Marathon series but now told largely through in-game dialog and cut scenes. It also received acclaim for its characters, both the protagonist, Master Chief and its alien antagonists. The sequel, Halo 2 (2004), brought the popularity of online gaming to the console market through the medium of Xbox Live, on which it was the most played game for almost two years.[21]
+Deus Ex, released by Ion Storm in 2000, featured a levelling system similar to that found in role-playing games; it also had multiple narratives depending on how the player completed missions and won acclaim for its serious, artistic style.[21] The Resident Evil games Survivor in 2000 and Dead Aim in 2003 attempted to combine the light gun and first-person shooter genres along with survival horror elements.[233] Metroid Prime, released in 2002 for the GameCube, a highly praised first-person shooter, incorporated action adventure elements such as jumping puzzles and built on the Metroid series of 2D side-scrolling platform-adventures.[21] Taking a "massive stride forward for first-person games", the game emphasized its adventure elements rather than shooting and was credited by journalist Chris Kohler with "breaking the genre free from the clutches of Doom".[234]
+Efforts to develop early handheld video games with 3-D graphics have eventually led to the dawn of ambitious handheld first-person shooter games, starting with two Game Boy Advance ports of Back Track and Doom not long after the system was launched in 2001.[235] The GBA eventually saw the release of several first-person shooter games specifically tailored for it, including Duke Nukem Advance, Ecks vs. Sever and Dark Arena, with a sizable amount of them being praised for pushing the hardware to the limit while providing satisfying gameplay.[236][237][238] Despite their varying reception, they would demonstrate the viability of first-person shooters on handhelds, which became more apparent with new technological advances that accompanied future handheld systems.[239]
+World War II Online, released in 2001, featured a persistent and "massively multiplayer environment", although IGN said that "the full realization of that environment is probably still a few years away."[240] Battlefield 1942, another World War II shooter released in 2002, featured large scale battles incorporating aircraft, naval vessels, land vehicles and infantry combat.[21] In 2003, PlanetSide allowed hundreds of players at once to compete in a persistent world,[241] and was also promoted as the "world's first massively multiplayer online first person shooter."[32] The Serious Sam series, first released in 2001, and Painkiller, released in 2004, both emphasized fighting waves of enemies in large open arenas, in an attempt to hearken back to the genre's roots.[242][243]
+Doom 3, released in 2004, placed a greater emphasis on horror and frightening the player than previous games in the series and was a critically acclaimed best seller,[244][245] though some commentators felt it lacked gameplay substance and innovation, putting too much emphasis on impressive graphics.[15] In 2005, a film based on Doom featured a sequence that emulated the viewpoint and action of the first-person shooter, but was critically derided as deliberately unintelligent and gratuitously violent.[246] In 2005, F.E.A.R. was acclaimed[247] for successfully combining first-person shooter gameplay with a Japanese horror atmosphere.[248] Later in 2007, Irrational Games' BioShock would be acclaimed by some commentators as the best game of that year for its innovation in artistry, narrative and design,[249][250][251] with some calling it the "spiritual successor" to Irrational's earlier System Shock 2.[252]
+Finally, the Crytek games Far Cry (2004) and Crysis (2007) as well as Ubisoft's Far Cry 2 (2008) would break new ground in terms of graphics and large, open-ended level design,[21][253] whereas Call of Duty 4: Modern Warfare (2007), Resistance: Fall of Man (2006) and its sequel Resistance 2 (2008) presented increasingly refined linear levels and narratives,[254] with the fast pace and linearity of the Call of Duty games bearing a resemblance to rail shooters.[255] BLACK in 2006 was considered to be a leader in cinematic game design, with strong sound design and destructible environments.[256] In 2007, Portal popularized the concept of puzzles mechanics in first-person perspective.[citation needed] In 2006, Gamasutra reported the first-person shooter as one of the biggest and fastest growing video game genres in terms of revenue for publishers.[257]
+Team Fortress 2, originally a user-made mod for Quake but made into an official product by Valve by its release in 2007, launched a new type of team-based subgenre called hero shooters, which consist of first-person and third-person shooters where players selected from one of several pre-made characters with existing weapons and skill sets, using those different characters effectively to complete objectives against their opponents.[258] The hero shooter genre had significant growth following the release of Overwatch in which refined the hero shooter formula by adding unique characters and larger narrative as they expanded the game in future updates.[259]
+The use of motion-detecting game controllers – particularly the Wii's – "promised to make FPS controls more approachable and precise with an interface as simple as literally pointing to aim" and thus "dramatically reshape the first-person shooter." However, technical difficulties pertinent to functions other than aiming – such as maneuvering or reloading – prevented their widespread use among first-person shooters.[260]
+The Pointman user interface combines a motion-sensitive gamepad, head tracker and sliding foot pedals to increase the precision and level of control over one's avatar[261] in military first-person shooter games.
+
+2011 shooter Xonotic
+In the late 2010s, first-person and third-person shooters enjoyed a surge in popularity with the rise of battle royale games, in which many players battle for survival on a large map to be the last man or team standing through intense action-packed combat, and PlayerUnknown's Battlegrounds (2017) reached the highest number of concurrent players ever to be recorded on Steam.[citation needed] Its free-to-play mobile game version, PUBG Mobile (2018), reached over 1 billion downloads worldwide by early 2021[262] and grossed over $8 billion by early 2022.[263]
+
+Rise of VR technology: 2020–present[edit]
+As virtual reality (VR) technologies are being developed, FPS games are being developed right alongside the various VR gaming platforms. The new immersive 3D environments using VR headsets and motion controllers enable some entirely unique experiences and mechanics for FPS games, such as physically ducking / dodging, precise control for throwing objects, and individual finger control, enhancing the interactivity with in-game wearables and other objects in the environment. VR Games naturally have a greater focus on the players' spatial presence and the 3D environment itself rather than the actual challenge / competitiveness of the game,[264][265] which also extends to first-person shooters, especially in the horror sub-genre.[264] Half-Life Alyx, released in 2020, is to date (2023) the highest grossing VR first-person shooter and is usually considered the first AAA title in VR.[266][267][268][269][270] While there is much hype in the Virtual Reality arena, it is still an emerging technology, and it has yet to be determined if VR FPS titles will become mainstream competitive or how these platforms will influence the genre in the future.[271][272][265]
+
+Research[edit]
+In 2010, researchers at Leiden University showed that playing first-person shooter video games is associated with superior mental flexibility. Compared to non-players, players of such games were found to require a significantly shorter reaction time while switching between complex tasks, possibly because they are required to develop a more responsive mindset to rapidly react to fast-moving visual and auditory stimuli, and to shift back and forth between different sub-duties.[273]
+
+See also[edit]
+First-person shooter engine
+List of first-person shooters
+Social interaction and first-person shooters
+Violence and video games
+References[edit]
+
+
+^ a b Voorhees, Gerald (2014). "Chapter 31: Shooting". In Perron, Bernard (ed.). The Routledge Companion to Video Game Studies. Taylor & Francis. pp. 251–258. ISBN 9781136290503.
+
+^ Schneider, Steven (May 4, 2016). "The 5 Best 'Doom' Clones Ever Released". Tech Times. Archived from the original on January 26, 2018. Retrieved January 26, 2018.
+
+^ "Preview: Quake". Sega Saturn Magazine. No. 22. Emap International Limited. August 1997. p. 38. Retrieved November 25, 2018.
+
+^ Gordon, David (February 6, 1999). "The 50 Best Video games: A Legend In Your Own Living-Room". The Independent.
+
+^ "The 100 Greatest Games Of All Time". Empire. Archived from the original on May 15, 2011. Retrieved April 30, 2023.
+
+^ "IGN: How Marathon influenced modern games". May 26, 2023.
+
+^ a b c d e f g h i j k l Cifaldi, Frank, The Gamasutra Quantum Leap Awards: First-Person Shooters Archived June 6, 2011, at the Wayback Machine, GamaSutra, September 1, 2006, Accessed February 16, 2009
+
+^ a b IGN's Top 100 Games Archived February 9, 2009, at the Wayback Machine, IGN, July 25, 2005, Accessed February 19, 2009
+
+^ a b c d Rollings, Andrew; Ernest Adams (2006). Fundamentals of Game Design. Prentice Hall. Archived from the original on February 17, 2009.
+
+^ a b c d e f Garmon, Jay, Geek Trivia: First shots fired Archived June 16, 2011, at the Wayback Machine, TechRepublic, May 24, 2005, Accessed February 16, 2009
+
+^ Casamassina, Matt, Controller Concepts: Gun Games Archived July 13, 2011, at the Wayback Machine, IGN, September 26, 2005, Accessed February 27, 2009
+
+^ a b Rollings, Andrew; Ernest Adams (2003). Andrew Rollings and Ernest Adams on Game Design. New Riders Publishing. pp. 290–296. Archived from the original on March 31, 2017. Retrieved March 4, 2009.
+
+^ a b Turner, Benjamin & Bowen, Kevin, Bringin' in the DOOM Clones, GameSpy, December 11, 2003, Accessed February 19, 2009
+
+^ a b Doom Archived June 9, 2008, at the Wayback Machine, Encyclopædia Britannica, Accessed February 25, 2009
+
+^ a b Perry, Douglass C., BioShock: Ken Levine Talks First-Person Shooters Archived October 23, 2009, at the Wayback Machine, IGN, September 15, 2006, Accessed February 25, 2009
+
+^ McNeilley, Joe (December 7, 2007). "Portal is the most subversive game ever". Games Radar. Archived from the original on May 16, 2019. Retrieved September 17, 2018.
+
+^ Beradini, Cesar A., Play Halo on Xbox with a Keyboard & Mouse Archived February 21, 2009, at the Wayback Machine, Team Xbox, October 4, 2004, Accessed February 23, 2009
+
+^ Schiesel, Seth, Balletic Finesse Amid the Science-Fiction Carnage Archived December 29, 2016, at the Wayback Machine, The New York Times, March 2, 2009, Accessed March 7, 2009
+
+^ a b Treit, Ryan, Novice Guides: First Person Shooter, Xbox.com, Accessed February 23, 2009
+
+^ Lahti, Martti, "As We Become Machines: Corporealized Pleasures in Video Games", Wolf, Mark J. P. & Perron, Bernard (eds.), The Video Game Theory Reader, Routledge, p. 161
+
+^ a b c d e f g h i j k l m n o p q r Hasselberger, Cheese. "Guide to FPS". UGO Networks. Archived from the original on December 7, 2009. Retrieved February 16, 2009.
+
+^ Hong, Tim, Shoot to Thrill: Bio-Sensory Reactions to 3D Shooting Games Archived December 21, 2008, at the Wayback Machine, GamaSutra, December 2, 2008, Accessed February 23, 2009
+
+^ a b Quake Wars Guide, IGN, Accessed March 10, 2009 Archived August 9, 2010, at the Wayback Machine
+
+^ a b Dunkin, Alan (September 9, 1998). "Tom Clancy's Rainbow Six Review". GameSpot. Archived from the original on June 4, 2012. Retrieved February 19, 2009.While generally better than Spec Ops, Rainbow Six carries its own baggage, especially where the conflict of realism versus gameplay rears its ugly head.
+
+^ a b Staff, The Wednesday 10: First-Person Shooter Cliches Archived February 16, 2009, at the Wayback Machine, IGN, February 11, 2009, Accessed February 23, 2009
+
+^ "The Art Of FPS Multiplayer Design". Game Informer. May 3, 2008. Archived from the original on May 25, 2008. Retrieved February 24, 2009.
+
+^ "S.T.A.L.K.E.R.: Shadow of Chernobyl". Game Informer. May 2007. Archived from the original on April 1, 2008. Retrieved February 23, 2009.
+
+^ Reed, Kristan, Black Archived January 6, 2016, at the Wayback Machine, EuroGamer, June 2, 2005, Accessed February 23, 2009
+
+^ "FPS Field Guide: A Look At Common Enemies". GameInformer. May 6, 2008. Archived from the original on July 31, 2008. Retrieved February 23, 2009.
+
+^ Boutros, Daniel, Difficulty is Difficult: Designing for Hard Modes in Games Archived February 25, 2009, at the Wayback Machine, GamaSutra, September 16, 2008, Accessed March 10, 2009
+
+^ a b Kosak, Dave, Battlefield 2 (PC) Archived May 2, 2009, at the Wayback Machine, GameSpy, June 17, 2005, Accessed February 23, 2009
+
+^ a b The Worlds First MMOFPS is nearly complete Archived July 13, 2011, at the Wayback Machine, IGN, May 5, 2003, Accessed February 23, 2009
+
+^ Halo Guide, IGN, Accessed March 10, 2009 Archived August 10, 2010, at the Wayback Machine
+
+^ "Wage war on a budget with 10 fun and free first-person shooters for PC and Mac". Digital Trends. February 14, 2018. Archived from the original on April 17, 2018. Retrieved April 17, 2018.
+
+^ "League of Legends Tops Free-to-Play Revenue Charts in 2017". Comicbook.com. Archived from the original on April 18, 2018. Retrieved April 17, 2018.
+
+^ a b "Warhammer 40K: Eternal Crusade Goes Free to Play". twinfinite.net. March 18, 2017. Archived from the original on April 18, 2018. Retrieved April 17, 2018.
+
+^ a b c Evans-Thirlwell, Edwin (October 20, 2017). "The history of the first person shooter". PC Gamer. Archived from the original on September 18, 2018. Retrieved September 17, 2018.
+
+^ Malcolm Ryan (December 17, 2009), IE2009: Proceedings of the 6th Australasian Conference on Interactive Entertainment, Australasian Conference on Interactive Entertainment, ISBN 978-1-4503-0010-0, archived from the original on June 25, 2016, retrieved April 20, 2011
+
+^ CRPG Addict (pseud.) (May 23, 2024). "Futurewar: Summary and Rating". CRPG Addict. Retrieved September 6, 2024.
+
+^ "Futurewar". How to Make an RPG. Retrieved September 6, 2024.
+
+^ Witz, Erik. "Futurewar Restoration Project". Retrieved September 6, 2024.
+
+^ Dear, Brian (2017). The Friendly Orange Glow.
+
+^ a b Wolf, Mark J. P. (2012). Encyclopedia of Video Games: The Culture, Technology, and Art of Gaming. Vol. 1. ABC-CLIO. pp. 68–9. ISBN 978-0-313-37936-9. Archived from the original on May 6, 2021. Retrieved May 6, 2021.
+
+^ a b c d Shahrani, Sam, Educational Feature: A History and Analysis of Level Design in 3D Computer Games - Pt. 1 Archived June 29, 2006, at the Wayback Machine, GamaSutra, April 26, 2006, Accessed March 7, 2009
+
+^ MIDI Maze: Atari ST Archived November 2, 2012, at the Wayback Machine, IGN, Accessed September 2, 2012
+
+^ "25 years of Pac-Man". MeriStation. July 4, 2005. Archived from the original on September 29, 2011. Retrieved May 6, 2011. (Translation Archived April 24, 2017, at the Wayback Machine)
+
+^ a b "Gaming's Most Important Evolutions". GamesRadar. October 8, 2010. p. 5. Archived from the original on November 7, 2021. Retrieved April 27, 2011.
+
+^ a b Parish, Jeremy, The Essential 50: Faceball 2000, 1UP, Accessed April 24, 2009, Archived from the original on February 28, 2016, at the Wayback Machine
+
+^ Au, Wagner (May 5, 2003). "Masters of Doom". salon.com. Archived from the original on October 30, 2012. Retrieved May 5, 2003.
+
+^ Mallinson, Paul (April 16, 2002). "Games that changed the world: Ultima Underworld". CVG. ComputerAndVideoGames.com. Archived from the original on December 12, 2007. Retrieved October 8, 2010.
+
+^ "Castle Wolfenstein (1981)". MobyGames. Retrieved July 19, 2024.
+
+^ "Beyond Castle Wolfenstein (1984)". MobyGames. Retrieved July 19, 2024.
+
+^ "Wolfenstein 3D Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Gamasutra - Features - 20 Years Of Evolution: Scott Miller And 3D Realms". May 11, 2013. Archived from the original on May 11, 2013. Retrieved July 19, 2024.
+
+^ "Tom Hall: 5 key design lessons I learned directing Wolfenstein 3D". www.gamedeveloper.com. Retrieved July 19, 2024.
+
+^ "Tom Hall on Wolfenstein 3D | IncGamers". September 20, 2010. Archived from the original on September 20, 2010. Retrieved July 19, 2024.
+
+^ Edwards, Benj (May 5, 2022). "Achtung! How Wolfenstein 3D Shocked the World, 30 Years Later". How-To Geek. Retrieved July 19, 2024.
+
+^ "Wolfenstein 3D (1992)". MobyGames. Retrieved July 19, 2024.
+
+^ a b c When Two Tribes Go to War: A History of Video Game Controversy Archived September 11, 2009, at the Wayback Machine, GameSpot, Accessed February 24, 2009
+
+^ Allen, Joseph (September 16, 2022). "Wolfenstein 3D Available In Germany After 30 Years". TechRaptor. Retrieved July 19, 2024.
+
+^ "Nearly 30 years later, "Wolfenstein 3D" unbanned in Germany". The Splintering. November 19, 2019. Retrieved July 19, 2024.
+
+^ "Germany lifts total ban on Nazi symbols in video games". August 10, 2018. Retrieved July 19, 2024.
+
+^ Kushner, David (May 10, 2001). "Nintendo Grows Up and Goes for the Gross-Out". The New York Times. Archived from the original on November 10, 2012. Retrieved February 24, 2009.
+
+^ "Spear of Destiny Releases". MobyGames. Retrieved July 19, 2024.
+
+^ "Wolfenstein 3D: Spear of Destiny – Hardcore Gaming 101". Retrieved July 19, 2024.
+
+^ Wolfenstein 3D Spear of Destiny ECWolf - Level 21 (Boss) & Ending - 1080p 60fps. July 3, 2015. Retrieved July 19, 2024 – via YouTube.
+
+^ Major Thriftwood (November 29, 2014). DOOM II: Hell on Earth Secret levels! (Wolfenstein & Grosse) PC/DOS, 1994. Retrieved July 19, 2024 – via YouTube.
+
+^ a b "Ken's Labyrinth Releases". MobyGames. Retrieved July 22, 2024.
+
+^ "Ken's Labyrinth (1993)". MobyGames. Retrieved July 22, 2024.
+
+^ "Ken's Labyrinth - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game". www.pcgamingwiki.com. Retrieved July 22, 2024.
+
+^ "Ken's Labyrinth for PC - GameFAQs". gamefaqs.gamespot.com. Retrieved July 22, 2024.
+
+^ "Ken's Labyrinth – Hardcore Gaming 101". Retrieved July 22, 2024.
+
+^ "The official Ken's Labyrinth page". www.advsys.net. Retrieved July 22, 2024.
+
+^ a b "Ken Silverman's Build Engine Page". www.advsys.net. Retrieved July 23, 2024.
+
+^ "RGB Classic Games - Ken Silverman Interview". www.classicdosgames.com. Retrieved July 23, 2024.
+
+^ "Retroaction issue 2 by Neil Reive - Ken Silverman's interview". issuu.com. May 13, 2009. Retrieved July 24, 2024.
+
+^ "Pathways into Darkness Releases". MobyGames. Retrieved July 18, 2024.
+
+^ a b Parish, Jeremy (September 17, 2018). "Destiny's roots can be traced long into Bungie's past". Polygon. Retrieved September 17, 2018.
+
+^ Deniz, Tuncer (December 1993). "The Making Of: Pathways Into Darkness". Inside Mac Games.
+
+^ "Shadow Caster - Abandonware France". www.abandonware-france.org (in French). Retrieved July 20, 2024.
+
+^ PC Zone 7 (October 1993).
+
+^ "Shadowcaster (1993)". MobyGames. Retrieved July 18, 2024.
+
+^ "Shadowcaster Releases". MobyGames. Retrieved July 20, 2024.
+
+^ "ShadowCaster". ClassicReload.com. March 13, 2014. Retrieved July 19, 2024.
+
+^ "ShadowCaster - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game". www.pcgamingwiki.com. Retrieved July 19, 2024.
+
+^ "Blake Stone: Aliens of Gold Releases". MobyGames. Retrieved July 18, 2024.
+
+^ Game Intros & Finales (May 11, 2022). All Bosses and Enemies of Blake Stone. Retrieved July 18, 2024 – via YouTube.
+
+^ Apogee Software (1993), Blake Stone: Aliens of Gold, retrieved July 19, 2024
+
+^ "Blake Stone: Aliens of Gold (1993)". MobyGames. Retrieved July 18, 2024.
+
+^ "Blake Stone: Aliens Of Gold (DOS) Game Download". GamesNostalgia. Retrieved July 19, 2024.
+
+^ "Blake Stone: Aliens of Gold game at DOSGames.com". DOSGames.com. Retrieved July 19, 2024.
+
+^ Jam Productions (1993), Blake Stone: Aliens of Gold, Apogee Software, retrieved July 19, 2024
+
+^ "Blake Stone: Aliens of Gold - Review - allgame". November 15, 2014. Archived from the original on November 15, 2014. Retrieved July 19, 2024.
+
+^ Hyper 006. May 1994.
+
+^ Electronic Entertainment 04 April 1994. April 1994.
+
+^ Handley, Zoey (July 23, 2021). "Blake Stone was the best FPS until Doom released a week later". Destructoid. Retrieved July 19, 2024.
+
+^ Guifoil, John, The Old Shoebox: Download Blake Stone: Aliens of Gold Archived July 8, 2011, at the Wayback Machine, Blast, August 1, 2008, Accessed February 16, 2009
+
+^ "Blake Stone: Planet Strike! Releases". MobyGames. Retrieved July 18, 2024.
+
+^ Computer Player 09 February 1995. February 1995.
+
+^ Electronic Entertainment 15 March 1995. March 1995.
+
+^ "Blake Stone – Hardcore Gaming 101". Retrieved July 19, 2024.
+
+^ "Doom Releases". MobyGames. Retrieved July 18, 2024.
+
+^ a b c d e f "The Greatest Games of All Time: Doom". GameSpot. Archived from the original on October 11, 2012. Retrieved February 18, 2009.
+
+^ Consalvo, Mia (2016). Atari to Zelda: Japan's Videogames in Global Contexts. MIT Press. pp. 201–3. ISBN 978-0262034395. Archived from the original on February 15, 2017.
+
+^ Davar, Jenny (March 28, 2008). "Importance of FPS In Video Games". Archived from the original on October 24, 2020. Retrieved March 29, 2008.
+
+^ Perry, Douglass C. (October 3, 2006). "Doom Review". IGN. Archived from the original on August 9, 2010.
+
+^ Silverman, Ben (September 17, 2007). "Controversial Games". Yahoo! Games. Archived from the original on September 22, 2007.
+
+^ www.advsys.net http://www.advsys.net/ken/carmken.htm. Retrieved July 23, 2024. {{cite web}}: Missing or empty |title= (help)
+
+^ "John Carmack Answers - Slashdot". slashdot.org. October 15, 1999. Retrieved July 23, 2024.
+
+^ "Operation Body Count Releases". MobyGames. Retrieved July 20, 2024.
+
+^ "Operation Body Count". GOG.com. Retrieved July 20, 2024.
+
+^ "Operation Bodycount - Review - allgame". November 17, 2014. Archived from the original on November 17, 2014. Retrieved July 20, 2024.
+
+^ "Operation Body Count (1994)". MobyGames. Retrieved July 20, 2024.
+
+^ MarphitimusBlackimus (August 16, 2009). Operation: Body Count - Gameplay. Retrieved July 20, 2024 – via YouTube.
+
+^ "Operation Body Count – Hardcore Gaming 101". Retrieved July 20, 2024.
+
+^ "Operation Body Count". Mike's Toybox. October 19, 2017. Retrieved July 20, 2024.
+
+^ "Corridor 7: Alien Invasion". GOG.com. Retrieved July 20, 2024.
+
+^ "Corridor 7: Alien Invasion (1994)". MobyGames. Retrieved July 20, 2024.
+
+^ "KBW's Corridor 7 Page". corridor7.tripod.com. Retrieved July 20, 2024.
+
+^ LGR (May 28, 2011). LGR - Corridor 7 - DOS PC Game Review. Retrieved July 20, 2024 – via YouTube.
+
+^ PC Zone 16 (July 1994) Corridor 7's advertisement.
+
+^ PC Zone 16 (July 1994) Corridor 7's review.
+
+^ "Corridor 7: Alien Invasion (Game)". Giant Bomb. Retrieved July 20, 2024.
+
+^ Chubzdoomer (March 25, 2023). Corridor 7: Alien Invasion (PC) Gameplay. Retrieved July 20, 2024 – via YouTube.
+
+^ "Corridor 7: Alien Invasion TC". Doomworld. April 23, 2010. Retrieved July 20, 2024.
+
+^ "Geograph Seal Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "CyClones". GOG.com. Retrieved July 20, 2024.
+
+^ "CyClones (1994)". MobyGames. Retrieved July 18, 2024.
+
+^ "PC Gamer Online". PC Gamer. December 7, 1999. Archived from the original on December 7, 1999. Retrieved July 23, 2024.
+
+^ "Rise of the Triad: Dark War Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Gamasutra - Features - 20 Years Of Evolution: Scott Miller And 3D Realms". May 11, 2013. Archived from the original on May 11, 2013. Retrieved July 18, 2024.
+
+^ "Rise of the Triad – Hardcore Gaming 101".
+
+^ "Marathon Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Marathon 2: Durandal Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Marathon Infinity Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Marathon Trilogy Box Set (1997)". MobyGames. Retrieved July 18, 2024.
+
+^ "Marathon (No Commentary)". YouTube. Retrieved July 19, 2024.
+
+^ Swan, Cameron (November 28, 2022). "Bungie's Marathon Franchise Explained". Game Rant. Retrieved July 18, 2024.
+
+^ "Marathon (Franchise)". Giant Bomb. Retrieved July 18, 2024.
+
+^ Miller, Pat (May 16, 2006). "From '94 to Infinity: Before Halo". The Escapist. Archived from the original on October 3, 2012.
+
+^ ShreddedNerd (May 29, 2022). Bungie's Marathon: The Blueprint of FPS Storytelling. Retrieved July 18, 2024 – via YouTube.
+
+^ "Marathon Wiki". Marathon Wiki. May 29, 2024. Retrieved July 18, 2024.
+
+^ "Aleph One - Marathon Open Source". alephone.lhowon.org. Retrieved July 18, 2024.
+
+^ "Home". GitHub. Retrieved July 18, 2024.
+
+^ Hadzaman, Alex (May 30, 2023). "The Big Deal with Marathon: A History of Bungie's First Major Franchise". Cultured Vultures. Retrieved July 18, 2024.
+
+^ "Raven Software Co-Founder Talks About the Origins of Heretic, the 'Medieval Doom' – IGN Unfiltered - IGN". November 5, 2020. Archived from the original on November 5, 2020. Retrieved July 18, 2024.
+
+^ "Heretic Releases". MobyGames. Retrieved July 18, 2024.
+
+^ Decker Publications (December 1994). Electronic Games 1994-12 "Herecy Can Be Fun - Beyond Doom with Raven and id".
+
+^ Hyper 016 Heretic review. March 1995.
+
+^ Computer Gaming World Issue 128 "Heretic, Meet Your Doom! Heretic adds magic and more to id Software's Doom". March 1995.
+
+^ PC Zone - Issue 025 (1995-04)(Dennis Publishing)(GB) Heretic review. April 1995.
+
+^ "Heretic (1994)". MobyGames. Retrieved July 23, 2024.
+
+^ "Heretic: Shadow of the Serpent Riders Release Information for PC - GameFAQs". gamefaqs.gamespot.com. Retrieved July 23, 2024.
+
+^ "Heretic Developer Interview – HereticHexen". Retrieved July 23, 2024.
+
+^ "Heretic (Game)". Giant Bomb. Retrieved July 23, 2024.
+
+^ Heretic (Video Game 1994) - Plot - IMDb. Retrieved July 23, 2024 – via www.imdb.com.
+
+^ "Super 3-D Noah's Ark". GOG.com. Retrieved July 20, 2024.
+
+^ Mlnko (November 4, 2019). "Is the rumor true th…". r/pcgaming. Retrieved July 23, 2024.
+
+^ "How a Hellraiser tie-in became Super 3D Noah's Ark". www.gamedeveloper.com. Retrieved July 23, 2024.
+
+^ "Super 3D Noah's Ark – Hardcore Gaming 101". Retrieved July 20, 2024.
+
+^ "Super Noah's Ark 3-D (1994)". MobyGames. Retrieved July 20, 2024.
+
+^ LGR (June 23, 2015). LGR - Super 3D Noah's Ark - PC Game Review. Retrieved July 20, 2024 – via YouTube.
+
+^ Cinemassacre Clips (April 23, 2015). Super Noah's Ark 3D (SNES Game) - AVGN Episode Segment. Retrieved July 20, 2024 – via YouTube.
+
+^ VICIOGAME Retro Games (April 9, 2018). 🎮 Super 3D Noah's Ark (SNES) Complete Gameplay. Retrieved July 20, 2024 – via YouTube.
+
+^ "STAR WARS™ Dark Forces (Classic, 1995)". GOG.com. Retrieved July 18, 2024.
+
+^ A Brief History of Star War Games, Part 1, Tom's Hardware, May 20, 2007, Accessed February 19, 2009
+
+^ Scott-Jones, Richard (January 16, 2019). "Nightdive wants to remaster Dark Forces". PCGamesN. Archived from the original on January 17, 2019. Retrieved January 16, 2019.
+
+^ "Star Wars: Jedi Knight - Dark Forces II (1997)". MobyGames. Retrieved July 18, 2024.
+
+^ "Star Wars: Jedi Knight - Dark Forces II Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Descent Releases". MobyGames. Retrieved July 18, 2024.
+
+^ Fahs, Travis (November 26, 2006). "Geograph Seal (X68000)". The Next Level. Archived from the original on January 29, 2016.
+
+^ "Jumping Flash! Releases". MobyGames. Retrieved July 18, 2024.
+
+^ Martin Joneš (July 29, 2021). Witchaven Trailer. Retrieved July 24, 2024 – via YouTube.
+
+^ a b "Witchaven - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game". www.pcgamingwiki.com. Retrieved July 24, 2024.
+
+^ Comment from @HexenStar. March 17, 2020. Retrieved July 24, 2024 – via YouTube.
+
+^ "Witchaven (1995)". MobyGames. Retrieved July 24, 2024.
+
+^ "Witchaven DOS game". ModDB. September 30, 1995. Retrieved July 24, 2024.
+
+^ Computer Gaming World Issue 136 "Now playing Witchaven". November 1995.
+
+^ lastPepe, Felipe, ed. (February 2018). The CRPG Book Project: Sharing the History of Computer Role-Playing Games - Witchaven.
+
+^ "JFTekWar and JFWitchaven / JonoF's Games and Stuff". www.jonof.id.au. Retrieved July 24, 2024.
+
+^ "Witchaven (BuildGDX)(1994) - No Commentary All Secrets Playthrough - YouTube". www.youtube.com. Retrieved July 24, 2024.
+
+^ "William Shatner's TekWar - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game". www.pcgamingwiki.com. Retrieved July 24, 2024.
+
+^ Video Detective (November 2, 2014). Tekwar Trailer 1994. Retrieved July 25, 2024 – via YouTube.
+
+^ "William Shatner's TekWar (1995)". MobyGames. Retrieved July 25, 2024.
+
+^ kurtis2221 (June 8, 2019). William Shatner's TekWar - Random fun. Retrieved July 25, 2024 – via YouTube.{{cite AV media}}:  CS1 maint: numeric names: authors list (link)
+
+^ kurtis2221 (August 18, 2022). William Shatner's TekWar - Weapons - Game vs Movie. Retrieved July 25, 2024 – via YouTube.{{cite AV media}}:  CS1 maint: numeric names: authors list (link)
+
+^ Artigkar40000000 (June 13, 2009). Tekwar gameplay. Retrieved July 25, 2024 – via YouTube.{{cite AV media}}:  CS1 maint: numeric names: authors list (link)
+
+^ "William Shatner's TekWar Walkthrough". YouTube. Retrieved July 25, 2024.
+
+^ RaZZoR (February 2, 2023). William Shatner's TekWar [BuildGDX] - Level 1: Marty Dollar | 4K/60. Retrieved July 25, 2024 – via YouTube.
+
+^ "Hexen: Beyond Heretic Releases". MobyGames. Retrieved July 18, 2024.
+
+^ "Hexen: Beyond Heretic (1995)". MobyGames. Retrieved July 18, 2024.
+
+^ chrisstead (September 12, 2016). "Id Software talks Heretic, Hexen and Commander Keen". findershopping.com.au. Retrieved July 23, 2024.
+
+^ "Hexen Review". GameSpot. Retrieved July 24, 2024.
+
+^ "Duke Nukem 3D Releases". MobyGames. Retrieved July 18, 2024.
+
+^ CuteFloor (October 16, 2009). The History of Ken Silverman's Build Engine. Retrieved July 18, 2024 – via YouTube.
+
+^ Soete, Tim, Duke Nukem 3D Review, GameSpot, May 1, 1996, Accessed February 19, 2009
+
+^ a b "Witchaven II: Blood Vengeance - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game". www.pcgamingwiki.com. Retrieved July 24, 2024.
+
+^ "Witchaven II: Blood Vengeance (1996)". MobyGames. Retrieved July 24, 2024.
+
+^ NEXT Generation Issue #22 October 1996 - Witchaven 2: Blood Vengeance. Imagine Media. October 1996.
+
+^ "PC Gamer Online". PC Gamer. February 29, 2000. Archived from the original on February 29, 2000. Retrieved July 24, 2024.
+
+^ "ETTiNGRiNDER's Fortress - Witchaven". ettingrinder.youfailit.net. Retrieved July 24, 2024.
+
+^ "Capstone Source Archive". June 21, 2015. Archived from the original on June 21, 2015. Retrieved July 24, 2024.
+
+^ "Witchaven II: Blood Vengeance DOS game". ModDB. May 6, 1996. Retrieved July 24, 2024.
+
+^ "Powerslave Exhumed will bring all the classic FPS's best versions together". PCGamesN. August 15, 2021. Retrieved January 2, 2023.
+
+^ "Strife Releases". MobyGames. Retrieved July 18, 2024.
+
+^ a b "Quake Releases". MobyGames. Retrieved July 18, 2024.
+
+^ Computer Gaming World Issue 145. August 1996.
+
+^ NEXT Generation Issue #20 August 1996. Imagine Media. August 1996.
+
+^ "Strife". October 18, 1996. Archived from the original on October 18, 1996. Retrieved July 18, 2024.
+
+^ "Strife Review". GameSpot. Retrieved July 18, 2024.
+
+^ "Strife Review". April 18, 2005. Archived from the original on April 18, 2005. Retrieved July 18, 2024.
+
+^ "Strife". DoomWiki.org. July 18, 2024. Retrieved July 18, 2024.
+
+^ Richard Cobbett (May 21, 2022). "This underappreciated FPS from 1996 was a step on the path that led to games like Deus Ex". PC Gamer. Retrieved July 18, 2024.
+
+^ updated, Paul Dean last (August 4, 2013). "Strife was merging shooter and RPG years before Deus Ex". PC Gamer. Retrieved July 18, 2024.
+
+^ "Strife: Trust no one for PC - GameRankings". December 9, 2019. Archived from the original on December 9, 2019. Retrieved July 18, 2024.
+
+^ "Strife Uncut [Updated to 1.5!] - ZDoom". forum.zdoom.org. Retrieved July 20, 2024.
+
+^ Accursed Farms (June 2, 2014). Ross's Game Dungeon: Strife. Retrieved July 20, 2024 – via YouTube.
+
+^ Blaze Rhodon (March 17, 2024). Strife: Quest for the Sigil (PC, GZDoom) Walkthrough Part 1 Killing traitor Beldin. Retrieved July 20, 2024 – via YouTube.
+
+^ a b King, Brad; Borland, John M. (2003). Dungeons and Dreamers: The Rise of Computer Game Culture from Geek to Chic. McGraw-Hill/Osborne. pp. 111–125. ISBN 978-0-07-222888-5. Archived from the original on May 14, 2013. Retrieved September 25, 2010.
+
+^ Ward, Trent C. (June 22, 1996). "Quake Review". GameSpot UK. Archived from the original on September 19, 2011.
+
+^ "Does John Romero Still Enjoy Shooting People?". Next Generation. No. 30. June 1997. pp. 9–12.
+
+^ "An Audience with John Romero". Edge. No. 45 (May 1997). May 2, 1997. pp. 18–23. John Romero: My original idea was to do something like Virtua Fighter in a 3D world, with full-contact fighting, but you'd also be able to run through a world, and do the same stuff you do in Quake, only when you got into these melees, the camera would pull out into a third-person perspective. It would've been great, but nobody else had faith in trying it. The project was taking too long, and everybody just wanted to fall back on the safe thing – the formula.
+
+^ "Shadow Warrior Releases". MobyGames. Retrieved July 24, 2024.
+
+^ "Shadow Warrior (1997)". MobyGames. Retrieved July 18, 2024.
+
+^ a b Martin Hollis (September 2, 2004). "The Making of GoldenEye 007". Zoonami. Archived from the original on July 18, 2011. Retrieved December 22, 2011.
+
+^ Gerstmann, Jeff (August 19, 1997). "GoldenEye 007 Review". GameSpot UK. Archived from the original on July 15, 2012.
+
+^ Berghammer, Billy, A Rare Look at Rare Archived June 5, 2016, at the Wayback Machine, 1UP, Accessed February 19, 2009
+
+^ "Get your hands on the games you owe to yourself". GameSpot. September 7, 2001. p. 1. Archived from the original on September 7, 2004. Retrieved February 19, 2009. Welcome to another installment of Game Collector, where GameSpot hunts for great deals on games so that you don't have to. This week we present 10 great games focusing on warfare, from small-scale to epic-scale. Half of these are first-person shooters, while the other half are strategy games. Two popular PC gaming genres--one all-important, always-relevant subject. So if you're interested in modern or historical warfare and other military maneuverings, or if you just want some great games to add to your collection, then this week's Game Collector is for you.
+
+^ a b King, Brad; Borland, John M. (2003). Dungeons and Dreamers: The Rise of Computer Game Culture from Geek to Chic. McGraw-Hill/Osborne. p. 211. ISBN 978-0-07-222888-5. Archived from the original on May 14, 2013. Retrieved September 25, 2010.
+
+^ Ocampo, Jason (November 19, 2008). "Half-Life 10th Anniversary". IGN. Archived from the original on August 10, 2010.
+
+^ Strife Review Archived November 7, 2021, at the Wayback Machine, GameSpot, June 27, 1996
+
+^ "Greatest Games of All Time: Half-Life". GameSpot. May 18, 2007. p. 1. Archived from the original on May 27, 2012. Retrieved February 19, 2009.
+
+^ Davis, Ryan (November 15, 2007). "Resident Evil: The Umbrella Chronicles Review". GameSpot. Archived from the original on April 29, 2009. Retrieved May 7, 2011.
+
+^ Kohler, Chris, The 15 Most Influential Games of the Decade Archived September 8, 2011, at the Wayback Machine, Wired December 24, 2009, Accessed September 10, 2011
+
+^ "BackTrack – IGN". November 2, 2001. Archived from the original on August 9, 2021. Retrieved November 6, 2021.
+
+^ "Duke Nukem Advance Review". Archived from the original on November 15, 2014. Retrieved November 9, 2021.
+
+^ "Ecks vs. Sever Review". Archived from the original on October 1, 2004. Retrieved November 9, 2021.
+
+^ "Dark Arena Review". Game Informer. Archived from the original on January 11, 2008. Retrieved November 9, 2021.
+
+^ "Ecks vs. Sever". December 2001. Archived from the original on August 21, 2012. Retrieved November 6, 2021.
+
+^ Butts, Steve, World War II Online Archived January 30, 2009, at the Wayback Machine, IGN, August 6, 2001, Accessed March 11, 2010
+
+^ Bramwell, Tom, Sign-up for PlanetSide beta Archived December 27, 2010, at the Wayback Machine, EuroGamer, November 4, 2002, Accessed March 10, 2010
+
+^ Steve Butts (April 12, 2004). "Painkiller Review". IGN. Archived from the original on September 26, 2008. Retrieved November 12, 2007.
+
+^ Greg Kasavin (April 26, 2001). "Serious Sam: The First Encounter Review". Gamespot. Archived from the original on November 7, 2017. Retrieved November 6, 2017.
+
+^ Doom 3 (PC) Archived February 28, 2016, at the Wayback Machine, GameSpy, Accessed March 9, 2009
+
+^ Fahey, Rob, UK Charts: Doom 3 scores first 2004 No.1 for PC platform Archived August 6, 2010, at the Wayback Machine, EuroGamer, August 17, 2004, Accessed March 9, 2009
+
+^ Lyttle, John, John Lyttle - Shoot 'em up, New Statesman, December 5, 2005, Accessed March 7, 2009 Archived March 3, 2009, at the Wayback Machine
+
+^ Clara Barraza (September 1, 2008). "The Evolution of the Survival Horror Genre". IGN. Archived from the original on April 14, 2009. Retrieved April 17, 2009.
+
+^ "Music to your F.E.A.R.s". GameSpot. October 4, 2005. Archived from the original on January 4, 2007. Retrieved October 4, 2006.
+
+^ Fitzpatrick, Paul, "Bioshock", PlayStation Official Magazine UK, December 2008 (issue 25), pp. 90-91
+
+^ Cowen, Nick, The top 10 video games of 2007 Archived June 29, 2011, at the Wayback Machine, The Telegraph, December 6, 2007, Accessed March 8, 2009
+
+^ Hoggins, Tom, Why videogamers are artists at heart Archived February 28, 2016, at the Wayback Machine, The Telegraph, November 10, 2008, Accessed March 8, 2009
+
+^ Kuo, Li C. (May 10, 2006). "GameSpy: BioShock Preview". Gamespy. Archived from the original on October 30, 2007. Retrieved November 4, 2007.
+
+^ Hurley, Leon, "Far Cry 2", PlayStation Official Magazine UK, December 2008 (issue 25), pp. 98-100
+
+^ Ditum, Nathan, "Resistance 2", PlayStation Official Magazine UK, December 2008 (issue 25), pp. 79-82
+
+^ Robert Howarth (November 8, 2007). "Call of Duty 4 First Impressions". Voodoo Extreme. IGN. Archived from the original on January 14, 2009. Retrieved May 7, 2011.
+
+^ Jr, Xalavier Nelson (March 26, 2019). "The Burnout team's mold-breaking FPS deserves a better legacy". Polygon. Retrieved November 3, 2022.
+
+^ Cifaldi, Frank, Analysts: FPS 'Most Attractive' Genre for Publishers Archived September 22, 2008, at the Wayback Machine, GamaSutra, February 21, 2006, Accessed February 23, 2009
+
+^ Wawro, Alex (May 6, 2016). "Hero Shooters: Charting the (re)birth of a genre". www.gamasutra.com. Retrieved December 20, 2020.
+
+^ Wood, Austin (October 25, 2016). "What the strange evolution of the hero shooter tells us about the genre's future". PC Gamer. Retrieved July 6, 2021.
+
+^ Thomsen, Michael (March 30, 2010). "Point and Shoot: Lessons In Wii FPS Control". Gamasutra. Archived from the original on May 9, 2011. Retrieved May 5, 2011.
+
+^ Templeman, J.; Denbrook, P. (2012). "Enhancing Realism in Desktop Interfaces for Dismounted Infantry Simulation". Interservice/Industry Training, Simulation, and Education Conference (I/ITSEC).
+
+^ Li, Pei (March 25, 2021). "PUBG Mobile reports 1 billion accumulated downloads since 2018 launch". Reuters. Retrieved May 15, 2022.
+
+^ "PUBG Mobile Shoots Past $8 Billion in Lifetime Revenue". Sensor Tower. May 2022. Retrieved May 15, 2022.
+
+^ a b Wan, Claire K.; Chiu, Cih-Hao (August 1, 2023). "A process perspective of immersive virtual reality user experiences: Transition dynamics and mechanisms during gameplay". International Journal of Human-Computer Studies. 176: 103037. doi:10.1016/j.ijhcs.2023.103037. ISSN 1071-5819. S2CID 257791636.
+
+^ a b "VR Exploration Games vs Traditional Gaming: A Comparison - LvlCraft". lvlcraft.com. October 6, 2023. Retrieved December 31, 2023.
+
+^ Skarredghost (March 27, 2020). "Half-Life: Alyx full review: the first true AAA VR game". The Ghost Howls. Retrieved December 31, 2023.
+
+^ Nicholas Sutrich (April 1, 2020). "Half-Life: Alyx review — VR's defining shooter is deeper than you think". Windows Central. Retrieved December 31, 2023.
+
+^ "Best VR Games Of All-Time: 25 Titles To Play (Summer 2023)". UploadVR. April 26, 2023. Retrieved December 31, 2023.
+
+^ Carter, Aden (October 24, 2020). "10 Top-Selling VR Games (According To Steam)". Game Rant. Retrieved December 31, 2023.
+
+^ "Top 10 VR Games By Revenue". www.spglobal.com. Retrieved December 31, 2023.
+
+^ Qu, Erhan (May 10, 2018). "Do First-Person Shooters work in VR?". Medium. Retrieved December 31, 2023.
+
+^ "Here's What's Stopping Virtual Reality From Going Mainstream [New Data]". blog.hubspot.com. November 12, 2019. Retrieved December 31, 2023.
+
+^ Colzato LS, van Leeuwen PJ, van den Wildenberg WP, Hommel B (April 21, 2010). "DOOM'd to switch: superior cognitive flexibility in players of first person shooter games". Frontiers in Psychology. 1: 8. doi:10.3389/fpsyg.2010.00008. PMC 3153740. PMID 21833191.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to First-person shooters.
+
+vteVideo game genres
+List of video game genres
+ActionPlatformer
+Endless runner
+Platform fighter
+Shooter
+Arena
+First-person
+Hero
+Light gun
+Shoot 'em up
+Bullet hell
+Rail
+Twin-stick
+Vampire Survivors-like
+Tactical
+Third-person
+Survival
+Battle royale
+Survival horror
+Other
+Beat 'em up
+Hack and slash
+Fighting
+Platform fighter
+Maze
+Pac-Man clone
+Snake
+Stealth
+Action-adventure
+Grand Theft Auto clone
+Metroidvania
+Adventure
+Escape room
+Graphic adventure
+Interactive fiction
+Interactive film
+Visual novel
+Walking sim
+Digital tabletop
+Deck-building
+Roguelike deck-building
+Digital collectible card
+Puzzle
+Hidden object
+Sokoban
+Tile-matching
+Role-playing
+Action role-playing
+Looter shooter
+Soulslike
+Dungeon crawl
+MMORPG
+Monster-taming
+Roguelike
+Roguelike deck-building
+Tactical role-playing
+Turn-based role-playing
+SimulationLife
+Dating
+Farming
+God
+Social
+Virtual pet
+CMS
+Business
+City-building
+Government
+Sports
+Fishing
+Racing
+Kart racing
+Sim racing
+Vehicle
+Flight simulation
+Combat
+Lunar Lander
+Space
+Submarine simulator
+Train simulator
+Vehicular combat
+Other
+Falling-sand
+Immersive sim
+Strategy
+4X
+Auto battler
+MOBA
+Real-time strategy
+Time management
+Real-time tactics
+Tactical role-playing
+Tower defense
+Turn-based strategy
+Turn-based tactics
+Artillery
+Wargame
+Grand strategy
+Other genres
+Cozy
+Fitness
+Horror
+Survival horror
+Incremental
+Music
+Rhythm
+Non-game
+Party
+Photography
+Programming
+Typing
+Related conceptsThemes
+Advergame
+Bishōjo
+Christian
+Comedy
+Educational
+Girls
+Licensed
+Otome
+Sexual
+Eroge
+Nonviolent
+Personalized
+Sci-fi
+Serious
+Art
+Climate change
+News
+Player modes
+Multiplayer
+Co-op
+PVP
+Single-player
+Production
+AAA
+Indie
+Doujin soft
+Fan game
+Design
+Casual
+Hypercasual
+Emergent gameplay
+FMV
+Gacha
+Kaizo
+Masocore
+Nonlinear gameplay
+Open world
+Sandbox
+Side-scrolling
+Twitch gameplay
+Vertically scrolling
+Other
+Minigame
+Toys-to-life
+Video game clone
+Video game modding
+Video game remake
+
+Authority control databases: National Germany
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=First-person_shooter&oldid=1286762597"
+Categories: First-person shootersVideo game genresVideo game clonesHidden categories: Pages with non-numeric formatnum argumentsWebarchive template wayback linksCS1 French-language sources (fr)CS1 errors: missing titleCS1 errors: bare URLCS1 maint: numeric names: authors listCS1: unfit URLArticles with short descriptionShort description is different from WikidataUse mdy dates from February 2023Wikipedia articles that are excessively detailed from July 2024All articles that are excessively detailedWikipedia articles with style issues from July 2024All articles with style issuesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from January 2025All articles with unsourced statementsArticles with unsourced statements from January 2025Articles with unsourced statements from March 2019Articles with unsourced statements from July 2023Commons category link from WikidataGood articles
+
+
+
+
+
+
+ This page was last edited on 21 April 2025, at 20:52 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+First-person shooter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,818 @@
+https://en.wikipedia.org/wiki/Optical_mouse
+
+
+
+
+Optical mouse - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Mechanical mice
+
+
+
+
+
+
+
+
+2
+Early optical mice
+
+
+
+
+
+
+
+
+3
+Modern optical mice
+
+
+
+
+Toggle Modern optical mice subsection
+
+
+
+
+
+3.1
+Optical sensor
+
+
+
+
+
+
+
+
+3.2
+Principle of operation
+
+
+
+
+
+
+
+
+
+
+4
+Light source
+
+
+
+
+Toggle Light source subsection
+
+
+
+
+
+4.1
+LED mice
+
+
+
+
+
+
+
+
+4.2
+Laser mice
+
+
+
+
+
+
+
+
+
+
+5
+Power
+
+
+
+
+
+
+
+
+6
+Optical versus mechanical mice
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Optical mouse
+
+
+
+15 languages
+
+
+
+
+العربيةবাংলাČeštinaDeutschEestiفارسی한국어IsiZuluPolskiසිංහලతెలుగుTürkçeУкраїнськаاردو中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Type of computer mouse
+A Microsoft wireless optical mouse
+An optical mouse is a computer mouse which uses a light source, typically a light-emitting diode (LED), and a light detector, such as an array of photodiodes, to detect movement relative to a surface. Variations of the optical mouse have largely replaced the older mechanical mouse design, which uses moving parts to sense motion.
+The earliest optical mice detected movement on pre-printed mousepad surfaces.  Modern optical mice work on most opaque diffusely reflective surfaces like paper, but most of them do not work properly on specularly reflective surfaces like polished stone or transparent surfaces like glass. Optical mice that use dark field illumination can function reliably even on such surfaces.
+
+
+Mechanical mice[edit]
+Main article: Mechanical mouse
+Though not commonly referred to as optical mice, nearly all mechanical mice tracked movement using LEDs and photodiodes to detect when beams of infrared light did and didn't pass through holes in a pair of incremental rotary encoder wheels (one for left/right, another for forward/back), driven by a rubberized ball. Thus, the primary distinction of "optical mice" is not their use of optics, but their complete lack of moving parts to track mouse movement, instead employing an entirely solid-state system.
+
+Early optical mice[edit]
+An early Xerox optical mouse chip, before the development of the inverted packaging design of Williams and Cherry
+The first two optical mice, first demonstrated by two independent inventors in December 1980, had different basic designs:[1][2][3]
+One of these, invented by Steve Kirsch of MIT and Mouse Systems Corporation,[4][5] used an infrared LED and a four-quadrant infrared sensor to detect grid lines printed with infrared absorbing ink on a special metallic surface. Predictive algorithms in the CPU of the mouse calculated the speed and direction over the grid. The other type, invented by Richard F. Lyon of Xerox, used a 16-pixel visible-light image sensor with integrated motion detection on the same n‑type (5 μm) MOS integrated circuit chip,[6][7] and tracked the motion of light dots in a dark field of a printed paper or similar mouse pad.[8] The Kirsch and Lyon mouse types had very different behaviors, as the Kirsch mouse used an x-y coordinate system embedded in the pad, and would not work correctly when the pad was rotated, while the Lyon mouse used the x-y coordinate system of the mouse body, as mechanical mice do.
+
+OEM-branded Mouse Systems (Kirsch) optical mouse showing underside and mousemat pattern.
+The optical mouse ultimately sold with the Xerox STAR office computer used an inverted sensor chip packaging approach patented by Lisa M. Williams and Robert S. Cherry of the Xerox Microelectronics Center.[9]
+The Mouse Systems (Kirsch) design was commercialised and sold in PC compatible form by the company itself[10] alongside variants rebranded for OEM use with Sun Microsystems workstations[11] and by Data General.[12]
+
+Modern optical mice[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.Find sources: "Optical mouse" – news · newspapers · books · scholar · JSTOR (January 2023) (Learn how and when to remove this message)
+This section may require cleanup to meet Wikipedia's quality standards. The specific problem is: Unclear paragraphs. Please help improve this section if you can. (August 2015) (Learn how and when to remove this message)
+Optical sensor[edit]
+Microscope photograph of the IntelliMouse Explorer sensor silicon die
+The optical sensor from a Microsoft Wireless IntelliMouse Explorer (v. 1.0A)
+Modern surface-independent optical mice work by using an optoelectronic sensor (essentially, a tiny low-resolution video camera) to take successive images of the surface on which the mouse operates.  As computing power grew cheaper, it became possible to embed more powerful special-purpose image-processing chips in the mouse itself. This advance enabled the mouse to detect relative motion on a wide variety of surfaces, translating the movement of the mouse into the movement of the cursor and eliminating the need for a special mouse-pad. A surface-independent coherent light optical mouse design was patented by Stephen B. Jackson at Xerox in 1988.[13]
+Xerox's inventions were never massively commercially exploited, however, and optical mice would remain elusive in the personal computer market until Microsoft released the IntelliMouse with IntelliEye and IntelliMouse Explorer in 1999.[14][15] These mice used technology developed by Hewlett-Packard under their Agilent Technologies subsidiary (see below). These mice worked on almost any surface, and represented a welcome improvement over mechanical mice, which would pick up dirt, track capriciously, invite rough handling, and need to be taken apart and cleaned frequently. Other manufacturers soon followed Microsoft's lead, including Apple for their Pro Mouse,[14] using components manufactured by Agilent (once they spun off from HP), and over the next several years mechanical mice became obsolete.
+
+S5085 optical sensor IC die (CMOS sensor + driver)
+The technology underlying the modern optical computer mouse is known as digital image correlation, a technology pioneered by the defense industry for tracking military targets.  A simple binary-image version of digital image correlation was used in the 1980 Lyon optical mouse.  Optical mice use image sensors to image naturally occurring texture in materials such as wood, cloth, mouse pads and Formica.  These surfaces, when lit at a grazing angle by a light emitting diode, cast distinct shadows that resemble a hilly terrain lit at sunset.  Images of these surfaces are captured in continuous succession and compared with each other to determine how far the mouse has moved.
+
+Principle of operation[edit]
+To understand how optical flow is used in optical mice, imagine two photographs of the same object except slightly offset from each other.  Place both photographs on a light table to make them transparent, and slide one across the other until their images line up.  The amount that the edges of one photograph overhang the other represents the offset between the images, and in the case of an optical computer mouse the distance it has moved.
+Optical mice capture one thousand successive images or more per second.  Depending on how fast the mouse is moving, each image will be offset from the previous one by a fraction of a pixel or as many as several pixels.  Optical mice mathematically process these images using cross correlation to calculate how much each successive image is offset from the previous one.[citation needed] The output of the optical sensor is usually delta X, Y coordinates. Some optical ICs allow to get image data as well. Mice usually embeds some kind of Image Acquisition System and DSP processors for fast data processing.
+An optical mouse might use an image sensor having an 18 × 18 pixel array of monochromatic pixels. Its sensor would normally share the same ASIC as that used for storing and processing the images. One refinement would be accelerating the correlation process by using information from previous motions, and another refinement would be preventing deadbands when moving slowly by adding interpolation or frame-skipping.[citation needed]
+The development of the modern optical mouse at Hewlett-Packard Co. was supported by a succession of related projects during the 1990s at HP Laboratories.  In 1992 William Holland was awarded US Patent 5,089,712 and John Ertel, William Holland, Kent Vincent, Rueiming Jamp, and Richard Baldwin were awarded US Patent 5,149,980 for measuring linear paper advance in a printer by correlating images of paper fibers.  Ross R. Allen, David Beard, Mark T. Smith, and Barclay J. Tullis were awarded US Patents 5,578,813 (1996) and 5,644,139 (1997) for 2-dimensional optical navigational (i.e., position measurement) principles based on detecting and correlating microscopic, inherent features of the surface over which the navigation sensor travelled, and using position measurements of each end of a linear (document) image sensor to reconstruct an image of the document.  This is the freehand scanning concept used in the HP CapShare 920 handheld scanner.  By describing an optical means that explicitly overcame the limitations of wheels, balls, and rollers used in contemporary computer mice, the optical mouse was anticipated. These patents formed the basis for US Patent 5,729,008 (1998) awarded to Travis N. Blalock, Richard A. Baumgartner, Thomas Hornak, Mark T. Smith, and Barclay J. Tullis, where surface feature image sensing, image processing, and image correlation was realized by an integrated circuit to produce a position measurement.  Improved precision of 2D optical navigation, needed for application of optical navigation to precise 2D measurement of media (paper) advance in HP DesignJet large format printers, was further refined in US Patent 6,195,475 awarded in 2001 to Raymond G. Beausoleil, Jr., and Ross R. Allen.
+
+Light source[edit]
+LED mice[edit]
+The blue-LED-based V-Mouse VM-101
+Optical mice often used light-emitting diodes (LEDs) for illumination when first popularized. The color of the optical mouse's LEDs can vary, but red is most common, as red diodes are inexpensive and silicon photodetectors are very sensitive to red light. IR LEDs are also widely used.[16] Other colors are sometimes used, such as the blue LED of the V-Mouse VM-101 illustrated at right.
+
+Laser mice[edit]
+Although invisible to the naked eye, the light produced by this laser mouse is captured as the color purple because CCDs are sensitive to a broader light wavelength range than the human eye.
+A laser mouse uses an infrared laser diode instead of an LED to illuminate the surface beneath their sensor. As early as 1998, Sun Microsystems provided a laser mouse with their Sun SPARCstation servers and workstations.[17]
+However, laser mice did not enter the mainstream consumer market until 2004, following the development by a team at Agilent Laboratories, Palo Alto, led by Doug Baney of a laser-based mouse based on a 850 nm VCSEL that offered a 20× improvement in tracking performance. Tong Xie, Marshall T. Depue, and Douglas M. Baney were awarded US patents 7,116,427 and 7,321,359 for their work on low power consumption broad navigability VCSEL-based consumer mice. Paul Machin at Logitech, in partnership with Agilent Technologies introduced the new technology as the MX 1000 laser mouse. This mouse uses a small infrared laser (VCSEL) instead of an LED and significantly increased the resolution of the image taken by the mouse. The laser illumination enabled superior surface tracking compared to LED-illuminated optical mice.[18]
+In 2008, Avago Technologies introduced laser navigation sensors whose emitter was integrated into the IC using VCSEL technology.[19]
+In August 2009, Logitech introduced mice with two lasers, to track on glass and glossy surfaces better; they dubbed them a "Darkfield" laser sensor.[20]
+
+Power[edit]
+Manufacturers often engineer their optical mice—especially battery-powered wireless models—to save power when possible. To do this, the mouse dims or blinks the laser or LED when in standby mode (each mouse has a different standby time). A typical implementation (by Logitech) has four power states, where the sensor is pulsed at different rates per second:[citation needed]
+
+11500: full on, for accurate response while moving, illumination appears bright.
+1100: fallback active condition while not moving, illumination appears dull.
+110: standby
+12: sleep state
+Movement can be detected in any of these states; some mice turn the sensor fully off in the sleep state, requiring a button click to wake.
+Optical mice utilizing infrared elements (LEDs or lasers) offer substantial increases in battery life over visible spectrum illumination. Some mice, such as the Logitech V450 848 nm laser mouse, are capable of functioning on two AA batteries for a full year, due to the low power requirements of the infrared laser.[clarification needed]
+Mice designed for use where low latency and high responsiveness are important, such as in playing video games, may omit power-saving features and require a wired connection to improve performance. Examples of mice which sacrifice power-saving in favor of performance are the Logitech G5 and the Razer Copperhead.
+
+Optical versus mechanical mice[edit]
+The Logitech iFeel optical mouse uses a red LED to project light onto the tracking surface.
+Unlike mechanical mice, whose tracking mechanisms can become clogged with lint, optical mice have no moving parts (besides buttons and scroll wheels); therefore, they do not require maintenance other than removing debris that might collect under the light emitter. However, they generally cannot track on glossy and transparent surfaces, including some mouse-pads, causing the cursor to drift unpredictably during operation. Mice with less image-processing power also have problems tracking fast movement, whereas some high-quality mice can track faster than 2 m/s.
+Some models of laser mouse can track on glossy and transparent surfaces, and have a much higher sensitivity.
+As of 2006[update] mechanical mice had lower average power requirements than their optical counterparts; the power used by mice is relatively small, and only an important consideration when the power is derived from batteries, with their limited capacity.
+Optical models outperform mechanical mice on uneven, slick, soft, sticky, or loose surfaces, and generally in mobile situations lacking mouse pads. Because optical mice render movement based on an image which the LED (or infrared diode) illuminates, use with multicolored mouse pads may result in unreliable performance; however, laser mice do not suffer these problems and will track on such surfaces.
+
+See also[edit]
+Trackball
+References[edit]
+
+
+^ John Markoff (May 10, 1982). "Computer mice are scurrying out of R&D labs". InfoWorld. 4 (18): 10–11. ISSN 0199-6649.
+
+^ John Markoff (February 21, 1983). "In Focus: The Mouse that Rolled". InfoWorld. 5 (8). InfoWorld Media Group, Inc.: 28. ISSN 0199-6649.
+
+^ Sol Sherr (1988). Input Devices. Academic Press. ISBN 0126399700.
+
+^ Liz Karagianis (Fall 1997). "Steve Kirsch". MIT Spectrum. Archived from the original on March 22, 2008.
+
+^ "Portraits of MIT-Related Companies: Infoseek, Santa Clara, CA". MIT: The Impact of Innovation. MIT. Archived from the original on December 1, 1998. Retrieved 31 December 2006.
+
+^ Lyon, Richard F. (August 1981). "The Optical Mouse, and an Architectural Methodology for Smart Digital Sensors" (PDF). In H. T. Kung; Robert F. Sproull; Guy L. Steele (eds.). VLSI Systems and Computations. Computer Science Press. pp. 1–19. doi:10.1007/978-3-642-68402-9_1. ISBN 978-3-642-68404-3.
+
+^ Stan Augarten (1983). State of the Art: A Photographic History of the Integrated Circuit. Ticknor & Fields. pp. 60–61. ISBN 0-89919-195-9.
+
+^ "Xerox Mousepad". Digibarn.com. Retrieved 2010-05-29.
+
+^ US patent 4751505 
+
+^ "Optical mouse, the old way". Archived from the original on 2022-02-07. Retrieved 2023-04-29. [Box image] PC Mouse - State-of-the-art optical mouse [..] Mouse Systems Corp
+
+^ "Sun and Mouse Systems mice and optical pads". retrotechnology.com. Archived from the original on 2023-03-16. Retrieved 2023-04-29.
+
+^ "Old optical mouse". Wikimedia Commons. 20 July 2010. Archived from the original on 2021-02-18. Retrieved 2023-04-29.
+
+^ US patent 4794384 
+
+^ a b Lyon, R. L. (2014). "The Optical Mouse: Early Biomimetic Embedded Vision". In Kisačanin, Branislav; Margrit Gelautz (eds.). Advances in Embedded Computer Vision. Springer. p. 20. ISBN 9783319093871 – via Google Books.
+
+^ "Microsoft Press Release, April 19th 1999". Microsoft. 1999-04-19. Archived from the original on 2011-11-28. Retrieved 2011-05-11.
+
+^ Winn L. Rosch (2003). Winn L. Rosch hardware bible (6th ed.). Que Publishing. p. 756. ISBN 978-0-7897-2859-3.
+
+^ "Computer Engineering Tips – Mouse". Archived from the original on May 5, 2009. Retrieved 2006-12-31.
+
+^ "Logitech MX1000 Laser Cordless Mouse". CNET. November 4, 2004. Retrieved July 19, 2018.
+
+^ "Avago Technologies Announces Miniature Laser Navigation Sensors for Mouse Applications". January 28, 2008. Retrieved 2013-03-25.
+
+^ "Logitech Darkfield Innovation Brief" (PDF). Logitech. 2009.
+
+
+vteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Optical_mouse&oldid=1284568152"
+Categories: Computer miceHistory of human–computer interactionAmerican inventionsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from January 2023All articles needing additional referencesArticles needing cleanup from August 2015All pages needing cleanupCleanup tagged articles with a reason field from August 2015Wikipedia pages needing cleanup from August 2015All articles with unsourced statementsArticles with unsourced statements from November 2022Articles with unsourced statements from April 2018Wikipedia articles needing clarification from September 2011Articles containing potentially dated statements from 2006All articles containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 8 April 2025, at 12:51 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Optical mouse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

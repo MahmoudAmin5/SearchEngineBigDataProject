@@ -1,0 +1,131 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_bar_item
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+
+w3-bar-item
+If you want text instead of buttons inside the navigation bar, use the w3-bar-item class to get the same padding as the buttons:
+
+Used in a horizontal bar:
+
+  Home
+  Link 1
+  Link 2
+  Link 3
+  Text
+
+
+Used in a vertical bar:
+
+  Home
+  Link 1
+  Link 2
+  Link 3
+  Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

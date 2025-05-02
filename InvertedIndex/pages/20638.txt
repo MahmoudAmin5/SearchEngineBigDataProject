@@ -1,0 +1,950 @@
+https://en.wikipedia.org/wiki/Networking_hardware
+
+
+
+
+Networking hardware - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Range
+
+
+
+
+
+
+
+
+2
+Specific devices
+
+
+
+
+Toggle Specific devices subsection
+
+
+
+
+
+2.1
+Core
+
+
+
+
+
+
+
+
+2.2
+Hybrid
+
+
+
+
+
+
+
+
+2.3
+Border
+
+
+
+
+
+
+
+
+2.4
+End stations
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Networking hardware
+
+
+
+30 languages
+
+
+
+
+العربيةAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiCatalàČeštinaChiTumbukaDanskDeutschEestiEspañolفارسیFrançaisBahasa IndonesiaItalianoМакедонскиOʻzbekcha / ўзбекчаپښتوPortuguêsРусскийSimple EnglishSlovenčinaСрпски / srpskiTürkçeУкраїнськаTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikiversityWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Devices that mediate data transmission in a computer network
+
+Networking hardware, also known as network equipment or computer networking devices, are electronic devices that are required for communication and interaction between devices on a computer network. Specifically, they mediate data transmission in a computer network.[1] Units which are the last receiver or generate data are called hosts, end systems or data terminal equipment.
+
+
+Range[edit]
+Networking devices includes a broad range of equipment which can be classified as core network components which interconnect other network components, hybrid components which can be found in the core or border of a network and hardware or software components which typically sit on the connection point of different networks.[2]
+One of the most common types of networking hardware today is a copper-based Ethernet adapter which is a standard inclusion on most modern computer systems. Wireless networking has become increasingly popular, especially for portable and handheld devices.[3][4]
+Other networking hardware used in computers includes data center equipment (such as file servers, database servers and storage areas), network services (such as DNS, DHCP, email, etc.) as well as devices which assure content delivery.[5]
+Taking a wider view, mobile phones, tablet computers and devices associated with the internet of things may also be considered networking hardware. As technology advances and IP-based networks are integrated into building infrastructure and household utilities, network hardware will become an ambiguous term owing to the vastly increasing number of network-capable endpoints.[6][7][8]
+
+Specific devices[edit]
+Network hardware can be classified by its location and role in the network.
+
+Core[edit]
+Core network components interconnect other network components.
+
+Gateway: an interface providing a compatibility between networks by converting transmission speeds, protocols, codes, or security measures.[9]
+Router: a networking device that forwards data packets between computer networks. Routers perform the "traffic directing" functions on the Internet. A data packet is typically forwarded from one router to another through the networks that constitute the internetwork until it reaches its destination node.[10] It works on OSI layer 3.[11]
+Switch: a multi-port device that connects devices together at the same or different speeds on a computer network, by using packet switching to receive, process and forward data to the destination device. Unlike less advanced network hubs, a network switch forwards data only to one or multiple devices that need to receive it, rather than broadcasting the same data out of each of its ports.[12] It works on OSI layer 2.
+Bridge: a device that connects multiple network segments. It works on OSI layers 1 and 2.[13]
+Repeater: an electronic device that receives a signal and retransmits it at a higher level or higher power, or onto the other side of an obstruction, so that the signal can cover longer distances.[14]
+Repeater hub: for connecting multiple Ethernet devices together at the same speed, making them act as a single network segment. It has multiple input/output (I/O) ports, in which a signal introduced at the input of any port appears at the output of every port except the original incoming.[1] A hub works at the physical layer (layer 1) of the OSI model[15] and all devices form a single collision domain. Repeater hubs also participate in collision detection, forwarding a jam signal to all ports if they detect a collision. Hubs are now largely obsolete, having been replaced by network switches except in very old installations or specialized applications.
+Wireless access point
+Structured cabling
+Hybrid[edit]
+Hybrid components can be found in the core or border of a network.
+
+Multilayer switch: a switch that, in addition to switching on OSI layer 2, provides functionality at higher protocol layers.
+Protocol converter: a hardware device that converts between two different types of transmission, for interoperation.[16]
+Bridge router (brouter): a device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.[17]
+Border[edit]
+Hardware or software components which typically sit on the connection point of different networks (for example, between an internal network and an external network) include:
+
+Proxy server: computer network service which allows clients to make indirect network connections to other network services.[18]
+Firewall: a piece of hardware or software put on the network to prevent some communications forbidden by the network policy.[19] A firewall typically establishes a barrier between a trusted, secure internal network and another outside network, such as the Internet, that is assumed to not be secure or trusted.[20]
+Network address translator (NAT): network service (provided as hardware or as software) that converts internal to external network addresses and vice versa.[21]
+Residential gateway: interface between a WAN connection to an Internet service provider and the home network.
+Terminal server: connects devices with a serial port to a local area network.
+End stations[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2022) (Learn how and when to remove this message)
+Other hardware devices used for establishing networks or dial-up connections include:
+
+Network interface controller (NIC): a device connecting a computer to a computer network.[22]
+Wireless network interface controller: a device connecting the attached computer to a radio-based computer network.[23]
+Modem: device that modulates an analog "carrier" signal (such as sound) to encode digital information, and that also demodulates such a carrier signal to decode the transmitted information. Used (for example) when a computer communicates with another computer over a telephone network.[24]
+ISDN terminal adapter (TA): a specialized gateway for ISDN.[25]
+Line driver: a device to increase transmission distance by amplifying the signal; used in base-band networks only.[26]
+See also[edit]
+
+Computer hardware
+Data circuit-terminating equipment
+List of networking hardware vendors
+Network simulation
+Node (networking)
+Telecommunications equipment
+
+References[edit]
+
+
+^ a b IEEE 802.3-2012 Clause 9.1
+
+^ "Common Types of Network Devices & Their Functions".
+
+^ "Silicom Ltd. | PE2G4I35L Quad port Copper 1G Network Interface Card".
+
+^ Phillips, Gavin (March 13, 2019). "The Most Common Wi-Fi Standards and Types, Explained". MUO.
+
+^ Howell, Jeff (October 23, 2024). "Data Center Equipment - The Complete Guide [2024]".
+
+^ "Mobile Hardware and Software:Key Parts,Components,Functions". www.rfwireless-world.com.
+
+^ "Networking Hardware — EITC". eitc.org.
+
+^ "24 IoT Devices Connecting the World". Built In.
+
+^ "ATIS Telecom Glossary". www.atis.org. Retrieved 2021-06-20.
+
+^ "The TCP/IP Guide - Overview Of Key Routing Protocol Concepts: Architectures, Protocol Types, Algorithms and Metrics". www.tcpipguide.com. Retrieved 2016-02-12.
+
+^ "ATIS Telecom Glossary". www.atis.org.
+
+^ "Hubs Versus Switches – Understand the tradeoffs" (PDF). ccontrols.com. 2002. Retrieved 2013-12-10.
+
+^ E., Decker; A., Rijsinghani; K., McCloghrie; P., Langille (December 1991). "Definitions of Managed Objects for Bridges". tools.ietf.org. Retrieved 2016-02-12.
+
+^ "ATIS Telecom Glossary". www.atis.org. Retrieved 2021-06-20.
+
+^ Dean, Tamara (2010). Network+ Guide to Networks. Delmar. pp. 256–257.
+
+^ "ATIS Telecom Glossary". www.atis.org. Retrieved 2021-06-20.
+
+^ "bridge router Definition from PC Magazine Encyclopedia". www.pcmag.com. Retrieved 2016-02-12.
+
+^ "ATIS Telecom Glossary". www.atis.org. Retrieved 2021-06-20.
+
+^ "ATIS Telecom Glossary". www.atis.org. Retrieved 2021-06-20.
+
+^ Oppliger, Rolf (May 1997). "Internet Security: FIREWALLS and BEYOND". Communications of the ACM. 40 (5): 94. doi:10.1145/253769.253802. S2CID 15271915.
+
+^ "ATIS Telecom Glossary". www.atis.org. Retrieved 2021-06-20.
+
+^ "What is a Network interface card (NIC): Types, Components, Classification". October 12, 2024.
+
+^ "Which device allows computers to connect to a network via radio waves? – Wise-Answer". wise-answer.com.
+
+^ Plug, The (September 24, 2020). "What Is a Modem? A Guide for Beginners". The Plug - HelloTech.
+
+^ Team, Editorial (September 4, 2019). "ISDN Terminal Adapter". NETWORK ENCYCLOPEDIA.
+
+^ Team, Editorial (August 23, 2019). "Line Driver". NETWORK ENCYCLOPEDIA.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Network hardware.
+
+USF Explanation of network hardware
+vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Processor
+Size / Form
+Computer systems organization
+Computer architecture
+Computational complexity
+Dependability
+Embedded system
+Real-time computing
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Control variable
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software engineering
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Stochastic
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematics of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Theoretical computer science
+Information systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security hacker
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computer interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Extended reality
+Augmented
+Mixed
+Virtual
+Virtuality
+Rendering
+Photograph manipulation
+Graphics processing unit
+Image compression
+Solid modeling
+Applied computing
+Quantum Computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Differentiable computing
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Category
+ Outline
+ Glossaries
+
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Networking_hardware&oldid=1287591738"
+Categories: Networking hardwareComputer networkingHidden categories: Articles with short descriptionShort description is different from WikidataUse American English from March 2019All Wikipedia articles written in American EnglishArticles needing additional references from August 2022All articles needing additional referencesCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 27 April 2025, at 07:02 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Networking hardware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

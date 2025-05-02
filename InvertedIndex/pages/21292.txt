@@ -1,0 +1,1029 @@
+https://en.wikipedia.org/wiki/UNIVAC_I
+
+
+
+
+UNIVAC I - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Development and design
+
+
+
+
+
+
+
+
+1.2
+Market positioning
+
+
+
+
+
+
+
+
+1.3
+Installations
+
+
+
+
+
+
+1.3.1
+UNIVAC installations, 1951–1954
+
+
+
+
+
+
+
+
+
+
+
+
+2
+Technical description
+
+
+
+
+Toggle Technical description subsection
+
+
+
+
+
+2.1
+Major physical features
+
+
+
+
+
+
+
+
+2.2
+Main memory details
+
+
+
+
+
+
+
+
+2.3
+Instructions and data
+
+
+
+
+
+
+
+
+2.4
+Input/output
+
+
+
+
+
+
+
+
+2.5
+Operations
+
+
+
+
+
+
+
+
+2.6
+Reliability
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+UNIVAC I
+
+
+
+20 languages
+
+
+
+
+AfrikaansالعربيةCatalàČeštinaDeutschEspañolFrançais한국어ItalianoМакедонскиBahasa MelayuMirandésNederlands日本語PolskiPortuguêsРусскийSuomiУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+First general-purpose computer designed for business application (1951)
+A UNIVAC I at the United States Census Bureau in 1951
+UNIVAC I operator's console
+UNIVAC I at Franklin Life Insurance Company
+The UNIVAC I (Universal Automatic Computer I) was the first general-purpose electronic digital computer design for business application produced in the United States. It was designed principally by J. Presper Eckert and John Mauchly, the inventors of the ENIAC.  Design work was started by their company, Eckert–Mauchly Computer Corporation (EMCC), and was completed after the company had been acquired by Remington Rand (which later became part of Sperry, now Unisys). In the years before successor models of the UNIVAC I appeared, the machine was simply known as "the UNIVAC".[1]
+The first UNIVAC was accepted by the United States Census Bureau on March 31, 1951, and was dedicated on June 14 that year.[2][3] The fifth machine (built for the U.S. Atomic Energy Commission) was used by CBS to predict the result of the 1952 presidential election. With a sample of a mere 5.5% of the voter turnout, it famously predicted an Eisenhower landslide.[4]
+
+
+History[edit]
+Development and design[edit]
+In early 1946, months after the completion of ENIAC, the University of Pennsylvania adopted a new patent policy, which would've required Eckert and Mauchly to assign all their patents to the university if they stayed beyond spring of that year. Unable to reach an agreement with the university, the duo left the Moore School of Electrical Engineering in March 1946, along with much of the senior engineering staff. Simultaneously, the duo founded the Electronic Control Company (later renamed the Eckert-Mauchly Computer Corporation) in Philadelphia.[5] When the duo was given a $300,000 deposit for research by the United States Census Bureau, the conception of the UNIVAC I began in April 1946, a month after they founded their company.[6] Later in August of that year, during the last of the Moore School Lectures, the Moore School team members were proposing new technological designs for the EDVAC computer (which was also in development at the time) and its stored program concept. They were also simultaneously conceiving ideas for a potential successor model to the EDVAC, which were under the working titles of "Parallel-Type EDVAC," "Statistical EDVAC," and simply, "EDVAC II."[7]
+In April 1947, Eckert and Mauchly created the tentative instruction code, C-1, for their potential successor model to the EDVAC, which was the earliest document on the programming of an electronic digital computer intended for commercial use. A month later, they renamed their next project to "the UNIVAC." Later in October of that year, the duo drafted U.S. patent 2,629,827, which was a mercury acoustic delay-line electronic memory system.[8] The patent was eventually accepted in February 1953 as the  "first device to gain widespread acceptance as a reliable computer memory system." Meanwhile, in November 1947, the Electronic Control Company began advertising the UNIVAC I (which wasn't shown as it wasn't fully conceptualized at that point). In 1948, the company, renamed the Eckert-Mauchly Computer Corporation, secured a contract with the United States Census Bureau to begin construction on the UNIVAC I. At the same time, Harry Straus, impressed with the development of the duo's next invention, convinced the directors of American Totalisator to invest $500,000 to shore up the financially troubled Eckert-Mauchly Computer Corporation.[7]
+In early 1949, Betty Holberton, one of the developers of the project, made the UNIVAC Instructions Code C-10, the first software to allow a computer to be operated by keyboarded commands rather than dials and switches. At the same time, Grace Hopper left the Harvard Computation Laboratory to join the EMCC as a senior mathematician and programmer to help develop the UNIVAC I. Later in June of that year, Mauchly conceived Short Code—the first high-level programming language for an electronic computer—to be used with the BINAC. The Short Code was later tested on the UNIVAC I in early 1950.[7] Meanwhile, in September 1949, by the time the BINAC was delivered to Northrop Aircraft, Eckert and Mauchly received six new orders for the UNIVAC I, so they decided to focus on finishing the UNIVAC I. Unfortunately for them, a month later, Harry Straus was killed when his twin-engine airplane crashed, causing American Totalisator to withdraw their promise of financial support. This was quickly undone when Remington Rand bought the duo's company in February 1950 to help finish construction on the UNIVAC I. The company then became Remington Rand's "Eckert-Mauchly Division." Construction of the UNIVAC I was completed by December 1950, and it was later delivered to the United States Census Bureau in March 1951 so data could be processed more quickly and accurately.[8]
+
+Market positioning[edit]
+Remington Rand employees, Harold E. Sweeney (left) and J. Presper Eckert (center) demonstrate the U.S. Census Bureau's UNIVAC for CBS reporter Walter Cronkite (right).
+UNIVAC I operator's console close-up
+The UNIVAC I was the first American computer designed at the outset for business and administrative use with fast execution of relatively simple arithmetic and data transport operations, as opposed to the complex numerical calculations required of scientific computers. As such, the UNIVAC competed directly against punch-card machines, though the UNIVAC originally could neither read nor punch cards. That shortcoming hindered sales to companies concerned about the high cost of manually converting large quantities of existing data stored on cards. This was corrected by adding offline card processing equipment, the UNIVAC Tape to Card converter, to transfer data between cards and UNIVAC magnetic tapes.[9] However, the early market share of the UNIVAC I was lower than the Remington Rand Company wished.[citation needed]
+To promote sales, the company partnered with CBS to have UNIVAC I predict the result of the 1952 United States presidential election live on television. The machine predicted that Dwight D. Eisenhower would win in a landslide over Adlai Stevenson at a chance of 100 to 1, receive 32,915,949 votes and win the Electoral College 438–93. It was opposed to the final Gallup Poll, which had predicted that Eisenhower would win in a close contest. The CBS crew was so certain that UNIVAC was wrong that they believed it was not working, so they changed a certain "national trend factor" from 40% to 4% to obtain what appeared more correct 268–263, and released that for the television. It was soon noticed that the prediction assuming 40% was closer to truth, so they changed it back.[10][11]
+On election night, Eisenhower received 34,075,029 votes in a 442–89 Electoral College victory. UNIVAC had a margin of error of 3.5% of Eisenhower's popular vote tally and was within four votes of his electoral vote total.[citation needed] The prediction and its use in CBS's election coverage gave rise to a greater public awareness of computing technology,[12] while computerized predictions became a widely used part of election night broadcasts.[citation needed]
+
+Installations[edit]
+Univac I at Census Bureau with two operators c. 1960
+The first contracts were with government agencies such as the Census Bureau, the U.S. Air Force, and the U.S. Army Map Service.[1] Contracts were also signed by the ACNielsen Company, and the Prudential Insurance Company. Following the sale of Eckert–Mauchly Computer Corporation to Remington Rand in 1950, due to the cost overruns on the project, Remington Rand convinced Nielsen and Prudential to cancel their contracts.[citation needed]
+The first sale, to the Census Bureau, was marked with a formal ceremony on March 31, 1951, at the Eckert–Mauchly Division's factory at 3747 Ridge Avenue, Philadelphia. The machine was not actually shipped until the following December, because, as the sole fully set-up model, it was needed for demonstration purposes, and the company was apprehensive about the difficulties of dismantling, transporting, and reassembling the delicate machine.[13] As a result, the first installation was with the second computer, delivered to the Pentagon in June 1952.[citation needed]
+
+UNIVAC installations, 1951–1954[edit]
+
+
+Date
+
+Customer
+
+Comments
+
+
+1951
+
+U.S. Census Bureau, Suitland, MD
+
+Not shipped until 1952[14][15]
+
+
+1952
+
+U.S. Air Force
+
+Pentagon, Arlington, VA[16]
+
+
+1952
+
+U.S. Army Map Service
+
+Washington, DC.[17] Operated at factory April–September 1952
+
+
+1953
+
+New York University (for the Atomic Energy Commission)
+
+New York, NY[18]
+
+
+1953
+
+Atomic Energy Commission
+
+Livermore, CA
+
+
+1953
+
+U.S. Navy
+
+David W. Taylor Model Basin, Bethesda, MD[18]
+
+
+1954
+
+Remington Rand
+
+Sales office, New York, NY
+
+
+1954
+
+General Electric
+
+Appliance Division, Louisville, KY. First business sale.[19]
+
+
+1954
+
+Metropolitan Life
+
+New York, NY[20]
+
+
+1954
+
+U.S. Air Force
+
+Wright-Patterson AFB, Dayton, OH
+
+
+1954
+
+U.S. Steel
+
+Pittsburgh, PA
+
+
+1954
+
+Du Pont
+
+Wilmington, DE
+
+
+1954
+
+U.S. Steel
+
+Gary, IN
+
+
+1954
+
+Franklin Life Insurance
+
+Springfield, IL[21]
+
+
+1954
+
+Westinghouse
+
+Pittsburgh, PA
+
+
+1954
+
+Pacific Mutual Life Insurance
+
+Los Angeles, CA
+
+
+1954
+
+Sylvania Electric
+
+New York, NY
+
+
+1954
+
+Consolidated Edison
+
+New York, NY[22]
+
+Originally priced at US$159,000, the UNIVAC I rose in price until they were between $1,250,000 and $1,500,000. A total of 46 systems were eventually built and delivered.[citation needed]
+The UNIVAC I was too expensive for most universities, and Sperry Rand, unlike companies such as IBM, was not strong enough financially to afford to give many away. However, Sperry Rand donated UNIVAC I systems to Harvard University (1956), the University of Pennsylvania (1957), and Case Institute of Technology in Cleveland, Ohio (1957). The UNIVAC I at Case was still operable in 1965 but had been supplanted by a UNIVAC 1107.[citation needed]
+A few UNIVAC I systems stayed in service long after they were made obsolete by advancing technology. The Census Bureau used its two systems until 1963, amounting to 12 and 9 years of service, respectively. Sperry Rand itself used two systems in Buffalo, New York until 1968. The insurance company Life and Casualty of Tennessee used its system until 1970, totalling over 13 years of service.[23]
+
+Technical description[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (March 2015) (Learn how and when to remove this message)
+Major physical features[edit]
+7AK7 vacuum tubes in a 1956 UNIVAC I computer
+UNIVAC I used 6,103 vacuum tubes,[24][25] weighed 16,686 pounds (8.3 short tons; 7.6 t), consumed 125 kW,[26] and could perform about 1,905 operations per second running on a 2.25 MHz clock. The Central Complex alone (i.e. the processor and memory unit) was 4.3 m by 2.4 m by 2.6 m high. The complete system occupied more than 35.5 m2 (382 ft2) of floor space.[citation needed]
+
+Main memory details[edit]
+Mercury delay-line memory of UNIVAC I
+The main memory consisted of 1000 words of 12 characters each. When representing numbers, they were written as 11 decimal digits plus sign. The 1000 words of memory consisted of 100 channels of 10-word mercury delay-line registers. The input/output buffers were 60 words each, consisting of 12 channels of 10-word mercury delay-line registers. There are six channels of 10-word mercury delay-line registers as spares. With modified circuitry, seven more channels control the temperature of the seven mercury tanks, and one more channel is used for the 10-word "Y" register. The total of 126 mercury channels is contained in the seven mercury tanks mounted on the backs of sections MT, MV, MX, NT, NV, NX, and GV. Each mercury tank is divided into 18 mercury channels.[citation needed]
+Each 10-word mercury delay-line channel is made up of three sections:
+
+A channel in a column of mercury, with receiving and transmitting quartz piezo-electric crystals mounted at opposite ends.
+An intermediate frequency chassis, connected to the receiving crystal, containing amplifiers, detector, and compensating delay, mounted on the shell of the mercury tank.
+A recirculation chassis, containing cathode follower, pulse former and retimer, modulator, which drives the transmitting crystal, and input, clear, and memory-switch gates, mounted in the sections adjacent to the mercury tanks.[citation needed]
+UNIVAC 1 recirculation chassis board
+Instructions and data[edit]
+Instructions were six alphanumeric characters, packed two instructions per word. The addition time was 525 microseconds and the multiplication time was 2150 microseconds. A non-standard modification called "Overdrive" did exist, that allowed for three four-character instructions per word under some circumstances. (Ingerman's simulator for the UNIVAC, referenced below, also makes this modification available.)[citation needed]
+
+Internal view of UNIVAC I
+Digits were represented internally using excess-3 ("XS3") binary-coded decimal (BCD) arithmetic with six bits per digit using the same value as the digits of the alphanumeric character set (and one parity bit per digit for error checking), allowing 11-digit signed magnitude numbers. But with the exception of one or two machine instructions, UNIVAC was considered by programmers to be a decimal machine, not a binary machine, and the binary representation of the characters was irrelevant. If a non-digit character was encountered in a position during an arithmetic operation the machine passed it unchanged to the output, and any carry into the non-digit was lost. (Note, however, that a peculiarity of UNIVAC I's addition/subtraction circuitry was that the "ignore", space, and minus characters were occasionally treated as numeric, with values of –3, –2, and –1, respectively, and the apostrophe, ampersand, and left parenthesis were occasionally treated as numeric, with values 10, 11, and 12.)[citation needed]
+
+Input/output[edit]
+Besides the operator's console, the only I/O devices connected to the UNIVAC I were up to 10 UNISERVO tape drives, a Remington Standard electric typewriter  and a Tektronix oscilloscope. The UNISERVO was the first commercial computer tape drive commercially sold. It used data density 128 bits per inch (with real transfer rate 7,200 characters per second) on magnetically plated phosphor bronze tapes. The UNISERVO could also read and write UNITYPER created tapes at 20 bits per inch. The UNITYPER was an offline typewriter to tape device, used by programmers and for minor data editing. Backward and forward tape read and write operations were possible on the UNIVAC and were fully overlapped with instruction execution, permitting high system throughput in typical sort/merge data processing applications. Large volumes of data could be submitted as input via magnetic tapes created on offline card to tape system and made as output via a separate offline tape to printer system. The operators console had three columns of decimal coded switches that allowed any of the 1000 memory locations to be displayed on the oscilloscope. Since the mercury delay-line memory stored bits in a serial format, a programmer or operator could monitor any memory location continuously and with sufficient patience, decode its contents as displayed on the scope. The on-line typewriter was typically used for announcing program breakpoints, checkpoints, and for memory dumps.[citation needed]
+
+Operations[edit]
+A typical UNIVAC I installation had several ancillary devices. There were:
+
+The UNIPRINTER read metal UNIVAC magnetic tape using a tape reader and typed the data at 10 characters per second using a modified Remington typewriter.
+The UNIVAC Card to Tape converter read punched cards at 240 cards per minute and wrote their data on metal UNIVAC magnetic tape using a UNISERVO tape drive.
+A tape-to-card converter, that read a magnetic tape and produced punched cards.
+UNIVAC did not provide an operating system. Operators loaded on a UNISERVO a program tape which could be loaded automatically by processor logic. The appropriate source and output data tapes would be mounted and the program started. Results tapes then went to the offline printer or typically for data processing into short-term storage to be updated with the next set of data produced on the offline card to tape unit. The mercury delay-line memory tank temperature was very closely controlled as the speed of sound in mercury varies with temperature. In the event of a power failure, many hours could elapse before the temperature stabilized.[citation needed]
+
+Reliability[edit]
+Eckert and Mauchly were uncertain about the reliability of digital logic circuits—little was known about them at the time.  The UNIVAC had been designed with parallel computation circuits and a statistical comparison of the results.  In practice, however, only failing components, i.e., the vacuum tubes, yielded comparison faults, as the circuit designs as such proved very reliable. A regimen was established to ensure the reliability of the fragile vacuum tubes, the choke point of the entire operation. Prior to use large lots of the predominant tube type 25L6 were burned in and thoroughly tested. (Often half of any given production lot would be thrown away.) Technicians would then install a tested and burned-in tube in an easily diagnosed location such as the memory recirculate amplifiers. Then, when further proven aged and proven reliable, this "golden" tube was sent to stock to be pulled out for difficult-to-diagnose logic positions.
+Furthermore, it took approximately 30 minutes to turn on the computer—all cathode heater power was stepped up gradually in order to reduce the in-rush current the concominant thermal stress on the tubes. As a result of these measures, uptimes (MTBF) of many days to weeks were eventually obtained on the processor. (The UNISERVO did not have vacuum columns but rather springs and strings to buffer the tape from the reels to the capstan. These mechanical components then became the most frequent source of failures.)[citation needed]
+
+See also[edit]
+BINAC
+Ferranti Mark 1
+Grace Hopper
+History of computing hardware
+LEO (computer)
+List of UNIVAC products
+List of vacuum-tube computers
+References[edit]
+
+^ a b Johnson, L.R., "Coming to grips with Univac," IEEE Annals of the History of Computing, vol. 28, no. 2, pp. 32, 42, April–June 2006. doi:10.1109/MAHC.2006.27
+
+^ Reference: CNN's feature on the 50th anniversary of the UNIVAC.
+
+^ Norberg, Arthur Lawrence (2005). Computers and Commerce: A Study of Technology and Management at Eckert-Mauchly Computer Company, Engineering Research Associates, and Remington Rand, 1946–1957. MIT Press. pp. 190, 217. ISBN 9780262140904.
+
+^ Lukoff, Herman (1979). From Dits to Bits: A personal history of the electronic computer. Portland, Oregon: Robotics Press. pp. 127–131. ISBN 0-89661-002-0. LCCN 79-90567.
+
+^ Computer History Archives Project (May 14, 2015). Computer History: ENIAC - The First Electronic Computer. YouTube. Retrieved November 11, 2024.{{cite AV media}}:  CS1 maint: url-status (link)
+
+^ Mary Bellis (March 5, 2019). "The History of the UNIVAC Computer". ThoughtCo. Retrieved November 11, 2024.
+
+^ a b c "Key Events in the Development of the UNIVAC". History of Information. December 31, 2014. Retrieved November 28, 2024.
+
+^ a b Computer History Archives Project (September 16, 2018). BINAC at the Eckert-Mauchly Computer Corporation. YouTube. Retrieved December 1, 2024.
+
+^ Univac i. (2003). In Encyclopedia of computer science. Retrieved from http://literati.credoreference.com/content/entry/encyccs/univac_i/0
+
+^ Murphy, Eugene F.; Berkeley, Edmund C. (1953-01-01). "AUTOMATIC COMPUTERS ON ELECTION NIGHT". The Computing Machinery Field 1953-01: Vol 2 Iss 1. Berkeley Enterprises. pp. 27–28.
+
+^ Chinoy, Ira (2024). Predicting the Winner: The Untold Story of Election Night 1952 and the Dawn of Computer Forecasting. University of Nebraska Press. doi:10.2307/jj.13982281. ISBN 978-1-64012-596-4.
+
+^ Brinkley, Alan.  American History: A Survey.  12th Ed.
+
+^ UNIVAC conference, Charles Babbage Institute, University of Minnesota.  171-page transcript of oral history with computer pioneers involved with the Univac computer, held on 17–18 May 1990, Washington DC.  The meeting involved 25 engineers, programmers, marketing representatives, and salesmen who were involved with the UNIVAC, as well as representatives from users such as General Electric, Arthur Andersen, and the U.S. Census.
+
+^ "Automatic Computing Machinery: News – UNIVAC Acceptance Tests". Mathematics of Computation. 5 (35): 176–177. 1951. doi:10.1090/S0025-5718-51-99425-2. ISSN 0025-5718.
+
+^ "Automatic Computing Machinery: News – Eckert-Mauchly Division, Remington Rand Inc". Mathematics of Computation. 5 (36): 245. 1951. doi:10.1090/S0025-5718-51-99416-1. ISSN 0025-5718.
+
+^ "Automatic Computing Machinery: News – UNIVAC Acceptance Tests". Mathematics of Computation. 6 (38): 119. 1952. doi:10.1090/S0025-5718-52-99400-3. ISSN 0025-5718.
+
+^ "Automatic Computing Machinery: News – UNIVAC Acceptance Tests". Mathematics of Computation. 6 (40): 247. 1952. doi:10.1090/S0025-5718-52-99384-8. ISSN 0025-5718.
+
+^ a b "1. UNIVAC". Digital Computer Newsletter. 5 (3): 2. July 1953.
+
+^ "THE UNIVAC". Digital Computer Newsletter. 6 (1): 2. Apr 1954.[dead link]
+
+^ "7. UNIVAC". Digital Computer Newsletter. 6 (3): 4–5. Jul 1954. Archived from the original on June 28, 2024.
+
+^ "2. The UNIVAC". Digital Computer Newsletter. 6 (2): 2. Jan 1954.[dead link]
+
+^ Ceruzzi, Paul E. A history of modern computing, MIT, 1998. The source notes that the list is compiled from a number of sources and does not include UNIVACs that were completed not delivered in the period 1951–54. In some cases the dates are approximate. Depending on the definition of "installed" the order may be slightly different.
+
+^ Gianforti, Adrian (2021-05-27). "Which was the First Commercially Available Digital Computer?". History Factory. Retrieved 2025-01-10.
+
+^ The vacuum tubes used in the UNIVAC I were mostly of type 25L6 (3,947), but the machine also used tubes of type 6AK5 (412), 7AK7 (363), 6AU6 (57), 6BE6 (?), 6SN7 (264), 6X5 (?), 28D7 (274), 807 (27), 829B (47), 2050 (151), 5545 (?), 5651 (?), 5687 (14), 5915 (96), 6AL5 (199), 6AN5 (136), 6AH6 (?), 5V4 (?), 5R4 (?), 4D32 (?), 3C23 (64), and 8008 (?).
+
+^ "Totals: Germanium Diode Sales; Supply of Engineering Graduates - Computer Components". Tele-tech & Electronic Industries. Vol. 13. Chilton Co. 1954-03-01. p. 3.
+
+^ Weik, Martin H. (March 1961). "UNIVAC I". ed-thelen.org. A Third Survey of Domestic Electronic Digital Computing Systems.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to UNIVAC I.
+
+UNIVAC Conference Oral history on 17–18 May 1990. Charles Babbage Institute, University of Minnesota, Minneapolis.  171-page transcript of oral history with computer pioneers, including Jean Bartik, involved with the Univac computer, held on 17–18 May 1990.  The meeting involved 25 engineers, programmers, marketing representatives, and salesmen who were involved with the UNIVAC, as well as representatives from users such as General Electric, Arthur Andersen, and the U.S. Census.
+Margaret R. Fox Papers, 1935–1976, Charles Babbage Institute, University of Minnesota.  collection contains reports, including the original report on the ENIAC, UNIVAC, and many early in-house National Bureau of Standards (NBS) activity reports; memoranda on and histories of SEAC, SWAC, and DYSEAC; programming instructions for the UNIVAC, LARC, and MIDAC; patent evaluations and disclosures relevant to computers; system descriptions; speeches and articles written by Margaret Fox's colleagues; and correspondence of Samuel Alexander, Margaret Fox, and Samuel Williams.
+UNIVAC I documentation – From computer documentation repository www.bitsavers.org
+UNIVAC 1: The First Mass-Produced Computer – Unisys History Newsletter, Volume 5, Number 1 at the Wayback Machine (archived April 22, 2017)
+The UNIVAC and the Legacy of the ENIAC – From the University of Pennsylvania Library (PENN UNIVERSITY/exhibitions)
+UNIVAC 1 Computer System – By Allan G. Reiter, formerly of the ERA division of Remington Rand
+UNIVAC I & II Simulator Archived 2013-10-11 at the Wayback Machine – By Peter Zilahy Ingerman; Shareware simulator of the UNIVAC I and II. Archived download
+Core memory slide show – This slide show contains a photo of a 1951 core memory module for a UNIVAC I
+Remington-Rand Presents UNIVAC  – Promotional film from the collection of the Computer History Museum, Mountain View, California
+"Winky Blinky Lights". Off The Broiler. 10 December 2012. Archived from the original on 10 December 2012. Pictures and video in flash of UNIVAC main console; sales and marketing documents
+"Want To Buy A Brain", May 1949, Popular Science early illustrated article on the UNIVAC for the general public
+YouTube Video: 1951 UNIVAC 1 Computer Basic System Components  – Computer History Archives Project
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=UNIVAC_I&oldid=1271135995"
+Categories: UNIVAC mainframe computersVacuum tube computersComputer-related introductions in 1951Hidden categories: CS1 maint: url-statusAll articles with dead external linksArticles with dead external links from June 2022Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2022Articles needing additional references from March 2015All articles needing additional referencesCommons category link is on WikidataWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 22 January 2025, at 18:59 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+UNIVAC I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

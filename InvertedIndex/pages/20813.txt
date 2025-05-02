@@ -1,0 +1,2527 @@
+https://en.wikipedia.org/wiki/Logical_disjunction
+
+
+
+
+Logical disjunction - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Inclusive and exclusive disjunction
+
+
+
+
+
+
+
+
+2
+Notation
+
+
+
+
+
+
+
+
+3
+Classical disjunction
+
+
+
+
+Toggle Classical disjunction subsection
+
+
+
+
+
+3.1
+Semantics
+
+
+
+
+
+
+
+
+3.2
+Defined by other operators
+
+
+
+
+
+
+
+
+3.3
+Properties
+
+
+
+
+
+
+
+
+
+
+4
+Applications in computer science
+
+
+
+
+Toggle Applications in computer science subsection
+
+
+
+
+
+4.1
+Bitwise operation
+
+
+
+
+
+
+
+
+4.2
+Logical operation
+
+
+
+
+
+
+
+
+4.3
+Constructive disjunction
+
+
+
+
+
+
+
+
+
+
+5
+Set theory
+
+
+
+
+
+
+
+
+6
+Natural language
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+Notes
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Logical disjunction
+
+
+
+49 languages
+
+
+
+
+العربيةAzərbaycancaБългарскиBosanskiCatalàČeštinaChiTumbukaDanskDeutschEestiΕλληνικάEmiliàn e rumagnòlEspañolEsperantoEuskaraفارسیFrançaisGalego한국어ՀայերենIdoBahasa IndonesiaItalianoעבריתҚазақшаLietuviųMagyarМакедонскиNederlands日本語Norsk bokmålPiemontèisPolskiPortuguêsRomânăРусиньскыйРусскийSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaไทยУкраїнська粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Logical connective OR
+"Disjunction" redirects here. For the logic gate, see OR gate. For separation of chromosomes, see Meiosis. For disjunctions in distribution, see Disjunct distribution.
+"Logical OR" redirects here. For the operator ‖, see Vertical bars (disambiguation).
+Logical disjunctionORDefinition
+
+
+
+x
++
+y
+
+
+{\displaystyle x+y}
+
+Truth table
+
+
+
+(
+1110
+)
+
+
+{\displaystyle (1110)}
+
+Logic gateNormal formsDisjunctive
+
+
+
+x
++
+y
+
+
+{\displaystyle x+y}
+
+Conjunctive
+
+
+
+x
++
+y
+
+
+{\displaystyle x+y}
+
+Zhegalkin polynomial
+
+
+
+x
+⊕
+y
+⊕
+x
+y
+
+
+{\displaystyle x\oplus y\oplus xy}
+
+Post's lattices0-preservingyes1-preservingyesMonotoneyesAffinenoSelf-dualnovte
+Logical connectives
+ NOT 
+
+
+
+¬
+A
+,
+−
+A
+,
+
+
+A
+¯
+
+
+,
+∼
+A
+
+
+{\displaystyle \neg A,-A,{\overline {A}},\sim A}
+
+ AND 
+
+
+
+A
+∧
+B
+,
+A
+⋅
+B
+,
+A
+B
+,
+A
+ 
+&
+ 
+B
+,
+A
+ 
+&
+&
+ 
+B
+
+
+{\displaystyle A\land B,A\cdot B,AB,A\ \&\ B,A\ \&\&\ B}
+
+ NAND 
+
+
+
+A
+
+
+∧
+¯
+
+
+B
+,
+A
+↑
+B
+,
+A
+∣
+B
+,
+
+
+
+A
+⋅
+B
+
+¯
+
+
+
+
+{\displaystyle A{\overline {\land }}B,A\uparrow B,A\mid B,{\overline {A\cdot B}}}
+
+ OR 
+
+
+
+A
+∨
+B
+,
+A
++
+B
+,
+A
+∣
+B
+,
+A
+∥
+B
+
+
+{\displaystyle A\lor B,A+B,A\mid B,A\parallel B}
+
+ NOR 
+
+
+
+A
+
+
+∨
+¯
+
+
+B
+,
+A
+↓
+B
+,
+
+
+
+A
++
+B
+
+¯
+
+
+
+
+{\displaystyle A{\overline {\lor }}B,A\downarrow B,{\overline {A+B}}}
+
+ XNOR 
+
+
+
+A
+⊙
+B
+,
+
+
+
+A
+
+
+∨
+¯
+
+
+B
+
+¯
+
+
+
+
+{\displaystyle A\odot B,{\overline {A{\overline {\lor }}B}}}
+
+ └ equivalent 
+
+
+
+A
+≡
+B
+,
+A
+⇔
+B
+,
+A
+⇋
+B
+
+
+{\displaystyle A\equiv B,A\Leftrightarrow B,A\leftrightharpoons B}
+
+ XOR 
+
+
+
+A
+
+
+∨
+_
+
+
+B
+,
+A
+⊕
+B
+
+
+{\displaystyle A{\underline {\lor }}B,A\oplus B}
+
+ └nonequivalent 
+
+
+
+A
+≢
+B
+,
+A
+⇎
+B
+,
+A
+↮
+B
+
+
+{\displaystyle A\not \equiv B,A\not \Leftrightarrow B,A\nleftrightarrow B}
+
+ implies 
+
+
+
+A
+⇒
+B
+,
+A
+⊃
+B
+,
+A
+→
+B
+
+
+{\displaystyle A\Rightarrow B,A\supset B,A\rightarrow B}
+
+ nonimplication (NIMPLY) 
+
+
+
+A
+⇏
+B
+,
+A
+⊅
+B
+,
+A
+↛
+B
+
+
+{\displaystyle A\not \Rightarrow B,A\not \supset B,A\nrightarrow B}
+
+ converse 
+
+
+
+A
+⇐
+B
+,
+A
+⊂
+B
+,
+A
+←
+B
+
+
+{\displaystyle A\Leftarrow B,A\subset B,A\leftarrow B}
+
+ converse nonimplication 
+
+
+
+A
+⇍
+B
+,
+A
+⊄
+B
+,
+A
+↚
+B
+
+
+{\displaystyle A\not \Leftarrow B,A\not \subset B,A\nleftarrow B}
+
+
+
+Related concepts
+Propositional calculusPredicate logicBoolean algebraTruth tableTruth functionBoolean functionFunctional completenessScope (logic)
+
+Applications
+Digital logicProgramming languagesMathematical logicPhilosophy of logic
+
+ Categoryvte
+Venn diagram of 
+
+
+
+
+A
+∨
+B
+∨
+C
+
+
+
+{\displaystyle \scriptstyle A\lor B\lor C}
+
+
+In logic, disjunction (also known as logical disjunction, logical or, logical addition, or inclusive disjunction) is a logical connective typically notated as 
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+ and read aloud as "or". For instance, the English language sentence "it is sunny or it is warm" can be represented in logic using the disjunctive formula 
+
+
+
+S
+∨
+W
+
+
+{\displaystyle S\lor W}
+
+, assuming that 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ abbreviates "it is sunny" and 
+
+
+
+W
+
+
+{\displaystyle W}
+
+ abbreviates "it is warm".
+In classical logic, disjunction is given a truth functional semantics according to which a formula 
+
+
+
+ϕ
+∨
+ψ
+
+
+{\displaystyle \phi \lor \psi }
+
+ is true unless both 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ and 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ are false. Because this semantics allows a disjunctive formula to be true when both of its disjuncts are true, it is an inclusive interpretation of disjunction, in contrast with exclusive disjunction. Classical proof theoretical treatments are often given in terms of rules such as disjunction introduction and disjunction elimination. Disjunction has also been given numerous non-classical treatments, motivated by problems including Aristotle's sea battle argument, Heisenberg's uncertainty principle, as well as the numerous mismatches between classical disjunction and its nearest equivalents in natural languages.[1][2]
+An operand of a disjunction is a disjunct.[3]
+
+
+Inclusive and exclusive disjunction[edit]
+Because the logical or means a disjunction formula is true when either one or both of its parts are true, it is referred to as an inclusive disjunction.  This is in contrast with an exclusive disjunction, which is true when one or the other of the arguments are true, but not both (referred to as exclusive or, or XOR).
+When it is necessary to clarify whether inclusive or exclusive or is intended, English speakers sometimes uses the phrase and/or. In terms of logic, this phrase is identical to or, but makes the inclusion of both being true explicit.
+
+Notation[edit]
+In logic and related fields, disjunction is customarily notated with an infix operator 
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+ (Unicode U+2228 ∨ LOGICAL OR).[1] Alternative notations include 
+
+
+
++
+
+
+{\displaystyle +}
+
+, used mainly in electronics, as well as 
+
+
+
+|
+
+
+{\displaystyle \vert }
+
+ and 
+
+
+
+|
+
+|
+
+
+{\displaystyle \vert \!\vert }
+
+ in many programming languages. The English word or is sometimes used as well, often in capital letters. In Jan Łukasiewicz's prefix notation for logic, the operator is 
+
+
+
+A
+
+
+{\displaystyle A}
+
+, short for Polish alternatywa (English: alternative).[4]
+In mathematics, the disjunction of an arbitrary number of elements 
+
+
+
+
+a
+
+1
+
+
+,
+…
+,
+
+a
+
+n
+
+
+
+
+{\displaystyle a_{1},\ldots ,a_{n}}
+
+ can be denoted as an iterated binary operation using a larger ⋁ (Unicode U+22C1 ⋁ N-ARY LOGICAL OR):[5]
+
+
+
+
+
+⋁
+
+i
+=
+1
+
+
+n
+
+
+
+a
+
+i
+
+
+=
+
+a
+
+1
+
+
+∨
+
+a
+
+2
+
+
+∨
+…
+
+a
+
+n
+−
+1
+
+
+∨
+
+a
+
+n
+
+
+
+
+{\displaystyle \bigvee _{i=1}^{n}a_{i}=a_{1}\lor a_{2}\lor \ldots a_{n-1}\lor a_{n}}
+
+
+
+Classical disjunction[edit]
+Semantics[edit]
+In the semantics of logic, classical disjunction is a truth functional operation which returns the truth value true unless both of its arguments are false. Its semantic entry is standardly given as follows:[a]
+
+
+
+
+
+⊨
+ϕ
+∨
+ψ
+
+
+{\displaystyle \models \phi \lor \psi }
+
+     if     
+
+
+
+⊨
+ϕ
+
+
+{\displaystyle \models \phi }
+
+     or     
+
+
+
+⊨
+ψ
+
+
+{\displaystyle \models \psi }
+
+     or     both
+This semantics corresponds to the following truth table:[1]
+
+
+
+
+
+A
+
+
+{\displaystyle A}
+
+
+
+
+
+B
+
+
+{\displaystyle B}
+
+
+
+
+
+A
+∨
+B
+
+
+{\displaystyle A\lor B}
+
+FFFFTTTFTTTT
+Defined by other operators[edit]
+In classical logic systems where logical disjunction is not a primitive, it can be defined in terms of the primitive and (
+
+
+
+∧
+
+
+{\displaystyle \land }
+
+) and not (
+
+
+
+¬
+
+
+{\displaystyle \lnot }
+
+) as:
+
+
+
+
+
+A
+∨
+B
+=
+¬
+(
+(
+¬
+A
+)
+∧
+(
+¬
+B
+)
+)
+
+
+{\displaystyle A\lor B=\neg ((\neg A)\land (\neg B))}
+
+.
+Alternatively, it may be defined in terms of implies (
+
+
+
+→
+
+
+{\displaystyle \to }
+
+) and not as:[6]
+
+
+
+
+
+A
+∨
+B
+=
+(
+¬
+A
+)
+→
+B
+
+
+{\displaystyle A\lor B=(\lnot A)\to B}
+
+.
+The latter can be checked by the following truth table:
+
+
+
+
+
+A
+
+
+{\displaystyle A}
+
+
+
+
+
+B
+
+
+{\displaystyle B}
+
+
+
+
+
+¬
+A
+
+
+{\displaystyle \neg A}
+
+
+
+
+
+¬
+A
+→
+B
+
+
+{\displaystyle \neg A\rightarrow B}
+
+
+
+
+
+A
+∨
+B
+
+
+{\displaystyle A\lor B}
+
+FFTFFFTTTTTFFTTTTFTT
+It may also be defined solely in terms of 
+
+
+
+→
+
+
+{\displaystyle \to }
+
+:
+
+
+
+
+
+A
+∨
+B
+=
+(
+A
+→
+B
+)
+→
+B
+
+
+{\displaystyle A\lor B=(A\to B)\to B}
+
+.
+It can be checked by the following truth table:
+
+
+
+
+
+A
+
+
+{\displaystyle A}
+
+
+
+
+
+B
+
+
+{\displaystyle B}
+
+
+
+
+
+A
+→
+B
+
+
+{\displaystyle A\rightarrow B}
+
+
+
+
+
+(
+A
+→
+B
+)
+→
+B
+
+
+{\displaystyle (A\rightarrow B)\rightarrow B}
+
+
+
+
+
+A
+∨
+B
+
+
+{\displaystyle A\lor B}
+
+FFTFFFTTTTTFFTTTTTTT
+
+
+Properties[edit]
+The following properties apply to disjunction:
+
+Associativity: 
+
+
+
+a
+∨
+(
+b
+∨
+c
+)
+≡
+(
+a
+∨
+b
+)
+∨
+c
+
+
+{\displaystyle a\lor (b\lor c)\equiv (a\lor b)\lor c}
+
+[7]
+Commutativity: 
+
+
+
+a
+∨
+b
+≡
+b
+∨
+a
+
+
+{\displaystyle a\lor b\equiv b\lor a}
+
+
+Distributivity: 
+
+
+
+(
+a
+∧
+(
+b
+∨
+c
+)
+)
+≡
+(
+(
+a
+∧
+b
+)
+∨
+(
+a
+∧
+c
+)
+)
+
+
+{\displaystyle (a\land (b\lor c))\equiv ((a\land b)\lor (a\land c))}
+
+
+
+
+
+
+(
+a
+∨
+(
+b
+∧
+c
+)
+)
+≡
+(
+(
+a
+∨
+b
+)
+∧
+(
+a
+∨
+c
+)
+)
+
+
+{\displaystyle (a\lor (b\land c))\equiv ((a\lor b)\land (a\lor c))}
+
+
+
+
+
+
+(
+a
+∨
+(
+b
+∨
+c
+)
+)
+≡
+(
+(
+a
+∨
+b
+)
+∨
+(
+a
+∨
+c
+)
+)
+
+
+{\displaystyle (a\lor (b\lor c))\equiv ((a\lor b)\lor (a\lor c))}
+
+
+
+
+
+
+(
+a
+∨
+(
+b
+≡
+c
+)
+)
+≡
+(
+(
+a
+∨
+b
+)
+≡
+(
+a
+∨
+c
+)
+)
+
+
+{\displaystyle (a\lor (b\equiv c))\equiv ((a\lor b)\equiv (a\lor c))}
+
+
+Idempotency: 
+
+
+
+a
+∨
+a
+≡
+a
+
+
+{\displaystyle a\lor a\equiv a}
+
+
+Monotonicity: 
+
+
+
+(
+a
+→
+b
+)
+→
+(
+(
+c
+∨
+a
+)
+→
+(
+c
+∨
+b
+)
+)
+
+
+{\displaystyle (a\rightarrow b)\rightarrow ((c\lor a)\rightarrow (c\lor b))}
+
+
+
+
+
+
+(
+a
+→
+b
+)
+→
+(
+(
+a
+∨
+c
+)
+→
+(
+b
+∨
+c
+)
+)
+
+
+{\displaystyle (a\rightarrow b)\rightarrow ((a\lor c)\rightarrow (b\lor c))}
+
+
+Truth-preserving: The interpretation under which all variables are assigned a truth value of 'true', produces a truth value of 'true' as a result of disjunction.
+Falsehood-preserving: The interpretation under which all variables are assigned a truth value of 'false', produces a truth value of 'false' as a result of disjunction.
+Applications in computer science[edit]
+This section needs expansion. You can help by adding to it.  (February 2021)
+OR logic gate
+Operators corresponding to logical disjunction exist in most programming languages.
+
+Bitwise operation[edit]
+Disjunction is often used for bitwise operations. Examples:
+
+0 or 0 = 0
+0 or 1 = 1
+1 or 0 = 1
+1 or 1 = 1
+1010 or 1100 = 1110
+The or operator can be used to set bits in a bit field to 1, by or-ing the field with a constant field with the relevant bits set to 1. For example, x = x | 0b00000001 will force the final bit to 1, while leaving other bits unchanged.[citation needed]
+
+Logical operation[edit]
+Many languages distinguish between bitwise and logical disjunction by providing two distinct operators; in languages following C, bitwise disjunction is performed with the single pipe operator (|), and logical disjunction with the double pipe (||) operator.
+Logical disjunction is usually short-circuited; that is, if the first (left) operand evaluates to true, then the second (right) operand is not evaluated. The logical disjunction operator thus usually constitutes a sequence point.
+In a parallel (concurrent) language, it is possible to short-circuit both sides: they are evaluated in parallel, and if one terminates with value true, the other is interrupted. This operator is thus called the parallel or.
+Although the type of a logical disjunction expression is Boolean in most languages (and thus can only have the value true or false), in some languages (such as Python and JavaScript), the logical disjunction operator returns one of its operands: the first operand if it evaluates to a true value, and the second operand otherwise.[8][9] This allows it to fulfill the role of the Elvis operator.
+
+Constructive disjunction[edit]
+The Curry–Howard correspondence relates a constructivist form of disjunction to tagged union types.[citation needed][10]
+
+Set theory[edit]
+This section needs expansion. You can help by adding to it.  (February 2021)
+The membership of an element of a union set in set theory is defined in terms of a logical disjunction: 
+
+
+
+x
+∈
+A
+∪
+B
+⇔
+(
+x
+∈
+A
+)
+∨
+(
+x
+∈
+B
+)
+
+
+{\displaystyle x\in A\cup B\Leftrightarrow (x\in A)\vee (x\in B)}
+
+. Because of this, logical disjunction satisfies many of the same identities as set-theoretic union, such as associativity, commutativity, distributivity, and de Morgan's laws, identifying logical conjunction with set intersection, logical negation with set complement.[11]
+
+Natural language[edit]
+Disjunction in natural languages does not precisely match the interpretation of 
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+ in classical logic. Notably, classical disjunction is inclusive while natural language disjunction is often understood exclusively, as the following English example typically would be.[1]
+
+Mary is eating an apple or a pear.
+This inference has sometimes been understood as an entailment, for instance by Alfred Tarski, who suggested that natural language disjunction is ambiguous between a classical and a nonclassical interpretation. More recent work in pragmatics has shown that this inference can be derived as a conversational implicature on the basis of a semantic denotation which behaves classically. However, disjunctive constructions including Hungarian vagy... vagy and French soit... soit have been argued to be inherently exclusive, rendering ungrammaticality in contexts where an inclusive reading would otherwise be forced.[1]
+Similar deviations from classical logic have been noted in cases such as free choice disjunction and simplification of disjunctive antecedents, where certain modal operators trigger a conjunction-like interpretation of disjunction. As with exclusivity, these inferences have been analyzed both as implicatures and as entailments arising from a nonclassical interpretation of disjunction.[1]
+
+You can have an apple or a pear.
+
+
+
+
+⇝
+
+
+{\displaystyle \rightsquigarrow }
+
+ You can have an apple and you can have a pear (but you cannot have both)
+In many languages, disjunctive expressions play a role in question formation.
+
+Is Mary a philosopher or a linguist?
+For instance, while the above English example can be interpreted as a polar question asking whether it's true that Mary is either a philosopher or a linguist, it can also be interpreted as an alternative question asking which of the two professions is hers. The role of disjunction in these cases has been analyzed using nonclassical logics such as alternative semantics and inquisitive semantics, which have also been adopted to explain the free choice and simplification inferences.[1]
+In English, as in many other languages, disjunction is expressed by a coordinating conjunction. Other languages express disjunctive meanings in a variety of ways, though it is unknown whether disjunction itself is a linguistic universal. In many languages such as Dyirbal and Maricopa, disjunction is marked using a verb suffix. For instance, in the Maricopa example below, disjunction is marked by the suffix šaa.[1]
+
+JohnšJohn-NOMBillšBill-NOMvʔaawuumšaa3-come-PL-FUT-INFERJohnš Billš vʔaawuumšaaJohn-NOM Bill-NOM 3-come-PL-FUT-INFER'John or Bill will come.'
+
+See also[edit]
+
+Affirming a disjunct
+Boolean algebra (logic)
+Boolean algebra topics
+Boolean domain
+Boolean function
+Boolean-valued function
+Conjunction/disjunction duality
+Disjunctive syllogism
+Fréchet inequalities
+Free choice inference
+Hurford disjunction
+Logical graph
+Simplification of disjunctive antecedents
+
+Notes[edit]
+
+
+^ For the sake of generality across classical systems, this entry suppresses the parameters of evaluation. The double turnstile symbol 
+
+
+
+⊨
+
+
+{\displaystyle \models }
+
+ here is intended to mean "semantically entails".
+
+
+George Boole, closely following analogy with ordinary mathematics, premised, as a necessary condition to the definition of x + y, that x and y were mutually exclusive. Jevons, and practically all mathematical logicians after him, advocated, on various grounds, the definition of logical addition in a form that does not necessitate mutual exclusiveness.
+References[edit]
+
+
+^ a b c d e f g h Aloni, Maria (2016), "Disjunction", in Zalta, Edward N. (ed.), The Stanford Encyclopedia of Philosophy (Winter 2016 ed.), Metaphysics Research Lab, Stanford University, retrieved 2020-09-03
+
+^ "Disjunction | logic". Encyclopedia Britannica. Retrieved 2020-09-03.
+
+^ Beall, Jeffrey C. (2010). Logic: the basics (1. publ ed.). London: Routledge. p. 57. ISBN 978-0-203-85155-5.
+
+^ Józef Maria Bocheński (1959), A Précis of Mathematical Logic, translated by Otto Bird from the French and German editions, Dordrecht, North Holland:  D. Reidel, passim.
+
+^ Weisstein, Eric W. "OR". MathWorld--A Wolfram Web Resource. Retrieved 24 September 2024.
+
+^ Walicki, Michał (2016). Introduction to Mathematical Logic. WORLD SCIENTIFIC. p. 150. doi:10.1142/9783. ISBN 978-9814343879.
+
+^ Howson, Colin (1997). Logic with trees: an introduction to symbolic logic. London; New York: Routledge. p. 38. ISBN 978-0-415-13342-5.
+
+^ "Python 3.12.1 Documentation - The Python Language Reference - 6.11 Boolean operations". Retrieved 25 Dec 2023.
+
+^ "JavaScript References - Expressions & Operators - Logical AND (&&)". 25 September 2023. Retrieved 25 Dec 2023.
+
+^ Marcus Vinícius Midena Ramos; de Queiroz, Ruy J. G. B. (2015). "Context-Free Language Theory Formalization". Universidade Federal de Pernambuco: 6. arXiv:1505.00061.
+
+^ Ebbinghaus, Heinz-Dieter (2021). Einführung in die Mengenlehre (in German) (5 ed.). Springer. p. 32. ISBN 978-3-662-63865-1.
+
+
+External links[edit]
+"Disjunction", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Aloni, Maria. "Disjunction". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+Eric W. Weisstein. "Disjunction." From MathWorld—A Wolfram Web Resource
+vteCommon logical connectives
+Tautology/True 
+
+
+
+⊤
+
+
+{\displaystyle \top }
+
+
+
+Alternative denial (NAND gate) 
+
+
+
+
+
+∧
+¯
+
+
+
+
+{\displaystyle {\overline {\wedge }}}
+
+
+Converse implication 
+
+
+
+⇐
+
+
+{\displaystyle \Leftarrow }
+
+
+Implication (IMPLY gate) 
+
+
+
+⇒
+
+
+{\displaystyle \Rightarrow }
+
+
+Disjunction (OR gate) 
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+
+
+Negation (NOT gate) 
+
+
+
+¬
+
+
+{\displaystyle \neg }
+
+
+Exclusive or (XOR gate) 
+
+
+
+⊕
+
+
+{\displaystyle \oplus }
+
+
+Biconditional (XNOR gate) 
+
+
+
+⊙
+
+
+{\displaystyle \odot }
+
+
+Statement (Digital buffer)
+
+Joint denial (NOR gate) 
+
+
+
+
+
+∨
+¯
+
+
+
+
+{\displaystyle {\overline {\vee }}}
+
+
+Nonimplication (NIMPLY gate) 
+
+
+
+⇏
+
+
+{\displaystyle \nRightarrow }
+
+
+Converse nonimplication 
+
+
+
+⇍
+
+
+{\displaystyle \nLeftarrow }
+
+
+Conjunction (AND gate) 
+
+
+
+∧
+
+
+{\displaystyle \land }
+
+
+
+Contradiction/False 
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+
+ Philosophy portal
+vteMathematical logicGeneral
+Axiom
+list
+Cardinality
+First-order logic
+Formal proof
+Formal semantics
+Foundations of mathematics
+Information theory
+Lemma
+Logical consequence
+Model
+Theorem
+Theory
+Type theory
+Theorems (list) and paradoxes
+Gödel's completeness and incompleteness theorems
+Tarski's undefinability
+Banach–Tarski paradox
+Cantor's theorem, paradox and diagonal argument
+Compactness
+Halting problem
+Lindström's
+Löwenheim–Skolem
+Russell's paradox
+LogicsTraditional
+Classical logic
+Logical truth
+Tautology
+Proposition
+Inference
+Logical equivalence
+Consistency
+Equiconsistency
+Argument
+Soundness
+Validity
+Syllogism
+Square of opposition
+Venn diagram
+Propositional
+Boolean algebra
+Boolean functions
+Logical connectives
+Propositional calculus
+Propositional formula
+Truth tables
+Many-valued logic
+3
+finite
+∞
+Predicate
+First-order
+list
+Second-order
+Monadic
+Higher-order
+Fixed-point
+Free
+Quantifiers
+Predicate
+Monadic predicate calculus
+Set theory
+Set
+hereditary
+Class
+(Ur-)Element
+Ordinal number
+Extensionality
+Forcing
+Relation
+equivalence
+partition
+Set operations:
+intersection
+union
+complement
+Cartesian product
+power set
+identities
+Types of sets
+Countable
+Uncountable
+Empty
+Inhabited
+Singleton
+Finite
+Infinite
+Transitive
+Ultrafilter
+Recursive
+Fuzzy
+Universal
+Universe
+constructible
+Grothendieck
+Von Neumann
+Maps and cardinality
+Function/Map
+domain
+codomain
+image
+In/Sur/Bi-jection
+Schröder–Bernstein theorem
+Isomorphism
+Gödel numbering
+Enumeration
+Large cardinal
+inaccessible
+Aleph number
+Operation
+binary
+Set theories
+Zermelo–Fraenkel
+axiom of choice
+continuum hypothesis
+General
+Kripke–Platek
+Morse–Kelley
+Naive
+New Foundations
+Tarski–Grothendieck
+Von Neumann–Bernays–Gödel
+Ackermann
+Constructive
+Formal systems (list),language and syntax
+Alphabet
+Arity
+Automata
+Axiom schema
+Expression
+ground
+Extension
+by definition
+conservative
+Relation
+Formation rule
+Grammar
+Formula
+atomic
+closed
+ground
+open
+Free/bound variable
+Language
+Metalanguage
+Logical connective
+¬
+∨
+∧
+→
+↔
+=
+Predicate
+functional
+variable
+propositional variable
+Proof
+Quantifier
+∃
+!
+∀
+rank
+Sentence
+atomic
+spectrum
+Signature
+String
+Substitution
+Symbol
+function
+logical/constant
+non-logical
+variable
+Term
+Theory
+list
+Example axiomaticsystems (list)
+of arithmetic:
+Peano
+second-order
+elementary function
+primitive recursive
+Robinson
+Skolem
+of the real numbers
+Tarski's axiomatization
+of Boolean algebras
+canonical
+minimal axioms
+of geometry:
+Euclidean:
+Elements
+Hilbert's
+Tarski's
+non-Euclidean
+Principia Mathematica
+Proof theory
+Formal proof
+Natural deduction
+Logical consequence
+Rule of inference
+Sequent calculus
+Theorem
+Systems
+axiomatic
+deductive
+Hilbert
+list
+Complete theory
+Independence (from ZFC)
+Proof of impossibility
+Ordinal analysis
+Reverse mathematics
+Self-verifying theories
+Model theory
+Interpretation
+function
+of models
+Model
+equivalence
+finite
+saturated
+spectrum
+submodel
+Non-standard model
+of arithmetic
+Diagram
+elementary
+Categorical theory
+Model complete theory
+Satisfiability
+Semantics of logic
+Strength
+Theories of truth
+semantic
+Tarski's
+Kripke's
+T-schema
+Transfer principle
+Truth predicate
+Truth value
+Type
+Ultraproduct
+Validity
+Computability theory
+Church encoding
+Church–Turing thesis
+Computably enumerable
+Computable function
+Computable set
+Decision problem
+decidable
+undecidable
+P
+NP
+P versus NP problem
+Kolmogorov complexity
+Lambda calculus
+Primitive recursive function
+Recursion
+Recursive set
+Turing machine
+Type theory
+Related
+Abstract logic
+Algebraic logic
+Automated theorem proving
+Category theory
+Concrete/Abstract category
+Category of sets
+History of logic
+History of mathematical logic
+timeline
+Logicism
+Mathematical object
+Philosophy of mathematics
+Supertask
+ Mathematics portal
+vteCommon logical symbols
+ ∧  or  &  and
+
+ ∨  or
+
+ ¬  or  ~  not
+
+ →  implies
+
+ ⊃  implies,superset
+
+ ↔  or  ≡  iff
+
+ |  nand
+
+ ∀  universalquantification
+
+ ∃  existentialquantification
+
+ ⊤  true,tautology
+
+ ⊥  false,contradiction
+
+ ⊢  entails,proves
+
+ ⊨  entails,therefore
+
+ ∴  therefore
+
+ ∵  because
+ Philosophy portal Mathematics portal
+vteFormal semantics (natural language)Central concepts
+Compositionality
+Denotation
+Entailment
+Extension
+Generalized quantifier
+Intension
+Logical form
+Presupposition
+Proposition
+Reference
+Scope
+Speech act
+Syntax–semantics interface
+Truth conditions
+TopicsAreas
+Anaphora
+Ambiguity
+Binding
+Conditionals
+Definiteness
+Disjunction
+Evidentiality
+Focus
+Indexicality
+Lexical semantics
+Modality
+Negation
+Propositional attitudes
+Tense–aspect–mood
+Quantification
+Vagueness
+Phenomena
+Antecedent-contained deletion
+Cataphora
+Coercion
+Conservativity
+Counterfactuals
+Crossover effects
+Cumulativity
+De dicto and de re
+De se
+Deontic modality
+Discourse relations
+Donkey anaphora
+Epistemic modality
+Exhaustivity
+Faultless disagreement
+Free choice inferences
+Givenness
+Homogeneity (linguistics)
+Hurford disjunction
+Inalienable possession
+Intersective modification
+Logophoricity
+Mirativity
+Modal subordination
+Opaque contexts
+Performatives
+Polarity items
+Privative adjectives
+Quantificational variability effect
+Responsive predicate
+Rising declaratives
+Scalar implicature
+Sloppy identity
+Subsective modification
+Subtrigging
+Telicity
+Temperature paradox
+Veridicality
+FormalismFormal systems
+Alternative semantics
+Categorial grammar
+Combinatory categorial grammar
+Discourse representation theory (DRT)
+Dynamic semantics
+Generative grammar
+Glue semantics
+Inquisitive semantics
+Intensional logic
+Lambda calculus
+Mereology
+Montague grammar
+Segmented discourse representation theory (SDRT)
+Situation semantics
+Supervaluationism
+Type theory
+TTR
+Concepts
+Autonomy of syntax
+Context set
+Continuation
+Conversational scoreboard
+Downward entailing
+Existential closure
+Function application
+Meaning postulate
+Monads
+Plural quantification
+Possible world
+Quantifier raising
+Quantization
+Question under discussion
+Semantic parsing
+Squiggle operator
+Strawson entailment
+Strict conditional
+Type shifter
+Universal grinder
+See also
+Cognitive semantics
+Computational semantics
+Distributional semantics
+Formal grammar
+Inferentialism
+Logic translation
+Linguistics wars
+Philosophy of language
+Pragmatics
+Semantics of logic
+
+Authority control databases: National GermanyUnited StatesIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Logical_disjunction&oldid=1287373068"
+Categories: Logical connectivesSemanticsFormal semantics (natural language)Hidden categories: CS1 German-language sources (de)Articles with short descriptionShort description matches WikidataArticles to be expanded from February 2021All articles to be expandedAll articles with unsourced statementsArticles with unsourced statements from February 2021Pages with interlinear glosses using more than three unnamed parametersPages using interlinear with unknown parameters
+
+
+
+
+
+
+ This page was last edited on 25 April 2025, at 20:20 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Logical disjunction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

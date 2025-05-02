@@ -1,0 +1,120 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_utilities_opacity_element
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+  Opacity
+  The w3-opacity classes adds transparency to an element.
+
+  Normal (100% opacity):
+  
+  w3-opacity-min (75% opacity):
+  
+  w3-opacity (60% opacity):
+  
+  w3-opacity-max (25% opacity):
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

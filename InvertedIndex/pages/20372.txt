@@ -1,0 +1,592 @@
+https://en.wikipedia.org/wiki/Microelectronics
+
+
+
+
+Microelectronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Microelectronics
+
+
+
+47 languages
+
+
+
+
+AlemannischالعربيةAsturianuAzərbaycancaবাংলাБеларускаяБългарскиCatalàDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीItalianoעבריתҚазақшаКыргызчаMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskOʻzbekcha / ўзбекчаPolskiPortuguêsRomânăРусскийSeelterskShqipSlovenčinaСрпски / srpskiSrpskohrvatski / српскохрватскиSvenskaTagalogไทยTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikibooksWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Subfield of electronics
+For the American company, see Micro Electronics, Inc.
+"Microminiaturisation" redirects here. For the art form, see Micro miniature.
+An Integrated circuit (IC) as an example application in the field of microelectronics. The chip housing is opened to allow a view of the actual circuit. The golden connecting cables, which form the electrical wiring between the IC and the housing contacts, can be seen on the sides.
+Microelectronics is a subfield of electronics. As the name suggests, microelectronics relates to the study and manufacture (or microfabrication) of very small electronic designs and components.  Usually,  but not always, this means micrometre-scale or smaller.  These devices are typically made from semiconductor materials. Many components of a normal electronic design are available in a microelectronic equivalent.  These include transistors, capacitors, inductors, resistors, diodes and (naturally) insulators and conductors can all be found in microelectronic devices. Unique wiring techniques such as wire bonding are also often used in microelectronics because of the unusually small size of the components, leads and pads. This technique requires specialized equipment and is expensive.
+Digital integrated circuits (ICs) consist of billions of transistors, resistors, diodes, and capacitors.[1] Analog circuits commonly contain resistors and capacitors as well.  Inductors are used in some high frequency analog circuits, but tend to occupy larger chip area due to their lower reactance at low frequencies. Gyrators can replace them in many applications.
+As techniques have improved, the scale of microelectronic components has continued to decrease.[2]  At smaller scales, the relative impact of intrinsic circuit properties such as interconnections may become more significant.  These are called parasitic effects, and the goal of the microelectronics design engineer is to find ways to compensate for or to minimize these effects, while delivering smaller, faster, and cheaper devices.
+Today, microelectronics design is largely aided by electronic design automation (EDA) software.
+
+See also[edit]
+Digital electronics
+Electrical engineering
+Kelvin probe force microscope
+Macroelectronics
+Microscale chemistry
+Nanoelectronics
+References[edit]
+
+Veendrick, H.J.M. (2019). Bits on Chips. Springer. p. 284. ISBN 978-3-319-76095-7. https://link.springer.com/book/10.1007/978-3-319-76096-4/
+
+
+
+^ Shamieh, Cathleen (2015-07-27). Electronics for dummies (3rd ed.). Hoboken, NJ. ISBN 9781119117971. OCLC 919482442.{{cite book}}:  CS1 maint: location missing publisher (link)
+
+^ "The State of the Transistor in 3 Charts - IEEE Spectrum". IEEE. Retrieved 2024-02-20.
+
+
+vteMicrotechnology
+Microelectromechanical systems
+Microtechnology
+Micromachinery
+Basic structures
+Interdigital transducer
+Cantilever
+Microchannel
+ApplicationsSensors
+Microbolometer
+Actuators
+Comb drive
+Scratch drive actuator
+Thermal actuator
+Switches
+Digital micromirror device
+Optical switch
+Other
+Millipede memory
+Radio-frequency microelectromechanical systems
+Microoptoelectromechanical systems
+Microphotonics
+Biological microelectromechanical systems
+Microfluidics
+Micropower
+ProcessesGeneral
+Surface micromachining
+Bulk micromachining
+HAR micromachining
+Deposition
+Lithography
+Etching
+Wire bonding
+3D microfabrication
+Specific
+LOCOS
+Shallow trench isolation
+LIGA
+Lift-off
+Photolithography
+Silicon on insulator
+Smart cut
+
+
+
+
+Wikibooks has a book on the topic of: Microtechnology
+
+Authority control databases: National GermanyUnited StatesFranceBnF dataJapanCzech RepublicIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Microelectronics&oldid=1266302466"
+Category: ElectronicsHidden categories: CS1 maint: location missing publisherArticles with short descriptionShort description matches Wikidata
+
+
+
+
+
+
+ This page was last edited on 31 December 2024, at 00:43 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Microelectronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1116 @@
+https://en.wikipedia.org/wiki/Domestic_robot
+
+
+
+
+Domestic robot - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Indoor robots
+
+
+
+
+
+
+
+
+3
+Outdoor robots
+
+
+
+
+
+
+
+
+4
+Toys
+
+
+
+
+
+
+
+
+5
+Social robots
+
+
+
+
+
+
+
+
+6
+In popular culture
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Domestic robot
+
+
+
+11 languages
+
+
+
+
+EspañolفارسیFrançais한국어Македонскиမြန်မာဘာသာNederlands日本語РусскийУкраїнськаTiếng Việt
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Type of service robot
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Domestic robot" – news · newspapers · books · scholar · JSTOR (May 2008) (Learn how and when to remove this message)
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (October 2024)A robot carrying drinks at the Ubiquitous Dream exhibition in Seoul, South Korea, in 2005
+Part of a series onAutomation
+Automation in general
+
+Banking
+Building
+Home
+Highway system
+Laboratory
+Library
+Broadcast
+Mix
+Pool cleaner
+Pop music
+Reasoning
+Semi-automation
+Telephone
+Attendant
+Switchboard
+Teller machine
+Vehicular
+Vending machine
+
+
+Robotics and robots
+
+Domestic
+Vacuum cleaner
+Roomba
+Lawn mower
+Guided vehicle
+Industrial
+Paint
+ODD
+
+
+Impact of automation
+
+Manumation
+OOL
+Bias
+Self-driving cars
+Technological unemployment
+Jobless recovery
+Post-work society
+Threat
+
+
+Trade shows and awards
+
+ASP-DAC
+DAC
+DATE
+IEEE Robotics and Automation Award
+ICCAD
+
+vte
+A domestic robot or homebot is a type of service robot, an autonomous robot that is primarily used for household chores, but may also be used for education, entertainment or therapy. While most domestic robots are simplistic, some are connected to Wi-Fi home networks or smart environments and are autonomous to a high degree. There were an estimated 16.3 million service robots in 2018.[1]
+
+
+History[edit]
+This section needs expansion. You can help by adding to it.  (November 2018)
+People began to design robots for processing materials and construct products, especially during the Industrial Revolution in the period about 1760 to around 1840. This historical event marked a major turning point in history since people's living standard was greatly improved during that period. However, these robots cannot be considered as domestic robots. After the industrial robots were improved rapidly for over a hundred years since the Industrial Revolution, people started to consider the use of robots at home.[2]
+One of the earliest domestic robots is called "HERO", which was sold during the 1980s. "Of all the educational and personal robots created during the 1980s the Heathkit HERO robots were by far the most successful and most popular."[3] There were four types of HERO robots created by Heathkit. The first model is called HERO 1. This model was used for educational purpose, and in order to fit the customer's demand, the second model, which was called HERO JR was generated for personal use. The last two generations are called HERO 2000 and the Arm Trainer. HERO 1, as an educational machine, had very good sensibility. It could gather information accurately and analyze this data. An improved generation of HERO 1 in educational purpose was HERO 2000 which "featured advanced programmability" and another generation, the Arm Trainer was for an industrial purpose and it was able to control the operation of full-scale industrial robots. However, the most important improvement of HERO 1 for the domestic robot is HERO JR. HERO JR was the first affordable, personal robot with a dynamic personality. People could use it to play songs, games, wake people up in the morning, notify important events, and even guard the home. As a private robot, people do not need program skills to operate the robot and if they want to re-program the robot, people can do it simply "with a home computer and optional RS-232 Accessory and BASIC Cartridge".[3]
+Another prototype of the domestic robot was called "Topo", which was designed by Androbot Inc. and released in 1983. Its programming language allowed it to do geometric movements and perform tasks. However, it did not have a sensor so it could not receive the order and responded to the order correctly and thus it could not be considered as a real robot. To solve this problem, the second and third generation contained an infrared transmitter and could be controlled by a remote pad. For the last generation, Topo4 was featured by a text-to-speech processor. Although Topo4 was made, but it never went into production.
+With these two prototypes of the domestic robot, the domestic robots became more and more accessible and affordable. By 2006 there were "3,540,000 service robots in use".[4]
+
+Indoor robots[edit]
+First generation Roomba vacuums the carpets in a domestic environment.
+This type of domestic robot does chores around and inside homes. Different kinds include:
+
+Robotic vacuum cleaners and floor-washing robots that clean floors with sweeping and wet mopping functions. Some use Swiffer or other disposable cleaning cloths to dry-sweep, or reusable microfiber cloths to wet-mop.
+Within the ironing robots, Dressman is a mannequin to dry and iron shirts using hot air.[5] Other ones also includes mannequin for down parts (pants, trousers and skirts). More advanced ones (i.e. laundry-folding machines) fold and organizes the clothes, as Laundroid or FoldiMate (using image analysis and artificial intelligence), Effie (irons 12 items of clothing at once).
+Cat litter robots are automatic self-cleaning litter boxes that filter clumps out into a built-in waste receptacle that can be lined with an ordinary plastic bag.
+Robotic kitchens include Rotimatic (which makes rotis, tortillas,  puris out of flour in just a few minutes), Moley Robotics MK1 and Prometheus delta robot.[6]
+Security robots such as Knightscope have a night-vision-capable wide-angle camera that detects movements and intruders. It can patrol places and shoot video of suspicious activities, too, and send alerts via email or text message; the stored history of past alerts and videos are accessible via the Web. The robot can also be configured to go into action at any time of the day.[7]
+Atlas is a robot built to perform in house task such as sweeping, opening doors, climbing stairs, etc.[8] Samsung has been presenting robot butler designs such as Handy and Care.[9]
+
+Outdoor robots[edit]
+A robotic lawn mower
+A robotic lawn mower is a lawn mower that is able to mow a lawn by itself after being programmed. Once programmed, this invention repeats the operation by itself according to its programming. Robotic lawn mowers come with a power unit which may be an electric motor or internal combustion engine. This provides power to the robot and allows it to move itself and its cutting blades. There is also a control unit which helps the mower move. This unit also contains a memory unit which records and memorizes its operation programming. Its memorized route includes the length of travel in a given direction and turns angles. This allows the same lawn to be mowed repeatedly without having to reprogram. The steering unit acquires an operation signal and propels the lead wheel, which leads the mower, go guide along the programmed route.
+Some models can mow complicated and uneven lawns that are up to three-quarters of an acre in size. Others can mow a lawn as large as 40,000 square feet (3,700 m2), can handle a hill inclined up to 27 degrees.[7]
+There are also automated pool cleaners that clean and maintain swimming pools autonomously by scrubbing in-ground pools from the floor to the waterline in 3 hours, cleaning and circulating more than 70 US gallons (260 L) of water per minute, and removing debris as small as 2 μm in size.[7]
+Gutter-cleaning robots such as Looj use brushes and rubber blades to remove debris from rain gutters; users operate the device using a remote.[10]
+Window cleaning robots are most commonly used to clean outdoor windows, more specifically house windows. However, it may be used on other types of windows, such as ones on tall buildings and structures. This robot contains a movement system which allows the robot to navigate itself across the window surface in a defined direction. It also has a powered agitator located by the cleaning pad. When activated, the agitator gets rid of debris and dirt from the window surface. The cleaning pad directly interacts with the window surface and is directly responsible for removing the dirt by filling itself with specialized window cleaning fluid.
+A window-washing robot commonly uses two magnetic modules to navigate windows as it sprays the cleaning solution onto microfiber pads to wash them. It covers about 1,601 square feet (148.7 m2) per charge.[11]
+
+Toys[edit]
+Main articles: Personal robot, Smart toy, and Robotic pet
+See also: Category:Toy robots
+Robotic toys, such as the well-known Furby, have been popular since 1998. There are also small humanoid remote-controlled robots as well as electronic pets, such as robotic dogs. They have also been used by many universities in competitions such as the RoboCup.
+
+Social robots[edit]
+Main articles: Personal robot and Social robot
+Social robots take on the function of social communication. Domestic humanoid robots are used by elderly and immobilized residents to keep them company.
+Home-telepresence robots can move around in a remote location and let one communicate with people there via its camera, speaker, and microphone.
+Network robots link ubiquitous networks with robots, contributing to the creation of new lifestyles and solutions to address a variety of social problems including the aging of population and nursing care.[12]
+Robots built for therapy have been in production for quite some time now. Some of these uses can be for autism or physical therapy.
+
+In popular culture[edit]
+In the Star Wars film series, robots of all shapes and sizes can be found assisting humans with several tasks. C-3PO is a robot designed to assist humans in translation, and etiquette.[13]
+Isaac Asimov's I, Robot and the  2004 film of the same name, featured domestic robots as a common feature, in daily routines and family lives.
+Many cartoons feature robot maids, notably Rosie the Robot from The Jetsons. Maid Robots are especially prominent in anime (in Japanese, they are called Meido Robo, Meido Roboto, or meido robot), and their artificial intelligence ranges from rudimentary to fully sentient and emotional, while their appearance ranges from obviously mechanical to human-like.
+The 2009 adaptation of Astro Boy, based on creator Osamu Tezuka's Japanese anime Tetsuwan Atomu, showcases robots with various domestic functions. Orrin, with resemblance to the comedic, gold, humanoid companion C-3PO, plays Dr. Tenma's domestic robot performing various tasks such as housekeeping and tutoring to Dr. Tenma's son, Toby.[14]
+A vignette, shown at the end of the final episode of Syfy's failed 2010 Battlestar Galactica prequel TV series Caprica, features early models of Cylons serving as domestic and industrial robotic assistants for the human inhabitants of the Twelve Colonies of Kobol, some five years before the revolt that precipitated the First Cylon War.
+In the 2008 film Wall-E, humans use sentient robots as trash compactors to clean up the mess they left behind on Earth. Wall-E is a small bulldozer-like robot who has claws for hands and spends all his time collecting and compressing garbage into cubes. Another robot named Eve is small, sleek, and can fly.[15]
+In the 2012 movie Robot & Frank featured a domestic robot, the story of the movie centered on an elderly man and his relationship with a caretaker robot.
+In the 2022 French movie, Bigbug, set in 2045, where communities have robotic helpers, a group of suburbanites are locked in for their own protection by their household robots, while a rogue, sentient AI android revolt uprising outside.
+The 2024 TV series Sunny involves an American woman living in Kyoto whose husband and son vanished in a plane crash, receives a domestic robot from her husband's robotics company.
+See also[edit]
+
+Adaptable robotics
+Android (robot)
+Artificial intelligence
+Disability robot
+Dustbot
+Floor plans
+Fog computing
+Furby
+Gerontotechnology
+Google Home
+Home automation
+Home automation for the elderly and disabled
+House navigation system
+Humanoid robot
+Internet of things
+List of home automation topics
+Mobile robot
+Open hardware
+Personal robot
+Poo-Chi
+RoboSapien
+Robot kit
+Robotic arm
+Robotic mapping
+Robotics suite
+Service robot
+Simultaneous localization and mapping (SLAM)
+Soft robotics
+Matter
+
+References[edit]
+
+
+^ "Executive Summary" (PDF). International Federation of Robotics. 2019. Retrieved 2020-02-11.
+
+^ "25 Great Moments In Robotics History". Forbes. August 17, 2006. Retrieved 2019-04-15.
+
+^ a b "HERO Robots".
+
+^ "Home is Where the Robot is: Vacuum Cleaners, Security Guards, and Old-Age Companions". The New Atlantis (1): 136–138. 2003. JSTOR 43152865.
+
+^ "Twelve robots that have invaded American homes". Boston.com. Archived from the original on 11 January 2015. the German conglomerate Siemens introduced a robot designed to iron shirts using hot air.
+
+^ Robotic Kitchen - High Tech Cooking Robot Chef
+
+^ a b c DesMarais, Christina (2013-04-16). "Domestic Robots: High-Tech House Helpers". PCWorld. Retrieved 2013-03-28.
+
+^ Reynolds, Emily (2016-02-22). "The household robots who will do your chores". Wired UK.
+
+^ Tibken, Shara (2021-01-11). "Samsung's Bot Handy is kind of like a first generation robot butler". CNET. Retrieved 2021-04-17.
+
+^ "Twelve robots that have invaded American homes". Boston.com. Archived from the original on 17 January 2015. The Looj, also by iRobot, addresses one of the most tedious aspects of owning a house: cleaning its gutters. Users operate the device using a remote.
+
+^ Aamoth, Doug (August 16, 2013). "Winbot Window-Washing Robot: Like Roomba, but for Glass Windows". Time.
+
+^ Network Robot Forum Archived October 24, 2007, at the Wayback Machine
+
+^ Salmon, Paul (December 2017). "What the Robots of Star Wars tell us about Automation". Phys.org.[permanent dead link]
+
+^ "Tetsuwan Atomu [Mighty Atom] - The Japanese Collections at the Library of Congress: Past, Present, and Future (September 20–October 16, 2010)". www.loc.gov. Retrieved 2018-09-05.
+
+^ Ebert, Roger (June 26, 2008). "Droid story (Wall-E movie review)". Rogerebert.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Domestic robots.
+
+
+
+
+Wikiversity has learning resources about Open-source domestic robots
+
+Schumacher, Helene (30 July 2018). "Is this the end of household chores?". BBC Future.
+vteHome appliancesTypes
+Air conditioner
+Air fryer
+Air ioniser
+Air purifier
+Barbecue grill
+Blender
+Immersion blender
+Bread machine
+Bug zapper
+Coffee percolator
+Clothes dryer
+combo
+Clothes iron
+Coffeemaker
+Dehumidifier
+Dishwasher
+drying cabinet
+Domestic robot
+Deep fryer
+Electric blanket
+Electric drill
+Electric kettle
+Electric knife
+Electric water boiler
+Electric heater
+Electric shaver
+Electric toothbrush
+Epilator
+Espresso machine
+Evaporative cooler
+Food processor
+Fan
+attic
+bladeless
+ceiling
+Fan heater
+window
+Freezer
+Garbage disposer
+Hair dryer
+Hair iron
+Humidifier
+Icemaker
+Ice cream maker
+Induction cooker
+Instant hot water dispenser
+Juicer
+Kitchen hood
+Kitchen stove
+Laundry-folding machine
+Lawn mower
+Riding mower
+Robotic lawn mower
+Leaf blower
+Lighter
+Mixer
+Oven
+Convection oven
+Microwave oven
+Pie iron
+Pressure cooker
+Refrigerator
+Crisper drawer
+smart
+Rice cooker
+Sewing machine
+Slow cooker
+Television set
+Toaster
+Vacuum cleaner
+central
+manual
+robotic
+Waffle iron
+Water dispenser
+Washing machine
+Washer-dryer
+See also
+Appliance plug
+Appliance recycling
+
+vteMobile robots and uncrewed vehiclesAerial
+Unmanned aerial vehicle (UAV)
+Unmanned combat air vehicle (UCAV)
+Aerobot
+Helicam
+List of unmanned aerial vehicle applications
+Ornithopter
+GroundWalking
+Humanoid
+Android
+Hexapod
+list
+Other
+Unmanned ground vehicle (UGV)
+Automated guided vehicle (AGV)
+Self-driving car
+Automatic train operation (ATO)
+list
+Underwater
+Unmanned underwater vehicle (UUV)
+Autonomous underwater vehicle (AUV)
+Intervention AUV (I-AUV)
+Remotely operated underwater vehicle (ROUV)
+Underwater glider
+Surface
+Unmanned surface vehicle (USV)
+Space
+Uncrewed spacecraft
+list of probes
+list by program
+list of orbiters
+Cargo spacecraft
+spaceflights to the ISS
+Space telescope
+list
+Other
+Domestic
+Military
+Rescue
+Medical
+Disability
+Agricultural
+BEAM robotics
+Microbotics
+Nanorobotics
+Robotics
+Robot locomotion
+Autonomous robot
+Autonomous logistics
+Radio-controlled model
+Remote control vehicle
+Remote control animal
+
+Categories
+Radio control
+Unmanned vehicles
+
+vteRoboticsMain articles
+Outline
+Glossary
+Index
+History
+Geography
+Hall of Fame
+Ethics
+Laws
+Competitions
+AI competitions
+Types
+Aerobot
+Anthropomorphic
+Humanoid
+Android
+Cyborg
+Gynoid
+Claytronics
+Companion
+Automaton
+Animatronic
+Audio-Animatronics
+Industrial
+Articulated
+arm
+Domestic
+Educational
+Entertainment
+Juggling
+Military
+Medical
+Service
+Disability
+Agricultural
+Food service
+Retail
+BEAM robotics
+Soft robotics
+Classifications
+Biorobotics
+Cloud robotics
+Continuum robot
+Unmanned vehicle
+aerial
+ground
+Mobile robot
+Microbotics
+Nanorobotics
+Necrobotics
+Robotic spacecraft
+Space probe
+Swarm
+Telerobotics
+Underwater
+remotely-operated
+Robotic fish
+Locomotion
+Tracks
+Walking
+Hexapod
+Climbing
+Electric unicycle
+Robotic fins
+Navigation and mapping
+Motion planning
+Simultaneous localization and mapping
+Visual odometry
+Vision-guided robot systems
+Research
+Evolutionary
+Kits
+Simulator
+Suite
+Open-source
+Software
+Adaptable
+Developmental
+Human–robot interaction
+Paradigms
+Perceptual
+Situated
+Ubiquitous
+Companies
+ABB
+Amazon Robotics
+Anybots
+Barrett Technology
+Boston Dynamics
+Doosan Robotics
+Energid Technologies
+FarmWise
+FANUC
+Figure AI
+Foster-Miller
+Harvest Automation
+HD Hyundai Robotics
+Honeybee Robotics
+Intuitive Surgical
+IRobot
+KUKA
+Rainbow Robotics
+Starship Technologies
+Symbotic
+Universal Robotics
+Wolf Robotics
+Yaskawa
+Related
+Critique of work
+Powered exoskeleton
+Workplace robotics safety
+Robotic tech vest
+Technological unemployment
+Terrainability
+Fictional robots
+
+ Category
+ Outline
+
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Domestic_robot&oldid=1286956511"
+Categories: Domestic robotsBioroboticsHome appliancesHome automation20th-century inventionsHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from March 2022Articles with permanently dead external linksArticles with short descriptionShort description matches WikidataArticles needing additional references from May 2008All articles needing additional referencesWikipedia articles in need of updating from October 2024All Wikipedia articles in need of updatingArticles to be expanded from November 2018All articles to be expandedCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 23 April 2025, at 02:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Domestic robot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

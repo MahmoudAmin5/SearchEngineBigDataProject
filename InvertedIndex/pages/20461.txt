@@ -1,0 +1,606 @@
+https://en.wikipedia.org/wiki/Digital_signal_(signal_processing)
+
+
+
+
+Digital signal (signal processing) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital signal (signal processing)
+
+
+
+2 languages
+
+
+
+
+МакедонскиУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Signal with discrete values in time and amplitude
+For logic signals, see Digital signal.
+The red digital signal is the sampled and quantized representation of the gray analog signal. A digital signal consists of a sequence of samples, which in this case are integers: 4, 5, 4, 3, 4, 6...
+In the context of digital signal processing (DSP), a digital signal is a discrete time, quantized amplitude signal. In other words, it is a sampled signal consisting of samples that take on values from a discrete set (a countable set that can be mapped one-to-one to a subset of integers). If that discrete set is finite, the discrete values can be represented with digital words of a finite width. Most commonly, these discrete values are represented as fixed-point words (either proportional to the waveform values or companded) or floating-point words.[1][2][3][4][5]
+
+Discrete cosine waveform with a frequency of 50 Hz and a sampling rate of 1000 samples/sec, efficiently satisfying the sampling theorem for the reconstruction of the original cosine function from samples. (The effects of quantization are too subtle to be seen in this graph.)
+The process of analog-to-digital conversion produces a digital signal.[6] The conversion process can be thought of as occurring in two steps:
+
+sampling, which produces a continuous-valued discrete-time signal, and
+quantization, which replaces each sample value with an approximation selected from a given discrete set (for example, by truncating or rounding).
+An analog signal can be reconstructed after conversion to digital (down to the precision afforded by the quantization used), provided that the signal has negligible power in frequencies above the Nyquist limit and does not saturate the quantizer.
+Common practical digital signals are represented as 8-bit (256 levels), 16-bit (65,536 levels), 24-bit (16.8 million levels), and 32-bit (4.3 billion levels) using pulse-code modulation where the number of quantization levels is not necessarily limited to powers of two. A floating point representation is used in many DSP applications.
+
+References[edit]
+
+
+^ Smith, Steven W. (2002-11-06). "3". Digital Signal Processing: A Practical Guide for Engineers and Scientists. Demystifying Technology. Vol. 1 (1 ed.). Newnes. pp. 35–39. ISBN 075067444X.
+
+^ Harris, Frederic J. (2004-05-24). "1.1". Multirate Signal Processing for Communication Systems. Upper Saddle River, NJ: Prentice Hall PTR. p. 2. ISBN 0131465112.
+
+^ Vaseghi, Saeed V. (2009-03-02). "1.4". Advanced Digital Signal Processing and Noise Reduction (4 ed.). Chichester, West Suffix, United Kingdom: John Wiley & Sons. p. 23. ISBN 978-0470754061.
+
+^ Diniz, Paulo S. R.; Eduardo A. B. da Silva; Sergio L. Netto (2010-09-13). "1.1". Digital Signal Processing: System Analysis and Design (2 ed.). New York & UK: Cambridge University Press. p. 5. ISBN 978-0521887755.
+
+^ Manolakis, Dimitris G.; Vinay K. Ingle (2011-11-21). "1.1.1". Applied Digital Signal Processing: Theory and Practice. Cambridge, UK: Cambridge University Press. p. 5. ISBN 978-0521110020.
+
+^ Ingle, Vinay K.; John G. Proakis (2011-01-01). "1.1". Digital Signal Processing Using MATLAB (3 ed.). Stamford, CT: CL Engineering. p. 3. ISBN 978-1111427375.
+
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_signal_(signal_processing)&oldid=1239307229"
+Category: Digital signal processingHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 8 August 2024, at 15:01 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital signal (signal processing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

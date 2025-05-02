@@ -1,0 +1,626 @@
+https://en.wikipedia.org/wiki/TRASK_(computer)
+
+
+
+
+TRASK (computer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Operating principle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+TRASK (computer)
+
+
+
+1 language
+
+
+
+
+Svenska
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+TRASK Transistorized sequence calculator
+Trask or TRASK (TRAnsistorized Sequence Calculator) was a semiconductor based computer that begun development by the Swedish Board for Computing Machinery from 1960 and that went into use in 1965.
+
+History[edit]
+Swedish Board for Computing Machinery that had developed BESK began in 1960 the work to develop a new semiconductor based computer.  The plan was to create a faster machine with the experiences from BESK as a foundation but built using semiconductors that since the invention of the transistor in 1947 had become useful for this purpose.  When the Swedish Board for Computing Machinery were dissolved in 1963, the development were half ways and the project was overtaken by the Nobelinstitutet för fysik in cooperation with AB Datasystem, Gunnar Hellström and the designer Zoltan Horvath.  TRASK went into service in 1965 and were used until 1980 when it was donated to the Swedish National Museum of Science and Technology where it were rebuilt and was put into operation for demonstrations.
+
+Operating principle[edit]
+TRASK is a fully transistorized mainframe intended for scientific calculations.  It consists of central units in cabinets, two Facit ECM-64 carousel memories, Ampex memory unit (in a 19-inch rack, standing on top of the cabinets), paper tape readers, paper tape puncher, typewriter, maneuver panel and a desk.
+Input- and output units were:
+
+Paper tape reader (in) 500-1000 characters/second. 5-8 channel strip
+Magnetic tape (in and out)
+Typewriter (out) circa 10 characters/second
+Paper tape puncher (out) circa 150 characters/second
+Teleprinter (out) 11 rows/second, 160 characters/row
+Control panel (in and out)
+
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=TRASK_(computer)&oldid=1220922356"
+Categories: Information technology in SwedenSwedish inventions
+
+
+
+
+
+
+ This page was last edited on 26 April 2024, at 19:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+TRASK (computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 language
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

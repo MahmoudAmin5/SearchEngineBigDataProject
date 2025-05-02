@@ -1,0 +1,783 @@
+https://en.wikipedia.org/wiki/Rugged_computer
+
+
+
+
+Rugged computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Construction
+
+
+
+
+
+
+
+
+2
+Laptops
+
+
+
+
+
+
+
+
+3
+Tablets
+
+
+
+
+
+
+
+
+4
+Smartphones
+
+
+
+
+
+
+
+
+5
+Standards
+
+
+
+
+
+
+
+
+6
+Wireless connectivity
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Rugged computer
+
+
+
+11 languages
+
+
+
+
+العربيةБеларуская (тарашкевіца)EestiEspañolفارسی한국어日本語РусскийSuomiSvenskaУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer designed for harsh environments
+A rugged computer or ruggedized computer is a computer specifically designed to operate reliably in harsh usage environments and conditions, such as strong vibrations, extreme temperatures and wet or dusty conditions.[1] They are designed from inception for the type of rough use typified by these conditions, not just in the external housing but in the internal components and cooling arrangements as well.[2]
+Typical environments for rugged laptops, tablet PCs and PDAs are public safety, field sales, field service, manufacturing, retail, healthcare,[3] construction, transportation/distribution[4] and the military. They are used in the agricultural industries, and by individuals for outdoor recreation activities.
+
+
+Construction[edit]
+Virtually all rugged computers share an underlying design philosophy of providing a controlled environment for the installed electronics. Rugged computers are engineered to operate in the face of multiple challenges including:
+
+Shock and vibration
+Temperature and humidity
+Corrosion and abrasion
+Minimal size, weight, and power (SWaP)
+Acoustic noise reduction
+Low pressure/altitude
+Ingress protection
+Electromagnetic interference
+Optimizations on performance
+Example of a MIL-STD-810 Certified, 1U Rugged Computer
+Electronic components themselves may be selected for their ability to withstand higher and lower operating temperatures than typical commercial components.  Design engineering decisions such as reduction of cabling, addition of liquid cooling and heat sinks,  and rugged materials, are made to ensure performance in harsh environments.
+Features include fully sealed keyboards to protect against intrusion by dust or liquids, and scratch-resistant screens that are readable in direct sunlight.[5]
+Rugged units have higher prices.  However, one research study found that in environments where rugged computers are commonly used, total cost of ownership was 36% lower for rugged notebooks and 33% less for handhelds and PDAs, compared to conventional non-rugged versions. The lower overall cost is due to lower failure rates, the related impact on productivity, and other factors.[6]
+
+Laptops[edit]
+A ruggedized or rugged laptop is built to operate reliably in dusty or wet environments and conditions. These computers have a thicker and stronger housing than a regular laptop, and are mainly used for industrial, construction and military purposes. Engineered to be mobile, they are vibration, shock, drop, and dust resistant, and waterproof, yet are able to comply with other important requirements such as high performance and governmental grade security. They are equipped with both current and legacy I/O ports including serial, ExpressCard, PCMCIA, VGA, and others that are commonly used in outdoor environments. The levels of ruggedization are not standardized, but they are measured by various certifications such as MIL-STD-810, IP, or ATEX.
+
+Tablets[edit]
+A rugged computing tablet
+A rugged tablet may be semi-rugged or fully rugged. The semi-rugged might have a protective case, rain-resistant body. Fully rugged tablets are engineered from the inside-out to work in extreme temperatures and other harsh conditions. They are designed to resist drops, shocks and vibrations while maintaining strength to be dust- and waterproof. A tablet has internally a solid-state drive and no moving parts. Unlike many laptops, most tablets do not require a fan, improving their dust and water resistance. Many rugged ones have options such as a barcode scanner because they serve in the logistics and transport sector. Levels of ruggedization are measured by various certifications such as IP, MIL-STD-810 or ATEX.
+
+Smartphones[edit]
+A rugged and waterproof smartphone
+A rugged smartphone has a thicker and completely sealed housing which protects it against all kinds of elements such as water, dust, shock and vibration.  This kind of smartphone can be left out in a sandstorm, frozen in a blizzard or go underwater.  A true fully rugged smartphone is substantially less susceptible to damage than a non-rugged smartphone.  Like a rugged tablet, it typically meets IP certification and military standard specifications for dust, shock, vibration, rain, humidity, solar radiation, altitude and temperature extremes.  Only a few manufacturers  make a rugged smartphone due to its complicated structure, different use of material and high level of quality expectation. [7]
+Some rugged smartphones have Push-to-Talk (PTT) capabilities, NFC and barcode reader functions which suit their use for industrial and construction logistics.
+
+Standards[edit]
+MIL-STD-810: Specifically MIL-STD-810G CN1 (2014), a military standard, issued in 1962, which establishes a set of tests for determining equipment suitability to military operations. Often used as a reference in the commercial laptop industry.
+MIL-STD-461: A United States Military Standard that describes how to test equipment for electromagnetic compatibility.
+MIL-S-901: a military standard for shock which applies to equipment mounted on ships. Two levels apply. Grade A items are items which are essential to the safety and continued combat capability of the ship. Grade B items are items whose operation is not essential to the safety and combat capability of the ship but which could become a hazard to personnel, to Grade A items, or to the ship as a whole as a result of exposure to shock.[8] Qualification testing is performed on a barge floating in a pond where TNT is detonated at various distances and depths in the pond to impart shock to the barges.
+IEEE 1156.1-1993 IEEE Standard Microcomputer Environmental Specifications for Computer Modules
+IEEE 1613: Computers in electrical substations used to concentrate data or communicate with SCADA systems follow IEEE 1613 "Standard Environmental and Testing Requirements for Communications Networking Devices in Electric Power Substations."
+IP (Ingress Protection): see: IP code
+IS (Intrinsic Safety): see: Intrinsic safety
+TEMPEST: see: Tempest (codename)
+ATEX (Potentially Explosive Atmospheres): see: Equipment and protective systems intended for use in potentially explosive atmospheres
+NEMA (National Electrical Manufacturers Association)
+IK code (also known as EN50102) see: EN 50102
+European standard EN 50155, "Railway Applications—Electronic Equipment Used On Rolling Stock", provides an example of a tough non-military specification. It extends operating temperature range (−25 – +70 °C), resistance to humidity, shocks, vibrations, radiation – encountered in vehicle or airborne installations.
+Rugged computer in Hi-Tech Expo. Mianyang, China
+Wireless connectivity[edit]
+Wireless capability is a key requirement for most enterprise mobility applications, and it has been reported that wireless-transmission failure rates are three times higher for non-rugged notebooks compared to rugged units.[dubious – discuss] This difference is attributed to the greater experience of rugged-notebook vendors at integrating multiple radios into their products. Each transmission failure leads to five to ten minutes in lost productivity as the user has to re-login to the company network through a VPN.[6][failed verification]
+Since enterprises are turning to cellular networks to enable full-time connectivity for their users,[9] major vendors of rugged computers offer both built-in wireless LAN and wireless WAN capabilities,[6][10][11][12] and partner with cellular carriers, such as Verizon and AT&T, as part of their offerings.[13][14] During the handoff between the various wireless LAN and wireless WAN connections, a mobile VPN allows the connection to persist, creating an always-connected infrastructure that is simpler for the user and eliminates application crashes and data loss.[15]
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Rugged laptops.
+
+
+
+
+Look up rugged in Wiktionary, the free dictionary.
+
+Category:Avionics computers
+List of emerging technologies
+Industrial PC
+IP68
+Military computers
+MIL-STD-810
+Mobile computer
+Portable computer
+19-inch rack
+Toughbook
+Toughpad
+Rugged smartphone
+References[edit]
+
+
+^ "Rugged laptop computer for use in military ground vehicles and helicopters offered by General Dynamics Itronix - Military & Aerospace Electronics". Archived from the original on 2021-03-06. Retrieved 2011-06-10.
+
+^ What you need to know before purchasing a rugged mobile computer Archived 2011-10-14 at the Wayback Machine, LXE, 2004.
+
+^ "Rugged Tablets in Healthcare". 2022. Archived from the original on 2022-02-26.
+
+^ Supply Chain Management. Panasonic.com. Retrieved 10-2-2013.
+
+^ How ruggedness reduces TCO for mobile computers Archived 2011-12-08 at the Wayback Machine, VDC Research, 2009.
+
+^ a b c TCO Insights on Rugged Mobile Computers Archived 2013-08-24 at the Wayback Machine, VDC Research, 2007.
+
+^ "The Benefits Of Enabling Enterprise Mobility With Rugged Devices, 2017-10-16". Archived from the original on 2017-10-24. Retrieved 2017-10-24.
+
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2008-05-09. Retrieved 2008-05-09.{{cite web}}:  CS1 maint: archived copy as title (link)
+
+^ Next Generation Rugged Handheld Device Requirements Archived 2011-12-08 at the Wayback Machine, VDC Research, 2011.
+
+^ Rugged Laptops - Toughbook Mobile Computer Product Comparison
+
+^ Wireless Technical Info - Official Panasonic Toughbook Computers
+
+^ Rugged Notebook Computers with Integrated Wireless and GPS from General Dynamics Itronix, "Wireless Capability by Product" Archived 2013-12-24 at the Wayback Machine 
+
+^ Wireless Computer Partners - Official Panasonic Toughbook Computers
+
+^ General Dynamics Itronix Wireless Activation Capabilities Archived 2013-12-24 at the Wayback Machine 
+
+^ General Dynamics Itronix Mobility XE Overview Page Archived 2011-09-26 at the Wayback Machine 
+
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Rugged_computer&oldid=1278171271"
+Category: Classes of computersHidden categories: Webarchive template wayback linksCS1 maint: archived copy as titleArticles with short descriptionShort description is different from WikidataAll accuracy disputesArticles with disputed statements from January 2020All articles with failed verificationArticles with failed verification from January 2020Commons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 28 February 2025, at 21:48 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Rugged computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

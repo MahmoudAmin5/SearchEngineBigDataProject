@@ -1,0 +1,1486 @@
+https://en.wikipedia.org/wiki/Package_management_system
+
+
+
+
+Package manager - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Functions
+
+
+
+
+Toggle Functions subsection
+
+
+
+
+
+2.1
+Challenges with shared libraries
+
+
+
+
+
+
+
+
+2.2
+Front-ends for locally compiled packages
+
+
+
+
+
+
+
+
+2.3
+Maintenance of configuration
+
+
+
+
+
+
+
+
+2.4
+Repositories
+
+
+
+
+
+
+
+
+2.5
+Upgrade suppression
+
+
+
+
+
+
+
+
+2.6
+Cascading package removal
+
+
+
+
+
+
+
+
+2.7
+Comparison of commands
+
+
+
+
+
+
+
+
+
+
+3
+Prevalence
+
+
+
+
+
+
+
+
+4
+Comparison with installers
+
+
+
+
+
+
+
+
+5
+Comparison with build automation utility
+
+
+
+
+
+
+
+
+6
+Comparison with app stores
+
+
+
+
+
+
+
+
+7
+Common package managers and formats
+
+
+
+
+Toggle Common package managers and formats subsection
+
+
+
+
+
+7.1
+Universal package manager
+
+
+
+
+
+
+
+
+7.2
+Package formats
+
+
+
+
+
+
+
+
+7.3
+Free and open source software systems
+
+
+
+
+
+
+
+
+7.4
+Application-level package managers
+
+
+
+
+
+
+
+
+7.5
+Data Dependency Management
+
+
+
+
+
+
+
+
+
+
+8
+Impact
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Package manager
+
+
+
+33 languages
+
+
+
+
+العربيةAzərbaycancaবাংলাБългарскиCatalàČeštinaDeutschEspañolفارسیFrançais한국어Bahasa IndonesiaItalianoעבריתMagyarNederlands日本語Norsk bokmålپنجابیPolskiPortuguêsRomânăРусскийSimple EnglishSuomiSvenskaதமிழ்TürkçeУкраїнськаاردوTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Package management system)
+Software tools for handling softwares packages
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Package manager" – news · newspapers · books · scholar · JSTOR (December 2022) (Learn how and when to remove this message)
+
+
+Synaptic, an example of a package manager
+A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer in a consistent manner.[1]
+A package manager deals with packages, distributions of software and data in archive files. Packages contain metadata, such as the software's name, description of its purpose, version number, vendor, checksum (preferably a cryptographic hash function), and a list of dependencies necessary for the software to run properly. Upon installation, metadata is stored in a local package database. Package managers typically maintain a database of software dependencies and version information to prevent software mismatches and missing prerequisites. They work closely with software repositories, binary repository managers, and app stores.
+Package managers are designed to eliminate the need for manual installs and updates. This can be particularly useful for large enterprises whose operating systems typically consist of hundreds or even tens of thousands of distinct software packages.[2]
+
+
+History[edit]
+An early package manager was SMIT (and its backend installp) from IBM AIX. SMIT was introduced with AIX 3.0 in 1989.[citation needed]
+Early package managers, from around 1994, had no automatic dependency resolution[3] but could already drastically simplify the process of adding and removing software from a running system.[4]
+By around 1995, beginning with CPAN, package managers began doing the work of downloading packages from a repository, automatically resolving its dependencies and installing them as needed, making it much easier to install, uninstall and update software from a system.[5]
+
+Functions[edit]
+Illustration of a package manager being used to download new software. Manual actions can include accepting a license agreement or selecting some package-specific configuration options.
+A software package is an archive file containing a computer program as well as necessary metadata for its deployment. The computer program can be in source code that has to be compiled and built first.[6] Package metadata include package description, package version, and dependencies (other packages that need to be installed beforehand).
+Package managers are charged with the task of finding, installing, maintaining or uninstalling software packages upon the user's command. Typical functions of a package management system include:
+
+Working with file archivers to extract package archives
+Ensuring the integrity and authenticity of the package by verifying their checksums and digital certificates, respectively
+Looking up, downloading, installing, or updating existing software from a software repository or app store
+Grouping packages by function to reduce user confusion
+Managing dependencies to ensure a package is installed with all packages it requires, thus avoiding "dependency hell"
+Challenges with shared libraries[edit]
+Computer systems that rely on dynamic library linking, instead of static library linking, share executable libraries of machine instructions across packages and applications. In these systems, conflicting relationships between different packages requiring different versions of libraries results in a challenge colloquially known as "dependency hell". On Microsoft Windows systems, this is also called "DLL hell" when working with dynamically linked libraries.[7]
+Modern package managers have mostly solved these problems, by allowing parallel installation of multiple versions of a library (e.g. OPENSTEP's Framework system), a dependency of any kind (e.g. slots in Gentoo Portage), and even of packages compiled with different compiler versions (e.g. dynamic libraries built by the Glasgow Haskell Compiler, where a stable ABI does not exist), in order to enable other packages to specify which version they were linked or even installed against.
+
+Front-ends for locally compiled packages[edit]
+System administrators may install and maintain software using tools other than package management software. For example, a local administrator may download unpackaged source code, compile it, and install it. This may cause the state of the local system to fall out of synchronization with the state of the package manager's database. The local administrator will be required to take additional measures, such as manually managing some dependencies or integrating the changes into the package manager.
+There are tools available to ensure that locally compiled packages are integrated with the package management. For distributions based on .deb and .rpm files as well as Slackware Linux, there is CheckInstall, and for recipe-based systems such as Gentoo Linux and hybrid systems such as Arch Linux, it is possible to write a recipe first, which then ensures that the package fits into the local package database.[citation needed]
+
+Maintenance of configuration[edit]
+Particularly troublesome with software upgrades are upgrades of configuration files. Since package managers, at least on Unix systems, originated as extensions of file archiving utilities, they can usually only either overwrite or retain configuration files, rather than applying rules to them. There are exceptions to this that usually apply to kernel configuration (which, if broken, will render the computer unusable after a restart). Problems can be caused if the format of configuration files changes; for instance, if the old configuration file does not explicitly disable new options that should be disabled. Some package managers, such as Debian's dpkg, allow configuration during installation. In other situations, it is desirable to install packages with the default configuration and then overwrite this configuration, for instance, in headless installations to a large number of computers. This kind of pre-configured installation is also supported by dpkg.
+
+Repositories[edit]
+To give users more control over the kinds of software that they are allowing to be installed on their system (and sometimes due to legal or convenience reasons on the distributors' side), software is often downloaded from a number of software repositories.[8]
+
+Upgrade suppression[edit]
+When a user interacts with the package management software to bring about an upgrade, it is customary to present the user with the list of actions to be executed (usually the list of packages to be upgraded, and possibly giving the old and new version numbers), and allow the user to either accept the upgrade in bulk, or select individual packages for upgrades. Many package managers can be configured to never upgrade certain packages, or to upgrade them only when critical vulnerabilities or instabilities are found in the previous version, as defined by the packager of the software. This process is sometimes called version pinning.
+For instance:
+
+yum supports this with the syntax exclude=openoffice*[9]
+pacman with IgnorePkg= openoffice[10] (to suppress upgrading openoffice in both cases)
+dpkg and dselect support this partially through the hold flag in package selections
+APT extends the hold flag through the complex "pinning" mechanism[11] (Users can also blacklist a package[12])
+aptitude has "hold" and "forbid" flags
+portage supports this through the package.mask configuration file
+Cascading package removal[edit]
+Some of the more advanced package management features offer "cascading package removal",[10] in which all packages that depend on the target package and all packages that only the target package depends on, are also removed.
+
+Comparison of commands[edit]
+Although the commands are specific for every particular package manager, they are to a large extent translatable, as most package managers offer similar functions.
+
+
+
+${PKG} or %PKG% is the package name.
+
+
+Action
+
+Homebrew
+
+apt
+
+pacman
+
+dnf (yum)
+
+portage
+zypper[13]
+
+Nix
+
+xbps[14]
+
+swupd[15]
+
+WinGet
+
+
+Install package
+
+brew install ${PKG}
+
+apt install ${PKG}
+
+pacman -S ${PKG}
+
+dnf install ${PKG}
+
+emerge ${PKG}
+
+zypper in ${PKG}
+
+nix-env -i ${PKG}
+
+xbps-install ${PKG}
+
+swupd bundle-add ${PKG}
+
+winget install %PKG%
+
+
+Remove package
+
+brew uninstall ${PKG}
+
+apt remove ${PKG}
+
+pacman -R ${PKG}
+
+dnf remove --nodeps ${PKG}
+
+emerge -C ${PKG} or emerge --unmerge ${PKG}
+
+zypper rm -RU ${PKG}
+
+nix-env -e ${PKG}
+
+xbps-remove ${PKG}
+
+swupd bundle-remove ${PKG}
+
+winget uninstall %PKG%
+
+
+Update all
+
+brew upgrade
+
+apt upgrade
+
+pacman -Syu
+
+dnf update
+
+emerge -u -D --with-bdeps=y @world
+
+zypper up
+
+nix-env -u && nix-collect-garbage
+
+xbps-install -Su
+
+swupd update
+
+winget upgrade --all
+
+
+Update software database
+
+brew update
+
+apt update
+
+pacman -Sy
+
+dnf check-update
+
+emerge --sync
+
+zypper ref
+
+nix-channel --upgrade
+
+xbps-install -S
+
+swupd update --download or swupd update --update-search-file-index
+
+winget list > NUL
+
+
+Show updatable packages
+
+brew outdated
+
+apt list --upgradable
+
+pacman -Qu
+
+dnf check-update
+
+emerge -avtuDN --with-bdeps=y @world or emerge -u --pretend @world(-D is shorthand for --deep and-u is shorthand for --update.)
+
+zypper lu
+
+nix-channel --upgrade && \
+nix-env -u && \
+nix-collect-garbage
+
+
+./xbps-src update-check ${PKG}(requires void-packages repository)
+
+swupd update -s or swupd check-update
+
+winget upgrade
+
+
+Delete orphans and config
+
+brew autoremove && brew cleanup
+
+apt autoremove
+
+pacman -Rsn $(pacman -Qdtq)
+
+dnf erase ${PKG}
+
+emerge --depclean
+
+zypper rm -u
+
+nix-collect-garbage -d
+
+xbps-remove -of
+
+swupd bundle-remove --orphans && \
+swupd clean --all
+
+
+—
+
+
+Show orphans
+
+brew autoremove --dry-run
+
+—
+
+pacman -Qdt
+
+package-cleanup -q --leaves --exclude-bin(-q is shorthand for --quiet.)
+
+emerge -caD or emerge --depclean --pretend
+
+zypper pa --orphaned --unneeded
+
+—
+
+xbps-remove -o
+
+swupd bundle-list --orphans
+
+—
+
+
+Remove package (and orphans)
+
+brew uninstall ${PKG} && brew autoremove
+
+
+apt autoremove ${PKG}
+
+pacman -Rs ${PKG}
+
+dnf remove ${PKG}
+
+emerge -c ${PKG} or emerge --depclean ${PKG}
+
+zypper rm -u --force-resolution ${PKG}
+
+nix-env -e ${PKG} && nix-env -u
+
+xbps-remove -R ${PKG}
+
+swupd bundle-remove ${PKG} && \
+swupd bundle-remove --orphans
+
+
+winget uninstall %PKG%
+
+
+The Arch Linux Pacman/Rosetta wiki offers an extensive overview.[16]
+
+Prevalence[edit]
+Package managers like dpkg have existed as early as 1994.[17]
+Linux distributions oriented to binary packages rely heavily on package management systems as their primary means of managing and maintaining software. Mobile operating systems such as Android (Linux-based) and iOS (Unix-based) rely almost exclusively on their respective vendors' app stores and thus use their own dedicated package management systems.
+
+
+
+
+apt-get, a CLI utility installing MediaWiki
+
+
+
+Aptitude also features a TUI.
+
+
+
+Synaptic, a GUI for many Linux package managers
+
+
+
+pacman, a CLI utility for Arch-based distributions
+
+
+
+Octopi, a Qt GUI for Pacman package manager
+
+
+
+Pamac, a GTK+ GUI for Pacman package manager
+
+
+
+Apper, a Qt GUI for PackageKit
+
+
+
+GNOME Software, a GTK GUI for PackageKit and Flatpak
+
+
+
+winget, the Windows Package Manager CLI utility for Windows 10
+
+
+Comparison with installers[edit]
+A package manager is often called an "install manager", which can lead to a confusion between package managers and installers. The differences include:
+
+This box:  viewtalkedit
+
+
+Criterion
+
+Package manager
+
+Installer
+
+
+Shipped with
+
+Usually, the operating system
+
+Each computer program
+
+
+Location of installation information
+
+One central installation database
+
+It is entirely at the discretion of the installer. It could be a file within the app's folder, or among the operating system's files and folders. At best, they may register themselves with an uninstallers list without exposing installation information.
+
+
+Scope of maintenance
+
+Potentially all packages on the system
+
+Only the product with which it was bundled
+
+
+Developed by
+
+One package manager vendor
+
+Multiple installer vendors
+
+
+Package format
+
+A handful of well-known formats
+
+There could be as many formats as the number of apps
+
+
+Package format compatibility
+
+Can be consumed as long as the package manager supports it. Either newer versions of the package manager keep supporting it or the user does not upgrade the package manager.
+
+The installer is always compatible with its archive format, if it uses any. However, installers, like all computer programs, may be affected by software rot.
+
+Comparison with build automation utility[edit]
+Most software configuration management systems treat building software and deploying software as separate, independent steps.
+A build automation utility typically takes human-readable source code files already on a computer, and automates the process of converting them into a binary executable package on the same or remote computer.
+Later a package manager typically running on some other computer downloads those pre-built binary executable packages over the internet and installs them.
+However, both kinds of tools have many commonalities:
+
+The dependency graph topological sorting used in a package manager to handle dependencies between binary components is also used in a build manager to handle the dependency between source components.
+Many makefiles support not only building executables, but also installing them with make install.
+Every package manager for a source-based distribution – Portage, Sorcery, Homebrew, etc. – supports converting human-readable source code to binary executables and installing it.
+A few tools, such as Maak and A-A-P, are designed to handle both building and deployment, and can be used as either a build automation utility or as a package manager or both.[18]
+
+Comparison with app stores[edit]
+App stores can also be considered application-level package managers (without the ability to install all levels of programs[19][20]). Unlike traditional package managers, app stores are designed to enable payment for the software itself (instead of for software development), and may only offer monolithic packages with no dependencies or dependency resolution.[21][20] They are usually extremely limited in their management functionality, due to a strong focus on simplification over power or emergence, and common in commercial operating systems and locked-down “smart” devices.
+Package managers also often have only human-reviewed code. Many app stores, such as Google Play and Apple's App Store, screen apps mostly using automated tools only; malware with defeat devices can pass these tests, by detecting when the software is being automatically tested and delaying malicious activity.[22][23][24] There are, however, exceptions; the npm package database, for instance, relies entirely on post-publication review of its code,[25][26] while the Debian package database has an extensive human review process before any package goes into the main stable database. The XZ Utils backdoor used years of trust-building to insert a backdoor, which was nonetheless caught while in the testing database.
+
+Common package managers and formats[edit]
+Universal package manager[edit]
+Also known as binary repository manager, it is a software tool designed to optimize the download and storage of binary files, artifacts and packages used and produced in the software development process.[27] These package managers aim to standardize the way enterprises treat all package types. They give users the ability to apply security and compliance metrics across all artifact types. Universal package managers have been referred to as being at the center of a DevOps toolchain.[28]
+
+Package formats[edit]
+Main articles: Package format and File archive
+Each package manager relies on the format and metadata of the packages it can manage. That is, package managers need groups of files to be bundled for the specific package manager along with appropriate metadata, such as dependencies. Often, a core set of utilities manages the basic installation from these packages and multiple package managers use these utilities to provide additional functionality.
+For example, yum relies on rpm as a backend. Yum extends the functionality of the backend by adding features such as simple configuration for maintaining a network of systems. As another example, the Synaptic Package Manager provides a graphical user interface by using the Advanced Packaging Tool (apt) library, which, in turn, relies on dpkg for core functionality.
+Alien is a program that converts between different Linux package formats, supporting conversion between Linux Standard Base (LSB) compliant .rpm packages, .deb, Stampede (.slp), Solaris (.pkg) and Slackware (.tgz, .txz, .tbz, .tlz) packages.
+In mobile operating systems, Google Play consumes Android application package (APK) package format while Microsoft Store uses APPX and XAP formats. (Both Google Play and Microsoft Store have eponymous package managers.)
+
+Free and open source software systems[edit]
+By the nature of free and open source software, packages under similar and compatible licenses are available for use on a number of operating systems. These packages can be combined and distributed using configurable and internally complex packaging systems to handle many permutations of software and manage version-specific dependencies and conflicts. Some packaging systems of free and open source software are also themselves released as free and open source software. One typical difference between package management in proprietary operating systems, such as Mac OS X and Windows, and those in free and open source software, such as Linux, is that free and open source software systems permit third-party packages to also be installed and upgraded through the same mechanism, whereas the package managers of Mac OS X and Windows will only upgrade software provided by Apple and Microsoft, respectively (with the exception of some third party drivers in Windows). The ability to continuously upgrade third-party software is typically added by adding the URL of the corresponding repository to the package management's configuration file.
+
+Application-level package managers[edit]
+See also: List of software package management systems § Application-level package managers
+Beside the system-level application managers, there are some add-on package managers for operating systems with limited capabilities and for programming languages in which developers need the latest libraries.
+Unlike system-level package managers, application-level package managers focus on a small part of the software system. They typically reside within a directory tree that is not maintained by the system-level package manager, such as c:\cygwin or /opt/sw.[29] However, this might not be the case for the package managers that deal with programming libraries, leading to a possible conflict as both package managers may claim to "own" a file and might break upgrades.
+
+Data Dependency Management[edit]
+In 2016, Edgard Marx, a computer scientist from Leipzig University, coined the term Data Dependency Management[30] to refer to the systems that deal with the management of data.
+Data Dependency Management systems are designed to facilitate the deployment and management of data on the cloud, personal computers, or smart devices (edge). Data Dependency Management frameworks can be used to describe how the data was conceived, licensing as well as its dependencies. The concept of data dependency management comes from software package dependency management tools such as npm for JavaScript, gem for Ruby, and NuGet for .NET. Their rationale is to allow users to manage the software dependency on data, such as machine learning models for data-driven applications. They are useful to publish, locate, and install data packages. A typical example of a data dependency management frameworks are Hugging Face, KBox,[31] among others.
+
+Impact[edit]
+Ian Murdock had commented that package management is "the single biggest advancement Linux has brought to the industry", that it blurs the boundaries between operating system and applications, and that it makes it "easier to push new innovations [...] into the marketplace and [...] evolve the OS".[32]
+There is also a conference for package manager developers known as PackagingCon. It was established in 2021 with the aim to understand different approaches to package management.[33]
+
+See also[edit]
+Application strings manager
+Dependency hell
+Installation (computer programs)
+List of software package management systems
+Manifest file
+Package format
+References[edit]
+
+
+^ "What is a package manager?". Archived from the original on 17 October 2017. Retrieved 19 December 2018.
+
+^ "Software Distribution". Dell KACE. Archived from the original on 3 October 2015. Retrieved 11 July 2012.
+
+^ "The history of *nix package management". 14 August 2017. Archived from the original on 24 October 2021. Retrieved 12 October 2021.
+
+^ "A review of InfoMagic's December 1994 Release". Archived from the original on 29 October 2021. Retrieved 12 October 2021.
+
+^ "The Timeline of Perl and its Culture". Archived from the original on 11 January 2013. Retrieved 29 October 2021.
+
+^ Ludovic Courtès, Functional Package Management with Guix Archived 15 May 2020 at the Wayback Machine, June 2013, Madrid, European Lisp Symposium 2013
+
+^ Tucker, Chris (15 March 2007). "OPIUM: Optimal Package Install/Uninstall Manager" (PDF). 29th International Conference on Software Engineering (ICSE'07). UC San Diego. p. 1. doi:10.1109/ICSE.2007.59. ISBN 978-0-7695-2828-1. S2CID 1279451. Archived (PDF) from the original on 14 June 2011. Retrieved 14 September 2011.
+
+^ "Linux repository classification schemes". braintickle.blogspot.com. 13 January 2006. Archived from the original on 11 October 2007. Retrieved 1 March 2008.
+
+^ "CentOS yum pinning rpms". centos.org. Archived from the original on 2 November 2007. Retrieved 1 March 2008.
+
+^ a b "pacman(8) Manual Page". archlinux.org. Archived from the original on 31 August 2019. Retrieved 1 March 2008.
+
+^ "How to keep specific versions of packages installed (complex)". debian.org. Archived from the original on 14 November 2019. Retrieved 1 March 2008.
+
+^ "Apt pinning to blacklist a package". Archived from the original on 22 July 2011. Retrieved 19 August 2010.
+
+^ "documentation/sles11". en.opensuse.org. Archived from the original on 1 December 2022. Retrieved 16 August 2017.
+
+^ "XBPS Package Manager - Void Linux Handbook". docs.voidlinux.org. Archived from the original on 23 January 2023. Retrieved 19 December 2022.
+
+^ "swupd-client/swupd.1.rst at master · clearlinux/swupd-client · GitHub". github.com. Archived from the original on 7 December 2022. Retrieved 22 June 2022.
+
+^ "Pacman/Rosetta – ArchWiki". wiki.archlinux.org. Archived from the original on 20 November 2016. Retrieved 17 September 2017.
+
+^ "dpkg version 0.93.15 source code". Archived from the original on 2 April 2015. Retrieved 19 December 2018.
+
+^ Eelco Dolstra, "Integrating Software Construction and Software Deployment" Archived 21 September 2019 at the Wayback Machine.
+
+^ "Brew is the macOS app store replacement you didn't know you needed". www.msn.com. Retrieved 25 May 2024.
+
+^ a b King, Bertel (17 March 2017). "Linux App Stores Compared: Which One Is Right for You?". MUO. Retrieved 25 May 2024.
+
+^ "What is a package manager?". www.debian.org.
+
+^ Barrett, Brian. "How 18 Malware Apps Snuck Into Apple's App Store". Wired.
+
+^ Whittaker, Zack (24 October 2019). "Millions downloaded dozens of Android apps from Google Play that were infected with adware". TechCrunch.
+
+^ Newman, Lily Hay. "Never Ever (Ever) Download Android Apps Outside of Google Play". Wired.
+
+^ Ojamaa, Andres; Duuna, Karl (2012). "Assessing the Security of Node.js Platform". 2012 International Conference for Internet Technology and Secured Transactions. IEEE. ISBN 978-1-4673-5325-0. Retrieved 22 July 2016.
+
+^ "npm Code of Conduct: acceptable package content". Retrieved 9 May 2017.
+
+^ Waters, John K. (8 September 2015). "JFrog Releases 'Universal' Artifact Repository". ADT Mag. Application Development Trends Magazine. Archived from the original on 2 March 2016. Retrieved 19 February 2016.
+
+^ Decoster, Xavier (18 August 2013). "An Overview of the NuGet Ecosystem". CodeProject.com. Archived from the original on 5 July 2020. Retrieved 6 February 2020.
+
+^ "Fink – Home". finkproject.org. Archived from the original on 18 August 2021. Retrieved 2 September 2021.
+
+^ "Data Dependency Management". github.com. Retrieved 13 July 2023.
+
+^ "KBox". IEEE: 125–132. January 2017. doi:10.1109/ICSC.2017.77. S2CID 14980310. Retrieved 13 July 2023.
+
+^ "How package management changed everything". ianmurdock.com. Archived from the original on 23 February 2009. Retrieved 1 March 2008.
+
+^ "PackagingCon 2021 – a conference for package manager developers and packagers". packaging-con.org. Archived from the original on 2 September 2021. Retrieved 2 September 2021.
+
+
+External links[edit]
+Package Management Cheatsheet from Distrowatch
+ArchLinux Rosetta Stone – Command Line Comparison for Package Managers
+upkg universal package manager a wrapper that provides same syntax for all flavors of Linux
+vtePackage managers (format)CompiledGaming console
+DSi Shop
+Nintendo eShop
+PlayStation Store
+Wii Shop Channel
+Xbox Games Store
+LinuxUnix-likedpkg
+APT
+aptitude
+dselect
+Synaptic
+Ubuntu Software Center
+Purely functional
+Nix
+Guix
+RPM
+YUM
+DNF
+APT-RPM
+up2date
+urpmi
+ZYpp
+tarball
+slapt-get
+slackpkg
+netpkg
+swaret
+Other
+AppImage
+Autopackage
+Flatpak
+Homebrew
+Horizon Store
+PackageKit
+pacman
+PBI
+PETget
+PISI
+Portage
+Snap
+Upkg
+pkgsrc
+Helm
+macOS
+Mac App Store
+Homebrew
+pkgsrc
+Munki
+z/OS
+SMP/E
+Mobile OS
+Amazon Appstore
+App Store
+Aptoide
+Cafe Bazaar
+Cydia
+F-Droid
+GetJar
+Google Play
+Huawei AppGallery
+Microsoft Store
+RPM
+SlideME
+Windows Phone Store
+Multi-platform
+OpenPKG
+pkgsrc
+Solaris • illumos
+IPS
+OpenCSW
+pkgsrc
+Web browsers
+Chrome Web Store
+Mozilla Add-ons
+Windows
+Allmyapps
+Cygwin
+Microsoft Store
+Npackd
+NSIS
+NuGet
+Chocolatey
+ProGet
+Scoop
+Windows Package Manager
+wpkg
+UncompiledBSD
+ports collection
+FreeBSD Ports
+pkgsrc
+C++
+Gradle
+vcpkg
+Java
+Maven
+Ivy
+Gradle
+JavaScript
+npm
+Kubernetes
+Helm
+Linux
+ABS
+apt-build
+Compile
+Portage
+Sorcery
+BitBake
+pkgsrc
+macOS
+Fink
+MacPorts
+pkgsrc
+.NET
+NuGet
+Perl
+CPAN
+PHP
+PEAR
+Composer
+Python
+PyPI
+pip
+PyPM
+Anaconda
+Enthought Canopy
+Ruby
+RubyGems
+Rust
+Cargo
+Scala
+sbt
+
+ List
+ Category
+ Commons
+
+vteSoftware digital distribution platforms
+App store
+Cloud gaming
+Content delivery network
+Digital library
+Digital distribution of video games
+Over-the-air update
+Package manager
+Software distribution
+List of mobile app distribution platforms
+Android
+ActivePersonal  computers
+Amazon Digital Game Store
+Battle.net
+Big Fish Games
+Chrome Web Store
+Direct2Drive
+Discord
+DLsite
+Discover
+DMM Games
+EA
+Epic Games Store
+Flathub
+GameHouse
+GamersGate
+Gamesplanet
+Game Jolt
+GOG.com
+Humble Store
+IndieGala
+itch.io
+MacGameStore
+MacUpdate
+Mac App Store
+Meta Horizon Store
+Microsoft Store
+MSN Games
+Nutaku
+Pogo.com
+Pokki
+PureOS Software Center
+Robot Cache
+Rockstar Games Social Club
+Snap Store
+Steam
+Ubisoft Connect
+Viveport
+WeGame
+WildTangent
+Consoles
+Microsoft Store
+Nintendo eShop
+PlayStation Store
+Mobile  devices §
+Amazon Appstore
+Apple App Store
+Appland
+Aptoide
+Cafe Bazaar
+Cydia
+DLsite
+Epic Games Store
+F-Droid
+Galaxy Store
+GetJar
+Google Play
+Huawei AppGallery
+Meta Horizon Store
+MiKandi
+Nutaku
+OpenStore
+PureOS Software Center
+Tencent Appstore
+SlideME
+TapTap
+Viveport
+Arcade
+NESiCAxLive
+Defunct
+Allmyapps
+BlackBerry World
+Club Nokia
+Desura
+Digital River
+Download!
+GameAgent
+GameShadow
+GameTap
+Games for Windows Marketplace
+Handango
+Impulse
+Intel AppUp
+Kartridge
+Kazaa
+N-Gage
+Nokia Store
+Opera Mobile Store
+Playism
+PlayNow Arena
+RealArcade
+Stardock Central
+Triton
+Ubuntu App Store
+Ubuntu Software Center
+Vodafone live!
+Wii Shop Channel
+Windows Marketplace
+Windows Marketplace for Mobile
+Windows Phone Store
+Xbox Games Store
+Xbox Live Arcade
+Yahoo! Games
+Zune Marketplace
+
+§ Also includes Smart TVs and standalone VR headsets 
+ Category
+ Portal
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Package_manager&oldid=1280378374"
+Categories: Package management systemsSoftware distributionTypes of tools used in software developmentHidden categories: Webarchive template wayback linksCS1: unfit URLArticles with short descriptionShort description is different from WikidataArticles needing additional references from December 2022All articles needing additional referencesUse dmy dates from June 2022All articles with unsourced statementsArticles with unsourced statements from July 2007
+
+
+
+
+
+
+ This page was last edited on 14 March 2025, at 07:35 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Package manager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

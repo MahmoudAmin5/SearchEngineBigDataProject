@@ -1,0 +1,131 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_utilities_padding_hor
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+  w3-padding-16
+  I have 16px top and bottom padding
+
+
+
+  w3-padding-24
+  I have 24px top and bottom padding
+
+
+
+  w3-padding-32
+  I have 32px top and bottom padding
+
+
+
+  w3-padding-48
+  I have 48px top and bottom padding
+
+
+
+  w3-padding-64
+  I have 64px top and bottom padding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

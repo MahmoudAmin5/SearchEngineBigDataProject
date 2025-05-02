@@ -1,0 +1,929 @@
+https://en.wikipedia.org/wiki/Puzzle_video_game
+
+
+
+
+Puzzle video game - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Modern puzzle games
+
+
+
+
+
+
+
+
+
+
+2
+Sub-genres
+
+
+
+
+Toggle Sub-genres subsection
+
+
+
+
+
+2.1
+Physics game
+
+
+
+
+
+
+
+
+2.2
+Programming game
+
+
+
+
+
+
+
+
+2.3
+Exploration
+
+
+
+
+
+
+
+
+2.4
+Sokoban
+
+
+
+
+
+
+
+
+2.5
+Hidden object game
+
+
+
+
+
+
+
+
+2.6
+Tile-matching
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Puzzle video game
+
+
+
+35 languages
+
+
+
+
+العربيةCatalàČeštinaEestiEspañolEsperantoفارسیFrançais한국어IdoBahasa IndonesiaItalianoעבריתქართულიLietuviųМакедонскиمصرىBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSimple EnglishکوردیСрпски / srpskiSuomiSvenskaTürkçeУкраїнська吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Video game genre
+For the video game named Puzzle, see Puzzle (American Video Entertainment).
+A 1994 Mac version of the 1985 tile-matching puzzle video game Chain Shot!
+Part of a series onPuzzles
+Types
+Guessing
+Riddle
+Situation
+
+Logic
+Dissection
+Induction
+Logic grid
+Self-reference
+
+Mechanical
+Combination
+Construction
+Disentanglement
+Lock
+Go problems
+Folding
+Stick
+Tiling
+
+Tour
+Sliding
+Chess
+ Maze (Logic maze)
+
+Word and Number
+Crossword
+Sudoku
+
+Puzzle video games
+Mazes
+
+Metapuzzles
+
+Topics
+Brain teaser
+Dilemma
+Joke
+Optical illusion
+Packing problems
+Paradox
+Problem solving
+Puzzlehunt
+Syllogism
+Tale
+
+
+Lists
+Impossible puzzles
+Maze video games
+Nikoli puzzle types
+Puzzle video games
+Puzzle topics
+vte
+Puzzle video games make up a broad genre of video games that emphasize puzzle solving. The types of puzzles can test problem-solving skills, including logic, pattern recognition, sequence solving, spatial recognition, and word completion. Many puzzle games involve a real-time element and require quick thinking, such as Tetris (1985) and Lemmings (1991).
+
+
+History[edit]
+Puzzle video games owe their origins to brain teasers and puzzles throughout human history. The mathematical strategy game Nim, and other traditional thinking games such as Hangman and Bulls and Cows (commercialized as Mastermind), were popular targets for computer implementation.
+In Universal Entertainment's Space Panic, released in arcades in 1980, the player digs holes in platforms to trap creatures. It is a precursor to puzzle-platform games such as Lode Runner (1983), Door Door (1983), and Doki Doki Penguin Land (1985).[1][2][3]
+Blockbuster, by Alan Griesemer and Stephen Bradshaw (Atari 8-bit, 1981), is a computerized version of the Rubik's Cube puzzle.[4] Snark Hunt (Atari 8-bit, 1982) is a single-player game of logical deduction, a clone of the 1970s Black Box board game.[5]
+Elements of Konami's tile-sliding Loco-Motion (1982) were later seen in Pipe Mania from LucasArts (1989).
+In Boulder Dash (1984), the goal is to collect diamonds while avoiding or exploiting rocks that fall after digging out the dirt beneath them.
+Chain Shot! (1985) introduced removing groups of the same color tiles on a grid, causing the remaining tiles to fall into the gap.[6] Uncle Henry's Nuclear Waste Dump (1986) involves dropping colored shapes into a pit, but the goal is to keep the same color tiles from touching.[7][8]
+Tetris (1985) revolutionized and popularized the puzzle game genre.[9][10] The game was created by Soviet game designer Alexey Pajitnov for the Electronika 60.[11] Pajitnov was inspired by a traditional puzzle game named Pentominos in which players arrange blocks into lines without any gaps.[9] The game was released by Spectrum Holobyte for MS-DOS in 1987, Atari Games in arcades in 1988, and sold 30 million copies for Game Boy.[12]
+In Lemmings (1991),[13] a series of creatures walk into deadly situations, and a player assigns jobs to specific lemmings to guide the swarm to a safe destination.[12]
+The 1994 MS-DOS game Shariki, by Eugene Alemzhin, introduced the mechanic of swapping adjacent elements to tile matching games. It was little known at the time, but later had a major influence on the genre.
+Interest in Mahjong video games from Japan began to grow in 1994.[14][15]
+When Minesweeper was released with Windows 95, players began using a mouse to play puzzle games.[16]
+
+Modern puzzle games[edit]
+In 2000, PopCap Games released Bejeweled, a  direct clone of the 1994 tile-matching game Shariki with improved visuals. It sparked interest in the match-three mechanic which became the foundation for other popular games, including Puzzle Quest: Challenge of the Warlords (2007), Candy Crush Saga (2012), and Puzzle & Dragons (2012).[17]
+Portal (2007) was followed by other physics-based puzzle games.[18]
+
+Sub-genres[edit]
+Physics game[edit]
+The Splatters, a physics-based Xbox Live Arcade game
+A physics game is a type of logical puzzle video game wherein the player must use the game's physics and environment to complete each puzzle. Physics games use consistent physics to make games more challenging.[19] The genre is popular in online flash games and mobile games. Educators have used these games to demonstrate principles of physics.[20]
+Physics-based logic puzzle games include The Incredible Machine, Portal, The Talos Principle, Braid, Fez, World of Goo, and Cut the Rope, as well as projectile collision games such as Angry Birds, Peggle, Monster Strike, and Crush the Castle.
+
+Programming game[edit]
+Programming games require writing code, either as text or using a visual system, to solve puzzles. Examples include Rocky's Boots (1982), Robot Odyssey (1984), SpaceChem (2011), and Infinifactory (2015).
+
+Exploration[edit]
+This sub-genre includes point-and-click games that often overlap with adventure games and walking simulators. Unlike logical puzzle games, these games generally require inductive reasoning to solve. The defining trait is that the player must experiment with mechanisms in each level before they can solve them. Exploration games include Myst, Limbo, and The Dig. Escape room games such as The Room involve detailed exploration of a single location.
+
+Sokoban[edit]
+Main article: Sokoban
+Sokoban games, such as its 1982 namesake title, or block-pushing games, involve pushing or pulling blocks on a grid-like space to move them into designated positions without blocking the movement of other blocks. Similar games include Baba is You and Patrick's Parabox.
+
+Hidden object game[edit]
+Main article: Hidden object game
+A hidden object game, sometimes called hidden picture or hidden object puzzle adventure (HOPA), is a genre of puzzle video game in which the player must find items from a list that are hidden within a scene.[21] Hidden object games are a popular trend in casual gaming.[22][23]
+
+Tile-matching[edit]
+Main article: Tile-matching video game
+In tile-matching video games, the player manipulates tiles in order to make them disappear according to a matching criterion. The genre began with 1985's Chain Shot! and has similarities to falling-block games such as Tetris. This genre includes games that require pieces to be swapped such as Bejeweled or Candy Crush Saga, games that adapt the classic tile-based game Mahjong such as Mahjong Trails, and games in which pieces are shot on the board such as Zuma. Puzzle games based on Tetris include tile-matching games where the matching criterion is to place a given number of tiles of the same type so that they adjoin each other. That number is often three, and the corresponding subset of tile-matching games is referred to as match-three games.
+
+See also[edit]
+List of puzzle video games
+References[edit]
+
+
+^ Parish, Jeremy (28 August 2014). "Greatest Years in Gaming History: 1983".
+
+^ "Door Door". GameSpot. Archived from the original on 28 July 2012. Retrieved 13 September 2011.
+
+^ "DokiDoki Penguin Land for SG-1000 - GameFAQs". Retrieved 3 April 2017.
+
+^ "Blockbuster". Atari 8-bit Forever. Archived from the original on 2015-12-07.
+
+^ Powell, Jordan W. (February 1983). "Ten Best from APX". Antic. 1 (6).
+
+^ Juul, Jesper. "Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games".
+
+^ "Accidental Innovation, Part 1". February 19, 2011.
+
+^ "Uncle Henry's Nuclear Waste Dump". Antic. Vol. 5, no. 8. December 1986. p. 35.
+
+^ a b Prisco, Jacopo (October 31, 2019). "Tetris: The Soviet 'mind game' that took over the world". CNN.
+
+^ Kohler, Chris (June 2, 2009). "Tetris Turns 25, and It's Still an Addictive Pleasure". Wired.
+
+^ "Tetris | video game". Britannica. Retrieved 2023-04-19.
+
+^ a b Miller, Skyler. "History of Puzzle Games". GameSpot. Archived from the original on 2010-02-04. Retrieved 25 September 2016.
+
+^ DeMaria, Rusel; Wilson, Johnny (April 27, 2002). High Score!: The Illustrated History of Electronic Games (First ed.). Osborne/McGraw-Hill. ISBN 978-0072224283.
+
+^ Wolf, Mark (January 1, 2007). The Video Game Explosion: A History from PONG to PlayStation and Beyond. Westport, Connecticut: Greenwood Publishing Group. ISBN 978-0313338687. OCLC 954887105.
+
+^ Gameplay Net, GamePlay.Net, 2014, archived from the original on February 3, 2014, retrieved February 1, 2014
+
+^ Jeff Fulton; Steve Fulton. The Essential Guide to Flash Games. Apress.
+
+^ Hester, Larry (October 21, 2013). "Inside Bejeweled: An Interview with Executive Producer Heather Hazen". Complex.
+
+^ "15 Puzzle Games You Have To Be A Genius To Complete". Game Rant. 2020-03-24. Retrieved 2021-04-06.
+
+^ Ward, Mark (2005-05-14). "Game physics starts to get real". BBC News. Retrieved 2010-03-27.
+
+^ Thompson, Jane (2007-06-15). "Video games getting deeper". The Star. Retrieved 2010-03-27.
+
+^ "Ally Noble Desert Island Disks". Retro Gamer (53). Imagine Publishing: 79. Hidden object games ... For example, you're a detective looking for clues in a picture ... they might be in monochrome on the wallpaper or peeping out from behind something.
+
+^ Kim, Albert (September 30, 2008). "Casual Games: 'Peggle Nights' and 'The Lost Cases of Sherlock Holmes'". EW.com.
+
+^ George Roush (October 17, 2008). "Everest: Hidden Expedition iPhone Review". IGN. Archived from the original on February 24, 2009.
+
+
+vteVideo game genres
+List of video game genres
+ActionPlatformer
+Endless runner
+Platform fighter
+Shooter
+Arena
+First-person
+Hero
+Light gun
+Shoot 'em up
+Bullet hell
+Rail
+Twin-stick
+Vampire Survivors-like
+Tactical
+Third-person
+Survival
+Battle royale
+Survival horror
+Other
+Beat 'em up
+Hack and slash
+Fighting
+Platform fighter
+Maze
+Pac-Man clone
+Snake
+Stealth
+Action-adventure
+Grand Theft Auto clone
+Metroidvania
+Adventure
+Escape room
+Graphic adventure
+Interactive fiction
+Interactive film
+Visual novel
+Walking sim
+Digital tabletop
+Deck-building
+Roguelike deck-building
+Digital collectible card
+Puzzle
+Hidden object
+Sokoban
+Tile-matching
+Role-playing
+Action role-playing
+Looter shooter
+Soulslike
+Dungeon crawl
+MMORPG
+Monster-taming
+Roguelike
+Roguelike deck-building
+Tactical role-playing
+Turn-based role-playing
+SimulationLife
+Dating
+Farming
+God
+Social
+Virtual pet
+CMS
+Business
+City-building
+Government
+Sports
+Fishing
+Racing
+Kart racing
+Sim racing
+Vehicle
+Flight simulation
+Combat
+Lunar Lander
+Space
+Submarine simulator
+Train simulator
+Vehicular combat
+Other
+Falling-sand
+Immersive sim
+Strategy
+4X
+Auto battler
+MOBA
+Real-time strategy
+Time management
+Real-time tactics
+Tactical role-playing
+Tower defense
+Turn-based strategy
+Turn-based tactics
+Artillery
+Wargame
+Grand strategy
+Other genres
+Cozy
+Fitness
+Horror
+Survival horror
+Incremental
+Music
+Rhythm
+Non-game
+Party
+Photography
+Programming
+Typing
+Related conceptsThemes
+Advergame
+Bishōjo
+Christian
+Comedy
+Educational
+Girls
+Licensed
+Otome
+Sexual
+Eroge
+Nonviolent
+Personalized
+Sci-fi
+Serious
+Art
+Climate change
+News
+Player modes
+Multiplayer
+Co-op
+PVP
+Single-player
+Production
+AAA
+Indie
+Doujin soft
+Fan game
+Design
+Casual
+Hypercasual
+Emergent gameplay
+FMV
+Gacha
+Kaizo
+Masocore
+Nonlinear gameplay
+Open world
+Sandbox
+Side-scrolling
+Twitch gameplay
+Vertically scrolling
+Other
+Minigame
+Toys-to-life
+Video game clone
+Video game modding
+Video game remake
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Puzzle_video_game&oldid=1278569072"
+Categories: Video game genresPuzzle video gamesHidden categories: CS1: unfit URLArticles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 3 March 2025, at 06:37 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Puzzle video game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

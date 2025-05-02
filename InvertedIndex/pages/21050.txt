@@ -1,0 +1,1313 @@
+https://en.wikipedia.org/wiki/PA-RISC
+
+
+
+
+PA-RISC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+CPU specifications
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+PA-RISC
+
+
+
+20 languages
+
+
+
+
+العربيةČeštinaDeutschEspañolEsperantoFrançais한국어Bahasa IndonesiaItalianoMagyarNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSuomiTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Instruction set architecture by Hewlett-Packard
+
+
+PA-RISC (HP/PA)DesignerHewlett-PackardBits64-bit (32→64)Introduced1986 (1996 PA-RISC 2.0)Version2.0 (1996)DesignRISCEncodingFixedBranchingCompare and branchEndiannessBigExtensionsMultimedia Acceleration eXtensions (MAX), MAX-2OpenNoSuccessorPA-WideWord → Itanium[1]RegistersGeneral-purpose32Floating point32 64-bit (16 64-bit in PA-RISC 1.0)
+HP PA-RISC 7300LC microprocessor
+HP 9000 C110 PA-RISC workstation booting Debian GNU/Linux 
+Precision Architecture RISC (PA-RISC) or Hewlett Packard Precision Architecture (HP/PA or simply HPPA), is a general purpose computer instruction set architecture (ISA) developed by Hewlett-Packard from the 1980s until the 2000s.
+The architecture was introduced on 26 February 1986, when the HP 3000 Series 930 and HP 9000 Model 840 computers were launched featuring the first implementation, the TS1.[2][3] HP stopped selling PA-RISC-based HP 9000 systems at the end of 2008 but supported servers running PA-RISC chips until 2013.[4] PA-RISC was succeeded by the Itanium (originally IA-64) ISA, jointly developed by HP and Intel.[5]
+
+
+History[edit]
+In the late 1980s, HP was building four series of computers, all based on CISC CPUs. One line was the IBM PC compatible Intel i286-based Vectra Series, started in 1986. All others were non-Intel systems. One of them was the HP Series 300 of Motorola 68000-based workstations, another Series 200 line of technical workstations based on a custom silicon on sapphire (SOS) chip design, the SOS based 16-bit HP 3000 classic series, and finally the HP 9000 Series 500 minicomputers, based on their own (16- and 32-bit) FOCUS microprocessor.
+The Precision Architecture is the result of what was known inside Hewlett-Packard as the Spectrum program.[6] HP planned to use Spectrum to move all of their non-PC compatible machines to a single RISC CPU family.
+In early 1982, work on the Precision Architecture began at HP Laboratories, defining the instruction set and virtual memory system. Development of the first TTL implementation started in April 1983. With simulation of the processor having completed in 1983, a final processor design was delivered to software developers in July 1984. Systems prototyping followed, with "lab prototypes" being produced in 1985 and product prototypes in 1986.[7]
+The first processors were introduced in products during 1986. It has thirty-two 32-bit integer registers and sixteen 64-bit floating-point registers.  The HP Precision Architecture has a single branch delay slot. This means that the instruction immediately following a branch instruction is executed before the program's control flow is transferred to the target instruction of the branch.[8][9] An HP Precision processor also includes a Processor Status Word (PSW) register. The PSW register contains various flags that enable virtual addressing, protection, interruptions, and other status information.[10] The number of floating-point registers was doubled in the 1.1 version to 32 once it became apparent that 16 were inadequate and restricted performance. The architects included Allen Baum, Hans Jeans, Michael J. Mahon, Ruby Bei-Loh Lee, Russel Kao, Steve Muchnick, Terrence C. Miller, David Fotland, and William S. Worley.[11]
+The first implementation was the TS1, a central processing unit built from discrete transistor–transistor logic (74F TTL) devices. Later implementations were multi-chip VLSI designs fabricated in NMOS processes (NS1 and NS2) and CMOS (CS1 and PCX).[12]
+They were first used in a new series of HP 3000 machines in the late 1980s – the 930 and 950, commonly known at the time as Spectrum systems, the name given to them in the development labs. These machines ran MPE-XL. The HP 9000 machines were soon upgraded with the PA-RISC processor as well, running the HP-UX version of Unix.
+Other operating systems ported to the PA-RISC architecture include Linux, OpenBSD, NetBSD, OSF/1, NeXTSTEP, and ChorusOS.[13]
+An interesting aspect of the PA-RISC line is that most of its generations have no level 2 cache. Instead large level 1 caches are used, initially as separate chips connected by a bus, and later integrated on-chip. Only the PA-7100LC and PA-7300LC have L2 caches. Another innovation of the PA-RISC is the addition of vector instructions (SIMD) in the form of MAX, which were first introduced on the PA-7100LC.
+Precision RISC Organization, an industry group led by HP, was founded in 1992, to promote the PA-RISC architecture.  Members included Convex, Hitachi, Hughes Aircraft, Mitsubishi, NEC, OKI, Prime, Stratus, Yokogawa, Red Brick Software, and Allegro Consultants, Inc.
+The ISA was extended in 1996 to 64 bits, with this revision named PA-RISC 2.0. PA-RISC 2.0 also added fused multiply–add instructions, which help certain floating-point intensive algorithms, and the MAX-2 SIMD extension, which provides instructions for accelerating multimedia applications. The first PA-RISC 2.0 implementation was the PA-8000, which was introduced in January 1996.
+
+CPU specifications[edit]
+
+
+Image
+Model
+Marketingname
+Year
+Frequency[MHz]
+Memory Bus[MB/s]
+Process[μm]
+Transistors[millions]
+Die size[mm2]
+Power[W]
+Dcache[KB]
+Icache[KB]
+L2 cache[MB]
+ISA
+Notes
+
+
+
+TS-1
+?
+1986
+8
+?
+?
+—
+—
+?
+64
+64
+—
+1.0
+[14]
+
+
+
+CS-1
+?
+1987
+8
+?
+1.6
+0.164
+72.93
+1
+—
+0.25
+—
+1.0
+[15]
+
+
+
+NS-1
+?
+1987
+25/30
+?
+1.7
+0.144
+70.56
+?
+16-128
+16-128
+—
+1.0
+[14][16] Unified L1 cache
+
+
+
+
+NS-2
+?
+1989
+25/30
+?
+1.5
+0.183
+196
+27
+512
+512
+—
+1.0
+[17]
+
+
+
+
+PCX
+?
+1990
+50/60
+?
+1.0
+0.196
+?
+?
+?
+?
+?
+1.0
+[14]
+
+
+
+
+PCX-S
+PA-7000
+1991
+66
+?
+1.0
+0.58
+201.6
+?
+256
+256
+—
+1.1a
+
+
+
+
+
+PCX-T
+PA-7100
+1992
+33–100
+?
+0.8
+0.85
+196
+?
+2048
+1024
+—
+1.1b
+
+
+
+
+
+PCX-T
+PA-7150
+1994
+125
+?
+0.8
+0.85
+196
+?
+2048
+1024
+—
+1.1b
+
+
+
+
+
+PCX-T'
+PA-7200
+1994
+120
+960
+0.55
+1.26
+210
+30
+1024
+2048
+—
+1.1c
+
+
+
+
+
+PCX-L
+PA-7100LC
+1994
+60–100
+?
+0.75
+0.9
+201.6
+7–11
+—
+1
+2
+1.1d
+
+
+
+
+
+PCX-L2
+PA-7300LC
+1996
+132–180
+?
+0.5
+9.2
+260.1
+?
+64
+64
+0–8
+1.1e
+
+
+
+
+
+PCX-U
+PA-8000
+1996
+160–180
+960
+0.5
+3.8
+337.68
+?
+1024
+1024
+—
+2.0
+
+
+
+
+
+PCX-U+
+PA-8200
+1997
+200–240
+960
+0.5
+3.8
+337.68
+?
+2048
+2048
+—
+2.0
+
+
+
+
+
+PCX-W
+PA-8500
+1998
+300–440
+1920
+0.25
+140
+467
+?
+1024
+512
+—
+2.0
+[18]
+
+
+
+
+PCX-W+
+PA-8600
+2000
+360–550
+1920
+0.25
+140
+467
+?
+1024
+512
+—
+2.0
+[18]
+
+
+
+
+PCX-W2
+PA-8700(+)
+2001
+625–875
+1920
+0.18
+186
+304
+<7.1@1.5 V
+1536
+768
+—
+2.0
+
+
+
+
+
+Mako
+PA-8800
+2003
+800–1000
+6400
+0.13
+300
+361
+?
+768/core
+768/core
+0 or 32
+2.0
+
+
+
+
+
+Shortfin
+PA-8900
+2005
+800–1100
+6400
+0.13
+?
+?
+?
+768/core
+768/core
+0 or 64
+2.0
+
+
+See also[edit]
+Amiga Hombre chipset – A PA-7150-based chipset with a complete multimedia system for Commodore Amiga
+Other third-party PA-RISC chips were built by Hitachi, Oki, and Winbond.[19]
+ARM architecture family - Competing mid 1980s RISC ISA
+SPARC - Competing mid 1980s RISC ISA
+References[edit]
+
+
+^ "Inventing Itanium: How HP Labs helped create the next-generation chip architecture". HP Labs. 1 June 2001. Archived from the original on 7 February 2002. Retrieved 24 March 2024.
+
+^ "One Year Ago". (26 February 1987). Computer Business Review.
+
+^ Rosenbladt, Peter (September 1987). "In this Issue" (PDF). Hewlett-Packard Journal. 38 (9): 3. Archived (PDF) from the original on 26 April 2019. Retrieved 8 June 2018. ... In the March 1987 issue we described the HP 3000 Series 930 and HP 9000 Model 840 Computers, which were HP's first realizations of HP Precision Architecture in off-the-shelf TTL technology. ...
+
+^ "How long will HP continue to support HP 9000 systems?". Archived from the original on 19 February 2012. Retrieved 29 February 2008.
+
+^ "HP Completes Its PA-RISC Road Map With Final Processor Upgrade". Archived from the original on 13 February 2008. Retrieved 24 July 2007.
+
+^ Worley, William S. (August 1986). "Hewlett-Packard Precision Architecture: The Processor" (PDF). Hewlett-Packard Journal. 37 (8): 4–22. The HP Precision Architecture development program, known within HP as the Spectrum program, ...
+
+^ Fotland, David A.; Shelton, John F.; Bryg, William R.; La Fetra, Ross V.; Boschma, Simin I.; Yeh, Allan S.; Jacobs, Edward M. (March 1987). "Hardware Design of the First HP Precision Architecture Computers". Hewlett-Packard Journal. 38 (3): 4–17. Retrieved 6 October 2020.
+
+^ "Hewlett-Packard Precision Architecture: The Processor" (PDF). p. 10. Retrieved 2 December 2023.
+
+^ DeRosa, John A.; Levy, Henry M. (1987). "An Evaluation of Branch Architectures". Proceedings of the 14th annual international symposium on Computer architecture. pp. 10–16. doi:10.1145/30350.30352. ISBN 0-8186-0776-9. Retrieved 27 January 2024.
+
+^ "Hewlett-Packard Precision Architecture: The Processor" (PDF). p. 6. Retrieved 7 December 2023.
+
+^ Smotherman, Mark (2 July 2009). Recent Processor Architects Archived 10 September 2012 at the Wayback Machine.
+
+^ Paul Weissmann.
+"Early PA-RISC Systems" Archived 2 October 2014 at the Wayback Machine.
+
+^ Walpole, Jonathan; Hakanson, Marion; Inouye, Jon; Konuru, Ravi (January 1992). Porting Chorus to the PA-RISC: Project Overview (PDF) (Report). Oregon Graduate Institute Of Science And Technology. Archived from the original on 12 June 2023.
+
+^ a b c "PA-RISC Processors"
+
+^ Marston, A.; et al. (1987). "A 32b CMOS single-chip RISC type processor". 1987 IEEE International Solid-State Circuits Conference. Digest of Technical Papers. pp. 28–29. doi:10.1109/ISSCC.1987.1157145. S2CID 61007482.
+
+^ Yetter, J.; et al. (1987). "A 15 MIPS 32b Microprocessor". ISSCC 1987. pp. 26–27. doi:10.1109/ISSCC.1987.1157220. S2CID 58782915.
+
+^ Boschma, Brian D.; et al. (1989). "A 30 MIPS VLSI CPU". IEEE International Solid-State Circuits Conference, 1989 ISSCC. Digest of Technical Papers. pp. 82–83, 299. doi:10.1109/ISSCC.1989.48191. S2CID 53932361.
+
+^ a b "HP L1000 & L2000 (rp5400/rp5450) Servers" Archived 2 January 2018 at the Wayback Machine, openpa.net
+
+^ "Third-Party PA-RISC Processors from Hitachi, Winbond, OKI – OpenPA.net".
+
+
+External links[edit]
+LostCircuits Hewlett Packard PA8800 RISC Processor overview
+HP's documentation – page down for PA-RISC, architecture PDFs available
+OpenPA.net Comprehensive PA-RISC chip and computer information
+chipdb.org Images of different PA-RISC processors
+vteReduced instruction set computer (RISC) architecturesOrigins
+IBM 801
+Berkeley RISC
+Stanford MIPS
+In active development
+Analog Devices Blackfin
+ARC
+ARM
+AVR
+eSi-RISC
+LatticeMico8, LatticeMico32
+MIPS
+OpenRISC
+Power ISA
+Renesas M32R, SuperH, V850
+RISC-V
+SPARC
+Sunway
+Unicore
+Xilinx MicroBlaze, PicoBlaze
+Development discontinued
+Alpha
+AMD Am29000
+Apollo PRISM
+Atmel AVR32
+Clipper
+CR16
+CRISP
+DEC PRISM
+Intel i860, i960
+META
+MIPS-X
+Motorola 88000, M·CORE
+PA-RISC
+POWER, PowerPC (active use in space exploration as RAD750), ROMP
+
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=PA-RISC&oldid=1287216072"
+Categories: HP microprocessorsInstruction set architecturesComputer-related introductions in 1986Hidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataUse dmy dates from September 2024
+
+
+
+
+
+
+ This page was last edited on 24 April 2025, at 19:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+PA-RISC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

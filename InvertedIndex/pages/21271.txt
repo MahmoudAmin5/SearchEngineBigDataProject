@@ -1,0 +1,1138 @@
+https://en.wikipedia.org/wiki/List_of_UNIVAC_products
+
+
+
+
+List of UNIVAC products - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+The Remington Rand years (1950 to 1955)
+
+
+
+
+Toggle The Remington Rand years (1950 to 1955) subsection
+
+
+
+
+
+1.1
+Calculating devices
+
+
+
+
+
+
+
+
+1.2
+Computer systems
+
+
+
+
+
+
+
+
+1.3
+Peripherals
+
+
+
+
+
+
+1.3.1
+Storage
+
+
+
+
+
+
+
+
+1.3.2
+Display and print
+
+
+
+
+
+
+
+
+
+
+1.4
+Offline tape handling units
+
+
+
+
+
+
+
+
+
+
+2
+The Sperry Rand years (1955 to 1978)
+
+
+
+
+Toggle The Sperry Rand years (1955 to 1978) subsection
+
+
+
+
+
+2.1
+Calculating devices
+
+
+
+
+
+
+
+
+2.2
+Computer systems
+
+
+
+
+
+
+2.2.1
+Embedded systems
+
+
+
+
+
+
+
+
+2.2.2
+Word machines
+
+
+
+
+
+
+
+
+2.2.3
+Variable word length machines
+
+
+
+
+
+
+
+
+2.2.4
+Byte machines
+
+
+
+
+
+
+
+
+
+
+2.3
+Peripherals
+
+
+
+
+
+
+2.3.1
+Storage
+
+
+
+
+
+
+
+
+2.3.2
+Display and print
+
+
+
+
+
+
+
+
+2.3.3
+Communication
+
+
+
+
+
+
+
+
+
+
+2.4
+Software
+
+
+
+
+
+
+2.4.1
+Operating systems and system software
+
+
+
+
+
+
+
+
+2.4.2
+Utilities, languages, and development aids
+
+
+
+
+
+
+
+
+2.4.3
+Applications
+
+
+
+
+
+
+
+
+
+
+
+
+3
+The Sperry Corporation years (1978 to 1986)
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of UNIVAC products
+
+
+
+2 languages
+
+
+
+
+EspañolРусский
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+This is a list of UNIVAC products. It ends in 1986, the year that Sperry Corporation merged with Burroughs Corporation to form Unisys as a result of a hostile takeover bid[1] launched by Burrough's CEO W. Michael Blumenthal.[2][circular reference]
+
+
+The Remington Rand years (1950 to 1955)[edit]
+Calculating devices[edit]
+UNIVAC 40
+UNIVAC 60
+UNIVAC 120
+Computer systems[edit]
+UNIVAC I
+UNIVAC 1101
+UNIVAC 1102
+UNIVAC 1103
+UNIVAC 1104
+Peripherals[edit]
+Storage[edit]
+UNISERVO tape drive
+Display and print[edit]
+UNIVAC High speed printer 600 line/min printer
+Offline tape handling units[edit]
+UNIPRINTER 10 char/s printer with tape drive
+UNITYPER keyboard with tape drive
+UNIVAC Tape to Card converter card punch with tape drive
+UNIVAC Card to Tape converter card reader with tape drive
+UNIVAC Paper Tape to Tape converter paper tape reader with tape drive
+The Sperry Rand years (1955 to 1978)[edit]
+Calculating devices[edit]
+UNIVAC 1004
+UNIVAC 1005
+Computer systems[edit]
+Embedded systems[edit]
+AN/USQ-17 – the Naval Tactical Data System (NTDS) or M-460[3]
+AN/USQ-20 – updated NTDS, aka UNIVAC 1206 or G-40
+AN/UYK-5 18-bit (octal) digital CPU Military System (Navy/Marines) used for logistics/pay/maintenance management (Navy Shipboard, Marines Portable)
+AN/UYK-7 – multiprocessor for Aegis. 32-bit replacement for the Naval Tactical Data System, derived from UNIVAC 1108
+AN/UYK-8 – dual processor version of the Naval Tactical Data System
+AN/UYK-20
+AN/UYK-43 – replaced and shared its instruction set with the AN/UYK-7
+AN/UYK-44 – replaced and shared its instruction set with the AN/UYK-20
+UNIVAC 1218 – real-time computer
+UNIVAC 1230 – later, faster (2×) version of the AN/USQ-20 (memory size and I/O were identical)
+Word machines[edit]
+LARC
+UNIVAC File Computer - Used by Eastern Air Lines in an early Reservation system. [4] [5]
+UNIVAC Solid State
+UNIVAC II
+UNIVAC III
+UNIVAC 418 – real-time computer
+UNIVAC 418-II – real-time computer
+UNIVAC 418-III – real-time computer
+UNIVAC 422[6][7][8] - Univac Digital Trainer,[9][10] part of the Programmed Educational Package (Prep)[11]
+UNIVAC 490 – commercial adaptation of AN/USQ real-time system
+UNIVAC 492
+UNIVAC 494
+UNIVAC 494-MAPS – The first Multi-Associated Processor System - not made available commercially
+UNIVAC 1103A
+UNIVAC 1104
+UNIVAC 1105
+UNIVAC 1100/2200 series:
+UNIVAC 1106 (half-speed 1108)
+UNIVAC 1107
+UNIVAC 1108
+UNIVAC 1110
+UNIVAC 1100/10 (1106 upgraded with semiconductor memory)
+UNIVAC 1100/20 (1108 upgraded with semiconductor memory)
+UNIVAC 1100/40 (1110 upgraded with semiconductor memory)
+UNIVAC 1100/82A
+UNIVAC 1100/181
+Variable word length machines[edit]
+UNIVAC 1050
+Byte machines[edit]
+These machines implemented a variant of the IBM System/360 architecture
+
+UNIVAC 9000 series
+UNIVAC 9200
+UNIVAC 9300
+UNIVAC 9400
+UNIVAC 9480
+Peripherals[edit]
+Storage[edit]
+FH-432 (Flying Head) drum
+FH-880 (Flying Head) drum
+FH-1782 (Flying Head) drum
+FASTRAND drum drive
+RANDEX drum drive[12]
+UNISERVO I tape drive
+UNISERVO II tape drive
+UNISERVO IIA tape drive
+UNISERVO III tape drive
+UNISERVO IIIC tape drive
+UNISERVO VI-C tape drive
+UNISERVO VIII-C tape drive
+UNISERVO 12 tape drive (1600 BPI)
+UNISERVO 16 tape drive (1600 BPI)
+UNISERVO 20 tape drive (1600 BPI)
+UNISERVO 30-36 tape drives (6250 BPI)(OEM from STK)
+Display and print[edit]
+Uniscope
+Communication[edit]
+UNIVAC BP - Buffer Processor; used as communications front-end to 418 and 490
+UNIVAC CTMC - Communications Terminal Module Controller
+UNIVAC GCS - General Communications System
+Software[edit]
+Operating systems and system software[edit]
+BOSS III or Business Oriented Systems Supervisor was the operating system for the UNIVAC III
+EXEC I
+EXEC II
+EXEC 8
+Utilities, languages, and development aids[edit]
+This is too small a list.
+
+
+
+Program
+
+Code
+
+Notes
+
+
+CALL Macro Processor
+CALL
+
+
+
+CSHELL Command Shell
+CSHELL
+
+
+
+Conversational TimeSharing
+CTS
+
+
+
+Univac Text Editor
+ED
+
+
+
+Full-Screen Editor
+FSED
+
+
+
+Interactive Processing Facility
+IPF
+
+
+
+Logically Integrated FORTRAN Translator
+LIFT
+
+
+
+Symbolic Stream Generator
+SSG
+
+
+
+Table of Contents Editor
+TOCED
+Edits table of contents, privileged users can read the master file directory and interface with the print system.[13]
+
+
+Transaction Interface Package
+TIP
+
+
+
+UEDIT
+UEDIT
+
+
+
+Client Server Development
+UTS-400
+COBOL
+
+
+MAPPER (Software)
+MAPPER
+4GL[14]
+
+
+Programming Language for UNISYS Systems
+PLUS
+
+
+
+Master File Directory
+MFD
+
+
+
+SX1100
+SX1100
+UNIX on Exec8, OS1100 and OS2200
+
+
+CS1100
+CS1100
+Communications Simulator
+
+
+Traffic Control Language
+TCL
+
+
+
+Applications[edit]
+USAS
+The Sperry Corporation years (1978 to 1986)[edit]
+UNIVAC 1100/2200 series:
+UNIVAC 1100/60
+UNIVAC 1100/70
+UNIVAC 1100/80
+UNIVAC 1100/90
+UNIVAC Integrated Scientific Processor (ISP)
+UNIVAC Series 90:
+UNIVAC 90/25
+UNIVAC 90/30
+UNIVAC 90/40
+UNIVAC 90/60
+UNIVAC 90/70
+UNIVAC 90/80
+References[edit]
+
+
+^ Article regarding the hostile takeover in The New York Times
+
+^ Article on Wikipedia on the Sperry Corporation
+
+^ J. E. Thornton; M. Macaulay; D. H. Toth (1958). "The Univac® M-460 computer". Proceedings of the May 6-8, 1958, western joint computer conference: Contrasts in computers on XX - IRE-ACM-AIEE '58 (Western). Association for Computing Machinery. pp. 70–74. doi:10.1145/1457769.1457791. S2CID 10278494. Retrieved 24 May 2019.
+
+^ McAvoy, R. A. (1958). "Reservations Communications Utilizing a General Purpose Digital Computer". www.acm.org: 178–183. doi:10.1145/1457720.1457753. Retrieved 15 September 2023.
+
+^ "The Univac Air Lines Reservations System: A Special-Purpose Application of a General- Purpose Computer". www.acm.org. doi:10.1145/1458043.1458075. Retrieved 15 September 2023.
+
+^ 
+"J. Presper Eckert and Pat Boone in front of Univac 422 | 102633139 | Computer History Museum". www.computerhistory.org. 24 March 1965. Archived from the original on 2018-09-20. Retrieved 2018-09-20.
+Bowie, Stephen (26 May 2014). "The monoliths: 17 supercomputers from the '60s". AUX. 11. Technical Electronic Amplifier Code Handler (TEACH), The Patty Duke Show: "The Genius" (1963). Archived from the original on 2018-09-20. Retrieved 2018-09-20. Contains link to video of the computer
+
+^ "UNIVAC 422". www.smecc.org. Archived from the original on 2017-06-27. Retrieved 2018-09-20.
+
+^ Weik, Martin H. (Jan 1964). "UNIVAC 422 TRNG COMP". ed-thelen.org. A Fourth Survey of Domestic Electronic Digital Computing Systems. Archived from the original on 2018-05-23. Retrieved 2018-09-20.
+
+^ K, Special (1 October 2008). "Apollo Guidance Computer (AGC) - fly me to the Moon". TO THE MOON, MARS, AND BEYOND. Archived from the original on 2018-09-20. Retrieved 2018-09-20.
+
+^ Weik, Martin H. (Jan 1964). "UNIVAC DIG TRNR". ed-thelen.org. A Fourth Survey of Domestic Electronic Digital Computing Systems. Archived from the original on 2018-05-23. Retrieved 2018-09-20.
+
+^ Haga, Enoch J. (November 1962). "Understanding Automation: PREP FOR COMPUTER TRAINING". The Journal of Business Education. 38 (2): 70. doi:10.1080/08832323.1962.10116580. ISSN 0021-9444.
+
+^ "CSDL | IEEE Computer Society" (PDF). Archived (PDF) from the original on 2018-05-13. Retrieved 2018-05-13.
+
+^ "A Collection of Utility Processors and Libraries for Unisys 2200 ClearPath Mainframes". Leist. Archived from the original on 30 July 2016. Retrieved 25 October 2018.
+
+^ "MAPPER", Wikipedia, date
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to UNIVAC.
+
+A history of Univac computers and Operating Systems
+UNIVAC CPU Timeline (1950-1980)
+vteUnisysHistory
+Burroughs Corporation
+System Development Corporation
+Convergent Technologies
+Sperry Corporation
+Eckert–Mauchly Computer Corporation
+Remington Rand
+Mainframes
+Burroughs Large Systems
+MCP
+UNIVAC 1100/2200 series
+OS 2200
+Products
+Burroughs B1700
+Burroughs B20
+Burroughs B2500 and B4900
+Command AND Edit
+ES7000
+HOLMES 2
+LINC 4GL
+MCP Compiler
+New Executive Programming Language
+Unisys Icon
+UNIVAC
+List of UNIVAC products
+UNIVAC FASTRAND
+People
+Robert S. Barton
+J. Presper Eckert
+Peter Altabef
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_UNIVAC_products&oldid=1258334642"
+Categories: UNIVACComputing-related listsLists of productsUNIVAC hardwareUNIVAC softwareUnisysHidden categories: Articles with short descriptionShort description is different from WikidataAll articles lacking reliable referencesArticles lacking reliable references from May 2020Commons category link is locally defined
+
+
+
+
+
+
+ This page was last edited on 19 November 2024, at 03:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of UNIVAC products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

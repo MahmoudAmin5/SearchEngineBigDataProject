@@ -1,0 +1,124 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_layout_container
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+W3.CSS Layout
+The w3-cell-row is a container for layout elements.
+It redefines block elements to display horizontally (like table cells).
+The width of the layout container defines the total width of the layout cells. Default width is 100%.
+Note that cells are self adjusting in both width and height.
+
+
+
+  
+    Hello W3.CSS Layout.
+    Hello W3.CSS Layout Hello Hello Hello!
+  
+  
+    Hello W3.CSS Layout.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

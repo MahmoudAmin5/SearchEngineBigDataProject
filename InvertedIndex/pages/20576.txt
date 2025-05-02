@@ -1,0 +1,798 @@
+https://en.wikipedia.org/wiki/Text-based_(computing)
+
+
+
+
+Text-based user interface - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Types of text terminals
+
+
+
+
+
+
+
+
+2
+On ANSI-compatible terminals
+
+
+
+
+
+
+
+
+3
+Under DOS and Microsoft Windows
+
+
+
+
+
+
+
+
+4
+Under Unix-like systems
+
+
+
+
+
+
+
+
+5
+OpenVMS
+
+
+
+
+
+
+
+
+6
+Oberon
+
+
+
+
+
+
+
+
+7
+In embedded systems
+
+
+
+
+
+
+
+
+8
+Other uses
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+Toggle See also subsection
+
+
+
+
+
+9.1
+Examples of programming libraries
+
+
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Text-based user interface
+
+
+
+19 languages
+
+
+
+
+العربيةবাংলাCatalàČeštinaDeutschEspañolفارسیFrançais한국어MagyarNederlands日本語PolskiPortuguêsРусскийSuomiTürkçeУкраїнська粵語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Text-based (computing))
+Type of interface based on outputting to or controlling a text display
+Not to be confused with Command-line interface.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Text-based user interface" – news · newspapers · books · scholar · JSTOR (September 2014) (Learn how and when to remove this message)
+Some file managers implement a TUI (here: Midnight Commander)
+Vim is a very widely used TUI text editor
+In computing, text-based user interfaces (TUI) (alternately terminal user interfaces, to reflect a dependence upon the properties of computer terminals and not just text), is a retronym describing a type of user interface (UI) common as an early form of human–computer interaction, before the advent of bitmapped displays and modern conventional graphical user interfaces (GUIs). Like modern GUIs, they can use the entire screen area and may accept mouse and other inputs. They may also use color and often structure the display using box-drawing characters such as ┌ and ╣. The modern context of use is usually a terminal emulator.
+
+
+Types of text terminals[edit]
+From text application's point of view, a text screen (and communications with it) can belong to one of three types (here ordered in order of decreasing accessibility):
+
+A genuine text mode display, controlled by a video adapter or the central processor itself. This is a normal condition for a locally running application on various types of personal computers and mobile devices. If not deterred by the operating system, a smart program may exploit the full power of a hardware text mode.
+A text mode emulator. Examples are xterm for X Window System and win32 console (in a window mode) for Microsoft Windows. This usually supports programs which expect a real text mode display, but may run considerably slower. Certain functions of an advanced text mode, such as an own font uploading, almost certainly become unavailable.
+A remote text terminal. The communication capabilities usually become reduced to a serial line or its emulation, possibly with few ioctl()s as an out-of-band channel in such cases as Telnet and Secure Shell. This is the worst case, because software restrictions hinder the use of capabilities of a remote display device.
+Under Linux and other Unix-like systems, a program easily accommodates to any of the three cases because the same interface (namely, standard streams) controls the display and keyboard. See below for comparison to Windows.
+Many TUI programming libraries are available to help developers build TUI applications. 
+
+On ANSI-compatible terminals[edit]
+American National Standards Institute (ANSI) standard ANSI X3.64 defines a standard set of escape sequences that can be used to drive terminals to create TUIs (see ANSI escape code). Escape sequences may be supported for all three cases mentioned in the above section, allowing arbitrary cursor movements and color changes.
+However, not all terminals follow this standard, and many non-compatible but functionally equivalent sequences exist.
+
+
+Under DOS and Microsoft Windows[edit]
+The FreeDOS Edit user interface
+On IBM Personal Computers and compatibles, the Basic Input Output System (BIOS) and DOS system calls provide a way to write text on the screen, and the ANSI.SYS driver could process standard ANSI escape sequences. However, programmers soon learned that writing data directly to the screen buffer was far faster and simpler to program, and less error-prone; see VGA-compatible text mode for details. This change in programming methods resulted in many DOS TUI programs. The Windows console environment is notorious for its emulation of certain EGA/VGA text mode features, particularly random access to the text buffer, even if the application runs in a window. On the other hand, programs running under Windows (both native and DOS applications) have much less control of the display and keyboard than Linux and DOS programs can have, because of aforementioned Windows console layer.
+
+Mouse cursor in Impulse Tracker. A more precise cursor (per-pixel resolution) was achieved by regenerating the glyphs of characters used where the cursor was visible, at each mouse movement in real-time.[citation needed]
+Most often those programs used a blue background for the main screen, with white or yellow characters, although commonly they had also user color customization. They often used box-drawing characters in IBM's code page 437. Later, the interface became deeply influenced by graphical user interfaces (GUI), adding pull-down menus, overlapping windows, dialog boxes and GUI widgets operated by mnemonics or keyboard shortcuts. Soon mouse input was added – either at text resolution as a simple colored box or at graphical resolution thanks to the ability of the Enhanced Graphics Adapter (EGA) and Video Graphics Array (VGA) display adapters to redefine the text character shapes by software – providing additional functions.
+Some notable programs of this kind were Microsoft Word, DOS Shell, WordPerfect, Norton Commander, Turbo Vision based Borland Turbo Pascal and Turbo C (the latter included the conio library), Lotus 1-2-3 and many others. Some of these interfaces survived even during the Microsoft Windows 3.1x period in the early 1990s. For example, the Microsoft C 6.0 compiler, used to write true GUI programs under 16-bit Windows, still has its own TUI.
+Since its start, Microsoft Windows includes a console to display DOS software. Later versions added the Windows console as a native interface for command-line interface and TUI programs. The console usually opens in window mode, but it can be switched to full, true text mode screen and vice versa by pressing the Alt and Enter keys together. Full-screen mode is not available in Windows Vista and later, but may be used with some workarounds.[1]
+
+
+Windows Terminal is a multi-tabbed terminal emulator that Microsoft has developed for Windows 10 and later[2] as a replacement for Windows Console. 
+The Windows Subsystem for Linux which was added to Windows by Microsoft in 2019, supports running Linux text-based apps on Windows, within Windows console, Windows Terminal, and other Windows-based terminals.
+
+Under Unix-like systems[edit]
+Snapshot of 'XFdrake', a TUI used in Mandriva Linux to configure the graphical system
+btop - task manager utility for Linux and other unix-like OS
+In Unix-like operating systems, TUIs are often constructed using the terminal control library curses, or ncurses (a mostly compatible library), or the alternative S-Lang library. The advent of the curses library with Berkeley Unix created a portable and stable API for which to write TUIs. The ability to talk to various text terminal types using the same interfaces led to more widespread use of "visual" Unix programs, which occupied the entire terminal screen instead of using a simple line interface. This can be seen in text editors such as vi, mail clients such as pine or mutt, system management tools such as SMIT, SAM, FreeBSD's Sysinstall and web browsers such as lynx. Some applications, such as w3m, and older versions of pine and vi use the less-able termcap library, performing many of the functions associated with curses within the application. Custom TUI applications based on widgets can be easily developed using the dialog program (based on ncurses), or the Whiptail program (based on S-Lang).
+In addition, the rise in popularity of Linux brought many former DOS users to a Unix-like platform, which has fostered a DOS influence in many TUIs. The program minicom, for example, is modeled after the popular DOS program Telix. Some other TUI programs, such as the Twin desktop, were ported over.
+Most Unix-like operating systems (Linux, FreeBSD, etc.) support virtual consoles, typically accessed through a Ctrl-Alt-F key combination. For example, under Linux up to 64 consoles may be accessed (12 via function keys), each displaying in full-screen text mode.
+The free software program GNU Screen provides for managing multiple sessions inside a single TUI, and so can be thought of as being like a window manager for text-mode and command-line interfaces. Tmux can also do this.
+The proprietary macOS text editor BBEdit includes a shell worksheet function that works as a full-screen shell window. The free Emacs text editor can run a shell inside of one of its buffers to provide similar functionality. There are several shell implementations in Emacs, but only ansi-term is suitable for running TUI programs. The other common shell modes, shell and eshell only emulate command lines and TUI programs will complain "Terminal is not fully functional" or display a garbled interface. The free Vim and Neovim text editors have terminal windows (simulating xterm). The feature is intended for running jobs, parallel builds, or tests, but can also be used (with window splits and tab pages) as a lightweight terminal multiplexer.
+
+OpenVMS[edit]
+VAX/VMS (later known as OpenVMS) had a similar facility to curses known as the Screen Management facility or SMG.  This could be invoked from the command line or called from programs using the SMG$ library.[3]
+
+Oberon[edit]
+Screenshot of the desktop of an Oberon System showing an image and several text viewers
+Another kind of TUI is the primary interface of the Oberon operating system, first  released in 1988 and still maintained. Unlike most other text-based user interfaces, Oberon does not use a text-mode console or terminal, but requires a large bit-mapped display, on which text is the primary target for mouse clicks. Analogous to a link in hypertext, a command has the format Module.Procedure parameters ~ and is activated with a mouse middle-click. Text displayed anywhere on the screen can be edited, and if formatted with the required command syntax, can be middle-clicked and executed. Any text file containing suitably-formatted commands can be used as a so-called tool text, thus serving as a user-configurable menu. Even the output of a previous command can be edited and used as a new command. This approach is radically different from both conventional dialogue-oriented console menus or command-line interfaces but bears some similarities to the worksheet interface of the Macintosh Programmer's Workshop.[citation needed]
+Since it does not use graphical widgets, only plain text, but offers comparable functionality to a GUI with a tiling window manager, it is referred to as a Text User Interface or TUI. For a short introduction, see the 2nd paragraph on page four of the first published Report on the Oberon System.[4]
+Oberon's UI influenced the design of the Acme text editor and email client for the Plan 9 from Bell Labs operating system.
+
+In embedded systems[edit]
+Embedded system displaying menu on an LCD screen
+Modern embedded systems are capable of displaying TUI on a monitor like personal computers. This functionality is usually implemented using specialized integrated circuits, modules, or using FPGA.
+Video circuits or modules are usually controlled using VT100-compatible command set over UART,[citation needed] FPGA designs usually allow direct video memory access.[citation needed]
+
+Other uses[edit]
+The full screen editor of the Commodore 64 8-bit computers was advanced in its market segment for its time. Users could move the cursor over the entire screen area, entering and editing BASIC program lines, as well as direct mode commands. All Commodore 8-bit computers used the PETSCII character set, which included character glyphs suitable for making a TUI.
+Apple's Macintosh Programmer's Workshop programming environment included Commando, a TUI shell. It was the inspiration for BBEdit's shell worksheet.
+Later Apple II models included MouseText, a set of graphical glyphs used for making a TUI.
+The Corvus Concept computer of 1982 used a function key-based text interface on a full-page pivoting display.
+See also[edit]
+Command-line interface (CLI)
+Console application
+Natural-language user interface
+Text-based game, a game using a TUI
+VGA text mode
+MDA
+Examples of programming libraries[edit]
+curses (programming library)
+ncurses
+CDK
+Newt, a widget-based toolkit
+S-Lang
+Turbo Vision
+Early versions of Visual Basic
+References[edit]
+
+
+^ cmd prompt full screen in Windows 7. Social.technet.microsoft.com. Retrieved on 2013-06-15.
+
+^ Warren, Tom (May 6, 2019). "Microsoft unveils Windows Terminal, a new command line app for Windows". The Verge.
+
+^ "OpenVMS RTL Screen Management (SMG$) Manual". hpe.com. 2001. Retrieved 2021-01-01.
+
+^ Wirth, Niklaus; Gutknecht, Jürg (1988). The Oberon System (PDF) (Technical report). ETH Eidgenössische Technische Hochschule Zürich, Institut für Informatik. Vol. 88. doi:10.3929/ethz-a-000487176.
+
+
+vteUser interfacesNatural-language user interfaces
+Chatbot
+Dialogue system
+Voice user interfaces
+Conversational user interface
+Virtual assistant
+Voice search
+Graphical user interfaces
+Widgets
+Zooming user interface
+Touch user interfaces
+Multi-touch
+Tangible user interface
+3D user interfaces
+Augmented and virtual reality
+Finger tracking
+Positional tracking
+Other user interfaces
+Text-based user interface
+Natural user interface
+Multimodal user interface
+
+vteOperating systemsGeneral
+Comparison
+Forensic engineering
+History
+List
+Timeline
+Usage share
+User features comparison
+Variants
+Disk operating system
+Distributed operating system
+Embedded operating system
+Hobbyist operating system
+Just enough operating system
+Mobile operating system
+Network operating system
+Object-oriented operating system
+Real-time operating system
+Supercomputer operating system
+KernelArchitectures
+Exokernel
+Hybrid
+Microkernel
+Monolithic
+Multikernel
+vkernel
+Rump kernel
+Unikernel
+Components
+Device driver
+Loadable kernel module
+User space and kernel space
+Process managementConcepts
+Computer multitasking (Cooperative, Preemptive)
+Context switch
+Interrupt
+IPC
+Process
+Process control block
+Real-time
+Thread
+Time-sharing
+Schedulingalgorithms
+Fixed-priority preemptive
+Multilevel feedback queue
+Round-robin
+Shortest job next
+Memory management,resource protection
+Bus error
+General protection fault
+Memory paging
+Memory protection
+Protection ring
+Segmentation fault
+Virtual memory
+Storage access,file systems
+Boot loader
+Defragmentation
+Device file
+File attribute
+Inode
+Journal
+Partition
+Virtual file system
+Virtual tape library
+Supporting concepts
+API
+Computer network
+HAL
+Live CD
+Live USB
+Shell
+CLI
+User interface
+PXE
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Text-based_user_interface&oldid=1285217657"
+Categories: Text user interfaceUser interfacesHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from September 2014All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from December 2011Articles with unsourced statements from April 2025Articles with unsourced statements from January 2009
+
+
+
+
+
+
+ This page was last edited on 12 April 2025, at 11:16 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Text-based user interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

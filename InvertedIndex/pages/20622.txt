@@ -1,0 +1,983 @@
+https://en.wikipedia.org/wiki/IBM_System/36
+
+
+
+
+IBM System/36 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview of the IBM System/36
+
+
+
+
+
+
+
+
+2
+System architecture
+
+
+
+
+Toggle System architecture subsection
+
+
+
+
+
+2.1
+Processors
+
+
+
+
+
+
+
+
+2.2
+Front panel
+
+
+
+
+
+
+
+
+2.3
+Memory and disk
+
+
+
+
+
+
+
+
+2.4
+Software
+
+
+
+
+
+
+
+
+
+
+3
+Hardware models
+
+
+
+
+Toggle Hardware models subsection
+
+
+
+
+
+3.1
+Main line
+
+
+
+
+
+
+3.1.1
+System/36 Model 5360
+
+
+
+
+
+
+
+
+3.1.2
+System/36 Model 5362
+
+
+
+
+
+
+
+
+3.1.3
+System/36 Model 5364
+
+
+
+
+
+
+
+
+3.1.4
+System/36 Model 5363
+
+
+
+
+
+
+
+
+
+
+3.2
+AS/400-based backports
+
+
+
+
+
+
+3.2.1
+AS/Entry (9401)
+
+
+
+
+
+
+
+
+3.2.2
+Advanced/36 (9402, 9406)
+
+
+
+
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+Further reading
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM System/36
+
+
+
+7 languages
+
+
+
+
+CatalàDeutschEspañolFrançais日本語PolskiУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+IBM midrange computer (1983–2000)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "IBM System/36" – news · newspapers · books · scholar · JSTOR (August 2018) (Learn how and when to remove this message)
+IBM System/36Model 5360Also known asS/36DeveloperIBMTypeMidrange computerRelease dateMay 16, 1983; 41 years ago (1983-05-16)Discontinued1989 (1989)Operating systemSystem Support ProgramCPUMSP and CSPDimensions1000x1130(1780)x750mm (5360) 650x375x750mm (5362)
+162x540x426mm (5364)
+
+650x240(320)x700mm (5363)[1]PredecessorIBM System/34SuccessorIBM AS/400
+IBM 5360 System Unit
+IBM 5362 System Unit
+The IBM System/36 (often abbreviated as S/36) was a midrange computer marketed by IBM from 1983 to 2000 - a multi-user, multi-tasking successor to the System/34.
+Like the System/34 and the older System/32, the System/36 was primarily programmed in the RPG II language. One of the machine's optional features was an off-line storage mechanism (on the 5360 model) that utilized "magazines" – boxes of 8-inch floppies that the machine could load and eject in a nonsequential fashion. The System/36 also had many mainframe features such as programmable job queues and scheduling priority levels.
+While these systems were similar to other manufacturer's minicomputers, IBM themselves described the System/32, System/34 and System/36 as "small systems"[2] and later as midrange computers along with the System/38 and succeeding IBM AS/400 range.
+The AS/400 series and IBM Power Systems running IBM i can run System/36 code in the System/36 Environment, although the code needs to be recompiled on IBM i first.[3]
+
+
+Overview of the IBM System/36[edit]
+latest 5363 system with AS/entry branding; Front of a 5363 prior to IPL
+The IBM System/36 was a popular small business computer system, first announced on 16 May 1983[4] and shipped later that year. It had a 17-year product lifespan. The first model of the System/36 was the 5360.
+In the 1970s, the U.S. Department of Justice brought an antitrust lawsuit against IBM, claiming it was using unlawful practices to knock out competitors. At this time, IBM had been about to consolidate its entire line (System/370, 4300, System/32, System/34, System/38) into one "family" of computers with the same ISAM database technology, programming languages, and hardware architecture. After the lawsuit was filed, IBM decided it would have two families: the System/38 line, intended for large companies and representing IBM's future direction, and the System/36 line, intended for small companies who had used the company's legacy System/32/34 computers. In the late 1980s the lawsuit was dropped, and IBM decided to recombine the two product lines, creating the AS/400 - which replaced both the System/36 and System/38.
+The System/36 used virtually the same RPG II, Screen Design Aid, OCL, and other technologies that the System/34 used, though it was object-code incompatible. The S/36 was a small business computer; it had an 8-inch diskette drive, between one and four hard drives in sizes of 30 to 716 MB, and memory from 128K up to 7MB. Tape drives were available as backup devices; the 6157 QIC (quarter-inch cartridge) and the reel-to-reel 8809 both had capacities of roughly 60MB.  The Advanced/36 9402 tape drive had a capacity of 2.5GB. The IBM 5250 series of terminals were the primary interface to the System/36.
+
+System architecture[edit]
+Processors[edit]
+S/36s have two 16-bit processors, the CSP or Control Storage Processor, and the MSP or Main Storage Processor. The MSP is the workhorse; it performs the instructions in the computer programs. The CSP is the governor; it performs system functions in the background. Special utility programs are able to make direct calls to the CSP to perform certain functions; these are usually system programs like $CNFIG which is used to configure the computer system. As with the earlier System/32 and System/34 hardware, the execution of so-called "scientific instructions" (i.e. floating-point operations) is implemented in software on the CSP.[5]
+The primary purpose of the CSP is to keep the MSP busy; as such, it runs at slightly more than four times the speed of the MSP. The first System/36 models (the 5360-A) have a 4 MHz CSP and a 1 MHz MSP. The CSP loads code and data into main storage behind the MSP's program counter. As the MSP is working on one process, the CSP is filling storage for the next process.
+The 5360 processors came in four models, labeled 5360-A through 5360-D. The later "D" model is about 60 percent faster than the "A" model.
+
+Front panel[edit]
+The 5360, 5362, and 5363 processors had a front panel display with four hexadecimal LEDs.  If the operator "dialed up" the combination F-F-0-0 before performing an Initial Program Load (IPL, or system boot), many diagnostics were skipped, causing the duration of the IPL to be about a minute instead of about 10 minutes. Of course part of the IPL was typically keysorting the indexed files and if the machine had been shut down without a "keysort" (performed part of the P S (or STOP SYSTEM) then depending on the number of indexed files (and their sizes) it could take upwards of an hour to come back up.
+
+Memory and disk[edit]
+The smallest S/36 had 128K of RAM and a 30 MB hard drive.
+The largest configured S/36 could support 7MB of RAM and 1478MB of disk space. This cost over US$200,000 back in the early 1980s. S/36 hard drives contained a feature called "the extra cylinder," so that bad spots on the drive were detected and dynamically mapped out to good spots on the extra cylinder. It is therefore possible for the S/36 to use more space than it can technically address. Disk address sizes limit the size of the active S/36 partition to about 2GB; however, the Advanced/36 Large Package had a 4GB hard drive which could contain up to three (emulated) S/36s, and Advanced/36 computers had more memory than SSP could address (32MB to 96MB) which was used to increase disk caching.
+Disk space on the System/36 was organized by blocks, with one block consisting of 2560 bytes. A high-end 5360 system would ship with about 550,000 blocks of disk space available. System objects could be allocated in blocks or records, but internally it was always blocks.
+The System/36 supported memory paging, referred to as "swapping".[6]
+
+Software[edit]
+System/36 SSP Main Menu
+Main article: System Support Program
+The System Support Program (SSP) was the only operating system of the S/36. It contained support for multiprogramming, multiple processors, 80 devices, job queues, printer queues, security, indexed file support, and fully installed, it was about 10MB. On the Advanced/36, the number of workstations/printers was increased to 160. In the Guest/36 environment of certain OS/400 releases, up to 216 devices were supported.
+The S/36 could compile and run programs up to 64 kB in size, although most were not this large. This became a bottleneck issue only for the largest screen programs. With the Advanced/36, there were features added to the SSP operating system including the ability to call other programs from within. So a program that was say 60 kB could call another program that was 30kB or 40KB. This call/parm had been available with third-party packages on the System/36 but not widely used until the feature was put in 7.1 and 7.5 of SSP on the Advanced/36.
+
+Hardware models[edit]
+
+
+System/36 series model list
+
+
+
+
+
+
+Main line
+
+
+
+Compatible (IBM AS/400-based)
+
+
+Position
+
+Form Factor
+
+1984
+
+1985
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+
+Entry
+
+desktop
+
+
+
+5364
+
+
+
+
+
+
+5363
+
+AS/Entry (P03; 10S)
+
+AS/Entry (150)
+
+
+desk-side
+
+5362
+
+
+
+
+
+
+Advanced/36 (236, 436)
+
+Advanced/36 (170)
+
+
+Full-size
+
+5360
+
+
+
+Main line[edit]
+System/36 Model 5360[edit]
+The System/36 5360 was the first model of System/36. It weighed 700 lb (318 kg), cost $140,000 and is believed to have had processor speeds of about 2 MHz and 8 MHz for its two processors. The system ran on 208 or 240 volts AC.
+The five red lights on the System/36 were as follows:
+(1) Power check.
+(2) Processor check.
+(3) Program check.
+(4) Console check.
+(5) Temperature check.
+If any light other than #4 ever came on, the system needed to be rebooted. Console can be restored if it has been powered off, but the other conditions are unrecoverable.
+There were various models of the 5360, including a C and D model that dealt with speed and the ability to support an additional frame to house two additional drives.
+
+System/36 Model 5362[edit]
+IBM introduced the 5362 or "Compact 36" in 1984[7] as a system targeted at the lower end of their market.  It had a deskside tower form factor. It was designed to operate in a normal office environment, requiring little special consideration.  It differed from the 5360 in by having a more limited card cage, capable of fewer peripherals. It used 14" fixed disks (30 or 60 MB) and could support up to two; main storage ranged from 128 KB to 512 KB.[4]  One 8" floppy diskette drive was built in. The 5362 also allowed the use of a channel attached external desktop 9332-200, 400, & 600 DASD, effectively allowing a maximum of 720MB.
+
+The 5362 weighed 150 pounds (68 kg) and cost $20,000.IBM 5364 System Unit
+System/36 Model 5364[edit]
+The model 5364 was called the "System/36 PC"[8] or "Desktop 36" (and also, informally, the "Baby/36" by some – but this name was later attached to a software program produced by California Software Products, Inc.).  The 5364 was a June 1985[9] attempt by IBM to implement a System/36 on PC-sized hardware. Inside, there were IBM chips, but the cabinet size was reminiscent of an IBM PC/AT of the period. The machine had a 1.2 MB 5.25-inch diskette drive,[7] which was incompatible with PCs and with other S/36s. The control panel/system console (connected via an expansion card) was an IBM PC with at least 256 KB RAM.
+
+System/36 Model 5363[edit]
+The model 5363 was positioned as a replacement for the 5364, and was announced in October 1987.[10] It used a deskside tower style enclosure like that of the 5362, but was only 2/3 the size.  It featured updated hardware using newer, smaller hard drive platters, a 51⁄4" diskette drive, and a revised distribution of the SSP.
+
+AS/400-based backports[edit]
+The System/36 Environment of IBM i (previously OS/400) is a feature which provides a number of SSP utilities, as well as RPG II and OCL support. It does not implement binary compatibility with the System/36 - instead it allows programmers to port System/36 applications to IBM i by recompiling the code on top of the System/36 Environment, generating programs which use the native IBM i APIs.
+From V3R6 to V4R4, OS/400 was capable of running up to three instances of SSP inside virtual machines known as Advanced 36 Machines. This relied on emulation of emulation of the MSP implemented by the OS/400 SLIC, and thus provided binary compatibility with SSP programs.[11]
+
+AS/400 9401-150 (also known as "Advanced Entry")
+AS/Entry (9401)[edit]
+The AS/Entry was just a stripped-down AS/400, first model was based on a AS/400 9401-P03. The operating system was SSP Release 6.  This machine was offered c.1991 to target customers who had a S/36 and wanted to one day migrate to an AS/400, but did not want a large investment in an AS/400.  In this regard, the AS/Entry was a failure because IBM decided the machine's architecture was not economically feasible and the older model 5363 that the 9401 was based on was a much more reliable system.
+The entry line was later upgraded to AS/400 9401-150 hardware.
+
+AS/400 9402-400 model with expansion module and terminal; 9402-436 were based on a 9402-400.
+Advanced/36 (9402, 9406)[edit]
+Main article: IBM Advanced/36
+In 1994, IBM released the AS/400 Advanced/36[12]  with two models (9402-236 and 9402-436). Priced as low as $7995, it was a machine that allowed System/36 users to get faster and more modern hardware while "staying 36". Based on standard AS/400 hardware, the Advanced/36 could run SSP, the operating system of the System/36, alone, or within AS/400's OS/400 as a virtual machine[13] so that it could be upgraded to a full-blown AS/400 for just extra licensing costs. The A/36 was packaged in a black enclosure which was slightly larger than a common PC cabinet.
+The Advanced/36 bought the world of System/36 and SSP about five more years in the marketplace, but by the end of the 20th century, the marketplace for the System/36 was almost unrecognizable. The IBM printers and displays that had completely dominated the marketplace in the 80s were replaced by a PC or a third-party monitor with an attached PC-type printer. Twinaxial cable had disappeared in favor of cheap adapters and standard telephone wire. The System/36 was eventually replaced by AS/400s at the high end and PCs at the low end. 
+The Advanced line was later upgraded to AS/400 9406-170 hardware. By 2000, the Advanced/36 was withdrawn from marketing.
+
+References[edit]
+
+
+^ "Brochures of IBM system/36". archive.org.
+
+^ "IBM Archives: Italy chronology 1970 – 1997". Archived from the original on 2007-10-22.
+
+^ Kay Geppart (January 2001). "An Overview of the System/36 Environment". IBM Systems Magazine. Archived from the original on December 22, 2019.
+
+^ a b "IBM Archives: IBM System/36". Archived from the original on 2006-07-02.
+
+^ "System/36 Programming with Assembler" (PDF). Bitsavers. IBM. January 1986. Retrieved 2021-12-22.
+
+^ "System/36 Concepts and Programmer's Guide" (PDF). IBM. June 1987. Retrieved 2021-05-01.
+
+^ a b "IBM Archives: Rochester chronology – page 4". Archived from the original on 2008-03-27.
+
+^ "With the IBM System/36 PC, you can run your business from here. (Advertisement)". PC Magazine. Vol. 5, no. 13. Ziff Davis, Inc. July 1986. p. 131.
+
+^ "IBM Unveils Multitasking Processor for Use with PC Interface, and Upgrades System-38 Processor".
+
+^ "COMPANY NEWS; I.B.M. INTRODUCES SYSTEM/36 MODE". The New York Times.
+
+^ Frank G. Soltis (2001). Fortress Rochester: the Inside Story of the IBM iSeries. System iNetwork. ISBN 978-1583040836.
+
+^ "A Brief History of the IBM AS/400 and iSeries" (PDF). Archived from the original (PDF) on May 3, 2006.
+
+^ "9402-436 IBM AS/400 Advanced 36 Model 436". IBM. Archived from the original on 2016-08-12.
+
+
+Further reading[edit]
+Beckman, Mel; Kratzer, Gary; Pence, Roger. News 3X/400's Desktop Guide to the S/36 (PDF).
+Lundgren, Chuck. S/36 Power Tools: Tips and Techniques from News 3X/400 (PDF).
+Massoglia, Charles. Everything You Always Wanted to Know About the System/34 But Nobody Told You.
+Massoglia, Charles. System/3, System/34, and System/36 Disk Sort as a Programming Language.
+Massoglia, Charles. Writing and Using System/34 Procedures Effectively.[citation needed]
+Lee, Merikay. Everything You Always Wanted to Know About POP But Nobody Told You.[citation needed]
+External links[edit]
+
+
+
+Wikimedia Commons has media related to IBM System/36.
+
+IBM Archives: IBM System/36 at the Wayback Machine (archived 2006-07-02)
+Bitsavers' Archive of System/36 Documentation
+IBM System/36 brochures and Manuals at the Wayback Machine (archived 2014-02-21)
+
+
+IBM midrange computers
+
+
+Preceded byIBM System/34
+
+ IBM System/36 1983 - 1990
+
+Succeeded byIBM System/36 compatible(Advanced/36; AS/Entry)
+
+
+Succeeded byIBM AS/400
+
+
+vteIBM mini/midrange computers, workstations, and serversIBM 1130
+1132 line printer
+1442 card reader/punch
+1500 instructional system
+1627 drum plotter
+1800 Data Acquisition and Control System
+1627 plotter (Calcomp)
+IBM 1400
+1401
+1410
+1440
+1460
+peripherals
+1402 card reader/punch
+1403 line printer
+1442 card reader/punch
+7330 Magnetic Tape Unit
+IBM System
+System/3
+System/3X
+System/32
+System/34
+System/36
+System/38
+System/7
+System 9000
+System p
+System x
+iDataPlex
+Predecessors: PS/2 Server
+PC Server
+Netfinity
+eServer
+Power Systems
+AS/400
+Advanced/36*
+RS64 microprocessor
+Applications, software, and concepts
+Control Language
+Dealer Business System
+Dynamic Logical Partitioning
+OS/400
+object
+Programming Development Manager
+Quick Response Engine
+Single-level store
+
+RS/6000
+ThinkPad Power Series
+Predecessors: RT PC
+Academic System
+Other
+IBM 801
+3790 Communications System
+8100 Information System
+BladeCenter
+IntelliStation
+Series/1
+* Also based on the System/36
+ Category
+ Minicomputers on Commons
+ Servers on Commons
+Authority control databases: National United StatesIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_System/36&oldid=1251967005"
+Categories: IBM minicomputersComputer-related introductions in 198316-bit computersHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from August 2018All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from October 2023Commons category link is on WikidataWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 19 October 2024, at 02:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM System/36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

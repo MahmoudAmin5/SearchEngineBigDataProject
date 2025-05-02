@@ -1,0 +1,952 @@
+https://en.wikipedia.org/wiki/Subnotebook
+
+
+
+
+Subnotebook - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Types and sizes
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+2.1
+Before 1992
+
+
+
+
+
+
+
+
+2.2
+1992–1995
+
+
+
+
+
+
+
+
+2.3
+1996–2000
+
+
+
+
+
+
+
+
+2.4
+2001–2006
+
+
+
+
+
+
+
+
+2.5
+2007–present
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Subnotebook
+
+
+
+18 languages
+
+
+
+
+AfrikaansAzərbaycancaবাংলাCatalàČeštinaDanskDeutschEspañolFrançais한국어ItalianoPortuguêsРусскийSvenskaTürkçeУкраїнськаWalon中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Obsolete term for smaller laptops
+Types of subnotebooks, clockwise from left: Classic subnotebook (Compaq Contura Aero), Netbook (Asus Eee PC 1000H), Palmtop/Handheld PC (Sony VAIO C1, Fujitsu Lifebook 810U)
+Sizes (smallest to largest): Nintendo DS Lite (handheld console), Asus Eee PC (netbook) and 13.3" MacBook (laptop).
+Subnotebook, also called ultraportable, superportable, handtop, mini notebook or mini laptop, is a type of laptop computer that is smaller and lighter than a typical notebook-sized laptop.
+
+
+Types and sizes[edit]
+Sizes of classic subnotebooks (2001's ThinkPad s30, 10.4") and early netbooks (2008's Eee PC 901, 8.9"); note to reduced keycaps size
+As typical laptop sizes have decreased over the course of the 2010s, and other distinguishing features have become mainstream, the distinction between regular-size and 'subnotebook' laptops has largely disappeared. To the extent that it still exists, 'subnotebook' could be defined as machines with screen smaller than 13" but with a permanently-attached keyboard intended for two-handed typing.
+Prior to this convergence, subnotebooks were also distinguished from netbooks and ultra-mobile PCs, based on both size and market position. Subnotebooks run full desktop class operating systems, and their CPUs are usually the same as those in desktops although perhaps modified for lower power consumption.[1]
+Classic subnotebooks were smaller than full-sized laptops but larger than handheld computers. They were distinguished by smaller screens and bodies and lighter weights relative to contemporaneous laptops. The savings in size and weight were often achieved partly by omitting ports, and these were typically the first machines to omit optical disc drives or on some of the earliest models, floppy disk drives.
+They were also some of the first systems which could be paired with docking stations to compensate. One notable form-factor of subnotebook-oriented docks were "slice docks" — a more transportable version of the classic docking station.[2][3]
+
+
+
+Subnotebooks relative to other laptop marketing terms
+
+
+Type
+
+Screen size
+
+Weight
+
+Distinguishing Characteristics
+
+CPU type(s)
+
+Years of production
+
+
+Classic subnotebook
+
+5-12"
+
+0.9-1.8 kg
+
+
+
+Varies, mostly x86
+
+1992-2018 (worldwide)/
+2018-current (Asia only)[4][5]
+
+
+
+Palmtop/handheld
+
+5-9"
+
+0.3-0.8 kg
+
+Size, and miniaturized keyboard
+
+Varies, typically ultra-low power
+
+1989-current
+
+
+Netbook
+
+7-13"
+
+0.7-1.5 kg
+
+Very low cost
+
+Low power x86;
+most often Intel Atom
+
+
+2007-2015
+
+
+Smartbook
+
+5-10"
+
+0.4–1 kg
+
+Mobile broadband modem
+
+x86 low power or ARM
+
+2009-2011
+
+
+Chromebook
+
+10-15"
+
+varies
+
+ChromeOS
+
+x86 or ARM
+
+2011-current
+
+
+Ultrabook
+
+12-17"
+
+0.7-1.6 kg
+
+Use of premium materials,
+particularly a metal chassis
+
+
+Intel x86
+
+2011-2018
+(trademark is still active)[6][7]
+
+
+History[edit]
+Before 1992[edit]
+The Epson HX-20, released in 1982, was the first portable computer to be classified by journalists as a "notebook computer". This nomenclature derives from its footprint roughly occupying the same dimensions as an A4-sized notebook, small enough to fit inside a briefcase.[8][9] The similarly designed TRS-80 Model 100 from 1983 was the first commercially successful notebook and is credited with spawning an industry of smaller portable computers.[10][11] Like the HX-20, the Model 100 was smaller than contemporary clam-shell machines; both use a slate form factor, with no hinge and the keyboard and screen on the same plane.  The Model 100's later sibling the Tandy 200 was a clam-shell design and smaller than contemporary laptops.
+The NEC UltraLite, launched in 1988, was the first clamshell "notebook computer" compatible with the IBM PC, a platform whose market share dominated the microcomputer industry throughout the 1980s onward. Its relatively small dimensions — 48 × 220 × 280 mm (1.4 × 8.3 × 11.75 inches) — matched those of a pair of stacked US Letter (similar to A4) size paper notebooks.[11] Owing to its lack of a floppy drive (in favor of proprietary solid-state storage), the UltraLite did not see massive uptake by the general public. The first commercially successful notebook in this vein, the Compaq LTE, was released in 1989 to critical acclaim and high sales.[12][13] The success of the LTE convinced IBM and Apple to release their own slimmer laptops, starting with the PS/2 Model L40 SX and the PowerBook 100, respectively.[14]: 59 [15]: 75  IBM replaced the L40 SX with the PS/2 note in early 1992 and the ThinkPad line in late 1992.[15]
+There were also a few notable smaller-than subnotebook PCs at this time, including the Atari Portfolio and HP 95LX[16] — both very small MS-DOS machines, roughly comparable in size to later handheld PCs.
+
+1992–1995[edit]
+Gateway HandBook 486 and HP Omnibook 300
+At the end of 1992, PCMag magazine[17] described two models as subnotebooks: these were the Gateway HandBook the Dell 320SLi[18][19] (both less than a 1.6 kg weight), and another was released in Italy: the Olivetti Quaderno.[20]
+Apple and Compaq did not label their machines as "subnotebooks" in this period, but the PowerBook Duo and Compaq LTE Lite otherwise qualify, and both lines were among the first to broadly popularize docking stations.
+Another early model was the Hewlett-Packard OmniBook 300, which was launched as a "superportable" in 1993; it was one of the first examples to use a flash memory disk instead of a hard drive, to reduce the weight.[21]
+Toshiba, also entered the market that year with the Portege T3400 and T3400CT, claiming that "It's the first subnotebook computer with all the functionality of a much larger computer";[22] the T3400CT was the first subnotebook with a color screen.  in 1995, Tosbiba introduced the Libretto 20, with a 6.1″ screen; CNet reported about the Libretto 50CT that "[it] is the first full-fledged Windows 95 notebook in the United States weighing less than two pounds".[23]
+Compaq introduced its own short lived subnotebook line in 1994 called Contura Aero, notable for using a battery which was intended to be standard rather than only useful for Compaq products.[24]
+
+IBM Palm Top PC 110 with and without slice port replicator
+IBM released a Palm Top PC (handheld laptop with 4.7" screen) in 1995.[25]
+
+1996–2000[edit]
+IBM had sold "thin and light" models in its ThinkPad range, such as the ThinkPad 560 ultraportable (1996) and best-selling ThinkPad 600 (1998). It finally entered the subnotebook market in 1999 with the 1.3 kg ThinkPad 240, targeted at business travellers.[26] The 240 and 240X had 10.4″ screens. Later, however, IBM replaced these with the X range, with 12.1″ screens.[27]
+
+An Apple PowerBook Duo 270c
+In 1997 Mitsubishi Electric released ultra-compact 12.1" Mitsubishi Pedion laptop line with ultrathin magnesium case (18 × 218 × 297 mm) and chiclet keyboard.[28] This short-living model line was sold only in Japan, and was discontinued after some hardware issues. Sony launched an ultraportable (ultrathin) less than an inch thick in Japan - the PCG-505, which reached the US in 1997 as the VAIO 505GX. This was followed by the even thinner Sony VAIO X505, which measured just 0.8 × 8.2 × 10.2 inches, and reached 0.3″ at its thinnest.[29] However, it was very expensive and had poor battery life, and was soon withdrawn.
+Apple replaced the aging PowerBook Duo line with relatively light-weight (4.4 lb (2.0 kg)) but short-lived PowerBook 2400c; this was co-designed by IBM, and manufactured for Apple by IBM Japan. In 2000 Compaq released a more compact successor of Digital HiNote line - the 10.3" Armada M300, with magnesium case and 1.6 kg weight.
+Sony also launched the C1 range of subnotebooks, starting in Japan in 1998.[30]
+
+2001–2006[edit]
+This period was notable for a major split between lower-power-consumption and higher power x86 processors in laptops; although Intel released the Pentium 4 mobile chips, the mobile Pentium III remained available because of high power consumption on the Pentium 4 leading to high heat and short battery life.  This was followed by the Pentium M, which was a dedicated line of mobile processors with no desktop equivalent. This era also featured processors from Transmeta, intended to be extremely power efficient.
+One of the most notable Sony models was the Vaio PCG-C1VE or PictureBook (2001). It was one of the first machines with a digital camera built into the lid, which could be used for video conferencing or swiveled to photograph a scene.[31]
+This was followed in 2005 by the Flybook convertible with a 8.9 inch touch screen.  The Flybook featured a built-in phone connection for GPRS or 3G networking, and is available in a range of bright colors. This was covered in non-computer magazines including GQ, FHM, Elle and Rolling Stone.[32]
+In 2006, Microsoft introduced a new ultra-mobile PC format, under the code-name Origami. These were smaller versions of Tablet PC computers; One example was the Samsung Q1.[33]
+
+2007–present[edit]
+Left: 2012's Dell Latitude XT3 - as a sample of the latest classic subnotebooks with dock station support, additional battery, ruggerized case, 35W CPU[34] and additional input options.Right: Asus, Everex and HP netbooks/smartbooksSince 2007, the laptop computer market has seen an increased segmentation of microprocessor lines to different purposes and power levels, including the introduction of the Intel Atom, ultra-low-voltage processors which has since having become mainstream, and the use of ARM microprocessors.
+Another notable implementation was a migrate from CCFL screen backlit to more energy-efficiently and compact LED-backlit screens. On the other hand, over the course of the 2010s, with growing of sales for mainstream users, optical drives and legacy ports became uncommon, and some classic subnotebook features (like additional replaceable batteries, alternative input methods, docking options, Smart Cards, mobile broadband modules, additional storage) become rare. At Computex 2011 Intel announced a new system branding called Ultrabooks; these very much match the prior description of subnotebooks - they used lower-powered processors (but not as low-end as netbooks) and with each generation of Intel processors, the lower-powered U-series processors became a larger part of mainstream sales. typically lacked optical drives and legacy ports, and were generally compact, but as marketed the two terms were rarely used together. Noticeable releases:
+In 2007 the ASUS Eee PC became the first of a new class of low-cost laptops commonly called netbooks. Netbooks are typically based upon the Atom processors, while other subnotebooks use more powerful processors such as ULV types.
+
+13" ultrabooks: 2011's MacBook Air and 2018's HP Envy
+In 2008, Apple introduced the MacBook Air, which the company claimed was the world's thinnest notebook. This model was notable for offering no built-in optical drive.[35][36]
+In the same year Lenovo released last widely known hi-end 12" subnotebook line without touchpad, the ThinkPad X200, X200s and X200 Tablet models.[37]
+In 2010 saw a number of semi-rugged low-end subnotebooks for the education market, including the Dell Latitude 2100, Lenovo ThinkPad x100e, and HP ProBook Education Edition; these notably had laptop charging trolley support. 
+
+11.6" 2012's Samsung Series 3 Chromebook[38]
+In 2011, the first Chromebooks were introduced by Google, and Intel's introduced the Ultrabook branding for premium thin-and-light laptops.  Over the next several years, specific marketing of laptops as "subnotebooks" died out, and since 2017 the term is essentially dead in mainstream branding. As of the early 2020s plenty of smaller laptops remain on the market which could adequately be described as subnotebooks, ranging from the likes of the GPD Pocket (7-inch display)[39] to Microsoft Surface Laptop Go (12-inch display),[40] and the term is still sometimes used informally although is no longer used by manufacturers.
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Subnotebooks.
+
+List of computer size categories
+Netbook
+Palmtop/Handheld
+Intel Mobile Internet Device
+UMPC, a small form-factor tablet PC platform
+Smartbook
+References[edit]
+
+
+^ "Smaller is getting better : The unbeatable lightness of miniature laptops". Retrieved 2024-11-22.
+
+^ "Lenovo ThinkPad X220 Review - Notebook Reviews by MobileTechReview". www.mobiletechreview.com. Retrieved 2021-04-25.
+
+^ Jentsch, Sebastian. "Review Sony Vaio VPC-SA2Z9E/B (i7, SSD, HD 6630M) Subnotebook". Notebookcheck. Retrieved 2021-04-25.
+
+^ Chakrabarty, Jayaditya (2020-10-13). "Panasonic Launched New Rugged Notebook CF-SV8". Review Center India. Retrieved 2021-04-23.
+
+^ devicenext (2020-06-29). "Panasonic Toughbook CF-SV8". DEVICENEXT. Retrieved 2021-04-23.
+
+^ "Why Ultrabook Laptops Aren't Just MacBook Air Clones". PCWorld. 2012-05-17. Retrieved 2021-04-23.
+
+^ "Not sure what Intel Evo means for laptops? We explain it all right here". Windows Central. 2020-10-07. Retrieved 2021-04-25.
+
+^ Kent, Allen; James G. Williams, eds. (1990). Encyclopedia of Microcomputers. Vol. 6. Marcel Dekker. p. 298. ISBN 9781000723304 – via Google Books.
+
+^ "Epson HX-20". Victoria and Albert Museum. n.d.
+
+^ McCracken, Harry (August 6, 2012). "A 35th-anniversary salute to Radio Shack's TRS-80". CNN.com. Warner Bros. Discovery. Archived from the original on April 15, 2022.
+
+^ a b Lewis, Peter H. (August 21, 1990). "Notable Notebooks". The New York Times: C7 – via ProQuest.
+
+^ Bridges, Linda (March 1, 1999). "Making a Difference". eWeek. Ziff-Davis: 76 – via Gale.
+
+^ Lewis, Peter H. (October 17, 1989). "Compaq Does It Again". The New York Times: C8. Archived from the original on October 19, 2023.
+
+^ Thomke, Stefan H. (2007). "Apple PowerBook: Design Quality and Time to Market". Managing Product and Service Department: Text and Cases. McGraw-Hill/Irwin. pp. 59–82. ISBN 9780073023014 – via the Internet Archive.
+
+^ a b Dell, Deborah A. (2000). ThinkPad: A Different Shade of Blue. Sams Publishing. pp. 75–78. ISBN 9780672317569 – via the Internet Archive.
+
+^ "Retro Isle - HP95LX, 100LX and 200LX". retroisle.com. Retrieved 2021-01-06.
+
+^ PC Mag. Ziff Davis, Inc. 1992-10-27.
+
+^ Torgan, Emerson (1992-10-13). Dell Breaks the Full-Featured 4-Pound Barrier with Compact 320SLi. PC Mag. p. 46.
+
+^ Lee, Yvonne (1992-06-08). Dell's notebook drops the weight, retains the power. InfoWorld. p. 18.
+
+^ "Lavorare dovunque: i computer portatili Olivetti". Archived from the original on 2 April 2015. Retrieved 2 April 2011.
+
+^ Hardware Archived 2012-02-27 at the Wayback Machine
+
+^ "Support – Business PCs - Toshiba". www.toshiba-europe.com. Retrieved 6 April 2018.
+
+^ "Toshiba unwraps subnotebook". cnet.com. 2 June 1997.
+
+^ "QuickSpecs -- Compaq Contura Aero (Consumer Products)". www.rigacci.org. Retrieved 2021-01-06.
+
+^ 1995 Press Release - 年のプレスリリース一 IBM.com
+
+^ "FindArticles.com - CBSi". findarticles.com. Retrieved 6 April 2018.
+
+^ HPC:Factor. "IBM Workpad z50 Review". HPC:Factor. Retrieved 2020-12-04.
+
+^ "Pedionペディオン (Mitsubishi) 1997年". 古いハードに囲まれて. Retrieved 2020-12-05.
+
+^ "Sony VAIO X505 review: Sony VAIO X505". 31 August 2004. Retrieved 6 April 2018.
+
+^ "Sony Global - Press Release - Sony Announces New VAIO Notebook Computer Equipped with a Built-in Miniature CCD Video Camera for Sending Images over E-mail". www.sony.net.
+
+^ "Sony Vaio C1 Laptop Info". Archived from the original on 2002-06-03. Retrieved 2007-02-16.
+
+^ "Fly book - The world's most popular frequent flyer community - Fly book is a living, growing community where frequent travelers around the world come to exchange knowledge and experiences about everything miles and points related". www.flybook.biz. Archived from the original on 22 November 2005. Retrieved 6 April 2018.
+
+^ Williams, Martyn (2006-03-09). "Hands on with Samsung's Q1 (Origami)". Computerworld. Retrieved 2021-04-26.
+
+^ "Intel® Core™ i7-2640M Processor (4M Cache, up to 3.50 GHz) Product Specifications". ark.intel.com. Retrieved 2021-04-26.
+
+^ "It was the MacBook Air sub-notebook". Retrieved 2017-12-27.
+
+^ "MacBook Air (13-inch, 2017) - Technical Specifications". support.apple.com. Retrieved 2017-12-27.
+
+^ "Lenovo ThinkPad X200 Review". www.notebookreview.com. Retrieved 2021-04-26.
+
+^ November 2012, Daniel Berg 01. "Samsung Chromebook Series 3 (XE303C12) | Notebook Review". LaptopMag. Retrieved 2021-04-26.{{cite web}}:  CS1 maint: numeric names: authors list (link)
+
+^ "7-inch subnotebook GPD Pocket starts crowdfunding February 15". Retrieved 2024-11-22.
+
+^ "Microsoft Surface Laptop Go 3 in review - Overpriced subnotebook without keyboard illumination". Retrieved 2024-11-22.
+
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Subnotebook&oldid=1276457228"
+Categories: LaptopsJapanese inventionsSubnotebooksHidden categories: Webarchive template wayback linksCS1 maint: numeric names: authors listArticles with short descriptionShort description is different from WikidataPages using multiple image with manual scaled imagesCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 18 February 2025, at 23:26 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Subnotebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

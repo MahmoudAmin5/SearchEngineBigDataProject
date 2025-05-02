@@ -1,0 +1,677 @@
+https://en.wikipedia.org/wiki/Z1_(computer)
+
+
+
+
+Z1 (computer) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Design
+
+
+
+
+
+
+
+
+2
+Construction
+
+
+
+
+
+
+
+
+3
+Reconstruction
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+Further reading
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Z1 (computer)
+
+
+
+18 languages
+
+
+
+
+CatalàDanskDeutschΕλληνικάEspañolفارسیFrançais한국어ItalianoעבריתNederlands日本語PolskiPortuguêsРусскийSvenskaதமிழ்Українська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Mechanical computer built by Konrad Zuse in the 1930s
+
+
+Z1Replica of the Z1 in the German Museum of Technology in BerlinAlso known asV1 (Versuchsmodell 1)DeveloperKonrad ZuseTypeProgrammable, binary, electrically motor-driven mechanical computerRelease date1938; 87 years ago (1938)Lifespan5 yearsMedia35-millimeter filmCPUCa. 30,000 metal sheets @ 1 HzMemoryOriginal: 16-word floating point memory
+Replica: 64-word floating point memoryInputKeyboard, punched tape readerPowerElectric motor of a vacuum cleanerWeight1 tonne (2,200 lb)SuccessorZ2
+The Z1  was a motor-driven mechanical computer designed by German inventor Konrad Zuse from 1936 to 1937, which he built in his parents' home from 1936 to 1938.[1][2] It was a binary, electrically driven, mechanical calculator, with limited programmability, reading instructions from punched celluloid film.
+The “Z1” was the first freely programmable computer in the world that used Boolean logic and binary floating-point numbers; however, it was unreliable in operation.[3][4]  It was completed in 1938 and financed completely by private funds. This computer was destroyed in the bombardment of Berlin in December 1943, during World War II, together with all construction plans.
+The Z1 was the first in a series of computers that Zuse designed. Its original name was "V1" for Versuchsmodell 1 (meaning Experimental Model 1). After WW2, it was renamed "Z1" to differentiate it from the flying bombs designed by Robert Lusser.[5] The Z2 and Z3 were follow-ups based on many of the same ideas as the Z1.
+
+
+Design[edit]
+Diagrams from Zuse's May 1936 patent for a binary switching element using a mechanism of flat sliding rods. The Z1 was based on such elements.
+The Z1 contained almost all the parts of a modern computer, i.e. control unit, memory, micro sequences, floating-point logic, and input-output devices. The Z1 was freely programmable via punched tape and a punched tape reader.[6] There was a clear separation between the punched tape reader, the control unit for supervising the whole machine and the execution of the instructions, the arithmetic unit, and the input and output devices.
+The input tape unit read perforations in 35-millimeter film.[7]
+The Z1 was a 22-bit floating-point value adder and subtractor, with some control logic to make it capable of more complex operations such as multiplication (by repeated additions) and division (by repeated subtractions). The Z1's instruction set had eight instructions and it took between one and twenty-one cycles per instruction.
+The Z1 had a 16-word floating point memory, where each word of memory could be read from – and written to – the control unit. The mechanical memory units were unique in their design and were patented by Konrad Zuse in 1936. The machine was only capable of executing instructions while reading from the punched tape reader, so the program itself was not loaded in its entirety into internal memory in advance.
+The input and output were in decimal numbers, with a decimal exponent and the units had special machinery for converting these to and from binary numbers. The input and output instructions would be read or written as floating-point numbers. The program tape was a 35 mm film with the instructions encoded in punched holes.
+
+Construction[edit]
+
+
+There is a replica of this Model in the Museum of Traffic and Technology in Berlin. Back then it didn't function well, and in that regard the replica is very reliable — it also doesn't work well.[8]
+
+
+-Konrad Zuse
+
+Inside view of the Z1
+Numeric input
+The output of computational results
+"Z1 was a machine weighing about 1 tonne in weight, which consisted of some 20,000 parts. It was a programmable computer, based on binary floating-point numbers and a binary switching system. It consisted completely of thin metal sheets, which Zuse and his friends produced using a jigsaw."[9] "The [data] input device was a keyboard...The Z1's programs (Zuse called them Rechenpläne, computing plans) were stored on punch tapes using an 8-bit code"[9]
+Construction of the Z1 was privately financed. Zuse got money from his parents, his sister Lieselotte, some students of the fraternity AV Motiv (cf. Helmut Schreyer), and Kurt Pannke (a calculating machine manufacturer in Berlin) to do so.
+Zuse constructed the Z1 in his parents' apartment; in fact, he was allowed to use the living room for his construction. In 1936, Zuse quit his job in airplane construction to build the Z1.
+Zuse is said to have used "thin metal strips" and perhaps "metal cylinders" or glass plates to construct Z1. There were probably no commercial relays in it (though the Z3 is said to have used a few telephone relays).
+The only electrical unit was an electric motor to give the clock frequency of 1 Hz (cycle per second) to the machine.
+'The memory was constructed from thin strips of slotted metal and small pins and proved faster, smaller, and more reliable, than relays. The Z2 used the mechanical memory of the Z1 but used relay-based arithmetic. The Z3 was experimentally built entirely of relays.
+The Z4 was the first attempt at a commercial computer, reverting to the faster and more economical mechanical slotted metal strip memory, with relay processing, of the Z2, but the war interrupted the Z4 development.'[10]
+The Z1 was never very reliable in operation because of poor synchronization caused by internal and external stresses on the mechanical parts.
+While various sources make various statements about exactly how Zuse's computers were constructed, a clear understanding is gradually emerging.[11]
+
+Reconstruction[edit]
+Reconstruction of Z1
+The original Z1 was destroyed by the Allied air raids in 1943, but in the 1980s Zuse decided to rebuild the machine. The first sketches of the Z1 reconstruction were drawn in 1984. He constructed (with the help of two engineering students) thousands of elements of the Z1 again, and finished rebuilding the device in 1989. This replication has a 64-word memory instead of a 16-word one. The rebuilt Z1 (pictured) is displayed at the German Museum of Technology in Berlin.[7][12]
+
+See also[edit]
+History of computing hardware
+Analytical Engine
+Difference engine
+References[edit]
+
+
+^ Bauer, Friedrich Ludwig (2009-11-05). Origins and Foundations of Computing: In Cooperation with Heinz Nixdorf MuseumsForum. Springer Science & Business Media. pp. 78–. ISBN 978-3-64202992-9. Retrieved 2022-07-10.
+
+^ Zuse, Konrad (1976). The Plankalkül. Gesellschaft für Mathematik und Datenverarbeitung (GMD). pp. 21–. Retrieved 2022-07-10.
+
+^ Priestley, Mark (2011). A Science of Operations: Machines, Logic and the Invention of Programming. Springer-Verlag. ISBN 978-1-84882-554-3.
+
+^ Rojas, Raúl (Spring 2006) [2005-05-12]. "The Zuse Computers". Resurrection - The Bulletin of the Computer Conservation Society (edited transcript of speech). Vol. 37. Computing Before Computers seminar, Science Museum: Computer Conservation Society (CCS). ISSN 0958-7403. Archived from the original on 2022-04-07. Retrieved 2008-07-26.
+
+^ Campbell-Kelly, Martin (1995-12-21). "Obituary: Konrad Zuse". People - News. The Independent. Archived from the original on 2022-07-09. Retrieved 2022-07-10.
+
+^ Rojas, Raúl (April–June 1997). "Konrad Zuse's Legacy: The Architecture of the Z1 and Z3" (PDF). IEEE Annals of the History of Computing. 19 (2): 5–16. doi:10.1109/85.586067. Archived (PDF) from the original on 2022-07-03. Retrieved 2022-07-03. (12 pages)
+
+^ a b Rojas, Raúl. "Reconstruction of the Z1 Computer". dcis.inf.fu-berlin.de. Free University of Berlin. Archived from the original on 2022-07-09. Retrieved 2022-05-10.
+
+^ Hellige, Hans Dieter, ed. (2004). Geschichten der Informatik. Visionen, Paradigmen, Leitmotive (in German). Berlin, Germany: Springer-Verlag. p. 36. ISBN 978-3-540-00217-8.
+
+^ a b "Konrad Zuse — the first relay computer". Archived from the original on 2015-01-01.
+
+^ Malcolm, Chris (2000). "Who Made the First Computer".
+
+^ Lott, Chris (2021-06-16). "The Other First Computer: Konrad Zuse And The Z3: Zuse's Mechanical XNOR Gate". hackaday.com. Archived from the original on 2023-10-15. Retrieved 2023-10-15.
+
+^ Rojas, Raúl (2014-06-07). The Z1: Architecture and Algorithms of Konrad Zuse's First Computer. arXiv:1406.1886.
+
+
+Further reading[edit]
+Zuse, Konrad (2013-03-09). The Computer – My Life. Springer Science & Business Media. p. 64. ISBN 978-3-66202931-2. (NB. This is a translation of the original German title Der Computer - Mein Lebenswerk.)
+Rojas, Raúl (2016-03-08). The Design Principles of Konrad Zuse's Mechanical Computers. arXiv:1603.02396. (NB. Paper describes the design principles of Zuse Z1.)
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Zuse Z1.
+
+Zuse, Horst. "The life and work of Konrad Zuse". EPEmag. Archived from the original on 2010-04-18.
+Zuse, Horst. "Zuse Z1 detailed information". Retrieved 2015-02-09.
+"An informative website about Zuse Z1".
+"A detailed walk-through of the Zuse Z1 major components". YouTube.
+"The German Technology Museum presents the operational restored Z1". YouTube.
+https://www.youtube.com/watch?v=R5XnuT6ZLKg
+
+vteComputer hardware designed by Konrad ZuseComputers
+Z1 (1938)
+Z2 (1940)
+Z3 (1941)
+Z4 (1945)
+Z5 (1953)
+Z11 (1955)
+Z22 (1955)
+Z23 (1961)
+Z25 (1963)
+Z31 (1963)
+Technical Drawing
+Z60 (1956)
+Planimeter Z80 (1960)
+Graphomat Z64 (1961)
+Military Computers
+S1 (1942)
+S2 (1943)
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Z1_(computer)&oldid=1283905471"
+Categories: 1930s computersOne-of-a-kind computersMechanical computersGerman inventions of the Nazi periodComputer-related introductions in 1938Konrad ZuseComputers designed in GermanyHidden categories: CS1 German-language sources (de)Articles with short descriptionShort description is different from WikidataUse dmy dates from July 2022Use list-defined references from July 2022Articles containing German-language textCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 4 April 2025, at 11:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Z1 (computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

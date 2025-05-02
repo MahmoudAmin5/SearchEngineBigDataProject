@@ -1,0 +1,880 @@
+https://en.wikipedia.org/wiki/IBM_701
+
+
+
+
+IBM 701 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Social impact
+
+
+
+
+
+
+
+
+3
+Description
+
+
+
+
+Toggle Description subsection
+
+
+
+
+
+3.1
+Hardware configuration
+
+
+
+
+
+
+
+
+3.2
+Memory
+
+
+
+
+
+
+
+
+3.3
+Instruction set
+
+
+
+
+
+
+
+
+3.4
+Peripherals
+
+
+
+
+
+
+
+
+
+
+4
+IBM 701 customers
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM 701
+
+
+
+13 languages
+
+
+
+
+閩南語 / Bân-lâm-gúCatalàDeutschEspañolFrançaisHrvatskiItaliano日本語PolskiPortuguêsРусскийShqipУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Vacuum-tube computer system
+Not to be confused with IBM ThinkPad 701.
+IBM 701 Electronic Data Processing MachineIBM 701 operator's consoleAlso known asDefense CalculatorDeveloperJerrier HaddadNathaniel RochesterManufacturerIBMRelease date1952; 73 years ago (1952)Introductory price$12,000 a month rental charge / $15,000 a month per 40-hour shiftUnits shipped19MemoryTotal memory of 2048 words of 36 bits each (72 Williams tubes with a capacity of 1024 bits each)SuccessorIBM 704
+The IBM 701 Electronic Data Processing Machine, known as the Defense Calculator while in development, was IBM’s first commercial scientific computer and its first series production mainframe computer, which was announced to the public on May 21, 1952.[1] It was designed and developed by Jerrier Haddad and Nathaniel Rochester and was based on the IAS machine at Princeton.[2][3][4]
+The IBM 701 was the first computer in the IBM 700/7000 series, which were IBM’s high-end computers until the arrival of the IBM System/360 in 1964.[5]
+The business-oriented sibling of the 701 was the IBM 702 and a lower-cost general-purpose sibling was the IBM 650, which gained fame as the first mass-produced computer.[4][6]
+
+
+History[edit]
+IBM 701 competed with Remington Rand's UNIVAC 1103 in the scientific computation market.[7]  In early 1954, a committee of the Joint Chiefs of Staff requested that the two machines be compared for the purpose of using them for a Joint Numerical Weather Prediction project. Based on the trials, the two machines had comparable computational speed, with a slight advantage for IBM's machine,  however when it came to input/output the 701 was favored unanimously for its significantly faster input/output equipment.[8][9][10]
+Nineteen IBM 701 systems were installed.[11] The first 701 was delivered to IBM's world headquarters in New York. Eight went to aircraft companies. At the Lawrence Livermore National Laboratory, having an IBM 701 meant that scientists could run nuclear explosives computations faster.
+"I think there is a world market for maybe five computers" is often attributed to Thomas Watson Sr., chairman and CEO of IBM, in 1943. This misquote may stem from a statement by his son, Thomas Watson Jr. at the 1953 IBM annual stockholders' meeting. Watson Jr. was describing the market acceptance of the IBM 701 computer. Before production began, Watson visited with 20 companies that were potential customers. This is what he said at the stockholders' meeting, "as a result of our trip, on which we expected to get orders for five machines, we came home with orders for 18”.[12]
+Aviation Week for 11 May 1953 says the 701 rental charge was about $12,000 (equivalent to $141,000 in 2024) per month; American Aviation 9 Nov 1953 says "$15,000 a month per 40-hour shift. A second 40-hour shift ups the rental to $20,000 a month".[citation needed]
+The successor of the 701 was the index register-equipped IBM 704, introduced 4 years after the 701. The 704 was not compatible with the 701, however, as the 704 increased the size of instructions from 18 bits to 36 bits to support the extra features. The 704 also marked the transition to magnetic-core memory.
+
+Social impact[edit]
+In 1952, IBM paired with language scholars from Georgetown University to develop translation software for use on computers. On January 7, 1954, the team developed an experimental software program that allowed the IBM 701 computer to translate from Russian to English. This was the Georgetown–IBM experiment. The Mark 1 Translating Device, which was developed for the US Air Force, was able to produce its first automated Russian-to-English translation in 1959 and was shown to the public in 1964.[13]
+In 1954, a group of scientists ran millions of simulated hands of blackjack on an IBM 701 looking to determine the best playing decision for every combination of cards. The result of the study was the set of correct rules for hitting, standing, doubling or splitting in a blackjack game which are still the same today.[13]
+The IBM 701 has a claim to be the first computer displaying the potential of artificial intelligence in Arthur Samuel's checkers-playing program on February 24, 1956. The program, which was developed for play on the IBM 701, was demonstrated to the public on television. Self-proclaimed checkers master Robert Nealey played the game on an IBM 7094 computer in 1962 and the computer won. It is still considered a milestone for artificial intelligence and it offered the public during the early 1960s an example of the capabilities of an electronic computer.[14]
+The University of California Radiation Laboratory at Livermore  developed a language compilation and runtime system called the KOMPILER for their IBM 701. Speedcode was the first high-level programming language created for an IBM computer. The language was developed by John Backus in 1953 for the IBM 701 to support computation with floating-point numbers. The Fortran compiler also developed by Backus was not released by IBM until the IBM 704.
+
+Description[edit]
+Hardware configuration[edit]
+IBM 701 processor frame, showing 1071 of the vacuum tubes
+Vacuum tube logic module from a 700 series IBM computer.
+The IBM 701 system[15] was composed of the following units:
+
+IBM 701 - Analytical Control Unit (CPU)
+IBM 706 - Electrostatic Storage Unit (2048 words of Williams tube Memory)
+IBM 711 - Punched Card Reader (150 Cards/min.)
+IBM 716 - Printer (150 Lines/min.)
+IBM 721 - Punched Card Recorder (100 Cards/min.)
+IBM 726 - Magnetic Tape Reader/Recorder (100 Bits/inch)
+IBM 727 - Magnetic Tape Reader/Recorder (200 Bits/inch)
+IBM 731 - Magnetic Drum Reader/Recorder
+IBM 736 - Power Frame #1
+IBM 737 - Magnetic Core Storage Unit (4096 words of 12 μs Core Memory)
+IBM 740 - Cathode Ray Tube Output Recorder
+IBM 741 - Power Frame #2
+IBM 746 - Power Distribution Unit
+IBM 753 - Magnetic Tape Control Unit (controlled up to ten IBM 727s)
+The total weight (depending on configuration) was about 20,516 pounds (10.3 short tons; 9.3 t).[16]
+
+Memory[edit]
+Williams tube from an IBM 701 at the Computer History Museum
+The system used vacuum tube logic circuitry and electrostatic storage, consisting of 72 Williams tubes with a capacity of 1024 bits each, giving a total memory of 2048 words of 36 bits each. Each of the 72 Williams tubes was 3 inches in diameter. Memory could be expanded to a maximum of 4096 words of 36 bits by the addition of a second set of 72 Williams tubes or (later) by replacing the entire memory with magnetic-core memory. The Williams tube memory and later core memory each had a memory cycle time of 12 microseconds. The Williams tube memory required periodic refreshing, mandating the insertion of refresh cycles into the 701's timing. An addition operation required five 12-microsecond cycles, two of which were refresh cycles, while a multiplication or division operation required 38 cycles (456 microseconds). In addition, magnetic drum and magnetic tape were utilized for secondary storage.[17]
+
+Instruction set[edit]
+Instructions were 18 bits long, single address.
+
+Sign (1 bit) - Whole word (-) or Half word (+) operand address
+Opcode (5 bits) - 32 instructions
+Address (12 bits) - 4096 Half word addresses
+Numbers were either 36 bits or 18 bits long, signed magnitude, fixed point. The full word has a precision of about ten decimal digits. A decimal digit corresponds to 
+
+
+
+l
+o
+
+g
+
+2
+
+
+10
+
+
+{\displaystyle log_{2}10}
+
+ or 3.322 bits.
+The IBM 701 had only two programmer accessible registers:
+
+The accumulator was 38 bits long (adding two overflow bits).
+The multiplier/quotient was 36 bits long.
+Peripherals[edit]
+The Magnetic Drum Reader/Recorder was added on the recommendation of John von Neumann, who said it would reduce the need for high speed I/O.[18]
+The first magnetic tape drives were used on the Tape Processing Machine (TPM) and then adapted to the 701.[19]
+
+IBM 701 customers[edit]
+List of customers
+IBM World Headquarters, New York, N.Y. (1952)
+University of California., Los Alamos, N.M. (1953)
+Lockheed Aircraft Company, Glendale, Cal. (1953)
+National Security Agency, Washington, D.C. (1953)
+Douglas Aircraft Company, Santa Monica, Cal. (1953)
+General Electric Company., Lockland, Ohio (1953)
+Convair, Fort Worth, Tex. (1953)
+U.S. Navy, Inyokern, Cal. (1953)
+United Aircraft, East Hartford, Conn. (1953)
+North American Aviation, Santa Monica, Cal. (1953)
+Rand Corporation., Santa Monica, Cal. (1953)[20]
+Boeing Corporation, Seattle, Wash. (1953)
+Douglas Aircraft Company, El Segundo, Cal. (1954)
+Naval Aviation Supply, Philadelphia, Pa. (1954)
+University of California, Livermore, Cal. (1954)
+General Motors Corporation, Detroit, Mich. (1954)
+Lockheed Aircraft Company, Glendale, Cal. (1954)
+U.S. Weather Bureau, Washington, D.C. (1955)
+Dupont Central Research, Wilmington, DE (1954)[21]
+
+See also[edit]
+BINAC, first commercially available computer
+Ferranti Mark 1, first working commercially available computer
+IBM 700/7000 series
+LEO (computer), first commercially available computer for business applications
+List of IBM products
+List of vacuum-tube computers
+SHARE (computing)
+Strela computer, comparable Soviet design
+References[edit]
+
+
+^ "IBM 701 Electronic analytical control unit". IBM. 23 January 2003. Archived from the original on 21 May 2022. Retrieved 30 July 2022.
+
+^ Electronic data processing machine Patent US3197624A filed in 1954, granted in 1965, Jerrier Haddad, Richard K Richards, Rochester Nathaniel, Jr Harold D Ross
+
+^ Dyson, George (2012). Turing's Cathedral. Knopf Doubleday Publishing. pp. 267–268, 287. ISBN 978-1-4000-7599-7.
+
+^ a b Pichler, Franz (25 January 2018). Computer Aided Systems Theory. Springer. p. 60. ISBN 9783319747187.
+
+^ "The IBM 700 Series: Computing Comes to Business". IBM.com. 7 March 2012. Archived from the original on 18 January 2023. Retrieved 30 July 2022.
+
+^ "The IBM 650 Magnetic Drum Calculator". Columbia.edu. Retrieved 30 July 2022.
+
+^ Tomash, Erwin; Cohen, Arnold A. (April 1979). "The Birth of an ERA: Engineering Associates, Inc. 1946-1955". Annals of the History of Computing. 1 (2): 90. doi:10.1109/MAHC.1979.10015. S2CID 18712001. Retrieved 29 November 2020.
+
+^ Pugh, Emerson W.; Johnson, Lyle R.; Palmer, John H. (1991). IBM's 360 and early 370 systems. MIT Press. pp. 23–34. ISBN 0-262-16123-0.
+
+^ Goldstine, Herman H. (2 September 2008). The Computer from Pascal to von Neumann. Princeton University Press. pp. 328–329. ISBN 978-1-4008-2013-9. Retrieved 17 June 2024.
+
+^ Smagorjnsky, Joseph (1983). "The Beginnings of Numerical Weather Prediction and General Circulation Modeling: Early Recollections". Advances in Geophysics. 25: 36. doi:10.1016/S0065-2687(08)60170-3. ISBN 978-0-12-018825-3. Retrieved 17 June 2024.
+
+^ "IBM Archives: 701 Customers". IBM Archives. 23 January 2003. Archived from the original on 11 May 2021. Retrieved 19 December 2020.
+
+^ "Frequently Asked Questions" (PDF). IBM. April 10, 2007. p. 26. Archived from the original (PDF) on June 21, 2007.
+
+^ a b "The IBM 700 Series: Cultural Impacts". IBM. 7 March 2012. Archived from the original on 5 January 2019. Retrieved 30 July 2022.
+
+^ Ed Feigenbaum; Gio Wiederhold; John McCarthy (1990). "Memorial Resolution: Arthur L. Samuel" (PDF). Stanford University Historical Society. Archived from the original (PDF) on May 26, 2011. Retrieved April 29, 2011.
+
+^ "IBM Type 701 Electronic Data Processing Machine" (PDF). Digital Computer Newsletter. 5 (4): 7–8. October 1953.
+
+^ 
+Weik, Martin H. (March 1961). "IBM 701". www.ed-thelen.org. A Third Survey of Domestic Electronic Digital Computing Systems. Retrieved 2018-05-25.What's included in total weight:
+Weik, Martin H. (December 1955). "IBM-701". www.ed-thelen.org. A Survey of Domestic Electronic Digital Computing Systems. Retrieved 2018-05-25.
+
+^ Hayes, John P. (1978). Computer Architecture and Organization. p. 22. ISBN 0-07-027363-4.
+
+^ John von Neumann: Selected Letters, Letter to R.S. Burlington. American Mathematical Society and London Mathematical Society. 2005. p. 73.
+
+^ da Cruz, Frank (July 2003). "IBM 701 Tape Drive - The First Magnetic Tape Drive for Computer Data Storage". Columbia University Computing History. Retrieved 19 December 2020.
+
+^ "RAND and the Information Evolution: A History in Essays and Vignettes" (PDF). rand.org. 2008. Retrieved 19 December 2020.
+
+^ "The Dream in the Machine". Science History Institute. 2010-08-26. Archived from the original on 2019-05-10. Retrieved 2019-05-10.
+
+
+Notes
+Bashe, Charles J.; Johnson, Lyle R.; Palmer, John H.; Pugh, Emerson W. (1986). IBM's Early Computers. Cambridge: MIT Press.
+Hurd, Cuthbert, ed. (1983). "Special Issue: The IBM 701 Thirtieth Anniversary - IBM Enters the Computing Field". Annals of the History of Computing. 5 (2).
+External links[edit]
+A Notable First: The IBM 701 (IBM Archives)
+Oral history interview with Gene Amdahl Charles Babbage Institute, University of Minnesota, Minneapolis.  Amdahl discusses his role in the design of several computers for IBM including the IBM 701, the IBM 704 and the STRETCH. He discusses his work with Nathaniel Rochester and IBM's management of the design process for computers.
+The Williams Tube
+vteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_701&oldid=1266977532"
+Categories: IBM vacuum tube computersIBM 700/7000 seriesComputer-related introductions in 195218-bit computersHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from December 2020
+
+
+
+
+
+
+ This page was last edited on 3 January 2025, at 02:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM 701
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

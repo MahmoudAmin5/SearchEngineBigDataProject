@@ -1,0 +1,659 @@
+https://en.wikipedia.org/wiki/JOHNNIAC
+
+
+
+
+JOHNNIAC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+JOHNNIAC
+
+
+
+5 languages
+
+
+
+
+CatalàEspañolFrançaisHrvatskiPortuguês
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Early computer built by the RAND Corporation, in service 1953-1966
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (November 2015) (Learn how and when to remove this message)
+Johnniac computer, Computer History Museum, California
+The JOHNNIAC was an early computer built in 1953 by the RAND Corporation (not Remington Rand, maker of the contemporaneous UNIVAC I computer) and based on the von Neumann architecture that had been pioneered on the IAS machine. It was named in honor of von Neumann, short for John von Neumann Numerical Integrator and Automatic Computer.[1]
+After being rescued from the scrap heap twice,[clarification needed] the machine is currently at the Computer History Museum in Mountain View, California.[2]
+Like the IAS machine, JOHNNIAC used 40-bit words, and included 1024 words of Selectron tube main memory, each holding 256 bits of data. Two instructions were stored in every word in 20-bit subwords consisting of an 8-bit instruction and a 12-bit address, the instructions being operated in series with the left subword running first. The initial machine had 83 instructions. A single register, named A, supplied an accumulator and the machine also featured a register named Q, for quotient. There was only one test condition, whether or not the high bit of the A register was set. There were no index registers, and as addresses were stored in the instructions, loops had to be implemented by modifying the instructions as the program ran. Since the machine had 12 bits of address space but only 10 bits of addressable memory, two of the address bits were unused and were sometimes used for data storage by interleaving data through the instructions.
+JOHNNIAC weighed 5,000 pounds (2.5 short tons; 2.3 t).[3]
+Numerous modifications were made to the system over its lifetime. In March 1955, 4096 words of magnetic-core memory were added to the system, replacing the earlier Selectrons. This required all 12 bits of addressing, and caused programs that stored data in the "spare bits" to fail. Later in 1955 a 12k-word drum memory secondary storage system was added as well. A transistor-based adder replaced the original tube-based adder in 1956. Numerous changes were made to the input/output peripherals as well, and in 1964, a real-time clock was added to support time-sharing.
+One JOHNNIAC legacy was the JOSS programming language (the JOHNNIAC Open Shop System), an easy-to-use language which catered to novices. JOSS was an ancestor of DEC's FOCAL and of MUMPS.
+The CYCLONE at Iowa State University was a direct clone of JOHNNIAC, and was instruction compatible with it; the ILLIAC I at the University of Illinois may have been as well. Cyclone was later updated to include hardware for floating-point arithmetic.
+
+
+
+
+Johnniac name badge on computer frame
+
+
+
+Alternate Johnniac view
+
+
+
+Johnniac keyboard
+
+
+See also[edit]
+List of vacuum-tube computers
+References[edit]
+
+
+^ Kaisler, Stephen H. (2017-06-20). "Chapter Six JOHNNIAC". Birthing the Computer: From Drums to Cores. Cambridge Scholars Publishing. p. 120. ISBN 9781443896252.
+
+^ "Catalog Search | Computer History Museum".
+
+^ Weik, Martin H. (December 1955). "JOHNNIAC". ed-thelen.org. A Survey of Domestic Electronic Digital Computing Systems.
+
+
+External links[edit]
+Johnniac entry on Antique Computers site.
+The History of the JOHNNIAC (RAND monograph)
+Oral history interview with Keith W. Uncapher, Charles Babbage Institute, University of Minnesota.  Review of projects at RAND Corporation when Keith Uncapher was hired in 1950 through the early 1970s, such as JOHNNIAC, JOSS, a survivable national network, and work related to the ARPANET.
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=JOHNNIAC&oldid=1278643148"
+Categories: IAS architecture computersVacuum tube computers40-bit computersHidden categories: Articles with short descriptionShort description is different from WikidataArticles lacking in-text citations from November 2015All articles lacking in-text citationsWikipedia articles needing clarification from February 2025
+
+
+
+
+
+
+ This page was last edited on 3 March 2025, at 18:27 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+JOHNNIAC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

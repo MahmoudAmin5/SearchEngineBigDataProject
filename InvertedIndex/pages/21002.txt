@@ -1,0 +1,561 @@
+https://en.wikipedia.org/wiki/Harwell_CADET
+
+
+
+
+Harwell CADET - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harwell CADET
+
+
+
+2 languages
+
+
+
+
+MagyarSuomi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+First fully transistorised computer in Europe
+This article is about the early transistor computer from Harwell. For the pre-transistor Dekatron Computer from Harwell, see WITCH (computer).
+Harwell CADETManufacturerAERERelease dateFebruary 1955 (1955-02)Memory64kPredecessorHarwell Dekatron Computer
+Harwell CADET Computer
+The Harwell CADET was the first fully transistorised computer in Europe, and may have been the first fully transistorised computer in the world.
+The electronics division of the Atomic Energy Research Establishment at Harwell, UK built the Harwell Dekatron Computer in 1951,[1] which was an automatic calculator where the decimal arithmetic and memory were electronic, although other functions were performed by relays. By 1953, it was evident that this did not meet AERE's computing needs, and AERE director Sir John Cockcroft encouraged them to design and build a computer using transistors throughout.
+E. H. Cooke-Yarborough based the design around a 64-kilobyte (65,536 bytes) magnetic drum memory store with multiple moving heads that had been designed at the National Physical Laboratory, UK. By 1953 his team had transistor circuits operating to read and write on a smaller magnetic drum from the Royal Radar Establishment. The machine used a low clock speed of only 58 kHz to avoid having to use any valves to generate the clock waveforms. This slow speed was partially offset by the ability to add together eight numbers concurrently.[2][3]
+The resulting machine was called CADET (Transistor Electronic Digital Automatic Computer – backward). It first ran a simple test program in February 1955. CADET used 324 point-contact transistors provided by the UK company Standard Telephones and Cables, which were the only ones available in sufficient quantity when the project started; 76 junction transistors were used for the first stage amplifiers for data read from the drum, since point-contact transistors were too noisy. CADET was built from a few standardized designs of circuit boards which never got mounted into the planned desktop unit, so it was left in its breadboard form. From August 1956 CADET was offering a regular computing service, during which it often executed continuous computing runs of 80 hours or more.[4][5]
+Cooke-Yarborough described CADET as being "probably the second fully transistorised computer in the world to put to use", second to an unnamed IBM machine.[3] Both the Manchester University Transistor Computer and the Bell Laboratories TRADIC were demonstrated incorporating transistors before CADET was operational, although both required some thermionic valves to supply their faster clock power, so they were not fully transistorised.[6] In April 1955 IBM announced the IBM 608 transistor calculator, which they claim was "the first all-solid-state computing machine commercially marketed"[7] and "the first completely transistorized computer available for commercial installation",[8] and which may have been demonstrated in October 1954, before the CADET.
+By 1956, Brian Flowers, head of the theoretical physics division at AERE, was convinced that the CADET provided insufficient computing power for the needs of his numerical analysts and ordered a Ferranti Mercury computer. In 1958, Mercury number 4 became operational at AERE to accompany the CADET for another two years before the CADET was retired after four years of operation.
+
+See also[edit]
+History of computing hardware, Second generation: transistors
+References[edit]
+
+
+^ Howlett, Jack. "Computing at Harwell". Retrieved 2008-12-07.
+
+^ Cooke-Yarborough, E. H. (1957). Introduction to Transistor Circuits. Edinburgh: Oliver and Boyd. p. 139.
+
+^ a b Cooke-Yarborough, E. H. (1998). "Some early transistor applications in the UK". Engineering Science & Education Journal. 7 (3): 100–106. doi:10.1049/esej:19980301 (inactive 7 December 2024).{{cite journal}}:  CS1 maint: DOI inactive as of December 2024 (link)
+
+^ Lavington, Simon (1980). Early British Computers. Manchester University Press. p. 139. ISBN 0-7190-0803-4.
+
+^ Cooke-Yarborough, E. H.; Barnes, R. C. M.; Stephen, J. H.; Howells, G. A. (1956). "A transistor digital computer". Proceedings of the IEE - Part B: Radio and Electronic Engineering. 103 (3S): 364–370. doi:10.1049/pi-b-1.1956.0076.
+
+^ Irvine, M. M. (2001). "Early digital computers at Bell Telephone Laboratories". IEEE Annals of the History of Computing. 23 (3): 22–42. doi:10.1109/85.948904.
+
+^ IBM Archives, 1955
+
+^ IBM Archives: IBM 608 calculator
+
+
+External links[edit]
+The Harwell CADET Computer Archived 2017-08-27 at the Wayback Machine
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Harwell_CADET&oldid=1261752662"
+Categories: One-of-a-kind computersComputer-related introductions in 1955Transistorized computersEarly British computersHidden categories: CS1 maint: DOI inactive as of December 2024Articles with short descriptionShort description matches WikidataWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 7 December 2024, at 20:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Harwell CADET
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,822 @@
+https://en.wikipedia.org/wiki/Game_port
+
+
+
+
+Game port - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Pre-IBM game ports
+
+
+
+
+
+
+
+
+1.2
+Initial IBM PC type game ports
+
+
+
+
+
+
+
+
+1.3
+Integration with sound cards
+
+
+
+
+
+
+
+
+1.4
+Replacement by USB
+
+
+
+
+
+
+
+
+
+
+2
+Hardware
+
+
+
+
+
+
+
+
+3
+Software
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Game port
+
+
+
+21 languages
+
+
+
+
+AzərbaycancaCatalàČeštinaDeutschEestiEspañolEsperantoFrançais한국어Bahasa IndonesiaItalianoNederlands日本語PolskiРусскийSimple EnglishSlovenčinaSuomiSvenskaУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer device port
+This article is about the hardware connector. For the process of porting video games, see Porting § Porting of video games.
+Game port
+A DA-15 connector on a sound cardType
+Joystick input portProduction historyDesigner
+IBMSuperseded by
+USBGeneral specificationsHot pluggable
+YesExternal
+YesPins
+15Connector
+DA-15Pinout
+Pin 1
++5V
++5 V DCPin 2
+B1
+Button 1Pin 3
+X1
+X-axis for joystick 1 (0–100 kΩ)Pin 4
+GND
+Ground for B1Pin 5
+GND
+Ground for B2Pin 6
+Y1
+Y-axis for joystick 1 (0–100 kΩ)Pin 7
+B2
+Button 2Pin 8
++5V
++5 V DCPin 9
++5V
++5 V DCPin 10
+B3
+Button 3 (B1 for joystick 2)Pin 11
+X2
+X-axis for joystick 2 (0–100 kΩ)Pin 12
+GND
+Ground for buttons 3 and 4 (or MIDI out)Pin 13
+Y2
+Y-axis for joystick 2 (0–100 kΩ)Pin 14
+B4
+Button 4 (B2 for joystick 2)Pin 15
++5V
++5 V DC (or MIDI in, sometimes unconnected)
+The game port is a device port that was found on IBM PC compatible and other computer systems throughout the 1980s and 1990s. It was the traditional connector for joystick input, and occasionally MIDI devices, until made obsolete by USB in the late 1990s.
+Originally located on a dedicated Game Control Adapter expansion card, the game port was later integrated with PC sound cards, and still later on the PC's motherboard. During the transition to USB, many input devices used the game port and a USB adapter dongle was included for systems without a game port.
+
+
+History[edit]
+Pre-IBM game ports[edit]
+This Microsoft joystick's output was the traditional game port, but was supplied with a game-port-to-USB adapter for connection to newer systems.
+A "Y-splitter" cable used to connect multiple devices to the same game port
+At the time IBM was developing its game port, there was no industry standard for controller ports, although the Atari joystick port was close. It was introduced in 1977 with the Atari Video Computer System, and was later used on the VIC-20 (1980), Commodore 64 (1982), and Amstrad's PC1512 (1986).
+In contrast with the IBM design, the Atari port was primarily designed for digital inputs (including a pair of two-axis/four-contact digital joysticks, each with a single pushbutton trigger). Its only analog connections were intended for paddles[1] -- although, as there were two analog inputs per port, each port could theoretically support a two-axis analog joystick, touchpad, trackball, or mouse[1] (some of these being eventually developed for Atari systems).[2][3][4]
+The Apple II,[5] BBC Micro,[6] TRS-80 Color Computer,[7] and other popular 8-bit machines all used different, incompatible, joysticks and ports. In most respects, the IBM design was similar to, or more advanced than, existing designs.
+
+Initial IBM PC type game ports[edit]
+The IBM PC game port first appeared during the initial launch of the original IBM PC in 1981, in the form of an optional US$55 expansion card known as the Game Control Adapter.[8][9] The design allowed for four analog axes and four buttons on one port, allowing two joysticks or four paddles to be connected via a special "Y-splitter" cable.[10]
+Originally available only as add-on that took up an entire slot,[8] game ports remained relatively rare in the early days of the IBM PC, and most games used the keyboard as an input. IBM did not release a joystick of its own for the PC, which did not help. The most common device available was the Kraft joystick, originally developed for the Apple II but easily adapted to the IBM with the addition of another button on the back of the case. When IBM finally did release a joystick, for the IBM PCjr, it was a version of the Kraft stick. However, it connected to the computer using two incompatible 7-pin connectors, which were mechanically connected together as part of a larger multi-pin connector on the back of the machine.[11] This eliminated the need for the Y-adapter.[12] Adapters for Atari-style "digital" sticks were also common during this era.[13]
+The game port became somewhat more common in the mid-1980s, as improving electronic density began to produce expansion cards with ever-increasing functionality. By 1983, it was common to see cards combining memory, game ports, serial and parallel ports and a realtime clock on a single expansion card.[14] The era of combo expansion cards largely came to an end by the late 1980s, as many of the separate functions normally provided on plug-in boards became common features of the motherboard itself. Game ports were not always part of this supported set of ports.
+
+Integration with sound cards[edit]
+However, the game port was given a major boost in usage in 1989, with the introduction of the first Sound Blaster. As sound cards were primarily used with computer games, Creative Labs took the opportunity to include a game port on the card, producing an all-in-one gaming solution. At the same time, they re-purposed two otherwise redundant pins on the port, 12 and 15, to produce a serial bus with enough performance to drive an external MIDI port adapter. Previous MIDI systems like the MPU-401 used their own separate expansion cards and a complex external adapter, whereas the Sound Blaster only required an inexpensive adapter to produce the same result.[15] By the end of the year the Sound Blaster was the best selling expansion card on the PC, and the game port was receiving widespread software support.
+With the exception of laptops—for which companies released joystick adapters for parallel or serial ports, which needed custom software drivers[16]—through the early 1990s, the game port was universally supported on sound cards,[12] and increasingly became built-in features as motherboards added sound support of their own. This remained true through the second half of the 1990s, by which time integrated sound support had displaced the third-party sound card to a large degree. By the early 2000s, such support was so widespread that newer sound cards began to dispense with the game port as it was certain the machine they would be used in already had such support, including MIDI. Every Sound Blaster card from the first model up to August 2001 included a game port. In 2001 the Sound Blaster Audigy moved the game port to a second expansion slot, which connected to a header on the card.[17][circular reference]
+
+Replacement by USB[edit]
+The introduction of the first USB standard in 1996 was aimed squarely at the sort of roles provided by the game port, but initially had little market impact. The subsequent release of the iMac, which featured no legacy ports in favor of USB, started a rapid expansion of USB in the market.[18] This led both to new gaming devices using USB, as well as the profusion of adapters. For instance, the 1997 Microsoft Precision Pro joystick was re-introduced in a version that used a game port connector, but also included a USB adapter in the box.[19] The rapid takeover of USB meant that this was superfluous when the Precision Pro 2 was released the next year in 1998. By 2000, game ports were purely for backward compatibility with now outdated devices.
+Microsoft Windows discontinued support for the game port with Windows Vista,[20] though USB converters can serve as a workaround.
+
+Hardware[edit]
+The game port's DA-15 connector includes inputs for a total of four analog channels and four buttons. These were almost always implemented as two joysticks with two buttons each, but it is also possible to support four paddle controllers each with one button, or a single gamepad with two analog sticks and four buttons using the same inputs. The port includes redundant pins, including a total of four +5 V supplies, and separate grounds for most of the buttons. In most similar game ports, like those on the Atari, a single +5 V and ground is used for all the channels.[21]
+The game port was originally mounted on a dedicated ISA card. Since the early 1990s, when the game port moved from dedicated expansion cards to PC I/O or sound cards, these connectors have usually doubled as connectors for MIDI instruments; two of the redundant +5 V and GND pins of the original standard were rededicated to MIDI input and output to make this possible. To use a game port with MIDI instruments, a break-out cable with the necessary opto-isolation hardware and compatible connectors is required - typically these consisted of a male and a female DA-15 and two male 5-pin DIN connectors. For many sound cards, the game port midi capabilities were based around the Roland MPU-401 MIDI interface (in UART mode only), however some older sound cards (notably the original Sound Blaster and Sound Blaster Pro) used a proprietary interface that was not compatible with the MPU-401.[22]
+The analog channels are read by sending voltage into the line, through a potentiometer in the controller, in this case 100,000 ohm, and then into a capacitor. The value is read by timing how long it took for the voltage in the capacitor to cross a certain threshold. The rate varied depending on the resistance, and thus physical position, of the potentiometer. In the Atari port, which had similar analog channels, there is a convenient timer available in the form of the video clock circuitry. In the PC there is no similar clock because video functionality is normally provided on an expansion card. Instead, a software routine needs to first trigger capacitor discharge by issuing an IO write to the Gameport, and then measure the time it takes to charge them again by constantly polling Gameport. Using original IBM formula, Time = 24.2 μs + 0.011 (r) μs[23] and assuming 100Kohm potentiometers this process can take up to 1.1ms per readout, or over 60ms if we decide to read joystick position 60 times a second. This significant overhead was the reason why using original Gameport on the PC could consume up to 10% of CPU time independent of CPU speed.[24]
+
+Software[edit]
+Initially there was no standardized software for running the joysticks; applications would poll the known ports associated with the sticks as part of their game loop. This did, however, leave the implementation of a lot of housekeeping tasks to every application that used them, such as looking for and enumerating the active devices, and calibrating them. This changed in Windows 95, which introduced standardized Windows Registry entries to hold these values and make it easier for applications to find these devices. DirectX further expanded the options through DirectInput with the "joystick mini-driver" with a number of new capabilities. Among these were support for up to six analog axes, a point-of-view hat, and up to 64 buttons. It also supported up to 16 such devices, which could be connected using any interface, not just the game port.[25]
+
+See also[edit]
+Atari joystick port
+USB human interface device class
+References[edit]
+
+
+^ a b Atari Hardware Manual (PDF). Atari. 1982. pp. III.19 – III.32.
+
+^ "Atari Party 2014 - Photos", archived by New Breed Software, retrieved March 26, 2023
+
+^ Image Technology, By Don Leavitt, Popular Photography, Dec 1984, Page 140, ...the Okimate 10...will also work with Atari Artist,...
+
+^ Get the magic touch with the Atari Touch Table, Science Digest, Volume 92, 1984, Page 83, ...The ATARI Touch Tablet with Atari- Artist"' software cartridge turns your TV into a magic palette of 128 dazzling colors. The Touch Tablet works a little like an electronic slate. Hook it into any ATARI Computer and what you draw on the tablet ...
+
+^ "Apple II Pinouts". Usenet newsgroup Apple II FAQs. 21 August 1998.
+
+^ Connecting Joysticks To The BBC Micro (PDF) (Technical report). Acorn. 1992.
+
+^ Hodgson, Ian (May 1983). "A joystick for the color computer". Creative Computing. Vol. 9, no. 5. Retrieved 2019-12-16.
+
+^ a b Lemmons, Phil (October 1981). "The IBM Personal Computer / First Impressions". BYTE. p. 36. Retrieved 19 October 2013.
+
+^ Calvert, J. B. (18 August 2002). "The Game Control Adapter". A Review of Electronics.
+
+^ "ABM advertisement". PC Mag: 273. July 1983.
+
+^ PC jr. Technical Reference (PDF). 1983. p. 2.12.
+
+^ a b "DOS Games Joysticks & Other Gaming Device Support". Nerdy Pleasures. 10 February 2012.
+
+^ "Joystick PC Gameport Connector Pinout". AllPinouts.
+
+^ "Super 12 Pak Multi-Function". PC Mag: 342. 17 April 1984.
+
+^ Petzold, Charles (28 April 1992). "Environments". PC Mag: 403.
+
+^ "Laptops Take Flight". Computer Gaming World. November 1993. pp. 11–12. Retrieved 28 March 2016.
+
+^ Sound Blaster Audigy
+
+^ Edwards, Benj (15 August 2008). "Eight ways the iMac changed computing". Macworld.
+
+^ Grendel. "3DP-Vert, a USB adapter for the Microsoft SideWinder 3D Pro, Precision Pro and Force Feedback Pro". Retrieved 2015-11-11.
+
+^ Rivera, Andre (11 September 2006). "Hardware Compatibility and Drivers 5600". Archived from the original on 2008-12-31. Q: Are MIDI/game ports supported under Vista? A: We've removed support for these types of devices, in favor of USB connected devices.
+
+^ "PC Gameport (Joystick) pinout". pinouts.ru.
+
+^ "Official design for a game port-MIDI adapter". MIDI Association. Archived from the original on 2008-12-22. Retrieved 2024-04-30.
+
+^ IBM Technical Reference. Options and Adapters. Vol. 2 "IBM Game Control Adapter" No. 6361493 (PDF). IBM.
+
+^ Thompson, Bruce (2002). PC hardware in a nutshell. O'Reilly. ISBN 0596003536. CPU must constantly poll the gameport to detect when a button is pressed or a stick is moved. Polling can require as much as 10% of the CPU
+
+^ "Joystick Support". Microsoft Hardware Dev Center. 20 April 2017.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Game port.
+
+Fairly detailed game port pinouts and specs
+Page with extensive info and a lot of experimental/DIY material on game ports
+vteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Game_port&oldid=1257559861"
+Categories: Computer connectorsElectrical connectorsLegacy hardwareGame controllersHidden categories: Articles with short descriptionShort description is different from WikidataAll articles lacking reliable referencesArticles lacking reliable references from February 2021Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 15 November 2024, at 15:26 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Game port
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

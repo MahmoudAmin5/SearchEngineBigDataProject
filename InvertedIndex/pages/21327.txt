@@ -1,0 +1,2981 @@
+https://en.wikipedia.org/wiki/Negation
+
+
+
+
+Negation - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Definition
+
+
+
+
+
+
+
+
+2
+Notation
+
+
+
+
+Toggle Notation subsection
+
+
+
+
+
+2.1
+Precedence
+
+
+
+
+
+
+
+
+
+
+3
+Properties
+
+
+
+
+Toggle Properties subsection
+
+
+
+
+
+3.1
+Double negation
+
+
+
+
+
+
+
+
+3.2
+Distributivity
+
+
+
+
+
+
+
+
+3.3
+Linearity
+
+
+
+
+
+
+
+
+3.4
+Self dual
+
+
+
+
+
+
+
+
+3.5
+Negations of quantifiers
+
+
+
+
+
+
+
+
+
+
+4
+Rules of inference
+
+
+
+
+
+
+
+
+5
+Programming language and ordinary language
+
+
+
+
+
+
+
+
+6
+Kripke semantics
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Further reading
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Negation
+
+
+
+51 languages
+
+
+
+
+العربيةAzərbaycancaБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEmiliàn e rumagnòlEspañolEsperantoEuskaraفارسیFrançaisGalego한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתҚазақшаLatinaMagyarМакедонскиBahasa MelayuNederlands日本語Norsk bokmålPiemontèisPolskiPortuguêsРусскийShqipSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSvenskaTagalogไทยТоҷикӣTürkçeУкраїнська粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Logical operation
+For negation in linguistics, see Affirmation and negation. For other uses, see Negation (disambiguation).
+
+
+NegationNOTDefinition
+
+
+
+¬
+
+x
+
+
+
+{\displaystyle \lnot {x}}
+
+Truth table
+
+
+
+(
+01
+)
+
+
+{\displaystyle (01)}
+
+Logic gateNormal formsDisjunctive
+
+
+
+¬
+
+x
+
+
+
+{\displaystyle \lnot {x}}
+
+Conjunctive
+
+
+
+¬
+
+x
+
+
+
+{\displaystyle \lnot {x}}
+
+Zhegalkin polynomial
+
+
+
+1
+⊕
+x
+
+
+{\displaystyle 1\oplus x}
+
+Post's lattices0-preservingno1-preservingnoMonotonenoAffineyesSelf-dualyesvte
+Logical connectives
+ NOT 
+
+
+
+¬
+A
+,
+−
+A
+,
+
+
+A
+¯
+
+
+,
+∼
+A
+
+
+{\displaystyle \neg A,-A,{\overline {A}},\sim A}
+
+ AND 
+
+
+
+A
+∧
+B
+,
+A
+⋅
+B
+,
+A
+B
+,
+A
+ 
+&
+ 
+B
+,
+A
+ 
+&
+&
+ 
+B
+
+
+{\displaystyle A\land B,A\cdot B,AB,A\ \&\ B,A\ \&\&\ B}
+
+ NAND 
+
+
+
+A
+
+
+∧
+¯
+
+
+B
+,
+A
+↑
+B
+,
+A
+∣
+B
+,
+
+
+
+A
+⋅
+B
+
+¯
+
+
+
+
+{\displaystyle A{\overline {\land }}B,A\uparrow B,A\mid B,{\overline {A\cdot B}}}
+
+ OR 
+
+
+
+A
+∨
+B
+,
+A
++
+B
+,
+A
+∣
+B
+,
+A
+∥
+B
+
+
+{\displaystyle A\lor B,A+B,A\mid B,A\parallel B}
+
+ NOR 
+
+
+
+A
+
+
+∨
+¯
+
+
+B
+,
+A
+↓
+B
+,
+
+
+
+A
++
+B
+
+¯
+
+
+
+
+{\displaystyle A{\overline {\lor }}B,A\downarrow B,{\overline {A+B}}}
+
+ XNOR 
+
+
+
+A
+⊙
+B
+,
+
+
+
+A
+
+
+∨
+¯
+
+
+B
+
+¯
+
+
+
+
+{\displaystyle A\odot B,{\overline {A{\overline {\lor }}B}}}
+
+ └ equivalent 
+
+
+
+A
+≡
+B
+,
+A
+⇔
+B
+,
+A
+⇋
+B
+
+
+{\displaystyle A\equiv B,A\Leftrightarrow B,A\leftrightharpoons B}
+
+ XOR 
+
+
+
+A
+
+
+∨
+_
+
+
+B
+,
+A
+⊕
+B
+
+
+{\displaystyle A{\underline {\lor }}B,A\oplus B}
+
+ └nonequivalent 
+
+
+
+A
+≢
+B
+,
+A
+⇎
+B
+,
+A
+↮
+B
+
+
+{\displaystyle A\not \equiv B,A\not \Leftrightarrow B,A\nleftrightarrow B}
+
+ implies 
+
+
+
+A
+⇒
+B
+,
+A
+⊃
+B
+,
+A
+→
+B
+
+
+{\displaystyle A\Rightarrow B,A\supset B,A\rightarrow B}
+
+ nonimplication (NIMPLY) 
+
+
+
+A
+⇏
+B
+,
+A
+⊅
+B
+,
+A
+↛
+B
+
+
+{\displaystyle A\not \Rightarrow B,A\not \supset B,A\nrightarrow B}
+
+ converse 
+
+
+
+A
+⇐
+B
+,
+A
+⊂
+B
+,
+A
+←
+B
+
+
+{\displaystyle A\Leftarrow B,A\subset B,A\leftarrow B}
+
+ converse nonimplication 
+
+
+
+A
+⇍
+B
+,
+A
+⊄
+B
+,
+A
+↚
+B
+
+
+{\displaystyle A\not \Leftarrow B,A\not \subset B,A\nleftarrow B}
+
+
+
+Related concepts
+Propositional calculusPredicate logicBoolean algebraTruth tableTruth functionBoolean functionFunctional completenessScope (logic)
+
+Applications
+Digital logicProgramming languagesMathematical logicPhilosophy of logic
+
+ Categoryvte
+In logic, negation, also called the logical not or logical complement, is an operation that takes a proposition 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ to another proposition "not 
+
+
+
+P
+
+
+{\displaystyle P}
+
+", written 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+, 
+
+
+
+
+
+∼
+
+
+P
+
+
+{\displaystyle {\mathord {\sim }}P}
+
+, 
+
+
+
+
+P
+
+′
+
+
+
+
+{\displaystyle P^{\prime }}
+
+[1] or 
+
+
+
+
+
+P
+¯
+
+
+
+
+{\displaystyle {\overline {P}}}
+
+.[citation needed] It is interpreted intuitively as being true when 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is false, and false when 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is true.[2][3] For example, if 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is "Spot runs", then "not 
+
+
+
+P
+
+
+{\displaystyle P}
+
+" is "Spot does not run". An operand of a negation is called a negand or negatum.[4]
+Negation is a unary logical connective. It may furthermore be applied not only to propositions, but also to notions, truth values, or semantic values more generally. In classical logic, negation is normally identified with the truth function that takes truth to falsity (and vice versa). In intuitionistic logic, according to the Brouwer–Heyting–Kolmogorov interpretation, the negation of a proposition 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is the proposition whose proofs are the refutations of 
+
+
+
+P
+
+
+{\displaystyle P}
+
+.
+
+
+Definition[edit]
+Classical negation is an operation on one logical value, typically the value of a proposition, that produces a value of true when its operand is false, and a value of false when its operand is true. Thus if statement  
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is true, then 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ (pronounced "not P") would then be false; and conversely, if 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ is true, then 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ would be false.
+The truth table of 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ is as follows:
+
+
+
+
+
+
+
+P
+
+
+{\displaystyle P}
+
+
+
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+
+
+
+True
+False
+
+
+False
+True
+
+Negation can be defined in terms of other logical operations. For example, 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ can be defined as 
+
+
+
+P
+→
+⊥
+
+
+{\displaystyle P\rightarrow \bot }
+
+ (where 
+
+
+
+→
+
+
+{\displaystyle \rightarrow }
+
+ is logical consequence and 
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+ is absolute falsehood). Conversely, one can define 
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+ as 
+
+
+
+Q
+∧
+¬
+Q
+
+
+{\displaystyle Q\land \neg Q}
+
+ for any proposition Q (where 
+
+
+
+∧
+
+
+{\displaystyle \land }
+
+ is logical conjunction). The idea here is that any contradiction is false, and while these ideas work in both classical and intuitionistic logic, they do not work in paraconsistent logic, where contradictions are not necessarily false. As a further example, negation can be defined in terms of NAND and can also be defined in terms of NOR.
+ Algebraically, classical negation corresponds to complementation in a Boolean algebra, and intuitionistic negation to pseudocomplementation in a Heyting algebra. These algebras provide a semantics for classical and intuitionistic logic.
+
+Notation[edit]
+The negation of a proposition p is notated in different ways, in various contexts of discussion and fields of application. The following table documents some of these variants:
+
+
+
+Notation
+
+Plain text
+
+Vocalization
+
+
+
+
+
+
+¬
+p
+
+
+{\displaystyle \neg p}
+
+
+
+¬p , 7p[5]
+
+Not p
+
+
+
+
+
+
+
+
+∼
+
+
+p
+
+
+{\displaystyle {\mathord {\sim }}p}
+
+
+
+~p
+
+Not p
+
+
+
+
+
+
+−
+p
+
+
+{\displaystyle -p}
+
+
+
+-p
+
+Not p
+
+
+
+
+
+
+N
+p
+
+
+{\displaystyle Np}
+
+
+
+
+
+En p
+
+
+
+
+
+
+
+p
+′
+
+
+
+{\displaystyle p'}
+
+
+
+p'
+
+p prime,p complement
+
+
+
+
+
+
+
+
+p
+¯
+
+
+
+
+{\displaystyle {\overline {p}}}
+
+
+
+ ̅p
+
+p bar,Bar p
+
+
+
+
+
+
+!
+p
+
+
+{\displaystyle !p}
+
+
+
+!p
+
+Bang pNot p
+
+
+The notation 
+
+
+
+N
+p
+
+
+{\displaystyle Np}
+
+ is Polish notation.
+In set theory, 
+
+
+
+∖
+
+
+{\displaystyle \setminus }
+
+ is also used to indicate 'not in the set of': 
+
+
+
+U
+∖
+A
+
+
+{\displaystyle U\setminus A}
+
+ is the set of all members of U that are not members of A.
+Regardless how it is notated or symbolized, the negation 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ can be read as "it is not the case that P", "not that P", or usually more simply as "not P".
+
+Precedence[edit]
+See also: Logical connective § Order of precedence
+As a way of reducing the number of necessary parentheses, one may introduce precedence rules: ¬ has higher precedence than ∧, ∧ higher than ∨, and ∨ higher than →. So for example, 
+
+
+
+P
+∨
+Q
+∧
+
+¬
+R
+
+→
+S
+
+
+{\displaystyle P\vee Q\wedge {\neg R}\rightarrow S}
+
+ is short for 
+
+
+
+(
+P
+∨
+(
+Q
+∧
+(
+¬
+R
+)
+)
+)
+→
+S
+.
+
+
+{\displaystyle (P\vee (Q\wedge (\neg R)))\rightarrow S.}
+
+
+Here is a table that shows a commonly used precedence of logical operators.[6]
+
+
+
+Operator
+Precedence
+
+
+
+
+
+
+¬
+
+
+{\displaystyle \neg }
+
+
+1
+
+
+
+
+
+
+∧
+
+
+{\displaystyle \land }
+
+
+2
+
+
+
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+
+3
+
+
+
+
+
+
+→
+
+
+{\displaystyle \to }
+
+
+4
+
+
+
+
+
+
+↔
+
+
+{\displaystyle \leftrightarrow }
+
+
+5
+
+Properties[edit]
+Double negation[edit]
+Within a system of classical logic, double negation, that is, the negation of the negation of a proposition 
+
+
+
+P
+
+
+{\displaystyle P}
+
+, is logically equivalent to 
+
+
+
+P
+
+
+{\displaystyle P}
+
+.  Expressed in symbolic terms, 
+
+
+
+¬
+¬
+P
+≡
+P
+
+
+{\displaystyle \neg \neg P\equiv P}
+
+. In intuitionistic logic, a proposition implies its double negation, but not conversely. This marks one important difference between classical and intuitionistic negation. Algebraically, classical negation is called an involution of period two.
+However, in intuitionistic logic, the weaker equivalence 
+
+
+
+¬
+¬
+¬
+P
+≡
+¬
+P
+
+
+{\displaystyle \neg \neg \neg P\equiv \neg P}
+
+ does hold. This is because in intuitionistic logic, 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ is just a shorthand for  
+
+
+
+P
+→
+⊥
+
+
+{\displaystyle P\rightarrow \bot }
+
+, and we also have 
+
+
+
+P
+→
+¬
+¬
+P
+
+
+{\displaystyle P\rightarrow \neg \neg P}
+
+. Composing that last implication with triple negation 
+
+
+
+¬
+¬
+P
+→
+⊥
+
+
+{\displaystyle \neg \neg P\rightarrow \bot }
+
+ implies that 
+
+
+
+P
+→
+⊥
+
+
+{\displaystyle P\rightarrow \bot }
+
+ .
+As a result, in the propositional case, a sentence is classically provable if its double negation is intuitionistically provable. This result is known as Glivenko's theorem.
+
+Distributivity[edit]
+De Morgan's laws provide a way of distributing negation over disjunction and conjunction:
+
+
+
+
+
+¬
+(
+P
+∨
+Q
+)
+≡
+(
+¬
+P
+∧
+¬
+Q
+)
+
+
+{\displaystyle \neg (P\lor Q)\equiv (\neg P\land \neg Q)}
+
+,  and
+
+
+
+
+¬
+(
+P
+∧
+Q
+)
+≡
+(
+¬
+P
+∨
+¬
+Q
+)
+
+
+{\displaystyle \neg (P\land Q)\equiv (\neg P\lor \neg Q)}
+
+.
+Linearity[edit]
+Let 
+
+
+
+⊕
+
+
+{\displaystyle \oplus }
+
+ denote the logical xor operation. In Boolean algebra, a linear function is one such that:
+If there exists 
+
+
+
+
+a
+
+0
+
+
+,
+
+a
+
+1
+
+
+,
+…
+,
+
+a
+
+n
+
+
+∈
+{
+0
+,
+1
+}
+
+
+{\displaystyle a_{0},a_{1},\dots ,a_{n}\in \{0,1\}}
+
+,
+
+
+
+
+f
+(
+
+b
+
+1
+
+
+,
+
+b
+
+2
+
+
+,
+…
+,
+
+b
+
+n
+
+
+)
+=
+
+a
+
+0
+
+
+⊕
+(
+
+a
+
+1
+
+
+∧
+
+b
+
+1
+
+
+)
+⊕
+⋯
+⊕
+(
+
+a
+
+n
+
+
+∧
+
+b
+
+n
+
+
+)
+
+
+{\displaystyle f(b_{1},b_{2},\dots ,b_{n})=a_{0}\oplus (a_{1}\land b_{1})\oplus \dots \oplus (a_{n}\land b_{n})}
+
+,
+for all 
+
+
+
+
+b
+
+1
+
+
+,
+
+b
+
+2
+
+
+,
+…
+,
+
+b
+
+n
+
+
+∈
+{
+0
+,
+1
+}
+
+
+{\displaystyle b_{1},b_{2},\dots ,b_{n}\in \{0,1\}}
+
+.
+Another way to express this is that each variable always makes a difference in the truth-value of the operation, or it never makes a difference. Negation is a linear logical operator.
+
+Self dual[edit]
+In Boolean algebra, a self dual function is a function such that:
+
+
+
+
+f
+(
+
+a
+
+1
+
+
+,
+…
+,
+
+a
+
+n
+
+
+)
+=
+¬
+f
+(
+¬
+
+a
+
+1
+
+
+,
+…
+,
+¬
+
+a
+
+n
+
+
+)
+
+
+{\displaystyle f(a_{1},\dots ,a_{n})=\neg f(\neg a_{1},\dots ,\neg a_{n})}
+
+ for all
+
+
+
+
+
+a
+
+1
+
+
+,
+…
+,
+
+a
+
+n
+
+
+∈
+{
+0
+,
+1
+}
+
+
+{\displaystyle a_{1},\dots ,a_{n}\in \{0,1\}}
+
+.
+Negation is a self dual logical operator.
+
+Negations of quantifiers[edit]
+In first-order logic, there are two quantifiers, one is the universal quantifier 
+
+
+
+∀
+
+
+{\displaystyle \forall }
+
+ (means "for all") and the other is the existential quantifier 
+
+
+
+∃
+
+
+{\displaystyle \exists }
+
+ (means "there exists"). The negation of one quantifier is the other quantifier (
+
+
+
+¬
+∀
+x
+P
+(
+x
+)
+≡
+∃
+x
+¬
+P
+(
+x
+)
+
+
+{\displaystyle \neg \forall xP(x)\equiv \exists x\neg P(x)}
+
+ and 
+
+
+
+¬
+∃
+x
+P
+(
+x
+)
+≡
+∀
+x
+¬
+P
+(
+x
+)
+
+
+{\displaystyle \neg \exists xP(x)\equiv \forall x\neg P(x)}
+
+). For example, with the predicate P as "x is mortal" and the domain of x as the collection of all humans, 
+
+
+
+∀
+x
+P
+(
+x
+)
+
+
+{\displaystyle \forall xP(x)}
+
+ means "a person x in all humans is mortal" or "all humans are mortal". The negation of it is 
+
+
+
+¬
+∀
+x
+P
+(
+x
+)
+≡
+∃
+x
+¬
+P
+(
+x
+)
+
+
+{\displaystyle \neg \forall xP(x)\equiv \exists x\neg P(x)}
+
+, meaning "there exists a person x in all humans who is not mortal", or "there exists someone who lives forever".
+
+Rules of inference[edit]
+See also: Double negation
+There are a number of equivalent ways to formulate rules for negation. One usual way to formulate classical negation in a natural deduction setting is to take as primitive rules of inference negation introduction (from a derivation of 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ to both 
+
+
+
+Q
+
+
+{\displaystyle Q}
+
+ and 
+
+
+
+¬
+Q
+
+
+{\displaystyle \neg Q}
+
+, infer 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+; this rule also being called reductio ad absurdum), negation elimination (from 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ and 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ infer 
+
+
+
+Q
+
+
+{\displaystyle Q}
+
+; this rule also being called ex falso quodlibet), and double negation elimination (from 
+
+
+
+¬
+¬
+P
+
+
+{\displaystyle \neg \neg P}
+
+ infer 
+
+
+
+P
+
+
+{\displaystyle P}
+
+). One obtains the rules for intuitionistic negation the same way but by excluding double negation elimination.
+Negation introduction states that if an absurdity can be drawn as conclusion from 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ then 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ must not be the case (i.e. 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is false (classically) or refutable (intuitionistically) or etc.). Negation elimination states that anything follows from an absurdity. Sometimes negation elimination is formulated using a primitive absurdity sign 
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+. In this case the rule says that from 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ and 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ follows an absurdity. Together with double negation elimination one may infer our originally formulated rule, namely that anything follows from an absurdity.
+Typically the intuitionistic negation 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ of 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ is defined as 
+
+
+
+P
+→
+⊥
+
+
+{\displaystyle P\rightarrow \bot }
+
+. Then negation introduction and elimination are just special cases of implication introduction (conditional proof) and elimination (modus ponens). In this case one must also add as a primitive rule ex falso quodlibet.
+
+Programming language and ordinary language[edit]
+"!vote" redirects here. For use of !votes in Wikipedia discussions, see Wikipedia:Polling is not a substitute for discussion § Not-votes.
+As in mathematics, negation is used in computer science to construct logical statements.
+
+if (!(r == t))
+{
+    /*...statements executed when r does NOT equal t...*/
+}
+
+The exclamation mark "!" signifies logical NOT in B, C, and languages with a C-inspired syntax such as C++, Java, JavaScript, Perl, and PHP. "NOT" is the operator used in ALGOL 60, BASIC, and languages with an ALGOL- or BASIC-inspired syntax such as Pascal, Ada, Eiffel and Seed7. Some languages (C++, Perl, etc.) provide more than one operator for negation. A few languages like PL/I and Ratfor use ¬ for negation. Most modern languages allow the above statement to be shortened from if (!(r == t)) to if (r != t), which allows sometimes, when the compiler/interpreter is not able to optimize it, faster programs.
+In computer science there is also bitwise negation. This takes the value given and switches all the binary 1s to 0s and 0s to 1s.  This is often used to create ones' complement (or "~" in C or C++) and two's complement (just simplified to "-" or the negative sign, as this is equivalent to taking the arithmetic negation of the number).
+To get the absolute (positive equivalent) value of a given integer the following would work as the "-" changes it from negative to positive (it is negative because "x < 0" yields true)
+
+unsigned int abs(int x)
+{
+    if (x < 0)
+        return -x;
+    else
+        return x;
+}
+
+To demonstrate logical negation:
+
+unsigned int abs(int x)
+{
+    if (!(x < 0))
+        return x;
+    else
+        return -x;
+}
+
+Inverting the condition and reversing the outcomes produces code that is logically equivalent to the original code, i.e. will have identical results for any input (depending on the compiler used, the actual instructions performed by the computer may differ).
+In C (and some other languages descended from C), double negation (!!x) is used as an idiom to convert x to a canonical Boolean, ie. an integer with a value of either 0 or 1 and no other. Although any integer other than 0 is logically true in C and 1 is not special in this regard, it is sometimes important to ensure that a canonical value is used, for example for printing or if the number is subsequently used for arithmetic operations.[7]
+The convention of using ! to signify negation occasionally surfaces in ordinary written speech, as computer-related slang for not.  For example, the phrase !voting means "not voting".  Another example is the phrase !clue which is used as a synonym for "no-clue" or "clueless".[8][9]
+
+Kripke semantics[edit]
+In Kripke semantics where the semantic values of formulae are sets of possible worlds, negation can be taken to mean set-theoretic complementation[citation needed] (see also possible world semantics for more).
+
+See also[edit]
+
+Affirmation and negation (grammatical polarity)
+Ampheck
+Apophasis
+Binary opposition
+Bitwise NOT
+Contraposition
+Cyclic negation
+Negation as failure
+NOT gate
+Plato's beard
+Square of opposition
+
+References[edit]
+
+
+^ Virtually all Turkish high school math textbooks use p' for negation due to the books handed out by the Ministry of National Education representing it as p'.
+
+^ Weisstein, Eric W. "Negation". mathworld.wolfram.com. Retrieved 2 September 2020.
+
+^ "Logic and Mathematical Statements - Worked Examples". www.math.toronto.edu. Retrieved 2 September 2020.
+
+^ Beall, Jeffrey C. (2010). Logic: the basics (1. publ ed.). London: Routledge. p. 57. ISBN 978-0-203-85155-5.
+
+^ Used as makeshift in early typewriter publications, e.g. Richard E. Ladner (January 1975). "The circuit value problem is log space complete for P". ACM SIGACT News. 7 (101): 18–20. doi:10.1145/990518.990519.
+
+^ O'Donnell, John; Hall, Cordelia; Page, Rex (2007), Discrete Mathematics Using a Computer, Springer, p. 120, ISBN 9781846285981.
+
+^ Egan, David. "Double Negation Operator Convert to Boolean in C". Dev Notes.
+
+^ Raymond, Eric and Steele, Guy.  The New Hacker's Dictionary, p. 18 (MIT Press 1996).
+
+^ Munat, Judith.  Lexical Creativity, Texts and Context, p. 148 (John Benjamins Publishing, 2007).
+
+
+Further reading[edit]
+Gabbay, Dov, and Wansing, Heinrich, eds., 1999. What is Negation?, Kluwer.
+Horn, L., 2001. A Natural History of Negation, University of Chicago Press.
+G. H. von Wright, 1953–59, "On the Logic of Negation", Commentationes Physico-Mathematicae 22.
+Wansing, Heinrich, 2001, "Negation", in Goble, Lou, ed., The Blackwell Guide to Philosophical Logic, Blackwell.
+Tettamanti, Marco; Manenti, Rosa; Della Rosa, Pasquale A.; Falini, Andrea; Perani, Daniela; Cappa, Stefano F.; Moro, Andrea (2008). "Negation in the brain: Modulating action representation". NeuroImage. 43 (2): 358–367. doi:10.1016/j.neuroimage.2008.08.004. PMID 18771737. S2CID 17658822.
+External links[edit]
+Horn, Laurence R.; Wansing, Heinrich. "Negation". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+"Negation", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+NOT, on MathWorld
+Tables of Truth of composite clauses
+"Table of truth for a NOT clause applied to an END sentence". Archived from the original on 1 March 2000.
+"NOT clause of an END sentence". Archived from the original on 1 March 2000.
+"NOT clause of an OR sentence". Archived from the original on 17 January 2000.
+"NOT clause of an IF...THEN period". Archived from the original on 1 March 2000.
+vteCommon logical connectives
+Tautology/True 
+
+
+
+⊤
+
+
+{\displaystyle \top }
+
+
+
+Alternative denial (NAND gate) 
+
+
+
+
+
+∧
+¯
+
+
+
+
+{\displaystyle {\overline {\wedge }}}
+
+
+Converse implication 
+
+
+
+⇐
+
+
+{\displaystyle \Leftarrow }
+
+
+Implication (IMPLY gate) 
+
+
+
+⇒
+
+
+{\displaystyle \Rightarrow }
+
+
+Disjunction (OR gate) 
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+
+
+Negation (NOT gate) 
+
+
+
+¬
+
+
+{\displaystyle \neg }
+
+
+Exclusive or (XOR gate) 
+
+
+
+⊕
+
+
+{\displaystyle \oplus }
+
+
+Biconditional (XNOR gate) 
+
+
+
+⊙
+
+
+{\displaystyle \odot }
+
+
+Statement (Digital buffer)
+
+Joint denial (NOR gate) 
+
+
+
+
+
+∨
+¯
+
+
+
+
+{\displaystyle {\overline {\vee }}}
+
+
+Nonimplication (NIMPLY gate) 
+
+
+
+⇏
+
+
+{\displaystyle \nRightarrow }
+
+
+Converse nonimplication 
+
+
+
+⇍
+
+
+{\displaystyle \nLeftarrow }
+
+
+Conjunction (AND gate) 
+
+
+
+∧
+
+
+{\displaystyle \land }
+
+
+
+Contradiction/False 
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+
+ Philosophy portal
+vteCommon logical symbols
+ ∧  or  &  and
+
+ ∨  or
+
+ ¬  or  ~  not
+
+ →  implies
+
+ ⊃  implies,superset
+
+ ↔  or  ≡  iff
+
+ |  nand
+
+ ∀  universalquantification
+
+ ∃  existentialquantification
+
+ ⊤  true,tautology
+
+ ⊥  false,contradiction
+
+ ⊢  entails,proves
+
+ ⊨  entails,therefore
+
+ ∴  therefore
+
+ ∵  because
+ Philosophy portal Mathematics portal
+vteFormal semantics (natural language)Central concepts
+Compositionality
+Denotation
+Entailment
+Extension
+Generalized quantifier
+Intension
+Logical form
+Presupposition
+Proposition
+Reference
+Scope
+Speech act
+Syntax–semantics interface
+Truth conditions
+TopicsAreas
+Anaphora
+Ambiguity
+Binding
+Conditionals
+Definiteness
+Disjunction
+Evidentiality
+Focus
+Indexicality
+Lexical semantics
+Modality
+Negation
+Propositional attitudes
+Tense–aspect–mood
+Quantification
+Vagueness
+Phenomena
+Antecedent-contained deletion
+Cataphora
+Coercion
+Conservativity
+Counterfactuals
+Crossover effects
+Cumulativity
+De dicto and de re
+De se
+Deontic modality
+Discourse relations
+Donkey anaphora
+Epistemic modality
+Exhaustivity
+Faultless disagreement
+Free choice inferences
+Givenness
+Homogeneity (linguistics)
+Hurford disjunction
+Inalienable possession
+Intersective modification
+Logophoricity
+Mirativity
+Modal subordination
+Opaque contexts
+Performatives
+Polarity items
+Privative adjectives
+Quantificational variability effect
+Responsive predicate
+Rising declaratives
+Scalar implicature
+Sloppy identity
+Subsective modification
+Subtrigging
+Telicity
+Temperature paradox
+Veridicality
+FormalismFormal systems
+Alternative semantics
+Categorial grammar
+Combinatory categorial grammar
+Discourse representation theory (DRT)
+Dynamic semantics
+Generative grammar
+Glue semantics
+Inquisitive semantics
+Intensional logic
+Lambda calculus
+Mereology
+Montague grammar
+Segmented discourse representation theory (SDRT)
+Situation semantics
+Supervaluationism
+Type theory
+TTR
+Concepts
+Autonomy of syntax
+Context set
+Continuation
+Conversational scoreboard
+Downward entailing
+Existential closure
+Function application
+Meaning postulate
+Monads
+Plural quantification
+Possible world
+Quantifier raising
+Quantization
+Question under discussion
+Semantic parsing
+Squiggle operator
+Strawson entailment
+Strict conditional
+Type shifter
+Universal grinder
+See also
+Cognitive semantics
+Computational semantics
+Distributional semantics
+Formal grammar
+Inferentialism
+Logic translation
+Linguistics wars
+Philosophy of language
+Pragmatics
+Semantics of logic
+
+vteMathematical logicGeneral
+Axiom
+list
+Cardinality
+First-order logic
+Formal proof
+Formal semantics
+Foundations of mathematics
+Information theory
+Lemma
+Logical consequence
+Model
+Theorem
+Theory
+Type theory
+Theorems (list) and paradoxes
+Gödel's completeness and incompleteness theorems
+Tarski's undefinability
+Banach–Tarski paradox
+Cantor's theorem, paradox and diagonal argument
+Compactness
+Halting problem
+Lindström's
+Löwenheim–Skolem
+Russell's paradox
+LogicsTraditional
+Classical logic
+Logical truth
+Tautology
+Proposition
+Inference
+Logical equivalence
+Consistency
+Equiconsistency
+Argument
+Soundness
+Validity
+Syllogism
+Square of opposition
+Venn diagram
+Propositional
+Boolean algebra
+Boolean functions
+Logical connectives
+Propositional calculus
+Propositional formula
+Truth tables
+Many-valued logic
+3
+finite
+∞
+Predicate
+First-order
+list
+Second-order
+Monadic
+Higher-order
+Fixed-point
+Free
+Quantifiers
+Predicate
+Monadic predicate calculus
+Set theory
+Set
+hereditary
+Class
+(Ur-)Element
+Ordinal number
+Extensionality
+Forcing
+Relation
+equivalence
+partition
+Set operations:
+intersection
+union
+complement
+Cartesian product
+power set
+identities
+Types of sets
+Countable
+Uncountable
+Empty
+Inhabited
+Singleton
+Finite
+Infinite
+Transitive
+Ultrafilter
+Recursive
+Fuzzy
+Universal
+Universe
+constructible
+Grothendieck
+Von Neumann
+Maps and cardinality
+Function/Map
+domain
+codomain
+image
+In/Sur/Bi-jection
+Schröder–Bernstein theorem
+Isomorphism
+Gödel numbering
+Enumeration
+Large cardinal
+inaccessible
+Aleph number
+Operation
+binary
+Set theories
+Zermelo–Fraenkel
+axiom of choice
+continuum hypothesis
+General
+Kripke–Platek
+Morse–Kelley
+Naive
+New Foundations
+Tarski–Grothendieck
+Von Neumann–Bernays–Gödel
+Ackermann
+Constructive
+Formal systems (list),language and syntax
+Alphabet
+Arity
+Automata
+Axiom schema
+Expression
+ground
+Extension
+by definition
+conservative
+Relation
+Formation rule
+Grammar
+Formula
+atomic
+closed
+ground
+open
+Free/bound variable
+Language
+Metalanguage
+Logical connective
+¬
+∨
+∧
+→
+↔
+=
+Predicate
+functional
+variable
+propositional variable
+Proof
+Quantifier
+∃
+!
+∀
+rank
+Sentence
+atomic
+spectrum
+Signature
+String
+Substitution
+Symbol
+function
+logical/constant
+non-logical
+variable
+Term
+Theory
+list
+Example axiomaticsystems (list)
+of arithmetic:
+Peano
+second-order
+elementary function
+primitive recursive
+Robinson
+Skolem
+of the real numbers
+Tarski's axiomatization
+of Boolean algebras
+canonical
+minimal axioms
+of geometry:
+Euclidean:
+Elements
+Hilbert's
+Tarski's
+non-Euclidean
+Principia Mathematica
+Proof theory
+Formal proof
+Natural deduction
+Logical consequence
+Rule of inference
+Sequent calculus
+Theorem
+Systems
+axiomatic
+deductive
+Hilbert
+list
+Complete theory
+Independence (from ZFC)
+Proof of impossibility
+Ordinal analysis
+Reverse mathematics
+Self-verifying theories
+Model theory
+Interpretation
+function
+of models
+Model
+equivalence
+finite
+saturated
+spectrum
+submodel
+Non-standard model
+of arithmetic
+Diagram
+elementary
+Categorical theory
+Model complete theory
+Satisfiability
+Semantics of logic
+Strength
+Theories of truth
+semantic
+Tarski's
+Kripke's
+T-schema
+Transfer principle
+Truth predicate
+Truth value
+Type
+Ultraproduct
+Validity
+Computability theory
+Church encoding
+Church–Turing thesis
+Computably enumerable
+Computable function
+Computable set
+Decision problem
+decidable
+undecidable
+P
+NP
+P versus NP problem
+Kolmogorov complexity
+Lambda calculus
+Primitive recursive function
+Recursion
+Recursive set
+Turing machine
+Type theory
+Related
+Abstract logic
+Algebraic logic
+Automated theorem proving
+Category theory
+Concrete/Abstract category
+Category of sets
+History of logic
+History of mathematical logic
+timeline
+Logicism
+Mathematical object
+Philosophy of mathematics
+Supertask
+ Mathematics portal
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Negation&oldid=1267433013"
+Categories: SemanticsLogical connectivesUnary operationsFormal semantics (natural language)Hidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from March 2020All articles with unsourced statementsArticles with unsourced statements from December 2024Articles with unsourced statements from August 2012Articles with example C++ code
+
+
+
+
+
+
+ This page was last edited on 5 January 2025, at 02:31 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Negation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

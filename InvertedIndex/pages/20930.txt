@@ -1,0 +1,992 @@
+https://en.wikipedia.org/wiki/Digital_signal
+
+
+
+
+Digital signal - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Definitions
+
+
+
+
+Toggle Definitions subsection
+
+
+
+
+
+1.1
+In digital electronics
+
+
+
+
+
+
+
+
+1.2
+In signal processing
+
+
+
+
+
+
+
+
+1.3
+In communications
+
+
+
+
+
+
+
+
+
+
+2
+Logic voltage levels
+
+
+
+
+
+
+
+
+3
+Modulation
+
+
+
+
+
+
+
+
+4
+Clocking
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital signal
+
+
+
+43 languages
+
+
+
+
+العربيةAzərbaycancaБеларускаяБългарскиCatalàЧӑвашлаDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançais한국어हिन्दीIdoBahasa IndonesiaIsiZuluItalianoעבריתҚазақшаKurdîМакедонскиमराठीBahasa Melayu日本語PolskiPortuguêsQaraqalpaqshaRomânăРусскийSimple EnglishSlovenčinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиไทยTürkçeУкраїнськаاردوTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Signal used to represent data as a sequence of discrete values
+This article is about digital signals in electronics. For digital data and systems, see Digital data. For digital signals that specifically represent analog waveforms, see Digital signal (signal processing). For other uses, see Digital signal (disambiguation).
+For broader coverage of this topic, see Signal.
+
+
+A binary signal, also known as a logic signal, is a digital signal with two distinguishable levels
+A digital signal is a signal that represents data as a sequence of discrete values; at any given time it can only take on, at most, one of a finite number of values.[1][2][3] This contrasts with an analog signal, which represents continuous values; at any given time it represents a real number within a continuous range of values.
+Simple digital signals represent information in discrete bands of levels. All levels within a band of values represent the same information state.[1] In most digital circuits, the signal can have two possible valid values; this is called a binary signal or logic signal.[4]  They are represented by two voltage bands: one near a reference value (typically termed as ground or zero volts), and the other a value near the supply voltage. These correspond to the two values zero and one (or false and true) of the Boolean domain, so at any given time a binary signal represents one binary digit (bit).  Because of this discretization, relatively small changes to the signal levels do not leave the discrete envelope, and as a result are ignored by signal state sensing circuitry.  As a result, digital signals have noise immunity; electronic noise, provided it is not too great, will not affect digital circuits, whereas noise always degrades the operation of analog signals to some degree.[5]
+Digital signals having more than two states are occasionally used; circuitry using such signals is called multivalued logic.  For example, signals that can assume three possible states are called three-valued logic.
+In a digital signal, the physical quantity representing the information may be a variable electric current or voltage, the intensity, phase or polarization of an optical or other electromagnetic field, acoustic pressure, the magnetization of a magnetic storage media, etcetera. Digital signals are used in all digital electronics, notably computing equipment and data transmission.
+
+A received digital signal may be impaired by noise and distortions without necessarily affecting the digits
+
+Definitions[edit]
+The term digital signal has related definitions in different contexts.
+
+In digital electronics[edit]
+A five level PAM digital signal
+In digital electronics, a digital signal is a pulse amplitude modulated signal, i.e. a sequence of fixed-width electrical pulses or light pulses, each occupying one of a discrete number of levels of amplitude.[6][7] A special case is a logic signal or a binary signal, which varies between a low and a high signal level.
+The pulse trains in digital circuits are typically generated by metal–oxide–semiconductor field-effect transistor (MOSFET) devices, due to their rapid on–off electronic switching speed and large-scale integration (LSI) capability.[8][9] In contrast, bipolar junction transistors more slowly generate signals resembling sine waves.[8]
+
+
+In signal processing[edit]
+In signal processing, a digital signal is an abstraction that is discrete in time and amplitude, meaning it only exists at certain time instants.
+Main article: Digital signal (signal processing)
+In digital signal processing, a digital signal is a representation of a physical signal that is sampled and quantized. A digital signal is an abstraction that is discrete in time and amplitude. The signal's value only exists at regular time intervals, since only the values of the corresponding physical signal at those sampled moments are significant for further digital processing. The digital signal is a sequence of codes drawn from a finite set of values.[10] The digital signal may be stored, processed or transmitted physically as a pulse-code modulation (PCM) signal.
+
+
+In communications[edit]
+A frequency-shift keying (FSK) signal is alternating between two waveforms and allows passband transmission. It is considered a means of digital data transmission.
+An AMI coded digital signal used in baseband transmission (line coding)
+In digital communications, a digital signal is a continuous-time physical signal, alternating between a discrete number of waveforms,[3] representing a bitstream. The shape of the waveform depends on the transmission scheme, which may be either a line coding scheme allowing baseband transmission; or a digital modulation scheme, allowing passband transmission over long wires or over a limited radio frequency band. Such a carrier-modulated sine wave is considered a digital signal in literature on digital communications and data transmission,[11] but considered as a bit stream converted to an analog signal in specific cases where the signal will be carried over a system meant for analog communication, such as an analog telephone line.[12]
+In communications, sources of interference are usually present, and noise is frequently a significant problem. The effects of interference are typically minimized by filtering off interfering signals as much as possible and by using data redundancy. The main advantages of digital signals for communications are often considered to be noise immunity, and the ability, in many cases such as with audio and video data, to use data compression to greatly decrease the bandwidth that is required on the communication media.
+
+
+Logic voltage levels[edit]
+A logic signal waveform: (1) low level, (2) high level, (3) rising edge, and (4) falling edge.
+Main article: Logic level
+A waveform that switches representing the two states of a Boolean value (0 and 1, or low and high, or false and true) is referred to as a digital signal or logic signal or binary signal when it is interpreted in terms of only two possible digits.
+The two states are usually represented by some measurement of an electrical property: Voltage is the most common, but current is used in some logic families. Two ranges of voltages are typically defined for each logic family, which are frequently not directly adjacent. The signal is low when in the low range and high when in the high range, and in between the two ranges the behavior can vary between different types of gates.
+The clock signal is a special digital signal that is used to synchronize many digital circuits. The image shown can be considered the waveform of a clock signal. Logic changes are triggered either by the rising edge or the falling edge. The rising edge is the transition from a low voltage (level 1 in the diagram) to a high voltage (level 2). The falling edge is the transition from a high voltage to a low one.
+Although in a highly simplified and idealized model of a digital circuit, we may wish for these transitions to occur instantaneously, no real-world circuit is purely resistive and therefore no circuit can instantly change voltage levels.  This means that during a short, finite transition time the output may not properly reflect the input, and will not correspond to either a logically high or low voltage.
+
+Modulation[edit]
+Main article: Modulation § Digital modulation methods
+To create a digital signal, a signal must be modulated with a control signal to produce it. The simplest modulation, a type of unipolar encoding, is simply to switch on and off a DC signal so that high voltages represent a '1' and low voltages are '0'.
+In digital radio schemes one or more carrier waves are amplitude, frequency or phase modulated by the control signal to produce a digital signal suitable for transmission.
+Asymmetric Digital Subscriber Line (ADSL) over telephone wires, does not primarily use binary logic; the digital signals for individual carriers are modulated with different valued logics, depending on the Shannon capacity of the individual channel.
+
+Clocking[edit]
+Clocking digital signals through a clocked flip-flop
+Digital signals may be sampled by a clock signal at regular intervals by passing the signal through a flip-flop. When this is done, the input is measured at the clock edge and the signal from that time. The signal is then held steady until the next clock. This process is the basis of synchronous logic.
+Asynchronous logic also exists, which uses no single clock, and generally operates more quickly, and may use less power, but is significantly harder to design.
+
+
+See also[edit]
+Intersymbol interference
+References[edit]
+
+
+^ a b Robert K. Dueck (2005). Digital Design with CPLD Applications and VHDL. Thomson/Delmar Learning. ISBN 1401840302. Archived from the original on 2017-12-17. Retrieved 2017-08-30. A digital representation can have only specific discrete values
+
+^ Proakis, John G.; Manolakis, Dimitris G. (2007-01-01). Digital Signal Processing. Pearson Prentice Hall. ISBN 9780131873742. Archived from the original on 2016-05-20. Retrieved 2015-09-22.
+
+^ a b Analogue and Digital Communication Techniques Archived 2017-12-17 at the Wayback Machine: "A digital signal is a complex waveform and can be defined as a discrete waveform having a finite set of levels"
+
+^ "Digital Signal". Archived from the original on 2016-03-04. Retrieved 2016-08-13.
+
+^ Horowitz, Paul; Hill, Winfield (1989). The Art Of Electronics, 2nd Ed. Cambridge University Press. pp. 471–473. ISBN 0521370957.
+
+^ B. SOMANATHAN NAIR (2002). Digital electronics and logic design. PHI Learning Pvt. Ltd. p. 289. ISBN 9788120319561. Digital signals are fixed-width pulses, which occupy only one of two levels of amplitude.
+
+^ Joseph Migga Kizza (2005). Computer Network Security. Springer Science & Business Media. ISBN 9780387204734.
+
+^ a b "Applying MOSFETs to Today's Power-Switching Designs". Electronic Design. 23 May 2016. Archived from the original on 10 August 2019. Retrieved 10 August 2019.
+
+^ 2000 Solved Problems in Digital Electronics. Tata McGraw-Hill Education. 2005. p. 151. ISBN 978-0-07-058831-8.
+
+^ Vinod Kumar Khanna (2009). Digital Signal Processing. S. Chand. p. 3. ISBN 9788121930956. A digital signal is a special form of discrete-time signal which is discrete in both time and amplitude, obtained by permitting each value (sample) of a discrete-time signal to acquire a finite set of values (quantization), assigning it a numerical symbol according to a code ... A digital signal is a sequence or list of numbers drawn from a finite set.
+
+^ J.S.Chitode, Communication Systems, 2008: "When a digital signal is transmitted over a long distance, it needs CW modulation."
+
+^ Fred Halsall, Computer Networking and the Internet: "In order to transmit a digital signal over an analog subscriber line, modulated transmission must be used; that is the electrical signal that represents the binary bit stream of the source (digital) output must first be converted to an analog signal that is compatible with a (telephony) speech signal."
+
+
+External links[edit]
+Monty Montgomory. Digital Show & Tell.
+CodSim 2.0: Open source Virtual Laboratory for Digital Data Communications Model Department of Computer Architecture, University of Malaga. Simulates Digital line encodings and Digital Modulations. Written in HTML for any web browser.
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+vteLine coding (digital baseband transmission)Main articles
+Unipolar encoding
+Bipolar encoding
+On–off keying
+Mark and space
+Basic line codes
+Return to zero (RZ)
+Non-return-to-zero, level (NRZ/NRZ-L)
+Non-return-to-zero, inverted (NRZ-I)
+Non-return-to-zero, space (NRZ-S)
+Manchester
+Differential Manchester/biphase (Bi-φ)
+Extended line codes
+Conditioned diphase
+4B3T
+4B5B
+2B1Q
+Alternate mark inversion
+Modified AMI code
+Coded mark inversion
+MLT-3 encoding
+Hybrid ternary code
+6b/8b encoding
+8b/10b encoding
+64b/66b encoding
+Eight-to-fourteen modulation
+Delay/Miller encoding
+TC-PAM
+Optical line codes
+Carrier-suppressed return-to-zero
+Alternate-phase return-to-zero
+
+See also: Baseband
+Baud
+Bit rate
+Digital signal
+Digital transmission
+Ethernet physical layer
+Pulse modulation methods
+Pulse-amplitude modulation (PAM)
+Pulse-code modulation (PCM)
+Serial communication
+Category:Line codes
+
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Phryctoria
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Donald Davies
+Daniel Davis Jr.
+Amos Dolbear
+Thomas Edison
+Philo Farnsworth
+Reginald Fessenden
+Lee de Forest
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Roberto Landell
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Puskás
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Internet pioneers
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Network switching
+circuit
+packet
+Nodes
+terminal
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+Global telecommunications regulation bodies
+
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+
+Authority control databases: National GermanyCzech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_signal&oldid=1286949068"
+Category: TelecommunicationsHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataUse American English from January 2025All Wikipedia articles written in American English
+
+
+
+
+
+
+ This page was last edited on 23 April 2025, at 01:01 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Digital signal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

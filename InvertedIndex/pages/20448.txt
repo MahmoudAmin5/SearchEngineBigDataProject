@@ -1,0 +1,719 @@
+https://en.wikipedia.org/wiki/Peripheral
+
+
+
+
+Peripheral - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Peripheral
+
+
+
+66 languages
+
+
+
+
+AfrikaansالعربيةAzərbaycancaБеларускаяБългарскиBosanskiBrezhonegCatalàČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어हिन्दीHrvatskiBahasa IndonesiaItalianoעבריתქართულიҚазақшаKiswahiliLatinaLatviešuLietuviųMagyarМакедонскиMaltiBahasa MelayuМонголNederlandsनेपाली日本語Norsk bokmålОлык марийOʻzbekcha / ўзбекчаPiemontèisPolskiPortuguêsRomânăRuna SimiРусскийSarduShqipSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSuomiSvenskaతెలుగుTürkçeУкраїнськаاردوTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Auxiliary input/output device for a computer
+This article is about a type of hardware device. For other uses, see Periphery.
+"Computer peripherals" redirects here. For the American printer manufacturer, see Computer Peripherals.
+This article relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing  citations to additional sources.Find sources: "Peripheral" – news · newspapers · books · scholar · JSTOR (April 2023)
+A peripheral  device, or simply peripheral, is an auxiliary hardware device that a computer uses to transfer information externally.[1] A peripheral is a hardware component that is accessible to and controlled by a computer but is not a core component of the computer.
+A peripheral can be categorized based on the direction in which information flows relative to the computer:
+
+The computer receives data from an input device; examples: mouse, keyboard, scanner, game controller, microphone and webcam
+The computer sends data to an output device; examples: monitor, printer, headphones, and speakers
+The computer sends and receives data via an input/output device; examples: storage device (such as disk drive, solid-state drive, USB flash drive, memory card and tape drive), modem, router, gateway and network adapter
+Many modern electronic devices, such as Internet-enabled digital watches, video game consoles, smartphones, and tablet computers, have interfaces for use as a peripheral.
+
+See also[edit]
+
+
+
+Look up peripheral in Wiktionary, the free dictionary.
+
+Display device
+Expansion card
+Punched card input/output
+Punched tape
+Video game accessory
+References[edit]
+
+
+^ Laplante, Philip A. (2000). Dictionary of Computer Science, Engineering and Technology. CRC Press. p. 366. ISBN 0-8493-2691-5. Archived from the original on September 3, 2016. Retrieved January 16, 2018.
+
+
+External links[edit]
+Peripheral – Encyclopædia Britannica
+vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Processor
+Size / Form
+Computer systems organization
+Computer architecture
+Computational complexity
+Dependability
+Embedded system
+Real-time computing
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Control variable
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software engineering
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Stochastic
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematics of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Theoretical computer science
+Information systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security hacker
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computer interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Extended reality
+Augmented
+Mixed
+Virtual
+Virtuality
+Rendering
+Photograph manipulation
+Graphics processing unit
+Image compression
+Solid modeling
+Applied computing
+Quantum Computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Differentiable computing
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Category
+ Outline
+ Glossaries
+
+Authority control databases: National GermanyUnited StatesFranceBnF dataCzech RepublicIsrael
+
+
+This electronics-related article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Peripheral&oldid=1275763699"
+Categories: Computer peripheralsElectronics stubsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from April 2023All articles needing additional referencesAll stub articles
+
+
+
+
+
+
+ This page was last edited on 14 February 2025, at 23:14 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Peripheral
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

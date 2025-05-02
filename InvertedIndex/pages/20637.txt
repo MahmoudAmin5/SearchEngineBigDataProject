@@ -1,0 +1,741 @@
+https://en.wikipedia.org/wiki/Educational_game
+
+
+
+
+Educational game - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Video games
+
+
+
+
+
+
+
+
+2
+Game-based learning
+
+
+
+
+
+
+
+
+3
+Origins
+
+
+
+
+Toggle Origins subsection
+
+
+
+
+
+3.1
+Theory
+
+
+
+
+
+
+
+
+3.2
+Application
+
+
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+Footnotes
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Educational game
+
+
+
+22 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschFrançaisGaeilge한국어ItalianoLatviešuNederlandsNorsk bokmålPolskiPortuguêsРусскийShqipSuomiไทยTürkçeУкраїнськаTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Game genre
+For broader coverage of this topic, see Serious game.
+Educational games are games explicitly designed with educational purposes, or which have incidental or secondary educational value. All types of games may be used in an educational environment, however educational games are games that are designed to help people learn about certain subjects, expand concepts, reinforce development, understand a historical event or culture, or assist them in learning a skill as they play. Game types include board, card, and video games.
+As educators, governments, and parents realize the psychological need and benefits that gaming has on learning, this educational tool has become mainstream. Games are interactive play that teach goals, rules, adaptation, problem solving, interaction, all represented as a story. They satisfy a fundamental need to learn by providing enjoyment, passionate involvement, structure, motivation, ego gratification, adrenaline, creativity, social interaction and emotion in the game itself while the learning takes place.
+
+
+Video games[edit]
+Main articles: Educational video game and Video games in education
+Main listing: List of educational video games
+With the increase and availability of technological devices, there has been a shift in what types of games people play. Video or electronic gaming has become more widely used than traditional board games. Barab (2009) defines conceptual play as "a state of engagement that involves (a) projection into the role of character who, (b) engaged in a partly fictional problem context, (c) must apply conceptual understandings to make sense of, and ultimately, transform the context".[1]  The goal of such play spaces is to have the "gamer" engage in the narrative while learning cognitive and social skills. The ability to immerse oneself in the gaming process facilitates "empathetic embodiment" which occurs when a player learns to identify with the character they have chosen for the game and the virtual environment of the game (Barab, 2009).[2]
+Educational video games have been divided into two major categories. "Edutainment" games are those that are typically based on drilling fundamental lessons in a linear progression, with added entertainment value. "Educational video games" are ones that encourage creative thinking and problem solving.[3]
+
+Game-based learning[edit]
+Game-based learning (GBL) is a type of game play that has defined learning outcomes. Generally, game-based learning is designed to balance subject matter with gameplay and the ability of the player to retain, and apply said subject matter to the real world.[4] Children tend to spend hours playing hide and seek, learning the steps of digital games, such as chess, and engaging in creative games. Therefore, it can be said that play and learning are synonymous, leading to cognitive and emotional development inside a social and cultural context. For instance, the game of hide and seek: Good hiders need visual and spatial perspective to define the best hiding places, while seekers must be skilled at searching for cues from the surroundings and choosing the most probable location for the hider among various possible places.[5] A systematic review investigated the effects of educational games for mental health students:
+
+
+Educational game plus standard training compared to standard training for mental health professionals[6]
+
+
+Summary
+
+
+Current very limited evidence suggests educational games could help mental health students gain more points in their tests, especially if they have left revision to the last minute. The one salient study should be refined and repeated.[6]
+
+
+
+
+
+Outcome
+
+Findings in words
+
+Findings in numbers
+
+Quality of evidence
+
+
+Knowledge
+
+
+No significant improvement in test scores (> 10%)
+Students had a slightly improved chance of improvement in test scores when receiving educational game plus standard training. This finding is based on data of very low quality.
+OR 0.06 (0.01 to 0.27)
+Very low
+
+
+Average test score (high = good)
+On average, students receiving educational game plus standard training scored 6 higher than students with standard training. There was a clear difference between the groups. This finding is based on data of low quality.
+MD 6 higher (2.63 higher to 9.37 higher )
+Low
+
+
+
+No study reported any data on outcomes such as adverse effects, mental state, quality of life and information relating to time in services
+
+
+
+
+
+Origins[edit]
+Educational games have historical roots dating back to early civilizations, though their systematic development as teaching tools emerged more recently. As Cheung and Ng (2021) note, educational games gained recognition when "educators identified the unique capacity of structured play to engage learners in ways traditional instruction could not."[7]
+Educational games evolved alongside advances in learning theories and technologies. According to Li et al. (2024), this evolution reflects "the growing understanding that effective learning experiences can be both enjoyable and intellectually stimulating when properly designed."[8]
+
+Theory[edit]
+According to Richard N. Van Eck, there are three main approaches to creating software that stimulates cognitive growth in the gamer. These three approaches are: building games from scratch created by educators and programmers; integrate commercial off-the-shelf (COTS); and creating games from scratch by the students. The most time- and cost-effective approach to designing these educational games is to incorporate COTS games into the classroom with the understanding of the learning outcomes the instructor has for the course.[9] This requires the teacher to buy into the positive results of using digital games for education. It also requires teachers to have adequate self-efficacy concerning the use of these games and their technology. The students usually have high amounts of self-efficacy in usage of digital games, while the lack of confidence teachers have in incorporating the digital games usually results in less effective educational use of the games. However, Gerber and Price (2013) have found that teachers' inexperience with digital games does not preclude them from the desire to incorporate them in class instruction, but districts must have in place support through regular professional development, supportive learning communities with their colleagues, and adequate financial support to implement game-based learning in their class instruction.[10]
+Games often have a fantasy element that engages players in a learning activity through narrative or storylines. Educational video games can motivate children and allow them to develop an awareness of consequentiality.[11] Children are allowed to express themselves as individuals while learning and engaging in social issues. Today's games are more social, with most teens playing games with others at least some of the time and can incorporate many aspects of civic and political life.[12] In classrooms, social game-based learning platforms are increasing in popularity, as they purport to enable students to reinforce knowledge and develop social and leadership skills.[13]
+The success of game-based learning (GBL) strategies owes to active participation and interaction being at the center of the experience, and signals that current educational methods are not engaging students enough.[14] Experience with and affinity for games as learning tools is an increasingly universal characteristic among those entering higher education and the workforce.[15] Game-based learning is an expansive category, ranging from simple paper-and-pencil games like word searches all the way up to complex, massively multiplayer online (MMO) and role-playing games.[16]  The use of collaborative game-based role-play for learning provides an opportunity
+for learners to apply acquired knowledge and to experiment and get feedback in the form of consequences or rewards, thus getting the experiences in the "safe virtual world".[17]
+The built-in learning process of games is what makes a game enjoyable. The progress a player makes in a game is through learning. It is the process of the human mind grasping and coming to understand a new system. The progress of understanding a new concept through gaming makes an individual feel a sense of reward whether the game is considered entertainment (Call of Duty) or serious (FAA-approved flight simulator). Well-designed games that motivate players are what make them ideal learning environments.[citation needed] Real-world challenges are easier faced within a game containing effective, interactive experiences that actively engage people in the learning process. In a successful game-based learning environment, choosing actions, experiencing consequences, and working toward goals allows players to make mistakes through experimentation in a risk-free environment.[13] Games have rules and structure and goals that inspire motivation. Games are interactive and provide outcomes and feedback. Most games also have problem solving situations that spark creativity.[18]
+Identification with the character within the video game is an important factor in the learning potential of the gamer. Some of the electronic games allow the gamer to create an avatar that is designed and “owned” by the gamer. This character is an expression of the human creating the virtual character.[13] This has opened a new set of scientific possibilities. The virtual world can be used as a laboratory. The relationships and space within the games can simulate complex societies and relationships without having to truly participate. This application of an avatar in not limited to simulation exercises.[19] According to Bainbridge, interviews and ethnographic research could be conducted within the reality of the game space.[13] This could include experiments in social psychology and cognitive science. The fact that game creators and gamers are wanting new experiences within the games, the introduction of “experiments” could increase the level of play and engagement.[13]
+
+Application[edit]
+Interactive multimedia educational game.
+Traditionally, technology used in school operates usually to solve problems in a fun way, particularly in mathematics. They usually make up case studies designed to introduce students to certain technologies in an effort to prepare them for a future major assignment that requires the aforementioned technology. They have also been developed to work in the virtual world.[20] More recently educational games have been developed for Higher Education students, combining real-world case studies in a virtual environment for students to have a consistent, 24/7 educational 'virtual' experience.[21] In some public schools implementing Common Core Standards, game-based learning programs are utilized by educators to supplement their teaching programs. According to a recent case study by an ed tech-based nonprofit organization, teachers find some digital learning games help address issues with alignment in Common Core.[22]
+In the future, technology and games are expected to be used in simulation environments to simulate real world issues. In the professional sector, such as flight training, simulations are already used in an effort to prepare pilots for training before actually going out into planes. These training sessions are used to replicate real life stresses without the risk factor associated with flying. Simulation-games are used in other professional areas as well; a spy-themed learning game has been used to improve sales skills at Avaya[23] and a 3D simulation game has been used to train New York City emergency responders.[24]
+Before deciding how to use game-based learning, the trainer must first determine what they would like the trainees to learn. A trainer that fails to focus training around a central idea runs the risk of using a game that fails to connect with the learners. To prevent this, tailor the material to the demographic (age group, familiarity, educational pre-text) so that the material is neither too difficult for, nor too familiar to the learner.[25] Gathering ideas from children early in the design process has yielded useful insights into what children want in technology in general or in a specific type of application.[26] Children's early involvement in requirements gathering has revealed clues about gender differences in preferences related to technology, children's navigation skills, ways of presenting textual information, application-specific content-related preferences, the variety of elements to be included in user interfaces and their structures, and children's desire to personalize their applications.[26] Multiplayer role playing games (MMO's) provide opportunities for players to improve such skills as, “complex learning, thinking, and social practices”.[27] MMO's also provide a social network which can favor collaborative gaming and learning and contribute to the formation of teams, communication within a group and help strengthen individual and communal identities.[28]
+
+See also[edit]
+
+Educational toy
+Educational website
+Edutainment
+Games and learning
+Gamification of learning
+Genomics Digital Lab
+Global Challenge Award
+Mouse Practice
+Pora Ora (primary school)
+Quest Atlantis
+Reacting games
+Kahoot
+Footnotes[edit]
+
+
+^ p. 991
+
+^ Barab, S. A.; Scott, B.; Siyahhan, S.; Goldstone, R.; Ingram-Goble, A.; Zuiker, S. J.; Warren, S. (2009). "Transformational Play as a Curricular Scaffold: Using Videogames to Support Science Education". Journal of Science Education and Technology. 18 (4): 305–320. Bibcode:2009JSEdT..18..305B. doi:10.1007/s10956-009-9171-5. S2CID 16964887.
+
+^ Dondlinger, Mary Jo (2007). "Educational Video Game Design: A Review of the Literature". Journal of Applied Educational Technology. 4 (1).
+
+^ Team, Editorial. "What is GBL (Game-Based Learning)?". EdTechReview. Retrieved 2017-03-15.
+
+^ Yang, Ya-Ting Carolyn (2012). "Building virtual cities, inspiring intelligent citizens: Digital games for developing students' problem solving and learning motivation". Computers & Education. 59 (2): 365–377. doi:10.1016/j.compedu.2012.01.012.
+
+^ a b Bhoopathi, P; Sheoran, R; Välimäki, M (2006). "Educational games for mental health professionals". Cochrane Database of Systematic Reviews. 2 (2): CD001471.pub2. doi:10.1002/14651858.CD001471.pub2. PMC 7028004. PMID 16625545.
+
+^ Cheung, Siu Yin; Ng, Kai Yin (2021-03-31). "Application of the Educational Game to Enhance Student Learning". Frontiers in Education. 6. doi:10.3389/feduc.2021.623793. ISSN 2504-284X.
+
+^ Li, Youling et al. “The impact of digital educational games on student's motivation for learning: The mediating effect of learning engagement and the moderating effect of the digital environment.” PloS one vol. 19,1 e0294350. 11 Jan. 2024, doi:10.1371/journal.pone.0294350
+
+^ Van Eck, R. (2006). Digital game-based learning: It’s not just the digital natives who are restless… Educase Review, 41,2, 1-16.
+
+^ Gerber, H. R. & Price, D. P. (2013): "Fighting baddies and collecting bananas: Teachers' perceptions of game-based learning", Educational Media International.
+
+^ "Making Learning Fun: Quest Atlantis, A Game Without Guns" Archived 2011-09-30 at the Wayback Machine  by Barab, Thomas, Dodge, Carteaux, Tuzun
+
+^ "Teens, Video Games, and Civics" Archived 2009-03-06 at the Wayback Machine by Lenhart, Pew Internet Project
+
+^ a b c d e Bainbridge, W. S. (2007). "The Scientific Research Potential of Virtual Worlds". Science. 317 (5837): 472–476. Bibcode:2007Sci...317..472B. doi:10.1126/science.1146930. PMID 17656715. S2CID 1179233.
+
+^ Green, C. S.; Bavelier, D. (2012). "Learning, Attentional Control, and Action Video Games". Current Biology. 22 (6): R197 – R206. Bibcode:2012CBio...22.R197G. doi:10.1016/j.cub.2012.02.012. PMC 3461277. PMID 22440805.
+
+^ "'2009 Horizon Report' by The New Media Consortium and EDUCAUSE Learning Initiative". Nmc.org. Archived from the original on 2011-09-28. Retrieved 2013-05-02.
+
+^ "2010 Horizon Report: The K12 Edition". Wp.nmc.org. 2010-03-31. Retrieved 2013-05-02.
+
+^ "Game-based Learning or Game-based Teaching?" by Paul Pivec
+
+^ Shearer, James D. "Development of a Digital Game-based Learning Best Practices Checklist". Etd.ohiolink.edu. Retrieved 2013-05-02.
+
+^ Kim, B., Park, H., & Baek, Y. (2009). Not just for fun, but serious strategies: Using meta-cognitive strategies in game-based learning. Computers and Education, 52, 800-810.
+
+^ Falloon, G (2011). "Using avatars and virtual environments in learning: what do they offer?". British Journal of Educational Technology. 41 (2): 108–122. doi:10.1111/j.1467-8535.2009.00991.x. S2CID 2792744.
+
+^ Pringle, JK (2014). "Educational egaming: the future for geoscience virtual learners?" (PDF). Geology Today. 30 (4): 147–150. Bibcode:2014GeolT..30..147P. doi:10.1111/gto.12058. S2CID 65022032.
+
+^ "Game-Based Learning + Formative Assessment = A Perfect Pair - Classroom Inc". Classroom Inc. Archived from the original on 2014-10-18. Retrieved 2015-12-21.
+
+^ Kapp, Karl (November 11, 2013). The Gamification of Learning and Instruction Fieldbook: Ideas into Practice Paperback. Pfeiffer. ISBN 978-1118674437.
+
+^ Gronstedt, Anders. "The Five Superpowers of the Learning Age". E-Learning Council.
+
+^ "How To Teach Using Games". Serc.carleton.edu. Retrieved 2013-05-02.
+
+^ a b Nousiainen, Tuula; Kankaanranta, Marja (July 24, 2008). "Exploring Children's Requirements for Game-Based Learning Environments". Advances in Human-Computer Interaction. 2008: 1–7. doi:10.1155/2008/284056.
+
+^ Barab, 2009, p. 990
+
+^ Klopfer, E, Osterweil, S and Salen, K. Moving Learning Games Forward: Obstacles, oppostunities & openness. The education Arcade. 2009
+
+
+References[edit]
+Shatz, Itamar (2015). Using Gamification and Gaming in Order to Promote Risk Taking in the Language Learning Process (PDF). MEITAL National Conference. Haifa, Israel: Technion. pp. 227–232. Archived from the original (PDF) on 7 March 2016. Retrieved 1 March 2017.
+"Video games 'stimulate learning'". BBC News. March 18, 2002.
+Dostál, J. (2009). "Educational software and computer games - tools of modern education". Journal of Technology and Information Education. 1 (1). Palacký University, Olomouc: 24–28. CiteSeerX 10.1.1.164.4054. doi:10.5507/jtie.2009.003. ISSN 1803-537X.
+Lin, G. H. C.; Kung, T. W. T.; Chien, S. C. (2011). Computer Games Functioning as Motivation Stimulants (PDF). International Conference on Computer Assisted Language Learning (CALL).
+Further reading[edit]
+James Paul Gee (2003). What Video Games Have to Teach Us About Learning and Literacy. Palgrave Macmillan. ISBN 978-1-4039-6169-3.
+Authority control databases: National United StatesFranceBnF dataCzech RepublicSpainLatvia2Israel
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Educational_game&oldid=1286354734"
+Category: Educational gamesHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from September 2012
+
+
+
+
+
+
+ This page was last edited on 19 April 2025, at 10:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Educational game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

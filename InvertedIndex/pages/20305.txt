@@ -1,0 +1,1114 @@
+https://en.wikipedia.org/wiki/Intel_4040
+
+
+
+
+Intel 4040 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Description
+
+
+
+
+Toggle Description subsection
+
+
+
+
+
+1.1
+4004
+
+
+
+
+
+
+
+
+1.2
+4040
+
+
+
+
+
+
+
+
+
+
+2
+Characteristics
+
+
+
+
+
+
+
+
+3
+Designers
+
+
+
+
+
+
+
+
+4
+New support chips
+
+
+
+
+
+
+
+
+5
+Use in computers
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+Notes
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Intel 4040
+
+
+
+28 languages
+
+
+
+
+العربيةБългарскиCatalàČeštinaDeutschEestiEspañolفارسیFrançais한국어Bahasa IndonesiaItalianoMagyarമലയാളംNederlands日本語Norsk bokmålOccitanPolskiPortuguêsРусскийSlovenčinaСрпски / srpskiSuomiTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+4-bit microprocessor introduced in 1974 by Intel
+
+
+Intel 4040A white ceramic C4040 variantGeneral informationLaunched1974Discontinued1981[1]Common manufacturerIntelPerformanceMax. CPU clock rate500 kHz to 740 kHzData width4 bitsAddress width12 bits (multiplexed)Architecture and classificationTechnology node10 μm processInstruction set4-bit (BCD-oriented)Physical specificationsTransistors3,000[2]Package24-pin DIPHistoryPredecessorIntel 4004Support statusUnsupported
+The Intel 4040 ("forty-forty") is the second 4-bit microprocessor designed and manufactured by Intel. Introduced in 1974 as a successor to the Intel 4004, the 4040 was produced with a 10 μm process and includes silicon gate enhancement-load PMOS logic technology. The 4040 contained 3,000 transistors[2] and could execute approximately 62,000 instructions per second.
+General performance, bus layout and arithmetic logic unit (ALU) were identical to the 4004. The main improvement was to use a larger 24-pin dual inline package, giving it 8 more pins than the 16-pin 4004. Two of these were used to implement interrupts, which were lacking in the 4004 and considered a major oversight. Two more implemented a halt/stop system, which put the processor into a low-power mode and also allowed for single-step operation that made debugging much easier. Another pin was used to bank select a second read only memory (ROM), doubling the amount of ROM the processor could address compared to the 4004.
+To make use of these new pins, the instruction set was expanded, increasing it to 60 instructions from the original 46. Additionally, the internal register file and pushdown stack were expanded to support rapid interrupt processing.
+
+The ceramic D4040 variant
+The plastic P4040 variant
+
+Description[edit]
+4004[edit]
+Main article: Intel 4004
+The 4004 was designed to be used in an electronic calculator and many of its design notes are related to this role. For instance, program code can only be read from an area dedicated to read only memory, not RAM. Although one could implement the "ROM space" using RAM chips, there were no instructions able to write to that area of memory, and no instructions able to read program code from RAM space. The idea was that systems would supply the system program on ROM, and small amounts of RAM would be used only for data, if at all. In typical use, the internal "index registers" would be used for storage during calculations, with the 16 4-bit registers able to hold a single 8-digit binary-coded decimal value, the data format used by calculators. It also had four 12-bit registers for holding addresses, the top-most was the program counter and the next three operated as a push-down stack for subroutine calls.
+To reduce pin count to only 16, the original 4004 had only four data pins, multiplexed for both data and addresses. Additional pins indicated whether the address was in ROM or one of several "banks" of RAM. As addresses were 12 bits long, expressing an address took three cycles along with the subsequent read or write, and external circuitry had to latch each 4 bit part of the address between cycles. Instructions were 8 bits, so loading the next instruction required many cycles, which led to the slow performance in spite of what was a relatively fast cycle time for the era.
+
+4040[edit]
+i4040 microarchitecture. Note: the "data bus" is also used for addressing.
+Intel 4040 DIP chip pinout 
+The 4040 was essentially an expansion of the 4004, with additional pins, more registers and new instructions to take advantage of both.
+The 4004 had a single ROM pin, whereas the 4040 added another ROM pin to allow two banks of ROM. This effectively increased the ROM address from 12 to 13 bits, or 8 kB. Unlike later designs where the two lines could be binary encoded and thus support four banks, the ROM chips used with the 4004 and 4040 used these lines like chip select pins, and thus the two lines could only support two banks.
+The 4004 lacked interrupts, a serious limitation.[clarification needed] The 4040 added a new input pin for calling an interrupt, as well an output pin to indicate the interrupt signal had been noticed and was being acted on. As interrupts also need to save a return address, the stack register file was expanded to seven entries, up from three.[Note 1]
+Interrupt handler code normally starts by saving out values in the registers to allow the interrupt code to use them, and then at the end it copies the values back from memory so that the processor returns to its original pre-interrupt state. With the multi-cycle memory access of the design, this would have been extremely slow. To address this, eight additional registers were added in a new "bank 1", the original sixteen registers retroactively becoming "bank 0". The idea was that programmers would attempt to place their critical data in the first eight registers of bank 0. When an interrupt was received, the handler code would call an instruction to swap banks, which would cause bank 1's registers to override bank 0's registers 0 through 7. The handler code would then use these eight registers for any local data, leaving the original values untouched. When the handler completed, it simply swapped bank 0 back in. This reduced the switching time to a single instruction, greatly improving interrupt response times.
+Another addition was the input stop pin, and the associated output stop acknowledge. These could be used to stop the processor while the system performed input/output or other non-CPU tasks, but was more widely used for debugging by allowing the processor to be single-stepped. When the processor was in stopped mode, most of the chip hardware put into a low-drain, high-impedance condition, reducing power use. The machine cycle clocks were kept running for the benefit of external devices, including any interrupt controllers needed to wake the chip back up, which relied on these controllers staying in sync.
+To take advantage of these new features, and to support the new logical AND and OR operators, the instruction set added 14 new instructions, bringing the total to 60.
+
+
+Intel 4040 registers
+
+
+
+
+
+12
+
+11
+
+10
+
+09
+
+08
+
+07
+
+06
+
+05
+
+04
+
+03
+
+02
+
+01
+
+00
+
+(bit position)
+
+
+Accumulator
+
+
+
+
+
+
+A
+
+Accumulator
+
+
+Index registers
+
+
+
+
+R0
+
+R1
+
+Index bank 0
+
+
+
+
+R2
+
+R3
+
+
+
+
+
+
+R4
+
+R5
+
+
+
+
+
+
+R6
+
+R7
+
+
+
+
+
+
+R8
+
+R9
+
+
+
+
+
+
+R10
+
+R11
+
+
+
+
+
+
+R12
+
+R13
+
+
+
+
+
+
+R14
+
+R15
+
+
+
+
+
+
+R0
+
+R1
+
+Index bank 1
+
+
+
+
+R2
+
+R3
+
+
+
+
+
+
+R4
+
+R5
+
+
+
+
+
+
+R6
+
+R7
+
+
+
+
+Program counter
+
+
+PC
+
+Program Counter
+
+
+Push-down address call stack
+
+
+PC1
+
+Call level 1
+
+
+PC2
+
+Call level 2
+
+
+PC3
+
+Call level 3
+
+
+PC4
+
+Call level 4
+
+
+PC5
+
+Call level 5
+
+
+PC6
+
+Call level 6
+
+
+PC7
+
+Call level 7
+
+
+Condition codes
+
+
+
+
+C
+
+Carry flag
+
+
+Characteristics[edit]
+Data bus: 4-bit
+Address bus: 12-bit for ROM (multiplexed onto data bus; addresses took three bus cycles to transmit, same as in the 4004), effectively 13-bit with use of bank-switching commands; effectively 10-bit or 8-bit for RAM (8-bit direct address plus one-of-four, i.e. 2-bit equivalent, bank select; the additional 256 "status" memory locations required use of I/O commands to read or write, from an overall 8-bit address space)
+Voltage: −15 V DC
+Operating frequency: 500 to 740 kHz main clock (2-phase, overlapping); 62500 to 92500 8-clock machine cycles per second, each instruction requiring either one or two machine cycles to read and execute, meaning a rough average of 62 kIPS at 740 kHz with an equal mix.[Note 2]
+Performance: Claimed execution time of ~850 μs to add two 32-bit (8-digit BCD) numbers, or around 1175 such operations per second and about 10 machine cycles per digit pair.[Note 3]
+Designers[edit]
+Federico Faggin proposed the project, formulated the architecture and led the design. The detailed design was done by Tom Innes. The original mask show next to Tom Innes‘ initials (TI) two further initials from sofar unidentified other designers (JO, EL).
+
+New support chips[edit]
+3216 and 3226 4-bit parallel bus drivers[Note 4]
+4101 – 256 × 4-bit Static RAM[Note 5]
+4201 – Clock Generator, 500 to 740 kHz, using 4.000 to 5.185 MHz crystals
+4207 – General Purpose 8-bit Output port
+4209 – General Purpose 8-bit Input port
+4211 – General Purpose 8-bit I/O port
+4265 - Programmable general-purpose I/O. It contains four 4-bit I/O ports.  It has 14 software-selectable modes that can be programmed to interface with these ports.  Not only this can interface with this processor and 8080A processor as well.  It was available in sample quantities in stock in March (1976).[3][4]
+4269 – Programmable keyboard/display. It has system software configuration in this chipset via instructions that controls how these ports can be handled.  It was available in sample quantities in March (1976).[3][5]
+Keyboard Features: It generates an interrupt when the key is pressed.  It stores up to 8 characters FIFO buffer prior servicing the CPU.  It can be interfaced with sensors, panel switches and keyboards which it supports full teletypewriter size.  That can be key input encoding, polling, character input buffer storage, and keyboard over-entry recovery.
+Display Features: It operates and refresh displays or indicator arrays up to 128 elements or lights. It also supports gas-discharge display such as Burroughs Self-Scan display up to 20 characters can be driven.
+4289 – Standard Memory Interface (replaces 4008/4009)[Note 6]
+4308 – 1K × 8-bit ROM plus 4 × 4-bit IO ports[Note 7]
+4316 – 2K × 8-bit ROM[Note 8]
+4702 – 256 × 8-bit EPROM[Note 9]
+Use in computers[edit]
+The 4040 was first used in a microcomputer in Intel's Intellec 4 Mod 40 development system, released in early 1975.[6] According to Byte magazine, the first third-party microcomputer designed around the Intel 4040 was the Micro 440, released by Comp-Sultants of Huntsville, Alabama, in late 1975.[7]
+
+See also[edit]
+Intel Intellec 4 Mod 40
+Notes[edit]
+
+
+^ by default only one level of interrupt was supported, as further servicing was disabled once an initial interrupt was acknowledged and could only re-enabled on RTI, essentially allowing three levels of subroutine stacking within an interrupt itself occurring within a three-deep subroutine, but detection could be forced back on with a specific command.
+
+^ This may not be entirely accurate and is based on the 4004 characteristics; some of the added instructions may require additional cycles to execute, especially any external register stacking required for interrupt handling, but it is not made clear in the documentation as to whether this is the case; halt/step are special cases which naturally take potentially many millions of cycles to "execute", but as these essentially occur "outside" of the usual program flow, they don't count for speed calculation.
+
+^ Likewise, based on claimed 4004 performance; "850 μs" is a somewhat rounded-off figure claimed in an early Intel brochure and may not be particularly precise, but the total execution time works out to approximately 79 or 80 machine cycles, which fits neatly with either 10 cycles per digit pair, 9 cycles per pair plus 7 for setup and any necessary post-processing, or 8 per pair plus 15 extra (...etc). The actual instruction mix wasn't specified, so without both source code and a list of instruction execution times it's impossible to be sure. A more efficient addition routine might have been possible on the 4040 vs the 4004, but the extra instructions don't suggest any obvious method for achieving this and appear to be focussed on addressing the earlier chip's more obvious shortcomings, e.g. a lack of interrupts and haltability.
+
+^ Provides "high" current (~25mA) handling capacity for external I/O devices. Allegedly intended solely for use with the 4289, but design appears fairly generic and may be adaptable to a bare 4004/4040?
+
+^ i.e. combining the main storage of four 4002s into a single individually-selectable chip, but with neither the 4-bit I/O port nor additional 64 words of I/O-command-accessed "status" memory. As it has a dedicated, 8-bit address bus, and two separate 4-bit data input and output buses, the 4101 is intended only for use as a downstream peripheral of the 4289. This is further emphasised by the SRAM's claim to be "used for writeable Program Memory", something not achievable by a bare 4004 or 4040.
+
+^ Allows connection of "standard" memory (8-bit parallel data and/or up to 12-bit parallel addressing, the latter in the form of 8-bit address plus 4-bit binary chip select) and devices to the 4004 or 4040, as well as the use of RAM as Program Memory (the 4289 can be installed so as to appear like a regular 4001 ROM to the processor regardless of what's connected on the other side; furthering the illusion, it also provides the same four I/O lines that a 4001 would offer). A 4040 making use of two 4289s could offer various combinations of ROM and RAM in 2KB segments up to 8KB total with a relatively simplistic segregated addressing scheme and a small number of 4101s and 4308s, e.g. 3× 4308 and 8× 4101 for 6KB ROM and 1KB RAM.
+
+^ Directly replaces four separate 4001s with a single chip, including being available in four "metal" variants that respond to logical chip addresses 0–3, 4–7, 8–11 and 12–15, simulating the sixteen original versions of the 4001
+
+^ Intended for use downstream of a 4289, as it presents an 11-bit parallel address input bus and separate 8-bit parallel data output bus, as well as three binary-coded chip select lines (thus allowing provision of up to 16KB ROM with an addressing scheme incompatible with the 4004/4040 on several different levels - although only two 4316s, thus 4KB of ROM, or one 4316 plus RAM, can be directly addressed by a 4289 without additional hardware and/or special programming techniques)
+
+^ i.e. UV-erased rather than electronically, and is again intended for use with the 4289, as it has separate, 8-bit parallel, address input and data output buses
+
+
+References[edit]
+
+
+^ "The Life Cycle of a CPU". The CPUShack. 2005.
+
+^ a b "cpu-collection.de >> Intel >> 4040". www.cpu-collection.de.
+
+^ a b Intel Corporation, "4269 and 4265 Programmable I/O Components Introduced for Intel MCS-40 4-bit Systems", Intel Microcomputer News, Volume 3, No. 1, January 1976, page 3
+
+^ Intel Corporation, "4265 Programmable General Purpose I/O Device", Intel Data Catalog 1976, February 1976, page 7-22
+
+^ Intel Corporation, "4269 Programmable Keyboard Display Device", Intel Data Catalog 1976, February 1976, page 7-39
+
+^ Staff writer (March 1975). "Intel Introduces 4/Mod 40". Microcomputer Digest. 1 (9). Microcomputer Associates: 1, 3–4 – via the Internet Archive.
+
+^ Helmers, Carl T. Jr., ed. (December 1975). "Micro-440". Byte (4). Byte Publications: 89 – via the Internet Archive.
+
+
+Further reading[edit]
+ChipDB Datasheets: i4040 (PDF)
+Bitsavers: MCS-40 Users Manual, November 1974 (PDF)
+Pastraiser: i4040 Memory Organisation
+Wikichip: MCS-40
+CPU Zone: MCS-4 chipset
+CPU Zone: i4702
+vteIntel processorsLists
+Processors
+Atom
+Celeron
+Pentium
+Pro
+II
+III
+4
+D
+M
+Core
+2
+i3
+i5
+i7
+i9
+M
+Xeon
+Quark
+Itanium
+Microarchitectures
+Chipsets
+MicroarchitecturesIA-32 (32-bit x86)
+P5
+P6
+P6 variant (Pentium M)
+P6 variant (Enhanced Pentium M)
+NetBurst
+x86-64 (64-bit)
+Core
+Penryn
+Nehalem
+Westmere
+Sandy Bridge
+Ivy Bridge
+Haswell
+Broadwell
+Skylake
+Cannon Lake
+Sunny Cove
+Cypress Cove
+Willow Cove
+Golden Cove
+Raptor Cove
+Redwood Cove
+Lion Cove
+x86 ULV
+Bonnell
+Saltwell
+Silvermont
+Goldmont
+Goldmont Plus
+Tremont
+Gracemont
+Current productsx86-64 (64-bit)
+Atom
+Celeron
+Pentium
+Core
+10th gen
+11th gen
+12th gen
+13th gen
+14th gen
+Core Ultra
+1st gen
+2nd gen
+Xeon
+DiscontinuedBCD oriented (4-bit)
+4004 (1971)
+4040 (1974)
+pre-x86 (8-bit)
+8008 (1972)
+8080 (1974)
+8085 (1977)
+Early x86 (16-bit)
+8086 (1978)
+8088 (1979)
+80186 (1982)
+80188 (1982)
+80286 (1982)
+x87 (external FPUs)
+8/16-bit databus
+8087 (1980)
+16-bit databus
+80C187
+80287
+80387SX
+32-bit databus
+80387DX
+80487
+IA-32 (32-bit x86)
+i386
+SX
+376
+EX
+i486
+SX
+DX2
+DX4
+SL
+RapidCAD
+OverDrive
+A100/A110
+Atom
+CE
+SoC
+Celeron (1998)
+M
+D (2004)
+Pentium
+Original i586
+OverDrive
+Pro
+II
+III
+4
+M
+Dual-Core
+Core
+Xeon
+P6-based
+NetBurst-based
+Core-based
+Quark
+Tolapai
+x86-64 (64-bit)
+Atom
+SoC
+CE
+Celeron
+D
+Dual-Core
+Pentium
+4
+D
+Extreme Edition
+Dual-Core
+Core
+2
+1st gen
+2nd gen
+3rd gen
+4th gen
+5th gen
+6th gen
+7th gen
+8th gen
+9th gen
+10th gen
+11th gen
+M
+Xeon
+Nehalem-based
+Sandy Bridge-based
+Ivy Bridge-based
+Haswell-based
+Broadwell-based
+Skylake-based
+Other
+CISC
+iAPX 432
+EPIC
+Itanium
+RISC
+i860
+i960
+StrongARM
+XScale
+Related
+Tick–tock model
+Process–architecture–optimization model
+Intel GPUs
+GMA
+Intel HD, UHD, and Iris Graphics
+Xe
+Arc
+PCHs
+SCHs
+ICHs
+PIIXs
+Stratix
+Codenames
+Larrabee
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Intel_4040&oldid=1283444112"
+Categories: Intel microprocessors4-bit microprocessorsComputer-related introductions in 1974Hidden categories: Articles with short descriptionShort description matches WikidataUse mdy dates from October 2011Wikipedia articles needing clarification from March 2025
+
+
+
+
+
+
+ This page was last edited on 1 April 2025, at 15:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Intel 4040
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

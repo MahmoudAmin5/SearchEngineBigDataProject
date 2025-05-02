@@ -1,0 +1,994 @@
+https://en.wikipedia.org/wiki/International_Electrotechnical_Commission
+
+
+
+
+International Electrotechnical Commission - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+IEC Standards
+
+
+
+
+
+
+
+
+3
+Membership and participation
+
+
+
+
+Toggle Membership and participation subsection
+
+
+
+
+
+3.1
+Full members
+
+
+
+
+
+
+
+
+3.2
+Associate members (limited voting and managerial rights)
+
+
+
+
+
+
+
+
+3.3
+Affiliates
+
+
+
+
+
+
+
+
+
+
+4
+Technical information
+
+
+
+
+
+
+
+
+5
+Standards and tools published in database format
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+International Electrotechnical Commission
+
+
+
+46 languages
+
+
+
+
+العربيةAsturianuAzərbaycancaবাংলা閩南語 / Bân-lâm-gúБеларускаяБеларуская (тарашкевіца)БългарскиCatalàČeštinaDanskDeutschEestiEspañolEsperantoEuskaraفارسیFrançaisGalego한국어हिन्दीBahasa IndonesiaItalianoעבריתҚазақшаLatviešuMagyarBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийShqipSimple EnglishSlovenščinaSuomiSvenskaไทยTürkçeУкраїнськаTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+International standards organization
+"IEC" redirects here. For other uses, see IEC (disambiguation).
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources. Find sources: "International Electrotechnical Commission" – news · newspapers · books · scholar · JSTOR (November 2023) (Learn how and when to remove this message)
+
+
+International Electrotechnical CommissionCommission électrotechnique internationaleAbbreviationIECFormation26 June 1906, 118 years oldTypeStandards organizationLegal statusSwiss association[1]PurposeStandardization for electrical technology, electronics and related fields.HeadquartersGeneva, SwitzerlandLocation
+List
+Geneva, Switzerland
+Sydney, Australia
+São Paulo, Brazil
+Nairobi, Kenya
+Singapore
+Worcester, Massachusetts, United States
+
+Membership
+89 countries
+ Albania
+ Algeria
+ Argentina
+ Australia
+ Austria
+ Belarus
+ Belgium
+ Brazil
+ Bulgaria
+ Canada
+ Colombia
+ Chile
+ China
+ Croatia
+ Czech Republic
+ Denmark
+ Egypt
+ Finland
+ France
+ Germany
+ Ghana
+ Greece
+ Hungary
+ India
+ Indonesia
+ Iran
+ Iraq
+ Ireland
+ Israel
+ Italy
+ Japan
+ Libya
+ Luxembourg
+ Malaysia
+ Mexico
+ Netherlands
+ New Zealand
+ Norway
+ Oman
+ Pakistan
+ Philippines
+ Poland
+ Portugal
+ Qatar
+ Romania
+ Russia
+ Saudi Arabia
+ Serbia
+ Singapore
+ Slovakia
+ Slovenia
+ South Korea
+ South Africa
+ Spain
+ Sweden
+  Switzerland
+ Thailand
+ Turkey
+ Uganda
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States
+
+Official languages English, FrenchPresidentJo Cops[2]General SecretaryPhilippe Metzger[2]Websitewww.iec.ch 
+The International Electrotechnical Commission (IEC; French: Commission électrotechnique internationale) is an international standards organization[3][4] that prepares and publishes international standards for all electrical, electronic and related technologies. IEC standards cover a vast range of technologies from power generation, transmission and distribution to home appliances and office equipment, semiconductors, fibre optics, batteries, solar energy, nanotechnology, and marine energy, as well as many others. The IEC also manages four[5] global conformity assessment systems that certify whether equipment, system or components conform to its international standards.
+All electrotechnologies are covered by IEC Standards, including energy production and distribution, electronics, magnetics and electromagnetics, electroacoustics, multimedia, telecommunications and medical technology, as well as associated general disciplines such as terminology and symbols, electromagnetic compatibility, measurement and performance, dependability, design and development, safety and the environment.
+
+
+History[edit]
+The first  International Electrical Congress took place in 1881 at the  International Exposition of Electricity, held in Paris. At that time the International System of Electrical and Magnetic Units was agreed to.
+The International Electrotechnical Commission held its inaugural meeting on 26 June 1906, following discussions among the British Institution of Electrical Engineers, the American Institute of Electrical Engineers, and others, which began at the 1900 Paris International Electrical Congress,[citation needed], with British engineer R. E. B. Crompton playing a key role. In 1906, Lord Kelvin was elected as the first President of the International Electrotechnical Commission.[6]
+
+IEC central office in Geneva
+The IEC was instrumental in developing and distributing standards for units of measurement, particularly the gauss, hertz, and weber.[7] It was also first to promote the Giorgi System of standards, later developed into the SI, or Système International d'unités (in English, the International System of Units).
+In 1938, it published a multilingual international vocabulary to unify terminology relating to electrical, electronic and related technologies. This effort continues, and the International Electrotechnical Vocabulary is published online as the Electropedia.
+The CISPR (Comité International Spécial des Perturbations Radioélectriques) – in English, the International Special Committee on Radio Interference – is one of the groups founded by the IEC.
+Currently, 89 countries are IEC members[8] while another 85 participate in the Affiliate Country Programme,[9] which is not a form of membership but is designed to help industrializing countries get involved with the IEC. Originally located in London, United Kingdom, the IEC moved to its current headquarters in Geneva, Switzerland in 1948.
+It has regional centres in Africa (Nairobi, Kenya), Asia (Singapore), Oceania (Sydney, Australia), Latin America (São Paulo, Brazil) and North America (Worcester, Massachusetts, United States).
+The work is done by some 10,000 electrical and electronics experts from industry, government, academia, test labs and others with an interest in the subject.
+IEC Standards are often adopted as national standards by its members.
+
+IEC Standards[edit]
+See also: List of IEC standards
+IEC 60320 C5 connector
+The IEC cooperates closely with the International Organization for Standardization (ISO) and the International Telecommunication Union (ITU). In addition, it works with several major standards development organizations, including the IEEE with which it signed a cooperation agreement in 2002, which was amended in 2008 to include joint development work.
+IEC Standards that are not jointly developed with ISO have numbers in the range 60000–79999 and their titles take a form such as IEC 60417: Graphical symbols for use on equipment. Following the Dresden Agreement with CENELEC the numbers of older IEC standards were converted in 1997 by adding 60000, for example IEC 27 became IEC 60027. Standards of the 60000 series are also found preceded by EN to indicate that the IEC standard is also adopted by CENELEC as a European standard; for example IEC 60034 is also available as EN 60034.
+Standards developed jointly with ISO, such as ISO/IEC 26300 (Open Document Format for Office Applications (OpenDocument) v1.0), ISO/IEC 27001 (Information technology, Security techniques, Information security management systems, Requirements), and ISO/IEC 17000 series, carry the acronym of both organizations. The use of the ISO/IEC prefix covers publications from ISO/IEC Joint Technical Committee 1 – Information Technology, as well as conformity assessment standards developed by ISO CASCO (Committee on conformity assessment) and IEC CAB (Conformity Assessment Board). Other standards developed in cooperation between IEC and ISO are assigned numbers in the 80000 series, such as IEC 82045–1.
+IEC Standards are also being adopted by other certifying bodies such as BSI (United Kingdom), CSA (Canada), UL & ANSI/INCITS (United States), SABS (South Africa), Standards Australia, SPC/GB (China) and DIN (Germany). IEC standards adopted by other certifying bodies may have some noted differences from the original IEC standard.[10]
+
+Membership and participation[edit]
+A map of IEC membership as of April 2012   Full members   Associate members   Affiliates 
+The IEC is made up of members, called national committees, and each NC represents its nation's electrotechnical interests in the IEC. This includes manufacturers, providers, distributors and vendors, consumers and users, all levels of governmental agencies, professional societies and trade associations as well as standards developers from national standards bodies. National committees are constituted in different ways. Some NCs are public sector only, some are a combination of public and private sector, and some are private sector only. About 90% of those who prepare IEC standards work in industry.[11] IEC Member countries include:
+
+Full members[edit]
+
+ Algeria
+ Argentina
+ Australia
+ Austria
+ Belarus
+ Belgium
+ Brazil
+ Bulgaria
+ Canada
+ Colombia
+ Chile
+ China
+ Croatia
+ Czech Republic
+ Denmark
+ Egypt
+ Finland
+ France
+ Germany
+ Greece
+ Hungary
+ India
+ Indonesia
+ Iran
+ Iraq
+ Ireland
+ Israel
+ Italy
+ Japan
+ Kuwait
+ Libya
+ Luxembourg
+ Malaysia
+ Mexico
+ Netherlands
+ New Zealand
+ Nigeria
+ Norway
+ Oman
+ Pakistan
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Qatar
+ Romania
+ Russia
+ Saudi Arabia
+ Serbia
+ Singapore
+ Slovakia
+ Slovenia
+ South Africa
+ South Korea
+ Spain
+ Sweden
+  Switzerland
+ Thailand
+ Turkey
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States
+   Nepal
+
+Associate members (limited voting and managerial rights)[edit]
+
+ Albania[12]
+ Bahrain
+ Bangladesh
+ Bosnia and Herzegovina
+ Cuba
+ Cyprus
+ Estonia
+ Ethiopia
+ Georgia[12]
+ Iceland
+ Jordan[12]
+ Kazakhstan
+ Kenya
+ Latvia
+ Lithuania
+ North Macedonia
+ Malta
+ Moldova[12]
+ Montenegro
+ Morocco
+ North Korea
+ Sri Lanka
+ Tunisia
+ Vietnam
+ Uganda
+ Ghana
+
+Affiliates[edit]
+In 2001 and in response to calls from the WTO to open itself to more developing nations, the IEC launched the Affiliate Country Programme to encourage developing nations to become involved in the commission's work or to use its International Standards. Countries signing a pledge to participate in the work and to encourage the use of IEC Standards in national standards and regulations are granted access to a limited number of technical committee documents for the purposes of commenting. In addition, they can select a limited number of IEC Standards for their national standards' library.[13] Countries participating in the Affiliate Country Programme are:
+
+
+Afghanistan
+Angola
+Antigua and Barbuda
+Armenia
+Azerbaijan
+Barbados
+Belize
+Benin
+Bhutan
+Bolivia
+Botswana
+Brunei
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Central African Republic
+Chad
+Comoros
+Congo (Rep. of)
+Congo (Democratic Rep. of)
+Costa Rica
+Côte d'Ivoire
+Dominica
+Dominican Republic
+Ecuador
+El Salvador
+Eritrea
+Eswatini
+Fiji
+Gabon
+Grenada
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Jamaica
+Kyrgyzstan
+Laos
+Lebanon
+Lesotho
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Mongolia
+Mozambique
+Myanmar
+Namibia
+Nepal
+Niger
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Rwanda
+Saint Lucia
+Saint Vincent and the Grenadines
+São Tomé and Príncipe
+Senegal
+Seychelles
+Sierra Leone
+South Sudan
+Sudan
+Suriname
+Syrian Arab Republic
+Tanzania
+The Gambia
+Togo
+Trinidad and Tobago
+Turkmenistan
+Uruguay
+Uzbekistan
+Venezuela
+Yemen
+Zambia
+Zimbabwe
+
+Technical information[edit]
+Graphical Symbols
+Hydraulic Turbines Archived 2018-11-17 at the Wayback Machine
+Switchgear Archived 2019-09-10 at the Wayback Machine
+Dependability
+Power Systems Management
+Fibre Optics
+Audio, video and multimedia systems and equipment
+Standards and tools published in database format[edit]
+International Electrotechnical Vocabulary
+IEC Glossary
+IEC 60061: Lamp caps, lampholders and gauges
+IEC 60417 Graphical Symbols for Use on Equipment
+IEC 60617: Graphical Symbols for Diagrams
+See also[edit]
+International Organization for Standardization
+International Telecommunication Union
+World Standards Cooperation
+List of IEC standards
+List of IEC technical committees
+References[edit]
+
+
+^ "International Electrotechnical Commission (Commission Electrotechnique Internationale)". www.zefix.ch. Zefix – Central Business Name Index. Retrieved 2019-06-27.
+
+^ a b IEC Officers, CH: International Electrotechnical Commission, 2020, archived from the original on 2020-01-03, retrieved 2017-11-16
+
+^ IEC Organization and funding, CH: International Electrotechnical Commission, 2017, archived from the original on 2012-01-23, retrieved 2017-11-16
+
+^ International Geneva, Facts and Figures (PDF), CH: Permanent Mission of Switzerland to the United Nations Office and to the other international organizations in Geneva, 2017
+
+^ "What the IEC does – IEC conformity assessment systems". International Electrotechnical Commission. Archived from the original on 2019-07-28. Retrieved 2019-07-28.
+
+^ The Life of William Thomson, Baron Kelvin of Largs by Silvanus Phillips Thompson, CUP 2011, ISBN 1108027180, 9781108027182
+
+^ Electrical Engineering for Non-Electrical Engineers. Fairmont Press. 2013-12-10. ISBN 978-1482228830.
+
+^ "National Committees | IEC".
+
+^ "Affiliate Country | IEC".
+
+^ IEC Webstore | Welcome. Webstore.iec.ch.
+
+^ IEC full and associate members
+
+^ a b c d Formerly participating in the affiliate programme.
+
+^ IEC affiliates
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to International Electrotechnical Commission.
+
+Official website 
+vteInternational Electrotechnical CommissionSubsidiaries
+CISPR
+Technical committees
+TC 12
+TC 25
+TC 57
+JTC 1
+JTC 1/SC 2
+JTC 1/SC 6
+JTC 1/SC 7
+JTC 1/SC 17
+JTC 1/SC 22
+JTC 1/SC 23
+JTC 1/SC 24
+JTC 1/SC 25
+JTC 1/SC 27
+JTC 1/SC 28
+JTC 1/SC 29
+JTC 1/SC 31
+JTC 1/SC 32
+JTC 1/SC 34
+JTC 1/SC 35
+JTC 1/SC 36
+JTC 1/SC 37
+JTC 1/SC 38
+JTC 1/SC 39
+JTC 1/SC 40
+JTC 1/SWG-A
+Related
+Information Technology Task Force
+International Electrotechnical Vocabulary
+List of IEC standards
+
+Authority control databases InternationalISNI2VIAFNationalGermanyUnited StatesFranceBnF dataJapanAustraliaCzech RepublicSpainNorwayLatviaCroatiaGreeceKoreaPolandIsraelCataloniaAcademicsCiNiiArtistsMuseum of Modern ArtPeopleTroveOtherIdRef
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=International_Electrotechnical_Commission&oldid=1286264995"
+Categories: International Electrotechnical CommissionOrganizations established in 19061906 establishments in the United KingdomElectrical engineering organizationsElectrical safety standards organizationsInternational organisations based in SwitzerlandOrganisations based in GenevaHidden categories: Articles with short descriptionShort description is different from WikidataArticles lacking reliable references from November 2023All articles lacking reliable referencesUse Oxford spelling from December 2011Articles containing French-language textAll articles with unsourced statementsArticles with unsourced statements from April 2018Webarchive template wayback linksCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 18 April 2025, at 19:41 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+International Electrotechnical Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

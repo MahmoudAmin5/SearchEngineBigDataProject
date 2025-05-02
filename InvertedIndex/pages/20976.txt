@@ -1,0 +1,1674 @@
+https://en.wikipedia.org/wiki/VAX
+
+
+
+
+VAX - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Name
+
+
+
+
+
+
+
+
+2
+Instruction set
+
+
+
+
+
+
+
+
+3
+Operating systems
+
+
+
+
+
+
+
+
+4
+History
+
+
+
+
+
+
+
+
+5
+Processor architecture
+
+
+
+
+Toggle Processor architecture subsection
+
+
+
+
+
+5.1
+Virtual memory map
+
+
+
+
+
+
+
+
+5.2
+Privilege modes
+
+
+
+
+
+
+
+
+5.3
+Processor status longword
+
+
+
+
+
+
+
+
+
+
+6
+VAX-based systems
+
+
+
+
+Toggle VAX-based systems subsection
+
+
+
+
+
+6.1
+SIMACS
+
+
+
+
+
+
+
+
+6.2
+Canceled systems
+
+
+
+
+
+
+
+
+6.3
+Clones
+
+
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+Further reading
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+VAX
+
+
+
+22 languages
+
+
+
+
+AzərbaycancaЧӑвашлаDeutschEspañolEsperantoفارسیFrançais한국어HausaItalianoעבריתMagyarNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenskaУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Line of computers sold by Digital Equipment Corporation
+"Vax" redirects here. For other uses, see Vax (disambiguation).
+
+
+VAXDesignerDigital Equipment CorporationBits32-bitIntroduced1977; 48 years ago (1977)DesignCISCTypeRegister–registerRegister–memoryMemory–memoryEncodingVariable (1 to 56 bytes)BranchingCondition codeEndiannessLittlePage size512 bytesExtensionsPDP-11 compatibility mode, VAX Vector Extensions,[1] VAX Virtualization Extensions[2]OpenNoPredecessorPDP-11SuccessorAlphaRegistersGeneral-purpose16 × 32-bitFloating pointnot present, uses the GPRVector16 × 4096-bit (64 elements of 64 bits each)
+VAX (an acronym for virtual address extension) is a series of computers featuring a 32-bit instruction set architecture (ISA) and virtual memory that was developed and sold by Digital Equipment Corporation (DEC) in the late 20th century. The VAX-11/780, introduced October 25, 1977, was the first of a range of popular and influential computers implementing the VAX ISA. The VAX family was a huge success for DEC, with the last members arriving in the early 1990s. The VAX was succeeded by the DEC Alpha, which included several features from VAX machines to make porting from the VAX easier.
+VAX was designed as a successor to the 16-bit PDP-11, one of the most successful minicomputers in history with approximately 600,000 units sold. The system was designed to offer backward compatibility with the PDP-11 while extending the memory to a full 32-bit implementation and adding demand paged virtual memory. The name VAX refers to its virtual address extension concept that allowed programs to make use of this newly available memory while still being compatible with unmodified user mode PDP-11 code. The name "VAX-11", used on early models, was chosen to highlight this capability. The VAX ISA is considered a complex instruction set computer (CISC) design.
+DEC quickly dropped the −11 branding as PDP-11 compatibility was no longer a major concern. The line expanded to both high-end mainframes like the VAX 9000 as well as to the workstation-scale systems like the VAXstation series. The VAX family ultimately contained ten distinct designs and over 100 individual models in total. All of them were compatible with each other and normally ran the VAX/VMS operating system.
+VAX has been perceived as the quintessential CISC ISA,[3] with its very large number of assembly language programmer-friendly addressing modes and machine instructions, highly orthogonal instruction set architecture, and instructions for complex operations such as queue insertion or deletion, number formatting, and polynomial evaluation.[4]
+
+
+Name[edit]
+VAX-11/780
+The name "VAX" originated as an acronym for virtual address extension, both because the VAX was seen as a 32-bit extension of the older 16-bit PDP-11 and because it was (after Prime Computer) an early adopter of virtual memory to manage this larger address space.
+Early versions of the VAX processor implement a "compatibility mode" that emulates many of the PDP-11's instructions, giving it the 11 in VAX-11 to highlight this compatibility. Later versions offloaded the compatibility mode and some of the less used CISC instructions to emulation in the operating system software.
+
+Instruction set[edit]
+The VAX instruction set was designed to be powerful and orthogonal.[5] When it was introduced, many programs were written in assembly language, so having a "programmer-friendly" instruction set was important.[6][7] In time, as more programs were written in high-level programming languages, the instruction set became less visible, and the only ones much concerned about it were compiler writers.
+One unusual aspect of the VAX instruction set is the presence of register masks[8] at the start of each subprogram. These are arbitrary bit patterns that specify, when control is passed to the subprogram, which registers are to be preserved. On most architectures, it is up to the compiler to produce instructions to save out the needed data, typically using the call stack for temporary storage. On the VAX, with 16 registers, this might require 16 instructions to save the data and another 16 to restore it. Using the mask, a single 16-bit value performs the same operations internally in hardware, saving time and memory.[5]
+Since register masks are a form of data embedded within the executable code, they can make linear parsing of the machine code difficult. This can complicate optimization techniques that are applied on machine code.[9]
+
+Operating systems[edit]
+Stylized "VAX/VMS" used by Digital
+The native VAX operating system is Digital's VAX/VMS (renamed to OpenVMS in 1991 or early 1992 when it was ported to Alpha, modified to comply with POSIX standards, and branded as compliant with XPG4 by the X/Open consortium).[10] The VAX architecture and VMS operating system were "engineered concurrently" to take maximum advantage of each other, as was the initial implementation of the VAXcluster facility.
+During the 1980s, a hypervisor for the VAX architecture named VMM (Virtual Machine Monitor), also known as the VAX Security Kernel, was developed at Digital with the aim of allowing multiple isolated instances of VMS and ULTRIX to be run on the same hardware.[11] VMM was intended to achieve TCSEC A1 compliance. By the late 1980s, it was operational on VAX 8000 series hardware, but was abandoned before release to customers.
+Other VAX operating systems have included various releases of Berkeley Software Distribution (BSD) UNIX up to 4.3BSD, Ultrix-32, VAXELN, and Xinu. More recently, NetBSD[12] and OpenBSD[13] have supported various VAX models and some work has been done on porting Linux to the VAX architecture.[14] OpenBSD discontinued support for the architecture in September 2016.[15]
+
+History[edit]
+VAX 8350 front view with cover removed
+The first VAX model sold was the VAX-11/780, which was introduced on October 25, 1977, at the Digital Equipment Corporation's Annual Meeting of Shareholders.[16] Bill Strecker, C. Gordon Bell's doctoral student at Carnegie Mellon University, was responsible for the architecture.[17] Many different models with different prices, performance levels, and capacities were subsequently created. VAX superminicomputers were very popular in the early 1980s.
+For a while the VAX-11/780 was used as a standard in CPU benchmarks. It was initially described as a one-MIPS machine, because its performance was equivalent to an IBM System/360 that ran at one MIPS, and the System/360 implementations had previously been de facto performance standards. The actual number of instructions executed in 1 second was about 500,000, which led to complaints of marketing exaggeration.  The result was the definition of a "VAX MIPS", the speed of a VAX-11/780; a computer performing at 27 VAX MIPS would run the same program roughly 27 times faster than the VAX-11/780.
+Within the Digital community the term VUP (VAX Unit of Performance) was the more common term, because MIPS do not compare well across different architectures.  The related term cluster VUPs was informally used to describe the aggregate performance of a VAXcluster. (The performance of the VAX-11/780 still serves as the baseline metric in the BRL-CAD Benchmark, a performance analysis suite included in the BRL-CAD solid modeling software distribution.) The VAX-11/780 included a subordinate stand-alone LSI-11 computer that performed microcode load, booting, and diagnostic functions for the parent computer. This was dropped from subsequent VAX models. Enterprising VAX-11/780 users could therefore run three different Digital Equipment Corporation operating systems: VMS on the VAX processor (from the hard drives), and either RSX-11S or RT-11 on the LSI-11 (from the single density single drive floppy disk).
+The VAX went through many different implementations. The original VAX 11/780 was implemented in TTL and filled a four-by-five-foot cabinet[18] with a single CPU. Through the 1980s, the high-end of the family was continually improved using ever-faster discrete components, an evolution that ended with the introduction of the VAX 9000 in October 1989. This design proved too complex and expensive and was ultimately abandoned not long after introduction. CPU implementations that consisted of multiple emitter-coupled logic (ECL) gate array or macrocell array chips included the VAX 8600 and 8800 superminis and finally the VAX 9000 mainframe class machines. CPU implementations that consisted of multiple MOSFET custom chips included the 8100 and 8200 class machines. The VAX 11-730 and 725 low-end machines were built using AMD Am2901 bit-slice components for the ALU.
+The MicroVAX I represented a major transition within the VAX family. At the time of its design, it was not yet possible to implement the full VAX architecture as a single VLSI chip (or even a few VLSI chips as was later done with the V-11 CPU of the VAX 8200/8300). Instead, the MicroVAX I was the first VAX implementation to move some of the more complex VAX instructions (such as the packed decimal and related opcodes) into emulation software. This partitioning substantially reduced the amount of microcode required and was referred to as the "MicroVAX" architecture. In the MicroVAX I, the ALU and registers were implemented as a single gate-array chip while the rest of the machine control was conventional logic.
+A full VLSI (microprocessor) implementation of the MicroVAX architecture arrived with the MicroVAX II's 78032 (or DC333) CPU and 78132 (DC335) FPU. The 78032 was the first microprocessor with an on-board memory management unit[19] The MicroVAX II was based on a single, quad-sized processor board which carried the processor chips and ran the MicroVMS or Ultrix-32 operating systems. The machine featured 1 MB of on-board memory and a Q22-bus interface with DMA transfers. The MicroVAX II was succeeded by many further MicroVAX models with much improved performance and memory.
+Further VLSI VAX processors followed in the form of the V-11, CVAX, CVAX SOC ("System On Chip", a single-chip CVAX), Rigel, Mariah and NVAX implementations. The VAX microprocessors extended the architecture to inexpensive workstations and later also supplanted the high-end VAX models. This wide range of platforms (mainframe to workstation) using one architecture was unique in the computer industry at that time. Sundry graphics were etched onto the CVAX microprocessor die. The phrase CVAX... when you care enough to steal the very best was etched in broken Russian as a play on a Hallmark Cards slogan, intended as a message to Soviet engineers who were known to be both purloining DEC computers for military applications and reverse engineering their chip design.[20][21] By the late 1980s, the VAX microprocessors had grown in power to be competitive with discrete designs. This led to the abandonment of the 8000 and 9000 series and their replacement by Rigel-powered models of the VAX 6000, and later by NVAX-powered VAX 7000 systems.
+In DEC's product offerings, the VAX architecture was eventually superseded by RISC technology. In 1989 DEC introduced a range of workstations and servers that ran Ultrix, the DECstation and DECsystem respectively, using processors from MIPS Computer Systems. In 1992 DEC introduced their own RISC instruction set architecture, the Alpha AXP (later renamed Alpha), and their own Alpha-based microprocessor, the DECchip 21064, a high performance 64-bit design capable of running OpenVMS.
+In August 2000, Compaq announced that the remaining VAX models would be discontinued by the end of the year,[22] but old systems remain in widespread use.[23] The Stromasys CHARON-VAX and SIMH software-based VAX emulators remain available. VMS is now developed by VMS Software Incorporated, albeit only for the Alpha, HPE Integrity, and x86-64 platforms.
+
+Processor architecture[edit]
+MicroVAX 3600 (left) with printer (right)
+
+DEC VAX registers
+
+
+
+
+
+31
+
+...
+
+23
+
+...
+
+15
+
+...
+
+07
+
+...
+
+00
+
+(bit position)
+
+
+General registers
+
+
+R0
+
+Register 0
+
+
+R1
+
+Register 1
+
+
+R2
+
+Register 2
+
+
+R3
+
+Register 3
+
+
+R4
+
+Register 4
+
+
+R5
+
+Register 5
+
+
+R6
+
+Register 6
+
+
+R7
+
+Register 7
+
+
+R8
+
+Register 8
+
+
+R9
+
+Register 9
+
+
+R10
+
+Register 10
+
+
+R11
+
+Register 11
+
+
+R12 / AP
+
+Register 12  / Argument Pointer
+
+
+R13 / FP
+
+Register 13 / Frame Pointer
+
+
+R14 / SP
+
+Register 14 / Stack Pointer
+
+
+R15 / PC
+
+Register 15 / Program Counter
+
+
+Processor Status Longword
+
+
+(See adjacent table for bit definitions)
+
+PSL
+
+
+Virtual memory map[edit]
+The VAX virtual memory is divided into four sections. Each is one gigabyte (in the context of addressing, 230 bytes) in size:
+
+
+
+Section
+
+Address range
+
+
+P0
+
+0x00000000 – 0x3fffffff
+
+
+P1
+
+0x40000000 – 0x7fffffff
+
+
+S0
+
+0x80000000 – 0xbfffffff
+
+
+S1
+
+0xc0000000 – 0xffffffff
+
+For VMS, P0 was used for user process space, P1 for process stack, S0 for the operating system, and S1 was reserved.
+
+Privilege modes[edit]
+The VAX has four hardware implemented privilege modes:
+
+
+
+No.
+
+Mode
+
+VMS use
+
+Notes
+
+
+0
+
+Kernel
+
+OS kernel
+
+Highest privilege level
+
+
+1
+
+Executive
+
+File system
+
+
+
+
+2
+
+Supervisor
+
+Shell (DCL)
+
+
+
+
+3
+
+User
+
+Normal programs
+
+Lowest privilege level
+
+
+Processor status longword[edit]
+The process status longword contains 32 bits:
+
+
+
+CM
+
+TP
+
+MBZ
+
+FD
+
+IS
+
+cmod
+
+pmod
+
+MBZ
+
+IPL
+
+MBZ
+
+DV
+
+FU
+
+IV
+
+T
+
+N
+
+Z
+
+V
+
+C
+
+
+31
+
+30
+
+29:28
+
+27
+
+26
+
+25:24
+
+23:22
+
+21
+
+20:16
+
+15:8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+
+
+Bits
+Meaning
+Bits
+Meaning
+
+
+31
+PDP-11 compatibility mode
+15:8
+MBZ (must be zero)
+
+
+30
+trace pending
+7
+decimal overflow trap enable
+
+
+29:28
+MBZ (must be zero)
+6
+floating-point underflow trap enable
+
+
+27
+first part done (interrupted instruction)
+5
+integer overflow trap enable
+
+
+26
+interrupt stack
+4
+trace
+
+
+25:24
+current privilege mode
+3
+negative
+
+
+23:22
+previous privilege mode
+2
+zero
+
+
+21
+MBZ (must be zero)
+1
+overflow
+
+
+20:16
+IPL (interrupt priority level)
+0
+carry
+
+VAX-based systems[edit]
+See also: List of VAX computers
+The SPEC-1 VAX, a VAX 11/780 used for benchmarking, showing internals
+The first VAX-based system was the VAX-11/780, a member of the VAX-11 family. The high-end VAX 8600 replaced the VAX-11/780 in October 1984 and was joined by the entry-level MicroVAX minicomputers and the VAXstation workstations in the mid-1980s. The MicroVAX was superseded by the VAX 4000, the VAX 8000 was superseded by the VAX 6000 in the late 1980s and the mainframe-class VAX 9000 was introduced. In the early 1990s, the fault-tolerant VAXft was introduced, as were the Alpha compatible VAX 7000/10000. A variant of various VAX-based systems were sold as the VAXserver.
+
+SIMACS[edit]
+System Industries developed an ability to give more than one DEC CPU, but not at the same time, write access to a shared disk. They implemented an enhancement named SIMACS (simultaneous machine access),[24][25] which allowed their special disk controller to set a semaphore flag for disk access, allowing multiple WRITES to the same files; the disk is shared by multiple DEC systems. SIMACS also existed on PDP-11 RSTS systems.
+
+Canceled systems[edit]
+Canceled systems include the BVAX, a high-end emitter-coupled logic (ECL) based VAX, and two other ECL-based VAX models: Argonaut and Raven.[26] Raven was canceled in 1990.[27] A VAX named Gemini was also canceled, which was a fall-back in case the LSI-based Scorpio failed. It never shipped.
+
+Clones[edit]
+A number of VAX clones, both authorized and unauthorized, were produced. Examples include:
+
+Systime Computers Ltd of the United Kingdom produced clones of early VAX models such as the Systime 8750 (equivalent to the VAX 11/750).[28]
+Norden Systems produced the ruggedized, Military-specification MIL VAX series.[10]
+The Hungarian Central Research Institute for Physics (KFKI) produced a series of clones of early VAX models, the TPA-11/540, 560 and 580.[29]
+The SM 52/12[30] from Czechoslovakia, developed at VUVT Žilina (today Slovakia) and produced from 1986 at ZVT Banská Bystrica (today Slovakia).
+The East German VEB Robotron K 1840 (SM 1710) is a clone of the VAX-11/780 and Robotron K 1820 (SM 1720) is a copy of the MicroVAX II.
+The SM-1700 is a Soviet clone of the VAX-11/730, SM-1702 was a clone of MicroVAX II and SM-1705 was a clone of VAX-11/785.[31] These systems ran a variety of clone operating systems - DEMOS (based on BSD Unix), MOS VP (based on VAX/VMS) or MOS VP RV (based on VAXELN).[32]
+The NCI-2780 Super-mini, also sold as Taiji-2780, is a clone of the VAX-11/780 developed by North China Institute of Computing Technology in Beijing.[33][34]
+References[edit]
+
+
+^ "VAX MACRO and Instruction Set Reference Manual". OpenVMS documentation. April 2001. 8.1 Basic Architecture. Archived from the original on September 6, 2001.
+
+^ DEC STD 032 – VAX Architecture Standard (PDF). Digital Equipment Corp. January 5, 1990. p. 12-5. Retrieved August 1, 2022.
+
+^ Bistriceanu, Virgil. "Computer Architecture – Class notes" (PDF). Illinois Institute of Technology. Retrieved April 15, 2022.
+
+^ Payne, Mary; Bhandarkar, Dileep (1980). "VAX floating point: a solid foundation for numerical computation". ACM SIGARCH Computer Architecture News. 8 (4). ACM: 22–33. doi:10.1145/641845.641849. ISSN 0163-5964. S2CID 15021135.
+
+^ a b Levy, Henry; Eckhouse, Richard (June 28, 2014). Computer Programming and Architecture: The Vax. Digital Press. ISBN 9781483299372.
+
+^ "Another Approach to Instruction Set Architecture—VAX" (PDF). Archived from the original (PDF) on June 10, 2017. Retrieved October 3, 2018. ... instruction set architectures, we chose the VAX as programmer-friendly instruction set, an asset
+
+^ "VAX". Esp. noted for its large, assembler-programmer-friendly instruction set --- an asset that
+
+^ "VAX MACRO and Instruction Set Reference Manual". OpenVMS documentation. April 2001. 9.2.5 Procedure Call Instructions. Archived from the original on March 30, 2002.
+
+^ Goss, Clinton F. (August 2013) [First published June 1986]. Machine Code Optimization: Improving Executable Object Code (PDF) (PhD). Vol. Computer Science Department Technical Report No. 246. Courant Institute, New York University. arXiv:1308.4815. Bibcode:2013arXiv1308.4815G. Retrieved August 22, 2013.
+Clinton F. Goss (2013) [1986]. Machine Code Optimization – Improving Executable Object Code (PhD thesis). Courant Institute, New York University.
+
+^ a b Rainville, Jim; Howard, Karen, eds. (1997). "VAX/VMS at 20". Digital Equipment Corporation. Archived from the original on July 20, 2018. Retrieved July 20, 2018.
+
+^ Paul A. Karger; Mary Ellen Zurko; Douglas W. Benin; Andrew H. Mason; Clifford E. Kahnh (May 7–9, 1990). A VMM security kernel for the VAX architecture (PDF). Proceedings. 1990 IEEE Computer Society Symposium on Research in Security and Privacy. IEEE. doi:10.1109/RISP.1990.63834. Retrieved January 31, 2021.
+
+^ "NetBSD/vax".
+
+^ "OpenBSD/vax".
+
+^ "Porting Linux to the VAX".
+
+^ "OpenBSD 6.0". 2016. Retrieved June 20, 2017.
+
+^ "VAX 11/780, The First VAX System (October 1977)".
+
+^ Slater, Robert (1987). Portraits in Silicon. MIT Press. p. 213. ISBN 978-0-262-69131-4.
+
+^ "VAX 11/780 Computer: CPU". Computer History Museum. Retrieved October 24, 2012.
+
+^ "MicroVAX II (1985)". Computer History and Simulation.
+
+^ "Steal the best". micro.magnet.fsu.edu. Retrieved January 30, 2008. The Russian phrase was: СВАКС... Когда вы забатите довольно воровать настоящий лучший
+
+^ "CVAX (1987)". Computer History and Simulation. Retrieved January 30, 2008.
+
+^ "VAX Systems: A letter from Jesse Lipcon". Archived from the original on August 15, 2000.
+
+^ "If It Ain't Broke, Don't Fix It: Ancient Computers in Use Today". PCWorld. Retrieved October 11, 2021.
+
+^ Wand, R.; Kesteven, M.; Rayner, P. (February 24, 1984). "Computing Requirements for AT Software Development" (PDF).
+
+^ Joshi, Prem; Delacroix, Jacques (September 1984). "New Flexibility For Multiple VAX/VMS". HARDCOPY. pp. 64–68.
+
+^ Mark Smotherman (July 19, 2008). "Who are the Computer Architects?". Retrieved September 30, 2008.
+
+^ Supnik, Bob (2007). "Raven". Computer History and Simulation. Retrieved March 1, 2019.
+
+^ "RAL Informatics Report 1984-85". Retrieved October 15, 2007.
+
+^ "The TPA story". Retrieved October 15, 2007.
+
+^ Dujnic, J.; Fristacky, N.; Molnar, L.; Plander, I.; Rovan, B. (1999). "On the history of computer science, computer engineering, and computer technology development in Slovakia". IEEE Annals of the History of Computing. 21 (3): 38–48. doi:10.1109/85.778981.
+
+^ Laimutis Telksnys; Antanas Zilinskas (July 1999). "Computers in Lithuania" (PDF). IEEE Annals of the History of Computing. 21 (3): 31–37. doi:10.1109/85.778980. S2CID 16240778.
+
+^ Prokhorov N.L.; Gorskiy V.E. "Basic software for 32-bit SM computer models". Software Systems Journal (in Russian). 1988 (3). Retrieved September 15, 2021.
+
+^ U.S. Congress, Office of Technology Assessment (July 1987). Technology transfer to China. U.S. Government Printing Office. p. 96. ISBN 9781428922914. OTA-USC-340.
+
+^ Xia Nanyin; Chan Laixing (1990). "Satellite Launch and TT&C Systems of China and Their Roles in International Cooperation". In F. Sharokhi; J. S. Greenberg; T. Al-Saud (eds.). Space Commercialization: Launch Vehicles and Programs. American Institute of Aeronautics and Astronautics. p. 244. ISBN 0-930403-75-4.
+
+
+Further reading[edit]
+Coy, Peter (January 6, 2021). "Who Remembers the VAX Minicomputer, Icon of the 1980s?". Bloomberg News. Retrieved January 9, 2021.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to VAX.
+
+HP: VAX Systems at the Wayback Machine (archived December 7, 2004)
+DEC Microprocessors
+SimH VAX Open source emulator that supports VAX architecture
+The complete Digital Technical Journals
+vteDigital Equipment CorporationKey people
+Ken Olsen (founder and CEO, 1957–1992)
+Harlan Anderson (co-founder)
+Gordon Bell (VP of engineering)
+Robert Palmer (CEO, 1992–1998)
+Instruction setarchitectures,processorsPDP-11
+LSI-11
+F-11
+T-11
+J-11
+VAX
+V-11
+MicroVAX 78032
+CVAX
+SOC
+Rigel
+Mariah
+NVAX
+Alpha
+Alpha 21064
+21066
+21068
+Alpha 21164 (21164PC)
+Alpha 21264
+Alpha 21364
+Alpha 21464
+Other
+MicroPRISM
+StrongARM
+Computerterminals
+VT05 (1970)
+GT40 (1972)
+VT50/VT52 (1975)
+VT55
+VT62
+VT100 (1978)
+VT101
+VT102
+VT103
+VT105
+VT131
+VT180
+VT220 (1983)
+VT240
+VT241
+VT320 (1987)
+VT330
+VT340
+VT420 (1990)
+VT1000 (1990)
+VT510 (1993)
+VT520 (1994)
+VT525
+Operatingsystems
+DECsys
+4K DMS
+COS
+TOPS-10
+RSX-15
+TSS/8
+OS/8
+DOS-11
+RT-11
+RSTS/E
+RSX-11
+IAS
+DSM-11
+TOPS-20
+VAX/VMS
+VAXELN
+Ultrix
+MICA
+Digital UNIX
+Programminglanguages
+BASIC-8
+DIBOL
+FOCAL
+MACRO-10
+MACRO-11
+MUMPS
+VAX MACRO
+DIGITAL Command Language
+Character sets
+Code page 1100 (Multinational)
+Code page 1287 (Greek)
+Code page 1288 (Turkish)
+Hebrew
+National Replacement
+RADIX 50
+Special Graphics
+Technical
+Bus standards
+Digital Storage Systems Interconnect
+Massbus
+Q-Bus
+Standard Disk Interconnect
+Synchronous Backplane Interconnect
+TURBOchannel
+Unibus
+VAXBI bus
+Other hardware
+DECserver
+DECtalk
+DECtape
+DECwriter
+Digital Linear Tape
+Dynamically Redefined Character Set
+Firefly
+Flip-Chip module
+Gold key
+LK201
+LK421
+Mass Storage Control Protocol
+PALcode
+RA90
+RK05
+RL02
+Star coupler
+System Module
+TU81
+Related topics
+AdvFS
+AltaVista
+Compaq
+CPU Wars
+DECnet
+DECUS
+HP-Interex
+Digital Federal Credit Union
+Dynamic debugging technique
+FX!32
+Local Area Transport
+Maintenance Operations Protocol
+On-line Debugging Tool
+PALcode
+Record Management Services
+ReGIS
+Sequence and Batch Language
+Sixel
+System Reference Manual
+Systems Research Center
+TD/SMP
+The Ultimate Entrepreneur
+VT640
+WPS-8
+
+ Computers template
+ Category
+ Commons
+
+vteDigital Equipment Corporation computersPDP
+18-bit
+PDP-1
+PDP-4
+PDP-7
+PDP-9
+PDP-15
+12-bit
+LINC
+LINC-8
+PDP-5
+PDP-8
+PDP-8/e
+PDP-12
+DECmate
+PDP-14
+
+
+36-bit
+PDP-6
+PDP-10
+DECSYSTEM-20
+16-bit
+PDP-11
+DEC Professional
+
+VAX
+VAX-11
+MicroVAX
+VAX 8000
+VAXstation
+Firefly
+VAXserver
+VAX 6000
+VAX 4000
+VAX 9000
+VAXft
+VAX 7000 and VAX 10000
+x86
+Rainbow 100
+VAXmate
+DECpc
+DECstation
+Multia
+Digital Personal Workstation
+HiNote
+MIPS
+DECstation
+DECsystem servers
+Alpha
+DEC 3000 AXP
+DEC 4000 AXP
+DEC 7000 AXP and DEC 10000 AXP
+DECpc AXP 150
+DEC 2000 AXP
+Multia
+AlphaServer
+AlphaStation
+Digital Personal Workstation
+See also
+Compaq Professional Workstation 1000 XP
+Itsy Pocket Computer
+Jupiter project
+List of VAX computers
+
+ Company template
+ Category
+ Commons
+
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=VAX&oldid=1277683527"
+Categories: Minicomputers32-bit computersComputer-related introductions in 1977DEC mainframe computersHidden categories: CS1: long volume valueArticles containing Russian-language textCS1 Russian-language sources (ru)Articles with short descriptionShort description is different from WikidataUse mdy dates from October 2022Commons category link from WikidataWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 26 February 2025, at 02:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+VAX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

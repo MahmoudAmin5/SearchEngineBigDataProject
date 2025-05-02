@@ -1,0 +1,807 @@
+https://en.wikipedia.org/wiki/DASK
+
+
+
+
+DASK - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Architecture
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+DASK
+
+
+
+5 languages
+
+
+
+
+DanskEspañol日本語SvenskaTürkçe
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+First computer in Denmark, 1957
+DASK in Danmarks Tekniske Museum.
+The DASK was the first computer in Denmark. It was commissioned in 1955, designed and constructed by Regnecentralen, and began operation in September 1957. DASK is an acronym for Dansk Aritmetisk Sekvens Kalkulator or Danish Arithmetic Sequence Calculator. Regnecentralen almost did not allow the name, as the word dask means "slap" in Danish. In the end, however, it was named so as it fit the pattern of the name BESK, the Swedish computer which provided the initial architecture for DASK.
+DASK traces its origins to 1947 and a goal set by Akademiet for de Tekniske Videnskaber (Academy for the Technical Sciences or Academy of Applied Sciences), which was to follow the development of the modern computing devices. Initial funding was obtained through the Ministry of Defence (Denmark) as the Danish Military had been given a grant through the Marshall Plan for cipher machines for which the military saw no immediate need.
+Originally conceived to be a copy of BESK, the rapid advancement in the field allowed improvements to be made during the development such that in the end, it was not a copy of BESK. The DASK was a one-off design that took place in a villa. The machine became so big that the floor had to be reinforced to support its mass of 3.5 metric tons.
+DASK is notable for being the subject of one of the earliest ALGOL implementations, referred to as DASK ALGOL,[1] which counted Jørn Jensen and Peter Naur among its contributors.
+
+
+Architecture[edit]
+The DASK was a vacuum tube machine based on the Swedish BESK design. As described in 1956, it contained 2500 vacuum tubes, 1500 solid-state elements, and required a three-phase power supply of at least 15 kW.
+Fast storage was 1024 40-bit words of magnetic-core memory (cycle time 5 μs), directly addressable as 1024 full words or 2048 half-words. This was complemented by an additional 8192 words of backing store on magnetic drum (spinning at 3000 rpm). A full word stored 40-bit numbers in two's-complement form, or two 20-bit instructions.
+In addition to two accumulators, the DASK had three index registers, which could be used to modify the address of most instructions. An instruction word consisted of 11 bits for an address, two bits for index register selection, and seven bits for the operation code and its modifiers.
+Operations included addition and subtraction (56 μs), multiplication and division (364 μs), binary shift and bitwise conjunction.
+Peripherals initially included 5-bit paper tape (400 cps read time) and teletypewriter (12 cps); magnetic tape and other peripherals were added later on.
+
+See also[edit]
+List of vacuum-tube computers
+References[edit]
+
+
+^ "DASK ALGOL" (PDF). Archived from the original (PDF) on September 27, 2007. Retrieved May 15, 2007.
+
+
+External links[edit]
+Early Computing in Denmark
+HOPL entry for DASK Algol
+Dansk Datahistorisk Forening Virtual Museum (in Danish)
+Technical description of the DASK (in Danish)
+"Software Engineering Club – Dansk Aritmetisk Sekvens Kalkulator (DASK)". YouTube. Technical data and programming. 27 October 2017. Archived from the original on 2021-12-21. This video should hopefully give you the insight into how to develop software for this 60 year old machine by using the fundamentals of computing.{{cite web}}:  CS1 maint: others (link)
+DASK – A video featuring original footage of DASK and some of its operators, Mediehuset Ingeniøren
+vteALGOLImplementationsTechnicalstandards
+ALGOL 58
+ALGOL 60
+ALGOL 68
+Dialects
+ABC ALGOL
+ALCOR
+ALGO
+ALGOL 68C
+ALGOL 68-R
+ALGOL 68RS (ELLA)
+ALGOL 68S
+ALGOL N
+ALGOL W
+ALGOL X
+Atlas Autocode (Edinburgh IMP)
+Burroughs ALGOL
+CORAL 66
+Dartmouth ALGOL 30
+DASK ALGOL
+DG/L
+Elliott ALGOL
+Executive Systems Problem Oriented Language (ESPOL) → New Executive Programming Language (NEWP)
+FLACC
+IMP
+JOVIAL
+Kidsgrove Algol
+MAD
+Mary
+NELIAC
+RTL/2
+S-algol, PS-algol, Napier88
+Simula
+Small Machine ALGOL Like Language (SMALL)
+SMIL ALGOL
+Formalisms
+Jensen's device
+Van Wijngaarden grammar
+CommunityOrganizationsProfessionalassociations
+ALCOR Group
+Association for Computing Machinery (ACM)
+BSI Group
+Euro-Asian Council for Standardization, Metrology and Certification (EASC)
+International Federation for Information Processing (IFIP) IFIP Working Group 2.1
+Society of Applied Mathematics and Mechanics (GAMM)
+Business
+Burroughs Corporation
+Elliott Brothers
+Regnecentralen
+Education
+Case Institute of Technology
+University of Edinburgh
+University of St Andrews
+Manchester University
+Massachusetts Institute of Technology (MIT)
+Government
+Royal Radar Establishment (RRE)
+PeopleALGOL 58
+John Backus
+Friedrich L. Bauer
+Hermann Bottenbruch
+Charles Katz
+Alan Perlis
+Heinz Rutishauser
+Klaus Samelson
+Joseph Henry Wegstein
+MAD
+Bruce Arden
+Bernard Galler
+Robert M. Graham
+ALGOL 60
+Backus^
+Roland Carl Backhouse
+Bauer^
+Richard Bird
+Stephen R. Bourne
+Edsger W. Dijkstra
+Andrey Ershov
+Robert W. Floyd
+Jeremy Gibbons
+Julien Green
+David Gries
+Eric Hehner
+Tony Hoare
+Jørn Jensen
+Katz^
+Peter Landin
+Tom Maibaum
+Conor McBride
+John McCarthy
+Carroll Morgan
+Peter Naur
+Maurice Nivat
+John E. L. Peck
+Perlis^
+Brian Randell
+Rutishauser^
+Samelson^
+Jacob T. Schwartz
+Micha Sharir
+David Turner
+Bernard Vauquois
+Eiiti Wada
+Wegstein^
+Adriaan van Wijngaarden
+Mike Woodger
+Simula
+Ole-Johan Dahl
+Kristen Nygaard
+ALGOL 68
+Bauer^
+Susan G. Bond
+Bourne^
+Robert Dewar
+Dijkstra^
+Gerhard Goos
+Michael Guy
+Hoare^
+Cornelis H. A. Koster
+Peter Landin
+Charles H. Lindsey
+Barry J. Mailloux
+McCarthy^
+Lambert Meertens
+Naur^
+Peck^
+Willem van der Poel
+Randell^
+Douglas T. Ross
+Samelson^
+Michel Sintzoff
+van Wijngaarden^
+Niklaus Wirth
+Woodger^
+Philip Woodward
+Nobuo Yoneda
+
+Hal Abelson
+John Barnes
+Tony Brooker
+Ron Morrison
+Peter O'Hearn
+John C. Reynolds
+ALGOL BulletinComparison
+ALGOL 58 influence on ALGOL 60
+ALGOL 68 to other languages
+
+^ = full name and link in prior ALGOL version above Category: ALGOL  Category: ALGOL 60
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=DASK&oldid=1223227148"
+Categories: 1950s computersAlgol programming language familyIAS architecture computersOne-of-a-kind computersScience and technology in DenmarkVacuum tube computersValbyHidden categories: Articles with short descriptionShort description matches WikidataCS1 maint: others
+
+
+
+
+
+
+ This page was last edited on 10 May 2024, at 18:06 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+DASK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

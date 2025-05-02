@@ -1,0 +1,960 @@
+https://en.wikipedia.org/wiki/PS/2_port
+
+
+
+
+PS/2 port - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Communication protocol
+
+
+
+
+
+
+
+
+2
+Port availability
+
+
+
+
+Toggle Port availability subsection
+
+
+
+
+
+2.1
+Legacy port status and USB
+
+
+
+
+
+
+2.1.1
+Latency of mice
+
+
+
+
+
+
+
+
+2.1.2
+USB key rollover limitations
+
+
+
+
+
+
+
+
+
+
+2.2
+Conversion between PS/2 and USB
+
+
+
+
+
+
+
+
+
+
+3
+Color code
+
+
+
+
+
+
+
+
+4
+Hardware issues
+
+
+
+
+Toggle Hardware issues subsection
+
+
+
+
+
+4.1
+Hotplugging
+
+
+
+
+
+
+
+
+4.2
+Durability
+
+
+
+
+
+
+
+
+4.3
+Fault isolation
+
+
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+PS/2 port
+
+
+
+32 languages
+
+
+
+
+العربيةБългарскиBosanskiČeštinaDeutschEestiEspañolEuskaraفارسیFrançais한국어ՀայերենItalianoLietuviųMagyarNederlands日本語Norsk bokmålОлык марийPolskiPortuguêsRomânăРусскийSlovenčinaСрпски / srpskiSuomiSvenskaไทยTürkçeУкраїнська吴语中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+6-pin mini-DIN connector for connecting keyboards and mice to a PC compatible computer
+"PS/2 keyboard" and "PS/2 mouse" redirect here. For the keyboards normally supplied with IBM PS/2 computers, see Model M keyboard. For peripherals and game conversions for the video game console, see PlayStation 2.
+
+
+PS/2 port
+The color-coded PS/2 connection ports (purple for keyboard and green for mouse)Type
+Keyboard and computer mouse data connectorProduction historyDesigner
+IBMDesigned
+1987; 38 years ago (1987)Superseded
+DIN connector, DE-9 connector and Mini-DIN-9 InPortSuperseded by
+USB (USB human interface device class)General specificationsHot pluggable
+NoExternal
+YesCable
+4 wires plus shieldPins
+6Connector
+Mini-DIN-6ElectricalSignal
+5 V DCEarth
+Dedicated pin and shieldMax. voltage
+5.0±0.5 VMax. current
+275 mADataData signal
+Serial data at 10.0–16.7 kHz with 1 start bit, 8 data bits (LSB first), 1 parity bit (odd), 1 stop bit, [1 ack bit (if host-to-device)]Bitrate
+7–12 kbit/sMax. devices
+1 or 2[a]Protocol
+SerialPinout
+
+Female connector from the frontPin 1
++DATA
+DataPin 2
+
+Not connected[b]Pin 3
+GND
+GroundPin 4
+Vcc
++5 V DC at 275 mAPin 5
++CLK
+ClockPin 6
+
+Not connected[c]
+
+
+^ Keyboard and mouse ports may be combined into a single port which can be used to connect both by splitter cable.
+
+^ Sometimes, mouse Data for splitter cable.
+
+^ Sometimes, mouse Clock for splitter cable.
+
+
+The PS/2 port is a 6-pin mini-DIN connector used for connecting keyboards and mice to a PC compatible computer system. Its name comes from the IBM Personal System/2 series of personal computers, with which it was introduced in 1987. The PS/2 mouse connector generally replaced the older DE-9 RS-232 "serial mouse" connector, while the PS/2 keyboard connector replaced the larger 5-pin/180° DIN connector used in the IBM PC/AT design. The PS/2 keyboard port is electrically and logically identical to the IBM AT keyboard port, differing only in the type of electrical connector used. The PS/2 platform introduced a second port with the same design as the keyboard port for use to connect a mouse; thus the PS/2-style keyboard and mouse interfaces are electrically similar and employ the same communication protocol. However, unlike the otherwise similar Apple Desktop Bus connector used by Apple, a given system's keyboard and mouse port may not be interchangeable since the two devices use different sets of commands and the device drivers generally are hard-coded to communicate with each device at the address of the port that is conventionally assigned to that device. (That is, keyboard drivers are written to use the first port, and mouse drivers are written to use the second port.[1])
+
+
+Communication protocol[edit]
+Each port implements a bidirectional synchronous serial channel.[2] The channel is slightly asymmetrical: it favors transmission from the input device to the computer, which is the majority case. The bidirectional IBM AT and PS/2 keyboard interface is a development of the unidirectional IBM PC keyboard interface, using the same signal lines but adding capability to send data back to the keyboard from the computer; this explains the asymmetry.[3]
+The interface has two main signal lines, Data and Clock. These are single-ended signals driven by open-collector drivers at each end. Normally, the transmission is from the device to the host. To transmit a byte, the device simply outputs a serial frame of data (including 8 bits of data and a parity bit) on the Data line serially as it toggles the Clock line once for each bit. The host controls the direction of communication using the Clock line; when the host pulls it low, communication from the attached device is inhibited. The host can interrupt the device by pulling Clock low while the device is transmitting; the device can detect this by Clock staying low when the device releases it to go high as the device-generated clock signal toggles. When the host pulls Clock low, the device must immediately stop transmitting and release Clock and Data to both float high. (So far, all of this is the same as the unidirectional communication protocol of the IBM PC keyboard port, though the serial frame formats differ.) The host can use this state of the interface simply to inhibit the device from transmitting when the host is not ready to receive. (For the IBM PC keyboard port, this was the only normal use of signalling from the computer to the keyboard. The keyboard could not be commanded to retransmit a keyboard scan code after it had been sent, since there was no reverse data channel to carry commands to the keyboard, so the only way to avoid losing scan codes when the computer was too busy to receive them was to inhibit the keyboard from sending them until the computer was ready. This mode of operation is still an option on the IBM AT and PS/2 keyboard port.)[4]
+To send a byte of data back to the device, the host pulls Clock low, waits briefly, pulls Data low and releases the Clock line again. The device then generates a Clock signal while the host outputs a frame of bits on the Data line, one bit per Clock pulse, similar to what the attached device would do to transmit in the other direction. However, while device-to-host transmission reads bits on falling Clock edges, transmission in the other direction reads bits on rising edges. After the data byte, the host releases the Data line, and the device will pull the Data line low for one clock period to indicate successful reception. A keyboard normally interprets the received byte as a command or a parameter for a preceding command. The device will not attempt to transmit to the host until both Clock and Data have been high for a minimum period of time.[5]
+Transmission from the device to the host is favored because from the normal idle state, the device does not have to seize the channel before it can transmit—the device just begins transmitting immediately. In contrast, the host must seize the channel by pulling first the Clock line and then the Data line low and waiting for the device to have time to release the channel and prepare to receive; only then can the host begin to transmit data.
+
+Port availability[edit]
+PS/2 dualport, corresponding splitter (Y-cable) and pinout (female)
+Older laptops and some contemporary motherboards have a single port that supports either a keyboard or a mouse. Sometimes the port also allows one of the devices to be connected to the two normally unused pins in the connector to allow both to be connected at once through a special splitter cable.[6] This configuration is common on IBM/Lenovo Thinkpad notebooks among many others.
+The PS/2 keyboard interface is electrically the same as the 5-pin DIN connector on earlier AT keyboards, and keyboards designed for one can be connected to the other with a simple wiring adapter. Such wiring adapters and adapter cables were once commonly available for sale. Note that IBM PC and PC XT keyboards use a different unidirectional protocol with the same DIN connector as AT keyboards, so though a PC or XT keyboard can be connected to PS/2 port using a wiring adapter intended for an AT keyboard, the earlier keyboard will not work with the PS/2 port. (At least, it cannot work with normal PS/2 keyboard driver software, including the system BIOS keyboard driver.)
+In contrast to this, the PS/2 mouse interface is substantially different from RS-232 (which was generally used for mice on PCs without PS/2 ports), but nonetheless many mice were made that could operate on both with a simple passive wiring adapter, where the mice would detect the presence of the adapter based on its wiring and then switch protocols accordingly.
+PS/2 mouse and keyboard connectors have also been used in non-IBM PC-compatible computer systems, such as the DEC AlphaStation line, early IBM RS/6000 CHRP machines and SGI Indy, Indigo 2, and newer (Octane, etc.) computers.[7] Macintosh clone computers based on the "LPX-40" logic board design featured PS/2 mouse and keyboard ports, including the Motorola StarMax and the Power Computing PowerBase.[8]
+
+Legacy port status and USB[edit]
+PS/2 is now considered a legacy port, with USB ports now normally preferred for connecting keyboards and mice. This dates back at least as far as the Intel/Microsoft PC 2001 specification of 2000.
+However, as of 2023, although PS/2 ports are rarely included in off the shelf computer systems, they continue to be included on some computer motherboards and are favored by some users for various reasons including the following:
+
+PS/2 ports may be favored for security reasons in a corporate environment as they allow USB ports to be totally disabled, preventing the connection of any USB removable disks and malicious USB devices.[9]
+The PS/2 interface provides no restriction on key rollover, although USB keyboards have no such restriction either, unless operated in BOOT mode, which is the exception.
+To free USB ports for other uses like removable USB devices.
+Some USB keyboards may not be able to operate the BIOS on certain motherboards due to driver issues or lack of support. The PS/2 interface has near-universal compatibility with BIOS.
+The simplicity of PS/2 makes it useful for embedded systems and retro computers that may lack USB host peripheral. This also takes advantage of the wide availability of USB keyboard and mouses with PS/2 compatibility mode. [10]
+Latency of mice[edit]
+USB mice send data more quickly than PS/2 mice because standard USB mice are polled at a default rate of 125 Hz while standard PS/2 mice send interrupts at a default rate of 100 Hz when they have data to send to the computer.[11][12]
+Also, USB mice do not cause the USB controller to interrupt the system when they have no status change to report according to the USB HID specification's default profile for mice.[13] Both PS/2 and USB allow the sample rate to be overridden, with PS/2 supporting a sampling rate of up to 200 Hz[2] and USB supporting a polling rate up to 1 kHz[11] as long as the mouse runs at full-speed USB speeds or higher, while USB 2.0 capable devices can support up to 8 kHz polling rates.
+
+USB key rollover limitations[edit]
+The USB HID keyboard interface requires that it explicitly handle key rollover, with the full HID keyboard class supporting n-key rollover. However, the USB boot keyboard class (designed to allow the BIOS to easily provide a keyboard in the absence of OS USB HID support) only allows 6-key rollover. Some keyboard peripherals support only the latter class, and some OSes may fail to switch to using the full HID keyboard class with a device after boot.[14]
+
+Conversion between PS/2 and USB[edit]
+Passive PS/2  to USB adapters
+Active USB to PS/2 converter
+Many keyboards and mice were specifically designed to support both the USB and the PS/2 interfaces and protocols, selecting the appropriate connection type at power-on. Such devices are generally equipped with a USB connector and ship with a passive wiring adapter to allow connection to a PS/2 port. Such passive adapters may be specific to the devices they came with; however, the most common configuration involves sharing the GND and Vcc (+5 V) pins of both protocols, connecting the USB D+ pin to the PS/2 +CLK pin, and connecting the USB D- pin to the PS/2 +DATA pin. Using such adapters requires a dual-mode controller on the keyboard or mouse side.[15][16][17]
+
+
+USB to PS/2 passive adapter pinout[15]
+
+
+USB pin Number
+
+USB pin Name
+
+PS/2 pin Number
+
+PS/2 pin Name
+
+
+1
+
+VBUS
+
+4
+
+Vcc
+
+
+2
+
+D−
+
+1
+
++DATA
+
+
+3
+
+D+
+
+5
+
++CLK
+
+
+4
+
+GND
+
+3
+
+GND
+
+Older PS/2-only peripherals can be connected to a USB port via an active converter, which generally provides a pair of PS/2 ports (which may be designated as one keyboard and one mouse, even though both ports may support both protocols) at the cost of one USB port on the host computer.[18]
+
+Color code[edit]
+Main article: PC System Design Guide § Color-coding scheme for connectors and ports
+
+
+Color / Pantone
+Function
+Connector on PC
+
+
+ 
+
+Green / 3395C
+
+PS/2 mouse / pointing device
+
+6-pin mini-DIN female
+
+
+ 
+
+Purple / 2715C
+
+PS/2 keyboard
+
+Original PS/2 connectors were black or had the same color as the connecting cable (mainly white). Later, the PC 97 standard introduced a color code: the keyboard port, and the plugs on compliant keyboards, were purple; mouse ports and plugs were green.  (Some vendors initially used a different color code; Logitech used the color orange for the keyboard connector for a short period, but soon switched to purple.) Today this code is still used on most PCs. The pinouts of the connectors are the same, but most computers will not recognize devices connected to the wrong port.
+
+
+Hardware issues[edit]
+This section: Hardware issues needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section: Hardware issues. Unsourced material may be challenged and removed.Find sources: "PS/2 port" – news · newspapers · books · scholar · JSTOR (March 2011) (Learn how and when to remove this message)
+This section is missing information about i8042 issues as described in Glasgow. Please expand the section to include this information. Further details may exist on the talk page. (December 2020)
+Hotplugging[edit]
+PS/2 ports are designed to connect the digital I/O lines of the microcontroller in the external device directly to the digital lines of the microcontroller on the motherboard. They are not designed to be hot swappable. Hot swapping PS/2 devices usually does not cause damage because more modern microcontrollers tend to have more robust I/O lines built into them which are harder to damage than those of older controllers;[19] however, hot swapping can still potentially cause damage on older machines, or machines with less robust port implementations.
+If they are hot swapped, the devices must be similar enough that the driver running on the host system recognizes and can be used with the new device. Otherwise, the new device will not function properly. While this is seldom an issue with standard keyboard devices, the host system rarely recognizes the new device attached to the PS/2 mouse port. In practice most keyboards can be hot swapped but this should be avoided.
+
+Durability[edit]
+PS/2 connectors are not designed to be plugged in and out very often, which can lead to bent or broken pins. Additionally, PS/2 connectors only insert in one direction and must be rotated correctly before attempting connection. (If a user attempts to insert the connector in the wrong orientation and then tries to rotate it to the correct orientation without first pulling it out, then bent pins could result.)
+Most but not all connectors include an arrow or flat section which is usually aligned to the right or top of the jack before being plugged in. The exact direction may vary on older or non-ATX computers and care should be taken to avoid damaged or bent pins when connecting devices. This issue is slightly alleviated in modern times with the advent of the PS/2-to-USB adapter: users can just leave a PS/2 connector plugged into the PS/2-to-USB adapter at all times and not risk damaging the pins this way. A USB-to-PS/2 adapter does not have this problem.
+
+Fault isolation[edit]
+In a standard implementation both PS/2 ports are usually controlled by a single microcontroller on the motherboard. This makes design and manufacturing extremely simple and cheap. However, a rare side effect of this design is that a malfunctioning device can cause the controller to become confused, resulting in both devices acting erratically. (A well designed and programmed controller will not behave in this way.) The resulting problems can be difficult to troubleshoot (e.g., a bad mouse can cause problems that appear to be the fault of the keyboard and vice versa).
+
+See also[edit]
+BIOS interrupt call
+DIN connector on IBM PC keyboards
+Bus mouse
+Connections on mice
+DE-9 connector
+USB
+References[edit]
+
+
+^ There is actually no technical reason that either port could not work with either type of device, if appropriate software was written to support that arrangement.
+
+^ a b "The PS/2 Mouse Interface". 1 April 2003. Archived from the original on 16 September 2008.
+
+^ Compare the logic diagrams in the IBM Personal Computer Technical Reference manual with those in the IBM Personal Computer AT Technical Reference manual.
+
+^ IBM Personal Computer Technical Reference, IBM Personal Computer AT Technical Reference
+
+^ IBM Personal Computer AT Technical Reference
+
+^ "PS/2 Keyboard (IBM Thinkpad) Y adapter". RU: Pinouts. Retrieved 14 June 2011.
+
+^ Lenerz, Gerhard (7 November 2006). "Common Input Devices". Hardware. SGIstuff. Archived from the original on 26 June 2007. Retrieved 14 March 2007.
+
+^ "Power Computing PowerBase". Low end Mac. Retrieved 4 April 2011.
+
+^ Anthony, Sebastian (31 July 2014). "Massive, undetectable security flaw found in USB: It's time to get your PS/2 keyboard out of the cupboard". ExtremeTech. Ziff Davis, LLC. Retrieved 26 October 2015.
+
+^ Eater, Ben. "So how does a PS/2 keyboard interface work?". www.youtube.com. YouTube. Retrieved 14 December 2024.
+
+^ a b "Mouse Optimization Guide: Acceleration Fix and Polling Rate". eu.cybergamer.com. 26 July 2011. Retrieved 16 October 2024.
+
+^ "LCOM 2012/2013: Lab5". web.fe.up.pt. Retrieved 16 October 2024.
+
+^ "Device Class Definition for HID 1.11" (PDF). Archived from the original (PDF) on 11 August 2014.
+
+^ "N-key Rollover via PS/2 and USB". Geek hack. Archived from the original on 25 December 2010.
+
+^ a b "USB to PS/2 mouse or keyboard adapter pinout signals @ PinoutGuide.com". pinoutguide.com. Retrieved 28 October 2024.
+
+^ enCoRe™ USB Combination Low-Speed USB and PS/2 Peripheral Controller. CY7C63722, CY7C63723, CY7C63743 (PDF). Cypress Semiconductor. 27 September 2004. p. 3.
+
+^ USB and PS/2 Multimedia Keyboard Interface. Designer Reference Manual. M68HC08 Microcontrollers (PDF). Freescale Semiconductor. 2006. p. 8.
+
+^ "The pros and cons of PS-2 to USB adapters and converters". TechTarget.
+
+^ Adam Chapweske (5 September 2003). "The PS/2 Mouse/Keyboard Protocol". Archived from the original on 16 November 2016. Retrieved 26 November 2016.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to PS/2 connector.
+
+"Keyboard and Auxiliary Device Controller" (PDF). Hardware Interface Technical Reference -Common Technical-. IBM. October 1990.
+PS/2 keyboard and mouse mini-DIN 6 connector pinouts, Burton sys.
+PS/2 In-depth information, Computer engineering, archived from the original on 1 September 2006, retrieved 11 September 2006.
+Technical information on Interfacing with the AT keyboard, Beyond logic, archived from the original on 30 August 2018, retrieved 25 March 2012.
+vteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=PS/2_port&oldid=1287175951"
+Categories: Computer connectorsDeutsches Institut für NormungComputer keyboardsPointing devicesComputer-related introductions in 1987Computer hardware standardsHidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from January 2021Pages using multiple image with auto scaled imagesArticles needing additional references from March 2011All articles needing additional referencesArticles to be expanded from December 2020Commons link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 24 April 2025, at 14:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+PS/2 port
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

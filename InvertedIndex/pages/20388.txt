@@ -1,0 +1,625 @@
+https://en.wikipedia.org/wiki/Synchronous_circuit
+
+
+
+
+Synchronous circuit - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Synchronous circuit
+
+
+
+10 languages
+
+
+
+
+العربيةDeutschEuskaraفارسیFrançais한국어日本語SuomiTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Digital circuit synchronized by clock signal
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Synchronous circuit" – news · newspapers · books · scholar · JSTOR (December 2015) (Learn how and when to remove this message)
+In digital electronics, a synchronous circuit is a digital circuit in which the changes in the state of memory elements are synchronized by  a clock signal.  In a sequential digital logic circuit, data is stored in memory devices called flip-flops or latches.  The output of a flip-flop is constant until a pulse is applied to its "clock" input, upon which the input of the flip-flop is latched into its output.    In a synchronous logic circuit, an electronic oscillator called the clock generates a string (sequence) of pulses, the "clock signal".  This clock signal is applied to every storage element, so in an ideal synchronous circuit, every change in the logical levels of its storage components is simultaneous. Ideally, the input to each storage element has reached its final value before the next clock occurs, so the behaviour of the whole circuit can be predicted exactly.  Practically, some delay is required for each logical operation, resulting in a maximum speed limitations at which each synchronous system can run.
+To make these circuits work correctly, a great deal of care is needed in the design of the clock distribution networks.  Static timing analysis is often used to determine the maximum safe operating speed.
+Nearly all digital circuits, and in particular nearly all CPUs, are fully synchronous circuits with a global clock.
+Exceptions are often compared to fully synchronous circuits.
+Exceptions include self-synchronous circuits,[1][2][3][4]
+globally asynchronous locally synchronous circuits,
+and fully asynchronous circuits.
+
+See also[edit]
+Synchronous network
+Asynchronous circuit
+Moore machine
+Mealy machine
+Finite-state machine
+Sequential logic
+Memory
+Control unit
+Arithmetic logic unit
+Processor register
+Application-specific integrated circuit (ASIC)
+References[edit]
+
+
+^ 
+Asada and Ikeda Laboratories.
+"Self-synchronous Circuit".
+"Self Synchronous FPGA".
+2009.
+
+^ 
+"self synchronous configurable logic blocks".
+
+^ 
+Devlin, Benjamin; Ikeda, Makoto; Asada, Kunihiro.
+"Energy Minimum Operation with Self Synchronous Gate-Level Autonomous Power Gating and Voltage Scaling".
+2012.
+doi:10.1587/transele.E95.C.546
+
+^ 
+Devlin, B.; Ueki, H.; Mori, S.; Miyauchi, S.; Ikeda, M.; Asada, K.
+"Performance and side-channel attack analysis of a self synchronous montgomery multiplier processing element for RSA in 40nm CMOS".
+2012.
+doi:10.1109/ASSCC.2012.6570807
+
+
+vteDigital electronicsComponents
+Transistor
+Resistor
+Inductor
+Capacitor
+Printed electronics
+Printed circuit board
+Electronic circuit
+Flip-flop
+Memory cell
+Combinational logic
+Sequential logic
+Logic gate
+Boolean circuit
+Integrated circuit (IC)
+Hybrid integrated circuit (HIC)
+Mixed-signal integrated circuit
+Three-dimensional integrated circuit (3D IC)
+Emitter-coupled logic (ECL)
+Erasable programmable logic device (EPLD)
+Macrocell array
+Programmable logic array (PLA)
+Programmable logic device (PLD)
+Programmable Array Logic (PAL)
+Generic Array Logic (GAL)
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Field-programmable object array (FPOA)
+Application-specific integrated circuit (ASIC)
+Tensor Processing Unit (TPU)
+Theory
+Digital signal
+Boolean algebra
+Logic synthesis
+Logic in computer science
+Computer architecture
+Digital signal
+Digital signal processing
+Circuit minimization
+Switching circuit theory
+Gate equivalent
+Design
+Logic synthesis
+Place and route
+Placement
+Routing
+Transaction-level modeling
+Register-transfer level
+Hardware description language
+High-level synthesis
+Formal equivalence checking
+Synchronous logic
+Asynchronous logic
+Finite-state machine
+Hierarchical state machine
+Applications
+Computer hardware
+Hardware acceleration
+Digital audio
+radio
+Digital photography
+Digital telephone
+Digital video
+cinematography
+television
+Electronic literature
+Design issues
+Metastability
+Runt pulse
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Synchronous_circuit&oldid=1264122148"
+Categories: Automata (computation)Clock signalHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from December 2015All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 20 December 2024, at 16:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Synchronous circuit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

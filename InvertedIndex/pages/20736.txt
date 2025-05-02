@@ -1,0 +1,1947 @@
+https://en.wikipedia.org/wiki/Transcendental_function
+
+
+
+
+Transcendental function - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Definition
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+Examples
+
+
+
+
+
+
+
+
+4
+Algebraic and transcendental functions
+
+
+
+
+
+
+
+
+5
+Transcendentally transcendental functions
+
+
+
+
+
+
+
+
+6
+Exceptional set
+
+
+
+
+
+
+
+
+7
+Dimensional analysis
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Transcendental function
+
+
+
+28 languages
+
+
+
+
+العربيةBosanskiCatalàЧӑвашлаEspañolفارسیFrançais한국어Հայերենहिन्दीBahasa IndonesiaქართულიҚазақшаLatviešuNederlands日本語Norsk bokmålNorsk nynorskPortuguêsRomânăРусскийSuomiSvenskaதமிழ்ไทยУкраїнськаاردو中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Analytic function that does not satisfy a polynomial equation
+In mathematics, a transcendental function is an analytic function that does not satisfy a polynomial equation whose coefficients are functions of the independent variable that can be written using only the basic operations of addition, subtraction, multiplication, and division (without the need of taking limits). This is in contrast to an algebraic function.[1][2]
+Examples of transcendental functions include the exponential function, the logarithm function, the hyperbolic functions, and the trigonometric functions. Equations over these expressions are called transcendental equations.
+
+
+Definition[edit]
+Formally, an analytic function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ of one real or complex variable is transcendental if it is algebraically independent of that variable.[3] This means the function does not satisfy any polynomial equation. For example, the function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ given by
+
+
+
+
+
+f
+(
+x
+)
+=
+
+
+
+a
+x
++
+b
+
+
+c
+x
++
+d
+
+
+
+
+
+{\displaystyle f(x)={\frac {ax+b}{cx+d}}}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+
+is not transcendental, but algebraic, because it satisfies the polynomial equation
+
+
+
+
+
+(
+a
+x
++
+b
+)
+−
+(
+c
+x
++
+d
+)
+f
+(
+x
+)
+=
+0
+
+
+{\displaystyle (ax+b)-(cx+d)f(x)=0}
+
+.
+Similarly, the function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ that satisfies the equation
+
+
+
+
+
+f
+(
+x
+
+)
+
+5
+
+
++
+f
+(
+x
+)
+=
+x
+
+
+{\displaystyle f(x)^{5}+f(x)=x}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+
+is not transcendental, but algebraic, even though it cannot be written as a finite expression involving the basic arithmetic operations.
+This definition can be extended to functions of several variables.
+
+History[edit]
+The transcendental functions sine and cosine were tabulated from physical measurements in antiquity, as evidenced in Greece (Hipparchus) and India (jya and koti-jya). In describing Ptolemy's table of chords, an equivalent to a table of sines, Olaf Pedersen wrote:
+
+The mathematical notion of continuity as an explicit concept is unknown to Ptolemy. That he, in fact, treats these functions as continuous appears from his unspoken presumption that it is possible to determine a value of the dependent variable corresponding to any value of the independent variable by the simple process of linear interpolation.[4]
+A revolutionary understanding of these circular functions occurred in the 17th century and was explicated by Leonhard Euler in 1748 in his Introduction to the Analysis of the Infinite. These ancient transcendental functions became known as continuous functions through quadrature of the rectangular hyperbola xy = 1 by Grégoire de Saint-Vincent in 1647, two millennia after Archimedes had produced The Quadrature of the Parabola. 
+The area under the hyperbola was shown to have the scaling property of constant area for a constant ratio of bounds. The hyperbolic logarithm function so described was of limited service until 1748 when Leonhard Euler related it to functions where a constant is raised to a variable exponent, such as the exponential function where the constant base is e. By introducing these transcendental functions and noting the bijection property that implies an inverse function, some facility was provided for algebraic manipulations of the natural logarithm even if it is not an algebraic function.
+The exponential function is written 
+
+
+
+exp
+⁡
+(
+x
+)
+=
+
+e
+
+x
+
+
+
+
+{\displaystyle \exp(x)=e^{x}}
+
+. Euler identified it with the infinite series 
+
+
+
+
+∑
+
+k
+=
+0
+
+
+∞
+
+
+
+x
+
+k
+
+
+
+/
+
+k
+!
+
+
+{\textstyle \sum _{k=0}^{\infty }x^{k}/k!}
+
+, where k! denotes the factorial of k.
+The even and odd terms of this series provide sums denoting cosh(x) and sinh(x), so that 
+
+
+
+
+e
+
+x
+
+
+=
+cosh
+⁡
+x
++
+sinh
+⁡
+x
+.
+
+
+{\displaystyle e^{x}=\cosh x+\sinh x.}
+
+ These transcendental hyperbolic functions can be converted into circular functions sine and cosine by introducing (−1)k into the series, resulting in alternating series. After Euler, mathematicians view the sine and cosine this way to relate the transcendence to logarithm and exponent functions, often through Euler's formula in complex number arithmetic.
+
+Examples[edit]
+The following functions are transcendental:
+
+
+
+
+
+
+
+
+
+f
+
+1
+
+
+(
+x
+)
+
+
+
+=
+
+x
+
+π
+
+
+
+
+
+
+
+f
+
+2
+
+
+(
+x
+)
+
+
+
+=
+
+e
+
+x
+
+
+
+
+
+
+
+f
+
+3
+
+
+(
+x
+)
+
+
+
+=
+
+log
+
+e
+
+
+⁡
+
+x
+
+
+
+
+
+
+f
+
+4
+
+
+(
+x
+)
+
+
+
+=
+cosh
+⁡
+
+x
+
+
+
+
+
+
+f
+
+5
+
+
+(
+x
+)
+
+
+
+=
+sinh
+⁡
+
+x
+
+
+
+
+
+
+f
+
+6
+
+
+(
+x
+)
+
+
+
+=
+tanh
+⁡
+
+x
+
+
+
+
+
+
+f
+
+7
+
+
+(
+x
+)
+
+
+
+=
+
+sinh
+
+−
+1
+
+
+⁡
+
+x
+
+
+
+
+
+
+f
+
+8
+
+
+(
+x
+)
+
+
+
+=
+
+tanh
+
+−
+1
+
+
+⁡
+
+x
+
+
+
+
+
+
+f
+
+9
+
+
+(
+x
+)
+
+
+
+=
+cos
+⁡
+
+x
+
+
+
+
+
+
+f
+
+10
+
+
+(
+x
+)
+
+
+
+=
+sin
+⁡
+
+x
+
+
+
+
+
+
+f
+
+11
+
+
+(
+x
+)
+
+
+
+=
+tan
+⁡
+
+x
+
+
+
+
+
+
+f
+
+12
+
+
+(
+x
+)
+
+
+
+=
+
+sin
+
+−
+1
+
+
+⁡
+
+x
+
+
+
+
+
+
+f
+
+13
+
+
+(
+x
+)
+
+
+
+=
+
+tan
+
+−
+1
+
+
+⁡
+
+x
+
+
+
+
+
+
+f
+
+14
+
+
+(
+x
+)
+
+
+
+=
+x
+!
+
+
+
+
+
+f
+
+15
+
+
+(
+x
+)
+
+
+
+=
+1
+
+/
+
+x
+!
+
+
+
+
+
+f
+
+16
+
+
+(
+x
+)
+
+
+
+=
+
+x
+
+x
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}f_{1}(x)&=x^{\pi }\\[2pt]f_{2}(x)&=e^{x}\\[2pt]f_{3}(x)&=\log _{e}{x}\\[2pt]f_{4}(x)&=\cosh {x}\\f_{5}(x)&=\sinh {x}\\f_{6}(x)&=\tanh {x}\\f_{7}(x)&=\sinh ^{-1}{x}\\[2pt]f_{8}(x)&=\tanh ^{-1}{x}\\[2pt]f_{9}(x)&=\cos {x}\\f_{10}(x)&=\sin {x}\\f_{11}(x)&=\tan {x}\\f_{12}(x)&=\sin ^{-1}{x}\\[2pt]f_{13}(x)&=\tan ^{-1}{x}\\[2pt]f_{14}(x)&=x!\\f_{15}(x)&=1/x!\\[2pt]f_{16}(x)&=x^{x}\\[2pt]\end{aligned}}}
+
+
+For the first function 
+
+
+
+
+f
+
+1
+
+
+(
+x
+)
+
+
+{\displaystyle f_{1}(x)}
+
+, the exponent 
+
+
+
+π
+
+
+{\displaystyle \pi }
+
+ can be replaced by any other irrational number, and the function will remain transcendental. For the second and third functions 
+
+
+
+
+f
+
+2
+
+
+(
+x
+)
+
+
+{\displaystyle f_{2}(x)}
+
+ and 
+
+
+
+
+f
+
+3
+
+
+(
+x
+)
+
+
+{\displaystyle f_{3}(x)}
+
+, the base 
+
+
+
+e
+
+
+{\displaystyle e}
+
+ can be replaced by any other positive real number base not equaling 1, and the functions will remain transcendental. Functions 4-8 denote the hyperbolic trigonometric functions, while functions 9-13 denote the circular trigonometric functions. The fourteenth function 
+
+
+
+
+f
+
+14
+
+
+(
+x
+)
+
+
+{\displaystyle f_{14}(x)}
+
+ denotes the analytic extension of the factorial function via the gamma function, and 
+
+
+
+
+f
+
+15
+
+
+(
+x
+)
+
+
+{\displaystyle f_{15}(x)}
+
+ is its reciprocal, an entire function. Finally, in the last function 
+
+
+
+
+f
+
+16
+
+
+(
+x
+)
+
+
+{\displaystyle f_{16}(x)}
+
+, the exponent 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ can be replaced by 
+
+
+
+k
+x
+
+
+{\displaystyle kx}
+
+ for any nonzero real 
+
+
+
+k
+
+
+{\displaystyle k}
+
+, and the function will remain transcendental.
+
+Algebraic and transcendental functions[edit]
+Further information: Elementary function (differential algebra)
+The most familiar transcendental functions are the logarithm, the exponential (with any non-trivial base), the trigonometric, and the hyperbolic functions, and the inverses of all of these. Less familiar are the special functions of analysis, such as the gamma, elliptic, and zeta functions, all of which are transcendental. The generalized hypergeometric and Bessel functions are transcendental in general, but algebraic for some special parameter values.
+Transcendental functions cannot be defined using only the operations of addition, subtraction, multiplication, division, and 
+
+
+
+n
+
+
+{\displaystyle n}
+
+th roots (where 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is any integer), without using some "limiting process".
+A function that is not transcendental is algebraic. Simple examples of algebraic functions are the rational functions and the square root function, but in general, algebraic functions cannot be defined as finite formulas of the elementary functions, as shown by the example above with 
+
+
+
+f
+(
+x
+
+)
+
+5
+
+
++
+f
+(
+x
+)
+=
+x
+
+
+{\displaystyle f(x)^{5}+f(x)=x}
+
+ (see Abel–Ruffini theorem).
+The indefinite integral of many algebraic functions is transcendental. For example, the integral 
+
+
+
+
+∫
+
+t
+=
+1
+
+
+x
+
+
+
+
+1
+t
+
+
+d
+t
+
+
+{\displaystyle \int _{t=1}^{x}{\frac {1}{t}}dt}
+
+ turns out to equal the logarithm function 
+
+
+
+l
+o
+
+g
+
+e
+
+
+(
+x
+)
+
+
+{\displaystyle log_{e}(x)}
+
+. Similarly, the limit or the infinite sum of many algebraic function sequences is transcendental. For example, 
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+(
+1
++
+x
+
+/
+
+n
+
+)
+
+n
+
+
+
+
+{\displaystyle \lim _{n\to \infty }(1+x/n)^{n}}
+
+ converges to the exponential function 
+
+
+
+
+e
+
+x
+
+
+
+
+{\displaystyle e^{x}}
+
+, and the infinite sum 
+
+
+
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+
+x
+
+2
+n
+
+
+
+(
+2
+n
+)
+!
+
+
+
+
+
+{\displaystyle \sum _{n=0}^{\infty }{\frac {x^{2n}}{(2n)!}}}
+
+ turns out to equal the hyperbolic cosine function 
+
+
+
+cosh
+⁡
+x
+
+
+{\displaystyle \cosh x}
+
+. In fact, it is impossible to define any transcendental function in terms of algebraic functions without using some such "limiting procedure" (integrals, sequential limits, and infinite sums are just a few).
+Differential algebra examines how integration frequently creates functions that are algebraically independent of some class, such as when one takes polynomials with trigonometric functions as variables.
+
+Transcendentally transcendental functions[edit]
+Most familiar transcendental functions, including the special functions of mathematical physics, are solutions of algebraic differential equations. Those that are not, such as the gamma and the zeta functions, are called transcendentally transcendental or hypertranscendental functions.[5]
+
+Exceptional set[edit]
+If f is an algebraic function and 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ is an algebraic number then f (α) is also an algebraic number. The converse is not true: there are entire transcendental functions f such that f (α) is an algebraic number for any algebraic α.[6] For a given transcendental function the set of algebraic numbers giving algebraic results is called the exceptional set of that function.[7][8] Formally it is defined by:
+
+
+
+
+
+
+E
+
+
+(
+f
+)
+=
+
+{
+
+α
+∈
+
+
+
+Q
+
+¯
+
+
+
+:
+
+f
+(
+α
+)
+∈
+
+
+
+Q
+
+¯
+
+
+
+}
+
+.
+
+
+{\displaystyle {\mathcal {E}}(f)=\left\{\alpha \in {\overline {\mathbb {Q} }}\,:\,f(\alpha )\in {\overline {\mathbb {Q} }}\right\}.}
+
+
+In many instances the exceptional set is fairly small. For example, 
+
+
+
+
+
+E
+
+
+(
+exp
+)
+=
+{
+0
+}
+,
+
+
+{\displaystyle {\mathcal {E}}(\exp )=\{0\},}
+
+ this was proved by Lindemann in 1882. In particular exp(1) = e is transcendental. Also, since exp(iπ) = −1 is algebraic we know that iπ cannot be algebraic. Since i is algebraic this implies that π is a transcendental number.
+In general, finding the exceptional set of a function is a difficult problem, but if it can be calculated then it can often lead to results in transcendental number theory. Here are some other known exceptional sets:
+
+Klein's j-invariant 
+
+
+
+
+
+E
+
+
+(
+j
+)
+=
+
+{
+
+α
+∈
+
+
+H
+
+
+
+:
+
+[
+
+Q
+
+(
+α
+)
+:
+
+Q
+
+]
+=
+2
+
+}
+
+,
+
+
+{\displaystyle {\mathcal {E}}(j)=\left\{\alpha \in {\mathcal {H}}\,:\,[\mathbb {Q} (\alpha ):\mathbb {Q} ]=2\right\},}
+
+ where ⁠
+
+
+
+
+
+H
+
+
+
+
+{\displaystyle {\mathcal {H}}}
+
+⁠ is the upper half-plane, and ⁠
+
+
+
+[
+
+Q
+
+(
+α
+)
+:
+
+Q
+
+]
+
+
+{\displaystyle [\mathbb {Q} (\alpha ):\mathbb {Q} ]}
+
+⁠ is the degree of the number field ⁠
+
+
+
+
+Q
+
+(
+α
+)
+.
+
+
+{\displaystyle \mathbb {Q} (\alpha ).}
+
+⁠ This result is due to Theodor Schneider.[9]
+Exponential function in base 2: 
+
+
+
+
+
+E
+
+
+(
+
+2
+
+x
+
+
+)
+=
+
+Q
+
+,
+
+
+{\displaystyle {\mathcal {E}}(2^{x})=\mathbb {Q} ,}
+
+This result is a corollary of the Gelfond–Schneider theorem, which states that if 
+
+
+
+α
+≠
+0
+,
+1
+
+
+{\displaystyle \alpha \neq 0,1}
+
+ is algebraic, and 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ is algebraic and irrational then 
+
+
+
+
+α
+
+β
+
+
+
+
+{\displaystyle \alpha ^{\beta }}
+
+ is transcendental. Thus the function 2x could be replaced by cx for any algebraic c not equal to 0 or 1. Indeed, we have: 
+
+
+
+
+
+E
+
+
+(
+
+x
+
+x
+
+
+)
+=
+
+
+E
+
+
+
+(
+
+x
+
+
+1
+x
+
+
+
+)
+
+=
+
+Q
+
+∖
+{
+0
+}
+.
+
+
+{\displaystyle {\mathcal {E}}(x^{x})={\mathcal {E}}\left(x^{\frac {1}{x}}\right)=\mathbb {Q} \setminus \{0\}.}
+
+
+A consequence of Schanuel's conjecture in transcendental number theory would be that 
+
+
+
+
+
+E
+
+
+
+(
+
+e
+
+
+e
+
+x
+
+
+
+
+)
+
+=
+∅
+.
+
+
+{\displaystyle {\mathcal {E}}\left(e^{e^{x}}\right)=\emptyset .}
+
+
+A function with empty exceptional set that does not require assuming Schanuel's conjecture is 
+
+
+
+f
+(
+x
+)
+=
+exp
+⁡
+(
+1
++
+π
+x
+)
+.
+
+
+{\displaystyle f(x)=\exp(1+\pi x).}
+
+
+While calculating the exceptional set for a given function is not easy, it is known that given any subset of the algebraic numbers, say A, there is a transcendental function whose exceptional set is A.[10] The subset does not need to be proper, meaning that A can be the set of algebraic numbers. This directly implies that there exist transcendental functions that produce transcendental numbers only when given transcendental numbers. Alex Wilkie also proved that there exist transcendental functions for which first-order-logic proofs about their transcendence do not exist by providing an exemplary analytic function.[11]
+
+Dimensional analysis[edit]
+In dimensional analysis, transcendental functions are notable because they make sense only when their argument is dimensionless (possibly after algebraic reduction). Because of this, transcendental functions can be an easy-to-spot source of dimensional errors. For example, log(5 metres) is a nonsensical expression, unlike log(5 metres / 3 metres) or log(3) metres. One could attempt to apply a logarithmic identity to get log(5) + log(metres), which highlights the problem: applying a non-algebraic operation to a dimension creates meaningless results.
+
+See also[edit]
+Complex function
+Function (mathematics)
+Generalized function
+List of special functions and eponyms
+List of types of functions
+Rational function
+Special functions
+References[edit]
+
+
+^ Townsend, E.J. (1915). Functions of a Complex Variable. H. Holt. p. 300. OCLC 608083625.
+
+^ Hazewinkel, Michiel (1993). Encyclopedia of Mathematics. Vol. 9. pp. 236.
+
+^ Waldschmidt, M. (2000). Diophantine approximation on linear algebraic groups. Springer. ISBN 978-3-662-11569-5.
+
+^ Pedersen, Olaf (1974). Survey of the Almagest. Odense University Press. p. 84. ISBN 87-7492-087-1.
+
+^ Rubel, Lee A. (November 1989). "A Survey of Transcendentally Transcendental Functions". The American Mathematical Monthly. 96 (9): 777–788. doi:10.1080/00029890.1989.11972282. JSTOR 2324840.
+
+^ van der Poorten, A.J. (1968). "Transcendental entire functions mapping every algebraic number field into itself". J. Austral. Math. Soc. 8 (2): 192–8. doi:10.1017/S144678870000522X. S2CID 121788380.
+
+^ Marques, D.; Lima, F.M.S. (2010). "Some transcendental functions that yield transcendental values for every algebraic entry". arXiv:1004.1668v1 [math.NT].
+
+^ Archinard, N. (2003). "Exceptional sets of hypergeometric series". Journal of Number Theory. 101 (2): 244–269. doi:10.1016/S0022-314X(03)00042-8.
+
+^ Schneider, T. (1937). "Arithmetische Untersuchungen elliptischer Integrale". Math. Annalen. 113: 1–13. doi:10.1007/BF01571618. S2CID 121073687.
+
+^ Waldschmidt, M. (2009). "Auxiliary functions in transcendental number theory". The Ramanujan Journal. 20 (3): 341–373. arXiv:0908.4024. doi:10.1007/s11139-009-9204-y. S2CID 122797406.
+
+^ Wilkie, A.J. (1998). "An algebraically conservative, transcendental function". Paris VII Preprints. 66.
+
+
+External links[edit]
+
+
+
+The Wikibook Associative Composition Algebra has a page on the topic of: Transcendental functions
+
+Definition of "Transcendental function" in the Encyclopedia of Math
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Transcendental_function&oldid=1286881552"
+Categories: Analytic functionsFunctions and mappingsMeromorphic functionsSpecial functionsTypes of functionsHidden categories: Articles with short descriptionShort description matches Wikidata
+
+
+
+
+
+
+ This page was last edited on 22 April 2025, at 15:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Transcendental function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

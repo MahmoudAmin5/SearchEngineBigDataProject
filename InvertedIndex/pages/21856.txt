@@ -1,0 +1,170 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_default_howto
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+  Header
+
+
+
+
+
+  A car is a wheeled, self-powered motor vehicle used for transportation.
+  Most definitions of the term specify that cars are designed to run primarily on roads,
+  to have seating for one to eight people, to typically have four wheels. (Wikipedia)    
+
+  
+    
+      First Name
+      Last Name
+      Points
+    
+    
+      Jill
+      Smith
+      50
+    
+    
+      Eve
+      Jackson
+      94
+    
+    
+      Adam
+      Johnson
+      67
+    
+  
+
+
+
+
+  
+    
+      
+      
+        London is the capital city of England.
+        It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.
+      
+    
+  
+
+  
+    
+      
+      
+        London is the capital city of England.
+        It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.
+      
+    
+  
+
+
+
+
+  Footer
+  Footer information goes here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

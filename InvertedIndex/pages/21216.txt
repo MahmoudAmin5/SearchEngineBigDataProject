@@ -1,0 +1,2067 @@
+https://en.wikipedia.org/wiki/GNOME
+
+
+
+
+GNOME - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Interface design
+
+
+
+
+
+
+
+
+2
+Features
+
+
+
+
+Toggle Features subsection
+
+
+
+
+
+2.1
+Accessibility
+
+
+
+
+
+
+
+
+2.2
+Internationalization and localization
+
+
+
+
+
+
+
+
+
+
+3
+Session types
+
+
+
+
+Toggle Session types subsection
+
+
+
+
+
+3.1
+GNOME Shell
+
+
+
+
+
+
+
+
+3.2
+GNOME Classic
+
+
+
+
+
+
+
+
+3.3
+GNOME Flashback
+
+
+
+
+
+
+
+
+3.4
+Mobile
+
+
+
+
+
+
+
+
+
+
+4
+Applications
+
+
+
+
+Toggle Applications subsection
+
+
+
+
+
+4.1
+Core Applications
+
+
+
+
+
+
+
+
+4.2
+Development tools
+
+
+
+
+
+
+
+
+4.3
+GNOME Circle
+
+
+
+
+
+
+
+
+
+
+5
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+5.1
+GNOME 1
+
+
+
+
+
+
+
+
+5.2
+GNOME 2
+
+
+
+
+
+
+
+
+5.3
+GNOME 3
+
+
+
+
+
+
+5.3.1
+Criticism
+
+
+
+
+
+
+
+
+
+
+5.4
+GNOME 40 and higher
+
+
+
+
+
+
+
+
+5.5
+GNOME Panel
+
+
+
+
+
+
+
+
+
+
+6
+Releases
+
+
+
+
+Toggle Releases subsection
+
+
+
+
+
+6.1
+Release cycle
+
+
+
+
+
+
+
+
+6.2
+Release history
+
+
+
+
+
+
+
+
+
+
+7
+Development
+
+
+
+
+Toggle Development subsection
+
+
+
+
+
+7.1
+Development platform
+
+
+
+
+
+
+
+
+7.2
+Dependencies
+
+
+
+
+
+
+7.2.1
+Windowing System
+
+
+
+
+
+
+
+
+7.2.2
+systemd
+
+
+
+
+
+
+
+
+
+
+7.3
+GNOME OS
+
+
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+Notes
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+GNOME
+
+
+
+77 languages
+
+
+
+
+AfrikaansAlemannischÆngliscالعربيةAsturianuAzərbaycancaবাংলাБългарскиBoarischBosanskiCatalàЧӑвашлаČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskGaeilgeGalego한국어ՀայերենHrvatskiIdoBahasa IndonesiaÍslenskaItalianoעבריתJawaKurdîКыргызчаLatinaLatviešuLietuviųLombardMagyarМакедонскиമലയാളംमराठीBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskភាសាខ្មែរPolskiPortuguêsRomânăRuna SimiРусскийСаха тылаShqipSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்Татарча / tatarçaతెలుగుไทยTürkçeУкраїнськаاردوVènetoTiếng ViệtWinaray吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikibooksWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Desktop environment for Linux and other Unix-like systems
+This article is about the desktop environment. For other uses, see Gnome (disambiguation).
+
+
+GNOMEGNOME Shell with GNOME Web, Weather and Files (version 48)Original author(s)Miguel de Icaza and Federico MenaDeveloper(s)GNOME ProjectInitial release3 March 1999; 26 years ago (1999-03-03)[1]Stable release48.1[2] 
+   / 17 April 2025
+Repositorygitlab.gnome.org/GNOME 
+Written inC, XML, C++, C#, HTML, Vala, Python, JavaScript, CSS, Rust, Perl[3]Operating systemLinux and other Unix-like systemsPlatformWayland and X11Available in38 languages[4]TypeDesktop environmentLicenseGPL-2.0-or-later[5]Websitewww.gnome.org 
+GNOME (/ɡəˈnoʊm/, /ˈnoʊm/)[6][7][8][a] is a free and open-source desktop environment for Linux and other Unix-like[10] operating systems.
+Many major Linux distributions, including Debian, Fedora Linux, Ubuntu, Red Hat Enterprise Linux, and SUSE Linux Enterprise distribute GNOME as their default desktop environment; it is also the default in Oracle Solaris, a Unix operating system.
+GNOME is developed by the GNOME Project, which is composed of both volunteers and paid contributors, the largest corporate contributor being Red Hat.[11][12][13] It is an international project that aims to develop frameworks for software development, to program end-user applications based on these frameworks, and to coordinate efforts for the internationalization, localization, and accessibility of that software.
+In 2023/2024, GNOME received 1 million Euros from Germany's Sovereign Tech Fund.[14]
+
+
+Interface design[edit]
+Main article: Adwaita (design language)
+See also: Worse is better, KISS principle, and Principles of user interface design
+Since GNOME 2, productivity has been a key focus for GNOME. To meet this end, the GNOME Human Interface Guidelines (HIG) were created. All GNOME programs share a coherent style of interfaces but are not limited to the employment of the same GUI widgets. Rather, the design of the GNOME's interface is guided by concepts described in the GNOME Human Interface Guidelines, itself relying on insights from cognitive ergonomics.[15] Following the GNOME Human Interface Guidelines, developers can create high-quality, consistent, and usable GUI programs, as it addresses everything from interface design to the recommended pixel-based layout of widgets.
+During the GNOME 2 rewrite, many settings deemed of little value to the majority of users were removed. The guiding principle was outlined by Havoc Pennington – a software developer involved in the project – who emphasized the idea that it is better to make software behave correctly by default than to add a UI preference to get the desired behavior:
+
+A traditional free software application is configurable so that it has the union of all features anyone's ever seen in any equivalent application on any other historical platform. Or even configurable to be the union of all applications that anyone's ever seen on any historical platform (Emacs *cough*).
+Does this hurt anything? Yes it does. It turns out that preferences have a cost. [...] [E]ach one has a price, and you have to carefully consider its value. Many users and developers don't understand this, and end up with a lot of cost and little value for their preferences dollar.
+
+— Havoc Pennington, Free software UI[16]
+Features[edit]
+Accessibility[edit]
+See also: Computer accessibility and Orca (assistive technology)
+GNOME aims to make and keep the desktop environment physically and cognitively ergonomic for people with disabilities. The GNOME Human Interface Guidelines try to take this into account as far as possible but specific issues are solved by special software.
+GNOME addresses computer accessibility issues by using the Accessibility Toolkit (ATK) application programming interface, which allows enhancing user experience by using special input methods and speech synthesis and speech recognition software. Particular utilities are registered with ATK using Assistive Technology Service Provider Interface (AT-SPI), and become globally used throughout the desktop. Several assistive technology providers, including Orca screen reader and Dasher input method, were developed specifically for use with GNOME.
+
+Internationalization and localization[edit]
+This section needs expansion with: 
+support for special fonts
+right to left fonts You can help by adding to it.  (June 2021)
+The internationalization and localization of GNOME software relies on locale[citation needed], and supports 197 languages with varying levels of completion, with some not being translated at all.[17]
+
+Session types[edit]
+GNOME Shell[edit]
+Main article: GNOME ShellGNOME Shell is the main graphical shell of GNOME. It features a top bar holding (from left to right) an Activities button, an application menu, a clock and an integrated system status menu.[18][19] The application menu displays the name of the application in focus and provides access to functions such as accessing the application's preferences, closing the application, or creating a new application window. The status menu holds various system status indicators, shortcuts to system settings, and session actions including logging out, switching users, locking the screen, and suspending the computer.
+Clicking on the Activities button, moving the mouse to the top-left hot corner or pressing the Super key brings up the Overview.[20] The Overview gives users an overview of current activities and provides a way to switch between windows and workspaces and to launch applications. The Dash on the bottom houses shortcuts to favorite applications, currently open windows, and an application picker button to show a list of all installed applications.[18] A search bar appears at the top and a workspace list for viewing and switching between workspaces is directly above it. Notifications appear from the top of the shell.[21]
+
+
+
+GNOME Classic[edit]
+Beginning with GNOME 3.8, GNOME provides a suite of officially supported GNOME Shell extensions that provide an Applications menu (a basic start menu) and a "Places menu" on the top bar and a panel with a windows list at the bottom of the screen that lets users quickly minimize and restore open windows, a "Show Desktop" button in the bottom left corner, and virtual desktops in the bottom right corner.[22] GNOME Classic also adds the minimize and maximize buttons to window headers.
+
+GNOME Classic 3.36 (March 2020)GNOME Classic 3.12 with GNOME Files (March 2014)
+
+GNOME Flashback[edit]
+An edited image of GNOME Flashback 3.36 that shows its functions including the Main menu, and the plug-ins of GNOME Panel
+GNOME Flashback is an official session for GNOME 3. Based on GNOME Panel and Metacity,[23] it is lightweight,[24][25] has lower hardware requirements, and uses less system resources than GNOME Shell.[26] It provides a traditional and highly customizable taskbar (panel) with many plug-ins bundled in one package (gnome-applets), including a customizable start menu. It provides a similar user experience to the GNOME 2.x series and has customization capacities built in.
+GNOME Flashback consists of the following components:
+
+Metacity (window manager)
+GNOME Panel – a highly configurable taskbar
+gnome-applets –[27][28] a collection of useful applets for the GNOME Panel
+
+Mobile[edit]
+Main article: GNOME Mobile
+See also: Phosh and Libadwaita
+GNOME Mobile is an initiative within the GNOME project to adapt the GNOME desktop environment, shell, app ecosystem and other related components for use on mobile and touch-based devices such as smartphones and tablets.[29]
+
+GNOME Mobile running on PostmarketOSMockups of mobile GNOME Shell views (overview, app grid, system status area)A mockup of Phosh, the mobile shell developed by Purism and GNOME (May 2018)
+
+Applications[edit]
+Core Applications[edit]
+Main article: GNOME Core Applications
+This section may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (November 2024)
+There are a large number of GTK-based programs written by various authors. Since the release of GNOME 3.0, GNOME Project concentrates on developing a set of programs that accounts for the GNOME Core Applications.[30] The commonalities of the GNOME Core Applications are the adherence to the current GNOME Human Interface Guidelines (HIG) as well as the tight integration with underlying GNOME layers like e.g. GVfs (GNOME virtual filesystem) and also with one another e.g. GOA (gnome-online-accounts)[31] settings and GNOME Files with Google Drive[32][33] and GNOME Photos with Google Photos. Some programs are simply existing programs with a new name and revamped user interface, while others have been written from scratch.
+
+Development tools[edit]
+Screenshot of GNOME Builder
+The GNOME project provides a suite of software development tools to facilitate the creation of GNOME software. These tools are designed to streamline the development process for the GNOME ecosystem.
+
+Integrated Development Environments (IDEs):
+GNOME Builder: The official IDE developed by the GNOME project, replacing the older Anjuta IDE.
+User interface design:
+Cambalache Interface Designer: A Rapid Application Development (RAD) IDE for GTK 3 and GTK 4, serving as the successor to the Glade Interface Designer.
+Debugging and Documentation Tools:
+GTK Inspector: Shipped with GTK, this tool allows developers to inspect the widget tree of an application for debugging purposes.
+Devhelp: A GNOME utility for browsing and searching API documentation.
+Libraries and Frameworks:
+libsoup: A library that enables GNOME applications to access HTTP servers.
+BuildStream: A flexible, extensible framework written in Python for modeling build and CI pipelines using a declarative YAML format.
+Third-Party Integration:
+The GNOME ecosystem supports integration options for third-party development tools, expanding the possibilities for developers.
+These tools collectively provide a comprehensive development environment for creating software that aligns with the GNOME desktop and its design principles.
+
+GNOME Circle[edit]
+Main article: GNOME Circle
+GNOME Circle is a collection of applications which have been built to extend the GNOME platform,[34] utilize GNOME technologies, and follow the GNOME human interface guidelines.[35]
+
+History[edit]
+See also: History of free and open-source software § Desktop (1984–present)
+GNOME 1[edit]
+Main article: GNOME 1
+GNOME 1 (1999)
+GNOME was started on 15 August 1997[9] by Miguel de Icaza and Federico Mena [es] as a free software project to develop a desktop environment and applications for it.[36] It was founded in part because the K Desktop Environment, which was growing in popularity, relied on the Qt widget toolkit which used a proprietary software license until version 2.0 (June 1999).[37][38] In place of Qt, GTK (formerly called GIMP Toolkit) was chosen as the base of GNOME. GTK is licensed under the GNU Lesser General Public License (LGPL), a free software license that allows software linking to it to use a much wider set of licenses, including proprietary software licenses.[39] GNOME itself is licensed under the LGPL for its libraries and the GNU General Public License (GPL) for its applications.[40]
+GNOME was formerly a part of the GNU Project,[36][41][42][43] but that is no longer the case. In 2021, GNOME Executive Director Neil McGovern publicly tweeted that GNOME was not a GNU project and that he had been asking GNU to remove GNOME from their list of packages since 2019.[44][45] In 2021, GNOME was removed from the list.[46] GNOME proceeded to remove mentions of any link to GNU from their code and documentation.[47] The name "GNOME" was initially an acronym for GNU Network Object Model Environment, referring to the original intention of creating a distributed object framework similar to Microsoft's OLE,[48][49] but the acronym was eventually dropped because it no longer reflected the vision of the GNOME project.[49]
+The California startup Eazel developed the Nautilus file manager from 1999 to 2001. De Icaza and Nat Friedman founded Helix Code (later Ximian) in 1999 in Massachusetts; this company developed GNOME's infrastructure and applications and was purchased by Novell in 2003.
+During the transition to GNOME 2 and shortly thereafter, there were brief talks about creating a GNOME Office suite.[50][51] On 15 September 2003 GNOME-Office 1.0, consisting of AbiWord 2.0, GNOME-DB 1.0, and Gnumeric 1.2.0, was released.[52][53][54] Although some release planning for GNOME Office 1.2 was happening on the gnome-office mailing list,[55][56][57] and Gnumeric 1.4 was announced as a part of it,[58] the 1.2 release of the suite itself never materialized. As of 4 May 2014[update], the GNOME wiki only mentions "GNOME/GTK applications that are useful in an office environment".[59]
+
+GNOME 2[edit]
+Main article: GNOME 2
+GNOME 2.6 (released in March 2004)
+GNOME 2 was released in June 2002[60][61] and was very similar to a conventional desktop interface, featuring a simple desktop in which users could interact with virtual objects such as windows, icons, and files. GNOME 2 started out with Sawfish as its default window manager, but later switched to Metacity in GNOME 2.2.[62][63] The handling of windows, applications, and files in GNOME 2 is similar to that of contemporary desktop operating systems. In the default configuration of GNOME 2, the desktop has a launcher menu for quick access to installed programs and file locations; open windows may be accessed by a taskbar along the bottom of the screen; and the top-right corner features a notification area for programs to display notices while running in the background. However, these features can be moved to almost any position or orientation the user desires, replaced with other functions, or removed altogether.GNOME 2.18 (released in March 2007)
+As of 2009, GNOME 2 was the default desktop for OpenSolaris.[64] The MATE desktop environment is a fork of the GNOME 2 codebase (see Criticism, below.)
+
+GNOME 3[edit]
+Main article: GNOME 3
+GNOME 3 has a modern approach to user interface design and naming the applications. This screenshot shows GNOME Weather running on GNOME Shell, both in version 3.14 (September 2014).
+In 2008, an increasing discontent among the community and developers about the lack of project direction and technical progress prompted the announcement of GNOME 3.0. Originally, the plan was to make only incremental changes and avoid disruption for users.[65] This changed when efforts led to the creation of the GNOME Shell.[66]
+GNOME 3 was released in 2011.[67] While GNOME 1 and 2 interfaces followed the traditional desktop metaphor, the GNOME Shell adopted a more abstract metaphor with a minimalistic window management workflow, where switching between different tasks and virtual desktops occurs in a separate area called the overview.[66] The Minimize and maximize buttons were hidden by default, leaving only the close button and application name in the window decoration.[68][69]
+GNOME 3 brought many enhancements to core software.[66] Many GNOME Core Applications also went through redesigns to provide a better user experience.[70][71] Mutter replaced Metacity as the default window manager,[72][73] and Adwaita replaced Clearlooks as the default theme.[74]
+
+GNOME aims to provide a simple user experience and responsive user interface on both desktop and tablet systems by using client-side decoration (CSD) and a modern approach in designing user interface.
+Criticism[edit]
+The release of GNOME 3 caused considerable controversy in the GNU and Linux communities.[75] Aiming to provide an easy-to-use and uncluttered user experience has led to some criticized design decisions, like the removal of minimize and maximize buttons, the simplification of configuration options, and visual clues that could lead to confusion.[66]
+Several projects have been initiated to either continue development of GNOME 2.x, modify GNOME 3.x to be more like the 2.x releases, or create a desktop environment with a traditional design metaphor entirely from scratch due to the negative reception of GNOME 3:
+
+The MATE desktop environment was forked in August 2011 from the GNOME 2 code-base with the intent of preserving the traditional desktop metaphor associated with GNOME 2 while keeping compatibility with modern Linux-related technologies, such as Wayland, Systemd, PipeWire, and GTK3.[76][77]
+The Linux Mint team addressed the issue by developing "Mint GNOME Shell Extensions" that ran on top of GNOME Shell and allowed it to be used via the traditional desktop metaphor. This eventually led to the creation of the Cinnamon desktop environment in 2011, which was forked from the GNOME 3 codebase.[78] Cinnamon became a completely independent desktop environment from GNOME Shell with Cinnamon 2.0 on October 9, 2013.[79]
+The LXDE Project, which was experimenting with a Qt port at the time,[80] merged with the Razor-qt project to form LXQt in 2013.[81] The main developer of LXDE, Hong Jen Lee, cited that the reason he wanted to port LXDE to Qt was due to dissatification with the memory and CPU consumption of GTK3 and GNOME libraries when testing a GTK3 version of LXDE.[82] Hong eventually posted a blog post about how an early build of LXQt used less memory than GTK3-based XFCE.[83]
+Canonical, the company developing Ubuntu, ceased working with the GNOME Shell developers during the GNOME 3 planning phases[84][85][86] and released their own desktop environment, Unity, replacing GNOME as the default desktop shell in Ubuntu 11.04 "Natty Narwhal" released in April 2011.[87] Previously, Unity had only been intended for use with the Ubuntu Netbook Edition starting with version 10.10 and a now-canceled edition of Ubuntu called Ubuntu Light.[88] However, Ubuntu has since switched to a modified version of GNOME as of Ubuntu 17.10.[89]
+The Solus Project developed the Budgie desktop environment in response to GNOME 3 in 2014, aiming to provide a simpler and more modern interface. Budgie is built using GTK and GNOME technologies, but offers a different user experience, focusing on providing a lightweight, simple, and elegant user experience.[90]
+The elementaryOS team created the Pantheon desktop environment as a new GTK-based desktop environment distinct from GNOME. Built from scratch, Pantheon aims to provide a user-friendly and visually appealing aesthetic, focusing on a cohesive and minimal design, and integrating tightly with the elementaryOS ecosystem.[91]
+System76, an American computer manufacturer selling computer hardware with Linux preinstalled and the creators of a set of GNOME extensions for their own Linux distribution Pop!_OS known collectively as COSMIC, built a new desktop environment of the same name in Rust.[92] The reasons cited by System76 for building a new desktop environment from scratch included limitations with GNOME extensions as well as disagreements with GNOME developers on the desktop experience, such as with supporting server-side decorations in addition to client-side decorations on Wayland. COSMIC will support both client-side and server-side window decorations, unlike GNOME, which only supports the former.[93]
+Among those critical of the early releases of GNOME 3 is Linus Torvalds, the creator of the Linux kernel. Torvalds abandoned GNOME for a while after the release of GNOME 3.0, saying, "The developers have apparently decided that it's 'too complicated' to actually do real work on your desktop, and have decided to make it really annoying to do". He promptly switched to Xfce.[94]
+Over time, critical reception has grown more positive. In 2013, Torvalds resumed using GNOME, noting that "they have extensions now that are still much too hard to find; but with extensions you can make your desktop look almost as good as it used to look two years ago".[95][96] Debian, a Linux distribution that had historically used GNOME 2, switched to Xfce when GNOME 3 was released, but re-adopted GNOME 3 in time for the release of Debian 8 "Jessie".[97] Ubuntu switched from Unity to GNOME 3 with several extensions to resemble Unity, such as a persistent left application panel instead of a hidden dock and re-enabling desktop icons, with Ubuntu 17.10 Artful Aardvark in 2017. This release also saw the Ubuntu GNOME edition merge with the mainline release.[98] However, Ubuntu Unity was then released, keeping the Unity desktop and continuing to update it.
+
+GNOME 40 and higher[edit]
+GNOME 40 was released on 24 March 2021.[99][100] It immediately follows version 3, but adopts a new versioning scheme and a schedule of future major releases on a fixed six-month cycle (see Release Cycle).[101] With this quicker release cadence, major releases became somewhat leaner, because full rewrites of major packages were not occurring as often as they were in the jumps between GNOME 1.0, 2.0, and 3.0 versions.
+GNOME 40 organizes the activities overview in a horizontal fashion, instead of using a vertical design like its predecessors.[99] The release also brings new touchpad gestures.[102]
+
+GNOME 40GNOME 41
+GNOME Tour 41 on GNOME 41GNOME 41 was released on 22 September 2021 and introduced a rewritten and redesigned GNOME Software application manager, a multitasking panel and a mobile network (for WWAN) panel in settings, a new remote desktop app called Connections, updates to GNOME Music app, and improvements to the power mode settings.[103]
+GNOME 42 was released on 23 March 2022 [104] and introduced the option to screen record and switch light/dark themes using a new GTK API called Libadwaita. Several default apps were replaced with more modern versions such as Text Editor instead of Gedit and Console instead of Terminal.[105]
+GNOME 43 (Guadalajara) was released on 21 September 2022[106] and introduced a new quick settings menu, a GNOME Files update to GTK4, and a new 'Device Security' panel in settings, among many other changes. GNOME Web was updated, bringing in support for web apps and experimental Firefox and Chrome extension support.
+GNOME 44 (Kuala Lumpur) was released on 22 March 2023. Named after Kuala Lumpur in recognition of work done by the GNOME.Asia community,[107] GNOME 44 introduced a new file chooser grid view, updated settings panels, and redesigned accessibility settings. The new quick settings menu introduced in GNOME 43 was updated, alongside the addition of several new apps and improvements to existing apps.[107]
+GNOME 45 (Rīga) was released on 20 September 2023.[108] It introduced redesigned app styles alongside a new activities button, which replaced both the previous "Activities" label and the app menu with a graphical workspace indicator. Other updates to the system bar included a new camera usage indicator and a keyboard shortcut to open and close the quick settings menu. GNOME 45 also introduced two new image viewer and camera apps, keyboard backlight controls, and numerous enhancements to existing apps.[108]
+GNOME 46 (Kathmandu) was released on 20 March 2024[109] and featured an enhanced files app with global search, support for headless remote login via GDM, and a refreshed settings app, amongst many other app changes.[110] Other system changes included accessibility improvements and experimental support for variable refresh rates.
+GNOME 47 (Denver) was released on 18 September 2024 and featured user-chosen accent color support in Libadwaita applications as well as many other smaller improvements. [111]
+GNOME 48 (Bengaluru) was released on March 19 2025, and is included in Fedora 42 and Ubuntu 25.04.[112]
+
+GNOME Panel[edit]
+GNOME PanelGNOME Flashback with Applications menu on Ubuntu 18.04 (displaying the panels at the top and bottom of the desktop)Developer(s)GNOME projectStable release48.1[2] 
+   / 17 April 2025; 10 days ago (17 April 2025)
+Repositorygitlab.gnome.org/GNOME 
+Operating systemUnix-likePlatformGNOMETypeGraphical shellLinux on the desktopLicenseGNU Lesser General Public LicenseWebsitewww.gnome.org 
+GNOME Panel was a highly configurable taskbar for GNOME. It formed a core part of the desktop in GNOME 1 and GNOME 2. It has been replaced in GNOME 3 by default with GNOME Shell, which only works with the Mutter window manager. GNOME Panel served as Fallback Mode until GNOME 3.8 when Mutter could not be executed,[113] then it was replaced with a suite of officially supported GNOME Shell extensions named GNOME Classic.[114] Now it is part of GNOME Flashback, an official session for GNOME 3 which provides a user experience similar to GNOME 2.[115] In GNOME 3, customizing GNOME Panel is done by pressing the Alt key while right-clicking on the panel.
+By default, GNOME Flashback contains two panels (one on the top, and one to its opposite on the bottom) spanning the width of the screen. The top panel usually contains navigation menus labeled "Applications" and "Places" in that order, as the "System" menu from GNOME 2.x has been replaced by a control panel in GNOME 3.x. These menus hold links to common applications and areas of the file system, respectively. A user menu placed on the opposite side of the screen, which has been available since GNOME 2.14 but has become more prominent in GNOME 3.x, holds access to account and system settings as well as options to log out, switch user, and shut down the computer.[116] The top panel usually contains a clock/calendar and a notification area, which can double as a sort of dock, as well. The bottom panel is commonly empty by default (other than a set of buttons to navigate between desktops) due to its use in the navigation between windows (windows minimize to the bottom panel by default).
+
+GNOME Panel, its "Properties Dialog Menu" - Ubuntu 18.04
+Users can populate these panels with other completely customizable menus and buttons, including new menus, search boxes, and icons, with the icons in particular (called launchers) performing functions similar to the quick-launch feature found in the Microsoft Windows 98–Vista taskbar. Other applications can also be attached to the panels, and the panels are highly reconfigurable: anything on these panels can be moved, removed, or configured in other ways. For example, a migrating Microsoft Windows user might move the menus usually positioned in the top panel into a 'start' menu on the bottom panel as well as moving the notification area into the place normally positioned by the Windows notification area, then remove the top panel altogether, to interact with GNOME Panel similarly to the Windows taskbar. The version of GNOME Panel available in the repository for Ubuntu 12.04 offers a modified version of Fallback Mode with the addition of a custom theme and ports of Ubuntu's own Indicators from their old GNOME 2.x desktop.[117] Trisquel uses Fallback Mode (Flashback) for its main desktop, because GNOME Shell requires 3D acceleration as it relies on graphics composition, while some free software drivers do not support 3D acceleration, among other reasons like more usability and more stability.[118]
+
+Releases[edit]
+Release cycle[edit]
+This section may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (November 2024)
+Each of the component software products in the GNOME project has its own version number and release schedule. However, individual module maintainers coordinate their efforts to create a full GNOME stable release on an approximately six-month schedule,[119] alongside its underlying libraries such as GTK and GLib. Some experimental projects are excluded from these releases.[citation needed]
+Before GNOME 40, GNOME version numbers followed the scheme v.xx.yy.[citation needed] Here, v is a major version, which can include large changes such as ABI breakage; these have no regular schedule and occur in response to requirements for large-scale changes.[citation needed] xx is a minor version, released on the above schedule of approximately every 6 months, in which the 1- or 2-digit number's parity indicates the type of release: if xx is even (e.g. 3.20) the release is considered stable, whereas if xx is odd, it represents a current development snapshot (e.g. 3.21) that will eventually evolve into the next stable release.[citation needed] yy indicates a point release, e.g. 3.20.6; these are made on a frequency of weeks in order to fix issues, add non-breaking enhancements, etc.[citation needed]
+GNOME 40 started a new versioning scheme in which a single number is incremented with each biannual release. The number is followed by a dot and then "alpha", "beta", or "rc" for a development release, or a decimal for a minor stable release (much like the yy mentioned previously).[101]
+GNOME releases are made to the main FTP server in the form of source code with configure scripts,[citation needed] which are compiled by operating system vendors and integrated with the rest of their systems before distribution. Most vendors only use stable and tested versions of GNOME and provide it in the form of easily installed, pre-compiled packages. The source code of every stable and development version of GNOME is stored in the GNOME git source code repository.[citation needed]
+A number of build scripts (such as JHBuild or formerly GARNOME) are available to help automate the process of compiling the source code.[citation needed]
+
+Release history[edit]
+
+
+Version
+
+Date
+
+Information
+
+
+
+
+August 1997
+
+GNOME development announced[120]
+
+
+1.0
+
+March 1999
+
+First major GNOME release[1]
+
+
+1.2
+
+May 2000
+
+Codename "Bongo"[121]
+
+
+1.4
+
+April 2001
+
+Codename "Tranquility"[122][123]
+
+
+2.0
+
+June 2002
+
+Major upgrade based on GTK2. Introduction of the Human Interface Guidelines.[124]
+
+
+2.2
+
+February 2003
+
+Multimedia and file manager improvements.[125]
+
+
+2.4
+
+September 2003
+
+Codename "Temujin": Epiphany, accessibility support.[126]
+
+
+2.6
+
+March 2004
+
+Nautilus changes to a spatial file manager, and a new GTK file dialog is introduced. A short-lived fork of GNOME, GoneME, is created as a response to the changes in this version.[127]
+
+
+2.8
+
+September 2004
+
+Improved removable device support, adds Evolution.[128]
+
+
+2.10
+
+March 2005
+
+Lower memory requirements and performance improvements. Adds: new panel applets (modem control, drive mounter and trashcan); and the Totem and Sound Juicer applications.[129]
+
+
+2.12
+
+September 2005
+
+Nautilus improvements; improvements in cut/paste between applications and freedesktop.org integration. Adds: Evince PDF viewer; New default theme: Clearlooks; menu editor; keyring manager and admin tools. Based on GTK 2.8 with cairo support.[130]
+
+
+2.14
+
+March 2006
+
+Performance improvements (over 100% in some cases); usability improvements in user preferences; GStreamer 0.10 multimedia framework. Adds: Ekiga video conferencing application; Deskbar search tool; Pessulus lockdown editor; Fast user switching; Sabayon system administration tool.[131]
+
+
+2.16
+
+September 2006
+
+Performance improvements. Adds: Tomboy notetaking application; Baobab disk usage analyser; Orca screen reader; GNOME Power Manager (improving laptop battery life); improvements to Totem, Nautilus; compositing support for Metacity; new icon theme. Based on GTK 2.10 with new print dialog.[132]
+
+
+2.18
+
+March 2007
+
+Performance improvements. Adds: Seahorse GPG security application, allowing encryption of emails and local files; Baobab disk usage analyser improved to support ring chart view; Orca screen reader; improvements to Evince, Epiphany and GNOME Power Manager, Volume control; two new games, GNOME Sudoku and glChess. MP3 and AAC audio encoding.[133]
+
+
+2.20
+
+September 2007
+
+Tenth anniversary release. Evolution backup functionality; improvements in Epiphany, EOG, GNOME Power Manager; password keyring management in Seahorse. Adds: PDF forms editing in Evince; integrated search in the file manager dialogs; automatic multimedia codec installer.[134]
+
+
+2.22
+
+March 2008
+
+Addition of Cheese, a tool for taking photos from webcams and Remote Desktop Viewer; basic window compositing support in Metacity; introduction of GVfs; improved playback support for DVDs and YouTube, MythTV support in Totem; internationalised clock applet; Google Calendar support and message tagging in Evolution; improvements in Evince, Tomboy, Sound Juicer and Calculator.[135] Deprecate GnomeVFS in favor of GVfs and GIO.[136]
+
+
+2.24
+
+September 2008
+
+Addition of the Empathy instant messenger client, Ekiga 3.0, tabbed browsing in Nautilus, better multiple screens support and improved digital TV support.[137]
+
+
+2.26
+
+March 2009
+
+New optical disc recording application Brasero, simpler file sharing, media player improvements, support for multiple monitors and fingerprint reader support.[138]
+
+
+2.28
+
+September 2009
+
+Addition of GNOME Bluetooth module. Improvements to Epiphany web browser, Empathy instant messenger client, Time Tracker, and accessibility. Upgrade to GTK version 2.18.[139]
+
+
+2.30
+
+March 2010
+
+Improvements to Nautilus file manager, Empathy instant messenger client, Tomboy, Evince, Time Tracker, Epiphany, and Vinagre. iPod and iPod Touch devices are now partially supported via GVfs through libimobiledevice. Uses GTK 2.20.[140]
+
+
+2.32
+
+September 2010
+
+Addition of Rygel and GNOME Color Manager. Improvements to Empathy instant messenger client, Evince, Nautilus file manager and others. 3.0 was intended to be released in September 2010, so a large part of the development effort since 2.30 went towards 3.0.[141]
+
+
+3.0
+
+April 2011
+
+Introduction of GNOME Shell. A redesigned settings framework with fewer, more focused options. Topic-oriented help based on the Mallard markup language. Side-by-side window tiling. A new visual theme and default font. Adoption of GTK 3.0 with its improved language bindings, themes, touch, and multiplatform support. Removal of long-deprecated development APIs.[68]
+
+
+3.2
+
+September 2011
+
+Online accounts support; Web applications support; contacts manager; documents and files manager; quick preview of files in the File Manager; greater integration; better documentation; enhanced looks and various performance improvements.[142]
+
+
+3.4
+
+March 2012
+
+New Look for GNOME 3 Applications: Documents, Epiphany (now called Web), and GNOME Contacts. Search for documents from the Activities overview. Application menus support. Refreshed interface components: New color picker, redesigned scrollbars, easier to use spin buttons, and hideable title bars. Smooth scrolling support. New animated backgrounds. Improved system settings with new Wacom panel. Easier extensions management. Better hardware support. Topic-oriented documentation. Video calling and Live Messenger support in Empathy. Better accessibility: Improved Orca integration, better high contrast mode, and new zoom settings. Plus many other application enhancements and smaller details.[69]
+
+
+3.6
+
+September 2012
+
+Refreshed Core components: New applications button and improved layout in the Activities Overview. A new login and lock screen. Redesigned Message Tray. Notifications are now smarter, more noticeable, easier to dismiss. Improved interface and settings for System Settings. The user menu now shows Power Off by default. Integrated Input Methods. Accessibility is always on. New applications: Boxes, that was introduced as a preview version in GNOME 3.4, and Clocks, an application to handle world times. Updated looks for Disk Usage Analyzer, Empathy and Font Viewer. Improved braille support in Orca. In Web, the previously blank start page was replaced by a grid that holds your most visited pages, plus better full screen mode and a beta of WebKit2. Evolution renders email using WebKit. Major improvements to Disks. Revamped Files application (also known as Nautilus), with new features like Recent files and search.
+
+
+3.8
+
+March 2013
+
+Refreshed Core components: A new applications view with frequently used and all apps. An overhauled window layout. New input methods OSD switcher. The Notifications & Messaging tray now react to the force with which the pointer is pressed against the screen edge. Added Classic mode for those who prefer a more traditional desktop experience. The GNOME Settings application features an updated toolbar design. New Initial Setup assistant. GNOME Online Accounts integrates with more services. Web has been upgraded to use the WebKit2 engine. Web has a new private browsing mode. Documents has gained a new dual page mode & Google Documents integration. Improved user interface of Contacts. GNOME Files, GNOME Boxes and GNOME Disks have received a number of improvements. Integration of ownCloud. New GNOME Core Applications: GNOME Clocks and GNOME Weather.
+
+
+3.10
+
+September 2013
+
+A reworked system status area, which gives a more focused overview of the system. A collection of new applications, including GNOME Maps, GNOME Notes, GNOME Music and GNOME Photos. New geolocation features, such as automatic time zones and world clocks. HiDPI support[143] and smart card support. D-Bus activation made possible with GLib 2.38[144]
+
+
+3.12
+
+March 2014[145]
+
+Improved keyboard navigation and window selection in the Overview. Revamped first set-up utility based on usability tests. Wired networking re-added to the system status area. Customizable application folders in the Applications view. Introduction of new GTK widgets such as popovers in many applications. New tab style in GTK. GNOME Videos, GNOME Terminal and gedit were given a fresh look, more consistent with the HIG. A search provider for the terminal emulator is included in GNOME Shell. Improvements to GNOME Software and high-density display support. A new sound recorder application. New desktop notifications API. Progress in the Wayland port has reached a usable state that can be optionally previewed.[citation needed]
+
+
+3.14
+
+September 2014
+
+Improved desktop environment animations. Improved touchscreen support. GNOME Software supports managing installed add-ons. GNOME Photos adds support for Google. Redesigned UI for Evince, Sudoku, Mines and Weather. Hitori is added as part of GNOME Games.[citation needed]
+
+
+3.16
+
+March 2015
+
+Major changes include UI color scheme goes from black to charcoal. Overlay scroll bars added. Improvements to notifications including integration with Calendar applet. Tweaks to various apps including Files, Image Viewer, and Maps. New Preview applications: Calendar, Characters, Books. Continued porting from X11 to Wayland.[146]
+
+
+3.18
+
+September 2015
+
+Major changes include Google Drive integration in Files. Firmware updates through Software. Automatic screen brightness. Touchpad gestures. Several new applications: GNOME Calendar and GNOME Character Map. Significant improvements to Files, Boxes and Polari. Smaller changes and bug fixes.
+
+
+3.20
+
+March 2016
+
+Significant improvements to many core applications, such as system upgrades and reviews in Software, simple photo editing in Photos and improved search in Files. Platform improvements include shortcut help windows which are available in many applications, a refined font, and better control of location services.[147]
+
+
+3.22
+
+September 2016
+
+GNOME 3.22 applications are based on GTK 3.22, the last gtk-3.x release Wayland is now default. Comprehensive Flatpak support. GNOME Software can install and update Flatpaks, GNOME Builder can create them, and the desktop provides portal implementations to enable sandboxed applications. Improvements to core GNOME applications include support for batch renaming in Files, sharing support in GNOME Photos, an updated look for GNOME Software, a redesigned keyboard settings panel, and much more.
+
+
+3.24
+
+March 2017
+
+Night Light is a new feature and reduces eye strain at night by coloring the screen a little red. The date/time drop down now shows Weather information. A refined look to notifications. Gnome Calendar got a week view. Gnome Web got improvements to the experience of adding and managing bookmarks, and ships with Easy Privacy as default.[148] The online accounts, user and printer settings panel was redesigned.[149]
+
+
+3.26
+
+September 2017
+
+New look for the Settings application, which has a new navigation sidebar and improved network and display settings, and browser synchronization thanks to the Firefox Sync service. Color emoji are now supported throughout GNOME and will be visible wherever they appear.[150]
+
+
+3.28
+
+12 March 2018[151]
+
+
+https://wiki.gnome.org/ReleasePlanning/FeaturePlans
+https://wiki.gnome.org/ThreePointTwentyseven/ReleaseNotes
+new application GNOME Usage https://wiki.gnome.org/Apps/Usage
+new On-screen-keyboard
+
+
+3.30
+
+5 September 2018
+
+
+release notes for GNOME 3.30.0
+release announcement for GNOME 3.30.0
+list of updated modules and changes for 3.30.1
+release announcement for 3.30.1
+release announcement for 3.30.2
+list of updated modules and changes for 3.30.2
+
+
+3.32
+
+13 March 2019
+
+
+release notes for GNOME 3.32
+release announcement for GNOME 3.32
+
+
+3.34
+
+12 September 2019
+
+
+release notes for GNOME 3.34
+release announcement for GNOME 3.34
+
+
+3.36
+
+11 March 2020
+
+
+release notes for GNOME 3.36
+release announcement for GNOME 3.36
+
+
+3.38
+
+16 September 2020
+
+
+release notes for GNOME 3.38
+release announcement for GNOME 3.38
+
+
+40
+
+24 March 2021
+
+
+release notes for GNOME 40
+website for GNOME 40
+
+
+41
+
+22 September 2021
+
+
+release notes for GNOME 41 Archived 22 December 2021 at the Wayback Machine
+release announcement for GNOME 41
+
+
+42
+
+23 March 2022
+
+
+release notes for GNOME 42
+release announcement for GNOME 42
+
+
+43
+
+21 September 2022
+
+
+release notes for GNOME 43
+release announcement for GNOME 43
+
+
+44
+
+22 March 2023
+
+
+release notes for GNOME 44
+release announcement for GNOME 44
+
+
+45
+
+20 September 2023
+
+
+Loupe replaced Eye of GNOME as the default image viewer, and Snapshot replaced Cheese as the default webcam application.
+
+release notes for GNOME 45
+release announcement for GNOME 45
+
+
+46
+
+20 March 2024
+
+
+release notes for GNOME 46
+release announcement for GNOME 46
+
+
+47
+
+18 September 2024
+
+
+release notes for GNOME 47
+release announcement for GNOME 47
+
+
+48
+
+19 March 2025
+
+
+release notes for GNOME 48
+release announcement for GNOME 48
+
+Development[edit]
+GNOME is developed by GNOME Project.[152] GNOME development is loosely managed. Since the introduction of Discourse forum in 2019, the discussion moved from mailing lists and in October 2022, the project announced the plan to close all its public mailing lists.[153]
+GNOME developers and users gather at an annual GUADEC meeting to discuss the current state and the future direction of GNOME.[154] GNOME incorporates standards and programs from freedesktop.org to better support interoperability with other desktops.
+GNOME is mainly written in C, XML, C++, C#, HTML, Vala, Python, JavaScript, CSS, and more.[3] A number of language bindings are available.
+
+Development platform[edit]
+The GLib data structures and utilities library, GObject object and type system and GTK widget toolkit comprise the central part of GNOME development platform. This foundation is further extended with D-Bus IPC framework, Cairo 2D vector-based drawing library, Cogl accelerated graphics library,[155] Pango international text rendering library, PulseAudio and PipeWire low-level audio APIs, GStreamer multimedia framework, and several specialized libraries including NetworkManager, PackageKit, Telepathy (instant messaging), and WebKit.[156]
+
+GNOME Display Manager (GDM), which manages user sessions, X and Wayland alike.
+Tracker automatically searches the specified directories for files and keeps an index of them to provide fast search; heavily integrated into GNOME Shell and GNOME Files
+GVfs, an abstraction layer framework for file systems augmenting GIO; well integrated into GNOME Files and GNOME Disks
+dconf a backend for GSettings
+Mutter, the Wayland compositor and X Window Manager
+Linux color management, udev, etc.
+Evolution Data Server, responsible for managing mail, calendar, address book, tasks and memo information
+Meson is replacing GNU Build System (autotools) as build automation tools of choice
+BuildStream, a distribution agnostic build and integration tool
+Dependencies[edit]
+The GNOME desktop environment does not consist solely of the graphical control element library GTK and the core applications that make use of it. There are quite a few additional software packages that make up the GNOME desktop environment, such as the above.
+
+Windowing System[edit]
+Main article: Windowing system
+GNOME runs on Wayland and the X Window System (specifically X.Org).[157] Wayland support was introduced in GNOME 3.10[19] and deemed "for the majority of users […] a usable day to day experience" by 3.20,[158] at which point Wayland became the default user session.[159] With GNOME 3.24, Wayland compatibility was extended to Nvidia drivers.[160] In GNOME 3.30 or later, it is possible to run GNOME without X running at startup, using only Wayland.[161]
+
+systemd[edit]
+Main article: systemd
+In May 2011 Lennart Poettering proposed systemd as a GNOME dependency.[162] 
+As systemd is available only on Linux, the proposal led to a discussion of possibly dropping support for other platforms in future GNOME releases. Since GNOME 3.2, multiseat support has only been available on systems using systemd.[142] 
+In November 2012 the GNOME release team concluded there will be no compile time dependency on systemd for basic functionality, like session tracking. For non-basic functionality, like power management, compile time dependency is possible. For example, there is no concept of systemd inhibitors in alternatives like consolekit. A package manager may want to ensure that the system is not turned off while the upgrade is taking place.[163]
+[164]
+
+GNOME OS[edit]
+GNOME OS with additional development software enabled
+This section needs expansion. You can help by adding to it.  (March 2025)
+GNOME OS is an operating system designed to provide a streamlined, container-centric platform that serves as both an experimental testbed and a showcase for GNOME’s user interface and application ecosystem.
+
+See also[edit]
+GNOME Foundation
+Adwaita (design language)
+KDE
+Comparison of X Window System desktop environments
+Portals: Linux Free and open-source software
+Notes[edit]
+
+
+^ Originally an acronym for GNU Network Object Model Environment.[9]
+
+
+References[edit]
+
+
+^ a b "GNOME 1.0 Released" (Press release). San Jose, California: GNOME Project. 3 March 1999. Archived from the original on 8 December 2021. Retrieved 11 January 2016.
+
+^ a b "GNOME 48.1 released". 17 April 2025. Retrieved 23 April 2025.
+
+^ a b "Programming Languages".
+
+^ "Introducing GNOME 41". Archived from the original on 22 December 2021. Retrieved 20 December 2021.
+
+^ "GNOME License". Archived from the original on 7 November 2017. Retrieved 8 December 2017.
+
+^ Sandler, Karen (26 March 2014). "Introducing GNOME 3.12". GNOME Project (video). YouTube. Archived from the original on 21 December 2021. Retrieved 2 July 2014.
+
+^ Clinton, Jason (2 April 2011). "GNOME 3: Fewer interruptions". GNOME Project (video). YouTube. Archived from the original on 21 December 2021. Retrieved 7 April 2011.
+
+^ "How do I pronounce GNOME?". Massachusetts Institute of Technology. Archived from the original on 13 September 2022. Retrieved 13 September 2022. Since GNU is GNOME's first name, GNOME is officially pronounced "guh-NOME". However, many people pronounce GNOME as just "NOME" (like those short people from legend), nobody will hurt you if you find this pronunciation easier.
+
+^ a b de Icaza, Miguel (15 August 1997). "The GNOME Desktop project". mail.gnome.org. Archived from the original on 5 September 2015. Retrieved 11 August 2015.
+
+^ Clasen, Matthias (19 February 2014). "On portability". Goings on. Archived from the original on 2 March 2014. Retrieved 30 June 2022.
+
+^ Neary, Dave; David, Vanessa (2010), The GNOME Census: Who writes GNOME? (PDF), Neary Consulting, archived (PDF) from the original on 23 June 2016, retrieved 15 June 2016
+
+^ "Staring into the abyss". Swfblag. Gnome. 27 July 2012. Archived from the original on 31 July 2012. Retrieved 15 March 2014.
+
+^ "GNOME at 25: A Health Checkup – Et tu, Cthulhu". 7 August 2022. Archived from the original on 11 January 2023. Retrieved 7 August 2022.
+
+^ "GNOME". Sovereign Tech Fund. Retrieved 27 April 2025.
+
+^ "GNOME Human Interface Guidelines". Archived from the original on 11 September 2015. Retrieved 15 March 2014.
+
+^ Pennington, Havoc (April 2002). "Free Software UI". Archived from the original on 24 June 2021. Retrieved 21 June 2021.
+
+^ "GNOME Languages". l10n.gnome.org. Archived from the original on 27 June 2022. Retrieved 20 May 2022.
+
+^ a b "Terminology for Gnome Shell". GNOME Wiki. GNOME Project. Archived from the original on 22 May 2014. Retrieved 22 May 2014.
+
+^ a b Day, Allan. "GNOME 3.10 Release Notes". GNOME Project. Archived from the original on 25 June 2014. Retrieved 22 May 2014.
+
+^ "GNOME 3 Cheat Sheet". GNOME Wiki. GNOME Project. Archived from the original on 1 June 2014. Retrieved 13 June 2014.
+
+^ "GNOME 3.16 Release Notes". help.gnome.org. Retrieved 19 August 2023.
+
+^ Day, Allan. "GNOME 3.8 Release Notes". GNOME Project. Archived from the original on 21 June 2014. Retrieved 13 June 2014.
+
+^ "Projects/GnomeFlashback – GNOME Wiki". Archived from the original on 29 December 2018. Retrieved 21 December 2018.
+
+^ "GNOME/Flashback – ArchWiki". Archived from the original on 10 May 2021. Retrieved 22 April 2025.
+
+^ Giri, Arindam (19 May 2018). "How to Install Classic GNOME Flashback in Ubuntu 18.04 LTS". DebugPoint.com. Archived from the original on 21 December 2018. Retrieved 21 December 2018.
+
+^ "Debian – Details of package gnome-session-flashback in buster". Archived from the original on 21 December 2018. Retrieved 21 December 2018.
+
+^ "Debian -- Details of package gnome-applets in buster".
+
+^ "Projects/GnomeApplets - GNOME Wiki!".
+
+^ "GNOME - postmarketOS Wiki". wiki.postmarketos.org. Retrieved 25 April 2025.
+
+^ "Clock Applets". 14 May 2003. Archived from the original on 14 May 2003.
+
+^ "GNOME wiki: GnomeOnlineAccounts". Archived from the original on 16 March 2021. Retrieved 18 December 2015.
+
+^ "GNOME 3.18 Will Let You Access Your Google Drive Files in Nautilus". 30 September 2015. Archived from the original on 12 April 2021. Retrieved 18 December 2015.
+
+^ "GNOME 3.18 lands with Google Drive". 30 September 2015. Archived from the original on 10 August 2017. Retrieved 18 December 2015.
+
+^ "GNOME Circle". circle.gnome.org. Retrieved 28 November 2023.
+
+^ "GNOME Human Interface Guidelines". developer.gnome.org. Retrieved 10 September 2024.
+
+^ a b "About Us | GNOME". 27 June 2013. Archived from the original on 27 June 2013. Retrieved 15 April 2021.
+
+^ Announcement: Qt version 2.0 released, 25 June 1999, archived from the original on 9 March 2000, retrieved 16 April 2014
+
+^ Stallman, Richard Stallman (5 September 2000). "Stallman on Qt, the GPL, KDE, and GNOME". Archived from the original on 19 April 2012. Retrieved 9 September 2005.
+
+^ "Why you shouldn't use the Lesser GPL for your next library". Free Software Foundation. Archived from the original on 26 November 2007. Retrieved 20 January 2008.
+
+^ GNOME Project: "GNOME Foundation Guidelines on Copyright Assignment". Accessed 26 March 2013. Archived 4 March 2012 at the Wayback Machine
+
+^ Wuelfing, Britta. "GNOME: Split from GNU Project? » Linux Magazine". Linux Magazine. Archived from the original on 4 February 2022. Retrieved 14 April 2021.
+
+^ Loshin, Pete (6 November 2000). "Gnome". Computerworld. Archived from the original on 3 February 2022. Retrieved 14 April 2021.
+
+^ "Official GNU software packages (archived on sep-2021)". Archived from the original on 15 April 2021.
+
+^ Neil Mcgovern. "I asked (as ED for @GNOME) GNU to remove us from that page multiple times. They have refused to do so". Twitter. Archived from the original on 13 November 2021. Retrieved 21 August 2021.
+
+^ "Let's also clarify that here. GNOME is NOT a GNU project". Twitter. 14 April 2021. Archived from the original on 14 April 2021. Retrieved 21 August 2021.
+
+^ "Software – GNU Project – Free Software Foundation". Gnu.org. Archived from the original on 25 December 2015. Retrieved 8 March 2022.
+
+^ GNOME. "GTK commit a4b976f7, "Update the README"". GNOME. Archived from the original on 3 February 2022. Retrieved 8 September 2021.
+
+^ Pennington, Havoc (1999). "What is Gnome?". GTK / Gnome Application Development. Archived from the original on 11 July 2010.
+
+^ a b Klapper, Andre (6 April 2010). "Re: GNOME -> Gnome". gnome.org. Archived from the original on 6 April 2012. Retrieved 30 June 2022.
+
+^ Gowin, John (9 November 2001). "GNOME Office, how far along are we?". Linux Orbit. Archived from the original on 1 January 2005.
+
+^ TH, Sam (10 April 2001). "GUADEC Results". gnome-office-list (Mailing list). LWN.net. Archived from the original on 3 February 2022. Retrieved 3 May 2014.
+
+^ Loli, Eugenia (15 September 2003). "GNOME-Office 1.0 Released; Nautilus Becomes Object-Oriented". OSNews. Archived from the original on 4 May 2014. Retrieved 4 May 2014.
+
+^ Esselbach, Philipp (15 September 2003). "GNOME-Office 1.0 Released". Linux Compatible. Archived from the original on 4 May 2014. Retrieved 4 May 2014.
+
+^ "GNOME-Office 1.0 Released" (Press release). 15 September 2003. Archived from the original on 26 October 2014. Retrieved 4 May 2014.
+
+^ Sevior, Martin (30 June 2004). "Next GNOME-Office release". gnome-office-list (Mailing list). Archived from the original on 18 April 2021. Retrieved 4 May 2014.
+
+^ Sevior, Martin (30 July 2004). "Update on progress for GNOME-Office-1.2". gnome-office-list (Mailing list). Archived from the original on 13 June 2021. Retrieved 4 May 2014.
+
+^ Sevior, Martin (2 October 2004). "Three weeks until gnome-office-1.2, what progress on the website?". gnome-office-list (Mailing list). Archived from the original on 3 February 2022. Retrieved 4 May 2014.
+
+^ Welinder, Morten (19 December 2004). "Gnumeric 1.4 is Here!". gnome-office-list (Mailing list). Archived from the original on 14 June 2021. Retrieved 4 May 2014.
+
+^ "Office Applications". GNOME Project. Archived from the original on 3 December 2013. Retrieved 4 May 2014.
+
+^ "GNOME 2.0 Released: Desktop Environment Boasts Simpler User Interface and a Host of Powerful Developer Tools" (Press release). Archived from the original on 13 November 2021.
+
+^ "GNOME 2.0 Desktop and Developer Platform Released!" (Mailing list). Archived from the original on 20 May 2003.
+
+^ "GNOME 2.2 Release Notes". help.gnome.org. Archived from the original on 23 May 2022. Retrieved 23 January 2023.
+
+^ Brooks, Jason (11 March 2003). "GNOME 2.2 Gains Muscle and Polish". eWEEK. Retrieved 23 January 2023.
+
+^ Foxwell, Harry; Tran, Hung (2009). Pro OpenSolaris: A New Open Source OS for Linux Developers and Administrators. Apress. p. 51. ISBN 9781430218920. Archived from the original on 11 January 2023. Retrieved 23 September 2020.
+
+^ Paul, Ryan (14 July 2008). "GNOME 3.0 officially announced... and explained". Ars Technica. Archived from the original on 21 January 2009. Retrieved 26 April 2021.
+
+^ a b c d Paul, Ryan (7 April 2011). "A shiny new ornament for your Linux lawn: Ars reviews GNOME 3.0". Ars Technica. Archived from the original on 11 May 2012. Retrieved 26 April 2021.
+
+^ "GNOME 3.0 released: better for users, developers" (Press release). Archived from the original on 13 November 2021.
+
+^ a b "GNOME 3.0 Release Notes". GNOME Project. Archived from the original on 27 January 2013. Retrieved 7 April 2011.
+
+^ a b "A list of features that have been implemented for 3.4". GNOME Project. Archived from the original on 30 March 2012. Retrieved 28 March 2012.
+
+^ Mayank Sharma (5 June 2011). "Gnome 3.0: the complete guide". TechRadar. Archived from the original on 5 May 2023. Retrieved 5 May 2023.
+
+^ "GNOME 3.0 Release Notes". help.gnome.org. Archived from the original on 5 May 2023. Retrieved 5 May 2023.
+
+^ Vervloesem, Koen (4 August 2009). "Mutter: a window manager for GNOME 3 [LWN.net]". lwn.net. Archived from the original on 17 August 2009. Retrieved 20 May 2022.
+
+^ Thurman, Thomas (6 July 2009). "The future of… – …for the adult in you". Archived from the original on 9 July 2009. Retrieved 20 May 2022.
+
+^ "A new default theme for GTK". blogs.gnome.org. 13 June 2014. Archived from the original on 24 December 2014. Retrieved 24 December 2014.
+
+^ Prague, Liam Proven in. "How Microsoft shattered Gnome's unity with Windows 95". www.theregister.com. Archived from the original on 31 May 2022. Retrieved 1 June 2022.
+
+^ "Mate Desktop Environment – GNOME2 fork / Community Contributions / Arch Linux Forums". bbs.archlinux.org. Archived from the original on 21 August 2014. Retrieved 15 May 2021.
+
+^ "MATE is under active development to add support for new technologies while preserving a traditional desktop experience". Archived from the original on 6 May 2021.
+
+^ "Introducing Cinnamon". The Linux Mint Blog. Archived from the original on 29 February 2012. Under the hood Cinnamon is forked from Gnome Shell and based on Mutter and Gnome 3
+
+^ Gilbertson, Scott (29 October 2013). "Cinnamon Desktop: Breaks with GNOME, finds beefed-up Nemo". The Register. Retrieved 3 July 2024.
+
+^ PCMan (3 July 2013). "LXDE-Qt Preview". LXDE Blog. Archived from the original on 17 February 2018. Retrieved 15 May 2021.
+
+^ "LXQt History". GitHub. Archived from the original on 14 November 2020. Retrieved 15 May 2021.
+
+^ "PCManFM Qt 0.1.0 released". LXDE Blog. 26 March 2013. Retrieved 20 June 2024.
+
+^ Says, Najse (5 July 2013). "No, LXDE-Qt is not bloated". LXDE Blog. Retrieved 20 June 2024.
+
+^ "Has GNOME Rejected Canonical help? Shuttleworth Responds / News / Online / Home – Ubuntu User". www.ubuntu-user.com. Archived from the original on 25 May 2022. Retrieved 27 January 2023.
+
+^ "Mark Shuttleworth » Blog Archive » Internal competition is healthy, but depends on strong and mature leadership". Archived from the original on 27 January 2023. Retrieved 27 January 2023.
+
+^ "Mark Shuttleworth » Blog Archive » All the other guys are not wrong". Archived from the original on 27 January 2023. Retrieved 27 January 2023.
+
+^ Jackson, Joab (25 October 2010). "Canonical Ubuntu splits from GNOME over design issues". Computerworld. Archived from the original on 27 January 2023. Retrieved 27 January 2023.
+
+^ Parfeni, Lucian (11 May 2010). "Canonical Unveils 'Unity' Interface for Netbooks and Ubuntu Light". softpedia. Archived from the original on 12 February 2023. Retrieved 27 January 2023.
+
+^ Gilbertson, Scott (27 November 2017). "Ubuntu 17.10: Return of the GNOME". Ars Technica. Archived from the original on 5 April 2023. Retrieved 27 April 2023.
+
+^ BuddiesOfBudgie/budgie-desktop, Buddies of Budgie, 20 June 2024, retrieved 20 June 2024
+
+^ "elementary". GitHub. Retrieved 20 June 2024.
+
+^ Sneddon, Joey (7 November 2021). "System76 is Building Its Own Desktop Environment". OMG! Ubuntu. Retrieved 28 October 2024.
+
+^ "Jeremy Soller 🦀 (@soller@fosstodon.org)". Fosstodon. 27 October 2024. Retrieved 28 October 2024.
+
+^ Ricky (4 August 2011), "Linus Torvalds Ditches GNOME For Xfce", Digitizor, archived from the original on 11 April 2015, retrieved 8 November 2011
+
+^ "Torvalds: I want to be nice, and curse less, but it's just not in me". The Register. 7 November 2012. Archived from the original on 13 November 2015. Retrieved 2 January 2013.
+
+^ Heath, Nick. "Linus Torvalds switches back to Gnome 3.x desktop". ZDNet. Archived from the original on 3 February 2022. Retrieved 22 April 2019.
+
+^ Hoffman, Chris. "How GNOME 3.14 is winning back disillusioned Linux users". PC World. IDG TechNetwork. Archived from the original on 29 March 2015. Retrieved 5 April 2015.
+
+^ Bicha, Jeremy (13 April 2017). "Ubuntu GNOME 17.04 Released and What's Next | Ubuntu GNOME". Archived from the original on 13 April 2017. Retrieved 27 January 2023.
+
+^ a b "GNOME 40 Release Notes". Archived from the original on 24 May 2020. Retrieved 27 March 2021.
+
+^ Larabel, Michael (24 March 2021). "GNOME 40 Released With Many Improvements – Phoronix". Archived from the original on 26 March 2021. Retrieved 27 March 2021.
+
+^ a b Bassi, Emmanuele (16 September 2020). "New GNOME versioning scheme". Archived from the original on 23 October 2021. Retrieved 17 September 2020.
+
+^ "GNOME 40". Forty.gnome.org. Archived from the original on 24 January 2022. Retrieved 8 March 2022.
+
+^ "GNOME 41 Release Notes". help.gnome.org. Archived from the original on 22 December 2021. Retrieved 27 January 2023.
+
+^ "What's New in GNOME 42, Available Now". 8 March 2022. Archived from the original on 8 September 2022. Retrieved 8 September 2022.
+
+^ "GNOME Release Notes". GNOME Release Notes. Retrieved 5 May 2024.
+
+^ "GNOME Release Notes". GNOME Release Notes. Archived from the original on 24 September 2022. Retrieved 25 September 2022.
+
+^ a b "Introducing GNOME 44, "Kuala Lumpur"". Archived from the original on 23 March 2023. Retrieved 23 March 2023.
+
+^ a b "GNOME Release Notes". GNOME Release Notes. Retrieved 20 September 2023.
+
+^ "Gnome Release Notes". Gnome Release Notes.
+
+^ "Gnome 46 changelog". Gnome Sources.
+
+^ "GNOME Release Notes". GNOME Release Notes. Retrieved 28 October 2024.
+
+^ Nestor, Marius (19 March 2025). "GNOME 48 "Bengaluru" Desktop Environment Officially Released, This Is What's New". 9to5Linux. Retrieved 24 April 2025.
+
+^ Untz, Vincent "gnome-panel is dead, long live gnome-panel!" vuntz.net, 13 Apr 2011. Available at http://www.vuntz.net/journal/post/2011/04/13/gnome-panel-is-dead,-long-live-gnome-panel!
+
+^ "What is GNOME Classic?".
+
+^ "Projects/GnomeFlashback - GNOME Wiki!".
+
+^ "GNOME 3: From an end-user’s perspective" LinuxBSDos.com, 09 Apr 2011. Available at http://www.linuxbsdos.com/2011/04/09/gnome-3-from-an-end-users-perspective/
+
+^ 
+Sneddon, Joey "GNOME Classic in Ubuntu 12.04: It’s Like Nothing Ever Changed" OMG Ubuntu!, 21 March 2012. Available at http://www.omgubuntu.co.uk/2012/03/gnome-classic-in-ubuntu-12-04-its-like-nothing-ever-changed/
+
+^ "Trisquel 5.5 STS Brigantia release announcement". 16 April 2012. Archived from the original on 23 June 2018. Retrieved 23 September 2018.
+
+^ "Release Notes". GNOME Help. Retrieved 19 September 2023.
+
+^ de Icaza, Miguel. "The story of the GNOME project". Archived from the original on 24 February 2001.
+
+^ "GNOME 1.2 "Bongo GNOME" Unleashed" (Press release). GNOME Project. 25 May 2000. Archived from the original on 14 May 2011. Retrieved 8 June 2014.
+
+^ "GNOME 1.4 "Tranquility" is released". mail.gnome.org. Archived from the original on 22 April 2021. Retrieved 12 September 2021.
+
+^ "GNOME 1.4 Released: Desktop Environment Boasts Power, Stability, Polish and Integration" (Press release). Copenhagen, Denmark: GNOME Project. Business Wire. 2 April 2001. Archived from the original on 24 May 2011. Retrieved 8 June 2014.
+
+^ Waugh, Jeff (27 June 2002). "GNOME 2.0 Desktop and Developer Platform Released!". desktop-devel (Mailing list). Archived from the original on 5 July 2017. Retrieved 20 September 2007.
+
+^ "GNOME 2.2 Release notes" (Press release). GNOME Project. 5 February 2003. Archived from the original on 22 December 2017. Retrieved 19 February 2019.
+
+^ Waugh, Jeff (11 September 2003). "Announcing the GNOME 2.4.0 Desktop & Developer Platform". gnome-announce (Mailing list). Archived from the original on 5 July 2017. Retrieved 20 September 2007.
+
+^ Sobala, Andrew (31 March 2004). "Announcing the GNOME 2.6.0 Desktop & Developer Platform". gnome-announce (Mailing list). Archived from the original on 5 July 2017. Retrieved 20 September 2007.
+
+^ "GNOME 2.8 release notes" (Press release). Boston, Massachusetts: GNOME Project. 15 September 2004. Archived from the original on 22 December 2017. Retrieved 19 February 2019.
+
+^ "GNOME 2.10 released!" (Press release). Boston, Massachusetts: GNOME Project. 9 March 2005. Archived from the original on 14 July 2014. Retrieved 8 June 2014.
+
+^ "GNOME 2.12 Release Notes". Archived from the original on 22 July 2012. Retrieved 31 October 2010.
+
+^ "GNOME 2.14 Release Notes". Archived from the original on 2 November 2010. Retrieved 31 October 2010.
+
+^ Newren, Elijah (6 September 2006). "Celebrating the release of GNOME 2.16!". gnome-announce (Mailing list). Archived from the original on 5 July 2017. Retrieved 20 September 2007.
+
+^ Newren, Elijah (14 March 2007). "Celebrating the release of GNOME 2.18!". gnome-announce (Mailing list). Archived from the original on 5 July 2017. Retrieved 20 September 2007.
+
+^ Ryan, Paul (19 September 2007). "GNOME 2.20 officially released". Ars Technica. Archived from the original on 11 October 2007. Retrieved 20 September 2007.
+
+^ Untz, Vincent (12 March 2008). "Celebrating the release of GNOME 2.22!". gnome-announce-list (Mailing list). Archived from the original on 28 April 2019. Retrieved 12 March 2008.
+
+^ "GNOME 2.22 Release Notes, Section "GVFS and GIO"". Archived from the original on 30 July 2017. Retrieved 6 February 2016.
+
+^ Untz, Vincent (24 September 2008). "Celebrating the release of GNOME 2.24!". gnome-announce-list (Mailing list). Archived from the original on 28 April 2019. Retrieved 27 September 2008.
+
+^ Untz, Vincent (18 March 2009). "Celebrating the release of GNOME 2.26!". gnome-announce-list (Mailing list). Archived from the original on 28 April 2019. Retrieved 18 March 2009.
+
+^ Holwerda, Thom (24 September 2009). "GNOME 2.28 Released". OSNews. Archived from the original on 6 November 2018. Retrieved 5 April 2009.
+
+^ Holwerda, Thom (31 March 2010). "GNOME 2.30 Released". OSNews. Archived from the original on 6 November 2018. Retrieved 4 April 2010.
+
+^ "GNOME 2.32 Release Notes". Archived from the original on 22 December 2012. Retrieved 31 October 2010.
+
+^ a b Vitters, Olav; Klapper, André; Day, Allan. "GNOME 3.2 Release Notes". GNOME Project. Archived from the original on 23 December 2012. Retrieved 5 October 2011.
+
+^ "Add high dpi support". 12 February 2014. Archived from the original on 1 August 2020. Retrieved 16 March 2019.
+
+^ "Convert applications to DBusActivatable". Archived from the original on 30 May 2014. Retrieved 29 May 2014.
+
+^ Wallen, Jack (28 March 2014). "GNOME 3.10 has resurrected what was once the darling of the Linux desktop". TechRepublic. Archived from the original on 28 March 2014.
+
+^ "GNOME 3.16 is here with reimagined notifications and visual upgrades galore". 28 March 2015. Archived from the original on 1 August 2020. Retrieved 19 February 2019.
+
+^ "GNOME 3.20". 23 March 2016. Archived from the original on 8 April 2016. Retrieved 27 March 2016.
+
+^ "GNOME 3.24 Released, This Is What's New". OMG! Ubuntu!. 23 July 2017. Archived from the original on 19 July 2017. Retrieved 23 July 2017.
+
+^ "Introducing GNOME 3.24 'Portland'". YouTube. 23 July 2017. Archived from the original on 21 December 2021.
+
+^ "GNOME 3.26 Released". 13 September 2017. Archived from the original on 16 March 2021. Retrieved 14 September 2017.
+
+^ "GNOME 3.27.x Development Series". Archived from the original on 22 December 2017. Retrieved 9 March 2018.
+
+^ "GNOME Quick SWOT Analysis". GNOME Project. Archived from the original on 18 March 2014. Retrieved 18 March 2014.
+
+^ Proven, Liam. "The GNOME Project is closing all its mailing lists". www.theregister.com. Archived from the original on 29 October 2022. Retrieved 29 October 2022.
+
+^ "About". GNOME Users And Developers European Conference (GUADEC). Archived from the original on 4 October 2011. Retrieved 3 December 2011.
+
+^ "GNOME Project retires OpenGL rendering library Clutter".
+
+^ Bull, Phil. "Platform libraries". GNOME Project. Archived from the original on 21 May 2014. Retrieved 21 May 2014.
+
+^ "What's new in Fedora 25 Workstation". Fedora Magazine. Red Hat. 21 November 2016. Archived from the original on 24 July 2021. Retrieved 21 August 2021.
+
+^ "GNOME 3.20 Release Notes". GNOME. Archived from the original on 26 October 2016. Retrieved 21 August 2021.
+
+^ "session: give Wayland sessions priority · GNOME/gdm@6cd2d24". GNOME GitLab. 9 November 2015. Archived from the original on 24 June 2021. Retrieved 21 June 2021.
+
+^ "GNOME Lands Mainline NVIDIA Wayland Support Using EGLStreams". Phoronix. 17 November 2016. Archived from the original on 19 September 2021. Retrieved 21 August 2021.
+
+^ "GNOME 3.30 Mutter Relieves Wayland Code From Depending Upon X11/XWayland". www.phoronix.com. Retrieved 21 August 2023.
+
+^ Poettering, Lennart (18 May 2011). "systemd as external dependency". desktop-devel (Mailing list). Archived from the original on 10 October 2014. Retrieved 12 June 2014.
+
+^ Peters, Frederic (6 November 2012). "20121104 meeting minutes". release-team (Mailing list). Archived from the original on 7 September 2014. Retrieved 12 June 2014.
+
+^ "Inhibitor locks". Archived from the original on 3 May 2020. Retrieved 29 March 2020.
+
+
+External links[edit]
+
+
+
+Wikibooks has a book on the topic of: Using GNOME
+
+
+
+
+Wikimedia Commons has media related to GNOME.
+
+Official website 
+GNOME Panel changelog
+vteGNOMECore Applications
+Boxes
+Calculator
+Calendar
+Character Map
+Dictionary
+Disks
+Evince
+Files
+Loupe
+Text Editor
+Software
+Snapshot
+Terminal
+Videos
+Web
+ExtrasDevelopment
+Anjuta
+Builder
+Glade Interface Designer
+Meld
+GNOME Devhelp
+Geany
+Gtranslator
+Office
+AbiWord
+Dia
+Evolution
+GNOME LaTeX
+Gnumeric
+OCRFeeder
+Graphics
+F-Spot
+GIMP
+gThumb
+Inkscape
+Shotwell
+Simple Scan
+Internet
+Balsa
+Empathy
+Ekiga
+Geary
+GNOME Connections
+GNOME Fractal
+Gobby
+Jami
+Transmission-gtk
+Media
+Banshee
+EasyTag
+Pitivi
+Rhythmbox
+Sound Juicer
+SoundConverter
+sushi
+Games
+GNOME Games
+Chess
+Mines
+gbrainy
+PyChess
+Utilities
+Archive Manager
+Brasero
+dconf-editor
+gedit
+gnote
+GParted
+Seahorse
+Tomboy
+Yelp
+ComponentsUser interfaceGNOME 40
+Mutter on GSK
+…
+GNOME 3
+Client-Side Decoration
+Cantarell
+GDM
+Mutter
+GNOME Shell
+Tango Desktop Project
+Orca
+GNOME 2
+Metacity
+GNOME Panel
+Clearlooks
+Other
+Adwaita
+Cinnamon
+MATE
+Diodon
+GNOME Do
+Avant Window Navigator
+GNOME Base
+GTK
+GDK
+GSK
+ATK
+Clutter
+Pango
+GLib
+GObject
+GIO
+IBus
+Other
+dconf
+Keyring
+GNOME-DB
+GVfs
+GnomeVFS
+Librsvg
+TinySPARQL
+Vala
+libxslt
+libxml2
+freedesktop.org
+AppStream
+D-Bus
+GStreamer
+NetworkManager
+Poppler
+Wayland
+X.Org Server
+PulseAudio
+PackageKit
+HarfBuzz
+Cairo
+Community
+GNOME Foundation
+GUADEC
+The GNOME Project
+Outreachy
+People
+Miguel de Icaza
+Luis Villa
+Havoc Pennington
+Karen Sandler
+
+ Linux portal
+ Free and open-source software portal
+ Category
+ Commons
+ WikiProject
+
+vteDesktop environments and window managers based on X11 or WaylandDesktopenvironments(comparison)GTK-based
+Budgie
+Cinnamon
+GNOME
+1
+2
+3
+GPE
+Java Desktop System
+LXDE
+MATE
+ROX Desktop
+Sugar
+Xfce
+Qt-based
+Deepin DE
+KDE SC
+1
+2
+3
+4
+Lumina
+LXQt
+Razor-qt
+Trinity
+UKUI
+Motif-based
+CDE
+IRIX Interactive Desktop
+VUE
+X.desktop
+Other
+COSMIC
+Looking Glass
+OpenWindows (XView- and OLIT-based)
+UDE (Xlib/XCB-based)
+Graphical  shells
+GNOME Shell
+KDesktop
+KDE Plasma
+4
+5
+6
+Plasma Bigscreen
+Plasma Mobile
+Maynard
+Phosh
+Unity
+X windowmanagers(comparison)Compositing
+Compiz
+Enlightenment
+KWin
+Metacity
+Metisse
+Moksha
+Muffin
+Mutter
+Project Looking Glass
+Xfwm
+Stacking
+4Dwm
+AfterStep
+amiwm
+Blackbox
+CTWM
+cwm
+Fluxbox
+FLWM
+FVWM
+IceWM
+Matchbox
+Motif Window Manager
+olwm
+Openbox
+Qvwm
+Sawfish
+swm
+twm
+tvtwm
+vtwm
+Window Maker
+WindowLab
+wm2
+Tiling
+awesome
+dwm
+i3
+Ion
+larswm
+ratpoison
+StumpWM
+wmii
+xmonad
+Waylandcompositors
+Enlightenment
+Gala
+KWin
+Mir
+Mutter
+Muffin
+Budgie-wm
+sway
+Weston
+Related
+Display server
+Desktop metaphor
+GUI
+GUI widget
+Painter's algorithm
+Resolution independence
+Shell
+Virtual desktop
+Widget toolkit
+WIMP
+Windowing system
+
+Authority control databases InternationalVIAFNationalGermanyUnited States
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=GNOME&oldid=1287654761"
+Categories: GNOME1999 softwareDesktop environments based on GTKFree desktop environmentsFree software programmed in CGNU ProjectUnix windowing system-related softwareHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataUse dmy dates from December 2019Articles to be expanded from June 2021All articles to be expandedAll articles with unsourced statementsArticles with unsourced statements from May 2022Pages using multiple image with auto scaled imagesWikipedia articles needing rewrite from November 2024All articles needing rewriteArticles containing potentially dated statements from May 2014All articles containing potentially dated statementsArticles with unsourced statements from May 2023Articles with unsourced statements from November 2024Articles with unsourced statements from April 2015Articles to be expanded from March 2025Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 27 April 2025, at 16:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+GNOME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

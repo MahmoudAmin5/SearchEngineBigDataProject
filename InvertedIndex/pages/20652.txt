@@ -1,0 +1,887 @@
+https://en.wikipedia.org/wiki/Mobile_computing
+
+
+
+
+Mobile computing - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Main principles
+
+
+
+
+
+
+
+
+2
+Devices
+
+
+
+
+
+
+
+
+3
+Limitations
+
+
+
+
+
+
+
+
+4
+In-vehicle computing and fleet computing
+
+
+
+
+
+
+
+
+5
+Security issues involved in mobile
+
+
+
+
+
+
+
+
+6
+Portable computing devices
+
+
+
+
+
+
+
+
+7
+Mobile data communication
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+9.1
+Footnotes
+
+
+
+
+
+
+
+
+9.2
+Bibliography
+
+
+
+
+
+
+
+
+
+
+10
+Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Mobile computing
+
+
+
+15 languages
+
+
+
+
+العربيةবাংলাБългарскиDeutschEspañolفارسیFrançais한국어हिन्दीBahasa IndonesiaItalianoമലയാളംதமிழ்Tiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article is written like a personal reflection, personal essay, or argumentative essay that states a Wikipedia editor's personal feelings or presents an original argument about a topic. Please help improve it by rewriting it in an encyclopedic style. (July 2019) (Learn how and when to remove this message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Mobile computing" – news · newspapers · books · scholar · JSTOR (July 2019) (Learn how and when to remove this message)
+
+ (Learn how and when to remove this message)
+Human–computer interaction in which a computer is expected to be transported during normal usage
+Foldable Samsung Galaxy smartphones, capable of web browsing, e-mail access, video playback, document editing, file transfer, image editing, and other tasks common on smartphones. A smartphone is a tool of mobile computing.
+Mobile computing is human–computer interaction in which a computer is expected to be transported during normal usage and allow for transmission of data, which can include voice and video transmissions. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc networks and infrastructure networks as well as communication properties, protocols, data formats, and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
+
+
+Main principles[edit]
+The Telxon PTC-710 is a 16-bit mobile computer PTC-710 with MP 830-42 microprinter 42-column version.
+Portability: Devices/nodes connected within the mobile computing system should facilitate mobility. These devices may have limited device capabilities and limited power supply but should have a sufficient processing capability and physical portability to operate in a movable environment.
+Connectivity: This defines the quality of service (QoS) of the network connectivity.  In a mobile computing system, the network availability is expected to be maintained at a high level with a minimal amount of lag/downtime without being affected by the mobility of the connected nodes.
+Interactivity: The nodes belonging to a mobile computing system are connected with one another to communicate and collaborate through active transactions of data.
+Individuality: A portable device or a mobile node connected to a mobile network often denotes an individual; a mobile computing system should be able to adopt the technology to cater to the individual needs and also to obtain contextual information of each node.
+Devices[edit]
+Some of the most common forms of mobile computing devices are as given below:
+
+Portable computers, compact, lightweight units including a full character set keyboard and primarily intended as hosts for software that may be parameterized, such as laptops/desktops, smartphones/tablets, etc.
+Smart cards that can run multiple applications but are typically used for payment, travel, and secure area access.
+Mobile phones, telephony devices which can call from a distance through cellular networking technology.
+Wearable computers, mostly limited to functional keys and primarily intended for the incorporation of software agents, such as bracelets, keyless implants, etc.
+The wearable computer, Apple Watch, released in 2015
+These classes are expected to endure and to complement each other, none replacing another completely.
+Other types of mobile computers have been introduced since the 1990s, including the:
+
+Portable computer
+Personal digital assistant, enterprise digital assistant
+Ultra-Mobile PC
+Laptop
+Tablet computer
+Wearable computer
+E-reader
+Carputer
+Handheld PC
+Limitations[edit]
+Expandability, replaceability and modularity: In contrast to the common traditional motherboard-based PC the SoC architecture in which they are embedded makes these features impossible.
+Lack of a BIOS: As most smart devices lack a proper BIOS, their bootloading capabilities are limited as they can only boot into the single operative system with which it came, in contrast with the PC BIOS model.
+Range and bandwidth: Mobile Internet access is generally slower than direct cable connections, using technologies such as GPRS and EDGE, and more recently HSDPA, HSUPA, 3G and 4G networks and also the proposed 5G network. These networks are usually available within a range of commercial cell phone towers. High-speed network wireless LANs are inexpensive but have a very limited range.
+Security standards: When working mobile, one is dependent on public networks, requiring careful use of VPN. Security is a major concern while concerning the mobile computing standards on the fleet. One can easily attack the VPN through a huge number of networks interconnected through the line.
+Power consumption: When a power outlet or portable generator is not available, mobile computers must rely entirely on battery power. Combined with the compact size of many mobile devices, this often means unusually expensive batteries must be used to obtain the necessary battery life.
+Transmission interferences: Weather, terrain, and the range from the nearest signal point can all interfere with signal reception. Reception in tunnels, some buildings, and rural areas is often poor.
+Potential health hazards: People who use mobile devices while driving are often distracted from driving and are thus assumed more likely to be involved in traffic accidents.[1] (While this may seem obvious, there is considerable discussion about whether banning mobile device use while driving reduces accidents.[2][3]) Cell phones may interfere with sensitive medical devices. Questions concerning mobile phone radiation and health have been raised.
+Human interface with device: Screens and keyboards tend to be small, which may make them hard to use. Alternate input methods such as speech or handwriting recognition require training.
+In-vehicle computing and fleet computing[edit]
+MOBIDIC mobile computer of 1959
+Many commercial and government field forces deploy a rugged portable computer with their fleet of vehicles. This requires the units to be anchored to the vehicle for driver safety, device security, and ergonomics. Rugged computers are rated for severe vibration associated with large service vehicles and off-road driving and the harsh environmental conditions of constant professional use such as in emergency medical services, fire, and public safety.
+
+The Compaq Portable - c. 1982, pre-laptop
+Other elements affecting function in the vehicle:
+
+Operating temperature: A vehicle cabin can often experience temperature swings from −30–60 °C (−22–140 °F). Computers typically must be able to withstand these temperatures while operating. Typical fan-based cooling has stated limits of 35–38 °C (95–100 °F) of ambient temperature and temperatures below freezing require localized heaters to bring components up to operating temperature (based on independent studies by the SRI Group and by Panasonic R&D).
+Vibration can decrease the life expectancy of computer components, notably rotational storage such as HDDs.
+Visibility of standard screens becomes an issue in bright sunlight.
+Touchscreen users easily interact with the units in the field without removing gloves.
+High-temperature battery settings: Lithium-ion batteries are sensitive to high-temperature conditions for charging. A computer designed for the mobile environment should be designed with a high-temperature charging function that limits the charge to 85% or less of capacity.
+External antenna connections go through the typical metal cabins of vehicles which would block wireless reception and take advantage of much more capable external communication and navigation equipment.
+Security issues involved in mobile[edit]
+Main article: Mobile security
+Mobile security has become increasingly important in mobile computing. It is of particular concern as it relates to the security of personal information now stored on the smartphone. Mobile applications might copy user data from these devices to a remote server without the users’ permission and often without the users’ consent.[4] The user profiles automatically created in the cloud for smartphone users raise privacy concerns on all major platforms, in terms of, including, but not limited to, location tracking[5] and personal data collection,[6] regardless of user settings on the device.[7]
+More and more users and businesses use smartphones as a means of planning and organizing their work and private life. Within companies, these technologies are causing profound changes in the organization of information systems and therefore they have become the source of new risks. Indeed, smartphones collect and compile an increasing amount of sensitive information to which access must be controlled to protect the privacy of the user and the intellectual property of the company. 
+
+All smartphones are preferred targets of attacks. These attacks exploit weaknesses related to smartphones that can come from means of wireless telecommunication like WiFi networks and GSM. There are also attacks that exploit software vulnerabilities from both the web browser and operating system. Finally, there are forms of malicious software that rely on the weak knowledge of average users.
+Different security counter-measures are being developed and applied to smartphones, from security in different layers of software to the dissemination of information to end-users. There are good practices to be observed at all levels, from design to use, through the development of operating systems, software layers, and downloadable apps.
+
+Portable computing devices[edit]
+Main articles: Mobile device and Portable computer
+Several categories of portable computing devices can run on batteries but are not usually classified as laptops: portable computers, PDAs, ultra mobile PCs (UMPCs), tablets, and smartphones.
+
+A portable computer is a general-purpose computer that can be easily moved from place to place, but cannot be used while in transit, usually because it requires some "setting-up" and an AC power source. The most famous example is Osborne 1. Portable computers are also called a "transportable" or a "luggable" PC.
+A personal digital assistant (PDA) is a small, usually pocket-sized, computer with limited functionality. It is intended to supplement and to synchronize with a desktop computer, giving access to contacts, address book, notes, e-mail, and other features.A Palm TX PDA
+An ultra mobile PC is a full-featured, PDA-sized computer running a general-purpose operating system.
+Phones, tablets: a slate tablet is shaped like a paper notebook. Smartphones are the same devices as tablets, however, the only difference with smartphones is that they are much smaller and pocketable. Instead of a physical keyboard, these devices have a touchscreen including a combination of a virtual keyboard but can also link to a physical keyboard via wireless Bluetooth or USB. These devices include features other computer systems would not be able to incorporate, such as built-in cameras, because of their portability - although some laptops possess camera integration, and desktops and laptops can connect to a webcam by way of USB.
+A carputer is installed in an automobile. It operates as a wireless computer, sound system, GPS, and DVD player. It also contains word processing software and is Bluetooth compatible.[8]
+A Pentop (discontinued) is a computing device the size and shape of a pen. It functions as a writing utensil, MP3 player, language translator, digital storage device, and calculator.[9]
+An application-specific computer is one that is tailored to a particular application. For example, Ferranti introduced a handheld application-specific mobile computer (the MRT-100) in the form of a clipboard for conducting opinion polls.[10]
+Boundaries that separate these categories are blurry at times. For example, the OQO UMPC is also a PDA-sized tablet PC; the Apple eMate had the clamshell form factor of a laptop but ran PDA software. The HP Omnibook line of laptops included some devices small enough to be called ultra mobile PCs. The hardware of the Nokia 770 internet tablet is essentially the same as that of a PDA such as the Zaurus 6000; the only reason it's not called a PDA is that it does not have PIM software. On the other hand, both the 770 and the Zaurus can run some desktop Linux software, usually with modifications.
+
+Mobile data communication[edit]
+Wireless data connections used in mobile computing take three general forms.[11] Cellular data service uses technologies GSM, CDMA or GPRS, 3G networks such as W-CDMA, EDGE or CDMA2000.[12][13] and more recently 4G and 5G networks.  These networks are usually available within range of commercial cell towers.  Wi-Fi connections offer higher performance,[14] may be either on a private business network or accessed through public hotspots, and have a typical range of 100 feet indoors and up to 1000 feet outdoors.[15] Satellite Internet access covers areas where cellular and Wi-Fi are not available[16] and may be set up anywhere the user has a line of sight to the satellite's location,[17] which for satellites in geostationary orbit means having an unobstructed view of the southern sky.[11] Some enterprise deployments combine networks from multiple cellular networks or use a mix of cellular, Wi-Fi and satellite.[18] When using a mix of networks, a mobile virtual private network (mobile VPN) not only handles the security concerns, but also performs the multiple network logins automatically and keeps the application connections alive to prevent crashes or data loss during network transitions or coverage loss.[19][20]
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Mobile computers.
+
+Lists of mobile computers
+Mobile cloud computing
+Mobile Computing and Communications Review
+Mobile development
+Mobile device management
+Mobile identity management
+Mobile interaction
+Mobile software
+Ubiquitous computing
+References[edit]
+Footnotes[edit]
+
+
+^ andrew.currin.ctr@dot.gov (8 September 2016). "U Drive. U Text. U Pay". NHTSA. Archived from the original on 5 October 2011. Retrieved 25 March 2018.
+
+^ "Hands Free Cell Phones No Safer, Insurance Study Claims". Archived from the original on 17 July 2015. Retrieved 16 July 2015.
+
+^ "Study: Distractions, not phones, cause car crashes". CNET. CBS Interactive. Archived from the original on 18 January 2013. Retrieved 16 July 2015.
+
+^ Sikos, Leslie F.; Haskell-Dowland, Paul (5 Sep 2019). "Apple iPhones could have been hacked for years — here's what to do about it". ABC News. Archived from the original on 2019-09-09. Retrieved 2019-12-10.
+
+^ Hautala, Laura (20 August 2018). "Google sued over tracking user location amid privacy concerns". CNET. Archived from the original on 10 December 2019. Retrieved 10 December 2019.
+
+^ Lindsey, Nicole (10 April 2019). "Pre-Installed Apps on Android Represent a Threat to User Privacy and Security". CPO Magazine. Archived from the original on 10 December 2019. Retrieved 10 December 2019.
+
+^ "Google records your location even when you tell it not to". The Guardian. 14 August 2018. Archived from the original on 10 December 2019. Retrieved 10 December 2019.
+
+^ "Carputer Articles on Engadget". Engadget. AOL. Archived from the original on 5 May 2018. Retrieved 16 July 2015.
+
+^ "Gear Diary » The FLY Fusion Pentop Computer Review". 7 October 2007. Archived from the original on 23 October 2017. Retrieved 16 July 2015.
+
+^ G Rowley, K Barker, and V Callaghan “ The Questronic Project and the Ferranti MRT 100 A Boon For Survey Research”, The Professional Geographer, Volume 37, Issue 4, pages 459–463, November 1985
+
+^ a b "Wireless Data Communications for Beginners". Ositech Communications. Archived from the original on 2011-07-13. Retrieved 2011-07-12.
+
+^ Lachu Aravamudhan, Stefano Faccin, Risto Mononen, Basavaraj Patil, Yousuf Saifullah, Sarvesh Sharma, Srinivas Sreemanthula. "Getting to Know Wireless Networks and Technology" Archived 2013-10-04 at the Wayback Machine, InformIT
+
+^ "What really is a Third Generation (3G) Mobile Technology" Archived 2011-06-07 at the Wayback Machine, ITU
+
+^ Gier, Jim. "Wireless Network Industry Report" Archived 2012-10-12 at the Wayback Machine, Wireless Nets, Ltd.
+
+^ "Wi-Fi" Archived 2012-03-27 at the Wayback Machine 
+
+^ Mitchell, Bradley. "Satellite Internet". about.com. Archived from the original on 26 July 2011.
+
+^ "Introduction to Global Satellite Systems" Archived 2011-10-23 at the Wayback Machine, CompassRose International Publications
+
+^ Case studies Archived 2012-03-31 at the Wayback Machine, netmotionwireless.com
+
+^ Phifer, Lisa. "Mobile VPN: Closing the Gap" Archived 2020-07-06 at the Wayback Machine, SearchMobileComputing.com, July 16, 2006. 
+
+^ Cheng, Roger. "Lost Connections" Archived 2018-03-28 at the Wayback Machine, The Wall Street Journal, December 11, 2007. 
+
+
+Bibliography[edit]
+GH Forman, J Zahorjan - Computer, 1994 - doi.ieeecomputersociety.org
+David P. Helmbold, "A dynamic disk spin-down technique for mobile computing", citeseer.ist.psu.edu, 1996
+MH Repacholi, "health risks from the use of mobile phones", Toxicology Letters, 2001 - Elsevier
+Landay, J.A. Kaufmann, T.R., "user interface issues in mobile computing", Workstation Operating Systems, 1993.
+Imieliński, T.; Badrinath, B.R. (Oct 1994). "Mobile wireless computing, challenges in data management". Communications of the ACM. 37 (10): 18–28. doi:10.1145/194313.194317. S2CID 20233082.
+Imieliński, T.; Badrinath, B.R. (1992). "Querying in highly mobile distributed environments" (PDF). Proceedings VLDB '92: 41–52.
+T. Imielinski; H.F. Korth (Eds.) (1996). Mobile Computing. Springer.
+Imieliński, T.; Viswanathan, S.; Badrinath, B.R. (May–June 1997). "Data on Air: Organization and Access" (PDF). IEEE Transactions on Knowledge and Data Engineering. 9 (3): 353–372. CiteSeerX 10.1.1.569.2573. doi:10.1109/69.599926. Archived from the original (PDF) on 2006-02-05. Retrieved 2017-02-04.
+Roth, J. "Mobile Computing - Grundlagen, Technik, Konzepte", 2005, dpunkt.verlag, Germany
+Pullela, Srikanth. "Security Issues in Mobile Computing" http://crystal.uta.edu/~kumar/cse6392/termpapers/Srikanth_paper.pdf
+Zimmerman, James B. "Mobile Computing: Characteristics, Business Benefits, and Mobile Framework" April 2, 1999. https://web.archive.org/web/20111126105426/http://ac-support.europe.umuc.edu/~meinkej/inss690/zimmerman/INSS%20690%20CC%20-%20Mobile%20Computing.htm
+Koudounas, Vasilis. Iqbal, Omar. "Mobile Computing: Past, Present, and Future" https://web.archive.org/web/20181110210750/http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/vk5/report.html
+Further reading[edit]
+B'Far, Reza (2004). Mobile Computing Principles: Designing and Developing Mobile Applications with UML and XML. Cambridge University Press. ISBN 978-0-521-81733-2.
+Poslad, Stefan (2009). Ubiquitous Computing: Smart Devices, Environments and Interactions. Wiley. ISBN 978-0-470-03560-3.
+Rhoton, John (2001). The Wireless Internet Explained. Digital Press. ISBN 978-1-55558-257-9.
+Talukder, Asoke; Yavagal, Roopa (2006). Mobile Computing: Technology, Applications, and Service Creation. McGraw-Hill Professional. ISBN 978-0-07-147733-8.
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mobile_computing&oldid=1282053927"
+Categories: Mobile computersAutomatic identification and data captureMobile phonesHidden categories: Webarchive template wayback linksWikipedia articles with style issues from July 2019All articles with style issuesArticles needing additional references from July 2019All articles needing additional referencesArticles with multiple maintenance issuesArticles with short descriptionShort description is different from WikidataCommons category link is locally defined
+
+
+
+
+
+
+ This page was last edited on 24 March 2025, at 00:54 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Mobile computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

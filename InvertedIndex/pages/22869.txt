@@ -1,0 +1,149 @@
+https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_breakpoints2
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+CSS
+RWD Media Queries
+Tryit: Using media queries
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Chania
+
+  
+    
+      The Flight
+      The City
+      The Island
+      The Food
+    
+
+
+  
+    The City
+    Chania is the capital of the Chania region on the island of Crete.
+    The city can be divided in two parts, the old town and the modern city. The old town is situated next to the old harbour and is the matrix around which the whole urban area was developed.
+    Chania lies along the north west coast of the island Crete.
+    
+
+  
+    Facts:
+    
+      Chania is a city on the island of Crete
+      Crete is a Greek island in the Mediterranean Sea
+    
+  
+
+  Resize the browser window to see how the content respond to the resizing.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

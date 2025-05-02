@@ -1,0 +1,738 @@
+https://en.wikipedia.org/wiki/IBM_System/32
+
+
+
+
+IBM System/32 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+
+2
+Processor
+
+
+
+
+
+
+
+
+3
+Memory/storage
+
+
+
+
+
+
+
+
+4
+System/32 operator
+
+
+
+
+
+
+
+
+5
+System software
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+Toggle External links subsection
+
+
+
+
+
+8.1
+Photographs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM System/32
+
+
+
+7 languages
+
+
+
+
+CatalàDeutschEspañolفارسی日本語PolskiУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+IBM midrange computer (1975–1984)
+IBM System/32IBM System/32ManufacturerInternational Business Machines Corporation (IBM)Product familySystem/32Release dateJanuary 7, 1975; 50 years ago (1975-01-07)Introductory priceapprox $1,000 per monthDiscontinuedOctober 17, 1984Operating systemSystem Control Program (SCP)CPUControl Storage Processor (CSP)PredecessorIBM System/3SuccessorIBM System/34WebsiteOfficial website IBM Archives
+The IBM System/32[1][2] (IBM 5320) introduced in January 1975[3] was a midrange computer with built-in display screen, disk drives, printer, and database report software. It was used primarily by small to midsize businesses for accounting applications. RPG II was the primary programming language for the machine.[4]
+
+
+Overview[edit]
+IBM System/32 in Computer History Museum
+The 16-bit single-user System/32, also known as the IBM 5320, was introduced in 1975,[5] and it was the successor to the IBM System/3 model 6 in the IBM midrange computer line. IBM described it as "the first system to incorporate hardware and comprehensive application software."[5] The New York Times described the 32 as "a compact computer for first‐time users with little or no computer programming experience."[6] Within 40 months, "the System/32 had surpassed the IBM System/3 as the most installed IBM computer."[5]
+The computer looked like a large office desk with a very small six-line by forty-character display. Having the appearance of a computerized desk, the System/32 was nicknamed the "Bionic Desk" after The Six Million Dollar Man (bionic man), a popular U.S. TV program when the computer was introduced in 1975. The 32 had a built-in line printer, that directly faced the operator when seated, and could print reports, memos, billing statements, address labels, etc. 
+It had  been introduced January 7, 1975 and was withdrawn from marketing on October 17, 1984. Migration to the IBM System/34 was generally simple because source code was compatible and programs just needed recompilation.
+
+Processor[edit]
+The System/32 featured a 16-bit processor with a 200ns cycle time known as the Control Storage Processor (CSP).[7] Whereas the System/3 used a hardwired processor, the System/32 implemented the System/3 instruction set in microcode. The System/32 processor utilized a vertical microcode format, with each microinstruction occupying 16 bits of control storage. There were 19 different microinstruction opcodes, however certain microinstructions could carry out different operations depending on which bits were set in the rest of the microinstruction, meaning that there were about 70 distinct operations available in total.[8] An optional set of Scientific Macroinstructions was also available, which were used to support a Fortran compiler by implementing support for floating point arithmetic in microcode.[9] Some IBM engineers, including Glenn Henry and Frank Soltis, have retrospectively described the System/32's microcode as resembling a RISC instruction set.[7][10]
+The System/3 emulation performed poorly, which led IBM to implement performance critical parts of the SCP operating system directly in microcode.[11] The later System/34 and System/36 systems addressed this problem by using two different processors - the System/32 CSP architecture was used exclusively for operating system, I/O control and floating point code, whereas user code ran on the Main Storage Processor (MSP) which implemented the System/3 instruction set directly in hardware without microcode.[10] The use of microcode to implement instruction set emulation as well as performance-critical operating system components had some influence on the design of the microcode layers in the later System/38.[11]
+
+Memory/storage[edit]
+It had 16, 24, or 32 kilobytes of main memory, and 4 or 8 kilobytes of control storage. The larger control store was an optional extra, and was needed to support the scientific instruction set.[9][8]
+A single hard drive was available in one of three sizes:[12]
+
+5 MB
+9 MB
+13 MB
+The system included an eight-inch floppy drive that could also read floppies from the IBM 3740 family.
+Only one side of the 77-track floppy diskette was used. Each track held 26 128-byte sectors.  An extended format was offered by IBM, and it permitted 512 bytes per sector. Even so, that came to an 8-inch floppy holding less than one third of a megabyte.[13]
+
+System/32 operator[edit]
+When keying input data, the operator would be viewing the character display, which was also common to the then current IBM 3740 family of data entry to floppy disk media.
+A computer specialist was not required for the operation of System/32.
+
+System software[edit]
+Some terms associated with the System/32's software include: 
+
+SCP (System Control Program) the operating system of the System/32.[14]
+SEU (Source Entry Utility, the programming editor),
+DFU (Data File Utility, a query and report generator),[15]
+OCL (Operations Control Language, the command-line language), and
+#LIBRARY (the directory or disk partition in which executable code was stored).
+See also[edit]
+IBM System/3
+IBM System/34
+IBM System/36
+IBM System/38
+References[edit]
+
+
+^ "I.B.M. Introduces Smallest Computer In a Bid for Data-Processing". The New York Times. January 8, 1975.
+
+^ "I.B.M. Corp. Introduces A 50-Pound Computer". The New York Times. September 10, 1975.
+
+^ IBM Archives: IBM System/32
+
+^ "SR30-0017-1 System32 RPG II Programming". January 1976.
+
+^ a b c "IBM System/32". IBM Corporation. 23 January 2003. Archived from the original on January 27, 2008.
+
+^ William D. Smith (November 17, 1976). "I.B.M. Starting Series 1 System To Enter Minicomputer Market". The New York Times.
+
+^ a b Glenn Henry (2014-03-30). "The IBM System/32: The Second IBM Personal Computer". Glenn's Computer Museum. Retrieved 2021-12-22.
+
+^ a b "IBM Maintenance Library System/32 Theory Diagrams" (PDF). Bitsavers. IBM. May 1977. Retrieved 2021-12-22.
+
+^ a b "IBM System/34 and IBM System/32 Scientific Macroinstructions Functions Reference Manual" (PDF). Bitsavers. IBM. July 1978. Retrieved 2021-12-22.
+
+^ a b Frank G. Soltis (1997). Inside the AS/400, Second Edition. Duke Press. ISBN 978-1882419661.
+
+^ a b Henry, Glenn (2001-08-07). "An Interview with An Interview with GLENN HENRY" (PDF). conservancy.umn.edu (Interview). Interviewed by Philip L. Frana. Charles Babbage Institute. Retrieved 2021-12-22.
+
+^ with 5 more choices added a year later "Computerworld". Computerworld. January 19, 1976.
+
+^ "Floppy drive".
+
+^ "IBM System/32 Introduction" (PDF). IBM. January 1977. Retrieved 2021-03-01.
+
+^ "IBM System/32 Data File Utility (DFU)". Archived from the original on 2022-01-18. Retrieved 2017-12-06.
+
+
+External links[edit]
+A System/32 restoration project
+Video of Corestore Museum System/32 performing IMPL/IPL from disk
+Insightful newsgroup post about System/32 and System/34 architecture
+Photographs[edit]
+System/32
+S/32 front view with one panel open
+S/32 rear view with both panels open
+Large Image of IBM 5320
+vteIBM mini/midrange computers, workstations, and serversIBM 1130
+1132 line printer
+1442 card reader/punch
+1500 instructional system
+1627 drum plotter
+1800 Data Acquisition and Control System
+1627 plotter (Calcomp)
+IBM 1400
+1401
+1410
+1440
+1460
+peripherals
+1402 card reader/punch
+1403 line printer
+1442 card reader/punch
+7330 Magnetic Tape Unit
+IBM System
+System/3
+System/3X
+System/32
+System/34
+System/36
+System/38
+System/7
+System 9000
+System p
+System x
+iDataPlex
+Predecessors: PS/2 Server
+PC Server
+Netfinity
+eServer
+Power Systems
+AS/400
+Advanced/36*
+RS64 microprocessor
+Applications, software, and concepts
+Control Language
+Dealer Business System
+Dynamic Logical Partitioning
+OS/400
+object
+Programming Development Manager
+Quick Response Engine
+Single-level store
+
+RS/6000
+ThinkPad Power Series
+Predecessors: RT PC
+Academic System
+Other
+IBM 801
+3790 Communications System
+8100 Information System
+BladeCenter
+IntelliStation
+Series/1
+* Also based on the System/36
+ Category
+ Minicomputers on Commons
+ Servers on Commons
+Authority control databases: National United StatesIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_System/32&oldid=1275962869"
+Categories: IBM minicomputersComputer-related introductions in 197516-bit computersHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 16 February 2025, at 02:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM System/32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

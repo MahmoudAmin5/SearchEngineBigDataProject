@@ -1,0 +1,814 @@
+https://en.wikipedia.org/wiki/Solid-state_hybrid_drive
+
+
+
+
+Hybrid drive - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Types
+
+
+
+
+Toggle Types subsection
+
+
+
+
+
+1.1
+Dual-drive hybrid systems
+
+
+
+
+
+
+
+
+1.2
+Solid-state hybrid drive
+
+
+
+
+
+
+
+
+
+
+2
+Operation
+
+
+
+
+Toggle Operation subsection
+
+
+
+
+
+2.1
+Modes of operation
+
+
+
+
+
+
+
+
+
+
+3
+History
+
+
+
+
+
+
+
+
+4
+Benchmark testing
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+Toggle See also subsection
+
+
+
+
+
+5.1
+Linux topics
+
+
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Hybrid drive
+
+
+
+18 languages
+
+
+
+
+العربيةEestiFrançais한국어Bahasa IndonesiaItalianoNederlands日本語PolskiPortuguêsRomânăРусскийSimple EnglishSvenskaతెలుగుTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Solid-state hybrid drive)
+Data storage device
+For vehicle drives, see Hybrid vehicle.
+"SSHD" redirects here. For other uses, see SSHD (disambiguation).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Hybrid drive" – news · newspapers · books · scholar · JSTOR (July 2019) (Learn how and when to remove this message)
+A hybrid drive (solid state hybrid drive – SSHD, and dual-storage drive) is a logical or physical  computer storage device that combines a faster storage medium such as solid-state drive (SSD) with a higher-capacity hard disk drive (HDD). The intent is adding some of the speed of SSDs to the cost-effective storage capacity of traditional HDDs. The purpose of the SSD in a hybrid drive is to act as a cache for the data stored on the HDD, improving the overall performance by keeping copies of the most frequently used data on the faster SSD drive.
+There are two main configurations for implementing hybrid drives: dual-drive hybrid systems and solid-state hybrid drives. In dual-drive hybrid systems, physically separate SSD and HDD devices are installed in the same computer, having the data placement optimization performed either manually by the end user, or automatically by the operating system through the creation of a "hybrid" logical device. In solid-state hybrid drives, SSD and HDD functionalities are built into a single piece of hardware, where data placement optimization is performed either entirely by the device (self-optimized mode), or through placement "hints" supplied by the operating system (host-hinted mode).
+
+
+Types[edit]
+A high-level comparison of SSHD and dual-drive or FCM designs
+There are two main "hybrid" storage technologies that combine NAND flash memory or SSDs with the HDD technology: dual-drive hybrid systems and solid-state hybrid drives.
+
+Dual-drive hybrid systems[edit]
+Dual-drive hybrid systems combine the usage of separate SSD and HDD devices installed in the same computer. Performance optimizations are managed in one of three ways:
+
+By the computer user, who manually places more frequently accessed data onto the faster drive.
+By the computer's operating system software, which combines SSD and HDD into a single hybrid volume, providing an easier experience to the end-user. Examples of hybrid volumes implementations in operating systems are ZFS' "hybrid storage pools",[1] bcache and dm-cache on Linux,[2] Intel's Hystor[3] and Apple's Fusion Drive, and other Logical Volume Management based implementations[4] on OS X.[5]
+By chipsets external to the individual storage drives. An example is the use of flash cache modules (FCMs). FCMs combine the use of separate SSD (usually an mSATA SSD module) and HDD components, while managing performance optimizations via host software, device drivers, or a combination of both. One example is Intel Smart Response Technology (SRT), which is implemented through a combination of certain Intel chipsets and Intel storage drivers, is the most common implementation of FCM hybrid systems today. What distinguished this dual-drive system from an SSHD system is that each drive maintains its ability to be addressed independently by the operating system if desired.
+Solid-state hybrid drive[edit]
+Solid-state hybrid drive (SSHD) refers to products that incorporate a significant amount of NAND flash memory into a hard disk drive (HDD), resulting in a single, integrated device.[6] The term SSHD is a more precise term than the more general hybrid drive, which has previously been used to describe SSHD devices and non-integrated combinations of solid-state drives (SSDs) and hard disk drives. The fundamental design principle behind SSHDs is to identify data elements that are most directly associated with performance (frequently accessed data, boot data, etc.) and store these data elements in the NAND flash memory. This has been shown[7] to be effective in delivering significantly improved performance over the standard HDD.
+An example of an often confused dual-drive system being considered an SSHD is the use of laptops which combine separate SSD and HDD components into the same 2.5-inch HDD-size unit, while at the same time (unlike SSHDs) keeping these two components visible and accessible to the operating system as two distinct partitions. WD's Black2 drive is a typical example; the drive can either be used as a distinct SSD and HDD by partitioning it appropriately, or software can be used to automatically manage the SSD portion and present the drive to the user as a single large volume.[8]
+
+Operation[edit]
+In the two forms of hybrid storage technologies (dual-drive hybrid systems and SSHDs), the goal is to combine HDD and a faster technology (often NAND flash memory) to provide a balance of improved performance and high-capacity storage availability. In general, this is achieved by placing "hot data", or data that is most directly associated with improved performance, on the "faster" part of the storage architecture.
+Making decisions about which data elements are prioritized for NAND flash memory is at the core of SSHD technology. Products offered by various vendors may achieve this with device firmware, device drivers or software modules and device drivers.
+
+Modes of operation[edit]
+Self-optimized mode
+In this mode of operation, the SSHD works independently from the host operating system or host device drives to make all decisions related to identifying data that will be stored in NAND flash memory. This mode results in a storage product that appears and operates to a host system exactly as a traditional hard drive would.
+Host-optimized mode (or host-hinted mode)
+In this mode of operation, the SSHD enables an extended set of SATA commands defined in the Hybrid Information feature, introduced in version 3.2 of the Serial ATA International Organization (SATA-IO) standards for the SATA interface. Using these SATA commands, decisions about which data elements are placed in the NAND flash memory come from the host operating system, device drivers, file systems, or a combination of these host-level components.[9]
+Some of the specific features of SSHD drives, such as the host-hinted mode, require software support from within the operating system. Microsoft added support for the host-hinted operation into Windows 8.1,[10] while patches for the Linux kernel are available since October 2014, pending their inclusion into the Linux kernel mainline.[11][12]
+History[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (July 2019) (Learn how and when to remove this message)
+1TB Seagate desktop SSHD ST1000DX001
+Hybrid-drive technology saw considerable advance over the decade beginning in 2007:
+
+In 2007, Seagate and Samsung introduced the first hybrid drives with the Seagate Momentus PSD[13] and Samsung SpinPoint MH80[14] products. Both models were 2.5-inch drives, featuring 128 MB or 256 MB NAND flash memory options. Seagate's Momentus PSD emphasized power efficiency for a better mobile experience and relied on Windows Vista's ReadyDrive. The products were not widely adopted.[15]
+In May 2010, Seagate introduced a new hybrid product called the Momentus XT[16] and used the term solid-state hybrid drive. This product focused on delivering the combined benefits of hard drive capacity points with SSD-like performance. It shipped as a 500 GB HDD with 4 GB of integrated NAND flash memory.
+In November 2011, Seagate introduced what they referred to as their second-generation SSHD, which increased the capacity to 750 GB and pushed the integrated NAND flash memory to 8 GB.
+In March 2012, Seagate introduced their third-generation laptop SSHDs with two models – a 500 GB and 1 TB, both with 8 GB of integrated NAND flash memory.
+In September 2012, Toshiba announced its first SSHD, delivering SSD-like performance and responsiveness by combining 8 GB of Toshiba's own SLC NAND flash memory and innovative, self-learning algorithms with up to 1 TB of storage capacity.
+In September 2012, Western Digital (WD) announced a hybrid technology platform pairing cost-effective MLC NAND flash memory with magnetic disks to deliver high-performance, large-capacity integrated storage systems.
+In November 2012, Apple Inc. released the factory-configured dual-drive hybrid system named Fusion Drive.[17]
+In October 2015, TarDisk introduced the plug-and-play dual-drive hybrid system "TarDisk Pear", with flash memory size options up to 256 GB.[18]
+In August 2021, Western Digital introduced OptiNAND, a New Flash-Enhanced HDD Architecture.  It uses a new iNAND read/write cache system for performance.  This feature is for when power is lost during a write phase, to prevent data loss. The System-on-a-Chip (SoC) of an OptiNAND drive, in under a second, will use the rotational power generated by the already spinning disk platter inside the drive to power internal capacitors until the iNAND cached data transfers to non-volatile NAND.
+Benchmark testing[edit]
+Late 2011 and early 2012 benchmarks using an SSHD consisting of a 750 GB HDD and 8 GB of NAND cache found that SSHDs did not offer SSD performance on random read/write and sequential read/write, but were faster than HDDs for application startup and shutdown.[19][20]
+The 2011 benchmark included loading an image of a system that had been used heavily, running many applications, to bypass the performance advantage of a freshly-installed system; it found in real-world tests that performance was much closer to an SSD than to a mechanical HDD. Different benchmark tests found the SSHD to be between an HDD and SSD, but usually significantly slower than an SSD. In the case of uncached random access performance (multiple 4 KB random reads and writes) the SSHD was no faster than a comparable HDD; there is advantage only with data that is cached. The author concluded that the SSHD drive was the best non-SSD type of drive by a significant margin, and that the larger the solid-state cache, the better the performance.[20]
+
+See also[edit]
+ExpressCache
+Fusion Drive
+Hybrid array
+ReadyBoost
+Linux topics[edit]
+bcache
+dm-cache
+flashcache
+References[edit]
+
+
+^ Gregg, Brendan (2009-10-08). "Hybrid Storage Pool: Top Speeds". Brendan's blog. Dtrace.org. Archived from the original on 2016-04-05.
+
+^ Petros Koutoupis (2013-11-25). "Advanced Hard Drive Caching Techniques". linuxjournal.com. Archived from the original on 2013-12-02. Retrieved 2013-12-02.
+
+^ Feng Chen, David A. Koufaty and Xiaodong Zhang (2011). "Hystor | Proceedings of the international conference on Supercomputing". International Conference on Supercomputing (ICS '11). pp. 22–23. doi:10.1145/1995896.1995902.
+
+^ "Hybrid-Drive". TarDisk.com. Archived from the original on 2016-08-07. Retrieved 2016-05-31.
+
+^ "TarDisk Pear first look: Upgrade your MacBook flash storage in a few minutes". Macworld. Archived from the original on 2016-06-01. Retrieved 2016-05-31.
+
+^ Maris (22 January 2016). "Hybrid Drives: Integrating Hard-Disk Drives with Solid-State Drives". HDDMAG. Archived from the original on 11 May 2017. Retrieved 15 May 2017.
+
+^ "SSDs vs. hard drives vs. hybrids: Which storage tech is right for you?". PCWorld. Archived from the original on 2016-06-01. Retrieved 2016-05-31.
+
+^ +Peter Paul. "WD Black2 Dual Drive 120GBSSD + 1TB HDD Gets Discounted, $60 Off Its Price". The Best Laptops. Archived from the original on 15 May 2015. Retrieved 22 May 2015.
+
+^ "SATA-IO FAQ: What else is new in SATA specification v3.2?" (PDF). SATA-IO. p. 2. Archived (PDF) from the original on 2013-10-04. Retrieved 2013-10-03.
+
+^ Andy Herron (2013). "Advancements in Storage and File Systems in Windows 8.1" (PDF). SNIA. Archived (PDF) from the original on 2015-11-25. Retrieved 2017-01-06.
+
+^ Michael Larabel (2014-10-29). "Linux Kernel Finally Being Optimized For SSHDs". Phoronix. Archived from the original on 2015-01-07. Retrieved 2015-02-26.
+
+^ Jason B. Akers (2014-10-29). "Enable use of Solid State Hybrid Drives". LWN.net. Archived from the original on 2015-02-26. Retrieved 2015-02-26.
+
+^ "Seagate MOMENTUS 5400 PSD" (PDF). Seagate. August 2007. Retrieved November 17, 2019.
+
+^ Perenson, Melissa. "Tested: New Hybrid Hard Drives from Samsung and Seagate". PCWorld. Archived from the original on 5 October 2013. Retrieved 26 June 2013.
+
+^ "Seagate Point of View: Solid State Hybrid Drives – The Natural Evolution of Storage". Seagate Technology, LLC. Archived from the original on 5 June 2013. Retrieved 26 June 2013.
+
+^ "Seagate Momentus XT" (PDF). Seagate. September 2010. Retrieved November 17, 2019.
+
+^ "iMac Available on November 30". Apple.com (Press release). Archived from the original on 2016-06-03. Retrieved 2016-06-01.
+
+^ Liszewski, Andrew (29 October 2015). "This Leave-In SD Card Merges With Your MacBook's SSD to Increase Its Capacity". Gizmodo. Archived from the original on 2016-05-26. Retrieved 2016-06-01.
+
+^ Patrick Schmid and Achim Roos (2012-02-08). "Momentus XT 750 GB Review: A Second-Gen Hybrid Hard Drive". Retrieved 2013-11-07.
+
+^ a b Anand Lal Shimpi (2011-12-13). "Seagate 2nd Generation Momentus XT (750 GB) Hybrid HDD Review (with 8 GB NAND cache)". Archived from the original on 2013-11-01. Retrieved 2013-11-07.
+
+
+
+vteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+vteDisk image file formatsComparison of disc image softwareOptical discs
+BIN+CUE
+DAA
+IMG+CCD+SUB
+ISO
+ISZ
+MDF+MDS
+MDX
+NRG
+UIF
+Hard disks
+DMG
+FVD
+IMG
+ISO
+NDIF
+QCOW
+UDIF
+VDI
+VHD
+VMDK
+WIM
+Floppy disks
+ADF, ADZ
+DC42, DART
+DMS
+IMG, IMA, IMZ
+VFD
+CDDADisc Description ProtocolConvention: Any item in this table that has the form of "A+B" or "A+B+C" indicates a disk format that spans multiple files, where A contains the bulk of the data, and B and C are sidecar files.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hybrid_drive&oldid=1286524551#SSHD"
+Categories: Computer peripheralsComputer storage devicesComputer storage mediaSolid-state cachingHard disk drivesNon-volatile memoryHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from July 2019All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 20 April 2025, at 12:31 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Hybrid drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

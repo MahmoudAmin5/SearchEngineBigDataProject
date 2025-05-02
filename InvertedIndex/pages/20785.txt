@@ -1,0 +1,807 @@
+https://en.wikipedia.org/wiki/Exploit_(computer_security)
+
+
+
+
+Exploit (computer security) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Description
+
+
+
+
+
+
+
+
+2
+Classification
+
+
+
+
+
+
+
+
+3
+Exploitation Techniques
+
+
+
+
+Toggle Exploitation Techniques subsection
+
+
+
+
+
+3.1
+Zero-click
+
+
+
+
+
+
+
+
+3.2
+Pivoting
+
+
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+Notes
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Exploit (computer security)
+
+
+
+32 languages
+
+
+
+
+العربيةAzərbaycancaБългарскиCatalàČeštinaDeutschEestiEspañolEuskaraفارسیFrançais한국어Bahasa IndonesiaItalianoעבריתLombardMagyarМакедонскиമലയാളംNederlands日本語PolskiPortuguêsRomânăРусскийSlovenčinaکوردیไทยTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Method of attack on computer systems
+An exploit is a method or piece of code that takes advantage of vulnerabilities in software, applications, networks, operating systems, or hardware, typically for malicious purposes.
+The term "exploit" derives from the English verb "to exploit," meaning "to use something to one’s own advantage."
+Exploits are designed to identify flaws, bypass security measures, gain unauthorized access to systems, take control of systems, install malware, or steal sensitive data.
+While an exploit by itself may not be a malware, it serves as a vehicle for delivering malicious software by breaching security controls.[1][2][3][4]
+Researchers estimate that malicious exploits cost the global economy over US$450 billion annually.
+In response to this threat, organizations are increasingly utilizing cyber threat intelligence to identify vulnerabilities and prevent hacks before they occur.[5]
+
+
+Description[edit]
+Exploits target vulnerabilities, which are essentially flaws or weaknesses in a system's defenses.
+Common targets for exploits include operating systems, web browsers, and various applications, where hidden vulnerabilities can compromise the integrity and security of computer systems.
+Exploits can cause unintended or unanticipated behavior in systems, potentially leading to severe security breaches.[6][7]
+Many exploits are designed to provide superuser-level access to a computer system.
+Attackers may use multiple exploits in succession to first gain low-level access and then escalate privileges repeatedly until they reach the highest administrative level, often referred to as "root."
+This technique of chaining several exploits together to perform a single attack is known as an exploit chain.
+Exploits that remain unknown to everyone except the individuals who discovered and developed them are referred to as zero-day or "0day" exploits.
+After an exploit is disclosed to the authors of the affected software, the associated vulnerability is often fixed through a patch, rendering the exploit unusable.
+This is why some black hat hackers, as well as military or intelligence agency hackers, do not publish their exploits but keep them private.
+One scheme that offers zero-day exploits is known as exploit as a service.[8]
+
+Classification[edit]
+There are several methods of classifying exploits. The most common is by how the exploit communicates to the vulnerable software.
+By Method of Communication:[9]
+
+Remote Exploits: Works over a network and exploits the security vulnerability without any prior access to the vulnerable system.
+Local Exploits: Requires prior access or physical access to the vulnerable system, and usually increases the privileges of the person running the exploit past those granted by the system administrator.
+By Targeted Component:[9]
+
+Server-Side Exploits: Target vulnerabilities in server applications, such as web servers or database servers, often by sending maliciously crafted requests to exploit security flaws.
+Client-Side Exploits: Target vulnerabilities in client applications, such as web browsers (browser exploits) or media players. These exploits often require user interaction, like visiting a malicious website or opening a compromised file. Exploits against client applications may also require some interaction with the user and thus may be used in combination with the social engineering method.
+The classification of exploits based[10][11] on the type of vulnerability they exploit and the result of running the exploit (e.g., Elevation of Privilege (EoP), Denial of Service (DoS), spoofing) is a common practice in cybersecurity. This approach helps in systematically identifying and addressing security threats. For instance, the STRIDE threat model categorizes threats into six types, including Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege.[12] Similarly, the National Vulnerability Database (NVD) categorizes vulnerabilities by types such as Authentication Bypass by Spoofing and Authorization Bypass.[13]
+By Type of Vulnerability:
+
+Code Execution Exploits: Allow attackers to execute arbitrary code on the target system, potentially leading to full system compromise.
+Denial-of-Service (DoS) Exploits: Aim to disrupt the normal functioning of a system or service, making it unavailable to legitimate users.
+Privilege Escalation Exploits: Enable attackers to gain higher privileges on a system than initially granted, potentially leading to unauthorized actions.
+Information Disclosure Exploits: Lead to unauthorized access to sensitive information due to vulnerabilities in the system.
+Another classification is by the action against the vulnerable system; unauthorized data access, arbitrary code execution, and denial of service are examples.
+
+Exploitation Techniques[edit]
+Attackers employ various techniques to exploit vulnerabilities and achieve their objectives. Some common methods include:[9]
+
+Buffer Overflow: Attackers send more data to a buffer than it can handle, causing it to overflow and overwrite adjacent memory, potentially allowing arbitrary code execution.
+SQL Injection: Malicious SQL code is inserted into input fields of web applications, enabling attackers to access or manipulate databases.
+Cross-Site Scripting (XSS): Attackers inject malicious scripts into web pages viewed by other users, potentially leading to session hijacking or data theft.
+Cross-Site Request Forgery (CSRF): Attackers trick users into performing actions they did not intend, such as changing account settings, by exploiting the user's authenticated session.
+Zero-click[edit]
+A zero-click attack is an exploit that requires no user interaction to operate – that is to say, no key-presses or mouse clicks.[14] These exploits are commonly the most sought after exploits (specifically on the underground exploit market) because the target typically has no way of knowing they have been compromised at the time of exploitation. 
+FORCEDENTRY, discovered in 2021, is an example of a zero-click attack.[15][16]
+In 2022, NSO Group was reportedly selling zero-click exploits to governments for breaking into individuals' phones.[17]
+For mobile devices, the National Security Agency (NSA) points out that timely updating of software and applications, avoiding public network connections, and turning the device Off and On at least once a week can mitigate the threat of zero-click attacks.[18][19][20] Experts say that protection practices for traditional endpoints are also applicable to mobile devices. Many exploits exist only in memory, not in files. Theoretically, restarting the device can wipe malware payloads from memory, forcing attackers back to the beginning of the exploit chain.[21][22]
+
+Pivoting[edit]
+This section may contain material not related to the topic of the article  and should be moved to Pivoting (computer security) instead. Please help improve this section or discuss this issue on the talk page. (August 2024) (Learn how and when to remove this message)
+Pivoting is a technique employed by both hackers and penetration testers to expand their access within a target network. By compromising a system, attackers can leverage it as a platform to target other systems that are typically shielded from direct external access by firewalls. Internal networks often contain a broader range of accessible machines compared to those exposed to the internet. For example, an attacker might compromise a web server on a corporate network and then utilize it to target other systems within the same network. This approach is often referred to as a multi-layered attack. Pivoting is also known as island hopping.
+Pivoting can further be distinguished into proxy pivoting and VPN pivoting:
+
+Proxy pivoting is the practice of channeling traffic through a compromised target using a proxy payload on the machine and launching attacks from the computer.[23] This type of pivoting is restricted to certain TCP and UDP ports that are supported by the proxy.
+VPN pivoting enables the attacker to create an encrypted layer to tunnel into the compromised machine to route any network traffic through that target machine, for example, to run a vulnerability scan on the internal network through the compromised machine, effectively giving the attacker full network access as if they were behind the firewall.
+Typically, the proxy or VPN applications enabling pivoting are executed on the target computer as the payload of an exploit.
+Pivoting is usually done by infiltrating a part of a network infrastructure (as an example, a vulnerable printer or thermostat) and using a scanner to find other devices connected to attack them. By attacking a vulnerable piece of networking, an attacker could infect most or all of a network and gain complete control.
+
+See also[edit]
+
+Computer security
+Computer virus
+Crimeware
+Exploit kit
+Hacking: The Art of Exploitation (second edition)
+IT risk
+Metasploit
+Shellcode
+w3af
+
+Notes[edit]
+
+
+^ 
+Latto, Nica (2020-09-29). "Exploits: What You Need to Know". Exploits: What You Need to Know. Archived from the original on 2024-05-15. Retrieved 2024-08-12. An exploit is any attack that takes advantage of vulnerabilities in applications, networks, operating systems, or hardware. Exploits usually take the form of software or code that aims to take control of computers or steal network data.
+
+^ 
+"What Is an Exploit?". Cisco. 2023-10-06. Archived from the original on 2024-05-31. Retrieved 2024-08-12. An exploit is a program, or piece of code, designed to find and take advantage of a security flaw or vulnerability in an application or computer system, typically for malicious purposes such as installing malware. An exploit is not malware itself, but rather it is a method used by cybercriminals to deliver malware.
+
+^ 
+Gonzalez, Joaquin Jay III; Kemp, Roger L. (2019-01-25). Cybersecurity: Current Writings on Threats and Protection. Jefferson, North Carolina: McFarland & Company. p. 241. ISBN 978-1-4766-3541-5. A technique to breach the security of a network or information system in violation of security policy.
+
+^ 
+"OWASP Secure Coding Practices". OWASP Foundation. Archived from the original on 2024-01-06. Retrieved 2024-08-12. To take advantage of a vulnerability. Typically this is an intentional action designed to compromise the software's security controls by leveraging a vulnerability.
+
+^ Indiana University, Bloomington; Samtani, Sagar; Chai, Yidong; Hefei University of Technology; Chen, Hsinchun; University of Arizona (2022-05-24). "Linking Exploits from the Dark Web to Known Vulnerabilities for Proactive Cyber Threat Intelligence: An Attention-Based Deep Structured Semantic Model". MIS Quarterly. 46 (2): 911–946. doi:10.25300/MISQ/2022/15392.
+
+^ 
+"Exploit Definition". Malwarebytes. 2024-04-15. Archived from the original on 2024-05-16. Retrieved 2024-08-12. A computer exploit is a type of malware that takes advantage of bugs or vulnerabilities, which cybercriminals use to gain illicit access to a system. These vulnerabilities are hidden in the code of the operating system and its applications just waiting to be discovered and put to use by cybercriminals. Commonly exploited software includes the operating system itself, browsers, Microsoft Office, and third-party applications.
+
+^ 
+"Obtain Capabilities: Exploits, Sub-technique T1588.005". MITRE ATT&CK®. 2020-10-15. Archived from the original on 2024-05-24. Retrieved 2024-08-12. Adversaries may buy, steal, or download exploits that can be used during targeting. An exploit takes advantage of a bug or vulnerability in order to cause unintended or unanticipated behavior to occur on computer hardware or software.
+
+^ Leyden, J. (16 November 2021). "Exploit-as-a-service: Cybercriminals exploring potential of leasing out zero-day vulnerabilities". The Daily Swig | Cybersecurity news and views. PortSwigger Ltd. Retrieved 18 December 2023.
+
+^ a b c "What Is An Exploit?". 2024-06-18. Retrieved 2025-03-15.
+
+^ "Exploits Database by Offensive Security". www.exploit-db.com.
+
+^ "Exploit Database | Rapid7". www.rapid7.com.
+
+^ "What Is the STRIDE Threat Model?". www.purestorage.com. Retrieved 2025-03-15.
+
+^ "National Vulnerability Database - Vulnerabilities". nvd.nist.gov. Retrieved 2025-03-15.
+
+^ "Sneaky Zero-Click Attacks Are a Hidden Menace". Wired. ISSN 1059-1028. Retrieved 2021-09-14.
+
+^ "The Stealthy iPhone Hacks That Apple Still Can't Stop". Wired. ISSN 1059-1028. Retrieved 2021-09-14.
+
+^ "A new NSO zero-click attack evades Apple's iPhone security protections, says Citizen Lab". TechCrunch. 24 August 2021. Archived from the original on 2021-08-24. Retrieved 2021-09-14.
+
+^ Ryan Gallagher (February 18, 2022). "Beware of 'Zero-Click' Hacks That Exploit Security Flaws in Phones' Operating Systems". Insurance Journal.
+
+^ "Why you should power off your phone once a week - according to the NSA". ZDNET. Retrieved 2025-03-01.
+
+^ "Telework and Mobile Security Guidance". www.nsa.gov. Retrieved 2025-03-01.
+
+^ Winder, Davey. "NSA Warns iPhone And Android Users To Turn It Off And On Again". Forbes. Retrieved 2025-03-01.
+
+^ "Why rebooting your phone daily is your best defense against zero-click attacks". ZDNET. Retrieved 2025-03-01.
+
+^ Taylor, Craig (2020-01-10). "Exploit Chain - CyberHoot Cyber Library". CyberHoot. Retrieved 2025-03-01.
+
+^ "Metasploit Basics – Part 3: Pivoting and Interfaces". Digital Bond.
+
+
+External links[edit]
+ Media related to Computer security exploits at Wikimedia Commons
+Authority control databases: National FranceBnF data
+vteInformation securityRelated security categories
+Computer security
+Automotive security
+Cybercrime
+Cybersex trafficking
+Computer fraud
+Cybergeddon
+Cyberterrorism
+Cyberwarfare
+Electronic warfare
+Information warfare
+Internet security
+Mobile security
+Network security
+Copy protection
+Digital rights management
+vectorial versionThreats
+Adware
+Advanced persistent threat
+Arbitrary code execution
+Backdoors
+Bombs
+Fork
+Logic
+Time
+Zip
+Hardware backdoors
+Code injection
+Crimeware
+Cross-site scripting
+Cross-site leaks
+DOM clobbering
+History sniffing
+Cryptojacking
+Botnets
+Data breach
+Drive-by download
+Browser Helper Objects
+Viruses
+Data scraping
+Denial-of-service attack
+Eavesdropping
+Email fraud
+Email spoofing
+Exploits
+Fraudulent dialers
+Hacktivism
+Infostealer
+Insecure direct object reference
+Keystroke loggers
+Malware
+Payload
+Phishing
+Voice
+Polymorphic engine
+Privilege escalation
+Ransomware
+Rootkits
+Scareware
+Shellcode
+Spamming
+Social engineering
+Spyware
+Software bugs
+Trojan horses
+Hardware Trojans
+Remote access trojans
+Vulnerability
+Web shells
+Wiper
+Worms
+SQL injection
+Rogue security software
+Zombie
+Defenses
+Application security
+Secure coding
+Secure by default
+Secure by design
+Misuse case
+Computer access control
+Authentication
+Multi-factor authentication
+Authorization
+Computer security software
+Antivirus software
+Security-focused operating system
+Data-centric security
+Software obfuscation
+Data masking
+Encryption
+Firewall
+Intrusion detection system
+Host-based intrusion detection system (HIDS)
+Anomaly detection
+Information security management
+Information risk management
+Security information and event management (SIEM)
+Runtime application self-protection
+Site isolation
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Exploit_(computer_security)&oldid=1287304250"
+Category: Computer security exploitsHidden categories: Articles with short descriptionShort description is different from WikidataWikipedia articles that may have off-topic sections from August 2024All articles that may have off-topic sectionsCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 25 April 2025, at 10:16 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Exploit (computer security)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1175 @@
+https://en.wikipedia.org/wiki/Unconventional_computing
+
+
+
+
+Unconventional computing - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Background
+
+
+
+
+Toggle Background subsection
+
+
+
+
+
+1.1
+Models of Computation
+
+
+
+
+
+
+
+
+1.2
+Mechanical computing
+
+
+
+
+
+
+
+
+1.3
+Analog computing
+
+
+
+
+
+
+
+
+1.4
+Electronic digital computers
+
+
+
+
+
+
+
+
+
+
+2
+Generic approaches
+
+
+
+
+Toggle Generic approaches subsection
+
+
+
+
+
+2.1
+Physical objects
+
+
+
+
+
+
+
+
+2.2
+Reservoir computing
+
+
+
+
+
+
+
+
+2.3
+Tangible computing
+
+
+
+
+
+
+
+
+2.4
+Human computing
+
+
+
+
+
+
+
+
+2.5
+Human-robot interaction
+
+
+
+
+
+
+
+
+2.6
+Swarm computing
+
+
+
+
+
+
+
+
+
+
+3
+Physics approaches
+
+
+
+
+Toggle Physics approaches subsection
+
+
+
+
+
+3.1
+Optical computing
+
+
+
+
+
+
+
+
+3.2
+Spintronics
+
+
+
+
+
+
+
+
+3.3
+Atomtronics
+
+
+
+
+
+
+
+
+3.4
+Fluidics
+
+
+
+
+
+
+
+
+3.5
+Quantum computing
+
+
+
+
+
+
+
+
+3.6
+Neuromorphic quantum computing
+
+
+
+
+
+
+
+
+3.7
+Superconducting computing
+
+
+
+
+
+
+
+
+3.8
+Microelectromechanical systems
+
+
+
+
+
+
+
+
+
+
+4
+Chemistry approaches
+
+
+
+
+Toggle Chemistry approaches subsection
+
+
+
+
+
+4.1
+Molecular computing
+
+
+
+
+
+
+
+
+
+
+5
+Biochemistry approaches
+
+
+
+
+Toggle Biochemistry approaches subsection
+
+
+
+
+
+5.1
+Peptide computing
+
+
+
+
+
+
+
+
+5.2
+DNA computing
+
+
+
+
+
+
+
+
+5.3
+Membrane computing
+
+
+
+
+
+
+
+
+
+
+6
+Biological approaches
+
+
+
+
+Toggle Biological approaches subsection
+
+
+
+
+
+6.1
+Neuroscience
+
+
+
+
+
+
+
+
+6.2
+Cellular automata and amorphous computing
+
+
+
+
+
+
+
+
+6.3
+Evolutionary computation
+
+
+
+
+
+
+
+
+
+
+7
+Mathematical approaches
+
+
+
+
+Toggle Mathematical approaches subsection
+
+
+
+
+
+7.1
+Ternary computing
+
+
+
+
+
+
+
+
+7.2
+Reversible computing
+
+
+
+
+
+
+
+
+7.3
+Chaos computing
+
+
+
+
+
+
+
+
+7.4
+Stochastic computing
+
+
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Unconventional computing
+
+
+
+2 languages
+
+
+
+
+العربيةEspañol
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computing by new or unusual methods
+Unconventional computing (also known as alternative computing or nonstandard computation) is computing by any of a wide range of new or unusual methods. 
+The term unconventional computation was coined by Cristian S. Calude and John Casti and used at the First International Conference on Unconventional Models of Computation[1] in 1998.[2]
+
+
+Background[edit]
+The general theory of computation allows for a variety of methods of computation. Computing technology was first developed using mechanical systems and then evolved into the use of electronic devices. Other fields of modern physics provide additional avenues for development.
+
+Models of Computation[edit]
+Main article: Model of computation
+A model of computation describes how the output of a mathematical function is computed given its input. The model describes how units of computations, memories, and communications are organized.[3] The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology. 
+A wide variety of models are commonly used; some closely resemble the workings of (idealized) conventional computers, while others do not. Some commonly used models are register machines, random-access machines, Turing machines, lambda calculus, rewriting systems, digital circuits, cellular automata, and Petri nets.
+
+Mechanical computing[edit]
+Main article: Mechanical computer
+Hamann Manus R, a digital mechanical computer
+Historically, mechanical computers were used in industry before the advent of the transistor.
+Mechanical computers retain some interest today, both in research and as analogue computers. Some mechanical computers have a theoretical or didactic relevance, such as billiard-ball computers, while hydraulic ones like the MONIAC or the Water integrator were used effectively.[4]
+While some are actually simulated, others are not.[clarification needed] No attempt is made[dubious – discuss] to build a functioning computer through the mechanical collisions of billiard balls. The domino computer is another theoretically interesting mechanical computing scheme.[why?]
+
+Analog computing[edit]
+Main article: analog computer
+An analog computer is a type of computer that uses analog signals, which are continuous physical quantities, to model and solve problems. These signals can be electrical, mechanical, or hydraulic in nature. Analog computers were widely used in scientific and industrial applications, and were often faster than digital computers at the time. However, they started to become obsolete in the 1950s and 1960s and are now mostly used in specific applications such as aircraft flight simulators and teaching control systems in universities.[5] Examples of analog computing devices include slide rules, nomograms, and complex mechanisms for process control and protective relays.[6] The Antikythera mechanism, a mechanical device that calculates the positions of planets and the Moon, and the planimeter, a mechanical integrator for calculating the area of an arbitrary 2D shape, are also examples of analog computing.
+
+Electronic digital computers[edit]
+Most modern computers are electronic computers with the Von Neumann architecture based on digital electronics, with extensive integration made possible following the invention of the transistor and the scaling of Moore's law.
+Unconventional computing is, according to a[which?] conference description,[7] "an interdisciplinary research area with the main goal to enrich or go beyond the standard models, such as the Von Neumann computer architecture and the Turing machine, which have dominated computer science for more than half a century". These methods model their computational operations based on non-standard paradigms, and are currently mostly in the research and development stage.
+This computing behavior can be "simulated"[clarification needed] using classical silicon-based micro-transistors or solid state computing technologies, but it aims to achieve a new kind of computing.
+
+Generic approaches[edit]
+These are unintuitive and pedagogical examples that a computer can be made out of almost anything.
+
+Physical objects[edit]
+Main articles: billiard-ball computer and domino computer
+An OR gate built from dominoes
+A billiard-ball computer is a type of mechanical computer that uses the motion of spherical billiard balls to perform computations. In this model, the wires of a Boolean circuit are represented by paths for the balls to travel on, the presence or absence of a ball on a path encodes the signal on that wire, and gates are simulated by collisions of balls at points where their paths intersect.[8][9]
+A domino computer is a mechanical computer that uses standing dominoes to represent the amplification or logic gating of digital signals. These constructs can be used to demonstrate digital concepts and can even be used to build simple information processing modules.[10][11]
+Both billiard-ball computers and domino computers are examples of unconventional computing methods that use physical objects to perform computation.
+
+Reservoir computing[edit]
+Main article: Reservoir computing
+Reservoir computing is a computational framework derived from recurrent neural network theory that involves mapping input signals into higher-dimensional computational spaces through the dynamics of a fixed, non-linear system called a reservoir. The reservoir, which can be virtual or physical, is made up of individual non-linear units that are connected in recurrent loops, allowing it to store information. Training is performed only at the readout stage, as the reservoir dynamics are fixed, and this framework allows for the use of naturally available systems, both classical and quantum mechanical, to reduce the effective computational cost. One key benefit of reservoir computing is that it allows for a simple and fast learning algorithm, as well as hardware implementation through physical reservoirs.[12][13]
+
+Tangible computing[edit]
+Main articles: Claytronics and Tangible user interface
+SandScape, a tangible computing device installed in the Children's Creativity Museum in San Francisco
+Tangible computing refers to the use of physical objects as user interfaces for interacting with digital information. This approach aims to take advantage of the human ability to grasp and manipulate physical objects in order to facilitate collaboration, learning, and design. Characteristics of tangible user interfaces include the coupling of physical representations to underlying digital information and the embodiment of mechanisms for interactive control.[14] There are five defining properties of tangible user interfaces, including the ability to multiplex both input and output in space, concurrent access and manipulation of interface components, strong specific devices, spatially aware computational devices, and spatial reconfigurability of devices.[15]
+
+Human computing[edit]
+Main article: Human computer
+The term "human computer" refers to individuals who perform mathematical calculations manually, often working in teams and following fixed rules. In the past, teams of people were employed to perform long and tedious calculations, and the work was divided to be completed in parallel. The term has also been used more recently to describe individuals with exceptional mental arithmetic skills, also known as mental calculators.[16]
+
+Human-robot interaction[edit]
+Main articles: Human–robot interaction and Cobot
+Human-robot interaction.
+Human-robot interaction, or HRI, is the study of interactions between humans and robots. It involves contributions from fields such as artificial intelligence, robotics, and psychology. Cobots, or collaborative robots, are designed for direct interaction with humans within shared spaces and can be used for a variety of tasks,[17] including information provision, logistics, and unergonomic tasks in industrial environments.
+
+Swarm computing[edit]
+Main articles: Swarm robotics and swarm intelligence
+Swarm robotics is a field of study that focuses on the coordination and control of multiple robots as a system. Inspired by the emergent behavior observed in social insects, swarm robotics involves the use of relatively simple individual rules to produce complex group behaviors through local communication and interaction with the environment.[18] This approach is characterized by the use of large numbers of simple robots and promotes scalability through the use of local communication methods such as radio frequency or infrared.
+
+Physics approaches[edit]
+Optical computing[edit]
+Main article: Optical computing
+Realization of a photonic controlled-NOT gate for use in quantum computing
+Optical computing is a type of computing that uses light waves, often produced by lasers or incoherent sources, for data processing, storage, and communication. While this technology has the potential to offer higher bandwidth than traditional computers, which use electrons, optoelectronic devices can consume a significant amount of energy in the process of converting electronic energy to photons and back. All-optical computers aim to eliminate the need for these conversions, leading to reduced electrical power consumption.[19] Applications of optical computing include synthetic-aperture radar and optical correlators, which can be used for object detection, tracking, and classification.[20][21]
+
+Spintronics[edit]
+Main article: Spintronics
+Spintronics is a field of study that involves the use of the intrinsic spin and magnetic moment of electrons in solid-state devices.[22][23][24] It differs from traditional electronics in that it exploits the spin of electrons as an additional degree of freedom, which has potential applications in data storage and transfer,[25] as well as quantum and neuromorphic computing. Spintronic systems are often created using dilute magnetic semiconductors and Heusler alloys.
+
+Atomtronics[edit]
+Main article: Atomtronics
+Atomtronics is a form of computing that involves the use of ultra-cold atoms in coherent matter-wave circuits, which can have components similar to those found in electronic or optical systems.[26][27] These circuits have potential applications in several fields, including fundamental physics research and the development of practical devices such as sensors and quantum computers.
+
+Fluidics[edit]
+Main article: Fluidics
+A flip flop made using fluidics.
+Fluidics, or fluidic logic, is the use of fluid dynamics to perform analog or digital operations in environments where electronics may be unreliable, such as those exposed to high levels of electromagnetic interference or ionizing radiation. Fluidic devices operate without moving parts and can use nonlinear amplification, similar to transistors in electronic digital logic. Fluidics are also used in nanotechnology and military applications.
+
+Quantum computing[edit]
+Main article: Quantum computing
+Quantum computing, perhaps the most well-known and developed unconventional computing method, is a type of computation that utilizes the principles of quantum mechanics, such as superposition and entanglement, to perform calculations.[28][29] Quantum computers use qubits, which are analogous to classical bits but can exist in multiple states simultaneously, to perform operations. While current quantum computers may not yet outperform classical computers in practical applications, they have the potential to solve certain computational problems, such as integer factorization, significantly faster than classical computers. However, there are several challenges to building practical quantum computers, including the difficulty of maintaining qubits' quantum states and the need for error correction.[30][31] Quantum complexity theory is the study of the computational complexity of problems with respect to quantum computers.
+
+Neuromorphic quantum computing[edit]
+Neuromorphic Quantum Computing[32][33] (abbreviated as 'n.quantum computing') is an unconventional type of computing that uses neuromorphic computing to perform quantum operations. It was suggested that quantum algorithms, which are algorithms that run on a realistic model of quantum computation, can be computed equally efficiently with neuromorphic quantum computing.[34][35][36][37][38]
+
+Both traditional quantum computing and neuromorphic quantum computing are physics-based unconventional computing approaches to computations and don't follow the von Neumann architecture. They both construct a system (a circuit) that represents the physical problem at hand, and then leverage their respective physics properties of the system to seek the "minimum". Neuromorphic quantum computing and quantum computing share similar physical properties during computation[38][39].A quantum computer.
+Superconducting computing[edit]
+Main article: Superconducting computing
+Superconducting computing is a form of cryogenic computing that utilizes the unique properties of superconductors, including zero resistance wires and ultrafast switching, to encode, process, and transport data using single flux quanta. It is often used in quantum computing and requires cooling to cryogenic temperatures for operation.
+
+Microelectromechanical systems[edit]
+Main articles: Microelectromechanical systems and Nanoelectromechanical systems
+Microelectromechanical systems (MEMS) and nanoelectromechanical systems (NEMS) are technologies that involve the use of microscopic devices with moving parts, ranging in size from micrometers to nanometers. These devices typically consist of a central processing unit (such as an integrated circuit) and several components that interact with their surroundings, such as sensors.[40] MEMS and NEMS technology differ from molecular nanotechnology or molecular electronics in that they also consider factors such as surface chemistry and the effects of ambient electromagnetism and fluid dynamics. Applications of these technologies include accelerometers and sensors for detecting chemical substances.[41]
+
+Chemistry approaches[edit]
+Graphical representation of a rotaxane, useful as a molecular switch
+Molecular computing[edit]
+Main articles: Molecular scale electronics, Chemical computing, and Molecular logic gate
+Molecular computing is an unconventional form of computing that utilizes chemical reactions to perform computations. Data is represented by variations in chemical concentrations,[42] and the goal of this type of computing is to use the smallest stable structures, such as single molecules, as electronic components. This field, also known as chemical computing or reaction-diffusion computing, is distinct from the related fields of conductive polymers and organic electronics, which use molecules to affect the bulk properties of materials.
+
+Biochemistry approaches[edit]
+Peptide computing[edit]
+Main article: Peptide computing
+Peptide computing is a computational model that uses peptides and antibodies to solve NP-complete problems and has been shown to be computationally universal. It offers advantages over DNA computing, such as a larger number of building blocks and more flexible interactions, but has not yet been practically realized due to the limited availability of specific monoclonal antibodies.[43][44]
+
+DNA computing[edit]
+Main article: DNA computing
+DNA computing is a branch of unconventional computing that uses DNA and molecular biology hardware to perform calculations. It is a form of parallel computing that can solve certain specialized problems faster and more efficiently than traditional electronic computers. While DNA computing does not provide any new capabilities in terms of computability theory, it can perform a high number of parallel computations simultaneously. However, DNA computing has slower processing speeds, and it is more difficult to analyze the results compared to digital computers.
+
+Membrane computing[edit]
+Main article: Membrane computing
+Nine Region Membrane Computer
+Membrane computing, also known as P systems,[45] is a subfield of computer science that studies distributed and parallel computing models based on the structure and function of biological membranes. In these systems, objects such as symbols or strings are processed within compartments defined by membranes, and the communication between compartments and with the external environment plays a critical role in the computation. P systems are hierarchical and can be represented graphically, with rules governing the production, consumption, and movement of objects within and between regions. While these systems have largely remained theoretical,[46] some have been shown to have the potential to solve NP-complete problems and have been proposed as hardware implementations for unconventional computing.
+
+Biological approaches[edit]
+Main articles: Biologically-inspired computing, natural computing, and Biological computing
+Biological computing, also known as bio-inspired computing or natural computation, is the study of using models inspired by biology to solve computer science problems, particularly in the fields of artificial intelligence and machine learning. It encompasses a range of computational paradigms including artificial neural networks, evolutionary algorithms, swarm intelligence, artificial immune systems, and more, which can be implemented using traditional electronic hardware or alternative physical media such as biomolecules or trapped-ion quantum computing devices. It also includes the study of understanding biological systems through engineering semi-synthetic organisms and viewing natural processes as information processing. The concept of the universe itself as a computational mechanism has also been proposed.[47][48]
+
+Neuroscience[edit]
+Main articles: Neuromorphic computing and wetware computer
+Neuromorphic computing involves using electronic circuits to mimic the neurobiological architectures found in the human nervous system, with the goal of creating artificial neural systems that are inspired by biological ones.[49][50] These systems can be implemented using a variety of hardware, such as memristors,[51] spintronic memories, and transistors,[52][53] and can be trained using a range of software-based approaches, including error backpropagation[54] and canonical learning rules.[55] The field of neuromorphic engineering seeks to understand how the design and structure of artificial neural systems affects their computation, representation of information, adaptability, and overall function, with the ultimate aim of creating systems that exhibit similar properties to those found in nature. Wetware computers, which are composed of living neurons, are a conceptual form of neuromorphic computing that has been explored in limited prototypes.[56] Electron microscopy has already been imaging high-resolution anatomical neural connection diagrams,[57] and semiconductor chip based intracellular recording at scale can generate physical neural connection maps that specify connection types and strengths,[58] and these imaging and recording technologies can inform the neuromorphic system design.
+
+Cellular automata and amorphous computing[edit]
+Main articles: Cellular automata and Amorphous computing
+Gosper's Glider Gun creating "gliders" in the cellular automaton Conway's Game of Life[59]
+Cellular automata are discrete models of computation consisting of a grid of cells in a finite number of states, such as on and off. The state of each cell is determined by a fixed rule based on the states of the cell and its neighbors. There are four primary classifications of cellular automata, ranging from patterns that stabilize into homogeneity to those that become extremely complex and potentially Turing-complete. Amorphous computing refers to the study of computational systems using large numbers of parallel processors with limited computational ability and local interactions, regardless of the physical substrate. Examples of naturally occurring amorphous computation can be found in developmental biology, molecular biology, neural networks, and chemical engineering. The goal of amorphous computation is to understand and engineer novel systems through the characterization of amorphous algorithms as abstractions.
+
+Evolutionary computation[edit]
+Main article: Evolutionary computation
+Evolutionary computation is a type of artificial intelligence and soft computing that uses algorithms inspired by biological evolution to find optimized solutions to a wide range of problems. It involves generating an initial set of candidate solutions, stochastically removing less desired solutions, and introducing small random changes to create a new generation. The population of solutions is subjected to natural or artificial selection and mutation, resulting in evolution towards increased fitness according to the chosen fitness function. Evolutionary computation has proven effective in various problem settings and has applications in both computer science and evolutionary biology.
+
+Mathematical approaches[edit]
+Ternary computing[edit]
+Main article: Ternary computing
+Ternary computing is a type of computing that uses ternary logic, or base 3, in its calculations rather than the more common binary system. Ternary computers use trits, or ternary digits, which can be defined in several ways, including unbalanced ternary, fractional unbalanced ternary, balanced ternary, and unknown-state logic. Ternary quantum computers use qutrits instead of trits. Ternary computing has largely been replaced by binary computers, but it has been proposed for use in high-speed, low-power consumption devices using the Josephson junction as a balanced ternary memory cell.
+
+Reversible computing[edit]
+Main article: Reversible computing
+Reversible computing is a type of unconventional computing where the computational process can be reversed to some extent. In order for a computation to be reversible, the relation between states and their successors must be one-to-one, and the process must not result in an increase in physical entropy. Quantum circuits are reversible as long as they do not collapse quantum states, and reversible functions are bijective, meaning they have the same number of inputs as outputs.[60]
+
+Chaos computing[edit]
+Main article: Chaos computing
+Chaos computing is a type of unconventional computing that utilizes chaotic systems to perform computation. Chaotic systems can be used to create logic gates and can be rapidly switched between different patterns, making them useful for fault-tolerant applications and parallel computing. Chaos computing has been applied to various fields such as meteorology, physiology, and finance.
+
+Stochastic computing[edit]
+Main article: Stochastic computing
+Stochastic computing is a method of computation that represents continuous values as streams of random bits and performs complex operations using simple bit-wise operations on the streams. It can be viewed as a hybrid analog/digital computer and is characterized by its progressive precision property, where the precision of the computation increases as the bit stream is extended. Stochastic computing can be used in iterative systems to achieve faster convergence, but it can also be costly due to the need for random bit stream generation and is vulnerable to failure if the assumption of independent bit streams is not met. It is also limited in its ability to perform certain digital functions.
+
+See also[edit]
+Network computing (disambiguation)
+WDR paper computer
+MONIAC hydraulic computer
+Hypercomputation
+References[edit]
+
+
+^ "Unconventional Models of Computation 1998".
+
+^ C.S. Calude. "Unconventional Computing: A Brief Subjective History, CDMTCS Report 480, 2015".
+
+^ Savage, John E. (1998). Models Of Computation: Exploring the Power of Computing. Addison-Wesley. ISBN 978-0-201-89539-1.
+
+^ Penrose, Roger: The Emperor's New Mind. Oxford University Press, 1990. See also corresponding article on it.
+
+^ Johnston, Sean F. (2006). Holographic Visions: A History of New Science. OUP Oxford. p. 90. ISBN 978-0-19-151388-6.
+
+^ "Gears of war: When mechanical analog computers ruled the waves". 2014-03-18. Archived from the original on 2018-09-08. Retrieved 2017-06-14.
+
+^ "Unconventional computation Conference 2007".
+
+^ Fredkin, Edward; Toffoli, Tommaso (1982), "Conservative logic", International Journal of Theoretical Physics, 21 (3–4): 219–253, Bibcode:1982IJTP...21..219F, doi:10.1007/BF01857727, MR 0657156, S2CID 37305161.
+
+^ Durand-Lose, Jérôme (2002), "Computing inside the billiard ball model", in Adamatzky, Andrew (ed.), Collision-Based Computing, Springer-Verlag, pp. 135–160, doi:10.1007/978-1-4471-0129-1_6, ISBN 978-1-4471-0129-1.
+
+^ "Domino computer - Everything2.com". everything2.com. Retrieved 2024-05-14.
+
+^ Domino computers Archived August 16, 2006, at the Wayback Machine, a detailed description written by David Johnston
+
+^ Tanaka, Gouhei; Yamane, Toshiyuki; Héroux, Jean Benoit; Nakane, Ryosho; Kanazawa, Naoki; Takeda, Seiji; Numata, Hidetoshi; Nakano, Daiju; Hirose, Akira (2019-07-01). "Recent advances in physical reservoir computing: A review". Neural Networks. 115: 100–123. arXiv:1808.04962. doi:10.1016/j.neunet.2019.03.005. ISSN 0893-6080. PMID 30981085.
+
+^ Röhm, André; Lüdge, Kathy (2018-08-03). "Multiplexed networks: reservoir computing with virtual and real nodes". Journal of Physics Communications. 2 (8): 085007. arXiv:1802.08590. Bibcode:2018JPhCo...2h5007R. doi:10.1088/2399-6528/aad56d. ISSN 2399-6528.
+
+^ Ishii, Hiroshi (2008). "Tangible bits". Proceedings of the 2nd international conference on Tangible and embedded interaction - TEI '08. p. xv. doi:10.1145/1347390.1347392. ISBN 978-1-60558-004-3. S2CID 18166868.
+
+^ Kim, Mi Jeong; Maher, Mary Lou (30 May 2008). "The Impact of Tangible User Interfaces on Designers' Spatial Cognition". Human–Computer Interaction. 23 (2): 101–137. doi:10.1080/07370020802016415. S2CID 1268154.
+
+^ "computer". Oxford English Dictionary (Third ed.). Oxford University Press. March 2008. 1613 'R. B.' Yong Mans Gleanings 1, I have read the truest computer of Times, and the best Arithmetician that ever breathed, and he reduceth thy dayes into a short number.
+
+^ "I, Cobot: Future collaboration of man and machine" The Manufacturer (2015-11-15). Retrieved on 2016-01-19
+
+^ Dorigo, Marco; Birattari, Mauro; Brambill, Manuele (2014). "Swarm Robotics". Scholarpedia. 9 (1): 1463. Bibcode:2014SchpJ...9.1463D. doi:10.4249/scholarpedia.1463.
+
+^ Nolte, D.D. (2001). Mind at Light Speed: A New Kind of Intelligence. Simon and Schuster. p. 34. ISBN 978-0-7432-0501-6.
+
+^ Feitelson, Dror G. (1988). "Chapter 3: Optical Image and Signal Processing". Optical Computing: A Survey for Computer Scientists. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-06112-4.
+
+^ Kim, S. K.; Goda, K.; Fard, A. M.; Jalali, B. (2011). "Optical time-domain analog pattern correlator for high-speed real-time image recognition". Optics Letters. 36 (2): 220–2. Bibcode:2011OptL...36..220K. doi:10.1364/ol.36.000220. PMID 21263506. S2CID 15492810.
+
+^ Wolf, S. A.; Chtchelkanova, A. Y.; Treger, D. M. (2006). "Spintronics—A retrospective and perspective". IBM Journal of Research and Development. 50: 101–110. doi:10.1147/rd.501.0101.
+
+^ "Physics Profile: "Stu Wolf: True D! Hollywood Story"". Archived from the original on 2011-04-18. Retrieved 2022-12-30.
+
+^ Spintronics: A Spin-Based Electronics Vision for the Future. Sciencemag.org (16 November 2001). Retrieved on 21 October 2013.
+
+^ Bhatti, S.; et al. (2017). "Spintronics based random access memory: a review". Materials Today. 20 (9): 530–548. doi:10.1016/j.mattod.2017.07.007. hdl:10356/146755.
+
+^ Amico, L.; Boshier, M.; Birkl, G.; Minguzzi, A.; Miniatura, C.; Kwek, L.-C.; Aghamalyan, D.; Ahufinger, V.; Anderson, D.; Andrei, N.; Arnold, A. S.; Baker, M.; Bell, T. A.; Bland, T.; Brantut, J. P. (2021). "Roadmap on Atomtronics: State of the art and perspective". AVS Quantum Science. 3 (3): 039201. arXiv:2008.04439. Bibcode:2021AVSQS...3c9201A. doi:10.1116/5.0026178. ISSN 2639-0213. S2CID 235417597.
+
+^ Amico, Luigi; Anderson, Dana; Boshier, Malcolm; Brantut, Jean-Philippe; Kwek, Leong-Chuan; Minguzzi, Anna; von Klitzing, Wolf (2022-06-14). "Colloquium: Atomtronic circuits: From many-body physics to quantum technologies". Reviews of Modern Physics. 94 (4): 041001. arXiv:2107.08561. Bibcode:2022RvMP...94d1001A. doi:10.1103/RevModPhys.94.041001. S2CID 249642063.
+
+^ Hidary, Jack (2019). Quantum computing: an applied approach. Cham: Springer. p. 3. ISBN 978-3-030-23922-0. OCLC 1117464128.
+
+^ Nielsen, Michael; Chuang, Isaac (2010). Quantum Computation and Quantum Information (10th anniversary ed.). doi:10.1017/CBO9780511976667. ISBN 978-0-511-99277-3. OCLC 700706156. S2CID 59717455.
+
+^ Franklin, Diana; Chong, Frederic T. (2004). "Challenges in Reliable Quantum Computing". Nano, Quantum and Molecular Computing. pp. 247–266. doi:10.1007/1-4020-8068-9_8. ISBN 1-4020-8067-0.
+
+^ Pakkin, Scott; Coles, Patrick (10 June 2019). "The Problem with Quantum Computers". Scientific American.
+
+^ "Neuromrophic Quantum Computing | Quromorphic Project | Fact Sheet | H2020". CORDIS | European Commission. doi:10.3030/828826. Retrieved 2024-03-18.
+
+^ Pehle, Christian; Wetterich, Christof (2021-03-30), "Neuromorphic quantum computing", Physical Review E, 106 (4): 045311, arXiv:2005.01533, Bibcode:2022PhRvE.106d5311P, doi:10.1103/PhysRevE.106.045311
+
+^ Carleo, Giuseppe; Troyer, Matthias (2017-02-10). "Solving the quantum many-body problem with artificial neural networks". Science. 355 (6325): 602–606. arXiv:1606.02318. Bibcode:2017Sci...355..602C. doi:10.1126/science.aag2302. ISSN 0036-8075. PMID 28183973.
+
+^ Torlai, Giacomo; Mazzola, Guglielmo; Carrasquilla, Juan; Troyer, Matthias; Melko, Roger; Carleo, Giuseppe (2018-02-26). "Neural-network quantum state tomography". Nature Physics. 14 (5): 447–450. arXiv:1703.05334. Bibcode:2018NatPh..14..447T. doi:10.1038/s41567-018-0048-5. ISSN 1745-2481.
+
+^ Sharir, Or; Levine, Yoav; Wies, Noam; Carleo, Giuseppe; Shashua, Amnon (2020-01-16). "Deep Autoregressive Models for the Efficient Variational Simulation of Many-Body Quantum Systems". Physical Review Letters. 124 (2): 020503. arXiv:1902.04057. Bibcode:2020PhRvL.124b0503S. doi:10.1103/PhysRevLett.124.020503. PMID 32004039.
+
+^ Broughton, Michael; Verdon, Guillaume; McCourt, Trevor; Martinez, Antonio J.; Yoo, Jae Hyeon; Isakov, Sergei V.; Massey, Philip; Halavati, Ramin; Niu, Murphy Yuezhen (2021-08-26), TensorFlow Quantum: A Software Framework for Quantum Machine Learning, arXiv:2003.02989
+
+^ a b Di Ventra, Massimiliano (2022-03-23), MemComputing vs. Quantum Computing: some analogies and major differences, arXiv:2203.12031
+
+^ Wilkinson, Samuel A.; Hartmann, Michael J. (2020-06-08). "Superconducting quantum many-body circuits for quantum simulation and computing". Applied Physics Letters. 116 (23). arXiv:2003.08838. Bibcode:2020ApPhL.116w0501W. doi:10.1063/5.0008202. ISSN 0003-6951.
+
+^ Waldner JB (2008). Nanocomputers and Swarm Intelligence. London: ISTE John Wiley & Sons. p. 205. ISBN 978-1-84821-009-7.
+
+^ Hughes, James E. Jr.; Ventra, Massimiliano Di; Evoy, Stephane (2004). Introduction to Nanoscale Science and Technology (Nanostructure Science and Technology). Berlin: Springer. ISBN 978-1-4020-7720-3.
+
+^ Kumar, Ambar; Mahato, Akash Kumar; Singh, Akashdeep (2014). "Chemical Computing: The different way of computing" (PDF). International Journal of Innovative Research in Technology. 1 (6). ISSN 2349-6002. Archived from the original (PDF) on 2015-06-15. Retrieved 2015-06-14.
+
+^ M. Sakthi Balan; Kamala Krithivasan; Y. Sivasubramanyam (2002). "Peptide Computing - Universality and Complexity". DNA Computing. Lecture Notes in Computer Science. Vol. 2340. pp. 290–299. doi:10.1007/3-540-48017-X_27. ISBN 978-3-540-43775-8.
+
+^ Hubert Hug & Rainer Schuler (2001). "Strategies for the development of a peptide computer". Bioinformatics. 17 (4): 364–368. doi:10.1093/bioinformatics/17.4.364. PMID 11301306.
+
+^ Păun, Gheorghe. "Introduction to Membrane Computing" (PDF). Archived (PDF) from the original on 2011-07-22. Retrieved 2022-12-30.
+
+^ U.S. patent 20,090,124,506
+
+^ G.Rozenberg, T.Back, J.Kok, Editors, Handbook of Natural Computing, Springer Verlag, 2012
+
+^ A.Brabazon, M.O'Neill, S.McGarraghy. Natural Computing Algorithms, Springer Verlag, 2015
+
+^ Ham, Donhee; Park, Hongkun; Hwang, Sungwoo; Kim, Kinam (2021). "Neuromorphic electronics based on copying and pasting the brain". Nature Electronics. 4 (9): 635–644. doi:10.1038/s41928-021-00646-1. ISSN 2520-1131. S2CID 240580331.
+
+^ van de Burgt, Yoeri; Lubberman, Ewout; Fuller, Elliot J.; Keene, Scott T.; Faria, Grégorio C.; Agarwal, Sapan; Marinella, Matthew J.; Alec Talin, A.; Salleo, Alberto (April 2017). "A non-volatile organic electrochemical device as a low-voltage artificial synapse for neuromorphic computing". Nature Materials. 16 (4): 414–418. Bibcode:2017NatMa..16..414V. doi:10.1038/nmat4856. ISSN 1476-4660. PMID 28218920.
+
+^ Maan, A. K.; Jayadevi, D. A.; James, A. P. (2016-01-01). "A Survey of Memristive Threshold Logic Circuits". IEEE Transactions on Neural Networks and Learning Systems. PP (99): 1734–1746. arXiv:1604.07121. Bibcode:2016arXiv160407121M. doi:10.1109/TNNLS.2016.2547842. ISSN 2162-237X. PMID 27164608. S2CID 1798273.
+
+^ Zhou, You; Ramanathan, S. (2015-08-01). "Mott Memory and Neuromorphic Devices". Proceedings of the IEEE. 103 (8): 1289–1310. doi:10.1109/JPROC.2015.2431914. ISSN 0018-9219. S2CID 11347598.
+
+^ Alzahrani, Rami A.; Parker, Alice C. (2020-07-28). Neuromorphic Circuits With Neural Modulation Enhancing the Information Content of Neural Signaling. International Conference on Neuromorphic Systems 2020. doi:10.1145/3407197.3407204. S2CID 220794387.
+
+^ Eshraghian, Jason K.; Ward, Max; Neftci, Emre; Wang, Xinxin; Lenz, Gregor; Dwivedi, Girish; Bennamoun, Mohammed; Jeong, Doo Seok; Lu, Wei D. (1 October 2021). "Training Spiking Neural Networks Using Lessons from Deep Learning". arXiv:2109.12894 [cs.NE].
+
+^ "Hananel-Hazan/bindsnet: Simulation of spiking neural networks (SNNs) using PyTorch". GitHub. 31 March 2020.
+
+^ Sincell, Mark. "Future Tech". Discover. Retrieved 2024-03-01.
+
+^ Devineni, Anita (October 2024). "A complete map of the fruit-fly". Nature. 634: 35. doi:10.1038/d41586-024-03029-6.
+
+^ Wang, Jun; Jung, Woo-Bin; Gertner, Rona; Park, Hongkun; Ham, Donhee. "Synaptic connectivity mapping among thousands of neurons via parallelized intracellular recording with a microhole electrode array". Nature Biomedical Engineering. doi:10.1038/s41551-025-01352-5.
+
+^ Daniel Dennett (1995), Darwin's Dangerous Idea, Penguin Books, London, ISBN 978-0-14-016734-4, ISBN 0-14-016734-X
+
+^ Colin P. Williams (2011). Explorations in Quantum Computing. Springer. pp. 25–29. ISBN 978-1-84628-887-6.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Unconventional_computing&oldid=1287148094"
+Category: Classes of computersHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataWikipedia articles needing clarification from December 2016All accuracy disputesArticles with disputed statements from December 2016All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from December 2016
+
+
+
+
+
+
+ This page was last edited on 24 April 2025, at 09:12 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Unconventional computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

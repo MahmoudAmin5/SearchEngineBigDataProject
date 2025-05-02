@@ -1,0 +1,778 @@
+https://en.wikipedia.org/wiki/Point-contact_transistor
+
+
+
+
+Point-contact transistor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Forming
+
+
+
+
+
+
+
+
+2
+Characteristics
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+Further reading
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Point-contact transistor
+
+
+
+11 languages
+
+
+
+
+العربيةCatalàDeutschEspañolفارسیBahasa Indonesia日本語PolskiPortuguêsRomânăTürkçe
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+First successful type of transistor, developed in 1947
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Point-contact transistor" – news · newspapers · books · scholar · JSTOR (October 2010) (Learn how and when to remove this message)
+A stylized replica of the point-contact transistor invented at Bell Labs on December 23, 1947
+The point-contact transistor was the first type of transistor to be successfully demonstrated. It was developed by research scientists John Bardeen and Walter Brattain at Bell Laboratories in December 1947.[1][2] They worked in a group led by physicist William Shockley. The group had been working together on experiments and theories of electric field effects in solid state materials, with the aim of replacing vacuum tubes with a smaller device that consumed less power.
+The critical experiment, carried out on December 16, 1947, consisted of a block of germanium, a semiconductor, with two very closely spaced gold contacts held against it by a spring. Brattain attached a small strip of gold foil over the point of a plastic triangle—a configuration which is essentially a point-contact diode. He then carefully sliced through the gold at the tip of the triangle. This produced two electrically isolated gold contacts very close to each other.
+
+An early model of a transistor
+The piece of germanium used a surface layer with an excess of electrons. When an electric signal traveled in through the gold foil, it injected electron holes (points which lack electrons). This created a thin layer which had a scarcity of electrons.
+A small positive current applied to one of the two contacts had an influence on the current which flowed between the other contact and the base upon which the block of germanium was mounted. In fact, a small change in the first contact current caused a greater change in the second contact current; thus it was an amplifier. The low-current input terminal into the point-contact transistor is the emitter, while the output high-current terminals are the base and collector. This differs from the later type of bipolar junction transistor invented in 1951 that operates as transistors still do, with the low-current input terminal as the base and the two high-current output terminals as the emitter and collector.
+The point-contact transistor was commercialized and sold by Western Electric and others but was eventually superseded by the bipolar junction transistor, which was easier to manufacture and more rugged. The point-contact transistor did still remain in production until around 1966[citation needed], by which time the silicon planar transistor was dominating the market.
+
+
+Forming[edit]
+A model of the first commercially available point-contact transistor
+While point-contact transistors usually worked fine when the metal contacts were simply placed close together on the germanium base crystal, it was desirable to obtain as high an α current gain as possible.
+To obtain a higher α current gain in a point-contact transistor, a brief high-current pulse was used to modify the properties of the collector point of contact, a technique called 'electrical forming'. Usually this was done by charging a capacitor of a specified value to a specified voltage then discharging it between the collector and the base electrodes. Forming had a significant failure rate, so many commercial encapsulated transistors had to be discarded. While the effects of forming were understood empirically, the exact physics of the process could never be adequately studied and thus no clear theory was ever developed to explain it or provide guidance on improving it.
+Unlike later semiconductor devices, it was possible for an amateur to make a point-contact transistor, starting with a germanium point-contact diode as a source of material (even a burnt-out diode could be used; and the transistor could be re-formed if damaged, several times if necessary).[3]
+
+Characteristics[edit]
+Some characteristics of point-contact transistors differ from the slightly later junction transistors:
+
+The common base current gain (or α) of a point-contact transistor is usually around 2 to 3,[4] whereas α of bipolar junction transistor (BJT) cannot exceed 1. The common emitter current gain (or β) of a point-contact transistor does not usually exceed 1,[4] whereas β of a BJT is typically between 20 and 200.
+Negative differential resistance. Point-contact transistors connected in the common emitter amplifier configuration will display negative output resistance, which may be undesirable for voltage/current amplifier applications. Switching circuits based around point-contact transistors often rely on negative differential resistance.[5]: 132, 149–163 
+Until the development of the surface barrier transistor in 1953 point-contact transistors were the fastest transistors available,[5]: 71, 267 [6]: 227  some operating in the lower part of the VHF band when the fastest junction transistors could still only barely operate at a few MHz.
+Moisture attack was less damaging to point-contact transistors than to junction transistors,[6]: 386  because their collector reverse resistance is lower and cutoff collector current higher.
+When used in the saturated mode in digital logic, in some circuit designs (but not all) they latched in the "on" state,[citation needed] making it necessary to remove power for a short time in each machine cycle to return them to the off-state.
+See also[edit]
+Crystal radio
+Duodiode
+Transistron
+References[edit]
+
+
+^ Hoddeson, Lillian (1981). "The Discovery of the Point-Contact Transistor". Historical Studies in the Physical Sciences. 12 (1). University of California Press: 41–76. doi:10.2307/27757489. JSTOR 27757489.
+
+^ Cressler, John (2017). Silicon Earth: Introduction to Microelectronics and Nanotechnology (2 ed.). CRC Press. p. 3-22. ISBN 9781351830201.
+
+^ Home-Made Transistors: P B Helsdon, Wirless World, January 1954. Article starts "It is quite practicable to make point-contact transistors at home which compare quite well with those advertised by professional manufacturers."
+
+^ a b The Bell System Technical Journal Volume XXXV Number 4, Copyright 1956 American Telephone and Telegraph Company p.770-771
+
+^ a b Transistors: Theory and Applications Coblenz & Owens Copyright 1955 McGraw Hill p. 71, p.132, p.149-163 p. 267
+
+^ a b Bell Telephone Labs Transistor Technology Volume 1 Bridgers, Staff & Shive Copyright 1958 Van Nostrand Company, Inc.
+
+
+Further reading[edit]
+Bardeen, J.; Brattain, W.H. (15 July 1948). "The Transistor, A Semiconductor Triode". Physical Review. 74 (2). American Physical Society: 230–231. Bibcode:1948PhRv...74..230B. doi:10.1103/physrev.74.230.
+External links[edit]
+The Point-contact Transistor
+PBS article
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal-oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck–boost
+Split-pi
+Ćuk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Point-contact_transistor&oldid=1278095349"
+Categories: Bipolar transistorsComputer-related introductions in 1947Transistor typesHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from October 2010All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from July 2024
+
+
+
+
+
+
+ This page was last edited on 28 February 2025, at 13:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Point-contact transistor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

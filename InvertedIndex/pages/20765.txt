@@ -1,0 +1,739 @@
+https://en.wikipedia.org/wiki/Internet_appliance
+
+
+
+
+Internet appliance - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Notable devices
+
+
+
+
+Toggle Notable devices subsection
+
+
+
+
+
+2.1
+Current
+
+
+
+
+
+
+
+
+2.2
+Discontinued
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Internet appliance
+
+
+
+6 languages
+
+
+
+
+العربية한국어РусскийSuomiУкраїнськаاردو
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Not to be confused with information appliance or computer appliance.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Internet appliance" – news · newspapers · books · scholar · JSTOR (September 2008) (Learn how and when to remove this message)
+A VTech Model 80-36447, a type of Internet Appliance. Note the button on the console that would link the user to the Yahoo! webportal.
+An Internet appliance is a consumer device whose main function is easy access to Internet services such as WWW or e-mail.[1] The term was popularized in the 1990s, when it somewhat overlapped in meaning with an information appliance, desktop computer, network computer, or even thin client,[2] but now it has fallen out of general use.
+Internet appliances were contrasted with any general purpose computer, but unlike personal computers, internet appliances were low cost and low margin products, usually using highly optimised low power silicon specifically built for internet use. Modern smart phones and tablet computers do approximately the same things, but are more powerful, more successful in the market, and generally not classified as Internet appliances.
+
+
+History[edit]
+Internet appliances were promoted by a variety of technology companies during the 1990s but, as the price of full-featured computers dropped, never met the market expectations. Jim Louderback would later describe the concept as one of the "eight biggest tech flops ever".
+An Internet tablet is a type of a mobile Internet appliance. Examples include the Sony Airboard[3] and the Nokia Internet Tablet series (including the Nokia N900).
+Early in the 21st century a new breed of household devices, such as Vonage Internet Phones, PenguinRadio's Internet radio, and IPTV boxes, began to use the broadband connections in PC-independent ways.
+
+Notable devices[edit]
+Current[edit]
+aigo MID
+Chromebook
+Litl Webbook
+MailBug
+Personal Internet Communicator
+Discontinued[edit]
+3Com Audrey
+Amstrad E-mailer
+CIDCo Mivo/MailStation
+Compaq
+ePod
+GlobalPC
+i-Opener
+MSN Companion
+MSN TV
+New Internet Computer
+Nokia 770 Internet Tablet
+Nokia N800
+Nokia N810
+Nokia N900
+Pepper Pad
+Sony Airboard
+Sony eVilla
+Sony Mylo
+Virgin Webplayer
+VTech Companion
+See also[edit]
+Computer appliance
+Ubiquitous computing
+Mobile Internet Device (MID)
+Server appliance
+Netbook
+References[edit]
+
+
+^ Bergman, Eric (2000). Information Appliances and Beyond (Interactive Technologies). Morgan Kaufmann. pp. 50–70. ISBN 1-55860-600-9. Retrieved 2008-05-06.
+
+^ Keen, Peter G. W.; Mougayar, Walid; Torregrossa, Tracy (1998). The business internet and intranets: a manager's guide to key terms and concepts. Boston, Mass: Harvard Business School Press. p. 122. ISBN 0-87584-840-0.
+
+^ Martyn Williams 02 November, 2010 Sony's ten biggest flops, Techworld.com.au
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Internet appliances.
+
+Linux-Hacker.net Community Page pertaining to getting Linux to run on older Internet Appliances
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Internet_appliance&oldid=1248060936"
+Categories: Classes of computersInformation appliancesHidden categories: Articles needing additional references from September 2008All articles needing additional referencesCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 27 September 2024, at 12:34 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Internet appliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

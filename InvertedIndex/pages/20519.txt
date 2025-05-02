@@ -1,0 +1,982 @@
+https://en.wikipedia.org/wiki/Plug_computer
+
+
+
+
+Plug computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Description
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Plug computer
+
+
+
+9 languages
+
+
+
+
+العربيةবাংলাDeutschEspañolFrançais한국어Italiano日本語Русский
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Marvell Technology Group's SheevaPlug plug computer in action
+Seagate Dockstar, a plug computer similar to the SheevaPlug
+A plug computer is a small-form-factor computer whose chassis contains the AC power plug, and thus plugs directly into the wall. Alternatively, the computer may resemble an AC adapter or a similarly small device. Plug computers are often configured for use in the home or office as compact computer.
+
+
+Description[edit]
+Plug computers consist of a high-performance, low-power system-on-a-chip processor, with several I/O hardware ports (USB ports, Ethernet connectors, etc.). Most versions do not have provisions for connecting a display and are best suited to running media servers, back-up services, or file sharing and remote access functions; thus acting as a bridge between in-home protocols (such as Digital Living Network Alliance (DLNA) and Server Message Block (SMB)) and cloud-based services. There are, however, plug computer offerings that have analog VGA monitor and/or HDMI connectors, which, along with multiple USB ports, permit the use of a display, keyboard, and mouse, thus making them full-fledged, low-power alternatives to desktop and laptop computers. They typically run any of a number of Linux distributions.
+Plug computers typically consume little power and are inexpensive.
+
+History[edit]
+A number of other devices of this type began to appear at the 2009 Consumer Electronics Show.
+
+On January 6, 2009 CTERA Networks launched a device called CloudPlug that provides online backup at local disk speeds and overlays a file sharing service.[1] The device also transforms any external USB hard drive into a network-attached storage device.[2][3]
+On January 7, 2009,  Cloud Engines unveiled the Pogoplug network access server.[4][5][6][7]
+On January 8, 2009, Axentra announced availability of their HipServ platform.[8]
+On February 23, 2009, Marvell Technology Group announced its plans to build a mini-industry around plug computers.[9][10]
+On August 19, 2009, CodeLathe announced availability of their TonidoPlug network access server.[11]
+On November 13, 2009 QuadAxis launched its plug computing device product line and development platform, featuring the QuadPlug and QuadPC and running QuadMix, a modified Linux.[12]
+On January 5, 2010, Iomega announced their iConnect network access server.[13]
+On January 7, 2010 Pbxnsip launched its plug computing device the sipJack running pbxnsip: an IP Communications platform.[14]
+See also[edit]
+Classes of computers
+Computer appliance
+CuBox, a plug computer
+GuruPlug, a plug computer
+DreamPlug, a plug computer
+FreedomBox, an operating system
+Personal web server
+Print server
+Raspberry Pi, a single-board computer
+SheevaPlug, a plug computer
+Stick PC, a computer attached to and powered by a USB or HDMI plug
+References[edit]
+
+
+^ "CTERA Networks Launches, Introduces Cloud Attached Storage" (Press release). Ctera networks. 6 January 2009. Retrieved 2009-02-25.
+
+^ Nelson, Fritz (January 11, 2009). CTERA at CES: USB as NAS and Cloud Backup. TechWebTV. Retrieved 2009-01-27.
+
+^ Lawson, Stephen (January 6, 2009). "Startup Ctera will offer cloud storage through carriers". Network World. Archived from the original on March 3, 2009. Retrieved 2009-02-25.
+
+^ Clark, Don; Christopher Lawton (January 8, 2009). "Gadgets for Leaner Times". The Wall Street Journal. Retrieved 2009-01-27.
+
+^ Needleman, Rafe (January 7, 2009). "Pogoplug puts any hard drive on the Internet". The New York Times. Archived from the original on 2020-08-06. Retrieved 2009-02-25.
+
+^ Lester, Dave (January 12, 2009). "Consumer electronics: Take a peek at geek chic". The Denver Post. Retrieved 2009-02-25.
+
+^ Pogoplug brings easy file sharing to your home network. Fast Company. January 7, 2009. Archived from the original on January 16, 2009. Retrieved 2009-02-25.
+
+^ "Axentra Announces HipServ 2.0 for PlugTop Computing" (PDF) (Press release). Axentra. January 8, 2009. Archived from the original (PDF) on July 6, 2024. Retrieved 2009-02-25.
+
+^ Clark, Don (February 23, 2009). "Marvell Bets on Plug Computers". The Wall Street Journal. Retrieved 2009-02-25.
+
+^ "Marvell Introduces Plug Computing ─ High-Performance, Low-Power, Exceptionally Small Computer for Managing and Storing Digital Media Assets" (Press release). Marvell Technology Group. February 24, 2009. Retrieved 2009-03-16.
+
+^ "CodeLathe introduces TonidoPlug". CodeLathe. 12 August 2009. Archived from the original on 28 December 2016. Retrieved 20 August 2009.
+
+^ "QuadAxis Launches Plug Computers". QuadAxis. 13 November 2009.
+
+^ "Iomega's New iConnect Wireless Data Station: Share Files, Manage Torrents, Access Your Data Remotely, Backup Your PC and Mac And Much More for Only $99". Iomega. 5 January 2010. Archived from the original on 2014-10-22.
+
+^ "pbxnsip Demonstrate Sheeva Plug compatibility". pbxnsip. January 7, 2010. Archived from the original on January 24, 2010. Retrieved January 12, 2010.
+
+
+External links[edit]
+ Media related to Plug computers at Wikimedia Commons
+vteCloud computingBusiness models
+Content as a service
+Data as a service
+Desktop as a service
+Function as a service
+Infrastructure as a service
+Integration platform as a service
+Backend as a service
+Network as a service
+Platform as a service
+Security as a service
+Software as a service
+Technologies
+Cloud database
+Cloud-native computing
+Cloud storage
+Cloud storage gateways
+Data centers
+Dew computing
+Distributed file system for cloud
+Hardware virtualization
+Internet
+Mobile cloud computing
+Native cloud application
+Networking
+Personal cloud
+Security
+Serverless computing
+Structured storage
+Virtual appliance
+Web APIs
+Virtual private cloud
+Applications
+Box
+Dropbox
+Google
+Workspace
+Drive
+HP Cloud (closed)
+IBM Cloud
+Lark
+Microsoft
+Office 365
+OneDrive
+Nextcloud
+Oracle Cloud
+Owncloud
+Proton Drive
+Rackspace
+Salesforce
+Seafile
+PlateSpin
+Workday
+Zoho
+Platforms
+Alibaba Cloud
+Amazon Web Services
+AppScale
+Box
+CloudBolt
+Cloud Foundry
+Cocaine (PaaS)
+Creatio
+Engine Yard
+Helion
+GE Predix
+Google App Engine
+GreenQloud
+Heroku
+IBM Cloud
+Inktank
+Jelastic
+Microsoft Azure
+MindSphere
+Netlify
+Oracle Cloud
+OutSystems
+openQRM
+OpenShift
+PythonAnywhere
+RightScale
+Scalr
+Force.com
+SAP Business Technology Platform
+Splunk
+Vercel
+vCloud Air
+WaveMaker
+Infrastructure
+Alibaba Cloud
+Amazon Web Services
+Abiquo Enterprise Edition
+CloudStack
+Citrix Cloud
+Deft
+DigitalOcean
+EMC Atmos
+Eucalyptus
+Fujitsu
+Google Cloud
+GreenButton
+GreenQloud
+IBM Cloud
+iland
+Joyent
+Linode
+Lunacloud
+Microsoft Azure
+Mirantis
+Netlify
+Nimbula
+Nimbus
+OpenIO
+OpenNebula
+OpenStack
+Oracle Cloud
+OrionVM
+Rackspace Cloud
+Safe Swiss Cloud
+Zadara
+libvirt
+libguestfs
+OVirt
+Virtual Machine Manager
+Wakame-vdc
+Vercel
+Virtual Private Cloud OnDemand
+
+ Category
+ Commons
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+vte(non-Android) Linux-powered devicesComputers,componentsNettops
+Eee Box
+fit-PC
+Lemote
+Linutop
+ThinCan
+Zonbu
+Netbooks
+Acer Aspire One
+Averatec Buddy
+Classmate PC
+CloudBook
+ECS G10IL
+Eee PC
+Elonex ONE/ONEt
+Gigabyte M912
+HP Mini 1000/2133
+Inspiron Mini
+Doel
+MSI Wind
+NanoBook
+Noahpad
+OLPC
+One A110
+Pinebook
+OpenBook
+Skytone Alpha-400
+Tianhua GX-1C
+GNU/Linux Open Hardware PowerPC notebook
+Tablets
+Aakash
+Adam
+JooJoo
+LeapPad Explorer
+Librem
+PineTab
+WeTab
+Networking
+Asus Routers
+BT Home Hub
+Buffalo AirStation
+Junxion Box
+Linksys WRT54G series
+Netgear DG834G
+Picotux
+Killer NIC
+Storage
+Buffalo LinkStation / TeraStation
+Drobo
+Linksys NSLU2
+QNAP
+Synology Inc.
+WD My Book
+Other
+BeagleBoard
+Chumby
+DragonBox Pyra
+Gumstix
+HP Dev One
+Librem
+Nvidia Drive
+Nvidia Jetson
+Palm Foleo
+Pandora
+Raspberry Pi
+SheevaPlug
+Stanley
+Asus Tinker Board
+IBM LinuxONE
+AccessoriesMultimedia
+DBox2
+Dreambox
+Hauppauge MediaMVP
+Neuros OSD
+TiVo
+Vu+
+Roku Digital Video Player
+Sonos
+Handhelds
+Agenda VR3
+Amazon Kindle
+Archos PMA400
+ILiad
+Leapster Explorer
+Nokia 770 / N800 / N810 / N900
+Pepper Pad
+Zaurus
+Sony Reader
+Zipit
+Ben NanoNote
+Phones✝
+Jolla
+Motorola A1200 / A1210 / A1600 / A760 / E680i / MOTO VE66 / PEBL U9 / RAZR2 V8 / ROKR E2 / E6 / E8 / EM30 / EM35 / Z6 / ZINE ZN5 / ZN200
+Neo 1973 / FreeRunner
+Nokia N900 / N950 / N9
+Palm Pixi / Pre / Pre 2 / HP Pre 3 / Veer
+Samsung Vodafone 360 H1 / Vodafone 360 M1
+Samsung Wave S8500 / Wave II S8530 / Wave 3 S8600 / Wave 723 / Wave 575 / Wave 525 / Wave Y
+Samsung Z1 / Z2 / Z3 / Z4
+Librem 5
+PinePhone / Pro
+Consoles
+Atari VCS
+Evercade VS
+Intellivision Amico
+NES Classic Edition
+Polymega
+Sega Genesis Mini
+SNES Classic Edition
+Steam Machine
+Handheld consoles
+Anbernic
+RG531
+RG532
+Dingoo A320
+DragonBox Pyra
+Evercade
+EXP
+Super Pocket
+Game Gadget
+GP2X
+Wiz
+CAANOO
+mylo
+Neo Geo X
+Pandora
+GCW Zero
+Steam Deck
+LeapFrog Didj
+Historic
+Cherrypal
+Simputer
+✝ Excluding Android devices.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Plug_computer&oldid=1271452391"
+Categories: Cloud computingClasses of computersCloud clientsHome serversServer applianceHidden categories: CS1: unfit URLCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 24 January 2025, at 03:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Plug computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

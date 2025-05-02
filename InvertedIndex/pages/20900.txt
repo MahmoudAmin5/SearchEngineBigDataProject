@@ -1,0 +1,568 @@
+https://en.wikipedia.org/wiki/Schematic_capture
+
+
+
+
+Schematic capture - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Other considerations
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+Further reading
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Schematic capture
+
+
+
+Add languages
+
+
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Stage of electronic circuit design
+
+
+This article relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing  citations to additional sources.Find sources: "Schematic capture" – news · newspapers · books · scholar · JSTOR (October 2014)
+Schematic capture or schematic entry is a step in the design cycle of electronic design automation (EDA) at which the electronic diagram, or electronic schematic of the designed electronic circuit, is created by a designer. This is done interactively with the help of a schematic capture tool also known as schematic editor.[1]
+The circuit design is the first step of actual design of an electronic circuit. Typically sketches are drawn on paper, and then entered into a computer using a schematic editor. Therefore schematic entry is said to be a front-end operation of several others in the design flow.[2]
+Despite the complexity of modern components – huge ball grid arrays and tiny passive components – schematic capture is easier today than it has been for many years.[3] CAD software is easier to use and is available in full-featured expensive packages, very capable mid-range packages that sometimes have free versions and completely free versions that are either open source or directly linked to a printed circuit board fabrication company.
+In past years, schematic diagrams with mostly discrete components were fairly readable. However, with the newer high pin-count parts and with the almost universal use of standard letter- or A4-sized paper, schematics have become less so. Many times, there will be a single large part on a page with nothing but pin reference keys to connect it to other pages.
+Readability levels can be enhanced by using buses and superbuses, related pins can be connected into a common bus and routed to other pages. Buses don't need to be just the traditional address or data bus directly linked pins. A bus grouping can also be used for related uses, such as all analog input or all communications related pin functions.
+
+
+Other considerations[edit]
+After the circuit design is captured in a schematic, most EDA tools allow the design to be simulated.
+Schematic capture involves not only entering the circuits into the CAD system, but also generally calls for decisions that may seem more appropriate for later in the design, such as package choice. Although you may be able to change the package later, many PCB CAD systems ask you to choose both the part and package when placing it into the schematic capture program.
+This also brings into play such considerations as prototyping and assembly. In a high-volume assembly environment, there will be plenty of opportunities for DFM analysis. However, in a rapid prototyping environment such as at assembly houses specializing in low-volume/high-mix and quick turnaround times, the pick and place machines are programmed directly from the board layout files. Careful package selection during schematic capture will save time during the assembly and debug process.
+With new parts, the CAD system may not have your chosen component in its parts library, so you may need to create the parts library yourself. Again, you may at the time not be overly concerned with the package, but careful creation of the part library will save time and risk later.
+
+See also[edit]
+
+
+
+Wikibooks has a book on the topic of: Robotics: Design Basics: Design software
+
+
+
+
+The Wikibook Practical Electronics has a page on the topic of: PCB Layout
+
+Comparison of EDA software
+Further reading[edit]
+Pratt, Gary; Jarrett, Jay (2001-08-06). "Top-Down Design Methods Bring Back The Useful Schematic Diagram". Electronic Design. 49 (16): 69. ISSN 0013-4872. ED Online ID #3784.
+References[edit]
+
+
+^ A.D., Hugo (December 2001). "A framework for human-computer interaction in directed graph drawing". Association for Computing Machinery. 9: 63–69. Retrieved December 12, 2022.
+
+^ "Schematic Capture" (PDF). University of Florida. Retrieved December 12, 2022.
+
+^ "Taking a Closer Look at Schematic Capture and PCB Layout". Cadence. 10 June 2019. Retrieved December 12, 2022.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Schematic_capture&oldid=1168616620"
+Category: Electronic design automationHidden categories: Articles with short descriptionShort description matches WikidataUse American English from April 2019All Wikipedia articles written in American EnglishArticles needing additional references from October 2014All articles needing additional references
+
+
+
+
+
+
+ This page was last edited on 3 August 2023, at 22:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Schematic capture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

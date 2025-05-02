@@ -1,0 +1,857 @@
+https://en.wikipedia.org/wiki/Expansion_card
+
+
+
+
+Expansion card - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+IBM PC and descendants
+
+
+
+
+
+
+
+
+1.2
+External expansion buses
+
+
+
+
+
+
+
+
+1.3
+Other families
+
+
+
+
+
+
+
+
+1.4
+Video game consoles
+
+
+
+
+
+
+
+
+
+
+2
+Applications
+
+
+
+
+
+
+
+
+3
+Physical construction
+
+
+
+
+
+
+
+
+4
+Daughterboard
+
+
+
+
+
+
+
+
+5
+Standards
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Expansion card
+
+
+
+39 languages
+
+
+
+
+العربيةAzərbaycancaБеларуская (тарашкевіца)БългарскиBosanskiCatalàDeutschEestiEspañolEsperantoEuskaraفارسیFrançaisFrysk한국어Bahasa IndonesiaעבריתҚазақшаLietuviųമലയാളംBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskОлык марийPolskiPortuguêsРусскийSlovenčinaСрпски / srpskiSuomiSvenskaTagalogతెలుగుУкраїнськаاردوTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Expansion card" – news · newspapers · books · scholar · JSTOR (April 2023) (Learn how and when to remove this message)
+Circuit board for connecting to a computer system to add functionality
+Example of a klm digital I/O expansion card using a large square chip from PLX Technology to handle the PCI bus interface
+PCI expansion slot
+Altair 8800b from March 1976 with an 18-slot S-100 backplane which housed both the Intel 8080 mainboard and many expansion boards
+Rack of IBM Standard Modular System expansion cards in an IBM 1401 computer using a 16-pin gold plated edge connector first introduced in 1959
+Configuration DIP switches in a 16-pin through-hole package as often found in ISA expansion cards from the 1980s
+Thunderbolt 3 connector introduced by Intel in December 2015 multiplexes up to 4-lanes of PCIe 3.0 and 8-lanes of DisplayPort 1.2 and can support an external docking station housing one or more expansion cards with enough bandwidth to drive a mid-range GPU.
+In computing, an expansion card (also called an expansion board, adapter card, peripheral card or accessory card) is a printed circuit board that can be inserted into an electrical connector, or expansion slot (also referred to as a bus slot) on a computer's motherboard (see also backplane) to add functionality to a computer system. Sometimes the design of the computer's case and motherboard involves placing most (or all) of these slots onto a separate, removable card. Typically such cards are referred to as a riser card in part because they project upward from the board and allow expansion cards to be placed above and parallel to the motherboard.
+Expansion cards allow the capabilities and interfaces of a computer system to be extended or supplemented in a way appropriate to the tasks it will perform. For example, a high-speed multi-channel data acquisition system would be of no use in a personal computer used for bookkeeping, but might be a key part of a system used for industrial process control. Expansion cards can often be installed or removed in the field, allowing a degree of user customization for particular purposes. Some expansion cards take the form of "daughterboards" that plug into connectors on a supporting system board.
+In personal computing, notable expansion buses and expansion card standards include the S-100 bus from 1974 associated with the CP/M operating system, the 50-pin expansion slots of the original Apple II computer from 1977 (unique to Apple), IBM's  Industry Standard Architecture (ISA) introduced with the IBM PC in 1981, Acorn's tube expansion bus on the BBC Micro also from 1981, IBM's patented and proprietary Micro Channel architecture (MCA) from 1987 that never won favour in the clone market, the vastly improved Peripheral Component Interconnect (PCI) that displaced ISA in 1992, and PCI Express from 2003 which abstracts the interconnect into high-speed communication "lanes" and relegates all other functions into software protocol.
+
+
+History[edit]
+Main article: Bus (computing) § History
+Vacuum-tube based computers had modular construction, but individual functions for peripheral devices filled a cabinet, not just a printed circuit board. Processor, memory and I/O cards became feasible with the development of integrated circuits.[1] Expansion cards make processor systems adaptable to the needs of the user by making it possible to connect various types of devices, including I/O, additional memory, and optional features (such as a floating point unit) to the central processor. Minicomputers, starting with the PDP-8, were made of multiple cards communicating through, and powered by, a passive backplane.
+The first commercial microcomputer to feature expansion slots was the Micral N, in 1973. The first company to establish a de facto standard was Altair with the Altair 8800, developed 1974–1975, which later became a multi-manufacturer standard, the S-100 bus. Many of these computers were also passive backplane designs, where all elements of the computer, (processor, memory, and I/O) plugged into a card cage which passively distributed signals and power between the cards.
+Proprietary bus implementations for systems such as the Apple II co-existed with multi-manufacturer standards.
+
+IBM PC and descendants[edit]
+IBM introduced what would retroactively be called the Industry Standard Architecture (ISA) bus with the IBM PC in 1981. At that time, the technology was called the PC bus. The IBM XT, introduced in 1983, used the same bus (with slight exception). The 8-bit PC and XT bus was extended with the introduction of the IBM AT in 1984. This used a second connector for extending the address and data bus over the XT, but was backward compatible; 8-bit cards were still usable in the AT 16-bit slots. Industry Standard Architecture (ISA) became the designation for the IBM AT bus after other types were developed. Users of the ISA bus had to have in-depth knowledge of the hardware they were adding to properly connect the devices, since memory addresses, I/O port addresses, and DMA channels had to be configured by switches or jumpers on the card to match the settings in driver software.
+IBM's MCA bus, developed for the PS/2 in 1987, was a competitor to ISA, also their design, but fell out of favor due to the ISA's industry-wide acceptance and IBM's licensing of MCA. EISA, the 32-bit extended version of ISA championed by Compaq, was used on some PC motherboards until 1997, when Microsoft declared it a "legacy" subsystem in the PC 97 industry white-paper. Proprietary local buses (q.v. Compaq) and then the VESA Local Bus Standard, were late 1980s expansion buses that were tied but not exclusive to the 80386 and 80486 CPU bus.[2][3][4] The PC/104 bus is an embedded bus that copies the ISA bus.
+Intel launched their PCI bus chipsets along with the P5-based Pentium CPUs in 1993. The PCI bus was introduced in 1991 as a replacement for ISA. The standard (now at version 3.0) is found on PC motherboards to this day. The PCI standard supports bus bridging: as many as ten daisy-chained PCI buses have been tested. CardBus, using the PCMCIA connector, is a PCI format that attaches peripherals to the Host PCI Bus via PCI to PCI Bridge. Cardbus is being supplanted by ExpressCard format.
+Intel introduced the AGP bus in 1997 as a dedicated video acceleration solution. AGP devices are logically attached to the PCI bus over a PCI-to-PCI bridge. Though termed a bus, AGP usually supports only a single card at a time (Legacy BIOS support issues). From 2005 PCI Express has been replacing both PCI and AGP. This standard, approved[like whom?] in 2004, implements the logical PCI protocol over a serial communication interface. PC/104(-Plus) or Mini PCI are often added for expansion on small form factor boards such as Mini-ITX.
+For their 1000 EX and 1000 HX models, Tandy Computer designed the PLUS expansion interface, an adaptation of the XT-bus supporting cards of a smaller form factor. Because it is electrically compatible with the XT bus (a.k.a. 8-bit ISA or XT-ISA), a passive adapter can be made to connect XT cards to a PLUS expansion connector. Another feature of PLUS cards is that they are stackable. Another bus that offered stackable expansion modules was the "sidecar" bus used by the IBM PCjr. This may have been electrically comparable to the XT bus; it most certainly had some similarities since both essentially exposed the 8088 CPU's address and data buses, with some buffering and latching, the addition of interrupts and DMA provided by Intel add-on chips, and a few system fault detection lines (Power Good, Memory Check, I/O Channel Check). Again, PCjr sidecars are not technically expansion cards, but expansion modules, with the only difference being that the sidecar is an expansion card enclosed in a plastic box (with holes exposing the connectors).
+
+External expansion buses[edit]
+Laptops are generally unable to accept most expansion cards intended for desktop computers. Consequently, several compact expansion standards were developed. 
+The original PC Card expansion card standard is essentially a compact version of the ISA bus. The CardBus expansion card standard is an evolution of the PC card standard to make it into a compact version of the PCI bus. The original ExpressCard standard acts like it is either a USB 2.0 peripheral or a PCI Express 1.x x1 device. ExpressCard 2.0 adds SuperSpeed USB as another type of interface the card can use. Unfortunately, CardBus and ExpressCard are vulnerable to DMA attack unless the laptop has an IOMMU that is configured to thwart these attacks.
+One notable exception to the above is the inclusion of a single internal slot for a special reduced size version of the desktop standard. The most well known examples are Mini-PCI or Mini PCIe. Such slots were usually intended for a specific purpose such as offering "built-in" wireless networking or upgrading the system at production with a discrete GPU.
+
+Other families[edit]
+Most other computer lines, including those from Apple Inc., Tandy, Commodore, Amiga, and Atari, Inc., offered their own expansion buses. The Amiga used Zorro II. Apple used a proprietary system with seven 50-pin-slots for Apple II peripheral cards, then later used both variations on Processor Direct Slot and NuBus for its Macintosh series until 1995, when they switched to a PCI Bus.
+Generally speaking, most PCI expansion cards will function on any CPU platform which incorporates PCI bus hardware provided there is a software driver for that type. PCI video cards and any other cards that contain their own BIOS or other ROM are problematic, although video cards conforming to VESA Standards may be used for secondary monitors. DEC Alpha, IBM PowerPC, and NEC MIPS workstations used PCI bus connectors.[5] Both Zorro II and NuBus were plug and play, requiring no hardware configuration by the user.
+Other computer buses were used for industrial control, instruments, and scientific systems. One specific example is HP-IB (or Hewlett Packard Interface Bus) which was ultimately standardized as IEEE-488 (aka GPIB). Some well-known historical standards include VMEbus, STD Bus, SBus (specific to Sun's SPARCStations), and numerous others.
+
+Video game consoles[edit]
+Many other video game consoles such as the Nintendo Entertainment System and the Sega Genesis included expansion buses in some form; In the case of at least the Genesis, the expansion bus was proprietary. In fact, the cartridge slots of many cartridge-based consoles (not counting the Atari 2600) would qualify as expansion buses, as they exposed both read and write capabilities of the system's internal bus. However, the expansion modules attached to these interfaces, though functionally the same as expansion cards, are not technically expansion cards, due to their physical form.
+
+Applications[edit]
+The primary purpose of an expansion card is to provide or expand on features not offered by the motherboard. For example, the original IBM PC did not have on-board graphics or hard drive capability.  In that case, a graphics card and an ST-506 hard disk controller card provided graphics capability and hard drive interface respectively. Some single-board computers made no provision for expansion cards, and may only have provided IC sockets on the board for limited changes or customization. Since reliable multi-pin connectors are relatively costly, some mass-market systems such as home computers had no expansion slots and instead used a card-edge connector at the edge of the main board, putting the costly matching socket into the cost of the peripheral device.
+In the case of expansion of on-board capability, a motherboard may provide a single serial RS232 port or Ethernet port. An expansion card can be installed to offer multiple RS232 ports or multiple and higher bandwidth Ethernet ports. In this case, the motherboard provides basic functionality but the expansion card offers additional or enhanced ports.
+
+Physical construction[edit]
+One edge of the expansion card holds the contacts (the edge connector or pin header) that fit into the slot. They establish the electrical contact between the electronics on the card and on the motherboard. Peripheral expansion cards generally have connectors for external cables. In the PC-compatible personal computer, these connectors were located in the support bracket at the back of the cabinet. Industrial backplane systems had connectors mounted on the top edge of the card, opposite to the backplane pins.
+Depending on the form factor of the motherboard and case, around one to seven expansion cards can be added to a computer system.  19 or more expansion cards can be installed in backplane systems. When many expansion cards are added to a system, total power consumption and heat dissipation become limiting factors. Some expansion cards take up more than one slot space. For example, many graphics cards on the market as of 2010 are dual slot graphics cards, using the second slot as a place to put an active heat sink with a fan.
+Some cards are "low-profile" cards, meaning that they are shorter than standard cards and will fit in a lower height computer chassis such as HTPC and SFF. (There is a "low profile PCI card" standard[6] that specifies a much smaller bracket and board area). The group of expansion cards that are used for external connectivity, such as network, SAN or modem cards, are commonly referred to as input/output cards (or I/O cards).
+
+Daughterboard[edit]
+A sound card with a MIDI daughterboard attachedA daughterboard for Inventec server platform that acts as a RAID controller based on LSI 1078 chipset
+A daughterboard, daughtercard, mezzanine board or piggyback board is an expansion card that attaches to a system directly.[7]  Daughterboards often have plugs, sockets, pins or other attachments for other boards. Daughterboards often have only internal connections within a computer or other electronic devices, and usually access the motherboard directly rather than through a computer bus. Such boards are used to either improve various memory capacities of a computer, enable the computer to connect to certain kinds of networks that it previously could not connect to, or to allow for users to customize their computers for various purposes such as gaming. [8]
+Daughterboards are sometimes used in computers in order to allow for expansion cards to fit parallel to the motherboard, usually to maintain a small form factor. This form are also called riser cards, or risers. Daughterboards are also sometimes used to expand the basic functionality of an electronic device, such as when a certain model has features added to it and is released as a new or separate model. Rather than redesigning the first model completely, a daughterboard may be added to a special connector on the main board. These usually fit on top of and parallel to the board, separated by spacers or standoffs, and are sometimes called mezzanine cards due to being stacked like the mezzanine of a theatre. Wavetable cards (sample-based synthesis cards) are often mounted on sound cards in this manner.
+
+Raspberry Pi 4B single-board computer with "TV Hat" card (for DVB-T/T2 television reception) attached
+Some mezzanine card interface standards include
+the 400 pin FPGA Mezzanine Card (FMC);
+the 172 pin High-Speed Mezzanine Card (HSMC);[9][10]
+the PCI Mezzanine Card (PMC);
+XMC mezzanines;
+the Advanced Mezzanine Card;
+IndustryPacks (VITA 4), the GreenSpring Computers Mezzanine modules;
+etc.
+Examples of daughterboard-style expansion cards include:
+
+Enhanced Graphics Adapter piggyback board, adds memory beyond 64 KB, up to 256 KB[11]
+Expanded memory piggyback board, adds additional memory to some EMS and EEMS boards[12]
+ADD daughterboard
+RAID daughterboard
+Network interface controller (NIC) daughterboard
+CPU Socket daughterboard
+Bluetooth daughterboard
+Modem daughterboard
+AD/DA/DIO daughter-card
+Communication daughterboard (CDC)
+Server Management daughterboard (SMDC)
+Serial ATA connector daughterboard
+Robotic daughterboard
+Access control List daughterboard
+Arduino "shield" daughterboards
+Beaglebone "cape" daughterboard
+Raspberry Pi "HAT add-on board"[13]
+Network Daughterboard (NDB). Commonly integrates: bus interfaces logic, LLC, PHY and Magnetics onto a single board.
+Standards[edit]
+Main articles: List of computer bus interfaces and List of device bit rates § Computer buses
+PCI Extended (PCI-X)
+PCI Express (PCIe)
+Mini PCIe
+M.2
+Accelerated Graphics Port (AGP)
+Peripheral Component Interconnect (PCI)
+Industry Standard Architecture (ISA)
+Micro Channel architecture (MCA)
+VESA Local Bus (VLB)
+CardBus/PC card/PCMCIA (for notebook computers)
+ExpressCard (for notebook computers)
+Audio/modem riser (AMR)
+Communications and networking riser (CNR)
+CompactFlash (for handheld computers and high speed cameras and camcorders)
+SBus (1990s SPARC-based Sun computers)
+Amiga Zorro Bizarro (Commodore Amiga)
+NuBus (Apple Macintosh)
+FPGA Mezzanine Card (FMC)
+See also[edit]
+Compatibility card
+Chinese language card
+Host adapter
+i-RAM
+M-Module, an industrial mezzanine standard for modular I/O
+Network card
+Physics card
+POST card
+Riser card
+TV tuner card
+Video card
+CRUVI FPGA Cardecu FPGA daughtercard standard
+Board-to-board connector (BTB)
+References[edit]
+
+
+^ "Eurotherm Parker SSD Link Hardware L5341 | Automation Industrial". l5341.com. Retrieved 2024-01-02.
+
+^ "MB-54VP". ArtOfHacking.com. Archived from the original on 16 May 2013.
+
+^ "NX586". ArtOfHacking.com. Archived from the original on 16 May 2013.
+
+^ "LEOPARD 486SLC2 REV. B". ArtOfHacking.com. Archived from the original on 2014-10-17. Retrieved 2012-11-17.
+
+^ "Motherboards". Artofhacking.com. Archived from the original on 16 May 2013.
+
+^ "PCI Mechanical Working Group ECN: Low Profile PCI Card" (PDF). Pcisig.com. Retrieved 2012-11-17.
+
+^  IEEE Std. 100 Authoritative Dictionary of IEEE Standards Terms, Seventh Edition,  IEEE, 2000,ISBN 0-7381-2601-2,  page 284
+
+^ M.J. Memon, What Is A Daughterboard. Easy Tech Junkie. Sep. 24, 2011. https://www.easytechjunkie.com/what-is-a-daughterboard.htm. Accessed Oct. 15, 2021
+
+^ 
+Jens Kröger.
+"Data Transmission at High Rates via Kapton Flexprints for the Mu3e Experiment".
+2014.
+p. 43 to 44.
+
+^ 
+Altera.
+"High Speed Mezzanine Card (HSMC) Specification".
+p. 2-3.
+
+^ Market Looks to EGA as De Facto Standard, InfoWorld, Aug 19, 1985
+
+^ Product Comparison: 16-Bit EMS Memory, InfoWorld, Sep 7, 1987
+
+^ "Add-on boards and HATs". GitHub. Raspberry Pi Foundation. Retrieved 19 June 2020.
+
+
+External links[edit]
+Computer expansion slots listing and pinouts
+Authority control databases: National United StatesIsraelvteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Expansion_card&oldid=1282461885"
+Categories: Computer busesComputer peripheralsMotherboard expansion slotPrinted circuit board manufacturingHidden categories: Articles needing additional references from April 2023All articles needing additional referencesArticles with short descriptionShort description is different from WikidataAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from May 2013
+
+
+
+
+
+
+ This page was last edited on 26 March 2025, at 15:22 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Expansion card
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

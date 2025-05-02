@@ -1,0 +1,805 @@
+https://en.wikipedia.org/wiki/IBM_704
+
+
+
+
+IBM 704 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Landmarks
+
+
+
+
+
+
+
+
+2
+Registers
+
+
+
+
+
+
+
+
+3
+Instruction and data formats
+
+
+
+
+
+
+
+
+4
+Memory and peripherals
+
+
+
+
+
+
+
+
+5
+Reliability
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+Further reading
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM 704
+
+
+
+14 languages
+
+
+
+
+БългарскиCatalàDeutschEspañolFrançais한국어Italiano日本語PortuguêsРусскийShqipSuomiУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Vacuum-tube computer system (1954)
+An IBM 704 computer at NACA in 1957
+An IBM 704 computer, with IBM 727 tape drives and IBM 780 CRT display
+IBM 704 at the Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milan
+The IBM 704 is the model name of a large digital mainframe computer introduced by IBM in 1954. Designed by John Backus and Gene Amdahl, it was the first mass-produced computer with hardware for floating-point arithmetic.[1][2] The IBM 704 Manual of operation states:[3]
+
+
+The type 704 Electronic Data-Processing Machine is a large-scale, high-speed electronic calculator controlled by an internally stored program of the single address type.
+
+
+The 704 at that time was thus regarded as "pretty much the only computer that could handle complex math".[4] The 704 was a significant improvement over the earlier IBM 701 in terms of architecture and implementation. Like the 701, the 704 used vacuum-tube logic circuitry, but increased the instruction size from 18 bits to 36 bits, the same as the memory's word size. Changes from the 701 include the use of magnetic-core memory instead of Williams tubes, floating-point arithmetic instructions, 15-bit addressing and the addition of three index registers. To support these new features, the instructions were expanded to use the full 36-bit word. The new instruction set, which is not compatible with the 701, became the base for the "scientific architecture" subclass of the IBM 700/7000 series computers.
+The 704 could execute up to 12,000 floating-point additions per second.[2] IBM produced 123 type 704 systems between 1955 and 1960.[5]
+
+
+Landmarks[edit]
+The programming languages FORTRAN[6] and LISP[7] were first developed for the 704, as was the SAP assembler—Symbolic Assembly Program, later distributed by SHARE as SHARE Assembly Program.
+MUSIC, the first computer music program, was developed on the IBM 704 by Max Mathews.
+In 1962, physicist John Larry Kelly, Jr. created one of the most famous moments in the history of Bell Labs by using an IBM 704 computer to synthesize speech. Kelly's voice recorder synthesizer vocoder recreated the song Daisy Bell, with musical accompaniment from Max Mathews. Arthur C. Clarke was coincidentally visiting friend and colleague John Pierce at the Bell Labs Murray Hill facility at the time of this speech synthesis demonstration, and Clarke was so impressed that six years later he used it in the climactic scene of his novel and screenplay for 2001: A Space Odyssey,[8] where the HAL 9000 computer sings the same song.[9] (Bell Laboratories later released a recording, on ten-inch 78-RPM records, of speech and music created this way. It was apparently made with an IBM 7090, the solid-state successor to the 704.)[citation needed]
+Edward O. Thorp, a math instructor at MIT, used the IBM 704 as a research tool to investigate the probabilities of winning while developing his blackjack gaming theory.[10][11] He used FORTRAN to formulate the equations of his research model.
+The IBM 704 at the MIT Computation Center was used as the official tracker for the Smithsonian Astrophysical Observatory Operation Moonwatch in the fall of 1957. IBM provided four staff scientists to aid Smithsonian Astrophysical Observatory scientists and mathematicians in the calculation of satellite orbits: Dr.  Giampiero Rossoni, Dr. John Greenstadt, Thomas Apple and Richard Hatch. The machine was also a stepping stone for Frank Rosenblatt; in 1957 he started something really big. He "invented" a Perceptron program, on the IBM 704 computer at Cornell Aeronautical Laboratory.
+The IBM 704 was used for flight dynamics analyses of the NRL's Vanguard rockets. [12]
+The Los Alamos Scientific Laboratory (LASL) developed an early monitor named SLAM to enable batch processing.[13]
+
+Registers[edit]
+
+IBM 704 registers
+
+
+
+
+
+37
+
+36
+
+35
+
+...
+
+31
+
+...
+
+23
+
+...
+
+15
+
+14
+
+...
+
+07
+
+...
+
+00
+
+(bit position)
+
+
+Data registers
+
+
+AC
+
+Accumulator
+
+
+ 
+
+MQ
+
+Multiplier/Quotient
+
+
+ 
+
+SI
+
+Sense Indicator
+
+
+Index registers
+
+
+ 
+
+XR1
+
+Index 1
+
+
+ 
+
+XR2
+
+Index 2
+
+
+ 
+
+XR3
+
+Index 3
+
+
+Program counter
+
+
+ 
+
+PC
+
+Program Counter
+
+
+IBM 704 vacuum-tube circuit module
+The IBM 704 had a 38-bit accumulator, a 36-bit multiplier/quotient register, and three 15-bit index registers. The contents of the index registers are subtracted from the base address, so the index registers are also called "decrement registers". All three index registers can participate in an instruction: the 3-bit tag field in the instruction is a bit map specifying which of the registers participate in the operation. However, when more than one index register is selected, then their contents are bit-wise ORed – not added – together before the decrement takes place. This behavior persisted in later scientific-architecture machines (such as the IBM 709 and IBM 7090) until the IBM 7094. The IBM 7094, introduced in 1962, increased the number of index registers to seven and only selected one at a time; the "or" behavior remained available in a compatibility mode of the IBM 7094.[14]
+
+Instruction and data formats[edit]
+There are two instruction formats, referred to as "Type A" and "Type B".[15] Most instructions were of type B.
+Type A instructions have, in sequence, a 3-bit prefix (instruction code), a 15-bit decrement field, a 3-bit tag field, and a 15-bit address field. There are conditional jump operations based on the values in the index registers specified in the tag field. Some instructions also subtract the decrement field from the contents of the index registers. The implementation requires that the second two bits of the instruction code be non-zero, giving a total of six possible type A instructions. One (STR, instruction code binary 101) was not implemented until the IBM 709.
+Type B instructions have, in sequence, a 12-bit instruction code (with bits 2 and 3 set to 0 to distinguish them from type A instructions), a 2-bit flag field, four unused bits, a 3-bit tag field, and a 15-bit address field.
+
+Fixed-point numbers are stored in binary sign/magnitude format.
+Single-precision floating-point numbers have a magnitude sign, an 8-bit excess-128 exponent and a 27-bit fraction (no hidden bit).
+Alphanumeric characters were usually 6-bit BCD, packed six to a word.
+The instruction set implicitly subdivides the data format into the same fields as type A instructions: prefix, decrement, tag and address. Instructions exist to modify each of these fields in a data word without changing the remainder of the word, though the Store Tag instruction was not implemented on the IBM 704.
+The original implementation of Lisp uses the address and decrement fields to store the head and tail of a linked list respectively. The primitive functions car ("contents of the address part of register") and cdr ("contents of the decrement part of register") were named after these fields.[16]
+
+Memory and peripherals[edit]
+Loading punch card into the IBM 711 reader
+Controls are included in the 704 for: one 711 Punched Card Reader, one 716 Alphabetic Printer, one 721 Punched Card Recorder, five 727 Magnetic Tape Units and one 753 Tape Control Unit, one 733 Magnetic Drum Reader and Recorder, and one 737 Magnetic Core Storage Unit. Total weight was about 19,466 pounds (9.7 short tons; 8.8 t).[17][18]
+The 704 itself came with a control console having 36 assorted control switches or buttons and 36 data-input switches, one for each bit in a register. The control console essentially allows only setting the binary values of the registers with switches and seeing the binary state of the registers displayed in the pattern of many small neon lamps, appearing much like modern LEDs. For human interaction with the computer, programs would be entered on punched cards initially rather than at the console, and human-readable output would be directed to the printer. 
+The IBM 740 Cathode Ray Tube Output Recorder was also available, which is a 21-inch vector display with a very long phosphor persistence time of 20 seconds for human viewing, together with a 7-inch display receiving the same signal as the larger display but with a fast-decaying phosphor designed to be photographed with an attached camera.[19]
+The 737 Magnetic Core Storage Unit serves as RAM and provides 4,096 36-bit words, the equivalent of 18,432 bytes.[20] The 727 Magnetic Tape Units store over 5 million 6-bit characters per reel.
+
+Reliability[edit]
+The IBM 704 was much more reliable than its predecessor, the IBM 701, which had a mean time between failure of around 30 minutes.  Being a vacuum-tube machine, however, the IBM 704 had very poor reliability by today's standards. On average, the machine failed around every 8 hours, comparable to the Manchester Mark 1 in 1949.[21][22][23] This limited the program size that the first Fortran compilers could successfully translate because the machine would fail before a successful compilation of a large program.[22]
+
+See also[edit]
+GM-NAA I/O
+List of vacuum-tube computers
+References[edit]
+
+
+^ "The IBM 704". columbia.edu. Columbia University. February 2001. Retrieved September 20, 2024.
+
+^ a b "704 Data Processing System". IBM Archives – Exhibits – IBM Mainframes – Mainframes reference room – Mainframes product profiles. IBM. 23 January 2003. Archived from the original on January 14, 2005. Retrieved 2016-08-18.
+
+^ "IBM Electronic Data-Processing Machines TYPE 704" (PDF). IBM 704 Manual of Operation. International Business Machines Corporation. 1955. Retrieved 2017-12-28.
+
+^ Pesce, Mark (26 Feb 2015). "Assemblers were once people: My aunt did it for NASA". Software – Developer. The Register. Retrieved 2016-08-18.
+
+^ "History of IBM Timeline". IBM. 23 January 2003. Retrieved 2019-07-04.
+
+^ "History of FORTRAN and FORTRAN II". Software Preservation Group.
+
+^ "LISP prehistory – Summer 1956 through Summer 1958". www-formal.stanford.edu.
+
+^ "Arthur C. Clarke online Biography". Archived from the original on December 11, 1997.
+
+^ "Bell Labs: Where "HAL" First Spoke (Bell Labs Speech Synthesis website)". Archived from the original on April 1, 2014.
+
+^ Discovery channel documentary with interviews by Ed and Vivian Thorp
+
+^ Levinger, Jeff (February 10, 1961). "Math Instructor Programs Computor: Thorpe, 704 Beat Blackjack" (PDF). The Tech. 81 (1). Cambridge, MA: Massachusetts Institute of Technology: 1. Archived from the original (PDF) on July 16, 2015. Retrieved May 8, 2009.
+
+^  "Vanguard Satellite Launching Vehicle -- An Engineering Summary".
+
+^ Kaisler, Stephen H. (Nov 2018). First Generation Mainframes: The IBM 700 Series. Cambridge Scholars Publishing. p. 69. ISBN 978-1-5275-0650-3. Retrieved Apr 25, 2019.
+
+^ IBM 7094 Principles of Operation (PDF), IBM Systems Reference Library (fifth ed.), IBM, 1962, p. 8, A22-6703-4.
+
+^ John Savard. "From the IBM 704 to the IBM 7094". Retrieved 2009-11-15.
+
+^ McCarthy, John (1960). "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I". Archived from the original on 2013-10-04. Retrieved 2009-02-14. p. 28.
+
+^ Weik, Martin H. (March 1961). "IBM 704". ed-thelen.org. A Third Survey of Domestic Electronic Digital Computing Systems.
+
+^ Weik, Martin H. (December 1955). "IBM-704". ed-thelen.org. A Survey of Domestic Electronic Digital Computing Systems.
+
+^ "IBM Archives: 704 Cathode Ray Tube Output Recorder". 23 January 2003. Archived from the original on January 19, 2005. Retrieved 10 December 2012.
+
+^ "IBM Archives: IBM 737 Magnetic core storage unit". 23 January 2003. Archived from the original on January 19, 2005. Retrieved 10 December 2012.
+
+^ Patrick, Robert L. "General Motors/North American Monitor for the IBM 704 Computer" (PDF). Archived from the original (PDF) on 2021-08-31.
+
+^ a b Lorenzo, Mark Jones (2019). Abstracting Away the Machine: The History of the FORTRAN Programming Language (FORmula TRANslation). Independently published. ISBN 978-1082395949.
+
+^ "The Manchester Mark 1", University of Manchester, archived from the original on 21 November 2008, retrieved 24 January 2009
+
+
+Further reading[edit]
+Charles J. Bashe, Lyle R. Johnson, John H. Palmer, Emerson W. Pugh, IBM's Early Computers (MIT Press, Cambridge, 1986)
+Steven Levy, Hackers: Heroes of the Computer Revolution
+External links[edit]
+
+
+
+Wikimedia Commons has media related to IBM 704.
+
+Oral history interview with Gene Amdahl Charles Babbage Institute, University of Minnesota, Minneapolis. Amdahl discusses his role in the design of several computers for IBM including the STRETCH, IBM 701, and IBM 704. He discusses his work with Nathaniel Rochester and IBM's management of the design process for computers.
+vteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+
+Authority control databases: National United StatesIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_704&oldid=1281612966"
+Categories: IBM vacuum tube computersIBM 700/7000 series36-bit computersComputer-related introductions in 1954Hidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from April 2023Commons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 21 March 2025, at 12:35 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM 704
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

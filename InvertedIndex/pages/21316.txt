@@ -1,0 +1,1026 @@
+https://en.wikipedia.org/wiki/Multimedia
+
+
+
+
+Multimedia - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Terminology
+
+
+
+
+
+
+
+
+2
+Major characteristics
+
+
+
+
+
+
+
+
+3
+Categorization
+
+
+
+
+
+
+
+
+4
+Usage/Application
+
+
+
+
+Toggle Usage/Application subsection
+
+
+
+
+
+4.1
+Creative industries
+
+
+
+
+
+
+
+
+4.2
+Commercial uses
+
+
+
+
+
+
+
+
+4.3
+Entertainment and fine arts
+
+
+
+
+
+
+
+
+4.4
+Education
+
+
+
+
+
+
+4.4.1
+Educational technology
+
+
+
+
+
+
+
+
+
+
+4.5
+Social work
+
+
+
+
+
+
+
+
+4.6
+Language communication
+
+
+
+
+
+
+
+
+4.7
+Journalism
+
+
+
+
+
+
+
+
+4.8
+Multimedia Engineering
+
+
+
+
+
+
+
+
+4.9
+Mathematical and scientific research
+
+
+
+
+
+
+
+
+4.10
+Medicine
+
+
+
+
+
+
+
+
+4.11
+Virtual reality
+
+
+
+
+
+
+
+
+4.12
+Augmented reality
+
+
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Multimedia
+
+
+
+76 languages
+
+
+
+
+العربيةAsturianuAzərbaycancaবাংলাБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתಕನ್ನಡქართულიҚазақшаKreyòl ayisyenКыргызчаLatviešuLietuviųMagyarМакедонскиമലയാളംმარგალურიBahasa MelayuMinangkabauNederlands日本語Norsk bokmålNorsk nynorskОлык марийOʻzbekcha / ўзбекчаਪੰਜਾਬੀپښتوPolskiPortuguêsQaraqalpaqshaRomânăРусскийScotsShqipසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்తెలుగుไทยTürkçeУкраїнськаاردوVènetoTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Content using a combination of forms
+This article is about the content format. For the album, see Multimedia (album).
+
+
+
+
+Examples of individual content forms that can be combined in multimedia
+
+
+
+
+
+
+
+
+
+Text
+Audio
+Still images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animation
+Video footage
+Interactivity
+
+
+
+Multimedia refers to the integration of multiple forms of content, such as text, audio, images, video, and interactive elements into a single digital platform or application. This integration allows for a more immersive and engaging experience compared to traditional single-medium content. Multimedia is utilized in various fields, including education, entertainment, communication, game design, and digital art, reflecting its broad impact on modern technology and media.
+Multimedia encompasses various types of content, each serving different purposes:
+
+Text - Fundamental to multimedia, providing context and information.
+Audio - Includes music, sound effects, and voiceovers that enhance the experience. Recent developments include spatial audio and advanced sound design.
+Images - Static visual content, such as photographs and illustrations. Advances include high-resolution and 3D imaging technologies.
+Video - Moving images that convey dynamic content. High-definition (HD), 4K, and 360-degree video are recent innovations enhancing viewer engagement.
+Animation - the technique of creating moving images from still pictures, often used in films, television, and video games to bring characters and stories to life.
+Multimedia can be recorded for playback on computers, laptops, smartphones, and other electronic devices. In the early years of multimedia, the term "rich media" was synonymous with interactive multimedia. Over time, hypermedia extensions brought multimedia to the World Wide Web, and streaming services became more common.
+
+
+Terminology[edit]
+The term multimedia was coined by singer and artist Bob Goldstein (later 'Bobb Goldsteinn') to promote the July 1966 opening of his "Lightworks at L'Oursin" show in Southampton, New York, Long Island.[1] Goldstein was perhaps aware of an American artist named Dick Higgins, who had two years previously discussed a new approach to art-making he called "intermedia".[2]
+On August 10, 1966, Richard Albarino of Variety borrowed the terminology, reporting: "Brainchild of song scribe-comic Bob ('Washington Square') Goldstein, the 'Lightworks' is the latest multi-media music-cum-visuals to debut as discothèque fare."[3] Two years later, in 1968, the term "multimedia" was re-appropriated to describe the work of a political consultant, David Sawyer, the husband of Iris Sawyer—one of Goldstein's producers at L'Oursin.
+
+Multimedia (multi-image) setup for the 1988 Ford New Car Announcement Show, August 1987, Detroit, MI In the intervening forty years, the word has taken on different meanings. In the late 1970s, the term referred to presentations consisting of  multi-projector slide shows timed to an audio track. However, by the 1990s, 'multimedia' had taken on its current meaning.
+In the 1993 first edition of Multimedia: Making It Work, Tay Vaughan declared, "Multimedia is any combination of text, graphic art, sound, animation, and video that is delivered by computer. When you allow the user – the viewer of the project – to control what and when these elements are delivered, it is interactive multimedia. When you provide a structure of linked elements through which the user can navigate, interactive multimedia becomes hypermedia."[4] This book contained the Tempra Show software.[5] This was a later, rebranded version of the 1985 DOS multimedia software VirtulVideo Producer, about which the Smithsonian declared, "It is one of the first, if not the first, multi-media authoring systems on the market."[6]
+The German language society Gesellschaft für deutsche Sprache recognized the word's significance and ubiquitousness in the 1990s by awarding it the title of German 'Word of the Year' in 1995.[7] The institute summed up its rationale by stating, "[Multimedia] has become a central word in the wonderful new media world".[8]
+In common usage, multimedia refers to the usage of multiple media of communication, including video, still images, animation, audio, and text, in such a way that they can be accessed interactively. Video, still images, animation, audio, and written text are the building blocks on which multimedia takes shape. In the 1990s, some computers were called "multimedia computers" because they represented advances in graphical and audio quality, such as the Amiga 1000, which could produce 4096 colors (12-bit color), outputs for TVs and VCRs, and four-voice stereo audio.[9] Multimedia used to be saved on CD-ROMs, which could store roughly 700 MB of data, and floppy disks, which could only store 1.44 MB. Multimedia files are now easier to keep and retrieve because of the widespread usage of USB devices, cloud storage, and solid-state drives (SSDs), which provide significantly greater speed and space.[10] Greater storage allowed for larger digital media files and therefore more complex multimedia.
+The term "video," if not used exclusively to describe motion photography, is ambiguous in multimedia terminology. Video is often used to describe the file format, delivery format, or presentation format instead of "footage," which is used to distinguish motion photography from "animation" of rendered motion imagery. Multiple forms of information content are often not considered modern forms of presentation, such as audio or video. Likewise, single forms of information content with single methods of information processing (e.g., non-interactive audio) are often called multimedia, perhaps to distinguish static media from active media. In the fine arts, for example, Leda Luss Luyken's ModulArt brings two key elements of musical composition and film into the world of painting: variation of a theme and movement of and within a picture, making ModulArt an interactive multimedia form of art. Performing arts may also be considered multimedia, considering that performers and props are multiple forms of both content and media.
+In modern times, a multimedia device can be referred to as an electronic device, such as a smartphone, a video game system, or a computer. Each and every one of these devices has a main function but also has other uses beyond their intended purpose, such as reading, writing, recording video and audio, listening to music, and playing video games. This has led them to be called "multimedia devices." While previous media was always local, many are now handled through web-based solutions, particularly streaming.
+
+Major characteristics[edit]
+Multimedia presentations are presentations featuring multiple types of media. The different types of media can include text, graphics, audio, video, and animations. These different types of media convey information to their target audience and effectively communicate with them. Videos are a great visual example to use in multimedia presentations because they can create visual aids to the presenter's ideas. They are commonly used among education and many other industries to benefit students and workers, as they effectively retain chunks of information in a limited amount of time and can be stored easily. Another example is charts and graphs, as the presenters can show their audience the trends using data associated with their researches. This provides the audience a visual idea of a company's capabilities and performances.[11] Audio also helps people understand the message being presented, as most modern videos are combined with audio to increase their efficiency, while animations are made to simplify things from the presenter's perspective. These technological methods allow efficient communication and understanding across a wide range of audiences (with an even wider range of abilities) throughout different fields, which create a more engaging experience for the audience. With the creation of Zoom and other such platforms, the immersive interaction is even more widely available to more people. Now people can be the audience for a presentation without having to travel to see it. This makes conferences more accessible to more people. "With the increasing remote working trends in today’s digital age, virtual meetings have become integral to business and social communication. For people with disabilities, these virtual meetings on digital platforms can sometimes pose accessibility challenges."[12]
+Multimedia games and simulations may be used in a physical environment with special effects, with multiple users in an online network, or locally with an offline computer, game system, simulator, virtual reality, or augmented reality.
+The various formats of technological or digital multimedia may be intended to enhance the users' experience, for example, to make it easier and faster to convey information. Or in entertainment or art, combine an array of artistic insights that include elements from different art forms to engage, inspire, or captivate an audience.
+
+A lasershow is a live multimedia performance.
+Enhanced levels of interactivity are made possible by combining multiple forms of media content. Online multimedia is increasingly becoming object-oriented and data-driven, enabling applications with collaborative end-user innovation and personalization on multiple forms of content over time.  Examples of these range from multiple forms of content on websites, like photo galleries with both images (pictures) and titles (text) user-updated, to simulations whose coefficients, events, illustrations, animations, or videos are modifiable, allowing the multimedia "experience" to be altered without reprogramming. In addition to seeing and hearing, haptic technology enables virtual objects to be felt. Emerging technology involving illusions of taste and smell may also enhance the multimedia experience.
+
+Categorization[edit]
+Multimedia may be broadly divided into linear and non-linear categories:
+
+Linear active content progresses often without any navigational control, only focusing on the user to watch the entire piece by involving higher levels of emotional and sensory stimulation based on what's being shown as a cinema presentation;
+Non-linear uses interactivity to control progress as with a video game or self-paced computer-based training so that the actions made will be based on how the user interacts within the simulated world. Hypermedia is an example of non-linear content.
+Multimedia presentations can be live or recorded:
+
+A recorded presentation may allow interactivity via a navigation system;
+A live multimedia presentation may allow interactivity via an interaction with the presenter or performer.
+Usage/Application[edit]
+A presentation using PowerPoint. Corporate presentations may combine all forms of media content.
+Multimedia finds its application in various areas, including, but not limited to, advertisements, art, education, entertainment, engineering, medicine, mathematics, business, scientific research, and spatial temporal applications. Several examples are as follows:
+
+Creative industries[edit]
+Creative industries use multimedia for various purposes, ranging from fine arts, entertainment, commercial art, and journalism, to media and software services provided for any of the industries listed below. An individual multimedia designer may cover the spectrum throughout their career. Requests for their skills range from technical to analytical to creative. Multimedia, but more impressively in the modern day, the interactivity of the multimedia created forms the foundation for which most creative endeavors that take place online. Microsoft is one of the biggest computer industries in the world, and the core foundation of its success relies on the ability of multimedia designers to optimize user experience through interacting with their products.
+
+Commercial uses[edit]
+Marketing and commercial practices increasingly rely on interactive multimedia, allowing for more sophisticated tactics and increased customer retention. Advertising companies heavily utilize social media, online interfaces, and television to promote products, while ads and websites that utilize pop-ups need shorter, more concise methods to be as efficient and pleasing to potential customers as possible. These platforms can be used by commercial businesses to specifically target their desired audience with a message, advertisement, or promotion. External and internal office communications are often developed by hired creative service firms to display information in a variety of situations. This can range from providing more engaging presentations to educating trainees or new workers on a company's policies or process. Commercial multimedia developers may also be hired to design for governmental services or nonprofit service applications, usually in the form of campaign websites and commercials aimed at the general public. Data mining within multimedia platforms can also allow advertisers to adjust their marketing techniques to quickly and efficiently understand the demographic of their target audience.[13] : Recently developed techniques include digital billboards, often placed on the side of buildings and wrapped around the edge or corner. Clips can then be added at differing angles to create a three-dimensional optical illusion, which is more likely to draw the attention of an observer.
+
+Entertainment and fine arts[edit]
+Multimedia is heavily used in the entertainment industry, especially to develop special effects in movies and animations (VFX, 3D animation, etc.). Multimedia games are a popular pastime and are software programs available either as CD-ROMs or online. Video games are considered multimedia, as they meld animation, audio, and interactivity to give the player an immersive experience. While video games can vary in terms of animation style or audio type, the element of interactivity makes them a striking example of interactive multimedia. Interactive multimedia refers to multimedia applications that allow users to actively participate instead of just sitting by as passive recipients of information.
+In the arts, there are multimedia artists who blend techniques using different media that in some way incorporate interaction with the viewer. Another approach entails the creation of multimedia that can be displayed in a traditional fine arts arena, such as an art gallery. Video has become an intrinsic part of many concerts and theatrical productions in the modern era and has spawned content creation opportunities for many media professionals. The first interactive music-only CD, No World Order by Todd Rundgren, was released in 1993. The CD acted as a customizable album. Although multimedia display material may be volatile, the survivability of the content is as strong as any traditional medium.
+
+Education[edit]
+In education, multimedia is used to produce computer-based training courses (popularly called CBTs) and reference books like encyclopedias and almanacs. A CBT lets the user go through a series of presentations, text about a particular topic, and associated illustrations in various information formats.
+Learning theory in the past decade has expanded dramatically because of the introduction of multimedia. Several lines of research have evolved, e.g., cognitive load and multimedia learning.
+From multimedia learning (MML) theory, David Roberts has developed a large group lecture practice using PowerPoint based on the use of full-slide images in conjunction with a reduction of visible text (all text can be placed in the notes view' section of PowerPoint).[14] The method has been applied and evaluated in 9 disciplines. In each experiment, students' engagement and active learning have been approximately 66% greater than with the same material being delivered using bullet points, text, and speech, corroborating a range of theories presented by multimedia learning scholars like Sweller and Mayer.[15] The idea of media convergence is also becoming a major factor in education, particularly higher education. Defined as separate technologies such as voice (and telephony features), data (and productivity applications), and video that now share resources and interact with each other, media convergence is rapidly changing the curriculum in universities all over the world. Higher education has been implementing the use of social media applications such as Twitter, YouTube, Facebook, etc. to increase student collaboration and develop new processes in how information can be conveyed to students.[16]
+
+Educational technology[edit]
+Interactive multimedia educational game
+Multimedia provides students with an alternate means of acquiring knowledge designed to enhance teaching and learning through various media and platforms.[citation needed] In the 1960s, technology began to expand into classrooms through devices such as screens and telewriters.[17] This technology allows students to learn at their own pace and gives teachers the ability to observe the individual needs of each student. The capacity for multimedia to be used in multi-disciplinary settings is structured around the idea of creating a hands-on learning environment through the use of technology.[citation needed] Lessons can be tailored to the subject matter as well as personalized to the students' varying levels of knowledge on the topic. Learning content can be managed through activities that utilize and take advantage of multimedia platforms.[citation needed] This kind of usage of modern multimedia encourages interactive communication between students and teachers and opens feedback channels, introducing an active learning process, especially with the prevalence of new media and social media.[18] Technology has impacted multimedia as it is largely associated with the use of computers or other electronic devices and digital media due to its capabilities concerning research, communication, problem-solving through simulations, and feedback opportunities.[19] The innovation of technology in education through the use of multimedia allows for diversification among classrooms to enhance the overall learning experience for students.[20]
+Within education, video games, specifically fast-paced action games, are able to play a big role in improving cognitive abilities involving attention, task switching, and resistance to distractors. Research also shows that, though video games may take time away from schoolwork, implementing games into the school curriculum has an increased probability of moving attention from games to curricular goals.[21]
+
+Social work[edit]
+Multimedia is a robust education methodology within the social work context. The five different types of multimedia that support the education process are narrative media, interactive media, communicative media, adaptive media, and productive media. Contrary to long-standing belief, multimedia technology in social work education existed before the prevalence of the internet. It takes the form of images, audio, and video into the curriculum.
+First introduced to social work education by Seabury & Maple in 1993, multimedia technology is utilized to teach social work practice skills, including interviewing, crisis intervention, and group work. In comparison with conventional teaching methods, including face-to-face courses, multimedia education shortens transportation time, increases knowledge and confidence in a richer and more authentic context for learning, generates interaction between online users, and enhances understanding of conceptual materials for novice students.
+In an attempt to examine the impact of multimedia technology on students' studies, A. Elizabeth Cauble & Linda P. Thurston conducted research in which Building Family Foundations (BFF), an interactive multimedia training platform, was utilized to assess social work students' reactions to multimedia technology on variables of knowledge, attitudes, and self-efficacy. The results state that respondents show a substantial increase in academic knowledge, confidence, and attitude. Multimedia also benefits students because it brings experts online, fits students' schedule, and allows students to choose courses that suit them.
+Mayer's Cognitive Theory of Multimedia Learning suggests that "people learn more from words and pictures than from words alone." According to Mayer and other scholars, multimedia technology stimulates people's brains by implementing visual and auditory effects and thereby assists online users to learn efficiently. Researchers suggest that when users establish dual channels while learning, they tend to understand and memorize better. The mixed literature of this theory is still present in the fields of multimedia and social work.[22][23][24]
+
+Language communication[edit]
+With the spread and development of the English language around the world, multimedia has become an important way of communicating between different people and cultures. Multimedia technology creates a platform where language can be taught. The traditional form of teaching English as a Second Language in classrooms has drastically changed with the prevalence of technology, making it easier for students to obtain language learning skills. Multimedia motivates students to learn more languages through audio, visual, and animation support. It also helps create English contexts since an important aspect of learning a language is developing their grammar, vocabulary, and knowledge of pragmatics and genres. In addition, cultural connections in terms of forms, contexts, meanings, and ideologies have to be constructed.[citation needed] By improving thought patterns, multimedia develops students' communicative competence by improving their capacity to understand the language.[25] One of the studies, carried out by Izquierdo, Simard and Pulido, presented the correlation between "Multimedia Instruction (MI) and learners' second language (L2)"[26] and its effects on learning behavior. Their findings, based on Gardner's theory of the "socio-educational model of learner motivation and attitudes," show that there is easier access to language learning materials as well as increased motivation with MI along with the use of computer-assisted language learning.
+
+Journalism[edit]
+Newspaper companies all over the world are trying to embrace the new phenomenon by implementing its practices in their work. While some have been slow to come around, other major newspapers like The New York Times, USA Today, and The Washington Post are setting a precedent for the positioning of the newspaper industry in a globalized world. To keep up with the changing world of multimedia, journalistic practices are adopting and utilizing different multimedia functions through the inclusion of visuals such as varying audio, video, text, etc. in their writings.[27]
+
+journalism
+News reporting is not limited to traditional media outlets. Freelance journalists can use different new media to produce multimedia pieces for their news stories. It engages global audiences and tells stories with technology, which develops new communication techniques for both media producers and consumers. The Common Language Project, later renamed The Seattle Globalist, is an example of this type of multimedia journalism production.
+Multimedia reporters who are mobile (usually driving around a community with cameras, audio and video recorders, and laptop computers) are often referred to as mojos, or mobile journalists.
+
+Multimedia Engineering[edit]
+Software engineers may use multimedia in computer simulations for anything from entertainment to training, such as military or industrial training. Multimedia for software interfaces is often done as a collaboration between creative professionals and software engineers. Multimedia helps expand the teaching practices that can be found in engineering to allow for more innovative methods to not only educate  future engineers but to help evolve the scope of understanding of where multimedia can be used in specialized engineer careers like software engineers.[28]
+Multimedia is also allowing major car manufacturers, such as Ford and General Motors, to expand the design and safety standards of their cars. By using a game engine and virtual reality glasses, these companies are able to test the safety features and the design of the car before a prototype is even made. Building a car virtually reduces the time it takes to produce new vehicles, cutting down on the time needed to test designs and allowing the designers to make changes in real time. It also reduces expenses since, with a virtual car, making real-world prototypes is no longer needed.[29]
+
+Mathematical and scientific research[edit]
+mathematics
+In mathematical and scientific research, multimedia is mainly used for modeling and simulation with binary code. For example, a scientist can look at a molecular model of a particular substance and manipulate it to arrive at a new substance. Representative research can be found in journals such as the Journal of Multimedia. One well-known example of this being applied would be in the movie Interstellar, where Executive Director Kip Thorne helped create one of the most realistic depictions of a black hole in film. The visual effects team under Paul Franklin took Kip Thorne's mathematical data and applied it into their own visual effects engine called "Double Negative Gravitational Renderer," a.k.a. "Gargantua," to create a "real" black hole used in the final cut. Later on, the visual effects team went on to publish a black hole study.[citation needed]
+
+Medicine[edit]
+Medical professionals and students have a wide variety of ways to learn new techniques and procedures through interactive media, online courses, and lectures. The methods of conveying information to students have drastically evolved with the help of multimedia. From the 1800s to today, lessons are commonly taught using chalkboards. Projected aids, such as the epidiascope and slide projectors, were introduced into classrooms around the 1960s.[30] With the growing use of computers, the medical field has begun to incorporate new devices and procedures to assist in teaching students, performing procedures, and analyzing patient data. As well as providing that data in a meaningful way to the patients.[31]
+
+Virtual reality[edit]
+Air force officer using a VR headset to simulate piloting an aircraft
+Virtual reality is a technology that creates a simulated environment, often using computer-generated imagery or a combination of real and virtual content, to immerse users in an interactive and lifelike experience. The aim of virtual reality is to make users feel as if they are physically present in a different environment, even though they are typically still physically located in the real world. Virtual reality finds applications across various fields, including gaming, education, healthcare, training, and entertainment. In gaming, users can be transported to fantastical worlds, experiencing games in a more immersive way. In education, VR can provide realistic simulations for training purposes, allowing users to practice skills in a risk-free environment. Healthcare professionals use VR for therapeutic purposes and medical training. The U.S. Air Force has shown using VR for training programs for their new pilots to simulate piloting an aircraft. People have also used VR in a court room to show the judge how an interaction took place to try and get a clearer understanding of why the client might have done what they did.[32] This allows new pilots to learn in a safe environment and get comfortable before getting in a real aircraft.
+Head-mounted display (HMD): Users wear a headset that covers their eyes and ears, providing visual and auditory stimuli. These headsets are equipped with screens that display the virtual environment, and some may also have built-in speakers or headphones for audio. 
+Motion tracking: Sensors track the user's movements, allowing them to interact with the virtual world. This can include head movements, hand gestures, and sometimes even full-body movements, enhancing the sense of immersion.
+Input devices: Controllers or other input devices are used to interact with the virtual environment. These devices can simulate hands or tools, enabling users to manipulate objects or navigate within the virtual space.
+Computer processing: Powerful computers or gaming consoles are often required to generate and render the complex graphics and simulations needed for a convincing virtual experience.
+
+Augmented reality[edit]
+Augmented reality overlays digital content or output onto the real world using media such as audio, animation, and text. Augmented reality became widely popular only in the 21st century; however, some of the earlier versions of such were things like the Sega Genesis Activator Controller back in 1992, which allowed users to literally stand in an octagon and control in-game movement with physical movement, or to stretch back even further, the R.O.B. NES Robot back in 1984, which, with its array of accessories, was able to also provide users with the sensation of holding a firearm. These multimedia input devices are among the earliest of the augmented reality devices, allowing users to input commands to facilitate a different user experience. A more modern example of augmented reality is Pokémon GO, a mobile game released on July 6, 2016, which allows users to see a Pokémon in a real-world environment.
+
+See also[edit]
+
+Animation
+Artmedia
+Audio
+Audiovisual
+Computer
+Images
+Internet
+Kraftwerk
+Multi-image
+Multimedia cartography
+Multimedia Messaging Service
+Multimedia search
+New media art
+Non-linear media
+Postliterate society
+Social media
+Text
+Transmedia storytelling
+Universal multimedia access
+Video
+Video Game
+Virtual reality
+Web documentary
+
+References[edit]
+
+
+^ Badii, Atta; Fuschi, David; Khan, Ali; Adetoye, Adedayo (2009). "Accessibility-by-Design: A Framework for Delivery-Context-Aware Personalised Media Content Re-purposing". HCI and Usability for e-Inclusion. Lecture Notes in Computer Science. Vol. 5889. pp. 209–226. doi:10.1007/978-3-642-10308-7_14. ISBN 978-3-642-10307-0.
+
+^ Matthew Zuras (June 3, 2010), Tech Art History, Part, Switched, archived from the original on September 30, 2018, retrieved August 27, 2012
+
+^ Albarino, Richard (10 August 1966). "Goldstein's LightWorks at Southhampton". Variety. 213 (12).
+
+^ Vaughan, Tay, 1993, Multimedia: Making It Work (first edition, ISBN 0-07-881869-9), Osborne/McGraw-Hill, Berkeley, pg. 3.
+
+^ National Museum of American History. "Software, TEMPRA Media Author! and Documentation, Tempra Show Reference Guide". Smithsonian. Retrieved December 18, 2023.
+
+^ National Museum of American History. "AT&T 6300 Microcomputer and VirtualVideo Producer Software". Smithsonian. Retrieved December 18, 2023.
+
+^ Ein Jahr, ein (Un-)Wort! (in German) Spiegel Online
+
+^ Variety, January 1–7, 1996.
+
+^ "August 1994 / Commentary / R.I.P. Commodore 1954-1994". 1996-10-19. Archived from the original on 1996-10-19. Retrieved 2024-01-21.
+
+^ Chang, Morris (2005). "Computer Architecture". The Electrical Engineering Handbook. pp. 323–334. doi:10.1016/B978-012170960-0/50027-X. ISBN 978-0-12-170960-0.
+
+^ The Vibe Team. "Tips and Tools for Crafting a Multimedia Presentation". vibe.us. Vibe. Retrieved 20 September 2022.
+
+^ Roussey, Benjamin. "Accessibility Features Of Zoom And How To Make Zoom Meetings More Accessible". www.accessibility.com. Retrieved 2025-02-09.
+
+^ Han, Jiawei; Kamber, Micheline; Pei, Jian (2012). "Data Mining Trends and Research Frontiers". Data Mining. pp. 585–631. doi:10.1016/B978-0-12-381479-1.00013-7. ISBN 978-0-12-381479-1.
+
+^ Visual feasts of the mind: matching how we teach to how we learn | David Roberts | TEDxLoughboroughU, 2016-12-13, archived from the original on 2021-10-30, retrieved 2017-05-17
+
+^ "David Roberts | Loughborough University - Academia.edu". lboro.academia.edu. Retrieved 2017-01-18.
+
+^ Cao, Yingxia; Ajjan, Haya; Hong, Paul (July 2013). "Using social media applications for educational outcomes in college teaching: A structural equation analysis: Social media use in teaching". British Journal of Educational Technology. 44 (4): 581–593. doi:10.1111/bjet.12066.
+
+^ Fletcher, Curtis (2 October 2017). "The school of tomorrow: promoting electronic multimedia education in the 1960s". History and Technology. 33 (4): 428–440. doi:10.1080/07341512.2018.1482592. S2CID 149685793.
+
+^ Andresen, Bent B.; van den Brink, Katja (2013). 'Multimedia in Education' Curriculum. UNESCO. ISBN 978-5-7777-0556-3.
+
+^ Collis, Betty (1991). "Anticipating the impact of multimedia in education: lessons from literature" (PDF). International Journal of Computers in Adult Education and Training. 2 (2): 136–149. OCLC 6893982757.
+
+^ Pierce, Glenn L.; Cleary, Paul F. (July 2016). "The K-12 educational technology value chain: Apps for kids, tools for teachers and levers for reform". Education and Information Technologies. 21 (4): 863–880. doi:10.1007/s10639-014-9357-1. S2CID 7745071.
+
+^ Tobias, Sigmund; Fletcher, J. D.; Bediou, Benoit; Wind, Alexander P.; Chen, Fei (2014). "Multimedia Learning with Computer Games". The Cambridge Handbook of Multimedia Learning. pp. 762–784. doi:10.1017/CBO9781139547369.037. ISBN 978-1-139-54736-9.
+
+^ Ballantyne, Neil (September 2008). "Multimedia Learning and Social Work Education". Social Work Education. 27 (6): 613–622. doi:10.1080/02615470802201655. S2CID 144578023.
+
+^ Cauble, A. Elizabeth; Thurston, Linda P. (July 2000). "Effects of Interactive Multimedia Training on Knowledge, Attitudes, and Self-Efficacy of Social Work Students". Research on Social Work Practice. 10 (4): 428–437. doi:10.1177/104973150001000404. S2CID 142893647.
+
+^ Irby, Beverly J; Brown, Genevieve; Lara-Alecio, Rafael; Jackson, Shirley, eds. (2013). The Handbook of Educational Theories. ISBN 978-1-61735-867-8.[page needed]
+
+^ Pun, Min (23 May 2014). "The Use of Multimedia Technology in English Language Teaching: A Global Perspective". Crossing the Border: International Journal of Interdisciplinary Studies. 1 (1): 29–38. doi:10.3126/ctbijis.v1i1.10466.
+
+^ Izquierdo, Jesús; Simard, Daphnée; Pulido, María Guadalupe Garza (30 April 2015). "Multimedia Instruction & Language Learning Attitudes: A Study with University Students". Revista Electrónica de Investigación Educativa. 17 (2).
+
+^ Pincus, Hanna; Wojcieszak, Magdalena; Boomgarden, Hajo (September 2017). "Do Multimedia Matter? Cognitive and Affective Effects of Embedded Multimedia Journalism". Journalism & Mass Communication Quarterly. 94 (3): 747–771. doi:10.1177/1077699016654679. S2CID 148407202.
+
+^ Chengbo, Wang; Hui, Xiao; Wen, Shiting (January 2019). "SPSE — a model of engineering multimedia learning and training". Multimedia Tools and Applications. 78 (1): 1149–1164. doi:10.1007/s11042-018-6520-5. S2CID 52058366.
+
+^ "Manufacturing Cars with Virtual Reality". www.asme.org. Retrieved 2021-01-21.
+
+^ Muttappallymyalil, Jayakumary; Mendis, Susirith; John, Lisha Jenny; Shanthakumari, Nisha; Sreedharan, Jayadevan; Shaikh, Rizwana B (3 October 2016). "Evolution of technology in teaching: Blackboard and beyond in Medical Education". Nepal Journal of Epidemiology. 6 (3): 588–592. doi:10.3126/nje.v6i3.15870. PMC 5082488. PMID 27822404.
+
+^ Michalski, Andrzej; Stopa, Marcin; Miśkowiak, Bogdan (26 October 2016). "Use of Multimedia Technology in the Doctor-Patient Relationship for Obtaining Patient Informed Consent". Medical Science Monitor. 22: 3994–3999. doi:10.12659/MSM.894147. PMC 5085339. PMID 27780964.
+
+^ Pawlyk, Oriana (2021-03-26). "The Air Force's Virtual Reality Fighter Training Is Working Best for 5th-Gen Pilots". Military.com. Retrieved 2024-09-01.
+
+
+External links[edit]
+
+
+Library resources about  Multimedia 
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Look up multimedia in Wiktionary, the free dictionary.
+
+ Media related to Multimedia at Wikimedia Commons
+History of Multimedia from the University of Calgary Archived 2009-10-20 at the Wayback Machine
+Multimedia in Answers.com
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+Authority control databases InternationalFASTNationalGermanyUnited StatesFranceBnF dataCzech RepublicIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Multimedia&oldid=1287119922"
+Categories: MultimediaCommunication designDesignFilm and video terminologyFilm production1960s neologismsHidden categories: Wikipedia articles needing page number citations from July 2021Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2021Articles with unsourced statements from January 2021Articles with unsourced statements from January 2025Commons category link from WikidataWebarchive template wayback links
+
+
+
+
+
+
+ This page was last edited on 24 April 2025, at 03:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Multimedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1039 @@
+https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+
+
+
+
+Internet Engineering Task Force - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Organization
+
+
+
+
+Toggle Organization subsection
+
+
+
+
+
+1.1
+Steering group
+
+
+
+
+
+
+
+
+
+
+2
+Early leadership and administrative history
+
+
+
+
+
+
+
+
+3
+Meetings
+
+
+
+
+
+
+
+
+4
+Operations
+
+
+
+
+
+
+
+
+5
+Chairs
+
+
+
+
+
+
+
+
+6
+Topics of interest
+
+
+
+
+Toggle Topics of interest subsection
+
+
+
+
+
+6.1
+Automated network management
+
+
+
+
+
+
+
+
+6.2
+Internet of things
+
+
+
+
+
+
+
+
+6.3
+New transport technology
+
+
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Internet Engineering Task Force
+
+
+
+45 languages
+
+
+
+
+العربيةAzərbaycancaবাংলাБългарскиCatalàČeštinaDanskDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançais한국어हिन्दीBahasa IndonesiaItalianoעבריתქართულიMagyarМакедонскиമലയാളംBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaکوردیSuomiSvenskaதமிழ்ไทยTürkçeУкраїнськаاردوTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Open internet standards organization
+"IETF" redirects here. For other uses, see IETF (disambiguation).
+
+
+Internet Engineering Task ForceAbbreviationIETF[1]FormationJanuary 1986; 39 years ago (1986-01)[2]TypeNon-profitStandards organizationPurposeCreating voluntary standards to maintain and improve the usability and interoperability of the InternetParent organizationInternet SocietyWebsiteietf.org
+InternetAn Opte Project visualization of routing paths through a portion of the Internet
+General
+Access
+Activism
+Censorship
+Data activism
+Democracy
+Digital divide
+Digital rights
+Freedom
+Freedom of information
+Internet phenomena
+Net neutrality
+Privacy
+Right to Internet access
+Slacktivism
+Sociology
+Usage
+Vigilantism
+Virtual community
+Virtual volunteering
+
+Governance
+IGF
+NRO
+IANA
+ICANN
+IETF
+ISOC
+
+Information infrastructure
+Domain Name System
+Hypertext Transfer Protocol
+Internet exchange point
+Internet protocol suite
+Internet Protocol
+Transmission Control Protocol
+Internet service provider
+IP address
+Internet Message Access Protocol
+Simple Mail Transfer Protocol
+
+Services
+Blogs
+Microblogging
+Email
+Fax
+File sharing
+File transfer
+Games
+Instant messaging
+Podcasts
+Shopping
+Television
+Voice over IP
+World Wide Web
+search
+
+History
+History of the Internet
+Oldest domain names
+Pioneers
+Protocol Wars
+
+Guides
+ Index
+Outline
+
+ Internet portalvte
+
+
+Internet history timeline
+
+
+
+Early research and development:
+
+1960–1964: RAND networking concepts developed
+1962–1964: ARPA networking ideas
+1965 (1965): NPL network concepts conceived
+1966 (1966): Merit Network founded
+1967 (1967): ARPANET planning begins
+1967 (1967): Symposium on Operating Systems Principles
+1969 (1969): NPL followed by the ARPANET carry their first packets
+1970 (1970): Network Information Center (NIC)
+1971 (1971): Tymnet switched-circuit network
+1972 (1972): Merit Network's packet-switched network operational
+1972 (1972): Internet Assigned Numbers Authority (IANA) established
+1973 (1973): CYCLADES network demonstrated
+1973 (1973): PARC Universal Packet development begins
+1974 (1974): Transmission Control Program specification published
+1975 (1975): Telenet commercial packet-switched network
+1976 (1976): X.25 protocol approved and deployed on public data networks
+1978 (1978): Minitel introduced
+1979 (1979): Internet Activities Board (IAB)
+1980 (1980): USENET news using UUCP
+1980 (1980): Ethernet standard introduced
+1981 (1981): BITNET established
+Merging the networks and creating the Internet:
+
+1981 (1981): Computer Science Network (CSNET)
+1982 (1982): TCP/IP protocol suite formalized
+1982 (1982): Simple Mail Transfer Protocol (SMTP)
+1983 (1983): Domain Name System (DNS)
+1983 (1983): MILNET split off from ARPANET
+1984 (1984): OSI Reference Model released
+1985 (1985): First .COM domain name registered
+1986 (1986): NSFNET with 56 kbit/s links
+1986 (1986): Internet Engineering Task Force (IETF)
+1987 (1987): UUNET founded
+1988 (1988): NSFNET upgraded to 1.5 Mbit/s (T1)
+1988 (1988): Morris worm
+1988 (1988): Complete Internet protocol suite
+1989 (1989): Border Gateway Protocol (BGP)
+1989 (1989): PSINet founded, allows commercial traffic
+1989 (1989): Federal Internet Exchanges (FIX East|FIXes)
+1990 (1990): GOSIP (without TCP/IP)
+1990 (1990): ARPANET decommissioned
+1990 (1990): Advanced Network and Services (ANS)
+1990 (1990): UUNET/Alternet allows commercial traffic
+1990 (1990): Archie search engine
+1991 (1991): Wide area information server (WAIS)
+1991 (1991): Gopher
+1991 (1991): Commercial Internet eXchange (CIX)
+1991 (1991): ANS CO+RE allows commercial traffic
+1991 (1991): World Wide Web (WWW)
+1992 (1992): NSFNET upgraded to 45 Mbit/s (T3)
+1992 (1992): Internet Society (ISOC) established
+1993 (1993): Classless Inter-Domain Routing (CIDR)
+1993 (1993): InterNIC established
+1993 (1993): AOL added USENET access
+1993 (1993): Mosaic web browser released
+1994 (1994): Full text web search engines
+1994 (1994): North American Network Operators' Group (NANOG) established
+Commercialization, privatization, broader access leads to the modern Internet:
+
+1995 (1995): New Internet architecture with commercial ISPs connected at NAPs
+1995 (1995): NSFNET decommissioned
+1995 (1995): GOSIP updated to allow TCP/IP
+1995 (1995): very high-speed Backbone Network Service (vBNS)
+1995 (1995): IPv6 proposed
+1996 (1996): AOL changes pricing model from hourly to monthly
+1998 (1998): Internet Corporation for Assigned Names and Numbers (ICANN)
+1999 (1999): IEEE 802.11b wireless networking
+1999 (1999): Internet2/Abilene Network
+1999 (1999): vBNS+ allows broader access
+2000 (2000): Dot-com bubble bursts
+2001 (2001): New top-level domain names activated
+2001 (2001): Code Red I, Code Red II, and Nimda worms
+2003 (2003): UN World Summit on the Information Society (WSIS) phase I
+2003 (2003): National LambdaRail founded
+2004 (2004): UN Working Group on Internet Governance (WGIG)
+2005 (2005): UN WSIS phase II
+2006 (2006): First meeting of the Internet Governance Forum
+2010 (2010): First internationalized country code top-level domains registered
+2012 (2012): ICANN begins accepting applications for new generic top-level domain names
+2013 (2013): Montevideo Statement on the Future of Internet Cooperation
+2014 (2014): NetMundial international Internet governance proposal
+2016 (2016): ICANN contract with U.S. Dept. of Commerce ends, IANA oversight passes to the global Internet community on October 1st
+Examples of Internet services:
+
+1989 (1989): AOL dial-up service provider, email, instant messaging, and web browser
+1990 (1990): IMDb Internet movie database
+1994 (1994): Yahoo! web directory
+1995 (1995): Amazon online retailer
+1995 (1995): eBay online auction and shopping
+1995 (1995): Craigslist classified advertisements
+1995 (1995): AltaVista search engine
+1996 (1996): Outlook (formerly Hotmail) free web-based e-mail
+1996 (1996): RankDex search engine
+1997 (1997): Google Search
+1997 (1997): Babel Fish automatic translation
+1998 (1998): Yahoo Groups (formerly Yahoo! Clubs)
+1998 (1998): PayPal Internet payment system
+1998 (1998): Rotten Tomatoes review aggregator
+1999 (1999): 2ch Anonymous textboard
+1999 (1999): i-mode mobile internet service
+1999 (1999): Napster peer-to-peer file sharing
+2000 (2000): Baidu search engine
+2001 (2001): 2chan Anonymous imageboard
+2001 (2001): BitTorrent peer-to-peer file sharing
+2001 (2001): Wikipedia, the free encyclopedia
+2003 (2003): LinkedIn business networking
+2003 (2003): Myspace social networking site
+2003 (2003): Skype Internet voice calls
+2003 (2003): iTunes Store
+2003 (2003): 4chan Anonymous imageboard
+2003 (2003): The Pirate Bay, torrent file host
+2004 (2004): Facebook social networking site
+2004 (2004): Podcast media file series
+2004 (2004): Flickr image hosting
+2005 (2005): YouTube video sharing
+2005 (2005): Reddit link voting
+2005 (2005): Google Earth virtual globe
+2006 (2006): Twitter microblogging
+2007 (2007): WikiLeaks anonymous news and information leaks
+2007 (2007): Google Street View
+2007 (2007): Kindle, e-reader and virtual bookshop
+2008 (2008): Amazon Elastic Compute Cloud (EC2)
+2008 (2008): Dropbox cloud-based file hosting
+2008 (2008): Encyclopedia of Life, a collaborative encyclopedia intended to document all living species
+2008 (2008): Spotify, a DRM-based music streaming service
+2009 (2009): Bing search engine
+2009 (2009): Google Docs, Web-based word processor, spreadsheet, presentation, form, and data storage service
+2009 (2009): Kickstarter, a threshold pledge system
+2009 (2009): Bitcoin, a digital currency
+2010 (2010): Instagram, photo sharing and social networking
+2011 (2011): Google+, social networking
+2011 (2011): Snapchat, photo sharing
+2012 (2012): Coursera, massive open online courses
+2016 (2016): TikTok, video sharing and social networking
+
+The Internet Engineering Task Force (IETF) is a standards organization for the Internet and is responsible for the technical standards that make up the Internet protocol suite (TCP/IP).[3] It has no formal membership roster or requirements and all its participants are volunteers. Their work is usually funded by employers or other sponsors.
+The IETF was initially supported by the federal government of the United States but since 1993 has operated under the auspices of the Internet Society, a non-profit organization with local chapters around the world.
+
+
+Organization[edit]
+There is no membership in the IETF. Anyone can participate by signing up to a working group mailing list, or registering for an IETF meeting.[4]
+The IETF operates in a bottom-up task creation mode[clarification needed], largely driven by working groups.[2] Each working group normally has appointed two co-chairs (occasionally three); a charter that describes its focus; and what it is expected to produce, and when. It is open to all who want to participate and holds discussions on an open mailing list. Working groups hold open sessions at IETF meetings, where the onsite registration fee in 2024 was between US$875 (early registration) and $1200 per person for the week.[5] Significant discounts are available for students and remote participants. As working groups do not make decisions at IETF meetings, with all decisions taken later on the working group mailing list, meeting attendance is not required for contributors.
+Rough consensus is the primary basis for decision making. There are no formal voting procedures. Each working group is intended to complete work on its topic and then disband. In some cases, the working group will instead have its charter updated to take on new tasks as appropriate.[2]
+The working groups are grouped into areas by subject matter (see § Steering group, below). Each area is overseen by an area director (AD), with most areas having two ADs. The ADs are responsible for appointing working group chairs. The area directors, together with the IETF Chair, form the Internet Engineering Steering Group (IESG), which is responsible for the overall operation of the IETF.[citation needed]
+
+Governance structure of the IETF
+The Internet Architecture Board (IAB) oversees the IETF's external relationships.[6] The IAB provides long-range technical direction for Internet development. The IAB also manages the Internet Research Task Force (IRTF), with which the IETF has a number of cross-group relations.[7]
+A nominating committee (NomCom) of ten randomly chosen volunteers who participate regularly at meetings, a non-voting chair and 4-5 liaisons, is vested with the power to appoint, reappoint, and remove members of the IESG, IAB, IETF Trust and the IETF LLC.[8] To date, no one has been removed by a NomCom, although several people have resigned their positions, requiring replacements.[9]
+In 1993 the IETF changed from an activity supported by the US federal government to an independent, international activity associated with the Internet Society, a US-based 501(c)(3) organization.[10] In 2018 the Internet Society created a subsidiary, the IETF Administration LLC, to be the corporate, legal and financial home for the IETF.[11] IETF activities are funded by meeting fees, meeting sponsors and by the Internet Society via its organizational membership and the proceeds of the Public Interest Registry.[12]
+In December 2005, the IETF Trust was established to manage the copyrighted materials produced by the IETF.[13]
+
+Steering group[edit]
+The Internet Engineering Steering Group (IESG) is a body composed of the Internet Engineering Task Force (IETF) chair and area directors. It provides the final technical review of Internet standards and is responsible for day-to-day management of the IETF. It receives appeals of the decisions of the working groups, and the IESG makes the decision to progress documents in the standards track.[14]
+The chair of the IESG is the area director of the general area, who also serves as the overall IETF chair. Members of the IESG include the two directors, sometimes three, of each of the following areas:[15]
+
+Applications and real-time (art)
+General (gen)
+Internet (int)
+Operations and management (ops)
+Routing (rtg)
+Security (sec)
+Web and Internet transport (wit)
+Liaison and ex officio members include:[citation needed]
+
+IETF executive director
+IAB chair
+Appointed liaison from the IAB
+Liaison from the Internet Assigned Numbers Authority (IANA)
+Liaison from the Request for Comments (RFC) editor
+Early leadership and administrative history[edit]
+This section is in list format but may read better as prose. You can help by converting this section, if appropriate. Editing help is available. (November 2021)
+The Gateway Algorithms and Data Structures (GADS) Task Force was the precursor to the IETF. Its chairman was David L. Mills of the University of Delaware.[16]
+In January 1986, the Internet Activities Board (IAB; now called the Internet Architecture Board) decided to divide GADS into two entities: an Internet Architecture (INARC) Task Force chaired by Mills to pursue research goals, and the IETF to handle nearer-term engineering and technology transfer issues.[16]  The first IETF chair was Mike Corrigan, who was then the technical program manager for the Defense Data Network (DDN).[16]  Also in 1986, after leaving DARPA, Robert E. Kahn founded the Corporation for National Research Initiatives (CNRI), which began providing administrative support to the IETF.
+In 1987, Corrigan was succeeded as IETF chair by Phill Gross.[17]
+Effective March 1, 1989, but providing support dating back to late 1988, CNRI and NSF entered into a cooperative agreement, No. NCR-8820945, wherein CNRI agreed to create and provide a "secretariat" for the "overall coordination, management and support of the work of the IAB, its various task forces and, particularly, the IETF".[18]
+In 1992, CNRI supported the formation and early funding of the Internet Society, which took on the IETF as a fiscally sponsored project, along with the IAB, the IRTF, and the organization of annual INET meetings. Gross continued to serve as IETF chair throughout this transition.  Cerf, Kahn, and Lyman Chapin announced the formation of ISOC as "a professional society to facilitate, support, and promote the evolution and growth of the Internet as a global research communications infrastructure".[19]  At the first board meeting of the Internet Society, Cerf, representing CNRI, offered, "In the event a deficit occurs, CNRI has agreed to contribute up to USD$102,000 to offset it."[20]  In 1993, Cerf continued to support the formation of ISOC while working for CNRI,[21] and the role of ISOC in "the official procedures for creating and documenting Internet Standards" was codified in the IETF's RFC 1602.[22]
+In 1995, IETF's RFC 2031 describes ISOC's role in the IETF as being purely administrative, and ISOC as having "no influence whatsoever on the Internet Standards process, the Internet Standards or their technical content".[23]
+In 1998, CNRI established Foretec Seminars, Inc. (Foretec), a for-profit subsidiary to take over providing secretariat services to the IETF.[18]  Foretec provided these services until at least 2004.[18]  By 2013, Foretec was dissolved.[24]
+In 2003, IETF's RFC 3677 described IETFs role in appointing three board members to the ISOC's board of directors.[25]
+In 2018, ISOC established The IETF Administration LLC, a separate LLC to handle the administration of the IETF.[26]  In 2019, the LLC issued a call for proposals to provide secretariat services to the IETF.[27]
+
+Meetings[edit]
+The first IETF meeting was attended by 21 US federal government-funded researchers on 16 January 1986. It was a continuation of the work of the earlier GADS Task Force. Representatives from non-governmental entities (such as gateway vendors)[28] were invited to attend starting with the fourth IETF meeting in October 1986. Since that time all IETF meetings have been open to the public.[2]
+Initially, the IETF met quarterly, but from 1991, it has been meeting three times a year. The initial meetings were very small, with fewer than 35 people in attendance at each of the first five meetings. The maximum attendance during the first 13 meetings was only 120 attendees. This occurred at the twelfth meeting, held during January 1989. These meetings have grown in both participation and scope a great deal since the early 1990s; it had a maximum attendance of 2810 at the December 2000 IETF held in San Diego, California. Attendance declined with industry restructuring during the early 2000s, and is currently around 1200.[29][2]
+The locations for IETF meetings vary greatly. A list of past and future meeting locations is on the IETF meetings page.[30] The IETF strives to hold its meetings near where most of the IETF volunteers are located. IETF meetings are held three times a year, with one meeting each in Asia, Europe and North America. An occasional exploratory meeting is held outside of those regions in place of one of the other regions.[31]
+The IETF also organizes hackathons during the IETF meetings. The focus is on implementing code that will improve standards in terms of quality and interoperability.[32]
+Due to recent changes in USA administration that deny entry to foreign free speech supporters and could impact transgender people. There is a movement to ask the IETF to have its meeting outside of the USA in a safe country instead.[33]
+
+Operations[edit]
+The details of IETF operations have changed considerably as the organization has grown, but the basic mechanism remains publication of proposed specifications, development based on the proposals, review and independent testing by participants, and republication as a revised proposal, a draft proposal, or eventually as an Internet Standard. IETF standards are developed in an open, all-inclusive process in which any interested individual can participate. All IETF documents are freely available over the Internet and can be reproduced at will. Multiple, working, useful, interoperable implementations are the chief requirement before an IETF proposed specification can become a standard.[2] Most specifications are focused on single protocols rather than tightly interlocked systems. This has allowed the protocols to be used in many different systems, and its standards are routinely re-used by bodies which create full-fledged architectures (e.g. 3GPP IMS).[citation needed]
+Because it relies on volunteers and uses "rough consensus and running code" as its touchstone, results can be slow whenever the number of volunteers is either too small to make progress, or so large as to make consensus difficult, or when volunteers lack the necessary expertise. For protocols like SMTP, which is used to transport e-mail for a user community in the many hundreds of millions, there is also considerable resistance to any change that is not fully backward compatible, except for IPv6. Work within the IETF on ways to improve the speed of the standards-making process is ongoing but, because the number of volunteers with opinions on it is very great, consensus on improvements has been slow to develop.[citation needed]
+The IETF cooperates with the W3C, ISO/IEC, ITU, and other standards bodies.[10]
+Statistics are available that show who the top contributors by RFC publication are.[34] While the IETF only allows for participation by individuals, and not by corporations or governments, sponsorship information is available from these statistics.[citation needed]
+
+Chairs[edit]
+The IETF chairperson is selected by the NomCom process for a two-year renewable term.[35] Before 1993, the IETF Chair was selected by the IAB.[36]
+A list of the past and current chairs of the IETF:
+
+
+Mike Corrigan (1986)
+Phill Gross (1986–1994)
+Paul Mockapetris (1994–1996)
+Fred Baker (1996–2001)
+Harald Tveit Alvestrand (2001–2005)
+Brian Carpenter (2005–2007)
+Russ Housley (2007–2013)
+Jari Arkko (2013–2017)
+Alissa Cooper[37] (2017–2021)
+Lars Eggert (2021–2024)
+Roman Danyliw (2024–)
+
+Topics of interest[edit]
+The IETF works on a broad range of networking technologies which provide foundation for the Internet's growth and evolution.[38]
+
+Automated network management[edit]
+It aims to improve the efficiency in management of networks as they grow in size and complexity. The IETF is also standardizing protocols for autonomic networking that enables networks to be self managing.[39]
+
+Internet of things[edit]
+It is a network of physical objects or things that are embedded with electronics, sensors, software and also enables objects to exchange data with operator, manufacturer and other connected devices. Several IETF working groups are developing protocols that are directly relevant to IoT.[40]
+
+New transport technology[edit]
+Its development provides the ability of internet applications to send data over the Internet. There are some well-established transport protocols such as TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) which are continuously getting extended and refined to meet the needs of the global Internet.[41]
+
+See also[edit]
+
+Internet portal
+Internet governance
+References[edit]
+
+
+^ Jacobsen, O.; Lynch, D. (March 1991). A Glossary of Networking Terms. IETF. p. 7. doi:10.17487/RFC1208. ISSN 2070-1721. RFC 1208.
+
+^ a b c d e f "Internet Engineering Task Force" Archived December 28, 2014, at the Wayback Machine, Scott Bradner, Open Sources: Voices from the Open Source Revolution, O'Reilly, 1st Edition, January 1999, ISBN 1-56592-582-3. Retrieved 21 July 2014.
+
+^ "Internet Engineering Task Force (IETF)". RIPE Network Coordination Centre. August 10, 2012. Archived from the original on November 1, 2018. Retrieved August 22, 2018.
+
+^ "IETF Introduction". IETF. Retrieved January 20, 2024.
+
+^ "IETF Registration". IETF. Retrieved January 20, 2024.
+
+^ "Charter of the Internet Architecture Board (IAB)", RFC 2850, B. Carpenter, May 2000. Retrieved 21 July 2014.
+
+^ Board, Charter of the Internet Architecture Board (IAB) (May 2000). "RFC Editor". RFC Editor.
+
+^ "Nominating Committee" Archived August 24, 2024, at the Wayback Machine, IETF. Retrieved 24 August 2024.
+
+^ "RFC 3777 Update for Vacancies". WaterSprings.org. November 1, 2012.
+
+^ a b "IETF and the Internet Society" Archived July 29, 2014, at the Wayback Machine, Vint Cerf, Internet Society, 18 July 1995.
+
+^ "IETF Administration LLC"Archived August 24, 2024, at the Wayback Machine, IETF. Retrieved 24 August 2024.
+
+^ "History" Archived July 26, 2014, at the Wayback Machine, Your Public Internet Registry. Retrieved 21 July 2014.
+
+^ "IETF Trust", IETF. Retrieved 21 July 2014.
+
+^ "About". IETF. Archived from the original on June 24, 2021. Retrieved June 3, 2021.
+
+^ "IETF Areas". IETF. Archived from the original on August 24, 2024. Retrieved August 30, 2024.
+
+^ a b c John S. Quarterman (1990). Matrix: Computer Networks and Conferencing Systems Worldwide (2 ed.). Digital Press. pp. 185–186. ISBN 1-55558-033-5.
+
+^ "Phill Gross recognized with the Internet Society's Postel Award". Internet Society. Archived from the original on June 12, 2021. Retrieved June 11, 2021.
+
+^ a b c "IETF: Proposed Organizational Changes". IETF. Archived from the original on September 18, 2021. Retrieved June 11, 2021.
+
+^ Cerf, Vint; Kahn, Bob; Chapin, Lyman (1992). "Announcing the Internet Society". Archived from the original on July 29, 2020. Retrieved December 15, 2019.
+
+^ "Board Meeting No. 1 – Minutes | Internet Society". Internetsociety.org. Archived from the original on February 4, 2017. Retrieved February 4, 2017.
+
+^ dave. "Footnotes to History". netpolicynews.com. Archived from the original on February 4, 2017. Retrieved February 4, 2017.
+
+^ Internet Engineering Steering Group; Internet Architecture Board (March 1994). "The Internet Standards Process — Revision 2". tools.ietf.org. doi:10.17487/RFC1602. Archived from the original on October 18, 2020. Retrieved October 4, 2020.
+
+^ Huizer, Erik (October 1996). "RFC 2031 – IETF-ISOC relationship". IETF Datatracker. Archived from the original on June 12, 2021. Retrieved June 12, 2021.
+
+^ "FORETEC SEMINARS INC. :: Virginia (US)". OpenCorporates. Archived from the original on June 12, 2021. Retrieved June 12, 2021.
+
+^ Daigle, Leslie (December 2003). "RFC 3677 – IETF ISOC Board of Trustee Appointment Procedures". IETF Datatracker. Archived from the original on June 12, 2021. Retrieved June 12, 2021.
+
+^ "Limited Liability Company Agreement of IETF Administration LLC" (PDF). IETF. Archived (PDF) from the original on June 29, 2021. Retrieved August 14, 2020.
+
+^ "The IETF Administration LLC : On behalf of The Internet Engineering Task Force" (PDF). IETF. June 24, 2019. Archived (PDF) from the original on June 29, 2021. Retrieved March 1, 2022.
+
+^ John S. Quarterman (1990). www.google.com : Computer Networks and Conferencing Systems Worldwide (2 ed.). Digital Press. pp. 185–186. ISBN 9781555580339.
+
+^ "Past Meetings". IETF. Archived from the original on August 25, 2014. Retrieved July 21, 2014.
+
+^ "IETF Meetings". IETF. Archived from the original on January 15, 2012. Retrieved January 17, 2012.
+
+^ S. Krishnan (February 2020). High-Level Guidance for the Meeting Policy of the IETF. IETF. doi:10.17487/RFC8719. RFC 8719. Retrieved August 24, 2024.
+
+^ "IETF Hackathon". IETF. Archived from the original on September 5, 2015. Retrieved October 23, 2017.
+
+^ Boycott IETF 127
+
+^ "IETF document statistics (all documents)" Archived July 6, 2013, at the Wayback Machine, Jari Arkko. Retrieved 21 July 2014.
+
+^ "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees", RFC 3777, J. Galvin (Ed.), June 2004. Retrieved 21 July 2014.
+
+^ "Past IESG Members and IETF Chairs". IETF. Archived from the original on July 26, 2014. Retrieved July 21, 2014.
+
+^ "IETF Profile: Alissa Cooper". IETF. Archived from the original on March 21, 2019. Retrieved May 30, 2017.
+
+^ "Topics of interest". IETF. Archived from the original on September 17, 2020. Retrieved January 16, 2018.
+
+^ "Automated network management". IETF. Archived from the original on January 13, 2018. Retrieved January 16, 2018.
+
+^ "The Internet of Things". IETF. Archived from the original on April 14, 2021. Retrieved January 16, 2018.
+
+^ "New transport technology". IETF. Archived from the original on December 31, 2020. Retrieved January 16, 2018.
+
+
+External links[edit]
+Official website 
+Steering group
+IETF Online Proceedings
+Early IETF Proceedings (note: large pdf files, one for each volume)
+Past Meetings of the IETF
+Past IESG Members and IETF Chairs
+The Tao of the IETF: details on how IETF is organized
+Authority control databases InternationalISNIVIAFNationalGermanyUnited StatesCzech RepublicIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Internet_Engineering_Task_Force&oldid=1282204580"
+Categories: Internet properties established in 1986Organizations established in 1986Internet governance organizationsInternet Standard organizationsInternet-related organizationsHistory of the InternetTask forces1986 establishments in the United StatesHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataUse American English from August 2018All Wikipedia articles written in American EnglishUse mdy dates from August 2018Pages with timeline metadataWikipedia articles needing clarification from March 2025All articles with unsourced statementsArticles with unsourced statements from January 2021Articles needing cleanup from November 2021All pages needing cleanupArticles with sections that need to be turned into prose from November 2021
+
+
+
+
+
+
+ This page was last edited on 25 March 2025, at 00:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Internet Engineering Task Force
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

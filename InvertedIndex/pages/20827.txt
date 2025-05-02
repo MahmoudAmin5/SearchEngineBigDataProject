@@ -1,0 +1,1174 @@
+https://en.wikipedia.org/wiki/Netbook
+
+
+
+
+Netbook - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Educational use
+
+
+
+
+
+
+
+
+
+
+2
+Hardware
+
+
+
+
+
+
+
+
+3
+Operating systems
+
+
+
+
+Toggle Operating systems subsection
+
+
+
+
+
+3.1
+Windows
+
+
+
+
+
+
+
+
+3.2
+Android
+
+
+
+
+
+
+
+
+3.3
+ChromeOS
+
+
+
+
+
+
+
+
+3.4
+Other
+
+
+
+
+
+
+
+
+
+
+4
+Use
+
+
+
+
+
+
+
+
+5
+Trademarks and Psion lawsuit
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Netbook
+
+
+
+52 languages
+
+
+
+
+AfrikaansالعربيةAzərbaycancaবাংলাБеларускаяБеларуская (тарашкевіца)БългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançais한국어Հայերենहिन्दीBahasa IndonesiaÍslenskaItalianoעבריתქართულიҚазақшаКыргызчаລາວLietuviųMagyarമലയാളംმარგალურიمازِرونیNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்ไทยTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Class of small and inexpensive laptops
+For the Psion device, see Psion netBook.
+
+
+An Samsung NC10 netbook computer
+A netbook is a small-sized laptop computer; they were primarily sold from 2007 until around 2013, designed mostly as a means of accessing the Internet and being significantly less expensive than regular-sized laptops.
+
+An Acer Aspire One netbook sitting on a standard sized Toshiba Satellite laptop, demonstrating the size difference
+At their inception in late 2007,[1] as smaller-than-typical laptop computers optimized for low weight and low cost,[2] netbooks began appearing without certain then-standard laptop features (such as an optical drive), and with less computing power than in full-sized laptops. They ranged in size from about 5" screen diagonal to 12", with a typical weight of about 1 kg (2.2 pounds), and were often significantly less expensive than other laptops.[3] Soon after their appearance, netbooks grew in size and features, and converged with smaller laptops and subnotebooks until the specifications were so similar that there was little distinction between the devices.[4] At their peak, the low cost gave them a significant portion of the laptop computer market.
+When Windows 7 released, netbook manufacturers had to increase specifications in order for their devices to run it. This had the effect of pushing netbooks into a market niche where they had few distinctive advantages over traditional laptops.[5] With these constraints and the increasing popularity of tablet computers in 2011, it led to declining sales of netbooks.[5][6] By the end of 2012, few new laptops were marketed as "netbooks", and the term disappeared from common usage.[7]
+
+
+History[edit]
+An Asus Eee PC 700, the first mass-produced netbook, which used a 7-inch screen, here running Linux
+While Psion had an unrelated netBook line of machines, the use of the broad marketing term "netbook", began in 2007 when Asus unveiled the Asus Eee PC. Originally designed for emerging markets, the 23 cm × 17 cm (9.1 in × 6.7 in) device weighed about 0.9 kg (2 lb) and featured a 7 in (18 cm) display, a keyboard approximately 85% the size of a normal keyboard, a solid-state drive and a custom version of Linux with a simplified user interface geared towards consumer use.[8] Following the Eee PC, Everex launched its Linux-based CloudBook; Windows XP and Windows Vista models were also introduced and MSI released the Wind—others soon followed suit.
+
+The OLPC project followed the same market goals laid down by the eMate 300 eight years earlier.[9][10] Known for its innovation in producing a durable, cost- and power-efficient netbook for developing countries, it is regarded as one of the major factors that led more top computer hardware manufacturers to begin creating low-cost netbooks for the consumer market.[11]An HP Mini 1000 netbook
+When the first Asus Eee PC sold over 300,000 units in four months, companies such as Dell and Acer took note and began producing their own inexpensive netbooks. And while the OLPC XO-1 targets a different audience than do the other manufacturers' netbooks, it appears that OLPC is now facing competition. Developing countries now have a large choice of vendors, from which they can choose which low-cost netbook they prefer.[12]
+
+Netbook market popularity within laptops in second half of 2008 based on the number of product clicks in the Laptop Subcategory per month by PriceGrabber[3]
+By late 2008, netbooks began to take market share away from notebooks.[13] It was more successful than earlier "mini notebooks," most likely because of lower cost and greater compatibility with mainstream laptops.
+Having peaked at about 20% of the portable computer market, netbooks started to slightly lose market share (within the category) in early 2010, coinciding with the appearance and success of the iPad.[14] Technology commentator Ross Rubin argued two and a half years later in Engadget that "Netbooks never got any respect.  While Steve Jobs rebuked the netbook at the iPad's introduction, the iPad owes a bit of debt to the little laptops. The netbook demonstrated the potential of an inexpensive, portable second computing device, with a screen size of about 10 inches, intended primarily for media consumption and light productivity."[15] Although some manufacturers directly blamed competition from the iPad, some analysts pointed out that larger, fully fledged laptops had entered the price range of netbooks at about the same time.[16]
+The 11.6-inch MacBook Air, introduced in late 2010, compared favorably to many netbooks in terms of processing power but also ergonomics, at 2.3 pounds being lighter than some 10-inch netbooks, owing in part to the integration of the flash storage chips on the main logic board.[17] It was described as a superlative netbook (or at least as what a netbook should be) by several technology commentators,[18][19][20] even though Apple has never referred to it as such, sometimes describing it—in the words of Steve Jobs—as "the third kind of notebook."[19] The entry-level model had an MSRP of $999,[19] costing as much as three or four times more than the average netbook.[15]
+In 2011 tablet sales overtook netbooks for the first time, and in 2012 netbook sales fell by 25 percent, year-on-year.[21] The sustained decline since 2010 had been most pronounced in the United States and in Western Europe, while Latin America was still showing some modest growth.[22] In December 2011, Dell announced that it was exiting the netbook market.[23] In May 2012, Toshiba announced it was doing the same, at least in the United States.[24] An August 2012 article by John C. Dvorak in PC Magazine claimed that the term "netbook" was "nearly gone from the lexicon already", having been superseded in the market place largely by the more powerful (and MacBook Air inspired) Ultrabook—described as "a netbook on steroids"—and to a lesser extent by tablets.[25] In September 2012 Asus, Acer and MSI announced that they will stop manufacturing 10-inch netbooks.[26] Simultaneously Asus announced they would stop developing all Eee PC products, instead focusing on their mixed tablet-netbook Transformer line.[26]
+
+With the introduction of Chromebooks, major manufacturers produced the new laptops for the same segment of the market that netbooks serviced. Chromebooks, a variation on the network computer concept, in the form of a netbook, require internet connections for full functionality. Chromebooks became top selling laptops in 2014. The threat of Google ChromeOS based Chromebooks prompted Microsoft to revive and revamp netbooks with Windows 8.1 with Bing. HP re-entered the non-Chromebook netbook market with the Stream 11 in 2014.[27].A Samsung N130, manufactured in 2010. Although Windows XP was in the process of being supplanted by its successors, Windows Vista and Windows 7, some netbook manufacturers offered the operating system alongside its successors.
+Educational use[edit]
+In Australia, the New South Wales Department of Education and Training, in partnership with Lenovo, provided Year 9 (high school) students in government high schools with Lenovo S10e netbooks in 2009, Lenovo Mini 10 netbooks in 2010, Lenovo Edge 11 netbooks in 2011 and a modified Lenovo X130e netbook in 2012, each preloaded with software including Microsoft Office and Adobe Systems' Creative Suite 4. These were provided under Prime Minister Kevin Rudd's Digital Education Revolution, or DER. The netbooks ran Windows 7 Enterprise. These netbooks were secured with Computrace Lojack for laptops that the police can use to track the device if it is lost or stolen. The NSW DET retains ownership of these netbooks until the student graduates from Year 12, when the student can keep it. The Government of Trinidad and Tobago—Prime Minister Kamla Persad Bisseser—is also providing HP laptops to form 1 Students (11-year-olds) with the same police trackable software as above.
+Greece provided all 13-year-old students (middle school, or gymnasium, freshmen) and their teachers with netbooks in 2009[28] through the "Digital Classroom Initiative". Students were given one unique coupon each, with which they redeemed the netbook of their choice, up to a €450 price ceiling, in participating shops throughout the country. These netbooks came bundled with localized versions of either Windows XP (or higher) or open source (e.g. Linux) operating systems, wired and wireless networking functionality, antivirus protection, preactivated parental controls, and an educational software package.
+
+Hardware[edit]
+Samsung NC10 motherboard featuring the Intel Atom processor
+Netbooks typically have less powerful hardware than larger laptop computers and do not include an optical disc drive that contemporaneous laptop computers often had. Netbooks were some of the first machines to substitute solid-state storage devices, instead of the traditional hard disk drive commonly found on laptop and desktop computers at the time.[29] This was due to solid-state drives being smaller, more power efficient, and more shock resistant. Unlike modern solid-state drives, these early models often did not offer better performance.
+Almost all netbooks supported Wi-Fi and some supported Mobile broadband.[30] Some also include Ethernet and/or modems.
+Most netbooks used low-end, x86 processors focused on low power consumption. The majority of early netbooks typically used processors from the Intel Atom line, but some used competing processors from AMD, including netbook APUs,[31][32] or VIA Technologies, including the C7 and Nano. Some very low-cost netbooks use a system-on-a-chip Vortex86 processor designed for embedded systems.[33][34][35][36] A few netbooks used non-x86 processors based on ARM or MIPS architectures.[37][38]
+
+Operating systems[edit]
+Windows[edit]
+Microsoft announced on April 8, 2008, that, despite the impending end of retail availability for the operating system that June, it would continue to license low-cost copies of Windows XP Home Edition to OEMs through October 2010 (one year after the release of Windows 7) for what it defined as "ultra low-cost personal computers"—a definition carrying restrictions on screen size and processing power.[39][40] The move served primarily to counter the use of low-cost Linux distributions on netbooks and create a new market segment for Windows devices, whilst ensuring that the devices did not cannibalize the sales of higher-end PCs running Windows Vista.[41] In 2009, over 90% (96% claimed by Microsoft as of February 2009) of netbooks in the United States were estimated to ship with Windows XP.[42][43]
+For Windows 7, Microsoft introduced a new stripped-down edition intended for netbooks known as "Starter", exclusively for OEMs. In comparison to Home Premium, Starter has reduced multimedia functionality, does not allow users to change their desktop wallpaper or theme, disables the "Aero Glass" theme, and does not have support for multiple monitors.[44][45]
+For Windows 8, in a ploy to counter ChromeOS-based netbooks and low-end Android tablets, Microsoft began to offer no-cost Windows licenses to OEMs for devices with screens smaller than 9 inches in size. Additionally, Microsoft began to offer low-cost licenses for a variant of the operating system set up to use Microsoft's Bing search engine by default.[27][46][47][48]
+Windows CE has also been used in netbooks, due to its reduced feature set.[49]
+
+Android[edit]
+A low-cost Craig netbook with Android
+Google's Android software platform, designed for mobile telephone handsets, has been demonstrated on an ASUS Eee PC and its version of the Linux operating system contains policies for mobile internet devices including the original Asus Eee PC 701.[50] ASUS has allocated engineers to develop an Android-based netbook.[51] In May 2009 a contractor of Dell announced it is porting Adobe Flash Lite to Android for Dell netbooks.[52] Acer announced Android netbooks to be available in Q3/2009.[53] In July 2009, a new project, Android-x86,[54] was created to provide an open source solution for Android on the x86 platform, especially for netbooks.
+
+ChromeOS[edit]
+In 2011, Google introduced ChromeOS, a Linux-based operating system designed particularly for netbook-like devices marketed as "Chromebooks". The platform is designed to leverage online services, cloud computing, and its namesake Chrome web browser as its shell—so much so that the operating system initially used a full screen web browser window as its interface, and contained limited offline functionality.[55][56] Later versions of ChromeOS introduced a traditional desktop interface[57] and a platform allowing "native" packaged software written in HTML, JavaScript, and CSS to be developed for the platform.[58]
+
+Other[edit]
+See also: Comparison of netbook-oriented Linux distributions
+Netbooks have sparked the development of several Linux variants or completely new distributions, which are optimized for small screen use and the limited processing power of the Atom or ARM processors which typically power netbooks. Examples include Ubuntu Netbook Edition, EasyPeasy, Joli OS and MeeGo. Both Joli OS and MeeGo purport to be "social oriented" or social networking operating systems rather than traditional "office work production" operating systems. Netbook users can also install other UNIX-based operating systems such as FreeBSD, NetBSD, OpenBSD, and Darwin.[59]
+Since 2010, major netbook manufacturers no longer install or support Linux in the United States. The reason for this change of stance is unclear, although it coincides with the availability of a 'netbook' version of Windows XP, and a later Windows 7 Starter and a strong marketing push for the adoption of this OS in the netbook market. However, companies targeting niche markets, such as System76 and ZaReason, continue to pre-install Linux on the devices they sell.
+The Cloud operating system attempted to capitalize on the minimalist aspect of netbooks.  The user interface was limited to a browser application only.
+Mac OS X has been demonstrated running on various netbooks as a result of the OSx86 project,[60] although this is in violation of the operating system's end-user license agreement.[61] Apple has complained to sites hosting information on how to install OS X onto non-Apple hardware (including Wired and YouTube) who have reacted and removed content in response.[62] One article nicknamed a netbook running OS X a "Hackintosh."
+
+Use[edit]
+A June 2009 NPD study found that 60% of netbook buyers never take their netbooks out of the house.[63]
+Special "children's" editions of netbooks have been released under Disney branding; their low cost (less at risk), lack of DVD player (less to break) and smaller keyboards (closer to children's hand sizes) are viewed as significant advantages for that target market. The principal objection to netbooks in this context is the lack of good video performance for streaming online video in current netbooks and a lack of speed with even simple games. Adults browsing for text content are less dependent on video content than small children who cannot read.
+Netbooks offer several distinct advantages in educational settings. First, their compact size and weight make for an easy fit in student work areas. Similarly, their small size makes netbooks easier to transport than heavier, larger sized traditional laptops. In addition, prices ranging from $200–$600 mean the affordability of netbooks can be a relief to school budget makers. Despite the small size and price, netbooks are fully capable of accomplishing most school-related tasks, including word processing, presentations, access to the Internet, multimedia playback, and photo management.[64]
+
+Trademarks and Psion lawsuit[edit]
+The Psion netBook from 1999
+In 1996 Psion started applying for trademarks for a line of netBook products that was later released in 1999.[65] International trademarks were issued (including U.S. Trademark 75,215,401 and EUTM 000428250) but the models failed to gain popularity[66] and were discontinued by the time modern netbooks came about (except for providing accessories, maintenance and support to existing users).[67] Similar marks were recently rejected by the USPTO citing a "likelihood of confusion" under section 2(d).[68][69][70]
+Despite expert analysis that the mark is "probably generic",[71] Psion Teklogix issued cease and desist letters on December 23, 2008.[72][65][73] This was heavily criticized,[74][75][76] prompting the formation of the "Save the Netbooks" grassroots campaign which worked to reverse the Google AdWords ban, cancel the trademark and encourage continued generic use of the term.[66] While preparing a "Petition for Cancellation" of U.S. Trademark 75,215,401 they revealed[77] that Dell had submitted one day before[78] on the basis of abandonment, genericness and fraud.[79] They later revealed Psion's counter-suit against Intel, filed on February 27, 2009.[80]
+It was also revealed around the same time that Intel had also sued Psion Teklogix (US & Canada) and Psion (UK) in the Federal Court on similar grounds.[81] In addition to seeking cancellation of the trademark, Intel sought an order enjoining Psion from asserting any trademark rights in the term "netbook", a declarative judgment regarding their use of the term, attorneys' fees, costs and disbursements and "such other and further relief as the Court deems just and proper".[82]
+On June 2, 2009, Psion announced that the suit had been settled out of court. Psion's statement said that the company was withdrawing all of its trademark registrations for the term "Netbook" and that Psion agreed to "waive all its rights against third parties in respect of past, current or future use" of the term.[83]
+
+See also[edit]
+
+Comparison of netbooks
+Chromebook
+Mobile phone
+Mobile broadband
+Mobile Internet device (MID)
+Mobile modem
+Nettop, a desktop equivalent of the netbook
+Pay As You Go (phone)
+PDA
+Smartbook
+SIM card
+Subnotebook
+Tablet Computer
+Tethering
+Thin PC
+Ultra-mobile PC (UMPC), a form factor smaller than the netbook
+References[edit]
+
+
+^ "What was the first netbook?". Computerworld. May 11, 2009. Archived from the original on January 30, 2011. Retrieved January 19, 2011.
+
+^ "Cheap PCs Weigh on Microsoft". The Wall Street Journal. Business Technologies blog. December 8, 2008.
+
+^ a b Netbook Trends and Solid-State Technology Forecast (PDF). pricegrabber.com. p. 7. Archived from the original (PDF) on February 26, 2009. Retrieved January 28, 2009.
+
+^ Ogg, Erica (August 20, 2009). "Time to drop the Netbook label". CNN. Retrieved May 20, 2010.
+
+^ a b Charles Arthur (December 31, 2012). "Sayonara, netbooks: Asus (and the rest) won't make any more in 2013". The Guardian. Retrieved February 10, 2015.
+
+^ Caulfield, Brian (November 28, 2011). "The NetBook Is Dead, The iPad Killed It, Don't Buy One". Forbes. Retrieved June 20, 2012.
+
+^ Arthur, Charles (December 31, 2012). "Asus (and the rest) won't make any more in 2013". The Guardian.
+
+^ Bajarin, Tim (September 12, 2008). "Netbooks vs. Notebooks". PCMagazine.
+
+^ Edwards, Benj (December 21, 2012). "The Forgotten eMate 300 -- 15 years later". MacWorld.
+
+^ "Apple eMate 300 Quick Fact Sheet". Apple. 1996.
+
+^ "OLPC: The History Of One Laptop Per Child". TechRadar. Archived from the original on November 17, 2011.
+
+^ Kraemer et al.: "One Laptop Per Child: Vision vs. Reality", Communications of the ACM, June 2009.
+
+^ Ian Lamont (October 4, 2008). ""Netbooks" Move Up In Notebook Rankings". Slashdot. Retrieved October 23, 2008.
+
+^ "Apple's iPad nabs Netbook market share".
+
+^ a b Ross Rubin (July 8, 2012). "Switched On: The Netbook Legacy". Engadget.
+
+^ Tim Bajarin (January 30, 2012). "Are Netbooks Finally Dead?". PC Magazine.
+
+^ Mark Spoonauer (October 21, 2010). "Apple 11-inch MacBook Air Review". Laptopmag.
+
+^ Chris Nuttall. "MacBook Air – my new favourite netbook". Financial Times.
+
+^ a b c "MacBook Air a great Windows Netbook, for a price". CNET.
+
+^ "MacBook Air 11-inch: What a netbook should look like". ZDNet.
+
+^ Arthur, Charles (February 3, 2012). "Netbooks plummet while tablets and smartphones soar, says Canalys". The Guardian.
+
+^ Loyd Case (February 21, 2012). "Are Netbooks Dead? The Prognosis Is Grim Netbook sales are declining precipitously". PC World.
+
+^ Melanie Pinola (December 16, 2011). "Dell Abandons Netbooks in Favor of Ultrabooks". PC World.
+
+^ Fingas, Jon (May 25, 2012). "Toshiba bows out of netbooks in the US, sees Ultrabooks as the wave of the future". Engadget.com. Retrieved December 21, 2013.
+
+^ John C. Dvorak (August 23, 2012). "Where Did All the Netbooks Go?". PC Magazine.
+
+^ a b Monica Chen; Joseph Tsai (September 3, 2012). "Intel may need to adjust roadmap for PC-use Atom processors". DIGITIMES.
+
+^ a b Andrew Cunningham (December 6, 2014). "Don't call it a netbook (or a "Chromebook killer")—HP's $200 Stream 11 reviewed". Ars Technica.
+
+^ "Digital Aid S.A". Digitalaid.gr. Archived from the original on May 31, 2009. Retrieved December 21, 2013.
+
+^ "What is a Netbook computer?".
+
+^ Ganapati, Priya (December 15, 2008). "The Next Netbook Trend: Cellphone-Like Contract Deals". Wired. Retrieved May 20, 2009.
+
+^ mehboob (March 12, 2010). "AMD plans to launch Netbooks Processors next year". Processor Discussions. smartbooktalk.com. Archived from the original on June 9, 2011. Retrieved January 5, 2011.
+
+^ Patrizio, Andy (March 10, 2010). "AMD to Introduce Netbook Chip in 2011". Hardware Central. internet.com. Archived from the original on December 30, 2010. Retrieved January 5, 2011.
+
+^ "Gateway LT3103u review". CNET.
+
+^ Michael A. Prospero (August 19, 2009). "Gateway LT3103u Review]". Laptopmag.
+
+^ Cisco Cheng. "Gateway LT3103u review". PC Magazine.
+
+^ Catharine Smith (August 26, 2009). "Gateway LT3103u Review". Computer Shopper US. Archived from the original on November 3, 2009.
+
+^ Rubin, Ross (December 22, 2008). "Switched On: Alpha 400 pays a high price for low cost". Engadget. Retrieved January 5, 2011.
+
+^ h3rman (May 21, 2009). "The Loongson-2 MIPS Lemote Yeeloong Netbook". OSNews. Retrieved January 5, 2011.{{cite news}}:  CS1 maint: numeric names: authors list (link)
+
+^ "Microsoft to keep Windows XP alive—but only for Eee PCs and wannabes". Computerworld. IDG. Retrieved April 8, 2008.
+
+^ "Microsoft Extends XP Through 2010 for Ultra-Low-Cost Laptops". PC World. IDG. Archived from the original on April 6, 2008. Retrieved April 4, 2008.
+
+^ "Microsoft to limit capabilities of cheap laptops". ITWorld. IDG. May 11, 2008. Retrieved December 15, 2014.
+
+^ Gralla, Preston (March 3, 2009). "Think Linux Rules on Netbooks? Think Again". PC World. Archived from the original on March 5, 2009. Retrieved January 5, 2011.
+
+^ McDougall, Paul (April 6, 2009). "Microsoft: 96% Of Netbooks Run Windows". InformationWeek. Archived from the original on September 13, 2009. Retrieved January 5, 2011.
+
+^ Hachman, Mark (February 5, 2009). "All Windows 7 Versions—What You Need to Know". ExtremeTech. Archived from the original on February 18, 2012. Retrieved August 2, 2010.
+
+^ "Windows 7: Which Edition is Right For You?". PC World. February 3, 2009. Retrieved February 5, 2009.
+
+^ "Microsoft making Windows free on devices with screens under 9 inches". The Verge. April 2, 2014. Retrieved April 2, 2014.
+
+^ "Microsoft combats Chromebooks by cutting Windows licensing fees by 70 percent". The Verge. February 21, 2014. Retrieved February 23, 2014.
+
+^ "Helping our hardware partners build lower cost Windows devices". Windows Experience Blog. Microsoft Corporation. Archived from the original on May 23, 2014. Retrieved May 23, 2014.
+
+^ "Windows CE takes on Linux in low-end netbooks". Windows for Devices. Archived from the original on January 5, 2013.
+
+^ Krzykowski, Matthäus & Hartmann, Daniel (January 1, 2009), "Android netbooks on their way, likely by 2010", SocialBeat
+
+^ Culpan, Tim (February 20, 2009), "Google Android May Run Asus Netbook, Rival Microsoft (Update1)", Bloomberg
+
+^ "Bsquare to Port Adobe Flash Lite on New Google Android Netbook for Del", FierceWireless, May 6, 2009, archived from the original on May 13, 2009
+
+^ "Acer to sell Android netbook PCs in Q3". Reuters. June 2, 2009.
+
+^ "Android-x86 project".
+
+^ Smith, William. "8 Things You Need to Know About Chrome OS". Pcgamer. MaximumPC. Retrieved May 14, 2011.
+
+^ Sherr, Ian (May 11, 2011). "Google to launch Chrome Laptops in June". Wall Street Journal. Retrieved May 11, 2011.
+
+^ Lardinois, Frederic (April 9, 2012). "Google's Chrome OS Will Soon Look More Like Windows Than A Browser". Techcrunch. Retrieved June 2, 2013.
+
+^ Samson, Ted (May 16, 2013). "Google entices Chrome OS developers with prospect of native-like apps". InfoWorld. Retrieved June 5, 2013.
+
+^ NetBSD Foundation (July 7, 2011). "See NetBSD in Action". Archived from the original on August 26, 2014. Retrieved January 22, 2014.
+
+^ "Mac OS X Netbook Compatibility Chart (Updated)".
+
+^ Sorrel, Charlie. "It Lives! Gadget Lab's Netbook Running OS X Leopard". Wired.
+
+^ Chen, Brian X. "Gadget Lab Video: Running OS X on a Netbook". Wired.
+
+^ "NPD Finds Consumer Confusion about Netbooks Continues" (Press release). NPD Group. June 22, 2009. Archived from the original on June 25, 2009.
+
+^ Descy, D. (2009), "Netbook: Small but Powerful Friends", Tech Trends, 53 (2): 9–10, doi:10.1007/s11528-009-0256-z, S2CID 60084224
+
+^ a b "Psion Continues To Extend The Reach Of E-Business Strategies Beyond The Enterprise...Announces Support For Oracle8i Lite On Its New Netbook Device" (Press release). October 26, 1999. Archived from the original on June 8, 2011.
+
+^ a b "Save the Netbooks: fighting a trademark on extinct hardware". February 17, 2009.
+
+^ "Psion Teklogix Discontinued Products". Archived from the original on May 17, 2007.
+
+^ U.S. Trademark 77,527,311 for 'G NETBOOK' rejected October 31, 2008.
+
+^ U.S. Trademark 77,580,272 for MSI's 'WIND NETBOOK'
+
+^ U.S. Trademark 77,590,174 for Coby Electronics' 'COBY NETBOOK' rejected January 13, 2009.
+
+^ "How To Lose A Trademark: "Netbook" Is Probably Generic". Patent Hands. Archived from the original on March 24, 2012.
+
+^ "Netbook enthusiast web sites getting C & D using term "netbook"".
+
+^ Schofield, Jack (December 24, 2008). "Psion threatens netbook sites over trademarks". The Guardian.
+
+^ "'Netbook' trademarked already, we're all doomed". Archived from the original on March 1, 2009.
+
+^ Chen, Brian X. "Using the Word 'Netbook' Could Get You Sued". Wired.
+
+^ "Cease and Desist: the netbook war of words". Archived from the original on March 11, 2009.
+
+^ "Dell accuses Psion of "fraud" over netbook claims".
+
+^ "Dell fights back against Psion netBook trademark rampage". February 19, 2009.
+
+^ "Dell Goes 'Nuclear' Over Netbook Trademark". February 20, 2009. Archived from the original on February 23, 2009.
+
+^ "Newsflash: Intel counter-sued by Psion in "netbook" trademark lawsuit; jury trial demanded". Save the Netbooks. Archived from the original on March 3, 2009.
+
+^ "Intel Wants 'Netbook' Trademark Canceled".
+
+^ "Complaint for Injunctive Relief, Declaratory Judgment & Cancellation of Federal Trademark" (PDF). Archived from the original (PDF) on March 4, 2009.
+
+^ "Psion, Intel settle 'Netbook' trademark dispute".
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Netbooks.
+
+
+
+
+Look up netbook in Wiktionary, the free dictionary.
+
+"The rise of the Netbook" article at CNET
+"The State of the Netbook" article at Ars Technica
+"The Netbook Effect: How Cheap Little Laptops Hit the Big Time" article at Wired
+"Light and Cheap, Netbooks Are Poised to Reshape PC Industry" article at New York Times
+vteNetbooks
+Acer Aspire One
+Asus Eee PC
+Classmate PC
+CloudBook
+Dell Inspiron Mini
+Doel
+ECS G10IL
+Elonex ONE
+Gateway LT31
+Gdium
+Gigabyte M912
+HP Mini/Mini-Note
+MSI Wind
+Nanobook
+Noahpad
+OLPC XO-1
+One A110
+Samsung N130/N140 NC10/NC20
+Skytone Alpha-400
+Sony VAIO M series
+Sony VAIO W series
+Tianhua GX-1C
+VIA OpenBook
+PAC-nBook 1
+
+Comparison of netbooks
+Netbook manufacturers
+Comparison of netbook-oriented Linux distributions
+
+vteComputer sizes and classesMicroStaticAppliances
+Arcade cabinet
+Diskless node
+Internet appliance
+Intelligent terminal
+Interactive kiosk
+Rich client
+Simulator
+Smart speaker
+Smart TV
+Thin client
+Video game console
+Home console
+Microconsole
+ComputersBy use
+Gaming
+Home
+Industrial
+Personal
+Personal super
+Public
+Server
+Home server
+Workstation
+By size
+All-in-one
+Panel
+Tabletop
+Surface
+Desktop
+Deskside
+Pizza box
+Tower
+Portable
+Small form factor
+Mini PC
+Plug
+Stick PC
+Rack
+Blade server
+Blade PC
+MobileLaptop
+2-in-1
+Convertible
+Cloudbook
+Mobile workstation
+Notebook
+Subnotebook
+Netbook
+Smartbook
+Tablet
+Detachable
+Phablet
+Handheld
+Electronic organizer
+E-reader
+Handheld game console
+Handheld PC
+Mobile data terminal
+Mobile phone
+Camera
+Feature
+Smartphone
+Foldable
+Palmtop PC
+Personal digital assistant
+Pocket
+Portable data terminal
+Portable media player
+Siftable
+Ultra-mobile PC
+Calculator
+Graphing
+Programmable
+Scientific
+Wearable
+Fitness tracker
+Smart band
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartglasses
+Smart ring
+Midrange
+Mini
+Supermini
+Large
+Grid
+Mainframe
+Minisuper
+Super
+Others
+Embedded system
+Information appliance
+Microcontroller
+Nano
+Rugged
+Rugged smartphone
+Single-board
+Computer-on-module
+Smartdust
+Wireless sensor network
+
+ Category
+
+vteCloud computingBusiness models
+Content as a service
+Data as a service
+Desktop as a service
+Function as a service
+Infrastructure as a service
+Integration platform as a service
+Backend as a service
+Network as a service
+Platform as a service
+Security as a service
+Software as a service
+Technologies
+Cloud database
+Cloud-native computing
+Cloud storage
+Cloud storage gateways
+Data centers
+Dew computing
+Distributed file system for cloud
+Hardware virtualization
+Internet
+Mobile cloud computing
+Native cloud application
+Networking
+Personal cloud
+Security
+Serverless computing
+Structured storage
+Virtual appliance
+Web APIs
+Virtual private cloud
+Applications
+Box
+Dropbox
+Google
+Workspace
+Drive
+HP Cloud (closed)
+IBM Cloud
+Lark
+Microsoft
+Office 365
+OneDrive
+Nextcloud
+Oracle Cloud
+Owncloud
+Proton Drive
+Rackspace
+Salesforce
+Seafile
+PlateSpin
+Workday
+Zoho
+Platforms
+Alibaba Cloud
+Amazon Web Services
+AppScale
+Box
+CloudBolt
+Cloud Foundry
+Cocaine (PaaS)
+Creatio
+Engine Yard
+Helion
+GE Predix
+Google App Engine
+GreenQloud
+Heroku
+IBM Cloud
+Inktank
+Jelastic
+Microsoft Azure
+MindSphere
+Netlify
+Oracle Cloud
+OutSystems
+openQRM
+OpenShift
+PythonAnywhere
+RightScale
+Scalr
+Force.com
+SAP Business Technology Platform
+Splunk
+Vercel
+vCloud Air
+WaveMaker
+Infrastructure
+Alibaba Cloud
+Amazon Web Services
+Abiquo Enterprise Edition
+CloudStack
+Citrix Cloud
+Deft
+DigitalOcean
+EMC Atmos
+Eucalyptus
+Fujitsu
+Google Cloud
+GreenButton
+GreenQloud
+IBM Cloud
+iland
+Joyent
+Linode
+Lunacloud
+Microsoft Azure
+Mirantis
+Netlify
+Nimbula
+Nimbus
+OpenIO
+OpenNebula
+OpenStack
+Oracle Cloud
+OrionVM
+Rackspace Cloud
+Safe Swiss Cloud
+Zadara
+libvirt
+libguestfs
+OVirt
+Virtual Machine Manager
+Wakame-vdc
+Vercel
+Virtual Private Cloud OnDemand
+
+ Category
+ Commons
+
+Authority control databases: National United StatesCzech RepublicIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Netbook&oldid=1285515181"
+Categories: NetbooksAppropriate technologyCloud clientsInformation appliancesJapanese inventionsLaptops2007 neologismsHidden categories: CS1 maint: numeric names: authors listArticles with short descriptionShort description is different from WikidataWikipedia pages move-protected due to vandalismUse American English from March 2021All Wikipedia articles written in American EnglishUse mdy dates from February 2023Commons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 14 April 2025, at 04:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Netbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

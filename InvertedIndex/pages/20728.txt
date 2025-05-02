@@ -1,0 +1,625 @@
+https://en.wikipedia.org/wiki/Vector_graphics_editor
+
+
+
+
+Vector graphics editor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Vector editors versus bitmap editors
+
+
+
+
+
+
+
+
+2
+Specialized features
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Vector graphics editor
+
+
+
+21 languages
+
+
+
+
+БеларускаяBosanskiCatalàČeštinaEspañolفارسیFrançaisGalego한국어ՀայերենBahasa IndonesiaമലയാളംNederlands日本語RomânăРусскийSimple EnglishTürkçeУкраїнська粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+This article may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (December 2023)
+Type of application software
+A screenshot of the xfig vector graphic editor
+A vector graphic editor is a computer program that enables its users to create, compose and edit images with the use of mathematical and geometrical commands rather than individual pixels. This software is used in creating high-definition vector graphic images that can be scaled indefinitely without losing their quality. The output is saved in vector graphic formats, such as EPS, ODG, or SVG.
+
+
+Vector editors versus bitmap editors[edit]
+Vector editors are often contrasted with bitmap editors, and their capabilities complement each other. Vector editors are often better for page layout, typography, logos, sharp-edged artistic illustrations (e.g. cartoons, clip art, complex geometric patterns), technical illustrations, diagramming and flowcharting. Bitmap editors are more suitable for retouching, photo processing, photorealistic illustrations, collage, and illustrations drawn by hand with a pen tablet.[1] Recent versions of bitmap editors such as GIMP and Adobe Photoshop support vector tools (e.g. editable paths), and vector editors have adopted raster effects that were once limited to bitmap editors (e.g. blurring).[2][3]
+
+Specialized features[edit]
+Some vector editors support animation, while others (e.g. Synfig Studio) are specifically geared towards producing animated graphics. Generally, vector graphics are more suitable for animation, though there are raster-based animation tools as well.[4]
+3D computer graphics software such as Maya, Blender or Autodesk 3ds Max can also be thought of as an extension of the traditional 2D vector editors, as they share some common concepts and tools.
+
+See also[edit]
+Vector graphics
+Comparison of vector graphics editors
+Raster graphics editor
+Image editing
+Graphics
+MetaPost
+
+
+References[edit]
+
+
+^ "What is Vector Graphic Software?". Indeed.
+
+^ "2.7. Basic Vector Support". docs.gimp.org. Retrieved 2023-12-28.
+
+^ Betts, Andy (2018-03-05). "Creating and Working With Vector Graphics in Adobe Photoshop". MUO. Retrieved 2023-12-28.
+
+^ "Online Vector Animation Software - Animate Your Vector Graphics". SVGator. Retrieved 2023-12-28.
+
+
+External links[edit]
+Bitmap and Vector Graphics Explained
+Edit SVG Images Online
+App Vector Graphics
+vteVector graphics editorsFree and open-source
+Collabora Online
+LibreOffice
+OpenOffice
+Inkscape
+Ipe
+Karbon
+sK1
+SVG-edit
+Xfig
+Proprietary
+Adobe Illustrator
+Adobe XD
+Affinity Designer
+Boxy SVG
+Canvas X
+CorelDRAW
+EazyDraw
+Figma
+PhotoLine
+Sketch
+Xara Designer Pro+
+Discontinued
+Adobe Fireworks
+Adobe FreeHand
+Draw
+StarOffice
+OpenOffice.org
+Go-oo
+NeoOffice
+DrawPlus
+Embroidermodder
+MacDraw
+Microsoft Expression Design
+Skencil
+Sodipodi
+Xara Xtreme LX
+
+ Category
+ Comparison
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Vector_graphics_editor&oldid=1268409304"
+Category: Vector graphics editorsHidden categories: Wikipedia articles needing rewrite from December 2023All articles needing rewriteArticles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 9 January 2025, at 16:48 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Vector graphics editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

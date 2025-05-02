@@ -1,0 +1,933 @@
+https://en.wikipedia.org/wiki/Robotic_vacuum_cleaner
+
+
+
+
+Robotic vacuum cleaner - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Main features
+
+
+
+
+Toggle Main features subsection
+
+
+
+
+
+2.1
+Cleaning modes
+
+
+
+
+
+
+
+
+2.2
+Wet mopping
+
+
+
+
+
+
+
+
+2.3
+Others
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Robotic vacuum cleaner
+
+
+
+28 languages
+
+
+
+
+العربيةCatalàDanskDeutschEestiEspañolفارسیFrançais한국어Bahasa IndonesiaעבריתLatinaLietuviųMagyarМонголNederlands日本語Norsk bokmålOʻzbekcha / ўзбекчаPortuguêsRomânăРусскийSuomiSvenskaTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Autonomous vacuum floor cleaning system
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (July 2019) (Learn how and when to remove this message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Robotic vacuum cleaner" – news · newspapers · books · scholar · JSTOR (July 2014) (Learn how and when to remove this message)
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (March 2025)
+
+ (Learn how and when to remove this message)
+A cleaning robot from 2006
+Part of a series onAutomation
+Automation in general
+
+Banking
+Building
+Home
+Highway system
+Laboratory
+Library
+Broadcast
+Mix
+Pool cleaner
+Pop music
+Reasoning
+Semi-automation
+Telephone
+Attendant
+Switchboard
+Teller machine
+Vehicular
+Vending machine
+
+
+Robotics and robots
+
+Domestic
+Vacuum cleaner
+Roomba
+Lawn mower
+Guided vehicle
+Industrial
+Paint
+ODD
+
+
+Impact of automation
+
+Manumation
+OOL
+Bias
+Self-driving cars
+Technological unemployment
+Jobless recovery
+Post-work society
+Threat
+
+
+Trade shows and awards
+
+ASP-DAC
+DAC
+DATE
+IEEE Robotics and Automation Award
+ICCAD
+
+vte
+Robotic vacuum cleaner on a hardwood floor.
+A robotic vacuum cleaner, sometimes called a robovac or a roomba as a generic trademark, is an autonomous vacuum cleaner which has a limited vacuum floor cleaning system combined with sensors and robotic drives with programmable controllers and cleaning routines. Early designs included manual operation via remote control and a "self-drive" mode which allowed the machine to clean autonomously.[1]
+Marketing materials for robotic vacuums frequently cite low noise, ease of use, and autonomous cleaning as main advantages. The perception that these devices are set-and-forget solutions is widespread but not always correct. Robotic vacuums are usually smaller than traditional upright vacuums, and weigh significantly less than even the lightest canister models. However, a downside to a robotic vacuum cleaner is that it takes an extended amount of time to vacuum an area due to its size. They are also relatively expensive,[2] and replacement parts and batteries can contribute significantly to their operating cost.[3] Concerns over privacy and security have also been raised around robotic vacuums.[4][5][6]
+
+
+History[edit]
+Retrofuturistic illustration of an "electric scrubber" in the year 2000, as envisaged by an artist in 1899
+In 1956, the American science fiction author Robert A. Heinlein described the concept of a robotic vacuum cleaner with a recharging dock in his novel The Door into Summer: "Basically it was just a better vacuum cleaner .... It went quietly looking for dirt all day long, in search curves that could miss nothing .... Around dinner time it would go to its stall and soak up a quick charge."[7] The following year engineer Donald Moore filed a patent for robotic appliances, including a sweeper, that could follow a track laid below the floor. Whirlpool demonstrated the concept at the 1959 American National Exhibition but did not bring it to market.[8]
+In 1969 an episode of The Avengers was broadcast in which the character Inge Tilson played by Dora Reisser says "...I saw a demonstration once. A robot vacuum cleaner. It swept around the house, went back into its cupboard, automatically plugged in and recharged itself...". The teleplay for this episode which was entitled "Thingumajig" was written by Terry Nation. It was episode 27 of Season 7.[9]
+In 1985, Tomy released the Dustbot as a part of their Omnibot line of toys. Dustbot was the first robot to feature a built in vacuum, and was able to turn when it sensed an edge or ran into something. Dustbot would carry a mini broom and dustpan for decoration.[10][11][12]
+In 1990, three roboticists, Colin Angle, Helen Greiner, and Rodney Brooks, founded iRobot.[13] It was originally dedicated to making robots for military and domestic use. It launched the Roomba in 2002, which was able to change direction when it encountered an obstacle, detect dirty spots on the floor, and identify steep drops to keep it from falling down stairs.[3] The Roomba proved to be the first commercially successful robot vacuum.[14] In 2005, iRobot introduced the Scooba, which scrubbed hard floors.
+In 1996, Electrolux introduced the first robotic vacuum cleaner, the Electrolux Trilobite.[3] It worked well but had frequent problems with colliding with objects and stopping short of walls and other objects, as well as leaving small areas not cleaned.[3] As a result, it failed in the market and was discontinued.[3] In 1997, one of Electrolux's first versions of the Trilobite vacuum was featured on the BBC's science program, Tomorrow's World.[15]
+In 2001, Dyson built and demonstrated a robot vacuum known as the DC06. However, due to its high price, it was never released to the market.[16] Electrolux released the Trilobite robotic vacuum cleaner. The Robotic vacuum cleaner launched at a price of $1,800.00. There were two models: the ZA1 and the ZA2.
+In 2010, Neato Robotics introduced the XV-11, one of the first robot vacuums to utilize laser-based mapping that allowed for navigation in systematic straight lines rather than random navigation.[17][18]
+In 2015, Dyson and iRobot both introduced camera-based mapping.[19][20]
+In 2016, iRobot claimed that 20% of vacuum cleaners sales worldwide were robots.[21]
+As of 2018, obstacles such as dog feces, cables and shoes remain very difficult for robots to navigate around.[22][23]
+In 2022, ECOVACS launched DEEBOT-X1 Family featuring YIKO[24] Voice Assistant, which was the industry's first natural language for home robots with Al voice interaction and control technologies.[25][26][27]
+In 2023, SwitchBot introduced the K10 Plus,[28] claiming it as the world's smallest robot vacuum.[29][30]
+
+Main features[edit]
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (July 2019) (Learn how and when to remove this message)
+Cleaning modes[edit]
+A cleaning robot as seen from below
+Robotic vacuums have different types of cleaning modes, enabling the robot target specific areas or work more generally, and to function either under direct human control or automatically.[31]
+
+Wet mopping[edit]
+Some models can also mop for wet cleaning, autonomously vacuuming and wet-mopping a floor in one pass (sweep and mop combo).
+The mop is either manually wet before attachment to the bottom of the robot or the robot may be able to automatically spray water on to the floor before running over it. 
+Some advanced robot vacuum cleaners have a sensor that detects and avoids mopping in carpeted areas. However, if there is no sensor, most of the robot vacuum cleaner manufacturers add a no-mop zone feature in the app to make robot vacuums to avoid certain areas to clean. These robot vacuums are also capable to mop about 150 m2 (1,600 sq ft) in one go.
+
+Others[edit]
+D-shape vacuum cleaner
+Anti-drop
+Most robots include anti-drop and anti-bump IR sensors.
+Connected app
+Some models allow control of the unit using an app over a WiFi connection from the user's smartphone or connected home automation device, e.g. Amazon Alexa and the Google Assistant.
+Software upgrades
+Some units are able to receive over-the-air (OTA) firmware updates.
+HEPA filters
+HEPA air filters are industry-standard now[as of?] for robot vacuum cleaners. These remove dust and pollen from the air.
+Video camera, speakers, microphone
+Some units can be used to record and monitor their surroundings as a mobile, internet connected security camera. Make voice or video calls, act as alarms and have voice command functionality.
+Self cleaning
+Some units have dustbin self emptying via another vacuum in the charging station. Mop self wash, scrub, auto clean water refill and dirty water sucked into grey water tank. No user interaction needed for weeks or months at a time.
+Names
+some units can be named and will respond to said name.
+See also[edit]
+
+Technology portal
+Automated pool cleaner
+Comparison of domestic robots
+Domestic robots
+Mobile robot
+Open-source robotics
+Robotic mapping
+Wireless sensor network
+References[edit]
+
+
+^ ilumpruj (2018-06-24). "The History of Robot Vacuum Cleaner". Archived from the original on 2021-05-12. Retrieved 2021-05-12.
+
+^ "How Robotic Vacuums Work". How Stuff Works. 3 November 2005. Retrieved 2018-03-05.
+
+^ a b c d e "Invention of Robotic Vacuum Cleaners". Vacuum Cleaner History. Retrieved 2018-03-05.
+
+^ Rae, Haniya (January 29, 2021). "Is Your Robotic Vacuum Sharing Data About You?". Consumer Reports.
+
+^ Guo, Eileen (December 19, 2022). "A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook?". MIT Technology Review.
+
+^ Resch, René (Aug 12, 2024). "These smart vacuums and mowers can be hacked to spy on you". PCWorld.
+
+^ Heinlein, Robert A (1957). The Door into Summer. New York: Signet. pp. 20–21.
+
+^ Novak, Matt (July 24, 2014). "This American Expo Invaded Russia With Shiny New Tech in 1959". Paleofuture. Retrieved 2023-11-23.
+
+^ "The Avengers Thingumajig (TV Episode 1969)". IMDb.
+
+^ "The Old Robots Dustbot".
+
+^ "1985 Tomy Dustbot Japanese". 30 August 2013.
+
+^ "Dustbot Robot".
+
+^ "the history of the roomba".
+
+^ Bennett, Brian. "Why are iRobot's new Roombas so damn expensive?". CNET. Retrieved 2020-05-17.
+
+^ "BBC NEWS - Technology - Robot cleaner hits the shops". 16 May 2003.
+
+^ Ulanoff, Lance (13 February 2014). "Dyson Wants to Build a Robot Vacuum that Can See". Mashable.
+
+^ "Neato XV-11 robotic vacuum review". Engadget. August 24, 2010. Retrieved 2020-05-17.
+
+^ "Neato XV-11 review | 22 facts and highlights". VERSUS. Retrieved 2021-05-12.
+
+^ "Deluxe brand Dyson creates its first robot vacuum, the 360 Eye". 2014-09-04. Retrieved 2015-09-26.
+
+^ "iRobot Brings Visual Mapping and Navigation to the Roomba 980". IEEE Spectrum: Technology, Engineering, and Science News. 16 Sep 2015. Retrieved 2020-05-17.
+
+^ "iRobot says 20 percent of the world's vacuums are now robots". TechCrunch. 7 November 2016. Archived from the original on 2020-12-15. Retrieved 2020-05-17.
+
+^ Solon, Olivia (2016-08-15). "Roomba creator responds to reports of 'poopocalypse': 'We see this a lot'". The Guardian. ISSN 0261-3077. Retrieved 2020-05-17.
+
+^ Bryan Heater (2017-12-06). "PerceptIn has raised $11 million to help robotic vacuums and self-driving cars see". TechCrunch. Retrieved 2018-05-25.
+
+^ "DEEBOT X1 Family | New Arrival All in One Vacuum and Mop". ECOVACS US. Retrieved 2022-11-25.
+
+^ "ECOVACS Launches The DEEBOT X1 Range Of Robot Vacuums & Mops In Australia". 21 April 2022.
+
+^ ECOVACS. "WELCOME TO THE HANDS-FREE FUTURE: ECOVACS' NEW FLAGSHIP PRODUCT, THE DEEBOT X1 OMNI, IS NOW AVAILABLE FOR PURCHASE". www.prnewswire.com (Press release). Retrieved 2022-11-18.
+
+^ "DEEBOT X1 Family | New Arrival All in One Vacuum and Mop". ECOVACS US. Retrieved 2022-11-18.
+
+^ "SwitchBot Mini Robot Vacuum K10+ | 50% Smaller in Size". SwitchBot US. Retrieved 2024-08-22.
+
+^ Tuohy, Jennifer Pattison (2023-08-25). "SwitchBot is getting closer to the Rosie the Robot dream with its new robot vacuum mop". The Verge. Retrieved 2024-08-22.
+
+^ "This robot vacuum may be smaller than a dinner plate, but it can handle big messes". ZDNET. Retrieved 2024-08-22.
+
+^ Jones, Andy (17 July 2019). "10 best robot vacuum cleaners – how to pick between Dyson and Eureka". inews.co.uk. Retrieved 27 October 2020.
+
+
+External links[edit]
+vteHome appliancesTypes
+Air conditioner
+Air fryer
+Air ioniser
+Air purifier
+Barbecue grill
+Blender
+Immersion blender
+Bread machine
+Bug zapper
+Coffee percolator
+Clothes dryer
+combo
+Clothes iron
+Coffeemaker
+Dehumidifier
+Dishwasher
+drying cabinet
+Domestic robot
+Deep fryer
+Electric blanket
+Electric drill
+Electric kettle
+Electric knife
+Electric water boiler
+Electric heater
+Electric shaver
+Electric toothbrush
+Epilator
+Espresso machine
+Evaporative cooler
+Food processor
+Fan
+attic
+bladeless
+ceiling
+Fan heater
+window
+Freezer
+Garbage disposer
+Hair dryer
+Hair iron
+Humidifier
+Icemaker
+Ice cream maker
+Induction cooker
+Instant hot water dispenser
+Juicer
+Kitchen hood
+Kitchen stove
+Laundry-folding machine
+Lawn mower
+Riding mower
+Robotic lawn mower
+Leaf blower
+Lighter
+Mixer
+Oven
+Convection oven
+Microwave oven
+Pie iron
+Pressure cooker
+Refrigerator
+Crisper drawer
+smart
+Rice cooker
+Sewing machine
+Slow cooker
+Television set
+Toaster
+Vacuum cleaner
+central
+manual
+robotic
+Waffle iron
+Water dispenser
+Washing machine
+Washer-dryer
+See also
+Appliance plug
+Appliance recycling
+
+vteElectronicsBranches
+Analogue electronics
+Digital electronics
+Electronic engineering
+Instrumentation
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advancedtopics
+2020s in computing
+Atomtronics
+Bioelectronics
+List of emerging electronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronicequipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technology
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio equipment
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electromagnetic warfare
+Electronics industry
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Marine electronics
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open-source hardware
+Radar and Radio navigation
+Radio electronics
+Terahertz technology
+Wired and Wireless Communications
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Robotic_vacuum_cleaner&oldid=1286405362"
+Categories: CleaningHome automationRobotic vacuum cleanersHidden categories: Articles with short descriptionShort description is different from WikidataArticles that may contain original research from July 2019All articles that may contain original researchArticles needing additional references from July 2014All articles needing additional referencesWikipedia articles in need of updating from March 2025All Wikipedia articles in need of updatingArticles with multiple maintenance issuesAll articles with vague or ambiguous timeVague or ambiguous time from March 2023
+
+
+
+
+
+
+ This page was last edited on 19 April 2025, at 18:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Robotic vacuum cleaner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

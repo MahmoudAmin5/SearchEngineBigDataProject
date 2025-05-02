@@ -1,0 +1,674 @@
+https://en.wikipedia.org/wiki/A2_(operating_system)
+
+
+
+
+A2 (operating system) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+User interface
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+A2 (operating system)
+
+
+
+3 languages
+
+
+
+
+DeutschРусскийУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+You can help expand this article with text translated from the corresponding article in Russian.  (November 2018) Click [show] for important translation instructions.
+
+Machine translation, like DeepL or Google Translate, is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.
+Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
+You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is Content in this edit is translated from the existing Russian Wikipedia article at [[:ru:A2 (операционная система)]]; see its history for attribution.
+You may also add the template {{Translated|ru|A2 (операционная система)}} to the talk page.
+For more guidance, see Wikipedia:Translation.
+Operating system
+A2DeveloperETH ZurichOS familyOberonWorking stateCurrentSource modelOpen sourceInitial release2002; 23 years ago (2002)Repositorygitlab.inf.ethz.ch/felixf/oberon 
+PlatformsIA-32, x86-64, ARM, CellKernel typeObject-orientedLicenseBSD-like ETH A2 License[1]Official websitegitlab.inf.ethz.ch/felixf/oberon
+A2 (formerly named Active Object System (AOS),[2] and then Bluebottle) is a modular, object-oriented operating system with unconventional features including automatic garbage-collected memory management, and a zooming user interface. It was developed originally at ETH Zurich in 2002.[2] It is free and open-source software under a BSD-like license.
+
+
+History[edit]
+A2 is the next generation of Native Oberon, the x86 PC version of Niklaus Wirth's operating system Oberon.[3][4][5] It is small, fast, supports multiprocessing computers, and provides soft real-time computing operation. It is entirely written in an upward-compatible dialect of the programming language Oberon named Active Oberon. Both languages are members of the Pascal family, along with Modula-2.
+A2's design allows developing efficient systems based on active objects which run directly on hardware, with no mediating interpreter or virtual machine. Active objects represent a combination of the traditional object-oriented programming (OOP) model of an object, combined with a thread that executes in the context of that object. In the Active Oberon implementation, an active object may include activity of its own, and of its ancestor objects. 
+
+The Oberon A2 desktop screen with the installer application open, along with a calendar and clock. (Using the default style)
+Other differences between A2 and more mainstream operating systems is a very minimalist design, completely implemented in a type-safe language, with automatic memory management, combined with a powerful and flexible set of primitives (at the level of programming language and runtime system) for synchronising access to the internal properties of objects in competing execution contexts.
+Above the kernel layer, A2 provides a flexible set of modules providing unified abstractions for devices and services, such as file systems, user interfaces, computer network connections, media codecs, etc.
+
+User interface[edit]
+Bluebottle replaced the older Oberon OS's unique text-based user interface (TUI) with a zooming user interface (ZUI), which is significantly more like a conventional graphical user interface (GUI). Like Oberon, though, its user interface supports a point and click interface metaphor to execute commands directly from text, similar to clicking hyperlinks in a web browser.
+
+See also[edit]
+Active Oberon
+Oberon (operating system)
+Oberon (programming language)
+Oberon-2 programming language
+Minimalism (computing)
+References[edit]
+
+
+^ "License". Archived from the original on 7 August 2012. Retrieved 7 January 2014.
+
+^ a b Muller, Pieter Johannes (2002). The active object system design and multiprocessor implementation (PDF) (PhD). Swiss Federal Institute of Technology, Zürich (ETH Zurich).
+
+^ Wirth, Niklaus; Gutknecht, Jürg (September 1989). "The Oberon System". Software: Practice and Experience. 19 (9): 857–893. doi:10.1002/spe.4380190905. S2CID 44292990.
+
+^ Reiser, Martin (1992). The Oberon System: User Guide and Programmer's Manual. Addison-Wesley. ISBN 0-201-54422-9.
+
+^ Wirth, Niklaus; Gutknecht, Jürg (1992). Project Oberon: The Design of an Operating System and Compiler. Addison-Wesley. ISBN 978-0201544282. Out of print. Electronic reprint.
+
+
+External links[edit]
+
+
+
+Wikibooks has a book on the topic of: Oberon
+
+
+
+
+Wikibooks has a book on the topic of: Oberon/A2
+
+Main Project Page
+A2 Operating System & Active Oberon community in Telegram
+An application in industrial control at Radiar
+A2 user guide and applications description
+A short movie showing a programming technique and the Bluebottle OS
+Archived Official website, ETH Zürich
+Archived Oberon Language Genealogy
+Archived Oberon Community Platform - Wiki & Forum
+vteModula, OberonModulaBy WirthModula (1975) → Modula-2 (1978)By others
+Modula-2+ (1984)
+Modula-3 (1988)
+Baby Modula-3 (1993)
+Obliq (1993)
+Alma-0 (1997)
+Operating systems
+Medos-2 (1983, Knudsen)
+Excelsior (1988, Soviet)
+Workstations
+Lilith (1980, Wirth)
+Kronos (1988, Soviet)
+DevelopersOrganizations
+ETH Zurich
+Modula Computer Systems
+Centrum Wiskunde & Informatica
+Digital Equipment Corporation (DEC) Systems Research Center (SRC)
+Acorn Research Center
+Olivetti Research Center (ORC)
+elego Software Solutions GmbH
+Academy of Sciences of the Soviet Union, Novosibirsk
+People
+Niklaus Wirth
+Martín Abadi
+Luca Cardelli
+Greg Nelson
+OberonBy WirthOberon (1987) → Oberon-2 (1991) → Lola (1995) → Active Oberon (1998) → Oberon-07 (2007)Operating systems
+Oberon System (1987)
+Active Object System (AOS, 2002), Bluebottle (2005), A2 (2008)
+WorkstationCeres (1985)By others
+Object Oberon (1989)
+Oberon/F, BlackBox Component Builder (1993)
+Component Pascal (1997)
+Zonnon (2013)
+DevelopersOrganizations
+ETH Zurich
+Johannes Kepler University Linz
+Oberon microsystems AG
+People
+Niklaus Wirth
+Jürg Gutknecht
+Tony Hoare
+de:Hanspeter Mössenböck
+
+ Category: Modula
+ Category: Oberon
+
+vteNiklaus WirthSoftwareProgramminglanguagesEuler (1965) → PL360 (1966) → ALGOL W (1966) → Pascal (1970) → Modula (1975) → Modula-2 (1978) → Object Pascal (1986) → Oberon (1987) → Oberon-2 (1991) → Lola (1995) → Active Oberon (1998) → Oberon-07 (2007)Operating systemsOberon System (1987) → Active Object System (AOS, 2002), Bluebottle (2005), A2 (2008)Formalisms
+Wirth's law
+Wirth syntax notation
+Wirth–Weber precedence relationship
+Books
+Algorithms + Data Structures = Programs
+WorkstationsLilith (1977) → Ceres (1985)Workplaces
+Stanford University (1963–67)
+University of Zurich (1963–67)
+ETH Zurich (1968–99)
+Xerox PARC (1976–77, 1984–85)
+Collaborators
+Jürg Gutknecht
+Tony Hoare
+de:Hanspeter Mössenböck
+Larry Tesler
+Awards
+Turing Award
+SIGPLAN Programming Languages Achievement Award
+Fellow of the Computer History Museum
+Marcel Benoist Prize
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=A2_(operating_system)&oldid=1268252787"
+Categories: Free software operating systemsARM operating systemsIA-32 operating systemsX86-64 operating systemsHidden categories: Use dmy dates from February 2021Science and technology articles needing translation from Russian WikipediaArticles with short descriptionShort description is different from WikidataOfficial website different in Wikidata and Wikipedia
+
+
+
+
+
+
+ This page was last edited on 8 January 2025, at 21:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+A2 (operating system)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

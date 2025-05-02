@@ -1,0 +1,900 @@
+https://en.wikipedia.org/wiki/IBM_5100
+
+
+
+
+IBM 5100 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+SCAMP, the prototype
+
+
+
+
+
+
+
+
+2
+Description
+
+
+
+
+
+
+
+
+3
+Research Device Coupler
+
+
+
+
+
+
+
+
+4
+Programming languages
+
+
+
+
+
+
+
+
+5
+Emulator in microcode
+
+
+
+
+
+
+
+
+6
+Timeline
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+Further reading
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM 5100
+
+
+
+23 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschEspañolفارسیFrançais한국어HrvatskiItaliano日本語Norsk bokmålPolskiPortuguêsRomânăРусскийСрпски / srpskiSuomiTagalogTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Portable computer released by IBM in 1975
+
+
+IBM 5100The IBM 5100 Portable ComputerManufacturerIBMTypeProfessional ComputerRelease dateSeptember 1975; 49 years ago (1975-09)Introductory priceFrom $8,975 to $19,975Discontinued1978CPUIBM PALM processor clocked at 1.9 MHzMemory16–64 KB RAM (with 16 KB iterations)32–64 KB ROMDisplay5-inch CRTGraphics64x16 charactersInputKeyboardWeight25 kg (55 lb)SuccessorIBM 5110
+The IBM 5100 Portable Computer is one of the first portable computers,[1] introduced in September 1975, six years before the IBM Personal Computer, and eight before the first successful IBM compatible portable computer, the Compaq Portable. It was the evolution of a prototype called the SCAMP (Special Computer APL Machine Portable) that was developed at the IBM Los Gatos Laboratory and Palo Alto Scientific Center in 1973. Whether considered evolutionary from SCAMP[2] or revolutionary, it still needed to be plugged into an electric socket.[3]
+When the IBM PC was introduced in 1981, it was originally designated as the IBM 5150, putting it in the "5100" series, though its architecture was unrelated to the IBM 5100's.[4] The 5100 was IBM's second transportable computer. Previously, a truck-based IBM 1401 was configured in 1960 for military use and referred to as a mobile computer.[5]
+The IBM 5100 was withdrawn in March 1982, by which time IBM had announced its larger cousins, the IBM 5110 (January 1978) and the IBM 5120 (February 1980).
+
+
+SCAMP, the prototype[edit]
+SCAMP prototype
+In 1973, Bill Lowe was instrumental in fostering an engineering prototype called SCAMP (Special Computer APL Machine Portable) created by Dr. Paul Friedl and a team at the IBM Los Gatos Scientific Center.[6][7] SCAMP has been dubbed in PC Magazine as "the world's first personal computer".[6]
+The IBM Los Gatos engineering prototype and a design model by IBM Industrial designer Tom Hardy, were utilized internally by Lowe in his early efforts to demonstrate the viability of creating a single-user computer.[8]
+SCAMP emulated an IBM 1130 minicomputer in order to run APL\1130.[9] In 1973, APL was generally available only on mainframe computers, and most desktop sized microcomputers such as the Wang 2200 or HP 9800 offered only BASIC. 
+Because SCAMP was the first to emulate APL\1130 performance on a portable, single user computer, PC Magazine in 1983 designated SCAMP a "revolutionary concept" and "the world's first personal computer".[6]
+
+Description[edit]
+The IBM 5100 is based on a 16-bit processor module called PALM (Program All Logic in Microcode).[10]   The IBM 5100 Maintenance Information Manual also referred to the PALM module as the controller.  The PALM could directly address 64 KB of memory.  Some configurations of the IBM 5100 had Executable ROS (ROM) and RAM memory totalling more than 64 KB, so a simple bank switching scheme was used. The actual APL and BASIC interpreters were stored in a separate Language ROS address space which the PALM treats as a peripheral device. There were twelve models available: with BASIC, APL, or both. Memory could be 16 KB, 32 KB, 48 KB or 64 KB of main 
+storage.[11] The 5100 sold for between $8,975 and $19,975 (between $52,000 and $117,000 in today's dollars).[12]
+Often described as being "approximately fifty pounds",[13] its weight was closer to 55 pounds (25 kg). In December 1975 BYTE stated "Welcome, IBM, to personal computing". Describing the 5100 as "a 50-lb package of interactive personal computing," the magazine said that with the company's announcement "personal computing gains an entry from the industry's production and service giant," albeit "at a premium price".[12]
+A single integrated unit provided the keyboard, five-inch CRT display, tape drive, processor, several hundred KB of read-only memory containing system software, and up to 64 KB of RAM.[6] It was the size of a small suitcase, weighed about 55 lb (25 kg), and could be transported in an optional carrying case, hence the "portable" designation.
+In 1975, it was an amazing technical accomplishment to package a complete computer with a large amount of ROM and RAM, CRT display, and a tape drive into a machine that small.  Earlier desktop computers of approximately the same size, such as the HP 9830, did not include a CRT nor nearly as much memory. The 5100 has an internal CRT (five-inch diagonal) and displays 16 lines of 64 characters. IBM provided an option switch to allow the user to display all 64 characters of each line, or only the left or right 32 characters (interspersed with spaces). Also there was a switch to display the first 512 bytes of main memory in hexadecimal for diagnostic purposes.
+Two solutions existed for obtaining hardcopy output: printers such as the IBM 5103, and attaching a typewriter via 
+an interface. The TYCOM 5100 (from a company named Tycom Systems Corporation) enabled controlling an IBM Selectric typewriter, printing at 15.5 CPS.[14]
+Mass storage was provided by removable quarter-inch cartridge (QIC) magnetic tape drives that use standard DC300 cartridges to store 204 KB. One drive was installed in the machine and a second (Model 5106) could be added in an attached box.  The data format included several types and were written in 512 byte records. The introduction of a floppy option was not until the IBM 5110.[15]
+At the same time IBM announced the IBM 5100, it also announced the IBM 5100 Communications Adapter, which allowed the 5100 to transmit data to and receive data from a remote system. It made the 5100 appear the same as an IBM 2741 Communications Terminal and was designed to be able to communicate with IBM 2741 compatible machines in start-stop mode using the EBCD (Extended Binary Coded Decimal) notation,[16] referred to as PTTC/EBCD in IBM 2741 documentation.[17]  EBCD was similar to the more common IBM EBCDIC code, but not identical. A feature that does not appear in any advertisement for this computer is an optional Serial I/O Adapter.  In order to access the port extensions, they needed to be loaded from tape for the APL and BASIC programming languages.[18]   Unlike the Communications Adapter which could only be used to connect devices that supported the IBM 2741, this feature allowed users to connect and code for any device that used a standard serial I/O port, including devices not made by IBM.[19]
+One periodical described "an interesting standard feature"; that a 5100 could be connected to a television.[11] An external video monitor receiver could be connected to the IBM 5100 via a BNC connector on the back panel. While the 5100 had a front panel switch to select between white on black or black on white for the internal display, this switch did not affect the external monitor, which only offered white characters on a black background. The vertical scan rate was fixed at 60 Hz.
+
+Research Device Coupler[edit]
+In Volume 16, Number 1, Page 41 (1977) of the IBM Systems Journal the article "The IBM 5100 and the Research Device Coupler — A personal laboratory automation system" read: "A small laboratory automation system has been developed by using the IBM 5100 Portable Computer in conjunction with the Research Device Coupler. This compact system provides a dedicated, high-level-language computer and a versatile data acquisition and control interface for experiments in which data rates do not exceed 9600 baud. Two experiments exemplify the use of the system. The Research Device Coupler described in this paper is a prototype of the IBM 7406 Device Coupler."
+
+Programming languages[edit]
+The 5100 was available with APL, BASIC, or both programming languages.[12] At the time of introduction, APL was generally available only on mainframe computers, and most desktop sized computers such as the Wang 2200 or HP 9830 offered only BASIC. As a desktop computer offering APL, the 5100 competed with, and indeed may have been inspired by, the earlier MCM/70.[20]
+Machines that supported both languages provided a toggle switch on the front panel to select the language. On the 5100's front panel, it was the third toggle from the left: up for APL, down for BASIC.[11]
+When the engineers at IBM asked one beta tester, Donald Polonis, for his analysis, he commented that if folks had to learn APL to use it, the IBM 5100 would not make it as a personal computer. He tried to impress the fact that a personal computer had to be easy to use to be accepted.[21] Presumably, the special APL character set and APL keyboard were the primary obstacles to newcomers learning APL easily.  APL had powerful features for manipulating data as vectors and matrices, while the competing HP 9830 had to offer language extensions on an add-on ROM for matrix operations.
+Although not meant for regular users, the maintenance manual described a keyboard sequence to switch the 5100 into a maintenance mode. In this mode it was possible to read and write directly in RAM memory, video memory, CPU registers, interrupt vectors, clock counter, etc., using hexadecimal codes equivalent to assembly language. This allowed writing sophisticated programs directly into RAM. As this mode was a single-user system effectively running without an operating system, a determined user could manage the memory space and write stable multi-tasking programs using interrupts.
+
+Emulator in microcode[edit]
+Main article: IBM PALM processor
+The 5100 was based on IBM's innovative concept that, using an emulator written in microcode, a small and relatively cheap computer could run programs already written for much larger, and much more expensive, existing computers, without the time and expense of writing and debugging new programs.[22]
+Two such programs were included:  a slightly modified version of APLSV, IBM's APL interpreter for its System/370 mainframes, and the BASIC interpreter used on IBM's System/3 minicomputer.  Consequently, the 5100's microcode was written to emulate most of the functionality of both a System/370 and a System/3.
+IBM later used the same approach for its 1983 introduction of the XT/370 model of the IBM PC, which was a standard IBM PC XT with the addition of a System/370 emulator card.
+
+Timeline[edit]
+
+
+Timeline of the IBM Personal Computer vte
+
+
+
+
+
+Asterisk (*) denotes a model released in Japan only
+
+References[edit]
+
+
+^ "I.B.M. Corp. Introduces A 50-Pound Computer". The New York Times. September 10, 1975.
+
+^ "Timeline of Computer History". Computer History Museum. Retrieved May 7, 2014.
+
+^ "Tech Time Warp of the Week: The 50-Pound Portable PC". Wired.
+
+^ Alice Rawsthorn (July 31, 2011). "The Clunky PC That Started It All". The New York Times.
+
+^ "The IBM 1401". Columbia University Computing History. Retrieved July 23, 2021.
+
+^ a b c d Friedl, Paul J. (November 1983). "SCAMP: The Missing Link In The PC's Past?". PC Magazine. Vol. 2, no. 6. pp. 190–197. Retrieved January 8, 2015.
+
+^ "IBM SCAMP, National Museum of American History". Smithsonian Institution. Retrieved February 15, 2023.
+
+^ Atkinson, P, (2013) DELETE: A Design History of Computer Vapourware Archived March 1, 2014, at the Wayback Machine, London: Bloomsbury Publishing.
+
+^ Freeman, Shanna (September 19, 2012). "What was the first portable computer?". howstuffworks.com. Retrieved November 28, 2024.
+
+^ Roberson, D.A. (June 1976). "A Microprocessor-based portable computer: The IBM 5100". Proceedings of the IEEE. 64 (6): 994–999. doi:10.1109/PROC.1976.10253. S2CID 38243836.
+
+^ a b c "The IBM 5100 Portable Computer". Modern Data. October 1975. pp. 50–55.
+
+^ a b c "Welcome, IBM, to personal computing". Byte. December 1975. p. 90. Retrieved March 19, 2016.
+
+^ "IBM Archives: IBM 5100 Portable Computer". IBM. January 23, 2003.
+
+^ "IBM 5100 peripheral" (PDF). Hardware. Datamation. Vol. 22, no. 5. May 1976. p. 212. transferred at a maximum of 15.5 characters per second.
+
+^ "IBM 5110".
+
+^ IBM 5100 Communications Reference Manual (PDF) (First ed.). IBM. September 1975. SA21-9215-0.
+
+^ 2740/2741 Communication Terminal Original Equipment Manufacturer's Information (PDF). IBM Systems Reference Library (First ed.). IBM. pp. 11–14. A27-3002-0.
+
+^ IBM 5100 Serial I/O Adapter User's Manual (PDF) (Second ed.). IBM. January 1977. SA21-9239-1.
+
+^ IBM 5100 Communications/Serial I/O Maintenance Information Manual (PDF). IBM. p. 1-1. SY31-0429-2. Retrieved December 24, 2023.
+
+^ Zbigniew Stachniak (2011). Inventing the PC: The MCM/70 Story. McGill-Queen's Press - MQUP. pp. 140–. ISBN 978-0-7735-8146-3.
+
+^ Bogdan Ion Purcaru (2014). Games vs. Hardware. The History of PC video games: The 80s. When the engineers at IBM asked one beta tester, Donald Polonis ...
+
+^ salvaging a huge IBM 1130 APL program "What is a Personal Computer?". PC Magazine. November 1983.
+
+
+Further reading[edit]
+IBM 5100 BASIC Reference Manual (PDF) (4th ed.). International Business Machines Corporation. July 1977. Archived (pdf) from the original on July 27, 2020.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to IBM 5100.
+
+IBM 5100 Portable Computer
+IBM 5100 | oldcomputers.net
+IBM 5100 | oldcomputermuseum.com
+Authority control databases: National United StatesIsrael
+vtePersonal computers by IBM
+Influence on the PC market
+PC business acquisition by Lenovo
+Desktopand all-in-oneSingle models
+5120
+DataMaster
+PC
+list of models
+PC XT
+XT/370
+3270 PC
+XT 286
+JX
+PCjr
+PC AT
+AT/370
+3270 AT
+Series
+5550
+Industrial Computer
+PS/2
+list of models
+25
+25 286
+25 SX
+30
+30 286
+50
+50 Z
+55 SX
+55 LS
+60
+65 SX
+70 386
+70 486
+80
+E
+PS/55
+PS/V
+PS/1
+EduQuest
+ValuePoint
+Ambra
+PC Series
+Aptiva
+NetVista
+ThinkCentre
+A series
+M series
+Portable
+5100
+5110
+Portable PC
+PS/2 portables
+P70
+P75
+Laptop
+pre-ThinkPad
+Convertible
+PS/2 Laptop
+L40 SX
+CL57 SX
+PS/2 Note and PS/note
+N33SX
+N45SL
+N51SX
+N51SLC
+Model 425/425C
+PS/55 Note
+PCradio
+ThinkPad
+2xx series
+220
+230
+235
+240
+3xx series
+300
+310
+350
+360
+365
+380
+390
+5xx series
+500
+550BJ
+555BJ
+560
+570
+6xx series
+600
+7xx series
+700
+701 "Butterfly"
+750
+755
+760
+765
+770
+Power Series
+800
+820
+821
+822
+823
+850
+851
+860
+
+
+G series
+G40
+G41
+G50
+T series
+T20
+T21
+T22
+T23
+T30
+T40
+T41
+T42
+T43
+T60
+T61
+A series
+A20m
+A21m
+A22m
+A22e
+A20p
+A21p
+A22p
+A30
+A31
+A30p
+A31p
+X series
+X20
+X21
+X22
+X23
+X24
+X30
+X31
+X32
+X40
+X41
+X60
+X60t
+X61t
+R series
+R30
+R31
+R32
+R40
+R50
+R51
+R52
+R60
+R61
+Others
+TransNote
+
+Handheld
+Palm Top PC 110
+WorkPad
+Z50
+Prototypes
+Leapfrog
+Power Series 600
+ThinkPad 240 with Transmeta Crusoe
+WatchPad
+Video hardware
+Monochrome Display Adapter
+Color Graphics Adapter
+Enhanced Graphics Adapter
+Professional Graphics Controller
+Multi-Color Graphics Array
+Video Graphics Array
+IBM 8514
+Extended Graphics Array
+Related
+IBM 5151
+IBM BASIC
+IBM PC compatible
+Industry Standard Architecture
+IntelliStation
+Keyboards
+Model F
+Model M
+Micro Channel
+Music Feature Card
+Mwave
+SurePOS
+UltraBay
+ThinkLight
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBM_5100&oldid=1281186252"
+Categories: Computer-related introductions in 1975IBM personal computersPortable computers16-bit computersHidden categories: Pages using the EasyTimeline extensionWebarchive template wayback linksArticles with short descriptionShort description matches WikidataUse mdy dates from July 2021Use American English from July 2021All Wikipedia articles written in American EnglishCommons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 18 March 2025, at 20:53 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+IBM 5100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

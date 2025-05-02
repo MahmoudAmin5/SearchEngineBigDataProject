@@ -1,0 +1,546 @@
+https://en.wikipedia.org/wiki/Nuclear_electronics
+
+
+
+
+Nuclear electronics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Elementary components
+
+
+
+
+
+
+
+
+2
+See also
+
+
+
+
+
+
+
+
+3
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Nuclear electronics
+
+
+
+5 languages
+
+
+
+
+فارسیՀայերենItalianoOʻzbekcha / ўзбекчаРусский
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Design of high-speed electronic systems used in nuclear and particle physics
+Nuclear electronics is a subfield of electronics concerned with the design and use of high-speed electronic systems for nuclear physics and elementary particle physics research, and for industrial and medical use.
+Essential elements of such systems include fast detectors for charged particles, discriminators for separating them by energy, counters for counting the pulses produced by individual particles, fast logic circuits (including coincidence and veto gates), for identification of particular types of complex particle events, and pulse height analyzers (PHAs) for sorting and counting gamma rays or particle interactions by energy, for spectral analysis.
+
+Elementary components[edit]
+Some of the essential components that make up the elements of a nuclear electronic analysis system include:
+
+Detectors
+Bias voltage supplies
+Preamplifiers
+Discriminators
+Coincidence and veto logic gates.
+Counters
+Pulse height analyzers
+These elements were originally developed and built in the laboratories of the scientists doing the pioneering work in the field, but are nowadays designed, developed, and manufactured by a variety of specialized vendors:
+
+EG&G Ortec
+Oxford Instruments
+Stanford Research Systems
+Tennelec
+See also[edit]
+Nuclear Instrumentation Module
+External links[edit]
+[1]  Nuclear electronics college class.
+
+
+This electronics-related article is a stub. You can help Wikipedia by expanding it.vte
+This nuclear technology article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nuclear_electronics&oldid=1166026629"
+Categories: ElectronicsNuclear technologyElectronics stubsNuclear technology stubsHidden categories: Articles with short descriptionShort description with empty Wikidata descriptionAll stub articles
+
+
+
+
+
+
+ This page was last edited on 18 July 2023, at 23:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Nuclear electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

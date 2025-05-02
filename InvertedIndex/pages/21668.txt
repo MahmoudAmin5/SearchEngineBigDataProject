@@ -1,0 +1,150 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_code_container
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+Code Containers
+The w3-code class create code containers to highlight HTML, JavaScript and CSS code.
+
+ 
+HTML Example
+
+&lt;!DOCTYPE html&gt;&lt;html&gt;
+&lt;title&gt;HTML Tutorial&lt;/title&gt;
+&lt;body&gt;
+&lt;h1&gt;This is a heading&lt;/h1&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+ 
+CSS Example
+
+body {
+  background-color: #d0e4fe;}
+h1 {
+  color: orange;
+  text-align: center;}
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+
+
+
+ 
+JavaScript Example
+
+var x = 5;        // assign the value 5 to x
+var y = 2;        // assign the value 2 to y
+var z = x + y;    // assign the value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

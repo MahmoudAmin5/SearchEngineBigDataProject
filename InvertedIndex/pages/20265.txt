@@ -1,0 +1,2072 @@
+https://en.wikipedia.org/wiki/Computer_animation
+
+
+
+
+Computer animation - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Computer-generated animation
+
+
+
+
+
+
+
+
+2
+3D computer animation
+
+
+
+
+Toggle 3D computer animation subsection
+
+
+
+
+
+2.1
+Overview
+
+
+
+
+
+
+
+
+2.2
+Animation attributes
+
+
+
+
+
+
+
+
+2.3
+Interpolation
+
+
+
+
+
+
+
+
+2.4
+Procedural and node-based Animation
+
+
+
+
+
+
+
+
+2.5
+Disciplines of 3D animation
+
+
+
+
+
+
+
+
+
+
+3
+2D computer animation
+
+
+
+
+Toggle 2D computer animation subsection
+
+
+
+
+
+3.1
+2D sprites and pseudocode
+
+
+
+
+
+
+
+
+3.2
+Computer-assisted animation
+
+
+
+
+
+
+
+
+3.3
+Text-to-video
+
+
+
+
+
+
+
+
+
+
+4
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+4.1
+Film and television
+
+
+
+
+
+
+
+
+
+
+5
+Animation methods
+
+
+
+
+
+
+
+
+6
+Modeling
+
+
+
+
+
+
+
+
+7
+Equipment
+
+
+
+
+
+
+
+
+8
+Facial animation
+
+
+
+
+
+
+
+
+9
+Realism
+
+
+
+
+
+
+
+
+10
+Web animations
+
+
+
+
+
+
+
+
+11
+Detailed example
+
+
+
+
+
+
+
+
+12
+Animation studios
+
+
+
+
+
+
+
+
+13
+See also
+
+
+
+
+
+
+
+
+14
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+14.1
+Citations
+
+
+
+
+
+
+
+
+14.2
+Works cited
+
+
+
+
+
+
+
+
+
+
+15
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Computer animation
+
+
+
+50 languages
+
+
+
+
+العربيةAsturianuAzərbaycancaБългарскиBosanskiCatalàČeštinaDanskDeutschEestiEspañolEsperantoEuskaraفارسیFrançaisFryskGalego한국어HrvatskiIdoBahasa IndonesiaItalianoעבריתLatviešuLietuviųМакедонскиBahasa MelayuNederlands日本語Norsk bokmålOʻzbekcha / ўзбекчаPolskiPortuguêsРусскийසිංහලSimple EnglishکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்ไทยТоҷикӣTürkçeУкраїнськаTiếng Việtייִדיש粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Art of creating moving images using computers
+It has been suggested that  this article be split into articles titled 3D computer animation and 2D computer animation. (Discuss)  (June 2019)
+An example of computer animation which is produced from the "motion capture" technique
+Computer animation is the process used for digitally generating moving images. The more general term computer-generated imagery (CGI) encompasses both still images and moving images, while computer animation only refers to moving images. Modern computer animation usually uses 3D computer graphics. 
+Computer animation is a digital successor to stop motion and traditional animation. Instead of a physical model or illustration, a digital equivalent is manipulated frame-by-frame. Also, computer-generated animations allow a single graphic artist to produce such content without using actors, expensive set pieces, or props. To create the illusion of movement, an image is displayed on the computer monitor and repeatedly replaced by a new similar image but advanced slightly in time (usually at a rate of 24, 25, or 30 frames/second). This technique is identical to how the illusion of movement is achieved with television and motion pictures.
+To trick the visual system into seeing a smoothly moving object, the pictures should be drawn at around 12 frames per second or faster (a frame is one complete image).[1] With rates above 75 to 120 frames per second, no improvement in realism or smoothness is perceivable due to the way the eye and the brain both process images. At rates below 12 frames per second, most people can detect jerkiness associated with the drawing of new images that detracts from the illusion of realistic movement.[2] Conventional hand-drawn cartoon animation often uses 15 frames per second in order to save on the number of drawings needed, but this is usually accepted because of the stylized nature of cartoons. To produce more realistic imagery, computer animation demands higher frame rates.
+Films seen in theaters in the United States run at 24 frames per second, which is sufficient to create the illusion of continuous movement.
+
+
+Computer-generated animation[edit]
+Computer-generated animation is an umbrella term for three-dimensional (3D) animation, and 2D computer animation. These also include subcategories like asset driven, hybrid, and digital drawn animation. Creators animate using code or software instead of pencil-to-paper drawings. There are many techniques and disciplines in computer generated animation, some of which are digital representations of traditional animation - such as key frame animation - and some of which are only possible with a computer - such fluid simulation.
+'CG' Animators can break physical laws by using mathematical algorithms to cheat mass, force and gravity, and more. Fundamentally, computer-generated animation is a powerful tool which can improve the quality of animation by using the power of computing to unleash the animator's imagination. This is because Computer Generated Animation allows for things like onion skinning which allows 2D animators to see the flow of their work all at once, and interpolation which allows 3D animators to automate the process of inbetweening.
+
+
+Examples of computer-generated animation in movies
+
+
+Movie
+
+Type of Computer Generated Animation
+
+Impact
+
+
+Toy Story 2
+
+Stylized 3D computer animation[3]
+
+Pixar developed cutting-edge technology for fully 3D animation. 'Toy Story' is considered a turning point for 3D animation in general.[4]
+
+
+Godzilla Minus One
+
+Digital VFX, photorealistic[5]
+
+Toho studios won an Oscar for its ground breaking VFX on a small budget relative to most box-office movies.[6]
+
+
+The Breadwinner
+
+2D computer animation[7]
+
+Was praised for its 2D animated style, showing the possibilities of what the format could portray.
+
+
+Interstellar
+
+Hyper photorealistic CGI following scientific principles[8]
+
+The VFX artists working on Interstellar published a paper about the science and mathematics that were used to create the famous 'Gargantua' black hole.[8]
+
+
+Klaus
+
+Hybrid 3D and 2D computer animation[9]
+
+The use of 3D lighting for 2D animation in this movie opened up a door to many new animation styles for 2D animators.
+
+3D computer animation[edit]
+A frame of animation before and after rendering
+Overview[edit]
+For 3D computer animations, objects (models) are built on the computer monitor (modeled) and 3D figures are rigged with a virtual skeleton. Then the limbs, eyes, mouth, clothes, etc. of the figure are moved by the animator on key frames. Normally, the differences between key frames are drawn in a process known as tweening. However, in 3D computer animation, this is done automatically, and is called interpolation. Finally, the animation is rendered and composited.
+Before becoming a final product, 3D computer animations only exist as a series of moving shapes and systems within 3d software, and must be rendered. This can happen as a separate process for animations developed for movies and short films, or it can be done in real-time when animated for videogames. After an animation is rendered, it can be composited into a final product.
+
+Animation attributes[edit]
+For 3D models, attributes can describe any characteristic of the object that can be animated. This includes transformation (movement from one point to another), scaling, rotation, and more complex attributes like blend shape progression (morphing from one shape to another). Each attribute gets a channel on which keyframes can be set. These keyframes can be used in more complex ways such as animating in layers (combining multiple sets of key frame data), or keying control objects to deform or control other objects. For instance, a character's arms can have a skeleton applied, and the joints can have transformation and rotation keyframes set. The movement of the arm joints will then cause the arm shape to deform.
+
+Interpolation[edit]
+3D animation software interpolates between keyframes by generating a spline between keys plotted on a graph which represents the animation. Additionally, these splines can follow Bézier curves to control how the spline curves relative to the keyframes. Using interpolation allows 3D animators to dynamically change animations without having to redo all the in-between animation. This also allows the creation of complex movements such as ellipses with only a few keyframes. Lastly, interpolation allows the animator to change the framerate, timing, and even scale of the movements at any point in the animation process.
+
+Procedural and node-based Animation[edit]
+Another way to automate 3D animation is to use procedural tools such as 4D noise. Noise is any algorithm that plots pseudo-random values within a dimensional space.[10] 4D noise can be used to do things like move a swarm of bees around; the first three dimensions correspond to the position of the bees in space, and the fourth is used to change the bee's position over time. Noise can also be used as a cheap replacement for simulation. For example, smoke and clouds can be animated using noise.
+Node-based animation is useful for animating organic and chaotic shapes. By using nodes, an animator can build up a complex set of animation rules that can be applied either to many objects at once, or one very complex object. A good example of this would be setting the movement of particles to match the beat of a song.
+
+Disciplines of 3D animation[edit]
+There are many different disciplines of 3D animation, some of which include entirely separate artforms. For example, hair simulation for computer animated characters in and of itself is a career path which involves separate workflows,[11] and different software and tools. The combination of all or some 3D computer animation disciplines is commonly referred to within the animation industry as the 3D animation pipeline.[12]
+
+
+Examples of disciplines within the 3D animation pipeline
+
+
+Discipline
+
+Explanation
+
+Tools
+
+Examples
+
+
+Face Rigging
+
+A facial rig is a rig that includes muscles, deformation, mesh displacement, and other techniques to enable the animation of facial expressions, and phonemes for lip syncing.
+
+Autodesk Maya, Blender
+
+In 'Avatar, Way of Water', WETA workshops meticulously designed the digital muscles in the faces of their characters so that their emotional range could be comparable to that of a human.[13]
+
+
+Facial Animation
+
+This is the process of animating facial animations, lip-syncing, and animating phoneme blend-shapes (shapes that the face morphs into)
+
+Autodesk Maya, Blender, Autodesk 3DS Max
+
+In Pixar's 'Turning Red', animators took influence from anime style facial expressions to inform their animation.[14]
+
+
+Character Animation
+
+Specifically the animation of characters. 3D character animation is its own specialty do to the complexity required to animated dancing, running, fighting, or high fidelity motion such as playing basketball.
+
+Autodesk Maya, Blender
+
+Pixar's 'Incredibles' won the 2004 Visual Effects Society Award for Outstanding Animated Character in an Animated Feature
+
+
+Cloth Simulation
+
+Cloth simulation is a subset of simulation but specifically for things like clothes. In modern 3D computer animation, cloth simulation is becoming more and more advanced and widely used.
+
+Houdini, Blender
+
+Pixar's 'Coco' advanced the use of high fidelity clothes by designing new tools to combine cloth simulation with character animation.[15]
+
+2D computer animation[edit]
+2D computer graphics are still used for stylistic, low bandwidth, and faster real-time renderings.
+Computer animation is essentially a digital successor to stop motion techniques, but using 3D models, and traditional animation techniques using frame-by-frame animation of 2D illustrations.
+For 2D figure animations, separate objects (illustrations) and separate transparent layers are used with or without that virtual skeleton.
+
+2D sprites and pseudocode[edit]
+In 2D computer animation, moving objects are often referred to as "sprites." A sprite is an image that has a location associated with it. The location of the sprite is changed slightly, between each displayed frame, to make the sprite appear to move.[16] The following pseudocode makes a sprite move from left to right:
+
+var int x := 0, y := screenHeight / 2;
+while x < screenWidth
+drawBackground()
+drawSpriteAtXY (x, y) // draw on top of the background
+x := x + 5 // move to the right
+
+Computer-assisted animation[edit]
+Computer-assisted animation is usually classed as two-dimensional (2D) animation and is also known as digital ink and paint. Drawings are either hand drawn (pencil to paper) or interactively drawn (on the computer) using different assisting appliances and are positioned into specific software packages. Within the software package, the creator places drawings into different key frames which fundamentally create an outline of the most important movements.[17] The computer then fills in the "in-between frames", a process commonly known as Tweening.[18] Computer-assisted animation employs new technologies to produce content faster than is possible with traditional animation, while still retaining the stylistic elements of traditionally drawn characters or objects.[19]
+Examples of films produced using computer-assisted animation are the rainbow sequence at the end of The Little Mermaid (the rest of the films listed use digital ink and paint in their entirety), The Rescuers Down Under, Beauty and the Beast, Aladdin, The Lion King, Pocahontas, The Hunchback of Notre Dame, Hercules, Mulan, Tarzan, We're Back! A Dinosaur's Story, Balto, Anastasia, Titan A.E., The Prince of Egypt, The Road to El Dorado, Spirit: Stallion of the Cimarron and Sinbad: Legend of the Seven Seas.
+
+Text-to-video[edit]
+This section is an excerpt from Text-to-video model.[edit]
+A video generated using OpenAI's Sora text-to-video model, using the prompt: A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.
+A text-to-video model is a machine learning model that uses a natural language description as input to produce a video relevant to the input text.[20] Advancements during the 2020s in the generation of high-quality, text-conditioned videos have largely been driven by the development of video diffusion models.[21]
+History[edit]
+Main article: History of computer animation
+For a chronological guide, see Timeline of computer animation.
+See also: Video game graphics
+Early digital computer animation was developed at Bell Telephone Laboratories in the 1960s by Edward E. Zajac, Frank W. Sinden, Kenneth C. Knowlton, and A. Michael Noll.[22] Other digital animation was also practiced at the Lawrence Livermore National Laboratory.[23]
+In 1967, a computer animation named "Hummingbird" was created by Charles Csuri and James Shaffer.[24] In 1968, a computer animation called "Kitty" was created with BESM-4 by Nikolai Konstantinov, depicting a cat moving around.[25] In 1971, a computer animation called "Metadata" was created, showing various shapes.[26]
+An early step in the history of computer animation was the sequel to the 1973 film Westworld, a science-fiction film about a society in which robots live and work among humans.[27] The sequel, Futureworld (1976), used the 3D wire-frame imagery, which featured a computer-animated hand and face both created by University of Utah graduates Edwin Catmull and Fred Parke.[28] This imagery originally appeared in their student film A Computer Animated Hand, which they completed in 1972.[29][30]
+Developments in CGI technologies are reported each year at SIGGRAPH,[31] an annual conference on computer graphics and interactive techniques that is attended by thousands of computer professionals each year.[32] Developers of computer games and 3D video cards strive to achieve the same visual quality on personal computers in real-time as is possible for CGI films and animation. With the rapid advancement of real-time rendering quality, artists began to use game engines to render non-interactive movies, which led to the art form Machinima.
+
+Film and television[edit]
+"Spring", a 3D animated short film made using Blender
+CGI short films have been produced as independent animation since 1976.[33] Early examples of feature films incorporating CGI animation include the live-action films Star Trek II: The Wrath of Khan and Tron (both 1982),[34] and the Japanese anime film Golgo 13: The Professional (1983).[35] VeggieTales is the first American fully 3D computer-animated series sold directly (made in 1993); its success inspired other animation series, such as ReBoot (1994) and Transformers: Beast Wars (1996) to adopt a fully computer-generated style.
+The first full-length computer-animated television series was ReBoot,[36] which debuted in September 1994; the series followed the adventures of characters who lived inside a computer.[37] The first feature-length computer-animated film is Toy Story (1995), which was made by Disney and Pixar:[38][39][40] following an adventure centered around anthropomorphic toys and their owners, this groundbreaking film was also the first of many fully computer-animated movies.[39]
+The popularity of computer animation (especially in the field of special effects) skyrocketed during the modern era of U.S. animation.[41] Films like Avatar (2009) and The Jungle Book (2016) use CGI for the majority of the movie runtime, but still incorporate human actors into the mix.[42] Computer animation in this era has achieved photorealism, to the point that computer-animated films such as The Lion King (2019) are able to be marketed as if they were live-action.[43][44]
+
+Animation methods[edit]
+3D game character animated using skeletal animation
+In this .gif of a 2D Flash animation, each 'stick' of the figure is keyframed over time to create motion.
+In most 3D computer animation systems, an animator creates a simplified representation of a character's anatomy, which is analogous to a skeleton or stick figure.[45] They are arranged into a default position known as a bind pose, or T-Pose. The position of each segment of the skeletal model is defined by animation variables, or Avars for short. In human and animal characters, many parts of the skeletal model correspond to the actual bones, but skeletal animation is also used to animate other things, with facial features (though other methods for facial animation exist).[46] The character "Woody" in Toy Story, for example, uses 712 Avars (212 in the face alone). The computer does not usually render the skeletal model directly (it is invisible), but it does use the skeletal model to compute the exact position and orientation of that certain character, which is eventually rendered into an image. Thus by changing the values of Avars over time, the animator creates motion by making the character move from frame to frame.
+There are several methods for generating the Avar values to obtain realistic motion. Traditionally, animators manipulate the Avars directly.[47] Rather than set Avars for every frame, they usually set Avars at strategic points (frames) in time and let the computer interpolate or tween between them in a process called keyframing. Keyframing puts control in the hands of the animator and has roots in hand-drawn traditional animation.[48]
+In contrast, a newer method called motion capture makes use of live action footage.[49] When computer animation is driven by motion capture, a real performer acts out the scene as if they were the character to be animated.[50] Their motion is recorded to a computer using video cameras and markers and that performance is then applied to the animated character.[51]
+Each method has its advantages and as of 2007, games and films are using either or both of these methods in productions. Keyframe animation can produce motions that would be difficult or impossible to act out, while motion capture can reproduce the subtleties of a particular actor.[52] For example, in the 2006 film Pirates of the Caribbean: Dead Man's Chest, Bill Nighy provided the performance for the character Davy Jones. Even though Nighy does not appear in the movie himself, the movie benefited from his performance by recording the nuances of his body language, posture, facial expressions, etc. Thus motion capture is appropriate in situations where believable, realistic behavior and action is required, but the types of characters required exceed what can be done throughout the conventional costuming.
+
+Modeling[edit]
+3D computer animation combines 3D models of objects and programmed or hand "keyframed" movement. These models are constructed out of geometrical vertices, faces, and edges in a 3D coordinate system. Objects are sculpted much like real clay or plaster, working from general forms to specific details with various sculpting tools. Unless a 3D model is intended to be a solid color, it must be painted with "textures" for realism. A bone/joint animation system is set up to deform the CGI model (e.g., to make a humanoid model walk). In a process known as rigging, the virtual marionette is given various controllers and handles for controlling movement.[53][54] Animation data can be created using motion capture, or keyframing by a human animator, or a combination of the two.[55]
+3D models rigged for animation may contain thousands of control points — for example, "Woody" from Toy Story uses 700 specialized animation controllers. Rhythm and Hues Studios labored for two years to create Aslan in the movie The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, which had about 1,851 controllers (742 in the face alone). In the 2004 film The Day After Tomorrow, designers had to design forces of extreme weather with the help of video references and accurate meteorological facts. For the 2005 remake of King Kong, actor Andy Serkis was used to help designers pinpoint the gorilla's prime location in the shots and used his expressions to model "human" characteristics onto the creature. Serkis had earlier provided the voice and performance for Gollum in J. R. R. Tolkien's The Lord of the Rings trilogy.
+
+Equipment[edit]
+A ray-traced 3-D model of a jack inside a cube, and the jack alone below
+Computer animation can be created with a computer and an animation software. Some impressive animation can be achieved even with basic programs; however, the rendering can require much time on an ordinary home computer.[56] Professional animators of movies, television and video games could make photorealistic animation with high detail. This level of quality for movie animation would take hundreds of years to create on a home computer. Instead, many powerful workstation computers are used;[57] Silicon Graphics said in 1989 that the animation industry's needs typically caused graphical innovations in workstations.[58] Graphics workstation computers use two to four processors, and they are a lot more powerful than an actual home computer and are specialized for rendering. Many workstations (known as a "render farm") are networked together to effectively act as a giant computer,[59] resulting in a computer-animated movie that can be completed in about one to five years (however, this process is not composed solely of rendering). A workstation typically costs $2,000 to $16,000 with the more expensive stations being able to render much faster due to the more technologically advanced hardware that they contain. Professionals also use digital movie cameras, motion/performance capture, bluescreens, film editing software, props, and other tools used for movie animation. Programs like Blender allow for people who can not afford expensive animation and rendering software to be able to work in a similar manner to those who use the commercial grade equipment.[60]
+
+Facial animation[edit]
+Main article: Computer facial animation
+The realistic modeling of human facial features is both one of the most challenging and sought after elements in computer-generated imagery. Computer facial animation is a highly complex field where models typically include a very large number of animation variables.[61] Historically speaking, the first SIGGRAPH tutorials on State of the art in Facial Animation in 1989 and 1990 proved to be a turning point in the field by bringing together and consolidating multiple research elements and sparked interest among a number of researchers.[62]
+The Facial Action Coding System (with 46 "action units", "lip bite" or "squint"), which had been developed in 1976, became a popular basis for many systems.[63] As early as 2001, MPEG-4 included 68 Face Animation Parameters (FAPs) for lips, jaws, etc., and the field has made significant progress since then and the use of facial microexpression has increased.[63][64]
+In some cases, an affective space, the PAD emotional state model, can be used to assign specific emotions to the faces of avatars.[65] In this approach, the PAD model is used as a high level emotional space and the lower level space is the MPEG-4 Facial Animation Parameters (FAP). A mid-level Partial Expression Parameters (PEP) space is then used to in a two-level structure – the PAD-PEP mapping and the PEP-FAP translation model.[66]
+
+Realism[edit]
+Joy & Heron – a typical example of realistic animation
+Realism in computer animation can mean making each frame look photorealistic, in the sense that the scene is rendered to resemble a photograph or make the characters' animation believable and lifelike.[67] Computer animation can also be realistic with or without the photorealistic rendering.[68]
+One trend in computer animation has been the effort to create human characters that look and move with the highest degree of realism. A possible outcome when attempting to make pleasing, realistic human characters is the uncanny valley, the concept where the human audience (up to a point) tends to have an increasingly negative, emotional response as a human replica looks and acts more and more human. Films that have attempted photorealistic human characters, such as The Polar Express,[69][70][71] Beowulf,[72] and A Christmas Carol[73][74]
+have been criticized as "disconcerting" and "creepy".
+The goal of computer animation is not always to emulate live action as closely as possible, so many animated films instead feature characters who are anthropomorphic animals, legendary creatures and characters, superheroes, or otherwise have non-realistic, cartoon-like proportions.[75] Computer animation can also be tailored to mimic or substitute for other kinds of animation, like traditional stop-motion animation (as shown in Flushed Away or The Peanuts Movie). Some of the long-standing basic principles of animation, like squash and stretch, call for movement that is not strictly realistic, and such principles still see widespread application in computer animation.[76]
+
+Web animations[edit]
+The popularity of websites that allow members to upload their own movies for others to view has created a growing community of independent and amateur computer animators.[77] With utilities and programs often included free with modern operating systems, many users can make their own animated movies and shorts. Several free and open-source animation software applications exist as well. The ease at which these animations can be distributed has attracted professional animation talent also. Companies such as PowToon and Vyond attempt to bridge the gap by giving amateurs access to professional animations as clip art.
+The oldest (most backward compatible) web-based animations are in the animated GIF format, which can be uploaded and seen on the web easily.[78] However, the raster graphics format of GIF animations slows the download and frame rate, especially with larger screen sizes. The growing demand for higher quality web-based animations was met by a vector graphics alternative that relied on the use of a plugin. For decades, Flash animations were a common format, until the web development community abandoned support for the Flash Player plugin. Web browsers on mobile devices and mobile operating systems never fully supported the Flash plugin.
+By this time, internet bandwidth and download speeds increased, making raster graphic animations more convenient. Some of the more complex vector graphic animations had a slower frame rate due to complex rendering compared to some of the raster graphic alternatives. Many of the GIF and Flash animations were already converted to digital video formats, which were compatible with mobile devices and reduced file sizes via video compression technology. However, compatibility was still problematic as some of the video formats such as Apple's QuickTime and Microsoft Silverlight required plugins. YouTube was also relying on the Flash plugin to deliver digital video in the Flash Video format.
+The latest alternatives are HTML5 compatible animations. Technologies such as JavaScript and CSS animations made sequencing the movement of images in HTML5 web pages more convenient. SVG animations offered a vector graphic alternative to the original Flash graphic format, SmartSketch. YouTube offers an HTML5 alternative for digital video. APNG (Animated PNG) offered a raster graphic alternative to animated GIF files that enables multi-level transparency not available in GIFs.
+
+See also: Comparison of HTML5 and Flash
+Detailed example[edit]
+Computer animation uses different techniques to produce animations. Most frequently, sophisticated mathematics is used to manipulate complex three-dimensional polygons, apply "textures", lighting and other effects to the polygons and finally rendering the complete image. A sophisticated graphical user interface may be used to create the animation and arrange its choreography. Another technique called constructive solid geometry defines objects by conducting Boolean operations on regular shapes, and has the advantage that animations may be accurately produced at any resolution.
+
+Animation studios[edit]
+Main article: List of animation studios
+The examples and perspective in this section deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (May 2018) (Learn how and when to remove this message)
+Some notable producers of computer-animated feature films include:
+
+Animal Logic – Films include Happy Feet (2006), Legend of the Guardians: The Owls of Ga'Hoole (2010), Walking with Dinosaurs (2013), and The Lego Movie (2014)
+Aardman Animations – Films include Flushed Away (2006) and Arthur Christmas (2011)
+Big Idea Entertainment – Jonah: A VeggieTales Movie (2002) and The Pirates Who Don't Do Anything: A VeggieTales Movie (2008)
+Bron Animation – Films include The Addams Family (2019) and The Willoughbys (2020)
+Blue Sky Studios – Films include Ice Age (2002), Robots (2005), Horton Hears a Who! (2008), Rio (2011), Epic (2013), and The Peanuts Movie (2015)
+DNA Productions – Films include Jimmy Neutron: Boy Genius (2001), Santa vs. the Snowman 3D (2002), and The Ant Bully (2006)
+DreamWorks Animation – Films include Shrek (2001), Shark Tale (2004), Madagascar (2005), Over the Hedge (2006), Bee Movie (2007), Kung Fu Panda (2008), Monsters vs. Aliens (2009), How to Train Your Dragon (2010), Rise of the Guardians (2012), The Croods (2013), Trolls (2016), The Boss Baby (2017), Captain Underpants: The First Epic Movie (2017), The Bad Guys (2022), and Ruby Gillman, Teenage Kraken (2023)
+Framestore - Films include The Tale of Despereaux (2008)
+ImageMovers – Films include The Polar Express (2004), Monster House (2006), Beowulf (2007), A Christmas Carol (2009), and Mars Needs Moms (2011)
+Imagi Animation Studios – Films include TMNT (2007) and Astro Boy (2009)
+Ilion Animation Studios — Films include Planet 51 (2009), Mortadelo and Filemon: Mission Implausible (2014), and Wonder Park (2019)
+Illumination — Films include Despicable Me (2010), The Lorax (2012), Minions (2015), The Secret Life of Pets (2016), Sing (2016), The Grinch (2018), The Secret Life of Pets 2 (2019),  and The Super Mario Bros. Movie (2023)
+Industrial Light & Magic – Films include Rango (2011) and Strange Magic (2015)
+Locksmith Animation - Films include Ron's Gone Wrong (2021) and That Christmas (2024)
+Omation Animation Studios – Films include Barnyard (2006)
+Pacific Data Images – Films include Antz (1998), Shrek (2001), Shrek 2 (2004), Madagascar (2005), Megamind (2010), and Mr. Peabody and Sherman (2014)
+Paramount Animation – Films include The SpongeBob Movie: Sponge Out of Water (2015), Monster Trucks (2017), Sherlock Gnomes (2018), Wonder Park (2019), The SpongeBob Movie: Sponge on the Run (2020), and Under the Boardwalk (2023)
+Pixar Animation Studios – Films include Toy Story (1995), Monsters, Inc. (2001), Finding Nemo (2003), The Incredibles (2004), Cars (2006), Ratatouille (2007), WALL-E (2008), Up (2009),  Inside Out (2015),  Coco (2017), Soul (2020), and Luca (2021)
+Rainmaker Studios – Films include Escape from Planet Earth (2013) and Ratchet & Clank (2016)
+Reel FX Animation Studios – Films include Free Birds (2013) and The Book of Life (2014)
+Wizart Animation – Films include The Snow Queen (2012) and Sheep and Wolves (2016)
+Shirogumi – Films include Friends: Mononoke Shima no Naki (2011), Stand by Me Doraemon (2014), and Dragon Quest: Your Story (2019)
+Skydance Animation  – Films include Luck (2022) and Spellbound (2024)
+Square Pictures - Films include Final Fantasy: The Spirits Within (2001)
+Sony Pictures Animation – Films include Open Season (2006), Surf's Up (2007), Cloudy with a Chance of Meatballs (2009), Hotel Transylvania (2012), Spider-Man: Into the Spider-Verse (2018), and The Mitchells vs. the Machines (2021)
+Sony Pictures Imageworks – Films include The Angry Birds Movie (2016) and Over the Moon (2020)
+Triggerfish Animation Studios – Films include Zambezia (2013) and Khumba (2014)
+Vanguard Animation - Films include Valiant (2005), Space Chimps (2008), and Gnome Alone (2017)
+Walt Disney Animation Studios – Films include Chicken Little (2005), Meet the Robinsons (2007), Bolt (2008), Tangled (2010), Wreck-It Ralph (2012), Frozen (2013), Big Hero 6 (2014), Zootopia (2016), Moana (2016), and Encanto (2021)
+Warner Bros. Pictures Animation – Films include The Lego Movie (2014), Storks (2016), The Lego Batman Movie (2017), Smallfoot (2018), and Scoob! (2020)
+Weta Digital – Films include The Adventures of Tintin (2011)
+See also[edit]
+
+Animation portal
+
+Animation
+Animation database
+Autodesk
+Avar (animation variable)
+Computer facial animation
+Computer-generated imagery (CGI)
+New York Institute of Technology Computer Graphics Lab
+Computer representation of surfaces
+Hand-Over
+Humanoid animation
+List of animation studios
+List of computer-animated films
+List of computer-animated television series
+Medical animation
+Morph target animation
+Machinima (recording video from games and virtual worlds)
+Motion capture
+Procedural animation
+Ray tracing
+Rich Representation Language
+Skeletal animation
+Stop motion
+Traditional animation
+Timeline of computer animation in film and television
+Virtual artifact
+Wire-frame model
+Twelve basic principles of animation
+
+References[edit]
+Citations[edit]
+
+
+^ Masson 1999, p. 148.
+
+^ Parent 2012, pp. 100–101, 255.
+
+^ Weber, Karon; Hirasaki, Kitt (2000). "Interaction design at Pixar Animation Studios". CHI '00 extended abstracts on Human factors in computer systems - CHI '00. New York, New York, USA: ACM Press. p. 211. doi:10.1145/633410.633413. ISBN 1-58113-248-4.
+
+^ Zorthian, Julia (2015-11-19). "How 'Toy Story' Changed Movie History". TIME. Retrieved 2024-05-22.
+
+^ "'Godzilla Minus One' Breathes New Life into the Iconic Kaiju". Animation World Network. Retrieved 2024-05-22.
+
+^ Schilling, Mark (2024-03-14). "'Godzilla Minus One' fought the odds and won big at the Oscars". The Japan Times. Retrieved 2024-05-22.
+
+^ "The Breadwinner Shows the Powerful Storytelling Impact of Animation". www.technicolor.com. Retrieved 2024-05-22.
+
+^ a b James, Oliver; von Tunzelmann, Eugenie; Franklin, Paul; Thorne, Kip S. (2015-03-19). "Gravitational Lensing by Spinning Black Holes in Astrophysics, and in the Movie Interstellar". Classical and Quantum Gravity. 32 (6): 065001. arXiv:1502.03808. Bibcode:2015CQGra..32f5001J. doi:10.1088/0264-9381/32/6/065001. ISSN 0264-9381.
+
+^ "Here's what made the 2D animation in 'Klaus' look '3D'". befores & afters. 2019-11-14. Retrieved 2024-05-22.
+
+^ "The Book of Shaders". The Book of Shaders. Retrieved 2024-05-22.
+
+^ Bertails, Florence; Hadap, Sunil; Cani, Marie-Paule; Lin, Ming; Kim, Tae-Yong; Marschner, Steve; Ward, Kelly; Kačić-Alesić, Zoran (2008). "Realistic hair simulation: Animation and rendering". ACM SIGGRAPH 2008 classes (PDF). pp. 1–154. doi:10.1145/1401132.1401247. ISBN 978-1-4503-7845-1.
+
+^ Naghdi, Arash; Adib, Payam; Adib, Arash Naghdi and Payam (2021-05-10). "3D Animation Pipeline: A Start-to-Finish Guide (2023 update)". Dream Farm Studios. Retrieved 2024-05-21.
+
+^ "Exclusive: Joe Letteri Discusses Wētā FX's new Facial Pipeline on Avatar 2 - fxguide". www.fxguide.com/. 2022-12-21. Retrieved 2024-05-21.
+
+^ laurenlola (2022-03-09). ""Turning Red" Animators on Anime Influences and Working with Domee Shi". CAAM Home. Retrieved 2024-05-22.
+
+^ Eberle, David (2018). "Better collisions and faster cloth for Pixar's Coco". ACM SIGGRAPH 2018 Talks. pp. 1–2. doi:10.1145/3214745.3214801. ISBN 978-1-4503-5820-0.
+
+^ Masson 1999, p. 123.
+
+^ Masson 1999, p. 115.
+
+^ Masson 1999, p. 284.
+
+^ Roos, Dave (2013). "How Computer Animation Works". HowStuffWorks. Retrieved 2013-02-15.
+
+^ Artificial Intelligence Index Report 2023 (PDF) (Report). Stanford Institute for Human-Centered Artificial Intelligence. p. 98. Multiple high quality text-to-video models, AI systems that can generate video clips from prompted text, were released in 2022.
+
+^ Melnik, Andrew; Ljubljanac, Michal; Lu, Cong; Yan, Qi; Ren, Weiming; Ritter, Helge (2024-05-06). "Video Diffusion Models: A Survey". arXiv:2405.03150 [cs.CV].
+
+^ Masson 1999, pp. 390–394.
+
+^ Sito 2013, pp. 69–75.
+
+^ "Charles Csuri, Fragmentation Animations, 1967 – 1970: Hummingbird (1967)". YouTube. 31 August 2009.
+
+^ ""Kitten" 1968 computer animation". YouTube. 9 March 2006.
+
+^ "Metadata 1971". YouTube. 23 November 2010.
+
+^ Masson 1999, p. 404.
+
+^ Masson 1999, pp. 282–288.
+
+^ Sito 2013, p. 64.
+
+^ Means 2011.
+
+^ Sito 2013, pp. 97–98.
+
+^ Sito 2013, pp. 95–97.
+
+^ Masson 1999, p. 58.
+
+^ "The Making of Tron". Video Games Player. Vol. 1, no. 1. Carnegie Publications. September 1982. pp. 50–5.
+
+^ Beck, Jerry (2005). The Animated Movie Guide. Chicago Review Press. p. 216. ISBN 1569762228.
+
+^ Sito 2013, p. 188.
+
+^ Masson 1999, p. 430.
+
+^ Masson 1999, p. 432.
+
+^ a b Masson 1999, p. 302.
+
+^ "Our Story", Pixar, 1986–2013. Retrieved on 2013-02-15. "The Pixar Timeline, 1979 to Present". Pixar. Archived from the original on 2015-09-05.
+
+^ Masson 1999, p. 52.
+
+^ Thompson, Anne (2010-01-01). "How James Cameron's Innovative New 3D Tech Created Avatar". Popular Mechanics. Retrieved 2019-04-24.
+
+^ Fleming, Mike Jr. (October 13, 2016). "Disney's Live-Action 'Lion King' Taps Jeff Nathanson As Writer". Deadline Hollywood. Archived from the original on October 15, 2016. Retrieved July 9, 2019.
+
+^ Rottenberg, Josh (July 19, 2019). "'The Lion King': Is it animated or live-action? It's complicated". Los Angeles Times. Retrieved December 13, 2021.
+
+^ Parent 2012, pp. 193–196.
+
+^ Parent 2012, pp. 324–326.
+
+^ Parent 2012, pp. 111–118.
+
+^ Sito 2013, p. 132.
+
+^ Masson 1999, p. 118.
+
+^ Masson 1999, pp. 94–98.
+
+^ Masson 1999, p. 226.
+
+^ Masson 1999, p. 204.
+
+^ Parent 2012, p. 289.
+
+^ animationmentor.com Why a Great Rigger is an Animator's Best Friend, By: Ozgur Aydogdu
+
+^ Beane 2012, p. 2-15.
+
+^ Masson 1999, p. 158.
+
+^ Sito 2013, p. 144.
+
+^ Robinson, Phillip (February 1989). "Art + 2 Years = Science". BYTE. pp. 255–264. Retrieved 2024-10-08.
+
+^ Sito 2013, p. 195.
+
+^ "blender.org – Home of the Blender project – Free and Open 3D Creation Software". blender.org.
+
+^ Masson 1999, pp. 110–116.
+
+^ Parke & Waters 2008, p. xi.
+
+^ a b Magnenat Thalmann & Thalmann 2004, p. 122.
+
+^ Pereira & Ebrahimi 2002, p. 404.
+
+^ Pereira & Ebrahimi 2002, pp. 60–61.
+
+^ Paiva, Prada & Picard 2007, pp. 24–33.
+
+^ Masson 1999, pp. 160–161.
+
+^ Parent 2012, pp. 14–17.
+
+^ Zacharek, Stephanie (2004-11-10). "The Polar Express". Salon. Retrieved 2015-06-08.
+
+^ Herman, Barbara (2013-10-30). "The 10 Scariest Movies and Why They Creep Us Out". Newsweek. Retrieved 2015-06-08.
+
+^ Clinton, Paul (2004-11-10). "Review: 'Polar Express' a creepy ride". CNN. Retrieved 2015-06-08.
+
+^ Digital Actors in 'Beowulf' Are Just Uncanny Archived 2011-08-27 at the Wayback Machine – New York Times, November 14, 2007
+
+^ Neumaier, Joe (November 5, 2009). "Blah, humbug! 'A Christmas Carol's 3-D spin on Dickens well done in parts but lacks spirit". New York Daily News. Archived from the original on July 10, 2018. Retrieved October 10, 2015.
+
+^ Williams, Mary Elizabeth (November 5, 2009). "Disney's 'A Christmas Carol': Bah, humbug!". Salon.com. Archived from the original on January 11, 2010. Retrieved October 10, 2015.
+
+^ Sito 2013, p. 7.
+
+^ Sito 2013, p. 59.
+
+^ Sito 2013, pp. 82, 89.
+
+^ Kuperberg 2002, pp. 112–113.
+
+
+Works cited[edit]
+
+
+Library resources about  Computer animation 
+
+Resources in your library
+Resources in other libraries
+
+
+
+Beane, Andy (2012). 3D Animation Essentials. Indianapolis, Indiana: John Wiley & Sons. ISBN 978-1-118-14748-1.
+Kuperberg, Marcia (2002). A Guide to Computer Animation: For TV, Games, Multimedia and Web. Focal Press. ISBN 0-240-51671-0.
+Magnenat Thalmann, Nadia; Thalmann, Daniel (2004). Handbook of Virtual Humans. Wiley Publishing. ISBN 0-470-02316-3.
+Masson, Terrence (1999). CG 101: A Computer Graphics Industry Reference. Digital Fauxtography Inc. ISBN 0-7357-0046-X.
+Means, Sean P. (December 28, 2011). "Pixar founder's Utah-made Hand added to National Film Registry". The Salt Lake Tribune. Retrieved January 8, 2012.
+Paiva, Ana; Prada, Rui; Picard, Rosalind W. (2007). "Facial Expression Synthesis using PAD Emotional Parameters for a Chinese Expressive Avatar". Affective Computing and Intelligent Interaction. Lecture Notes in Computer Science. Vol. 4738. Springer Science+Business Media. doi:10.1007/978-3-540-74889-2. ISBN 978-3-540-74888-5.
+Parent, Rick (2012). Computer Animation: Algorithms and Techniques. Ohio: Elsevier. ISBN 978-0-12-415842-9.
+Pereira, Fernando C. N.; Ebrahimi, Touradj (2002). The MPEG-4 Book. New Jersey: IMSC Press. ISBN 0-13-061621-4.
+Parke, Frederic I.; Waters, Keith (2008). Computer Facial Animation (2nd ed.). Massachusetts: A.K. Peters, Ltd. ISBN 978-1-56881-448-3.
+Sito, Tom (2013). Moving Innovation: A History of Computer Animation. Massachusetts: MIT Press. ISBN 978-0-262-01909-5.
+
+External links[edit]
+ Media related to Computer animations at Wikimedia Commons
+vteAnimation topicsBy country
+Bangladesh
+Bhutan
+China
+Czechia
+Estonia
+India
+Japan
+Malaysia
+Mexico
+North Korea
+Philippines
+Portugal
+Romania
+South Africa
+South Korea
+Spain
+Taiwan
+Thailand
+United States
+Vietnam
+History
+Azerbaijan
+Bangladesh
+Brazil
+Canada
+China
+France
+Hungary
+India
+Iran
+Japan
+Korea
+Russia
+Ukraine
+United Kingdom
+United States
+Silent Era
+The Golden Age
+World War II
+Early TV broadcast era
+Modern TV cable and streaming era
+Industry
+Animator
+List
+Animation department
+Animation director
+Story artist
+Animation studios
+List
+Animation database
+Art pipeline
+Biologist simulators
+Animation film festivals
+international
+regional
+Highest-grossing films (Opening weekends)
+Outsourcing
+International Animation Day
+Works
+Films
+Computer-animated
+Feature-length
+Lost or unfinished
+Package
+Short
+Short series
+Stop-motion
+Adult animated films
+Children's animated films
+Series
+Adult animated
+Children's animated
+Computer-animated
+Direct-to-video
+Flash
+Internet
+Television
+TechniquesTraditional
+Barrier-grid and stereography
+Flip book
+Limited animation
+Masking
+Rotoscoping
+Exposure sheet
+Stop motion
+Claymation
+clay painting, strata-cut
+Cutout (silhouette)
+Graphic
+Model
+go motion
+Object
+Brickfilm
+Pixilation
+Puppetoons
+Computer (history, timeline)2D
+2.5D
+Flash
+PowerPoint
+SVG
+CSS
+Multi-sketch
+Onion skinning
+3D
+T-pose
+Cel shading
+CGI
+Crowd
+Facial animation
+Morph target
+Motion capture
+facial
+hand tracking
+eye tracking
+Non-photorealistic rendering
+Physically based animation
+Procedural
+Skeletal
+Virtual cinematography
+Puppetry
+Traditional puppetry
+Digital puppetry
+Machinima
+Aniforms
+Virtual human
+Live2D
+Supermarionation
+Mechanical
+Animatronics
+Audio-Animatronics
+Linear Animation Generator
+Direct manipulation animation
+Humanoid animation
+Idle animation
+Ink-wash animation
+Magic Lantern
+Scanimate
+Shadowmation
+Squigglevision
+Whiteboard animation
+Other methods
+Blocking
+Character animation
+model sheet
+walk cycle
+lip sync
+off-model
+Chuckimation
+Drawn-on-film
+Erasure animation
+Hydrotechnics
+Inbetweening
+Morphing
+Paint-on-glass
+Pinscreen
+Pixel art
+Pose to pose
+Straight ahead
+Rubber hose
+Special effects
+Sand
+Syncro-Vox
+Zoetrope
+Variants
+Abstract animation (visual music)
+Adult animation
+Animated cartoon
+Animated sitcom
+Animated documentary
+Anime
+influenced
+Educational animation
+Erotic animation
+Independent animation
+Instructional animation
+Virtual newscaster
+Related topics
+Animation music
+Bouncing ball
+Mickey Mousing
+Key frame
+Cel
+Character animation
+model sheet
+walk cycle
+lip sync
+off-model
+Creature animation
+Twelve basic principles
+Motion comic
+Films with live action and animation
+highest grossing
+Cartoon
+physics
+violence
+Most expensive animated films
+List of animated films by box office admissions
+List of animated television series by episode count
+anime series
+anime franchises
+
+ Category
+ Portal
+Outline
+
+vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Processor
+Size / Form
+Computer systems organization
+Computer architecture
+Computational complexity
+Dependability
+Embedded system
+Real-time computing
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Control variable
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software engineering
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Stochastic
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematics of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Theoretical computer science
+Information systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security hacker
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computer interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Extended reality
+Augmented
+Mixed
+Virtual
+Virtuality
+Rendering
+Photograph manipulation
+Graphics processing unit
+Image compression
+Solid modeling
+Applied computing
+Quantum Computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Differentiable computing
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Category
+ Outline
+ Glossaries
+
+vteFilm genresBy style
+Action
+Heroic bloodshed
+Hong Kong action
+Adventure
+Art
+Biographical
+Christian
+Comedy
+Action
+Black
+Commedia all'italiana
+Sexy
+Dramedy
+Gross out
+Horror
+Parody
+Mo lei tau
+Thriller
+Remarriage
+Romantic
+Sex
+Screwball
+Silent
+Slapstick
+Cyberpunk
+Japanese
+Documentary
+Animated
+City symphony
+Docudrama
+Mockumentary
+Mondo
+Pseudo
+Semi
+Travel
+Video essay
+Drama
+Calligrafismo
+Dramedy
+Historical
+Legal
+Erotic
+Commedia sexy all'italiana
+Pink
+Sexploitation
+Thriller
+Educational
+Social guidance
+Epic
+Sword-and-sandal
+Experimental
+Exploitation
+see Exploitation film template
+Fantasy
+Comedy
+Contemporary
+Fantastique
+High
+Historical
+Magic realism
+Science
+Film noir
+Neo-noir
+Pulp noir
+Tech noir
+Gothic
+Romance
+Southern
+Space
+Suburban
+Urban
+Horror
+Arthouse
+Body
+Cannibal
+Chinese horror
+Christmas horror
+Comedy
+Eco
+Fantastique
+Found footage
+German underground
+Ghost
+Giallo
+List of films
+Holiday
+Japanese horror
+Korean horror
+Lovecraftian
+Melodrama
+Korean
+Natural
+New French Extremity
+Psycho-biddy
+Psychological
+Science fiction
+Slasher
+Splatter
+Satanic
+Maximalist film
+Minimalist film
+Mumblecore
+Musical
+Arthouse
+Backstage
+Jukebox
+Musicarello
+Operetta
+Sceneggiata
+Mystery
+Detective
+Occult detective
+Whodunit
+Giallo
+Crossover
+Pornographic
+Hardcore pornography
+Softcore pornography
+(Malayalam)
+Propaganda
+Reality
+Romantic
+Comedy
+Bromantic
+Fantasy
+Gothic
+Paranormal
+Thriller
+Science fiction
+Art
+Comedy
+Fantastique
+Fantasy
+Gothic
+Horror
+Military
+New Wave
+Space opera
+Steampunk
+Tokusatsu
+Western
+Slice of life
+Slow cinema
+Survival
+Thriller
+Comedy
+Erotic
+Financial
+Giallo
+Legal
+New French Extremity
+Political
+Psychological
+Romantic
+Techno
+Transgressive
+Cinema of Transgression
+Extreme cinema
+New French Extremity
+Trick
+By theme
+Animals
+Beach party
+Body swap
+Buddy
+Buddy cop
+Female
+Cannibal
+Chicano
+Colonial
+Coming-of-age
+Concert
+Crime
+Detective
+Gangster
+Gentleman thief
+Gokudō
+Gong'an
+Heist
+Heroic bloodshed
+Hood
+Mafia
+Mafia comedy
+Mumbai underworld
+Poliziotteschi
+Yakuza
+Dance
+Disaster
+Apocalyptic
+Drug
+Psychedelic
+Stoner
+Dystopian
+Ecchi
+Ethnographic
+Exploitation
+Blaxploitation
+Mexploitation
+Turksploitation
+Extraterrestrial
+Food and drink
+Gendai-geki
+Ghost
+Goona-goona epic
+Gothic
+Romance
+Space
+Suburban
+Girls with guns
+Harem
+Hentai
+Lolicon
+Shotacon
+Tentacle erotica
+Homeland
+Isekai
+Jidaigeki
+Samurai
+Kaitō
+LGBTQ
+Yaoi
+Yuri
+Luchador
+Magical girl
+Martial arts
+Bruceploitation
+Chopsocky
+Gun fu
+Kung fu
+Ninja
+Wuxia
+Mecha
+Anime
+Monster
+Giant monster
+Kaiju
+Mummy
+Vampire
+Zombie
+Zombie comedy
+Mountain
+Mouth of Garbage
+Muslim social
+Nature
+Environmental issues
+Opera
+Outlaw biker
+Ozploitation
+Partisan film
+Prison
+Women
+Race
+Rape and revenge
+Road
+Rubble
+Rumberas
+Sexploitation
+Bavarian porn
+Commedia sexy all'italiana
+Mexican sex comedy
+Nazi exploitation
+Pornochanchada
+Nunsploitation
+Sex report
+Shoshimin-eiga
+Slavery
+Slice of life
+Snuff
+South Seas
+Sports
+Spy
+Eurospy
+Superhero
+Surfing
+Swashbuckler
+Sword-and-sandal
+Sword and sorcery
+Travel
+imaginary voyage
+Trial
+Vigilante
+War
+Anti-war
+Euro War
+Submarine
+Western
+Acid
+Contemporary Western
+Dacoit Western
+Fantasy
+Florida
+Horror
+Meat pie
+Northern
+Ostern
+Revisionist
+Science fiction
+Singing cowboy
+Space
+Spaghetti
+Weird Western
+Zapata Western
+By movement  or period
+Absolute
+American eccentric cinema
+Australian New Wave
+Auteur films
+Berlin School
+Bourekas
+Brighton School
+British New Wave
+Kitchen sink realism
+Budapest school
+Calligrafismo
+Cannibal boom
+Cinéma du look
+Cinema Novo
+Cinema of Transgression
+Cinéma pur
+Commedia all'italiana
+Czechoslovak New Wave
+Documentary Film Movement
+Dogme 95
+Erra Cinema
+European art cinema
+Film d'art
+Film gris
+Free Cinema
+French New Wave
+German Expressionist
+German underground horror
+Nigerian Golden Age
+Grupo Cine Liberación
+Heimatfilm
+Hollywood on the Tiber
+Hong Kong New Wave
+Indiewood
+Iranian New Wave
+Italian futurist
+Italian neorealist
+Japanese New Wave
+Kammerspielfilm
+L.A. Rebellion
+Lettrist
+Modernist film
+Mumblecore
+Neorealist
+New French Extremity
+New German
+New generation
+New Hollywood
+New Nollywood
+New Objectivity
+New Queer
+No wave
+Nuevo Cine Mexicano
+Pan-Indian film
+Parallel cinema
+Persian Film
+Poetic realist
+Polish Film School
+Poliziotteschi
+The Prague film school
+Prussian film
+Pure Film Movement
+Remodernist
+Romanian New Wave
+Slow cinema
+Spaghetti Western
+Socialist realist
+Social realist
+Kitchen sink realism
+Soviet parallel
+Structural
+Surrealist
+Sword-and-sandal
+Telefoni Bianchi
+Third Cinema
+Toronto New Wave
+Vulgar auteurism
+Yugoslav Black Wave
+By demographic
+Adult
+Black
+Children and family
+Anime
+Men
+Seinen
+Stag
+Teen
+Shōnen
+Shōjo
+Women
+Chick flick
+Josei
+By format, technique, approach, or production
+3D
+Actuality
+Animation
+Anime
+Art
+Cartoon
+Computer
+Stop-motion
+Traditional
+Anthology
+Art
+B movie
+Behind-the-scenes
+Black-and-white
+Blockbuster
+Cinéma vérité
+Classical Hollywood cinema
+Collage
+Color
+Compilation
+Composite
+Computer screen
+Cult
+midnight movie
+Database cinema
+Docufiction
+Ethnofiction
+Experimental
+Abstract
+Feature
+Featurette
+Film à clef
+Film-poem
+Found footage
+Hyperlink cinema
+Independent
+Guerrilla filmmaking
+List of American independent films
+Interstitial art
+Live action
+animation
+Low-budget
+Major film studios
+Masala
+Maximalist film
+Message picture
+Meta-film
+Minimalist film
+Mockbuster
+Modernist film
+Musical short
+Mythopoeia
+Neorealist
+No-budget
+One-shot
+Paracinema
+Participatory
+Poetry
+Postmodernist
+Reverse motion
+Satire
+Sceneggiata
+Semidocumentary
+Serial
+Shinpa
+Short
+Silent
+Slow cinema
+Socialist realist
+Sound
+Underground
+Video nasty
+Vulgar auteurism
+Z movie
+
+ Category
+
+Authority control databases: National GermanyCzech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Computer_animation&oldid=1281067463"
+Categories: Computer animationComputer graphicsAnimation techniquesHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataArticles to be split from June 2019All articles to be splitArticles with excerptsArticles with limited geographic scope from May 2018United States-centricCommons category link is on WikidataArticles containing video clips
+
+
+
+
+
+
+ This page was last edited on 18 March 2025, at 02:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Computer animation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

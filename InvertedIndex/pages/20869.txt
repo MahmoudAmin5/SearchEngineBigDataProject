@@ -1,0 +1,926 @@
+https://en.wikipedia.org/wiki/Ferranti_Mercury
+
+
+
+
+Ferranti Mercury - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Predecessor: Mark I
+
+
+
+
+
+
+
+
+2
+Prototype: Meg
+
+
+
+
+
+
+
+
+3
+Commercial version: Mercury
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+Further reading
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Ferranti Mercury
+
+
+
+5 languages
+
+
+
+
+CatalàDeutschEspañolFrançaisSuomi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Early commercial computer
+The Mercury was an early commercial computer from the mid-1950s built by Ferranti. It was the successor to the Ferranti Mark 1, adding a floating point unit for improved performance, and increased reliability by replacing the Williams tube memory with core memory and using more solid-state components. The computer had roughly 2000 vacuum tubes (mostly type CV2179/A2134 pentodes, EL81 pentodes and CV2493/ECC88 double triodes) and 2000 germanium diodes. Nineteen Mercuries were sold before Ferranti moved on to newer designs.
+
+
+Predecessor: Mark I[edit]
+Main article: Manchester Mark 1
+When the Mark I started running in 1951, reliability was poor. The primary concern was the drum memory system, which broke down all the time. Additionally, the machine used 4,200 thermionic valves, mostly EF50 pentodes and diodes that had to be replaced constantly. The Williams tubes, used as random-access memory and registers, were reliable but required constant maintenance. As soon as the system went into operation, teams started looking at solutions to these problems.
+One team decided to produce a much smaller and more cost-effective system built entirely with transistors. It first ran in November 1953 and is believed to be the first entirely transistor-based computer. Metropolitan-Vickers later built this commercially as the Metrovick 950, delivering seven. At the time, transistors were very expensive, compared to tubes.
+
+Prototype: Meg[edit]
+Another team, including the main designers of the Mark I, started with a design very similar to the Mark I but replacing valves used as diodes with solid-state diodes. These were much less expensive than transistors, yet enough of them were used in the design that replacing just the diodes would still result in a significant simplification and improvement in reliability.
+At that time computers were used almost always in the sciences, and they decided to add a floating-point unit to greatly improve performance in this role. Additionally the machine was to run at 1 MHz, eight times faster than the Mark I's 125 kHz, leading to the use of the name megacycle machine, and eventually Meg.
+Meg first ran in May 1954. The use of solid-state diodes reduced valve count by well over half, reducing the power requirement from the Mark I's 25 kW to the Meg's 12 kW. Like the Mark I, Meg was based on a 10-bit "short word", combining two to form a 20-bit address and four to make a 40-bit integer. This was a result of the physical properties of the Williams tubes, which were used to make eight B-lines, or in modern terminology, accumulator/index registers.
+Meg could multiply two integers in about 60 microseconds. The floating-point unit used three words for a 30-bit mantissa, and another as a 10-bit exponent. It could add two floating-point numbers in about 180 microseconds, and multiply them in about 360 microseconds.[1]
+
+Commercial version: Mercury[edit]
+Ferranti, which had built the Mark I for the university, continued development of the prototype Meg to produce the Mercury. The main change was to replace the Williams tubes with core memory. Although slower to access, at about 10 μs for a 10-bit short word, the system required virtually no maintenance, considerably more important for commercial users. 1024×40-bits of core were provided, backed by four drums each holding 4096×40-bits.
+The first of an eventual 19 Mercury computers was delivered in August 1957.[2] Manchester University received one in February 1958, leasing half the time to commercial users via Ferranti's business unit. Both CERN at Geneva [3] and the Atomic Energy Research Establishment at Harwell also installed theirs in 1958. A Mercury bought in 1959 was the UK Met Office's first computer.[4] The University of Buenos Aires in Argentina received another one in 1960.[5]
+The machine could run Mercury Autocode, a simplified coding system of the type later described as a high-level programming language. Detailed information both about the Mercury hardware and the Autocode coding system is included in a downloadable Spanish-language Autocode manual.[6]
+Mercury weighed 2,500 pounds (1.3 short tons; 1.1 t).[7]
+
+See also[edit]
+Manchester computers
+List of vacuum tube computers
+
+References[edit]
+
+
+^ "COMPUTERS, Overseas: 5. Manchester University - MANCHESTER UNIVERSITY EXPERIMENTAL COMPUTER "MEG"ACYCLE". Digital Computer Newsletter. 7 (2): 16. Apr 1955.
+
+^ "COMPUTERS, OVERSEAS: 2. Ferranti, Ltd., Mercury, Manchester England". Digital Computer Newsletter. 10 (4): 10. Oct 1958.
+
+^ "CERN-CO-6002912". CERN website. Retrieved 6 June 2009.
+
+^ "History of computers 1959 to 2004". Met Office website. Archived from the original on 2 February 2002. Retrieved 10 July 2008.
+
+^ "Historia del Departamento de Computación". UBA website. Retrieved 19 January 2011.
+
+^ Garcia Camarero, Ernesto (1961). AUTOCODE un sistema simplificado de codificacion para la computadora MERCURY (in Spanish). Universidad de Buenos Aires. p. 70.
+
+^ Weik, Martin H. (June 1957). "FERRANTI MERCURY". ed-thelen.org. A Second Survey of Domestic Electronic Digital Computing Systems.
+
+
+Further reading[edit]
+Savard, John J. G. (2018) [2005]. "Computer Arithmetic". quadibloc. The Early Days of Hexadecimal. Archived from the original on 2018-07-16. Retrieved 2018-07-16. (NB. Has info on the character set.)
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Ferranti Mercury.
+
+MEG/Mercury
+Installation of the Ferranti Mercury computer at CERN
+vteProcessor technologiesModels
+Abstract machine
+Stored-program computer
+Finite-state machine
+with datapath
+Hierarchical
+Deterministic finite automaton
+Queue automaton
+Cellular automaton
+Quantum cellular automaton
+Turing machine
+Alternating Turing machine
+Universal
+Post–Turing
+Quantum
+Nondeterministic Turing machine
+Probabilistic Turing machine
+Hypercomputation
+Zeno machine
+Belt machine
+Stack machine
+Register machines
+Counter
+Pointer
+Random-access
+Random-access stored program
+Architecture
+Microarchitecture
+Von Neumann
+Harvard
+modified
+Dataflow
+Transport-triggered
+Cellular
+Endianness
+Memory access
+NUMA
+HUMA
+Load–store
+Register/memory
+Cache hierarchy
+Memory hierarchy
+Virtual memory
+Secondary storage
+Heterogeneous
+Fabric
+Multiprocessing
+Cognitive
+Neuromorphic
+Instruction setarchitecturesTypes
+Orthogonal instruction set
+CISC
+RISC
+Application-specific
+EDGE
+TRIPS
+VLIW
+EPIC
+MISC
+OISC
+NISC
+ZISC
+VISC architecture
+Quantum computing
+Comparison
+Addressing modes
+Instructionsets
+Motorola 68000 series
+VAX
+PDP-11
+x86
+ARM
+Stanford MIPS
+MIPS
+MIPS-X
+Power
+POWER
+PowerPC
+Power ISA
+Clipper architecture
+SPARC
+SuperH
+DEC Alpha
+ETRAX CRIS
+M32R
+Unicore
+Itanium
+OpenRISC
+RISC-V
+MicroBlaze
+LMC
+System/3x0
+S/360
+S/370
+S/390
+z/Architecture
+Tilera ISA
+VISC architecture
+Epiphany architecture
+Others
+ExecutionInstruction pipelining
+Pipeline stall
+Operand forwarding
+Classic RISC pipeline
+Hazards
+Data dependency
+Structural
+Control
+False sharing
+Out-of-order
+Scoreboarding
+Tomasulo's algorithm
+Reservation station
+Re-order buffer
+Register renaming
+Wide-issue
+Speculative
+Branch prediction
+Memory dependence prediction
+ParallelismLevel
+Bit
+Bit-serial
+Word
+Instruction
+Pipelining
+Scalar
+Superscalar
+Task
+Thread
+Process
+Data
+Vector
+Memory
+Distributed
+Multithreading
+Temporal
+Simultaneous
+Hyperthreading
+Simultaneous and heterogenous
+Speculative
+Preemptive
+Cooperative
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+SWAR
+MISD
+MIMD
+SPMD
+Processorperformance
+Transistor count
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+Instructions per second (IPS)
+Floating-point operations per second (FLOPS)
+Transactions per second (TPS)
+Synaptic updates per second (SUPS)
+Performance per watt (PPW)
+Cache performance metrics
+Computer performance by orders of magnitude
+Types
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+GPGPU
+Vector
+Barrel
+Stream
+Tile processor
+Coprocessor
+PAL
+ASIC
+FPGA
+FPOA
+CPLD
+Multi-chip module (MCM)
+System in a package (SiP)
+Package on a package (PoP)
+By application
+Embedded system
+Microprocessor
+Microcontroller
+Mobile
+Ultra-low-voltage
+ASIP
+Soft microprocessor
+Systemson chip
+System on a chip (SoC)
+Multiprocessor (MPSoC)
+Cypress PSoC
+Network on a chip (NoC)
+Hardwareaccelerators
+Coprocessor
+AI accelerator
+Graphics processing unit (GPU)
+Image processor
+Vision processing unit (VPU)
+Physics processing unit (PPU)
+Digital signal processor (DSP)
+Tensor Processing Unit (TPU)
+Secure cryptoprocessor
+Network processor
+Baseband processor
+
+Word size
+1-bit
+4-bit
+8-bit
+12-bit
+15-bit
+16-bit
+24-bit
+32-bit
+48-bit
+64-bit
+128-bit
+256-bit
+512-bit
+bit slicing
+others
+variable
+Core count
+Single-core
+Multi-core
+Manycore
+Heterogeneous architecture
+Components
+Core
+Cache
+CPU cache
+Scratchpad memory
+Data cache
+Instruction cache
+replacement policies
+coherence
+Bus
+Clock rate
+Clock signal
+FIFO
+Functionalunits
+Arithmetic logic unit (ALU)
+Address generation unit (AGU)
+Floating-point unit (FPU)
+Memory management unit (MMU)
+Load–store unit
+Translation lookaside buffer (TLB)
+Branch predictor
+Branch target predictor
+Integrated memory controller (IMC)
+Memory management unit
+Instruction decoder
+Logic
+Combinational
+Sequential
+Glue
+Logic gate
+Quantum
+Array
+Registers
+Processor register
+Status register
+Stack register
+Register file
+Memory buffer
+Memory address register
+Program counter
+Control unit
+Hardwired control unit
+Instruction unit
+Data buffer
+Write buffer
+Microcode ROM
+Counter
+Datapath
+Multiplexer
+Demultiplexer
+Adder
+Multiplier
+CPU
+Binary decoder
+Address decoder
+Sum-addressed decoder
+Barrel shifter
+Circuitry
+Integrated circuit
+3D
+Mixed-signal
+Power management
+Boolean
+Digital
+Analog
+Quantum
+Switch
+
+Powermanagement
+PMU
+APM
+ACPI
+Dynamic frequency scaling
+Dynamic voltage scaling
+Clock gating
+Performance per watt (PPW)
+Related
+History of general-purpose CPUs
+Microprocessor chronology
+Processor design
+Digital electronics
+Hardware security module
+Semiconductor device fabrication
+Tick–tock model
+Pin grid array
+Chip carrier
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ferranti_Mercury&oldid=1091158057"
+Categories: Early British computersFerranti computersVacuum tube computersHidden categories: CS1 Spanish-language sources (es)Articles with short descriptionShort description matches WikidataCommons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 2 June 2022, at 15:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Ferranti Mercury
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

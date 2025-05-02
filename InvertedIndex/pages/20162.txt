@@ -1,0 +1,789 @@
+https://en.wikipedia.org/wiki/Transistor_computer
+
+
+
+
+Transistor computer - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Other early machines
+
+
+
+
+
+
+
+
+
+
+2
+First commercial fully transistorized calculator
+
+
+
+
+
+
+
+
+3
+Early commercial fully transistorized large-scale computers
+
+
+
+
+Toggle Early commercial fully transistorized large-scale computers subsection
+
+
+
+
+
+3.1
+IBM
+
+
+
+
+
+
+
+
+3.2
+DEC
+
+
+
+
+
+
+
+
+3.3
+System/360 and hybrid circuits
+
+
+
+
+
+
+
+
+
+
+4
+Schools and hobbyists
+
+
+
+
+
+
+
+
+5
+See also
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Transistor computer
+
+
+
+10 languages
+
+
+
+
+DanskΕλληνικά한국어Hrvatski日本語PolskiPortuguêsSimple Englishکوردی中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer built using discrete transistors
+IBM 1620
+A transistor computer, now often called a second-generation computer,[1] is a computer which uses discrete transistors instead of vacuum tubes. The first generation of electronic computers used vacuum tubes, which generated large amounts of heat, were bulky and unreliable. A second-generation computer, through the late 1950s and 1960s featured circuit boards filled with individual transistors and magnetic-core memory. These machines remained the mainstream design into the late 1960s, when integrated circuits started appearing and led to the third-generation computer.
+
+
+History[edit]
+The University of Manchester's experimental Transistor Computer was first operational in November 1953 and it is widely believed to be the first transistor computer to come into operation anywhere in the world. There were two versions of the Transistor Computer, the prototype, operational in 1953, and the full-size version, commissioned in April 1955.[2] The 1953 machine had 92 point-contact transistors and 550 diodes, manufactured by STC. It had a 48-bit machine word. The 1955 machine had a total of 200 point-contact transistors and 1,300 point diodes,[3] which resulted in a power consumption of 150 watts. There were considerable reliability problems with the early batches of transistors and the average error-free run in 1955 was only 1.5 hours. The Transistor Computer also used a small number of tubes in its clock generator, so it was not  the first fully transistorized machine.[4]
+The design of a full-size Transistor Computer was subsequently adopted by the Manchester firm of Metropolitan-Vickers, who changed all the circuits to use more reliable junction transistors. The production version was known as the Metrovick 950 and was built from 1956 to the extent of six[3] or seven machines, which were "used commercially within the company"[5] or "mainly for internal use".[3]
+
+Other early machines[edit]
+TRADIC
+During the mid-1950s a series of similar machines appeared. These included the Bell Laboratories TRADIC, completed in January 1954, which used a single high-power output vacuum-tube amplifier to supply its 1-MHz clock power.[6]
+The first fully transistorized computer was either the Harwell CADET, which first operated in February 1955, although the price paid for this was that it operated only at the slow speed of 58 kHz,[citation needed] or the prototype IBM 604 transistor calculator. The Burroughs Corporation claimed the SM-65 Atlas ICBM / THOR ABLE guidance computer (MOD 1) that it delivered to the US Air Force at the Cape Canaveral missile range in June 1957 was "the world's first operational transistorized computer".[citation needed] MIT's Lincoln Laboratory started developing a transistorized computer the TX-0 in 1956.
+Further transistorized computers became operational in Japan (ETL Mark III, July 1956), in Canada (DRTE Computer, 1957), and in Austria, (Mailüfterl, May 1958),[7] these being the first transistorized computers in Asia, Canada and mainland Europe respectively.
+
+First commercial fully transistorized calculator[edit]
+In April 1955,[8] IBM announced the IBM 608 transistor calculator, which was first shipped in December 1957.[9] IBM and several historians thus consider the IBM 608 the first all solid-state computing machine commercially marketed.[8][10][11][12] The development of the 608 was preceded by the prototyping of an experimental all-transistor version of the 604. This was built and demonstrated in October 1954, but was not commercialized.[9][11][13]
+
+Early commercial fully transistorized large-scale computers[edit]
+The Philco Transac models S-1000 scientific computer and S-2000 electronic data processing computer were early commercially produced large-scale all-transistor computers; they were announced in 1957 but did not ship until sometime after the fall of 1958. The Philco computer name "Transac" stands for Transistor-Automatic-Computer. Both of these Philco computer models used the surface-barrier transistor in their circuitry designs, the world's first high-frequency transistor suitable for high-speed computers.[14][15][16] The surface-barrier transistor was developed by Philco in 1953.[17]
+RCA shipped the RCA 501 its first all-transistor computer in 1958.[18]
+In Italy, Olivetti's  first commercial fully transistorized computer was the Olivetti Elea 9003, sold from 1959.[19]
+
+IBM[edit]
+IBM, which dominated the data processing industry through most of the 20th century, introduced its first commercial transistorized computers beginning in 1958, with the IBM 7070, a ten-digit-word decimal machine.[20] It was followed in 1959 by the IBM 7090, a 36-bit scientific machine, the highly popular IBM 1401 designed to replace punched card tabulating machines, and the desk-sized 1620, a variable length decimal machine. IBM's 7000 and 1400 series included many variants on these designs, with different data formats, instruction sets and even different character encodings, but all were built using the same series of electronics modules, the IBM Standard Modular System (SMS).[21]
+
+DEC[edit]
+Developers of the TX-0 left to form the Digital Equipment Corporation in 1957. Transistorized from the beginning, early DEC products included the PDP-1, PDP-6, PDP-7 and early PDP-8s, the last starting the minicomputer revolution.  Later models of the PDP-8 beginning with PDP-8I[22] in 1968 used integrated circuits making them third generation computers
+
+System/360 and hybrid circuits[edit]
+In 1964, IBM announced its System/360, a collection of computers covering a wide range of capabilities and prices with a unified architecture, to replace its earlier computers. Unwilling to bet the company on the immature monolithic IC technology of the early 1960s, IBM built the S/360 series using IBM's Solid Logic Technology (SLT) modules.  SLT could package several individual transistors and individual diodes with deposited resistors and interconnections in a module one-half inch square, roughly the equivalent logic of the earlier IBM Standard Modular System card,  but unlike monolithic IC manufacturing, the diodes and transistors in an SLT module were individually placed and connected at the end of each module's assembly.[21]
+
+Schools and hobbyists[edit]
+First generation computers were largely out of reach of schools and hobbyists who wished to build their own, largely because of the cost of the large number of vacuum tubes required (though relay-based computer projects were undertaken[23]). The fourth generation (VLSI) was also largely out of reach, too, due to most of the design work being inside the integrated circuit package (though this barrier, too, was later removed[24]). So, second and third generation computer design (transistors and MSI) were perhaps the best suited to being undertaken by schools and hobbyists.[25]
+
+See also[edit]
+History of computing hardware
+List of transistorized computers
+transistor count § Transistor computers
+References[edit]
+
+
+^ Morleey, Deborah (2004). Computers and Technology in a Changing Society. Thomson/Course Technology. p. 6. ISBN 9780619267674.
+
+^ The Transistor Computer, Virtual Museum of Manchester Computing, retrieved 2018-03-23
+
+^ a b c Anderson, David P. (April–June 2009). "Biographies: Tom Kilburn: A Pioneer of Computer Design". IEEE Annals of the History of Computing. 31 (2): 82–86 See p. 84. doi:10.1109/MAHC.2009.32.
+
+^ Cooke-Yarborough, E.H. (June 1998). "Some early transistor applications in the UK". Engineering Science & Education Journal. 7 (3): 100–6. doi:10.1049/esej:19980301 (inactive 7 December 2024). ISSN 0963-7346. Archived from the original on July 28, 2020.{{cite journal}}:  CS1 maint: DOI inactive as of December 2024 (link)
+
+^ "1953 — Transistorized Computers Emerge". Timeline. Computer History Museum.
+
+^ Irvine, M. M. (2007). "Early Digital Computers at Bell Telephone Laboratories" (PDF). IEEE Annals of the History of Computing. 23 (7): 22–42. doi:10.1109/85.948904. S2CID 14905772. Archived from the original (PDF) on 2020-01-15.
+
+^ Blackman, Nelson M. (June 2007). "The state of digital computer technology in Europe". Communications of the ACM. 4 (7). ACM: 256–265. doi:10.1145/366573.366596. S2CID 11486858.
+
+^ a b "IBM 608 calculator". IBM Archives ... Vintage views of IBM products. IBM. October 2015. Archived from the original on January 22, 2005.
+
+^ a b Pugh, Emerson W. (1995). Building IBM: shaping an industry and its technology. MIT Press. pp. 229–230. ISBN 0-262-16147-8.
+
+^ "1955". IBM Archives, Exhibits, History of IBM, 1950s. IBM. 23 January 2003.
+
+^ a b Pugh, Emerson W.; Johnson, Lyle R.; Palmer, John H. (1991). IBM's 360 and early 370 systems. MIT Press. p. 34. ISBN 0-262-16123-0.
+
+^ Norman, Jeremy M. (2005). From Gutenberg to the Internet: a sourcebook on the history of information technology. Vol. 2. Norman Publishing. p. 86. ISBN 0-930405-87-0. p. ]
+
+^ Boslaugh, David L. (16 April 2003). When Computers Went to Sea: The Digitization of the United States Navy. Wiley. p. 156. ISBN 0-471-47220-4.
+
+^ "_". Digital Computer Newsletter. 9 (2). Office of Naval Research: 7–8. April 1957. OCLC 227552420.
+
+^ Chicago Tribune, March 23, 1958, Article: "All Transistor Computer Put on Market by Philco", page A11
+
+^ Rosen, Saul (June 1991). PHILCO: Some Recollections of the PHILCO TRANSAC S-2000 (Computer Science Technical Reports / Purdue e-Pubs). Purdue University. Here: page 2
+
+^ "Philco Claims Its Transistor Outperforms Others Now In Use". Wall Street Journal. December 4, 1953. p. 4.
+
+^ RCA advertisement (January 1965). "RCA announces the world's computer series". Datamation. 11 (1): 8. OCLC 1142395.
+
+^ Parolini, Giuditta (2008). "Olivetti Elea 9003: Between Scientific Research and Computer Business". History of Computing and Education 3 (HCE3). Springer. pp. 37–54. ISBN 9780387096568.
+
+^ "Trucks, sheep and the IBM 7070". IBM Archives, Exhibits, Vintage Views. IBM. 23 January 2003.
+
+^ a b Boyer, Chuck (April 2004). "The 360 Revolution" (PDF). IBM. p. 18. Retrieved 27 May 2018.
+
+^ "PDP-8/I IC logic module". Computer History Museum. Retrieved 19 April 2025.
+
+^ Bolt, A.B. (2010) [1966]. We Built our own Computers. Cambridge University Press. ISBN 978-0-521-09378-1.
+
+^ Mead, C.; Conway, L. (1980). Introduction to VLSI Systems. Addison-Wesley. ISBN 0-201-04358-0.
+
+^ A.Wilkinson (1968). Computer Models, Edward Arnold, UK, SBN 7131 1515 X
+
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Transistor_computer&oldid=1278868648"
+Category: Transistorized computersHidden categories: CS1 maint: DOI inactive as of December 2024Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from May 2010
+
+
+
+
+
+
+ This page was last edited on 5 March 2025, at 02:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Transistor computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

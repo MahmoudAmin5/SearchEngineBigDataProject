@@ -1,0 +1,1274 @@
+https://en.wikipedia.org/wiki/Invention_of_the_integrated_circuit
+
+
+
+
+Invention of the integrated circuit - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Prerequisites
+
+
+
+
+Toggle Prerequisites subsection
+
+
+
+
+
+1.1
+Waiting for a breakthrough
+
+
+
+
+
+
+
+
+1.2
+Idea of integration
+
+
+
+
+
+
+
+
+1.3
+Functional electronics
+
+
+
+
+
+
+
+
+1.4
+Silicon technology
+
+
+
+
+
+
+1.4.1
+Surface passivation
+
+
+
+
+
+
+
+
+1.4.2
+Planar process
+
+
+
+
+
+
+
+
+
+
+
+
+2
+Three problems of microelectronics
+
+
+
+
+Toggle Three problems of microelectronics subsection
+
+
+
+
+
+2.1
+Integration by Jack Kilby
+
+
+
+
+
+
+2.1.1
+Kilby's hybrid IC
+
+
+
+
+
+
+
+
+2.1.2
+Commercialization attempts
+
+
+
+
+
+
+
+
+
+
+2.2
+Isolation by p-n junction
+
+
+
+
+
+
+2.2.1
+Solution by Kurt Lehovec
+
+
+
+
+
+
+
+
+2.2.2
+Solution by Robert Noyce
+
+
+
+
+
+
+
+
+
+
+2.3
+Invention of metallization
+
+
+
+
+
+
+
+
+
+
+3
+First monolithic integrated circuits
+
+
+
+
+Toggle First monolithic integrated circuits subsection
+
+
+
+
+
+3.1
+TTL integrated circuits
+
+
+
+
+
+
+
+
+3.2
+MOS integrated circuit
+
+
+
+
+
+
+
+
+
+
+4
+Patent wars of 1962–1966
+
+
+
+
+
+
+
+
+5
+Historiography
+
+
+
+
+Toggle Historiography subsection
+
+
+
+
+
+5.1
+Two inventors: Kilby and Noyce
+
+
+
+
+
+
+
+
+5.2
+Later revisionism
+
+
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+Notes
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+Bibliography
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Invention of the integrated circuit
+
+
+
+4 languages
+
+
+
+
+العربيةEspañolРусскийУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+The first planar monolithic integrated circuit (IC) chip was demonstrated in 1960. The idea of integrating electronic circuits into a single device was born when the German physicist and engineer Werner Jacobi developed and patented the first known integrated transistor amplifier in 1949 and the British radio engineer Geoffrey Dummer proposed to integrate a variety of standard electronic components in a monolithic semiconductor crystal in 1952. A year later, Harwick Johnson filed a patent for a prototype IC. Between 1953 and 1957, Sidney Darlington and Yasuo Tarui (Electrotechnical Laboratory) proposed similar chip designs where several transistors could share a common active area, but there was no electrical isolation to separate them from each other.
+These ideas could not be implemented by the industry, until a breakthrough came in late 1958. Three people from three U.S. companies solved three fundamental problems that hindered the production of integrated circuits. Jack Kilby of Texas Instruments patented the principle of integration, created the first prototype ICs and commercialized them. Kilby's invention was a hybrid integrated circuit (hybrid IC), rather than a monolithic integrated circuit (monolithic IC) chip.[1] Between late 1958 and early 1959, Kurt Lehovec of Sprague Electric Company developed a way to electrically isolate components on a semiconductor crystal, using p–n junction isolation.
+The first monolithic IC chip was invented by Robert Noyce of Fairchild Semiconductor.[2][3] He invented a way to connect the IC components (aluminium metallization) and proposed an improved version of insulation based on the planar process technology developed by Jean Hoerni. On September 27, 1960, using the ideas of Noyce and Hoerni, a group of Jay Last's at Fairchild Semiconductor created the first operational semiconductor IC. Texas Instruments, which held the patent for Kilby's invention, started a patent war, which was settled in 1966 by the agreement on cross-licensing.
+There is no consensus on who invented the IC. The American press of the 1960s named four people: Kilby, Lehovec, Noyce and Hoerni; in the 1970s the list was shortened to Kilby and Noyce. Kilby was awarded the 2000 Nobel Prize in Physics "for his part in the invention of the integrated circuit".[4] In the 2000s, historians Leslie Berlin,[a] Bo Lojek[b] and Arjun Saxena[c] reinstated the idea of multiple IC inventors and revised the contribution of Kilby. Modern IC chips are based on Noyce's monolithic IC,[2][3] rather than Kilby's hybrid IC.[1]
+
+
+Prerequisites[edit]
+Waiting for a breakthrough[edit]
+Changing vacuum tubes in the computer ENIAC. By the 1940s, some computational devices reached the level at which the losses from failures and downtime outweighed the economic benefits.
+During and immediately after World War II a phenomenon named "the tyranny of numbers" was noticed, that is, some computational devices reached a level of complexity at which the losses from failures and downtime exceeded the expected benefits.[7] Each Boeing B-29 (put into service in 1944) carried 300–1000 vacuum tubes and tens of thousands of passive components.[d] The number of vacuum tubes reached thousands in advanced computers and more than 17,000 in the ENIAC (1946).[e] Each additional component reduced the reliability of a device and lengthened the troubleshooting time.[7] Traditional electronics reached a deadlock and a further development of electronic devices required reducing the number of their components.
+The invention of the first transistor in 1947 led to the expectation of a new technological revolution. Fiction writers and journalists heralded the imminent appearance of "intelligent machines" and robotization of all aspects of life.[12] Although transistors did reduce the size and power consumption, they could not solve the problem of reliability of complex electronic devices. On the contrary, dense packing of components in small devices hindered their repair.[7] While the reliability of discrete components was brought to the theoretical limit in the 1950s, there was no improvement in the connections between the components.[13]
+
+Idea of integration[edit]
+Early developments of the integrated circuit go back to 1949, when the Siemens engineer Werner Jacobi[14] filed a patent for an integrated-circuit-like semiconductor amplifying device[15] showing five transistors on a common substrate in a 3-stage amplifier arrangement with two transistors working "upside-down" as impedance converter. Jacobi disclosed small and cheap hearing aids as typical industrial applications of his patent. An immediate commercial use of his patent has not been reported.
+On May 7, 1952, the British radio engineer Geoffrey Dummer formulated the idea of integration in a public speech in Washington:
+
+With the advent of the transistor and the work in semiconductors generally, it seems now to be possible to envisage electronic equipment in a solid block with no connecting wires. The block may consist of layers of insulating, conducting, rectifying and amplifying materials, the electrical functions being connected by cutting out areas of the various layers.[16][17]
+Johnson's integrated generator (1953; variants with lumped and distributed capacitances). Inductances L, load resistor Rk and sources Бк и Бб are external. Uвых - U output.
+Dummer later became famous as "the prophet of integrated circuits", but not as their inventor. In 1956 he produced an IC prototype by growth from the melt,[16] but his work was deemed impractical by the UK Ministry of Defence, because of the high cost and inferior parameters of the IC compared to discrete devices.[18]
+In May 1952, Sidney Darlington filed a patent application in the United States for a structure with two or three transistors integrated onto a single chip in various configurations; in October 1952, Bernard Oliver filed a patent application for a method of manufacturing three electrically connected planar transistors on one semiconductor crystal.[19][20]
+On May 21, 1953, Harwick Johnson filed a patent application for a method of forming various electronic components – transistors, resistors, lumped and distributed capacitances – on a single chip. Johnson described three ways of producing an integrated one-transistor oscillator. All of them used a narrow strip of a semiconductor with a bipolar transistor on one end and differed in the methods of producing the transistor. The strip acted as a series of resistors; the lumped capacitors were formed by fusion whereas inverse-biased p-n junctions acted as distributed capacitors.[21] Johnson did not offer a technological procedure, and it is not known whether he produced an actual device. In 1959, a variant of his proposal was implemented and patented by Jack Kilby.[19]
+In 1957, Yasuo Tarui, at MITI's Electrotechnical Laboratory near Tokyo, fabricated a "quadrupole" transistor, a form of unipolar (field-effect transistor) and a bipolar junction transistor on the same chip. These early devices featured designs where several transistors could share a common active area, but there was no electrical isolation to separate them from each other.[22]
+
+Functional electronics[edit]
+The leading US electronics companies (Bell Labs, IBM, RCA and General Electric) sought solution to "the tyranny of numbers" in the development of discrete components that implemented a given function with a minimum number of attached passive elements.[23] During the vacuum tube era, this approach allowed to reduce the cost of a circuit at the expense of its operation frequency. For example, a memory cell of the 1940s consisted of two triodes and a dozen passive components and ran at frequencies up to 200 kHz. A MHz response could be achieved with two pentodes and six diodes per cell. This cell could be replaced by one thyratron with a load resistor and an input capacitor, but the operating frequency of such circuit did not exceed a few kHz.[24]
+In 1952, Jewell James Ebers from Bell Labs developed a prototype solid-state analog of thyratron – a four-layer transistor, or thyristor.[25] William Shockley simplified its design to a two-terminal "four-layer diode" (Shockley diode) and attempted its industrial production.[26] Shockley hoped that the new device would replace the polarized relay in telephone exchanges;[27] however, the reliability of Shockley diodes was unacceptably low, and his company went into decline.
+At the same time, works on thyristor circuits were carried at Bell Labs, IBM and RCA. Ian Munro Ross and L. Arthur D'Asaro (Bell Labs) experimented with thyristor-based memory cells.[28] Joe Logue and Rick Dill (IBM) were building counters using monojunction transistors.[29] J. Torkel Wallmark and Harwick Johnson (RCA) used both the thyristors and field-effect transistors. The works of 1955–1958 that used germanium thyristors were fruitless.[30] Only in the summer of 1959, after the inventions of Kilby, Lehovec and Hoerni became publicly known, D'Asaro reported an operational shift register based on silicon thyristors. In this register, one crystal containing four thyristors replaced eight transistors, 26 diodes and 27 resistors. The area of each thyristor ranged from 0.2 to 0.4 mm2, with a thickness of about 0.1 mm. The circuit elements were isolated by etching deep grooves.[28][31]
+From the point of view of supporters of functional electronics, semiconductor era, their approach was allowed to circumvent the fundamental problems of semiconductor technology.[28] The failures of Shockley, Ross and Wallmark proved the fallacy of this approach: the mass production of functional devices was hindered by technological barriers.[29]
+
+Silicon technology[edit]
+Further information: Silicon semiconductors
+Early transistors were made of germanium. By the mid-1950s it was replaced by silicon which could operate at higher temperatures. In 1954, Gordon Kidd Teal from Texas Instruments produced the first silicon transistor, which became commercial in 1955.[32] Also in 1954, Fuller and Dittsenberger published a fundamental study of diffusion in silicon, and Shockley suggested using this technology to form p-n junctions with a given profile of the impurity concentration.[33]
+In early 1955, Carl Frosch from Bell Labs developed wet oxidation of silicon, and in the next two years, Frosch, Moll, Fuller and Holonyak did further research on it.[34][35] In 1957 Frosch and Derick, published their work on the first manufactured silicon dioxide semiconductor-oxide transistors; the first planar transistors, in which drain and source were adjacent at the same surface.[36] This accidental discovery revealed the second fundamental advantage of silicon over germanium: contrary to germanium oxides, "wet" silica is a physically strong and chemically inert electrical insulator.
+
+Surface passivation[edit]
+Main article: Surface passivation
+See also: Thermal oxidation
+Diagram of one of the silicon dioxide transistors made by Frosch and Derrick at Bell Labs in 1957.[36]
+Surface passivation, the process by which a semiconductor surface is rendered inert, and does not change semiconductor properties as a result of interaction with air or other materials in contact with the surface or edge of the crystal, was first discovered by Carl Frosch and Lincoln Derick at Bell Labs between 1955 and 1957.[37][38][36] Frosch and Derrick showed that a silicon dioxide (SiO2) layer protected silicon wafers against the environment, masked against dopant diffusion into silicon and electrically insulated and demonstrated it by creating the first silicon dioxide transistors, the first transistors in which drain and source were adjacent at the surface insulated by a SiO2 layer.[36]
+
+Planar process[edit]
+Main article: Planar process
+See also: Planar transistor
+Comparison of the mesa (left) and planar (Hoerni, right) technologies. Dimensions are shown schematically.
+At Bell Labs, the importance of Frosch's technique was immediately realized. Results of Frosch and Derick work circulated around Bell Labs in the form of BTL memos before being published in 1957. At Shockley Semiconductor, Shockley had circulated the preprint of their article in December 1956 to all his senior staff, including Jean Hoerni.[39][14][22][40] Later, Hoerni attended a meeting where Atalla presented a paper about passivation based on the previous results at Bell Labs.[40] Taking advantage of silicon dioxide's passivating effect on the silicon surface, Hoerni proposed to make transistors that were protected by a layer of silicon dioxide.[40]
+Jean Hoerni first proposed a planar technology of bipolar transistors. In this process, all the p-n junctions were covered by a protective layer, which should significantly improve reliability. However, at the time, this proposal was considered technically impossible. The formation of the emitter of an n-p-n transistor required diffusion of phosphorus, and the work of Frosch suggested that SiO2 does not block such diffusion.[41] In March 1959, Chih-Tang Sah, a former colleague of Hoerni, pointed Hoerni and Noyce to an error in the conclusions of Frosch. Frosch used a thin oxide layer, whereas the experiments of 1957–1958 showed that a thick layer of oxide can stop the phosphorus diffusion.[42]
+Armed with the above knowledge, by March 12, 1959, Hoerni made the first prototype of a planar transistor,[43] and on May 1, 1959, filed a patent application for the invention of the planar process.[41] In April 1960, Fairchild launched the planar transistor 2N1613,[44] and by October 1960 completely abandoned the mesa transistor technology.[45] By the mid-1960s, the planar process has become the main technology of producing transistors and monolithic integrated circuits.[46]
+
+Three problems of microelectronics[edit]
+The creation of the integrated circuit was hindered by three fundamental problems, which were formulated by Wallmark in 1958:[47]
+
+Integration. In 1958, there was no way of forming many different electronic components in one semiconductor crystal. Alloying was not suited to the IC and the latest mesa technology had serious problems with reliability.
+Isolation. There was no technology to electrically isolate components on one semiconductor crystal.
+Connection. There was no effective way to create electrical connections between the components of an IC, except for the extremely expensive and time-consuming connection using gold wires.
+It happened so that three different companies held the key patents to each of these problems. Sprague Electric Company decided not to develop ICs, Texas Instruments limited itself to an incomplete set of technologies, and only Fairchild Semiconductor combined all the techniques required for a commercial production of monolithic ICs.
+
+Integration by Jack Kilby[edit]
+Kilby's hybrid IC[edit]
+Jack Kilby's original hybrid integrated circuit from 1958. This was the first integrated circuit, and was made from germanium.
+In May 1958, Jack Kilby, an experienced radio engineer and a veteran of World War II, started working at Texas Instruments.[48][49][50] At first, he had no specific tasks and had to find himself a suitable topic in the general direction of "miniaturization".[49] He had a chance of either finding a radically new research direction or blend into a multimillion-dollar project on the production of military circuits.[48] In the summer of 1958, Kilby formulated three features of integration:
+
+The only thing that a semiconductor company can successfully produce is semiconductors.
+All circuit elements, including resistors and capacitors can be made of a semiconductor.
+All circuit components can be formed on one semiconductor crystal, adding only the interconnections.
+Comparison of the oscillators by Johnson (on the left, with an alloyed transistor, length: 10 mm, width: 1.6 mm) and Kilby (on the right, with mesa transistor)
+On August 28, 1958, Kilby assembled the first prototype of an IC using discrete components and received approval for implementing it on one chip. He had access to technologies that could form mesa transistors, mesa diodes and capacitors based on p-n junctions on a germanium (but not silicon) chip, and the bulk material of the chip could be used for resistors.[48] The standard Texas Instruments chip for the production of 25 (5×5) mesa transistors was 10×10 mm in size. Kilby cut it into five-transistor 10×1.6 mm strips, but later used not more than two of them.[51][52] On September 12, he presented the first IC prototype,[48] which was a single-transistor oscillator with a distributed RC feedback, repeating the idea and the circuit in the 1953 patent by Johnson.[17] On September 19, he made the second prototype, a two-transistor trigger.[53] He described these ICs, referencing the Johnson's patent, in his U.S. patent 3,138,743.
+Between February and May 1959 Kilby filed a series of applications: U.S. patent 3,072,832, U.S. patent 3,138,743, U.S. patent 3,138,744, U.S. patent 3,115,581 and U.S. patent 3,261,081.[54] According to Arjun Saxena, the application date for the key patent 3,138,743 is uncertain: while the patent and the book by Kilby set it to February 6, 1959,[55] it could not be confirmed by the application archives of the federal patent office. He suggested that the initial application was filed on February 6 and lost, and the (preserved) resubmission was received by the patent office on 6 May 1959 – the same date as the applications for the patents 3,072,832 and 3,138,744.[56] Texas Instruments introduced the inventions by Kilby to the public on March 6, 1959.[57]
+None of these patents solved the problem of isolation and interconnection – the components were separated by cutting grooves on the chip and connected by gold wires.[51] Thus these ICs were of the hybrid rather than monolithic type.[58] However, Kilby demonstrated that various circuit elements: active components, resistors, capacitors and even small inductances can be formed on one chip.[51]
+
+Commercialization attempts[edit]
+Topology of the double-crystal multivibrator IC TI 502. The numbering corresponds to File:TI 502 schematic.png. Each crystal is 5 mm long.[59] Proportions are slightly altered for presentation purposes.
+In autumn 1958, Texas Instruments introduced the yet non-patented idea of Kilby to military customers.[48] While most divisions rejected it as unfit to the existing concepts, the US Air Force decided that this technology complied with their molecular electronics program,[48][60] and ordered production of prototype ICs, which Kilby named "functional electronic blocks".[61] Westinghouse added epitaxy to the Texas Instruments technology and received a separate order from the US military in January 1960.[62]
+In April 1960, Texas Instruments announced multivibrator #502 as the world's first integrated circuit available on the market. The company assured that contrary to the competitors they actually sell their product, at a price of US$450 per unit or US$300 for quantities larger than 100 units.[61] However, the sales began only in the summer of 1961, and the price was higher than announced.[63] The #502 schematic contained two transistors, four diodes, six resistors and two capacitors, and repeated the traditional discrete circuitry.[64] The device contained two Si strips of 5 mm length inside a metal-ceramic housing.[64] One strip contained input capacitors; the other accommodated mesa transistors and diodes, and its grooved body was used as six resistors. Gold wires acted as interconnections.[65]
+In October 1961, Texas Instruments built for the Air Force a demonstration "molecular computer" with a 300-bit memory. [66][67] Kilby's colleague Harvey Cragon packed this computer into a volume of a little over 100 cm3, using 587 ICs to replace around 8,500 transistors and other components that would be needed to perform the equivalent function.[66] In December 1961, the Air Force accepted the first analog device created within the molecular electronics program – a radio receiver.[62] It uses costly ICs, which had less than 10–12 components and a high percentage of failed devices. This generated an opinion that ICs can only justify themselves for aerospace applications.[68] However, the aerospace industry rejected those ICs for the low radiation hardness of their mesa transistors.[61]
+
+Isolation by p-n junction[edit]
+Further information: P–n junction isolation
+Solution by Kurt Lehovec[edit]
+In late 1958, Kurt Lehovec, a scientist working at the Sprague Electric Company, attended a seminar at Princeton where Wallmark outlined his vision of the fundamental problems in microelectronics. On his way back to Massachusetts, Lehovec found a simple solution to the isolation problem which used the p-n junction:[69]
+
+It is well-known that a p-n junction has a high impedance to electric current, particularly if biased in the so-called blocking direction, or with no bias applied. Therefore, any desired degree of electrical insulation between two components assembled on the same slice can be achieved by having a sufficiently large number of p-n junctions in series between two semiconducting regions on which said components are assembled. For most circuits, one to three junctions will be sufficient... 
+Cross-section of a three-stage amplifier (three transistors, four resistors) from U.S. patent 3,029,366. Blue areas: n-type conductivity, red: p-type, length: 2.2 mm, thickness: 0.1 mm.
+Lehovec tested his idea using the technologies of making transistors that were available at Sprague. His device was a linear structure 2.2×0.5×0.1 mm in size, which was divided into isolated n-type cells (bases of the future transistors) by p-n junctions. Layers and transitions were formed by growth from the melt. The conductivity type was determined by the pulling speed of the crystal: an indium-rich p-type layer was formed at a slow speed, whereas an arsenic-rich n-type layer was produced at a high speed. The collectors and emitters of the transistors were created by welding indium beads. All electrical connections were made by hand, using gold wires.[70]
+The management of Sprague showed no interest to the invention by Lehovec. Nevertheless, on April 22, 1959, he filed a patent application at his own expense, and then left the United States for two years. Because of this disengagement, Gordon Moore concluded that Lehovec should not be considered as an inventor of the integrated circuit.[71]
+
+Solution by Robert Noyce[edit]
+Further information: Planar process
+See also: Surface passivation
+Robert Noyce invented the first monolithic integrated circuit chip at Fairchild Semiconductor in 1959. It was made from silicon, and was fabricated using Jean Hoerni's planar process and Mohamed Atalla's surface passivation process.
+On January 14, 1959, Jean Hoerni introduced his latest version of the planar process to Robert Noyce and a patent attorney John Rallza at Fairchild Semiconductor.[72][73] A memo of this event by Hoerni was the basis of a patent application for the invention of a planar process, filed in May 1959, and implemented in U.S. patent 3,025,589 (the planar process) and U.S. patent 3,064,167 (the planar transistor).[74] On January 20, 1959, Fairchild managers met with Edward Keonjian, the developer of the onboard computer for the rocket "Atlas", to discuss the joint development of hybrid digital ICs for his computer.[75] These events probably led Robert Noyce to return to the idea of integration.[76]
+On January 23, 1959, Noyce documented his vision of the planar integrated circuit, essentially re-inventing the ideas of Kilby and Lehovec on the base of the Hoerni's planar process.[77] Noyce claimed in 1976 that in January 1959 he did not know about the work of Lehovec.[78]
+As an example, Noyce described an integrator that he discussed with Keonjian.[77][79] Transistors, diodes and resistors of that hypothetical device were isolated from each other by p-n junctions, but in a different manner from the solution by Lehovec. Noyce considered the IC manufacturing process as follows. It should start with a chip of highly resistive intrinsic (undoped) silicon passivated with an oxide layer. The first photolithography step aims to open windows corresponding to the planned devices, and diffuse impurities to create low-resistance "wells" through the entire thickness of the chip. Then traditional planar devices are formed inside those wells.[80] Contrary to the solution by Lehovec, this approach created two-dimensional structures and fit a potentially unlimited number of devices on a chip.
+After formulating his idea, Noyce shelved it for several months due to pressing company matters, and returned to it only by March 1959.[81] It took him six months to prepare a patent application, which was then rejected by the US Patent Office because they already received the application by Lehovec.[82] Noyce revised his application and in 1964 received U.S. patent 3,150,299 and U.S. patent 3,117,260.[83][80]
+
+Invention of metallization[edit]
+In early 1959, Noyce solved another important problem, the problem of interconnections that hindered mass-production of ICs.[84] According to the colleagues from the traitorous eight his idea was self-evident: of course, the passivating oxide layer forms a natural barrier between the chip and the metallization layer.[85] According to Turner Hasty, who worked with Kilby and Noyce, Noyce planned to make the microelectronic patents of Fairchild accessible to a wide range of companies, similar to Bell Labs which in 1951–1952 released their transistor technologies.[86]
+Noyce submitted his application on July 30, 1959, and on April 25, 1961, received U.S. patent 2,981,877. According to the patent, the invention consisted of preserving the oxide layer, which separated the metallization layer from the chip (except for the contact window areas), and of depositing the metal layer so that it is firmly attached to the oxide. The deposition method was not yet known, and the proposals by Noyce included vacuum deposition of aluminium through a mask and deposition of a continuous layer, followed by photolithography and etching off the excess metal. According to Saxena, the patent by Noyce, with all its drawbacks, accurately reflects the fundamentals of the modern IC technologies.[87]
+In his patent, Kilby also mentions the use of metallization layer. However, Kilby favored thick coating layers of different metals (aluminium, copper or antimony-doped gold) and silicon monoxide instead of the dioxide. These ideas were not adopted in the production of ICs.[88]
+
+First monolithic integrated circuits[edit]
+Logical NOR IC from the computer that controlled the Apollo spacecraft
+In August 1959, Noyce formed at Fairchild a group to develop integrated circuits.[89] On May 26, 1960, this group, led by Jay Last, produced the first planar integrated circuit. This prototype was not monolithic – two pairs of its transistors were isolated by cutting a groove on the chip,[90] according to the patent by Last.[91] The initial production stages repeated the Hoerni's planar process. Then the 80-micron-thick crystal was glued, face down, to the glass substrate, and additional photolithography was carried on the back surface. Deep etching created a groove down to the front surface. Then the back surface was covered with an epoxy resin, and the chip was separated from the glass substrate.[92]
+In August 1960, Last started working on the second prototype, using the isolation by p-n junction proposed by Noyce. Robert Norman developed a trigger circuit on four transistors and five resistors, whereas Isy Haas and Lionel Kattner developed the process of boron diffusion to form the insulating regions. The first operational device was tested on September 27, 1960 – this was the first planar and monolithic integrated circuit.[90]
+Fairchild Semiconductor did not realize the importance of this work. Vice president of marketing believed that Last was wasting the company resources and that the project should be terminated.[93] In January 1961, Last, Hoerni and their colleagues from the "traitorous eight" Kleiner and Roberts left Fairchild and headed Amelco. David Allison, Lionel Kattner and some other technologists left Fairchild to establish a direct competitor, the company Signetics.[94]
+The first integrated circuit purchase order was for 64 logic elements at $1000 each, with samples of proposed packaging delivered to MIT in 1960 and the 64 Texas Instruments integrated circuits in 1962.[95]
+Despite the departure of their leading scientists and engineers, in March 1961 Fairchild announced their first commercial IC series, named "Micrologic", and then spent a year on creating a family of logic ICs.[90] By that time ICs were already produced by their competitors. Texas Instruments abandoned the IC designs by Kilby and received a contract for a series of planar ICs for space satellites, and then for the LGM-30 Minuteman ballistic missiles.[67]
+NASA's Apollo Program was the largest single consumer of integrated circuits between 1961 and 1965.[95]
+Whereas the ICs for the onboard computers of the Apollo spacecraft were designed by Fairchild, most of them were produced by Raytheon and Philco Ford.[96][67] Each of these computers contained about 5,000 standard logic ICs,[96] and during their manufacture, the price for an IC dropped from US$1,000 to US$20–30. In this way, NASA and the Pentagon prepared the ground for the non-military IC market.[97] The first monolithic integrated circuits, including all the logic ICs in the Apollo Guidance Computer, were 3-input resistor-transistor logic NOR gates.
+The resistor-transistor logic of first ICs by Fairchild and Texas Instruments was vulnerable to electromagnetic interference, and therefore in 1964 both companies replaced it by the diode-transistor logic [91]. Signetics released the diode-transistor family Utilogic back in 1962, but fell behind Fairchild and Texas Instruments with the expansion of production. Fairchild was the leader in the number of ICs sold in 1961–1965, but Texas Instruments was ahead in the revenue: 32% of the IC market in 1964 compared to 18% of Fairchild.[98]
+
+TTL integrated circuits[edit]
+Main article: Transistor–transistor logic
+The above logic ICs were built from standard components, with sizes and configurations defined by the technological process, and all the diodes and transistors on one IC were of the same type.[99] The use of different transistor types was first proposed by Tom Long at Sylvania during 1961–1962.
+In 1961, transistor–transistor logic (TTL) was invented by James L. Buie.[100] In late 1962, Sylvania launched the first family of transistor-transistor logic (TTL) ICs, which became a commercial success.[101] Bob Widlar from Fairchild made a similar breakthrough in 1964–1965 in analog ICs (operational amplifiers).[102] TTL became the dominant IC technology during the 1970s to early 1980s.[100]
+
+MOS integrated circuit[edit]
+Main article: MOS integrated circuit
+The MOSFET was invented at Bell Labs between 1955 and 1960, after Frosch and Derick discovered surface passivation by silicon dioxide and used their finding to create the first planar transistors, the first field effect transistors in which drain and source were adjacent at the same surface.[37][36][103][104][105][106] The MOSFET made it possible to build high-density integrated circuits.[107] Nearly all modern ICs are metal–oxide–semiconductor (MOS) integrated circuits, built from MOSFETs (metal–oxide–silicon field-effect transistors).[108] The earliest experimental MOS IC to be fabricated was a 16-transistor chip built by Fred Heiman and Steven Hofstein at RCA in 1962.[109]
+General Microelectronics later introduced the first commercial MOS integrated circuit in 1964,[110] a 120-transistor shift register developed by Robert Norman.[109] The MOSFET has since become the most critical device component in modern ICs.[108]
+
+Patent wars of 1962–1966[edit]
+In 1959–1961 years, when Texas Instruments and Westinghouse worked in parallel on aviation "molecular electronics", their competition had a friendly character. The situation changed in 1962 when Texas Instruments started to zealously pursue the real and imaginary infringers of their patents and received the nicknames "The Dallas legal firm"[111] and "semiconductor cowboys".[112] This example was followed by some other companies.[111] Nevertheless, the IC industry continued to develop no matter the patent disputes.[113] In the early 1960s, the US Appeals Court ruled that Noyce was the inventor of the monolithic integrated circuit chip based on adherent oxide and junction isolation technologies.[114]
+
+Texas Instruments v. Westinghouse
+
+In 1962–1963, when these companies have adopted the planar process, the Westinghouse engineer Hung-Chang Lin invented the lateral transistor. In the usual planar process, all transistors have the same conductivity type, typically n-p-n, whereas the invention by Lin allowed creation of n-p-n and p-n-p transistors on one chip.[115] The military orders that were anticipated by Texas Instruments went to Westinghouse. TI filed a case, which was settled out of court.[116]
+
+Texas Instruments v. Sprague
+
+On April 10, 1962, Lehovec received a patent for isolation by p-n junction. Texas Instruments immediately filed a court case claiming that the isolation problem was solved in their earlier patent filed by Kilby. Robert Sprague, the founder of Sprague, considered the case hopeless and was going to give up the patent rights, was convinced otherwise by Lehovec. Four years later, Texas Instruments hosted in Dallas an arbitration hearing with demonstrations of the Kilby's inventions and depositions by experts. However, Lehovec conclusively proved that Kilby did not mention isolation of components. His priority on the isolation patent was finally acknowledged in April 1966.[117]
+
+Raytheon v. Fairchild
+
+On May 20, 1962, Jean Hoerni, who had already left Fairchild, received the first patent on the planar technology. Raytheon believed that Hoerni repeated the patent held by Jules Andrews and Raytheon and filed a court case. While appearing similar in the photolithography, diffusion and etching processes, the approach of Andrews had a fundamental flaw: it involved the complete removal of the oxide layer after each diffusion. On the contrary, in the process of Hoerni the "dirty" oxide was kept. Raytheon withdrew their claim and obtained a license from Fairchild.[74]
+
+Hughes v. Fairchild
+
+Hughes Aircraft sued Fairchild arguing that their researchers developed the Hoerni's process earlier. According to Fairchild lawyers, this case was baseless, but could take a few years, during which Fairchild could not sell the license to Hoerni's process. Therefore, Fairchild chose to settle with Hughes out of court. Hughes acquired the rights to one of the seventeen points of the Hoerni's patent, and then exchanged it for a small percentage of the future licensing incomes of Fairchild.[74]
+
+Texas Instruments v. Fairchild
+
+In their legal wars, Texas Instruments focused on their largest and most technologically advanced competitor, Fairchild Semiconductor. Their cases hindered not the production at Fairchild, but the sale of licenses for their technologies. By 1965, the planar technology of Fairchild became the industry standard, but the license to patents of Hoerni and Noyce was purchased by less than ten manufacturers, and there were no mechanisms to pursue unlicensed production.[113] Similarly, the key patents of Kilby were bringing no income to Texas Instruments. In 1964, the patent arbitration awarded Texas Instruments the rights to four of the five key provisions of the contested patents,[118] but both companies appealed the decision.[119] The litigation could continue for years, if not for the defeat of Texas Instruments in the dispute with Sprague in April 1966. Texas Instruments realized that they could not claim priority for the whole set of key IC patents, and lost interest in the patent war.[120] In the summer of 1966,[119] Texas Instruments and Fairchild agreed on the mutual recognition of patents and cross-licensing of key patents; in 1967 they were joined by Sprague.[120]
+
+Japan v. Fairchild
+
+In the early 1960s, both Fairchild and Texas Instruments tried to set up IC production in Japan, but were opposed by the Japan Ministry of International Trade and Industry (MITI). In 1962, MITI banned Fairchild from further investments in the factory that they already purchased in Japan, and Noyce tried to enter the Japanese market through the corporation NEC.[121] In 1963, the management of NEC pushed Fairchild to extremely advantageous for Japan licensing terms, strongly limiting the Fairchild sales in the Japanese market.[122] Only after concluding the deal Noyce learned that the president of NEC also chaired the MITI committee that blocked the Fairchild deals.[123]
+
+Japan v. Texas Instruments
+
+In 1963, despite the negative experience with NEC and Sony, Texas Instruments tried to establish their production in Japan.[124] For two years MITI did not give a definite answer to the request, and in 1965 Texas Instruments retaliated by threatening with embargo on the import of electronic equipment that infringed their patents. This action hit Sony in 1966 and Sharp in 1967,[125] prompting MITI to secretly look for a Japanese partner to Texas Instruments. MITI blocked the negotiations between Texas Instruments and Mitsubishi (the owner of Sharp), and persuaded Akio Morita to make a deal with Texas Instruments "for the future of Japanese industry".[126] Despite the secret protocols that guaranteed the Americans a share in Sony the agreement of 1967–1968 was extremely disadvantageous for Texas Instruments.[127] For almost thirty years, Japanese companies were producing ICs without paying royalties to Texas Instruments, and only in 1989 the Japanese court acknowledged the patent rights to the invention by Kilby.[128] As a result, in the 1990s, all of Japanese IC manufacturers had to pay for the 30 years old patent or enter into cross-licensing agreements. In 1993, Texas Instruments earned US$520 million in license fees, mostly from Japanese companies.[129]
+
+Historiography[edit]
+Two inventors: Kilby and Noyce[edit]
+During the patent wars of the 1960s the press and professional community in the United States recognized that the number of the IC inventors could be rather large. The book "Golden Age of Entrepreneurship" named four people: Kilby, Lehovec, Noyce and Hoerni.[130] Sorab Ghandhi in "Theory and Practice of Microelectronics" (1968) wrote that the patents of Lehovec and Hoerni were the high point of semiconductor technology of the 1950s and opened the way for the mass production of ICs.[131]
+In October 1966, Kilby and Noyce were awarded the Ballantine Medal from the Franklin Institute "for their significant and essential contribution to the development of integrated circuits".[119] This event initiated the idea of two inventors. The nomination of Kilby was criticized by contemporaries who did not recognize his prototypes as "real" semiconductor ICs. Even more controversial was the nomination of Noyce: the engineering community was well aware of the role of the Moore, Hoerni and other key inventors, whereas Noyce at the time of his invention was CEO of Fairchild and did not participate directly in the creation of the first IC.[119] Noyce himself admitted, "I was trying to solve a production problem. I wasn't trying to make an integrated circuit".[132]
+According to Leslie Berlin, Noyce became the "father of the integrated circuit" because of the patent wars. Texas Instruments picked his name because it stood on the patent they challenged and thereby "appointed" him as a sole representative of all the development work at Fairchild.[133] In turn, Fairchild mobilized all its resources to protect the company, and thus the priority of Noyce.[134] While Kilby was personally involved in the public relation campaigns of Texas Instruments, Noyce kept away from publicity and was substituted by Gordon Moore.[135]
+By the mid-1970s, the two-inventor version became widely accepted, and the debates between Kilby and Lehovec in professional journals in 1976–1978 did not change the situation. Hoerni, Last and Lehovec were regarded as minor players; they did not represent large corporations and were not keen for public priority debates.[136]
+In scientific articles of the 1980s, the history of IC invention was often presented as follows
+
+While at Fairchild, Noyce developed the integrated circuit. The same concept has been invented by Jack Kilby at Texas Instruments in Dallas a few months previously. In July 1959 Noyce filed a patent for his conception of the integrated circuit. Texas Instruments filed a lawsuit for patent interference against Noyce and Fairchild, and the case dragged on for some years. Today, Noyce and Kilby are usually regarded as co-inventors of the integrated circuit, although Kilby was inducted into the Inventor's Hall of Fame as the inventor. In any event, Noyce is credited with improving the integrated circuit for its many applications in the field of microelectronics.[137]
+In 1984, the two-inventor version has been further supported by Thomas Reid in "The Chip: How Two Americans Invented the Microchip and Launched a Revolution".[138] Robert Wright of The New York Times criticized Reid for a lengthy description of the supporting characters involved in the invention,[139] yet the contributions of Lehovec and Last were not mentioned, and Jean Hoerni appears in the book only as a theorist who consulted Noyce.[138]
+Paul Ceruzzi in "A History of Modern Computing" (2003) also repeated the two-inventor story and stipulated that "Their invention, dubbed at first Micrologic, then the Integrated Circuit by Fairchild, was simply another step along this path" (of miniaturization demanded by the military programs of the 1950s).[140] Referring to the prevailing in the literature opinion, he put forward the decision of Noyce to use the planar process of Hoerni, who paved the way for the mass production of ICs, but was not included in the list of IC inventors.[141] Ceruzzi did not cover the invention of isolation of IC components.
+In 2000, the Nobel Committee awarded the Nobel Prize in Physics to Kilby "for his part in the invention of the integrated circuit".[4] Noyce died in 1990 and thus could not be nominated; when asked during his life about the prospects of the Nobel Prize he replied "They don't give Nobel Prizes for engineering or real work".[142] Because of the confidentiality of the Nobel nomination procedure, it is not known whether other IC inventors had been considered. Saxena argued that the contribution of Kilby was pure engineering rather than basic science, and thus his nomination violated the will of Alfred Nobel.[143]
+The two-inventor version persisted through the 2010s.[144] Its variation puts Kilby in front, and considers Noyce as an engineer who improved the Kilby's invention.[145] Fred Kaplan in his popular book "1959: The Year Everything Changed" (2010) spends eight pages on the IC invention and assigns it to Kilby,[146] mentioning Noyce only in a footnote[147] and neglecting Hoerni and Last.
+
+Later revisionism[edit]
+In the late 1990s and 2000s, a series of books presented the IC invention beyond the simplified two-person story. In 1998, Michael Riordan and Lillian Hoddson detailed the events leading to the invention of Kilby in "Crystal Fire: The Birth of the Information Age". However, they stopped on that invention.[148] In her 2005 biography of Robert Noyce, Leslie Berlin included the events unfolding at Fairchild and critically evaluated the contribution of Kilby. According to Berlin, the connecting wires "precluded the device from being manufactured in any quantity" which "Kilby was well aware" of.[149][84]
+In 2007, Bo Lojek opposed the two-inventor version;[150] he described the contributions of Hoerni and Last, and criticized Kilby.[151] In 2009, Saxena described the work of Lehovec, and Hoerni. He also played down the role of Kilby and Noyce.[152]
+
+See also[edit]
+History of the integrated circuit
+Notes[edit]
+
+
+^ Leslie Berlin is a professional historian, head of the Stanford University program on the history of the Silicon Valley, author of the biography of Robert Noyce, and a Smithsonian Institution advisor.
+
+^ Bo Lojek is a solid-state physicist specializing in diffusion in silicon; he wrote a book on the history of semiconductor industry.[5] 
+
+^ Arjun Saxena is an Indian-American physicist who studied semiconductors since the 1960s; he wrote a book on the history of IC invention.[6]
+
+^ In his Nobel Prize lecture, Kilby said that "Even the B-29, probably the most complex equipment used in the war, had only around 300 vacuum tubes",[8] but in a 1976 article, he mentioned a number of almost a thousand,[9] which agrees with Berry.[10]
+
+^ ENIAC was maintained by six engineers at any time, yet its average non-stop operation time was limited to 5.6 hours.[11]
+
+
+References[edit]
+
+
+^ a b Saxena 2009, p. 140.
+
+^ a b "1959: Practical Monolithic Integrated Circuit Concept Patented". Computer History Museum. Retrieved 13 August 2019.
+
+^ a b "Integrated circuits". NASA. Retrieved 13 August 2019.
+
+^ a b "The Nobel Prize in Physics 2000. Zhores I. Alferov, Herbert Kroemer, Jack S. Kilby". Nobel Media AB. 2000. Retrieved 2012-05-01.
+
+^ Lojek 2007.
+
+^ Saxena 2009.
+
+^ a b c Kaplan 2010, p. 78.
+
+^ Kilby 2000, p. 474.
+
+^ Kilby 1976, p. 648.
+
+^ Berry, C. (1993). Inventing the future: how science and technology transform our world. Brassey's. p. 8. ISBN 978-0-028-81029-4.
+
+^ Weik, M. H., ed. (1955). "Computers with names starting with E through H". A Survey of Domestic Electronic Digital Computing Systems. U.S. Department of Commerce. Office of Technical Services.
+
+^ Kaplan 2010, p. 77.
+
+^ Braun, E.; MacDonald, S. (1982). Revolution in Miniature: The History and Impact of Semiconductor Electronics (2nd ed.). Cambridge University Press. ISBN 978-0-521-28903-0.
+
+^ a b "Integrated circuits help Invention". Integratedcircuithelp.com. Archived from the original on 2012-10-11. Retrieved 2012-08-13.
+
+^ DE 833366  W. Jacobi/SIEMENS AG: „Halbleiterverstärker“ priority filing on 14 April 1949, published on 15 May 1952.
+
+^ a b Kilby 1976, p. 649.
+
+^ a b Lojek 2007, pp. 2–3.
+
+^ "The Hapless Tale of Geoffrey Dummer". Electronic Product News. 2005. Archived from the original on 2012-10-25. Retrieved 2011-05-01.
+
+^ a b Lojek 2007, p. 3.
+
+^ US 2663830, Oliver, Bernard M., "Semiconductor Signal Translating Device", published 22 October 1952, issued 22 December 1953 
+
+^ US 2816228, Johnson, H., "Semiconductor Phase Shift Oscillator", issued 1957 
+
+^ a b "Who Invented the IC?". Computer History Museum. 20 August 2014. Retrieved 20 August 2019.
+
+^ Brock 2010, p. 36.
+
+^ Bonch-Bruyevich, М. А. (1956).  Применение электронных ламп в экспериментальной физике [Application of electron tubes in experimental physics] (in Russian) (4th ed.). Moscow: Государственное publisher технико-теоретической литературы. pp. 497–502.
+
+^ Hubner 1998, p. 100.
+
+^ Hubner 1998, pp. 99–109.
+
+^ Hubner 1998, p. 107.
+
+^ a b c Brock 2010, pp. 36–37.
+
+^ a b "1958 – All semiconductor "Solid Circuit" is demonstrated". Computer History Museum. Archived from the original on February 20, 2011. Retrieved 2012-05-01.
+
+^ Bassett, Ross Knox (2007). "RCA and the Quest for Radical Technological Change". To the Digital Age: Research Labs, Start-Up Companies, and the Rise of MOS Technology. Johns Hopkins University Press. pp. 37–38. ISBN 978-0-801-88639-3.
+
+^ D'Asaro, L. A. (1959). "A stepping transistor element" (PDF).
+
+^ Morris, P. R. (1990). A history of the world semiconductor industry. History of technology series. Vol. 12. IET. pp. 34, 36. ISBN 978-0-863-41227-1.
+
+^ Lojek 2007, pp. 52, 54.
+
+^ Huff, Howard R. (2003). "From The Lab to The Fab: Transistors to Integrated Circuits". In Claeys, Cor L. (ed.). ULSI process integration III: proceedings of the international symposium. Proceedings of the Electrochemical Society. The Electrochemical Society. pp. 12–67 (reprint). ISBN 978-1-566-77376-8. Reprint: Pt. 1, Pt. 2, Pt. 3.
+
+^ Lojek 2007, p. 82.
+
+^ a b c d e Frosch, C. J.; Derick, L (1957). "Surface Protection and Selective Masking during Diffusion in Silicon". Journal of the Electrochemical Society. 104 (9): 547. doi:10.1149/1.2428650.
+
+^ a b US2802760A, Lincoln, Derick & Frosch, Carl J., "Oxidation of semiconductive surfaces for controlled diffusion", issued 1957-08-13 
+
+^ Huff, Howard; Riordan, Michael (2007-09-01). "Frosch and Derick: Fifty Years Later (Foreword)". The Electrochemical Society Interface. 16 (3): 29. doi:10.1149/2.F02073IF. ISSN 1064-8208.
+
+^ Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. p. 168. ISBN 978-0-470-50892-3.
+
+^ a b c Lojek 2007, p. 120.
+
+^ a b Saxena 2009, pp. 100–101.
+
+^ Saxena 2009, p. 100; Sah 1988, p. 1290.
+
+^ Brock 2010, pp. 30–31.
+
+^ "1959 – Invention of the "Planar" Manufacturing Process". Computer History Museum. 2007. Retrieved 2012-03-29.
+
+^ Lojek 2007, p. 126.
+
+^ "1959 – Practical Monolithic Integrated Circuit Concept Patented". Computer History Museum. 2007. Retrieved 2012-03-29.
+
+^ Lojek 2007, pp. 200–201.
+
+^ a b c d e f Kilby 1976, p. 650.
+
+^ a b Lojek 2007, p. 188.
+
+^ Ceruzzi 2003, pp. 182–183.
+
+^ a b c Lojek 2007, p. 191.
+
+^ Ceruzzi 2003, p. 183.
+
+^ Kilby 1976, pp. 650–651.
+
+^ Saxena 2009, pp. 78–79.
+
+^ Kilby 1976, p. 651.
+
+^ Saxena 2009, pp. 82–83.
+
+^ Kilby 1976, p. 652.
+
+^ Saxena 2009, pp. 59–67.
+
+^ Lojek 2007, p. 237-238.
+
+^ "ARTICLES: Molecular Electronics - An Introduction" (PDF). Computers and Automation. XI (3): 10–12, 14. Mar 1962. Retrieved 2020-09-05.
+
+^ a b c Lojek 2007, p. 235.
+
+^ a b Lojek 2007, p. 230.
+
+^ Lojek 2007, p. 236.
+
+^ a b Lojek 2007, p. 237.
+
+^ Lojek 2007, p. 238.
+
+^ a b Lojek 2007, pp. 192–193.
+
+^ a b c "1962 – Aerospace systems are first the applications for ICs in computers". Computer History Museum. Archived from the original on 2012-08-20. Retrieved 2012-05-01.
+
+^ Lojek 2007, p. 231.
+
+^ Lojek 2007, p. 201.
+
+^ US 3029366, Lehovec, K., "Multiple Semiconductor Assembly", issued 1962 
+
+^ "Interview with Gordon Moore". IEEE. 1976-03-04. Archived from the original on 2012-05-21. Retrieved 2012-04-22. Wolff: Is Lehovec technically an inventor of the IC? Moore: According to the Patent Office. It's one of the important things that was needed. I think in the technical community, because all he did was file a paper patent application, he is not recognized as the inventor. Success has many fathers and all that kind of stuff.
+
+^ Berlin 2005, pp. 103–104.
+
+^ Brock 2010, pp. 141–147.
+
+^ a b c Brock 2010, pp. 144–145.
+
+^ Brock 2010, pp. 157, 166–167.
+
+^ Brock 2010, p. 157.
+
+^ a b Brock 2010, p. 158.
+
+^ "Interview with Robert Noyce, 1975–1976". IEEE. Archived from the original on 2012-09-26. Retrieved 2012-04-22.
+
+^ Berlin 2005, p. 104.
+
+^ a b US 3150299, Noyce, Robert N., "Semiconductor Circuit Complex Having Isolation Means", published 11 September 1959, issued 22 September 1964 
+
+^ Berlin 2005, p. 104-105.
+
+^ Brock 2010, p. 39, 160–161.
+
+^ Brock 2010, pp. 39, 161.
+
+^ a b Saxena 2009, pp. 135–136.
+
+^ Berlin 2005, p. 105.
+
+^ Seitz, F.; Einspruch, N. (1998). Electronic genie: the tangled history of silicon. University of Illinois Press. p. 214. ISBN 978-0-252-02383-5.
+
+^ Saxena 2009, pp. 237.
+
+^ Saxena 2009, pp. 139, 165.
+
+^ Berlin 2005, p. 111.
+
+^ a b c "1960 – First Planar Integrated Circuit is Fabricated". Computer History Museum. Archived from the original on July 20, 2011. Retrieved 2012-05-01.
+
+^ Berlin 2005, p. 111-112.
+
+^ Lojek, B. (2006). "History of Semiconductor Engineering (synopsis)" (PDF). Archived from the original (PDF) on 2014-07-24. Retrieved 2012-05-01.
+
+^ Lojek 2007, pp. 133, 138.
+
+^ Lojek 2007, pp. 180–181.
+
+^ a b 
+Eldon C. Hall.
+"Journey to the Moon: The History of the Apollo Guidance Computer".
+1996.
+p. 18-19.
+
+^ a b Ceruzzi 2003, p. 188.
+
+^ Ceruzzi 2003, p. 189.
+
+^ Swain, P.; Gill, J. (1993). Corporate Vision and Rapid Technological Change: The Evolution of Market Structure. Routledge. pp. 140–143. ISBN 978-0-415-09135-0.
+
+^ Lojek 2007, p. 210.
+
+^ a b "Computer Pioneers - James L. Buie". IEEE Computer Society. Retrieved 25 May 2020.
+
+^ Lojek 2007, p. 211.
+
+^ Lojek 2007, pp. 260–263.
+
+^ KAHNG, D. (1961). "Silicon-Silicon Dioxide Surface Device". Technical Memorandum of Bell Laboratories: 583–596. doi:10.1142/9789814503464_0076. ISBN 978-981-02-0209-5. {{cite journal}}: ISBN / Date incompatibility (help)
+
+^ Lojek 2007, p. 321.
+
+^ Ligenza, J.R.; Spitzer, W.G. (1960). "The mechanisms for silicon oxidation in steam and oxygen". Journal of Physics and Chemistry of Solids. 14: 131–136. doi:10.1016/0022-3697(60)90219-5.
+
+^ Lojek 2007, p. 120
+
+^ "Who Invented the Transistor?". Computer History Museum. 4 December 2013. Retrieved 20 July 2019.
+
+^ a b Kuo, Yue (1 January 2013). "Thin Film Transistor Technology—Past, Present, and Future" (PDF). The Electrochemical Society Interface. 22 (1): 55–61. Bibcode:2013ECSIn..22a..55K. doi:10.1149/2.F06131if. ISSN 1064-8208.
+
+^ a b "Tortoise of Transistors Wins the Race - CHM Revolution". Computer History Museum. Retrieved 22 July 2019.
+
+^ "1964 – First Commercial MOS IC Introduced". Computer History Museum.
+
+^ a b Lojek 2007, p. 195.
+
+^ Lojek 2007, p. 239.
+
+^ a b Lojek 2007, p. 176.
+
+^ Sah 1988, p. 1292.
+
+^ Lojek 2007, p. 240.
+
+^ Lojek 2007, p. 241.
+
+^ Lojek 2007, pp. 202–204.
+
+^ Berlin 2005, p. 139.
+
+^ a b c d Berlin 2005, p. 140.
+
+^ a b Lojek 2007, p. 206.
+
+^ Flamm 1996, p. 56.
+
+^ Flamm 1996, pp. 56–57.
+
+^ Flamm 1996, p. 57.
+
+^ Flamm 1996, p. 58.
+
+^ Flamm 1996, p. 68.
+
+^ Flamm 1996, pp. 69–70.
+
+^ Flamm 1996, p. 70.
+
+^ Hayers, Thomas (1989-11-24). "Japan Grip Still Seen On Patents". The New York Times.
+
+^ Andrews, Edmund (1994-09-01). "Texas Instruments Loses in Japanese Ruling". The New York Times. Last year, the company reaped $520 million in royalty income from patents, up from less than $200 million a year in the late 1980s, and analysts say much of that money comes from Japanese licensing deals
+
+^ Lojek 2007, p. 1.
+
+^ Ghandhi, S. (1968). Theory and practice of microelectronics. Wiley. ISBN 978-0-471-29718-5.
+
+^ Berlin 2005, p. 109.
+
+^ Berlin 2005, pp. 140–141.
+
+^ Berlin 2005, p. 141.
+
+^ Lojek 2007, p. 194.
+
+^ Lojek 2007, p. 2.
+
+^ Rogers, Everett M.; Rafaeli, Sheizaf (1985). "Computers and Communication". In Ruben, Brent D. (ed.). Information and Behavior. New Brunswick, NJ: Transaction Publishers. pp. 95–112. ISBN 978-0-887-38007-5. ISSN 0740-5502.
+
+^ a b Reid, T. R. (1984). The Chip: How Two Americans Invented the Microchip and Launched a Revolution. Simon and Schuster. p. 76. ISBN 978-0-671-45393-0. One day in 1958, Jean Hoerni came to Noyce with a theoretical solution…
+
+^ Wright, R. (1985-03-03). "The Micromonolith and How it Grew". The New York Times. Mr. Reid is a bit too inclined to find all the people he encountered during the course of his research fascinating … By jettisoning a few tangential thumbnail profiles, Mr. Reid could have imparted greater momentum to his story, particularly if he had explored the personalities of his central characters more deeply.
+
+^ Ceruzzi 2003, p. 179.
+
+^ Ceruzzi 2003, p. 186.
+
+^ Berlin 2005, p. 110.
+
+^ Saxena 2009, pp. 335–340, 488.
+
+^ For example: •  Markoff, J. (2011-05-04). "Intel Increases Transistor Speed by Building Upward". The New York Times. 1959 when Robert Noyce, Intel's co-founder, and Jack Kilby of Texas Instruments independently invented the first integrated circuits… • Hayers, Thomas (1989-11-24). "Japan Grip Still Seen On Patents". The New York Times. The basic semiconductor was co-invented in 1958 by a Texas Instruments engineer, Jack Kilby, and Dr. Robert N. Noyce, a co-founder of Intel...
+
+^ Das, S. (2008-09-19). "The chip that changed the world". The New York Times. Kilby's revolutionary idea ... Six months later, in California, another engineer, Robert Noyce...
+
+^ Kaplan 2010, p. 76: "It was invented not by a vast team of physicists but by one man working alone, a self-described tinkerer – not even a physicist, but an engineer, John St. Clair Kilby".
+
+^ Kaplan 2010, p. 266: "the microchip had a coincidental coinventor, Robert Noyce ... who came up with his own version of the idea in January 1959 but laid it aside. Only when he learned of TI's presentation in March 1959 trade show did he take another look...".
+
+^ Saxena 2009, p. 59.
+
+^ Berlin 2005, p. 109: "The wires precluded the device from being manufactured in any quantity, a fact of which Kilby was well aware, but his was undoubtably an integrated circuit ... of sorts".
+
+^ Lojek 2007, p. 15: "Historians assigned the invention of the integrated circuit to Jack Kilby and Robert N. Noyce. In this book I am arguing that the group of inventors was much bigger".
+
+^ Lojek 2007, p. 194: "Kilby's idea of the integrated circuit was so unpractical that it was dropped even by Texas Instruments. Kilby's patent was used only as very convenient and profitable trading material. Most likely, if Jack Kilby worked for any company other than Texas Instruments, his idea would never have been patented.".
+
+^ Saxena 2009, p. ix: "..prevailing view has been misleading, and has lasted for a long time, e.g., for more than four decades in this case of the invention of ICs ... Almost everybody in the microelectronics field involving physics, chemistry, engineering etc in the entire world appear to have accepted the erroneous information of the IC invention for more than four decades because they have done nothing so far to correct it.".
+
+
+Bibliography[edit]
+Berlin, L. (2005). The Man Behind the Microchip: Robert Noyce and the Invention of Silicon Valley. New York: Oxford University Press. ISBN 978-0-199-83977-3.
+Brock, D. (2010). Lécuyer, C.; et al. (eds.). Makers of the Microchip: A Documentary History of Fairchild Semiconductor. MIT Press. ISBN 978-0-262-01424-3.
+Ceruzzi, P. E. (2003). A History of Modern Computing. MIT Press. ISBN 978-0-262-53203-7.
+Flamm, K (1996). Mismanaged Trade: Strategic Policy and the Semiconductor Industry. Brookings Institution Press. ISBN 978-0-815-72846-7.
+Hubner, Kurt (1998). "The four-layer diode in the cradle of Silicon Valley". In Tsuya, H.; Huff, Howard R.; GöSele, U. (eds.). Silicon Materials Science and Technology: Proceedings of the Eighth International Symposium on Silicon Materials Science and Technology. The Electrochemical Society. pp. 99–115. ISBN 978-1-566-77193-1.
+Kaplan, F. (2010). 1959: The Year Everything Changed. Wiley. ISBN 978-0-470-60203-4.
+Kilby, J. (1976). "Invention of the Integrated Circuit" (PDF). IEEE Transactions on Electron Devices. 23 (7): 648–654. Bibcode:1976ITED...23..648K. doi:10.1109/t-ed.1976.18467. S2CID 19598101. Archived from the original (PDF) on 2016-03-04.
+Kilby, Jack S. (December 8, 2000). "Turning Potential Into Realities: The Invention of the Integrated Circuit" (PDF). In Gösta Ekspong (ed.). Nobel Lectures, Physics 1996-2000. Singapore: World Scientific Publishing Co. (published 2002). pp. 474–485.
+Lojek, Bo (2007). History of Semiconductor Engineering. Springer. ISBN 978-3-540-34257-1. Internet Archive eBook ISBN 978-3-540-34258-8.
+Sah, Chih-Tang (October 1988). "Evolution of the MOS transistor-from conception to VLSI" (PDF). Proceedings of the IEEE. 76 (10): 1280–1326. Bibcode:1988IEEEP..76.1280S. doi:10.1109/5.16328. ISSN 0018-9219.
+Saxena, A. (2009). Invention of integrated circuits: untold important facts. International series on advances in solid state electronics and technology. World Scientific. ISBN 978-9-812-81445-6.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Invention_of_the_integrated_circuit&oldid=1284496038"
+Categories: 1940s in computing1950s in computingAmerican inventionsComputer-related introductions in 1949Discovery and invention controversiesGerman inventionsHistory of computing hardwareHistory of inventionsIntegrated circuitsHidden categories: CS1 uses Russian-language script (ru)CS1 Russian-language sources (ru)CS1 errors: ISBN dateArticles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 7 April 2025, at 23:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Invention of the integrated circuit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

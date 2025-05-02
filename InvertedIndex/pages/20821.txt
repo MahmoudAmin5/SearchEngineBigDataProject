@@ -1,0 +1,712 @@
+https://en.wikipedia.org/wiki/RAYDAC
+
+
+
+
+RAYDAC - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+External links
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+RAYDAC
+
+
+
+4 languages
+
+
+
+
+Bahasa Indonesia日本語РусскийТатарча / tatarça
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "RAYDAC" – news · newspapers · books · scholar · JSTOR (March 2010) (Learn how and when to remove this message)
+The RAYDAC (for Raytheon Digital Automatic Computer) was a one-of-a-kind computer built by Raytheon. It was started in 1949 and finished in 1953.[1][2][page needed] It was installed at the Naval Air Missile Test Center at Point Mugu, California.
+The RAYDAC used 5,200 vacuum tubes[3] and 18,000 crystal diodes. It had 1,152 words of memory (36 bits per word), using delay-line memory, with an access time of up to 305 microseconds. Its addition time was 38 microseconds, multiplication time was 240 microseconds, and division time was 375 microseconds. (These times exclude the memory-access time.)[4][self-published source]
+
+See also[edit]
+List of vacuum-tube computers
+External links[edit]
+Erwin Tomash photo of General Front View From Right Side of RAYDAC Test Control Board (image)
+Erwin Tomash drawing of RADAC Computer Control Room Showing Main Computer and Operator's Console (image)
+References[edit]
+
+
+^ "PROJECT HURRICANE COMPUTER (RAYDAC)". Digital Computer Newsletter. 5 (4): 2. October 1953. Archived from the original on April 7, 2019.
+
+^ Oral history interview with Richard M. Bloch, Charles Babbage Institute, University of Minnesota.
+
+^ Research, United States Office of Naval (1953). A survey of automatic digital computers. Office of Naval Research, Dept. of the Navy. p. 81.
+
+^ McMurran, Marshall William (2008-12-11). ACHIEVING ACCURACY: A Legacy of Computers and Missiles. Xlibris Corporation. p. 48. ISBN 9781462810659.
+
+
+vteRaytheon CompanySubsidiaries
+A.C. Cossor
+ELCAN Optical Technologies
+Raytheon BBN
+Raytheon Integrated Defense Systems
+Raytheon Intelligence, Information and Services
+HRB Systems
+Raytheon Missile Systems
+Raytheon Polar Services Company
+Sarcos
+ThalesRaytheonSystems
+Products
+AGM-65 Maverick
+AGM-88 HARM
+AGM-129 ACM
+AGM-154 Joint Standoff Weapon
+AGM-176 Griffin
+AIM-9 Sidewinder
+AIM-54 Phoenix
+AIM-120 AMRAAM
+ALE-50 towed decoy system
+ALR-67 radar warning receiver
+AN/ALE-47
+AN/APG-63 radar family
+AN/APG-65 radar family
+AN/APG-79
+AN/APQ-181
+AN/AQS-20A
+AN/ASQ-213
+AN/ASQ-228 ATFLIR
+AN/AWG-9
+AN/MPQ-64 Sentinel
+Raytheon AN/MSQ-18 Battalion Missile Operations System
+AN/PAS-13
+AN/SLQ-32 electronic warfare suite
+AN/SPS-49
+AN/SQQ-32 mine-hunting sonar
+AN/TPQ-36 Firefinder radar
+AN/TPQ-37 Firefinder radar
+AN/TPQ-53 Quick Reaction Capability Radar
+ASARS-2
+Beechcraft AQM-37 Jayhawk
+Tomahawk
+Controlled Impact Rescue Tool
+Counter rocket, artillery, and mortar
+Coyote
+FGM-148 Javelin
+FIM-92 Stinger
+FMRAAM
+GBU-53/B
+Ground-Based Midcourse Defense
+JLENS
+Lectron
+Long-Range Engagement Weapon
+Mark 48 torpedo
+Mark 54 lightweight torpedo
+MIM-23 Hawk
+MIM-104 Patriot
+Network Centric Airborne Defense Element
+Paveway
+Paveway IV
+Phalanx CIWS
+Pyros
+RAYDAC
+RIM-116 Rolling Airframe Missile
+RIM-66 Standard
+RIM-67 Standard
+RIM-161 Standard Missile 3
+Sea-based X-band radar
+Sentinel
+SLAMRAAM
+Space Fence
+Vigilant Eagle
+XM501 non-line-of-sight launch system
+Related
+RTX
+Raytheon 9
+Vannevar Bush
+
+vteMainframe computersAustralia
+SILLIAC (1956)
+Israel
+WEIZAC (1955)
+Japan
+FACOM (1954)
+FUJIC (1949)
+Sweden
+SARA (1957)
+SMIL (1956)
+EDB-1 (1957)
+TRASK (1964)
+Soviet Union
+BESM-6
+ES-2701 [ru]
+Mars [ru]
+PS-2000
+PS-3000 [ru]
+SVS [ru]
+Elbrus
+Electronika SS VLSI [ru]
+See also: Soviet computer systems
+United StatesIAS family1950s
+ILLIAC (1952)
+AVIDAC (1953)
+BESK (1953)
+IBM 701 (1953)
+JOHNNIAC (1953)
+ORACLE (1953)
+ORDVAC (1952)
+WEIZAC (1955)
+DASK (1955)
+SARA (1957)
+SILLIAC (1956)
+SMIL (1956)
+MANIAC I (1956)
+MANIAC II (1956)
+MISTIC (1957)
+MUSASINO-1 (1957)
+EDB-1 (1957)
+EDB-2/3 (1957)
+Cyclone (1959)
+1960s
+FACOM 201 (1960)
+TRASK (1964)
+University of Illinois
+ORDVAC (1952)
+ILLIAC I (1952)
+ILLIAC II (1958)
+ILLIAC III (1966)
+ILLIAC IV (1965)
+CEDAR (1988)
+ILLIAC 6 (2005)
+Trusted ILLIAC (2006)
+Harvard University
+Harvard Mark I (1944)
+Harvard Mark II (1947)
+Harvard Mark III (1949)
+Harvard Mark IV (1952)
+IBMvteIBM vacuum tube computers
+305 RAMAC
+610
+650
+701
+702
+704
+705
+709
+SAGE
+AN/FSQ-7
+AN/FSQ-8
+MainframesUniversity of Pennsylvania
+ENIAC (1945)
+EMCC
+EDVAC (1949)
+UNIVAC I (1951)
+Remington–Sperry Rand
+UNIVAC II
+See also: Computers built 1955–1978
+Raytheon
+RAYDAC (1953)
+United Kingdom
+Colossus computer (1943)
+Related
+Transistor computer
+list
+Vacuum-tube computer
+list
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+This computing article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=RAYDAC&oldid=1156570943"
+Categories: One-of-a-kind computersVacuum tube computers36-bit computersRaytheon Company productsComputing stubsHidden categories: Articles with short descriptionShort description with empty Wikidata descriptionArticles needing additional references from March 2010All articles needing additional referencesWikipedia articles needing page number citations from November 2017All articles with self-published sourcesArticles with self-published sources from December 2017All stub articles
+
+
+
+
+
+
+ This page was last edited on 23 May 2023, at 14:32 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+RAYDAC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

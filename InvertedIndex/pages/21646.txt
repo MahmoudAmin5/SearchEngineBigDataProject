@@ -1,0 +1,118 @@
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_mobile
+
+
+
+
+W3Schools Tryit Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run ❯
+Get your own website
+
+
+
+
+
+
+
+
+
+
+❯Run Code Ctrl+Alt+R
+Save Code  Ctrl+Alt+A
+Change Orientation  Ctrl+Alt+O
+Change Theme  Ctrl+Alt+D
+Go to Spaces Ctrl+Alt+P
+
+
+
+Privacy policy and 
+        Copyright 1999-2025
+
+
+
+
+
+
+
+
+
+W3.CSS
+
+
+
+
+
+  The w3-mobile Class
+  The w3-mobile class adds mobile-first responsivenss to any element.
+  It adds display:block and width:100% to an element on screens that are less than 600px wide.
+
+  Resize the browser window to see the effect:
+  Home
+  Link 1
+  Link 2
+  Link 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

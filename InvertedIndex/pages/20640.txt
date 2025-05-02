@@ -1,0 +1,570 @@
+https://en.wikipedia.org/wiki/Mail_transfer_agent
+
+
+
+
+Message transfer agent - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Operation
+
+
+
+
+
+
+
+
+2
+Transfer versus access
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Message transfer agent
+
+
+
+24 languages
+
+
+
+
+العربيةCatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Bahasa IndonesiaItalianoLatviešuLimburgsNederlands日本語Norsk bokmålОлык марийPolskiPortuguêsРусскийСрпски / srpskiไทยУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Mail transfer agent)
+Software to transfer electronic mail
+
+Within the Internet email system, a message transfer agent (MTA),[1] mail transfer agent,[2] or mail relay is software that transfers electronic mail messages from one computer to another using the Simple Mail Transfer Protocol.[3] In some contexts, the alternative names mail server, mail exchanger, or MX host are used to describe an MTA.
+Messages exchanged across networks are passed between mail servers, including any attached data files (such as images, multimedia, or documents). These servers often keep mailboxes for email. Access to this email by end users is typically either by webmail or an email client.
+
+
+Operation[edit]
+A message transfer agent receives mail from either another MTA, a mail submission agent (MSA), or a mail user agent (MUA). The transmission details are specified by the Simple Mail Transfer Protocol (SMTP). When a recipient mailbox of a message is not hosted locally, the message is relayed, that is, forwarded to another MTA. Every time an MTA receives an email message, it adds a Received trace header field to the top of the header of the message,[4] thereby building a sequential record of MTAs handling the message. The process of choosing a target MTA for the next hop is also described in SMTP, but can usually be overridden by configuring the MTA software with specific routes.
+
+An MTA works in the background, while the user usually interacts directly with a mail user agent. One may distinguish initial submission as first passing through an MSA—port 465 (or, for legacy reasons, optionally port 587) is used for communication between an MUA and an MSA, while port 25 is used for communication between MTAs, or from an MSA to an MTA.[5] this distinction is clarified in RFC 8314.
+For recipients hosted locally, the final delivery of email to a recipient mailbox is the task of a message delivery agent (MDA). For this purpose the MTA transfers the message to the message handling service component of the message delivery agent (MDA). Upon final delivery, the Return-Path field is added to the envelope to record the return path.
+
+Transfer versus access[edit]
+A relay or filtering server will typically store email only briefly, but other systems keep full mailboxes for email - in which case they usually support some means for end users to access their email via a Mail User Agent (MUA), or email client.
+Common protocols for this are:
+
+Post Office Protocol (POP3)
+Internet Message Access Protocol (IMAP)
+Proprietary systems, such as Microsoft's MAPI
+Submission of new email from a mail client is via SMTP, typically on port 587 or 465, and is now generally restricted to servers the user has an account with-such as their ISP. This is for policy, not technical, reasons so that providers have some means of holding their users accountable for the generation of spam and other forms of email abuse.[6]
+
+See also[edit]
+List of mail server software
+Relay (disambiguation)
+References[edit]
+
+
+^ MTA=Message Transfer Agent (similar to X.400 name) is found, e.g., in RFC 1506, RFC 2476, RFC 3461, RFC 3464, RFC 3865, RFC 3888, RFC 6409, RFC 5598.
+
+^ MTA=Mail Transfer Agent (similar to Mail Transfer Protocol) is found, e.g., in RFC 2298, RFC 2305, RFC 3804, RFC 3798, RFC 4496, RFC 5442, RFC 5429.
+
+^ 
+RFC 5598, Internet Mail Architecture, D. Crocker (July 2009).
+
+^ See Email#Message header for the format of an email message. Many MUAs allow users to see the raw message source directly, thereby allowing header inspection.
+
+^ See table at Email client#Port numbers
+
+^ Bill Cole (29 June 2009). "What are the IPs that sends mail for a domain?". ASRG mailing list. Retrieved 15 September 2009.
+
+
+Authority control databases: National Germany
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Message_transfer_agent&oldid=1264687333"
+Categories: Internet mail protocolsEmail agentsMessage transfer agentsHidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from January 2024
+
+
+
+
+
+
+ This page was last edited on 23 December 2024, at 00:58 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Message transfer agent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

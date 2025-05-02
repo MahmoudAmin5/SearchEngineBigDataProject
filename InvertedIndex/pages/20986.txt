@@ -1,0 +1,1559 @@
+https://en.wikipedia.org/wiki/86-DOS
+
+
+
+
+86-DOS - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Origins
+
+
+
+
+
+
+
+
+1.2
+IBM interest
+
+
+
+
+
+
+
+
+1.3
+Creation of PC DOS
+
+
+
+
+
+
+
+
+1.4
+Intellectual property dispute
+
+
+
+
+
+
+
+
+1.5
+Versions
+
+
+
+
+
+
+
+
+
+
+2
+Features
+
+
+
+
+Toggle Features subsection
+
+
+
+
+
+2.1
+Commands
+
+
+
+
+
+
+2.1.1
+Internal commands
+
+
+
+
+
+
+
+
+2.1.2
+External commands
+
+
+
+
+
+
+2.1.2.1
+EDLIN
+
+
+
+
+
+
+
+
+
+
+
+
+2.2
+Supported disk formats
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+Notes
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+Further reading
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+86-DOS
+
+
+
+22 languages
+
+
+
+
+Беларуская (тарашкевіца)CatalàČeštinaDeutschEspañolفارسیFrançaisGalego한국어HrvatskiIdoItalianoNederlands日本語PolskiРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Computer operating system
+
+
+Operating system
+86-DOSA sample 86-DOS session (simulated)DeveloperSeattle Computer Products / Tim PatersonWritten in8086 assembly languageOS familyDOSWorking stateHistoric, unsupportedInitial release1980; 45 years ago (1980)Latest release86-DOS 1.10 / July 1981; 43 years ago (1981-07)Marketing targetS-100-based micro-computers with 8086 processorAvailable inEnglishPackage managerN/APlatformsx86Kernel typeMonolithic kernelInfluenced byCP/MDefaultuser interfaceCommand-line interface (COMMAND.COM)LicenseProprietarySucceeded byMS-DOS, IBM PC DOS
+86-DOS (known internally as QDOS,[1] for Quick and Dirty Operating System) is a discontinued operating system developed and marketed by Seattle Computer Products (SCP) for its Intel 8086-based computer kit.
+86-DOS shared a few of its commands with other operating systems such as OS/8 and CP/M, which made it easy to port programs from the latter. Its application programming interface was very similar to that of CP/M. The system was licensed and then purchased by Microsoft and developed further as MS-DOS and PC DOS.[2]
+
+
+History[edit]
+Origins[edit]
+86-DOS was created because sales of the Seattle Computer Products 8086 computer kit, demonstrated in June 1979 and shipped in November,[3] were languishing due to the absence of an operating system. The only software that SCP could sell with the board was Microsoft's Standalone Disk BASIC-86, which Microsoft had developed on a prototype of SCP's hardware.[3] SCP wanted to offer the 8086-version of CP/M that Digital Research had initially announced for November 1979, but it was delayed and its release date was uncertain.[4] This was not the first time Digital Research had lagged behind hardware developments; two years earlier it had been slow to adapt CP/M for new floppy disk formats and hard disk drives. In April 1980, SCP assigned 24-year-old Tim Paterson to develop a substitute for CP/M-86.[3]
+Using a CP/M-80 manual as reference,[5] Paterson modeled 86-DOS after its architecture and interfaces, but adapted to meet the requirements of Intel's 8086 16-bit processor, for easy (and partially automated) source-level translatability of the many existing 8-bit CP/M programs;[4] porting them to either DOS or CP/M-86 was about equally difficult[6] and eased by the fact that Intel had already published a method that could be used to automatically translate software from the Intel 8080 processor, for which CP/M had been designed, to the new 8086 instruction set.[4] At the same time he made a number of changes and enhancements to address what he saw as CP/M's shortcomings. CP/M cached file system information in memory for speed, but this required a user to force an update to a disk before removing it; if the user forgot, the disk would become corrupt. Paterson took the safer, but slower approach of updating the disk with each operation. CP/M's PIP command, which copied files, supported several special file names that referred to hardware devices such as printers and communication ports. Paterson built these names into the operating system as device files so that any program could use them. He gave his copying program the more intuitive name COPY. Rather than implementing CP/M's file system, he drew on Microsoft Standalone Disk BASIC-86's File Allocation Table (FAT) file system.[2]
+By mid-1980 SCP advertised 86-DOS, priced at US$95 for owners of its US$1,290 8086-board and US$195 for others. It touted the software's ability to read Zilog Z80 source code from a CP/M disk and translate it to 8086 source code, and promised that only "minor hand correction and optimization" was needed to produce 8086 binaries.[7]
+
+IBM interest[edit]
+In October 1980, IBM was developing what would become the original IBM Personal Computer. CP/M was by far the most popular operating system in use at the time, and IBM felt that it needed CP/M in order to compete. IBM's representatives visited Digital Research and discussed licensing with Digital Research's licensing representative, Dorothy Kildall (née McEwen), who hesitated to sign IBM's non-disclosure agreement. Although the NDA was later accepted, Digital Research would not accept IBM's proposal of US$250,000 in exchange for as many copies as IBM could sell, insisting on the usual royalty-based plan.[8] In later discussions between IBM and Bill Gates, Gates mentioned the existence of 86-DOS, and IBM representative Jack Sams told him to get a license for it.[citation needed]
+
+Creation of PC DOS[edit]
+Microsoft purchased a non-exclusive license for 86-DOS from Seattle Computer Products[9] in December 1980 for US$25,000.[citation needed] In May 1981, it hired Tim Paterson to port the system to the IBM PC,[3] which used the slower and less expensive Intel 8088 processor and had its own specific family of peripherals. IBM watched the developments daily,[3] submitting over 300 change requests before it accepted the product and wrote the user manual for it.
+In July 1981, a month before the PC's release, Microsoft purchased all rights to 86-DOS from SCP for US$50,000.[3][10][11] It met IBM's main criteria: it looked like CP/M,[2] and it was easy to adapt existing 8-bit CP/M programs to run under it, notably thanks to the TRANS command which would translate source files from 8080 to 8086 machine instructions. Microsoft licensed 86-DOS to IBM, and it became PC DOS 1.0. This license also permitted Microsoft to sell DOS to other companies, which it did. The deal was spectacularly successful, and SCP later claimed in court that Microsoft had concealed its relationship with IBM in order to purchase the operating system cheaply. SCP ultimately received a US$1 million settlement payment.
+
+Intellectual property dispute[edit]
+When Digital Research founder Gary Kildall examined PC DOS and found that it duplicated CP/M's programming interface, he wanted to sue IBM, which at the time claimed that PC DOS was its own product. However, Digital Research's attorney did not believe that the relevant law was clear enough to sue. Nonetheless, Kildall confronted IBM and persuaded them to offer CP/M-86 with the PC in exchange for a release of liability.
+Controversy has continued to surround the similarity between the two systems. Perhaps the most sensational claim came from Jerry Pournelle, who said that Kildall personally demonstrated to him that DOS contained CP/M code by entering a command in DOS that displayed Kildall's name,[12][nb 1] but Pournelle never revealed the command and nobody has come forward to corroborate his story. A 2004 book about Kildall says that he used such an encrypted message to demonstrate that other manufacturers had copied CP/M, but does not say that he found the message in DOS;[13] instead Kildall's memoir (a source for the book) pointed to the well-known interface similarity. Paterson insists that the 86-DOS software was his original work and has denied referring to or otherwise using CP/M code while writing it.[14][15] After the 2004 book appeared, he sued the authors and publishers for defamation.[16] The court ruled in summary judgment that no defamation had occurred, as the book's claims were opinions based on research or were not provably false.[17]
+
+Versions[edit]
+
+
+QDOS 0.10
+
+1980-07[3]
+Roughly half completed version of the OS.[3] It implemented the original form of Paterson's derivation of Microsoft's FAT filesystem. In contrast to the earlier 8-bit FAT filesystem found in Standalone Disk BASIC-86, this variant already supported 12-bit table elements,[18] reduced the number of FATs from 3[19] to 2, redefined the semantics of some of the reserved cluster values, and modified the disk layout, so that the root directory was now located between the FAT and the data area. Paterson also increased the previous 9-character length limit to 11 characters in order to support CP/M-style 8.3 filenames and File Control Blocks. This variant, however, still used 16-byte directory entries and therefore is not compatible with what became later known as FAT12 in MS-DOS/PC DOS. Possibly shipped already.[20]
+
+
+QDOS/86-DOS 0.11
+
+1980-08
+
+Bug fix[3] shipment.[3]
+
+
+QDOS/86-DOS 0.2
+
+1980-08
+
+EDLIN added. Renamed to 86-DOS by August 1980.[7]
+
+
+86-DOS 0.3
+
+15 November 1980
+First version licensed by SCP to Microsoft.[9]
+
+
+86-DOS 0.33
+
+1980-12
+
+First version distributed by SCP to OEMs and Microsoft as 86-DOS.[3][9]
+
+
+86-DOS 0.34[21]
+
+29 December 1980[21]
+Cleaned up release for SCP OEMs including Microsoft.
+
+
+86-DOS 0.42[21]
+
+25 February 1981[21]
+At the indirect request of IBM (through Microsoft[10]) size of directory entries changed from 16 to 32 bytes (similar to MDOS/MIDAS) in order to add support for a last-modified date stamp (2 bytes) and theoretical file sizes larger than 16 MB (4 bytes),[22] thereby implementing the earliest form of the 12-bit FAT file system logically fully compatible with what became known as FAT12 in MS-DOS/PC DOS later on. 86-DOS retained the capability to read volumes written under older versions of 86-DOS up to MS-DOS 1.14 at the least, whereas generic MS-DOS 1.20 / PC DOS 1.1 and higher no longer supported it.
+
+
+86-DOS 0.56[21]
+
+23 March 1981[21]
+Support for disk blocking/deblocking as requested since 1981-01-15.[10]
+
+
+86-DOS 0.60[21]
+
+27 March 1981[21]
+The file DOSIO.ASM found in 86-DOS 1.00 mentions that it is the "I/O System for 86-DOS version 0.60 and later".[23]
+
+
+86-DOS 0.74[21]
+
+15 April 1981[21]
+Added device files.
+
+
+86-DOS 0.75[21]
+
+17 April 1981[21]
+Bug fix.
+
+
+86-DOS 0.76[21]
+
+23 April 1981[21]
+Bug fix.
+
+
+86-DOS 0.80[21]
+
+27 April 1981[21]
+Added system calls.
+
+
+86-DOS 1.00[20][21]
+
+28 April 1981[21]
+Modified system calls.[3][20][23][24]
+
+
+86-DOS 1.01[21]
+
+12 May 1981[21]
+Bug fix.
+
+
+86-DOS 1.10[21]
+
+21 July 1981[21]
+Purchased by Microsoft and renamed to MS-DOS on 27 July 1981,[10][20] therefore the last version with genuinely matching 86-DOS and MS-DOS version numbers. First version known to implement the 'hidden' attribute.
+
+
+86-DOS 1.14[20]
+
+1981-10/11
+According to Tim Paterson PC DOS 1.0 basically reflects 86-DOS 1.14,[20] other sources find a match of PC DOS 1.0 with MS-DOS/86-DOS 1.10 as of 21 July 1981 more likely.
+
+Features[edit]
+Commands[edit]
+The following list of commands is supported by 86-DOS.[25]
+
+Internal commands[edit]
+
+CLEAR
+COPY
+DIR
+ERASE
+RENAME
+TYPE
+
+External commands[edit]
+
+ASM
+CHKDSK
+DEBUG
+EDLIN
+HEX2BIN
+MAKRDCPM
+RDCPM
+SYS
+TRANS
+
+EDLIN[edit]
+By 1982, when IBM asked Microsoft to release a version of DOS that was compatible with a hard disk drive, PC DOS 2.0 was an almost complete rewrite of DOS, so by March 1983, very little of 86-DOS remained. The most enduring element of 86-DOS was its primitive line editor, EDLIN, which remained the only editor supplied with Microsoft versions of DOS until the June 1991 release of MS-DOS 5.0, which included a text-based user interface editor called MS-DOS Editor, based on QBasic. EDLIN can still be used on contemporary machines, since there is an emulated DOS environment up to Windows 10 (32 bit).
+
+Supported disk formats[edit]
+Seattle Computer Products' 86-DOS supported the FAT12 filesystem on a range of 8-inch and 5.25-inch floppy disk drives on S-100 floppy disk controller hardware manufactured by Cromemco, Tarbell Electronics and North Star Computers. The Western Digital FD1771-based Cromemco and Tarbell boards supported one-sided, single-density soft-sectored drives. A Tarbell double-density board utilizing the FD1791 was supported as well. Later, SCP offered advanced floppy disk controllers, like the Disk Master series.
+86-DOS did not take advantage of a FAT ID byte[nb 2] or BIOS parameter block (BPB), as later DOS versions do, to distinguish between different media formats; instead different drive letters were hard-coded at time of compilation to be associated with different physical floppy drives, sides and densities. That meant, depending on its type, a disk had to be addressed under a certain drive letter to be recognized correctly.  This concept was later emulated with more flexibility by DRIVER.SYS under DOS 3.x and later versions.
+Two logical format variants of the 86-DOS 12-bit FAT format existed—the original format with 16-byte directory entries and the later format (since 86-DOS 0.42) with 32-byte directory entries. Only the second one is logically compatible with the FAT12 format known since the release of MS-DOS and PC DOS. MS-DOS still cannot mount such volumes, as in absence of a BPB it falls back to retrieve the FAT ID in the FAT entry for cluster 0 to choose among hard-coded disk geometry profiles. In all formats of a volume formatted under MS-DOS that would otherwise be supported by both systems and typically also in all other formats, this ID is located in the first byte of logical sector 1—that is, the volume's second sector with physical cylinder-head-sector (CHS) address 0/0/2 or logical block addressing (LBA) address 1—since MS-DOS assumes a single reserved sector, the boot sector. Under 86-DOS, the reserved sectors area is significantly larger (whole tracks), and therefore the prototypical FAT ID 0xFE (and 0xFF) is located elsewhere on disk, making it impossible for MS-DOS to retrieve it, and even if it would, the hard-coded disk profile associated with it would not take this larger reserved sectors region under 86-DOS into account.[nb 2]
+CP/M 2 floppy media were readable through RDCPM.
+86-DOS did not offer any specific support for fixed disks, but third-party solutions in form of hard disk controllers and corresponding I/O system extensions for 86-DOS were available from companies like Tallgrass Technologies, making hard disks accessible similar to superfloppies within the size limits of the FAT12 file system.
+
+
+
+Size
+
+8 inch
+8 inch
+8 inch
+5.25 inch
+5.25 inch
+
+
+Density
+
+SD
+DD
+DD
+SD
+SD
+
+
+Modulation
+
+FM
+MFM
+MFM
+FM
+FM
+
+
+Formatted capacity (KB)
+
+250.25[23]
+
+616[23]
+
+1232[23]
+
+90[23]
+
+87.5[23]
+
+
+Cylinders (CHS)
+
+77
+77
+77
+40
+35
+
+
+Physical sectors / track
+
+26
+8
+8
+18
+10
+
+
+Number of heads
+
+1
+1
+2
+1
+1
+
+
+Byte payload / physical sector
+
+128
+1024
+1024
+128
+256
+
+
+Bytes / logical sector
+
+128
+1024
+1024
+128
+256
+
+
+Logical sectors / cluster
+
+4
+1
+1
+2
+1
+
+
+Reserved logical sectors
+
+52 (2 tracks)
+1
+1
+54 (3 tracks)
+30 (3 tracks)
+
+
+Number of FATs
+
+2
+2
+2
+2
+2
+
+
+Root directory entries(á 32 bytes,86-DOS 0.42 and higher only)
+
+64 (16 sectors)
+96 (3 sectors)
+128 (4 sectors)
+64 (16 sectors)
+64 (8 sectors)
+
+
+Root directory entries(á 16 bytes)
+
+64
+?
+?
+64
+—
+
+
+Total logical sectors
+
+2002
+616
+1232
+720
+350
+
+
+Logical sectors / FAT
+
+6?
+?
+?
+?
+?
+
+
+Hidden sectors
+
+0
+0
+0
+0
+0
+
+
+Logical sector order
+
+?
+?
+?
+?
+?
+
+
+Sector mapping
+
+sector+/ track+
+sector+/ track+
+sector+/ head+/ track+
+sector+/ track+
+sector+/ track+
+
+
+First physical sector
+
+1
+1
+1
+1
+0
+
+
+Sector index
+
+Soft
+Soft
+Soft
+Soft
+Hard (10+1)
+
+
+Controller type
+
+Cromemco/Tarbell FD1771
+Tarbell FD1791
+Tarbell FD1791
+Cromemco FD1771
+NorthStar
+
+
+FAT ID
+
+No (FEh)[nb 2]
+No (FEh)[nb 3]
+No (FEh)[nb 3]
+No (FEh)[nb 3]
+No (FEh)[nb 3]
+
+
+BPB presence
+
+No
+No
+No
+No
+No
+
+Various OEM versions of MS-DOS 1.2x and 2.x supported a number of similar 8-inch FAT12 floppy disk formats as well, although not identical to those supported by 86-DOS.[nb 2]
+Disk formats supported by one of the last versions developed by Tim Paterson at Microsoft, MS-DOS 1.25 [21][26][27][28] (March 1982) for the SCP Gazelle computer with SCP controller or Cromemco 16FDC controller (by default, this version only supported the MS-DOS-compatible variants of the 8.0 in formats with a single reserved sector but it could be built to provide two extra drive letters to read and write floppies in the previous SCP 86-DOS 8.0 in disk formats since 0.42 as well):
+
+
+
+Size
+
+8 inch
+8 inch
+8 inch
+8 inch
+8 inch
+5.25 inch
+5.25 inch
+5.25 inch
+
+
+Density
+
+SD
+SD
+DD
+DD
+DD
+SD
+DD
+DD
+
+
+Modulation
+
+FM
+FM
+MFM
+MFM
+MFM
+FM
+MFM
+MFM
+
+
+Formatted capacity (KB)
+
+250.25 (SCP)
+250.25 (MS)
+616
+1232 (SCP)
+1232 (MS)
+90
+160
+320
+
+
+Cylinders (CHS)
+
+77
+77
+77
+77
+77
+40
+40
+40
+
+
+Physical sectors / track[nb 4]
+
+26
+26
+8
+8
+8
+18
+8
+8
+
+
+Number of heads[nb 5]
+
+1
+1
+1
+2
+2
+1
+1
+2
+
+
+Byte payload / physical sector
+
+128
+128
+1024
+1024
+1024
+128
+512
+512
+
+
+Bytes / logical sector[nb 6]
+
+128
+128
+1024
+1024
+1024
+128
+512
+512
+
+
+Logical sectors / cluster[nb 7]
+
+4
+4
+1
+1
+1
+2
+1
+2
+
+
+Reserved logical sectors[nb 8]
+
+52 (2 tracks)
+1
+1
+1
+1
+54 (3 tracks)
+1
+1
+
+
+Number of FATs[nb 9]
+
+2
+2
+2
+2
+2
+2
+2
+2
+
+
+Root directory entries(á 32 bytes)[nb 10]
+
+64 (16 sectors)
+68 (17 sectors)
+96 (3 sectors)
+128 (4 sectors)
+192 (6 sectors)
+64 (16 sectors)
+64 (4 sectors)
+112 (7 sectors)
+
+
+Total logical sectors[nb 11]
+
+2002
+2002
+616
+1232
+1232
+720
+320
+640
+
+
+Logical sectors / FAT[nb 12]
+
+6?
+6
+1
+?
+2
+4
+1
+1
+
+
+Hidden sectors[nb 13]
+
+0
+0[nb 14]
+0
+0
+0
+0
+0
+0
+
+
+Total number of clusters
+
+?
+497
+?
+?
+1227
+?
+313
+315
+
+
+Logical sector order
+
+?
+?
+?
+?
+?
+?
+?
+?
+
+
+Sector mapping
+
+sector+/ track+
+sector+/ track+
+sector+/ track+
+sector+/ head+/ track+
+sector+/ head+/ track+
+sector+/ track+
+sector+/ track+
+sector+/ head+/ track+
+
+
+First physical sector
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+Sector index
+
+Soft
+Soft
+Soft
+Soft
+Soft
+Soft
+Soft
+Soft
+
+
+Controller type
+
+Cromemco / Tarbell FD1771
+Cromemco / Tarbell FD1771
+Tarbell FD1791 / FD1793
+Tarbell FD1791 / FD1793
+Tarbell FD1791 / FD1793
+Cromemco 4FDC FD1771
+SCP / Cromemco 16FDC
+SCP / Cromemco 16FDC
+
+
+FAT ID[nb 2][nb 15]
+
+FEh
+FEh
+FEh
+FEh
+FEh
+FEh
+FEh
+FFh
+
+
+BPB Presence
+
+No
+No
+No
+No
+No
+No
+No
+No
+
+In 1984 Seattle Computer Products released an OEM version of MS-DOS 2.0 for the SCP S-100 computer with SCP-500 Disk Master Floppy controller. It added support for 5.25 in DD/1S (180 KB) and DD/2S (360 KB) FAT12 formats and supported the older formats as well, although possibly with some of the parameters modified compared to MS-DOS 1.25.[29]
+
+See also[edit]
+MIDAS
+MSX-DOS
+Notes[edit]
+
+
+^ Somewhat ironically in the context of Jerry Pournelle's claim that Gary Kildall demonstrated to him a way to display Kildall's name in DOS, Tim Paterson claims to have hidden an easter egg, displaying his own name, in the FAT code of MSX-DOS 1, when he developed this Z80-based CP/M clone resembling 86-DOS/MS-DOS 1.25 in 1983: Paterson, Tim (2014-02-17). "The History of MSX-DOS". Jorito, Maggoo, John Hassink, MSX Resource Center. Retrieved 2014-05-31.
+
+^ a b c d e 8.0" 250.25 KB images formatted under 86-DOS 1.00 sport a FAT ID of FEh, however, in contrast to MS-DOS/PC DOS, 86-DOS does not seem to use this to detect the disk format, as this information is hard-coded into disk profiles associated to certain drive letters at compile-time. MS-DOS would not be able to mount such volumes as (in absence of a BPB) it expects the FAT ID in logical sector 1, assuming only one reserved sector of 512 bytes (the boot sector in logical sector 0) instead of the 52 reserved sectors á 128 bytes used by 86-DOS here. This works for MS-DOS, because the system files are not part of the reserved area under MS-DOS, while under 86-DOS there are no system files and the ca. 6 KB large DOS kernel is located in the reserved area.
+
+^ a b c d Executing the CLEAR command under 86-DOS 1.00 COMMAND.COM seems to initialize a volume's FAT ID byte to FEh regardless of disk drive and format used.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of physical sectors per track corresponds with BPB offset 0x0D under DOS 3.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of heads corresponds with BPB offset 0x0F under DOS 3.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the bytes per logical sector corresponds with BPB offset 0x00 under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the logical sectors per cluster (allocation units) corresponds with BPB offset 0x02 under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of reserved logical sectors corresponds with BPB offset 0x03 under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of FATs corresponds with BPB offset 0x05 under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of root directory entries (á 32 bytes) corresponds with BPB offset 0x06 under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the total number of logical sectors corresponds with BPB offset 0x08 under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of logical sectors per FAT corresponds with BPB offset 0x0B under DOS 2.0 and higher.
+
+^ DOS 1.x does not support a BPB, but this entry for the number of hidden sectors corresponds with BPB offset 0x11 under DOS 3.0 and higher.
+
+^ For unknown reasons, some Microsoft documents give a value of 3 for this entry, where 0 seems correct technically. SCP MS-DOS 1.25 implicitly assumes 0 as well.
+
+^ DOS 1.x does not support a BPB, but this entry for the FAT ID corresponds with the media descriptor byte at BPB offset 0x0A under DOS 2.0 and higher.
+
+
+References[edit]
+
+
+^ Paterson, Tim (2018-08-05). "The Original DOS and the Old Days". YouTube. Mountain View, CA, United States: Vintage Computer Federation. Retrieved 2022-03-01.
+
+^ a b c Allen, Paul; Gates, Bill; King, Adrian; Larson, Chris; Letwin, Gordon; O'Rear, Bob; Paterson, Tim; Peters, Chris; Phillips, Bruce; Reynolds, Aaron; Stillmaker, Betty; Zbikowski, Mark (1986). "Technical advisors". MS-DOS (Versions 1.0-3.2) Technical Reference Encyclopedia. By Bornstein, Howard; Bredehoeft, Lawrence; Duncan, Ray; Morris, Carol; Rose, David; Socha, John; Tomlin, Jim; Vian, Kathleen; Wolverton, Van. Beley, Jim; Preppernau, Barry; Beason, Pam; Lewis, Andrea; Rygmyr, David (eds.). Microsoft Reference Library. Vol. 1 (Original withdrawn ed.). Redmond, Washington, USA: Microsoft Press. ISBN 0-914845-69-1. LCCN 86-8640. OCLC 635600205. (xvii+1053 pages; 29 cm) (NB. This original edition contains flowcharts of the internal workings of the system. It was withdrawn by Microsoft before mass-distribution in 1986 because it contained many factual errors as well as some classified information which should not have been published. Few printed copies survived. It was replaced by a completely reworked edition in 1988. [1])
+
+^ a b c d e f g h i j k l Hunter, David (March 1983). "The Roots of DOS: Tim Paterson". Softalk. Archived from the original on 2019-09-06. Retrieved 2013-08-18.
+
+^ a b c Paterson, Tim (June 1983). "An Inside Look at MS-DOS - The design decisions behind the popular operating system". Byte. 6. 8. Byte Publications Inc.: 230. Retrieved 2013-10-19. (NB. The article often uses "MS-DOS" to refer to both 86-DOS and MS-DOS, but mentions QDOS and 86-DOS in a sidebar article, "A Short History of MS-DOS".)
+
+^ Cringely, Robert X. (June 1996). "Part II". Triumph of the Nerds: The Rise of Accidental Empires. Season 1. PBS.
+
+^ Edlin, Jim (1982-06-07). "CP/M Arrives - IBM releases a tailed-for-the-PC version of CP/M-86 that profits from the learning curve". PC Magazine: 43. Retrieved 2013-10-21.
+
+^ a b Seattle Computer Products (August 1980). "86-DOS - 8086 OPERATING SYSTEM - $95". Byte (Advertisement). Vol. 5, no. 8. BYTE Publications Inc. p. 173. ISSN 0360-5280. CODEN BYTEDJ. Retrieved 2013-08-18. [2] (NB. The SCP advertisement already calls the product 86-DOS, but does not mention a specific version number. Version 0.3 is known to be called 86-DOS already, so the name change must have taken place either for version 0.2 or immediately afterwards in August 1980.)
+
+^ Freiberger, Paul; Swaine, Michael (2000) [1984]. Fire in the Valley: The Making of the Personal Computer (2nd ed.). New York: McGraw-Hill. pp. 332–333. ISBN 0-07-135892-7.
+
+^ a b c "86-DOS version 0.3 (1980-11-15) License Agreement between Seattle Computer Products and Microsoft" (PDF). 1981-01-06. Archived (PDF) from the original on 2020-02-18. Retrieved 2013-04-01. (NB. Published as part of the Comes v. Microsoft case as exhibit #1.)
+
+^ a b c d "86-DOS Sales Agreement between Seattle Computer Products and Microsoft" (PDF). 1981-07-27. Archived (PDF) from the original on 2020-02-19. Retrieved 2013-04-01. (NB. Published as part of the Comes v. Microsoft case as exhibit #2. The document also carries a typed date stamp as of 1981-07-22.)
+
+^ Zbikowski, Mark; Allen, Paul; Ballmer, Steve; Borman, Reuben; Borman, Rob; Butler, John; Carroll, Chuck; Chamberlain, Mark; Chell, David; Colee, Mike; Courtney, Mike; Dryfoos, Mike; Duncan, Rachel; Eckhardt, Kurt; Evans, Eric; Farmer, Rick; Gates, Bill; Geary, Michael; Griffin, Bob; Hogarth, Doug; Johnson, James W.; Kermaani, Kaamel; King, Adrian; Koch, Reed; Landowski, James; Larson, Chris; Lennon, Thomas; Lipkie, Dan; McDonald, Marc; McKinney, Bruce; Martin, Pascal; Mathers, Estelle; Matthews, Bob; Melin, David; Mergentime, Charles; Nevin, Randy; Newell, Dan; Newell, Tani; Norris, David; O'Leary, Mike; O'Rear, Bob; Olsson, Mike; Osterman, Larry; Ostling, Ridge; Pai, Sunil; Paterson, Tim; Perez, Gary; Peters, Chris; Petzold, Charles; Pollock, John; Reynolds, Aaron; Rubin, Darryl; Ryan, Ralph; Schulmeisters, Karl; Shah, Rajen; Shaw, Barry; Short, Anthony; Slivka, Ben; Smirl, Jon; Stillmaker, Betty; Stoddard, John; Tillman, Dennis; Whitten, Greg; Yount, Natalie; Zeck, Steve (1988). "Technical advisors". The MS-DOS Encyclopedia: versions 1.0 through 3.2. By Duncan, Ray; Bostwick, Steve; Burgoyne, Keith; Byers, Robert A.; Hogan, Thom; Kyle, Jim; Letwin, Gordon; Petzold, Charles; Rabinowitz, Chip; Tomlin, Jim; Wilton, Richard; Wolverton, Van; Wong, William; Woodcock, JoAnne (Completely reworked ed.). Redmond, Washington, USA: Microsoft Press. p. 20. ISBN 1-55615-049-0. LCCN 87-21452. OCLC 16581341. (xix+1570 pages; 26 cm) (NB. This edition was published in 1988 after extensive rework of the withdrawn 1986 first edition by a different team of authors. [3])
+
+^ "this WEEK in TECH". The TWiT Netcast Network (Podcast). 2006-10-16. Archived from the original on 2013-04-18. Retrieved 2006-11-28.
+
+^ Evans, Harold; Buckland, Gail; Lefer, David (2004). They Made America: From the Steam Engine to the Search Engine: Two Centuries of Innovators. Little, Brown and Co. ISBN 0-316-27766-5.
+
+^ Paterson, Tim (1994-10-03). "The Origins of DOS: DOS Creator Gives His View of Relationship Between CP/M, MS-DOS" (PDF). Microprocessor Report. 8 (13). MicroDesign Resources (MDR). ISSN 0899-9341. Archived from the original (PDF) on 2012-05-31.
+
+^ Paterson, Tim (1997-05-06). "DOS Testimony". Letters. PC Magazine. Vol. 16, no. 9. Ziff-Davis Publishing Company. p. 24. Archived from the original on 2021-12-03. Retrieved 2021-12-03.
+
+^ "Programmer sues author over role in Microsoft history". USA Today. Associated Press. 2005-02-03. Retrieved 2006-11-28.
+
+^ United States District Court for the Western District of Washington (2007-07-25) [2005-02-28]. "Paterson v. Little, Brown, and Co., et al. - Order" (PDF). Seattle Times. Seattle, Washington, USA. Case 2:05-cv-01719-TSZ Document 29. Archived from the original (PDF) on 2018-10-03. Retrieved 2014-12-21.
+
+^ Paterson, Tim (2007-09-30). "Design of DOS". DosMan Drivel. Archived from the original on 2013-01-20. Retrieved 2011-07-04.
+
+^ Schulman, Andrew; Brown, Ralf D.; Maxey, David; Michels, Raymond J.; Kyle, Jim (1994) [November 1993]. Undocumented DOS: A programmer's guide to reserved MS-DOS functions and data structures - expanded to include MS-DOS 6, Novell DOS and Windows 3.1 (2 ed.). Reading, Massachusetts: Addison Wesley. ISBN 0-201-63287-X. (xviii+856+vi pages, 3.5"-floppy) Errata: [4][5]
+
+^ a b c d e f Paterson, Tim (June 1983). "A Short History of MS-DOS". Byte. 8 (6 ed.). ISSN 0360-5280. Archived from the original on 2015-10-31. Retrieved 2013-08-18. (NB. This source mentions the 1981-07-27 as the date of purchase.)
+
+^ a b c d e f g h i j k l m n o p q r s t u v w Paterson, Tim (2013-12-19) [1983]. "Microsoft DOS V1.1 and V2.0: /msdos/v11source/MSDOS.ASM". Computer History Museum, Microsoft. Retrieved 2014-03-25. (NB. While the publishers claim this would be MS-DOS 1.1 and 2.0, it actually is SCP MS-DOS 1.25 and a mixture of Altos MS-DOS 2.11 and TeleVideo PC DOS 2.11.)
+
+^ Seattle Computer Products (1981). "SCP 86-DOS 1.0 Addendum" (PDF). Archived (PDF) from the original on 2020-02-19. Retrieved 2013-04-02. (1+14+1 pages)
+
+^ a b c d e f g A ZIP file containing most of the files from 86-DOS 0.75 (1981-04-17/1981-04-18) to 1.00/1.10 (1981-07-21)
+
+^ 86-DOS 1.00 disk images for SIMH simulator
+
+^ 86-DOS - Disk Operating System for the 8086 - User's Manual (PDF). Version 0.3 (Preliminary ed.). Seattle, Washington, USA: Seattle Computer Products, Inc. 1980. Archived from the original (PDF) on 2019-07-14. Retrieved 2019-07-14. (59 pages)
+
+^ MS-DOS 1.25 disk images for SIMH simulator
+
+^ Shustek, Len (2014-03-24). "Microsoft MS-DOS early source code". Software Gems: The Computer History Museum Historical Source Code Series. Retrieved 2014-03-29. (NB. While the author claims this would be MS-DOS 1.1 and 2.0, it actually is SCP MS-DOS 1.25 and a mixture of Altos MS-DOS 2.11 and TeleVideo PC DOS 2.11.)
+
+^ Levin, Roy (2014-03-25). "Microsoft makes source code for MS-DOS and Word for Windows available to public". Official Microsoft Blog. Archived from the original on 2014-03-28. Retrieved 2014-03-29. (NB. While the author claims this would be MS-DOS 1.1 and 2.0, it actually is SCP MS-DOS 1.25 and a mixture of Altos MS-DOS 2.11 and TeleVideo PC DOS 2.11.)
+
+^ "Seattle Computer Products 8086 S-100 Bus Microcomputer - Picture of 8.0" DD/1S distribution floppy disks for SCP MS-DOS 2.0". 2009-11-22. Archived from the original on 2013-09-04. Retrieved 2014-05-06.
+
+
+Further reading[edit]
+86-DOS - Disk Operating System for the 8086 - Programmer's Manual (PDF). Version 0.3 (Preliminary ed.). Seattle, Washington, USA: Seattle Computer Products, Inc. 1980. Retrieved 2024-10-13. (41 pages)
+External links[edit]
+86-DOS documentation from Paterson Technology
+Run SCP 86-DOS 1.0 in the Altair 8800 SIMH simulator by Howard M. Harte
+vteDisk operating systems (DOS)MS-DOS, IBM PC DOS,compatible systems
+API
+Timeline
+Comparison
+Commands
+Games
+
+MS-DOS
+Multitasking MS-DOS 4.0/4.1
+MS-DOS 7
+IBM PC DOS
+DOS/V
+DR-DOS
+H-DOS
+Novell DOS
+ROM-DOS
+SISNE plus
+PTS-DOS
+FreeDOSOther x86
+4680 OS
+4690 OS
+86-DOS
+ADOS
+Concurrent CP/M-86
+Concurrent DOS
+CP/M-86
+CP/K
+Datapac System Manager
+DOS Plus
+K8918-OS
+FlexOS
+MP/M-86
+Multiuser DOS
+NetWare PalmDOS
+Novell DOS
+OpenDOS
+PC-MOS/386
+REAL/32
+SB-86
+SCP1700
+Towns OS
+TurboDOS
+Other platforms
+AmigaDOS
+AMSDOS
+ANDOS
+Apple DOS
+Apple ProDOS
+Apple SOS
+Atari DOS
+Atari TOS
+BW-DOS
+Commodore DOS
+Concurrent DOS 68K
+Concurrent DOS V60
+CP/M
+Cromemco DOS
+CSI-DOS
+DEC BATCH-11/DOS-11
+DIP DOS
+DOS/360
+DOS XL
+Edos
+EOS
+FLEX
+GEMDOS
+IDEDOS
+IMDOS
+iS-DOS
+ISIS
+MDOS
+MicroDOS
+MP/M
+MSX-DOS
+MyDOS
+NewDos/80
+OS/M
+PTDOS
+RealDOS
+SB-80
+SCP
+Sinclair QDOS
+RDOS
+SmartDOS
+SpartaDOS
+SpartaDOS X
+Technical Support SuperDOS
+Top-DOS
+TR-DOS
+TRSDOS
+TurboDOS
+UDOS
+Z-DOS
+Z80-RIO
+
+ Category
+ List
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=86-DOS&oldid=1277348816"
+Categories: Microcomputer softwareDisk operating systemsDOS variantsFloppy disk-based operating systemsDiscontinued operating systemsProprietary operating systems1979 softwareAssembly language softwareProducts and services discontinued in 1981Hidden categories: Articles with short descriptionShort description is different from WikidataUse dmy dates from May 2019Use list-defined references from December 2021Short description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2011Articles with unsourced statements from April 2013
+
+
+
+
+
+
+ This page was last edited on 24 February 2025, at 03:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+86-DOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

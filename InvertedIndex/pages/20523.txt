@@ -1,0 +1,2035 @@
+https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment
+
+
+
+
+Semi-Automatic Ground Environment - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Background
+
+
+
+
+Toggle Background subsection
+
+
+
+
+
+1.1
+Earlier systems
+
+
+
+
+
+
+
+
+1.2
+Valley Committee
+
+
+
+
+
+
+
+
+1.3
+Project Charles
+
+
+
+
+
+
+
+
+1.4
+Project Lincoln
+
+
+
+
+
+
+
+
+
+
+2
+Development
+
+
+
+
+
+
+
+
+3
+Deployment
+
+
+
+
+Toggle Deployment subsection
+
+
+
+
+
+3.1
+SAGE sites
+
+
+
+
+
+
+
+
+
+
+4
+Description
+
+
+
+
+Toggle Description subsection
+
+
+
+
+
+4.1
+SAGE Communication Systems
+
+
+
+
+
+
+
+
+4.2
+Radar stations
+
+
+
+
+
+
+
+
+4.3
+Interceptors
+
+
+
+
+
+
+
+
+
+
+5
+Improvements
+
+
+
+
+
+
+
+
+6
+Replacement and disposition
+
+
+
+
+
+
+
+
+7
+Historiography
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+Further reading
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Semi-Automatic Ground Environment
+
+
+
+13 languages
+
+
+
+
+CatalàDeutschEspañolFrançais한국어HrvatskiItaliano日本語PolskiPortuguêsРусскийSuomi中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Historic US military computer and radar network
+This article is about the NORAD Cold War computer network. For the radar installations in each sector, see SAGE radar stations.
+Semi-Automatic Ground EnvironmentThe 4-story SAGE blockhouses with 3.5 acres (1.4 ha) of floor space[1] "were hardened [for] overpressures of" 5 psi (34 kPa).[2]: 264   A shorter adjoining building (left) had generators below the 4 intake/exhaust structures on the roof.[3] (DC-01 shown)General informationTypemilitary C3 human–computer interfaceCountryUnited StatesOpened1958 June 26 — DC-011958 December 1 — DC-031959 (early) — CC-011966 April 1 — CC-05Design and constructionArchitect(s)USAF Air Materiel CommandWestern Electric[4]System Development Corporation[4]Burroughs Corporation
+The Semi-Automatic Ground Environment (SAGE) was a system of large computers and associated networking equipment that coordinated data from many radar sites and processed it to produce a single unified image of the airspace over a wide area.[5] SAGE directed and controlled the NORAD response to a possible Soviet air attack, operating in this role from the late 1950s into the 1980s. Its enormous computers and huge displays remain a part of Cold War lore, and after decommissioning were common props in movies such as Dr. Strangelove and Colossus, and on science fiction TV series such as The Time Tunnel.
+The processing power behind SAGE was supplied by the largest discrete component-based computer ever built, the AN/FSQ-7, manufactured by IBM. Each SAGE Direction Center (DC) housed an FSQ-7 which occupied an entire floor, approximately 22,000 square feet (2,000 m2) not including supporting equipment. The FSQ-7 was actually two computers, "A" side and "B" side. Computer processing was switched from "A" side to "B" side on a regular basis, allowing maintenance on the unused side. Information was fed to the DCs from a network of radar stations as well as readiness information from various defense sites. The computers, based on the raw radar data, developed "tracks" for the reported targets, and automatically calculated which defenses were within range. Operators used light guns to select targets on-screen for further information, select one of the available defenses, and issue commands to attack. These commands would then be automatically sent to the defense site via teleprinter.
+Connecting the various sites was an enormous network of telephones, modems and teleprinters. Later additions to the system allowed SAGE's tracking data to be sent directly to CIM-10 Bomarc missiles and some of the US Air Force's interceptor aircraft in-flight, directly updating their autopilots to maintain an intercept course without operator intervention. Each DC also forwarded data to a Combat Center (CC) for "supervision of the several sectors within the division"[6] ("each combat center [had] the capability to coordinate defense for the whole nation").[7]: 51 
+SAGE became operational in the late 1950s and early 1960s at a combined cost of billions of dollars. It was noted that the deployment cost more than the Manhattan Project—which it was, in a way, defending against. Throughout its development, there were continual concerns about its real ability to deal with large attacks, and the Operation Sky Shield tests showed that only about one-fourth of enemy bombers would have been intercepted.[8] Nevertheless, SAGE was the backbone of NORAD's air defense system into the 1980s, by which time the tube-based FSQ-7s were increasingly costly to maintain and completely outdated. Today the same command and control task is carried out by microcomputers, based on the same basic underlying data.
+
+
+Background[edit]
+Earlier systems[edit]
+This subsection needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this subsection. Unsourced material may be challenged and removed.Find sources: "Semi-Automatic Ground Environment" – news · newspapers · books · scholar · JSTOR (November 2024) (Learn how and when to remove this message)
+Just prior to World War II, Royal Air Force (RAF) tests with the new Chain Home (CH) radars had demonstrated that relaying information to the fighter aircraft directly from the radar sites was not feasible. The radars determined the map coordinates of the enemy, but could generally not see the fighters at the same time. This meant the fighters had to be able to determine where to fly to perform an interception but were often unaware of their own exact location and unable to calculate an interception while also flying their aircraft.
+
+SAGE radar stations were grouped by Air Defense Sectors (Air Divisions after 1966).  The SAGE System networked the radar stations in over 20 of the sectors using AN/FSQ-7 centrals in Direction Center.
+The solution was to send all of the radar information to a central control station where operators collated the reports into single tracks, and then reported these tracks to the airbases, or sectors. The sectors used additional systems to track their own aircraft, plotting both on a single large map. Operators viewing the map could then see what direction their fighters would have to fly to approach their targets and relay that simply by telling them to fly along a certain heading or vector. This Dowding system was the first ground-controlled interception (GCI) system of large scale, covering the entirety of the UK. It proved enormously successful during the Battle of Britain, and is credited as being a key part of the RAF's success.
+The system was slow, often providing information that was up to five minutes out of date. Against propeller driven bombers flying at perhaps 225 miles per hour (362 km/h) this was not a serious concern, but it was clear the system would be of little use against jet-powered bombers flying at perhaps 600 miles per hour (970 km/h). The system was extremely expensive in manpower terms, requiring hundreds of telephone operators, plotters and trackers in addition to the radar operators. This was a serious drain on manpower, making it difficult to expand the network.
+The idea of using a computer to handle the task of taking reports and developing tracks had been explored beginning late in the war. By 1944, analog computers had been installed at the CH stations to automatically convert radar readings into map locations, eliminating two people. Meanwhile, the Royal Navy began experimenting with the Comprehensive Display System (CDS), another analog computer that took X and Y locations from a map and automatically generated tracks from repeated inputs. Similar systems began development with the Royal Canadian Navy, DATAR, and the US Navy, the Naval Tactical Data System. A similar system was also specified for the Nike SAM project, specifically referring to a US version of CDS,[9] coordinating the defense over a battle area so that multiple batteries did not fire on a single target. All of these systems were relatively small in geographic scale, generally tracking within a city-sized area.
+
+Valley Committee[edit]
+Whirlwind computer elements: core memory (left) and operator console
+Module from a SAGE
+The RCA #6499 Radechon tube was used for random-access memory in the computers.
+When the Soviet Union tested its first atomic bomb in August 1949, the topic of air defense of the US became important for the first time. A study group, the "Air Defense Systems Engineering Committee" was set up under the direction of Dr. George Valley to consider the problem, and is known to history as the "Valley Committee".[10]
+Their December report noted a key problem in air defense using ground-based radars. A bomber approaching a radar station would detect the signals from the radar long before the reflection off the bomber was strong enough to be detected by the station. The committee suggested that when this occurred, the bomber would descend to low altitude, thereby greatly limiting the radar horizon, allowing the bomber to fly past the station undetected. Although flying at low altitude greatly increased fuel consumption, the team calculated that the bomber would only need to do this for about 10% of its flight, making the fuel penalty acceptable.[10]
+The only solution to this problem was to build a huge number of stations with overlapping coverage. At that point the problem became one of managing the information. Manual plotting was ruled out as too slow, and a computerized solution was the only possibility. To handle this task, the computer would need to be fed information directly, eliminating any manual translation by phone operators, and it would have to be able to analyze that information and automatically develop tracks.[10] A system tasked with defending cities against the predicted future Soviet bomber fleet would have to be dramatically more powerful than the models used in the NTDS or DATAR.[11][12]
+The Committee then had to consider whether or not such a computer was possible. The Valley Committee was introduced to Jerome Wiesner, associate director of the Research Laboratory of Electronics at MIT. Wiesner noted that the Servomechanisms Laboratory had already begun development of a machine that might be fast enough. This was the Whirlwind I, originally developed for the Office of Naval Research[13] as a general purpose flight simulator that could simulate any current or future aircraft by changing its software.[10]
+Wiesner introduced the Valley Committee to Whirlwind's project lead, Jay Forrester, who convinced him that Whirlwind was sufficiently capable. In September 1950, an early microwave early-warning radar system at Hanscom Field was connected to Whirlwind using a custom interface developed by Forrester's team. An aircraft was flown past the site, and the system digitized the radar information and successfully sent it to Whirlwind. With this demonstration, the technical concept was proven. Forrester was invited to join the committee.[10]
+
+Project Charles[edit]
+With this successful demonstration, Louis Ridenour, chief scientist of the Air Force, wrote a memo stating "It is now apparent that the experimental work necessary to develop, test, and evaluate the systems proposals made by ADSEC will require a substantial amount of laboratory and field effort."[10] Ridenour approached MIT President James Killian with the aim of beginning a development lab similar to the war-era Radiation Laboratory that made enormous progress in radar technology. Killian was initially uninterested, desiring to return the school to its peacetime civilian charter. Ridenour eventually convinced Killian the idea was sound by describing the way the lab would lead to the development of a local electronics industry based on the needs of the lab and the students who would leave the lab to start their own companies. Killian agreed to at least consider the issue, and began Project Charles to consider the size and scope of such a lab.[14]
+Project Charles was placed under the direction of Francis Wheeler Loomis and included 28 scientists, about half of whom were already associated with MIT. Their study ran from February to August 1951, and in their final report they stated that "We endorse the concept of a centralized system as proposed by the Air Defense Systems Engineering Committee, and we agree that the central coordinating apparatus of this system should be a high-speed electronic digital computer."[14] The report went on to describe a new lab that would be used for generic technology development for the Air Force, Army and Navy, and would be known as Project Lincoln.[14]
+
+Project Lincoln[edit]
+Loomis took over direction of Project Lincoln and began planning by following the lead of the earlier RadLab. By September 1951, only months after the Charles report, Project Lincoln had more than 300 employees. By the end of the summer of 1952 this had risen to 1300, and after another year, 1800. The only building suitable for classified work at that point was Building 22, suitable for a few hundred people at most, although some relief was found by moving the non-classified portions of the project, administration and similar, to Building 20. But this was clearly insufficient space. After considering a variety of suitable locations, a site at Laurence G. Hanscom Field was selected, with the groundbreaking taking place in 1951.[14]
+The terms of the National Security Act were formulated during 1947, leading to the creation of the US Air Force out of the former US Army Air Force. During April of the same year,  US Air Force staff were identifying specifically the requirement for the creation of automatic equipment for radar-detection which would relay information to an air defence control system, a system which would function without the inclusion of persons for its operation.[15] The December 1949 "Air Defense Systems Engineering Committee" led by Dr. George Valley had recommended computerized networking[11] for "radar stations guarding the northern air approaches to the United States"[12] (e.g., in Canada).  After a January 1950 meeting, Valley and Jay Forrester proposed using the Whirlwind I (completed 1951) for air defense.[16] On August 18, 1950, when the "1954 Interceptor" requirements were issued, the USAF "noted that manual techniques of aircraft warning and control would impose "intolerable" delays"[17]: 484  (Air Materiel Command (AMC) published Electronic Air Defense Environment for 1954 in December .)[18]  During February–August 1951 at the new Lincoln Laboratory, the USAF conducted Project Claude which concluded an improved air defense system was needed.[citation needed]
+
+To increase warning time, radar systems called Texas Towers were placed in the Atlantic Ocean using technology similar to Texas-style offshore oil platforms
+In a test for the US military at Bedford, Massachusetts on 20 April 1951, data produced by a radar was transmitted through telephone lines to a computer for the first time, showing the detection of a mock enemy aircraft. This first test was directed by C. Robert Wieser.[15]
+The "Summer Study Group" of scientists in 1952 recommended "computerized air direction centers…to be ready by 1954."[19]
+IBM's "Project High" assisted under their October 1952 Whirlwind subcontract with Lincoln Laboratory,[20]: 210  and a 1952 USAF Project Lincoln "fullscale study" of "a large scale integrated ground control system" resulted in the SAGE approval "first on a trial basis in 1953".[21]: 128   The USAF had decided by April 10, 1953, to cancel the competing ADIS (based on CDS), and the University of Michigan's Aeronautical Research Center withdrew in the spring.[22]: 289  Air Research and Development Command (ARDC) planned to "finalize a production contract for the Lincoln Transition System".[2]: 201   Similarly, the July 22, 1953, report by the Bull Committee (NSC 159) identified completing the Mid-Canada Line radars as the top priority and "on a second-priority-basis: the Lincoln automated system"[23]  (the decision to control Bomarc with the automated system was also in 1953.)[24]
+The Priority Permanent System with the initial (priority) radar stations was completed in 1952[2]: 223  as a "manual air defense system"[4] (e.g., NORAD/ADC used a "Plexiglas plotting board" at the Ent command center.)  The Permanent System radar stations included 3 subsequent phases of deployments and by June 30, 1957, had 119 "Fixed CONUS" radars, 29 "Gap-filler low altitude" radars, and 23 control centers".[25]  At "the end of 1957, ADC operated 182 radar stations [and] 17 control centers … 32 [stations] had been added during the last half of the year as low-altitude, unmanned gap-filler radars.  The total consisted of 47 gap-filler stations, 75 Permanent System radars, 39 semimobile radars, 19 Pinetree stations,…1 Lashup -era radar and a single Texas Tower".[2]: 223   "On 31 December 1958, USAF ADC had 187 operational land-based radar stations" (74 were "P-sites", 29 "M-sites", 13 "SM-sites", & 68 "ZI Gap Fillers").[26]
+
+Development[edit]
+Systems scientist Jay Forrester was instrumental in directing the development of the key concept of an interception system during his work at Servomechanisms Laboratory of MIT. The concept of the system, according to the Lincoln Laboratory site was to 
+"develop a digital computer that could receive vast quantities of data from multiple radars and perform real-time processing to produce targeting information for intercepting aircraft and missiles."[27]
+
+ The AN/FSQ-7 had 100 system consoles, including the OA-1008 Situation Display (SD) with a light gun (at end of cable under plastic museum cover), cigarette lighter, and ash tray (left of the light gun).
+The AN/FSQ-7 was developed by the Lincoln Laboratory's Digital Computer Laboratory and Division 6, working closely with IBM as the manufacturer. Each FSQ-7 actually consisted of two nearly identical computers operating in "duplex"[28] for redundancy. The design used an improved version of the Whirlwind I magnetic core memory and was an extension of the Whirlwind II computer program, renamed AN/FSQ-7 in 1953 to comply with Air Force nomenclature. It has been suggested the FSQ-7 was based on the IBM 701 but, while the 701 was investigated by MIT engineers, its design was ultimately rejected due to high error rates and generally being "inadequate to the task."[29] IBM's contributions were essential to the success of the FSQ-7, and IBM benefited immensely from its association with the SAGE project, most evidently during development of the IBM 704.[30][31]
+On October 28, 1953, the Air Force Council recommended 1955 funding for "ADC to convert to the Lincoln automated system"[2]: 193   ("redesignated the SAGE System in 1954").[2]: 201   The "experimental SAGE subsector, located in Lexington, Mass., was completed in 1955…with a prototype AN/FSQ-7…known as XD-1"[6] (single computer system[32] in Building F).[22]  In 1955, Air Force personnel began IBM training at the Kingston, New York, prototype facility,[3] and the "4620th Air Defense Wing (experimental SAGE) was established at Lincoln Laboratory"
+On May 3, 1956, General Partridge presented CINCNORAD's Operational Concept for Control of Air Defense Weapons to the Armed Forces Policy Council,[21] and a June 1956 symposium presentation identified advanced programming methods of SAGE code.[33]    For SAGE consulting Western Electric and Bell Telephone Laboratories formed the Air Defense Engineering Service (ADES),[34] which was contracted in January 1954.[22]  IBM delivered the FSQ-7 computer's prototype in June 1956,[35] and Kingston's XD-2 with dual computers[32] guided a Cape Canaveral BOMARC to a successful aircraft intercept on August 7, 1958.[2]: 197   Initially contracted to RCA, the AN/FSQ-7 production units were started by IBM in 1958[citation needed] (32 DCs were planned[2]: 207  for networking NORAD regions.)[36]  IBM's production contract developed 56 SAGE computers for $.5 billion (~$18 million per computer pair in each FSQ-7)[32]—cf. the $2 billion WWII Manhattan Project.
+General Operational Requirements (GOR) 79 and 97 were "the basic USAF documents guiding development and improvement of [the semi-automatic] ground environment.[37]: 97   Prior to fielding the AN/FSQ-7 centrals, the USAF initially deployed "pre-SAGE semiautomatic intercept systems" (AN/GPA-37) to Air Defense Direction Centers, ADDCs[37]: 11  (e.g., at "NORAD Control Centers").[26]  On April 22, 1958, NORAD approved Nike AADCPs to be collocated with the USAF manual ADDCs at Duncanville Air Force Station TX, Olathe Air Force Station KS, Belleville Air Force Station IL, and Osceola Air Force Station KS.[26]
+
+Deployment[edit]
+Subsector Command Post of SAGE Combat Center at Syracuse Air Force Station with consoles and large Photographic Display Unit display, which was projected from above. Archive photo taken during equipment installation.
+In 1957, SAGE System groundbreaking at McChord AFB was for DC-12[38] where the "electronic brain" began arriving in November 1958,[39] and the "first SAGE regional battle post [CC-01] began operating in Syracuse, New York in early 1959".[2]: 263   BOMARC "crew training was activated January 1, 1958",[40] and AT&T "hardened many of its switching centers, putting them in deep underground bunkers",[41]  The North American Defense Objectives Plan (NADOP 59–63) submitted to Canada in December 1958 scheduled 5 Direction Centers and 1 Combat Center to be complete in Fiscal Year 1959, 12 DCs and 3 CCs complete at the end of FY 60, 19 DC/4 CC FY 61, 25/6 FY 62, and 30/10 FY 63.[26]  On June 30 NORAD ordered that "Air Defense Sectors (SAGE) were to be designated as NORAD sectors",[42] (the military reorganization had begun when effective April 1, 1958, CONAD "designated four SAGE sectors – New York, Boston, Syracuse, and Washington – as CONAD Sectors".)[37]: 7 
+
+The abandoned SAGE direction center at the former Stewart Air Force Base, New York in 2016
+SAGE Geographic Reorganization: The SAGE Geographic Reorganization Plan of July 25, 1958, by NORAD was "to provide a means for the orderly transition and phasing from the manual to the SAGE system."  The plan identified deactivation of the Eastern, Central, and Western Region/Defense Forces on July 1, 1960, and "current manual boundaries" were to be moved to the new "eight SAGE divisions" (1 in Canada, "the 35th") as soon as possible.  Manual divisions "not to get SAGE computers were to be phased out" along with their Manual Air Defense Control Centers at the headquarters base: "9th [at] Geiger Field… 32d, Syracuse AFS… 35th, Dobbins AFB… 58th, Wright-Patterson AFB… 85th, Andrews AFB".[26]  The 26th SAGE Division (New York, Boston, Syracuse & Bangor SAGE sectors)--the 1st of the SAGE divisions—became operational at Hancock Field on 1 January 1959[26] after the redesignation started for AC&W Squadrons (e.g., the Highlands P-9 unit became the 646th Radar Squadron (SAGE) October 1.)[43]: 156   Additional sectors included the Los Angeles Air Defense Sector (SAGE) designated in February 1959.  A June 23 JCS memorandum approved the new "March 1959 Reorganization Plan" for HQ NORAD/CONAD/ADC.[44]: 5 
+
+ The Subsector Command Post ("blue room") had personnel on the DC's 3rd floor and a Display and Warning Light System for the operator environment, e.g., Large Board Projection Equipment projecting from the 4th floor[3] (top, Cape Cod shown on 3rd/4th floor wall) and Command Post Digital Display Desk[45] (center, with operators)
+Project Wild Goose teams of Air Materiel Command personnel installed c. 1960 the Ground Air Transmit Receive stations for the SAGE TDDL (in April 1961, Sault Ste Marie was the first operational sector with TDDL).[46] By the middle of 1960, AMC had determined that about 800,000 man-hours (involving 130 changes) would be required to bring the F-106 fleet to the point where it would be a valuable adjunct to the air defense system. Part of the work (Project Broad Jump) was accomplished by Sacramento Air Materiel Area. The remainder (Project Wild Goose) was done at ADC bases by roving AMC field assistance teams supported by ADC maintenance personnel. (cited by Volume I p. 271 & Schaffel p. 325)  After a September 1959 experimental ATABE test between an "abbreviated" AN/FSQ-7 staged at Fort Banks and the Lexington XD-1, the 1961 "SAGE/Missile Master test program" conducted large-scale field testing of the ATABE "mathematical model" using radar tracks of actual SAC and ADC aircraft flying mock penetrations into defense sectors.[47]  Similarly conducted was the joint SAC-NORAD Sky Shield II exercise followed by Sky Shield III on 2 September 1962[48]  On July 15, 1963, ESD's CMC Management Office assumed "responsibilities in connection with BMEWS, Space Track, SAGE, and BUIC."[49]  The Chidlaw Building's computerized[specify] NORAD/ADC Combined Operations Center in 1963 became the highest echelon of the SAGE computer network when operations moved from Ent AFB's 1954 manual Command Center to the partially underground[49] "war room".[50]  Also in 1963, radar stations were renumbered (e.g., Cambria AFS was redesignated from P-2 to Z-2 on July 31) and the vacuum-tube SAGE System was completed (and obsolete).[51]: 9 
+On "June 26, 1958,…the New York sector became operational"[2]: 207  and on December 1, 1958, the Syracuse sector's DC-03 was operational ("the SAGE system  [did not] become operational until January 1959.")[25] Construction of CFB North Bay in Canada was started in 1959 for a bunker ~700 feet (210 m) underground (operational October 1, 1963),[52] and by 1963 the system had 3 Combat Centers.  The 23 SAGE centers included 1 in Canada,[53] and the "SAGE control centers reached their full 22 site deployments in 1961 (out of 46 originally planned)."[54]  The completed Minot AFB blockhouse received an AN/FSQ-7, but never received the FSQ-8 (the April 1, 1959, Minot Air Defense Sector consolidated with the Grand Forks ADS on March 1, 1963).[55]
+
+SAGE sites[edit]
+The SAGE system included a direction center (DC) assigned to air defense sectors as they were defined at the time.
+
+
+SAGE Direction Centers
+
+
+Site
+
+Country
+
+St/Pr
+
+Location
+
+Air Defense Sector
+
+Notes
+
+
+XD-1
+
+USA
+
+MA
+
+MIT Lincoln Laboratory Division 6 Building F in Lexington, Massachusetts
+
+experimental SAGE subsector
+
+prototype completed in October 1955, except for displays.[56]
+
+
+DC-01
+
+USA
+
+NJ
+
+McGuire AFB40°01′51″N 074°34′32″W﻿ / ﻿40.03083°N 74.57556°W﻿ / 40.03083; -74.57556﻿ (SAGE DC-01 (NY sector))
+
+New York ADS
+
+"June 26, 1958,…the New York sector became operational"[2]: 207 
+
+
+DC-02
+
+USA
+
+NY
+
+Stewart AFB41°30′01″N 074°06′22″W﻿ / ﻿41.50028°N 74.10611°W﻿ / 41.50028; -74.10611﻿ (SAGE DC-02 (Boston sector))
+
+Boston ADS
+
+operational June 26, 1958
+
+
+DC-03
+
+USA
+
+NY
+
+Hancock Field ANG Base43°07′19″N 076°06′01″W﻿ / ﻿43.12194°N 76.10028°W﻿ / 43.12194; -76.10028﻿ (SAGE DC-02 (Syracuse sector))
+
+Syracuse ADS
+
+operational December 1, 1958
+
+
+DC-04
+
+USA
+
+VA
+
+Fort Lee AFS37°15′09″N 077°19′21″W﻿ / ﻿37.25250°N 77.32250°W﻿ / 37.25250; -77.32250﻿ (SAGE DC-04 (Washington sector))
+
+Washington ADS
+
+
+
+
+DC-05
+
+USA
+
+ME
+
+Topsham AFS43°56′42″N 069°57′46″W﻿ / ﻿43.94500°N 69.96278°W﻿ / 43.94500; -69.96278﻿ (SAGE DC-05 (Bangor sector))
+
+Bangor ADS (BaADS)
+
+blockhouse demolished 1985[57]
+
+
+DC-06
+
+USA
+
+MI
+
+Custer AFS42°19′18″N 085°16′00″W﻿ / ﻿42.32167°N 85.26667°W﻿ / 42.32167; -85.26667﻿ (SAGE DC-06 (Detroit sector))
+
+Detroit Air Defense Sector
+
+
+
+
+DC-07
+
+USA
+
+WI
+
+Truax Field ANG Base43°07′36″N 089°20′06″W﻿ / ﻿43.12667°N 89.33500°W﻿ / 43.12667; -89.33500﻿ (SAGE DC-07 (Chicago sector))
+
+Chicago ADS
+
+blockhouse in use as of 2014 as Covance labs[58]
+
+
+DC-08
+
+USA
+
+MO
+
+Richards-Gebaur AFB38°50′47″N 094°32′50″W﻿ / ﻿38.84639°N 94.54722°W﻿ / 38.84639; -94.54722﻿ (SAGE DC-08 (KC sector))
+
+Kansas City ADS
+
+blockhouse used by BTM Manufacturing
+
+
+DC-09
+
+USA
+
+AL
+
+Gunter AFB Gunter Annex32°24′13″N 086°14′28″W﻿ / ﻿32.40361°N 86.24111°W﻿ / 32.40361; -86.24111﻿ (SAGE DC-09 (Montgomery sector))
+
+Southeast ADS Montgomery ADS
+
+blockhouse in use as Data Center Montgomery of the Defense Information Systems Agency (DISA), Department of Defense.
+
+
+DC-10
+
+USA
+
+MN
+
+Duluth ANG Base46°50′10″N 092°12′26″W﻿ / ﻿46.83611°N 92.20722°W﻿ / 46.83611; -92.20722﻿ (Sage DCC-10 (Duluth sector))
+
+Duluth ADS
+
+blockhouse repurposed for use as office and laboratory space in 1984 by the Natural Resources Research Institute at the University of Minnesota Duluth[59]
+
+
+DC-11
+
+USA
+
+ND
+
+Grand Forks AFB47°56′47″N 097°22′55″W﻿ / ﻿47.94639°N 97.38194°W﻿ / 47.94639; -97.38194﻿ (SAGE DC-11 (Grand Forks sector))
+
+Grand Forks ADS
+
+blockhouse demolished
+
+
+DC-12
+
+USA
+
+WA
+
+McChord AFB47°07′18″N 122°30′14″W﻿ / ﻿47.12167°N 122.50389°W﻿ / 47.12167; -122.50389﻿ (SAGE DC-12 (Seattle sector))
+
+Seattle(now part of Western ADS or WADS)
+
+
+
+
+DC-13
+
+USA
+
+OR
+
+Adair AFS44°40′15″N 123°12′58″W﻿ / ﻿44.67083°N 123.21611°W﻿ / 44.67083; -123.21611﻿ (SAGE DC-13 (Portland sector))
+
+Portland ADS
+
+
+
+
+DC-14
+
+USA
+
+MI
+
+K.I. Sawyer AFB46°20′47″N 087°23′00″W﻿ / ﻿46.34639°N 87.38333°W﻿ / 46.34639; -87.38333﻿ (SAGE DC-14 (Sault Ste Marie sector))
+
+Sault Sainte Marie ADS
+
+
+
+
+DC-15 ?
+
+USA
+
+WA
+
+Larson AFB47°10′53″N 119°19′16″W﻿ / ﻿47.18139°N 119.32111°W﻿ / 47.18139; -119.32111﻿ (SAGE DC-15 (Spokane sector))
+
+Spokane
+
+
+
+
+DC-15 ?
+
+USA
+
+ME
+
+Bangor AFB
+
+Bangor ADS
+
+
+
+
+DC-16 ?DC-17 ?
+
+USA
+
+CA
+
+Norton AFB34°06′19″N 117°13′05″W﻿ / ﻿34.10528°N 117.21806°W﻿ / 34.10528; -117.21806﻿ (SAGE DC-16 (LA sector))
+
+Los Angeles ADS
+
+blockhouse demolished 2018
+
+
+DC-16 ?DC-17 ?
+
+USA
+
+NV
+
+Stead AFB39°39′04″N 119°53′00″W﻿ / ﻿39.65111°N 119.88333°W﻿ / 39.65111; -119.88333﻿ (SAGE DC-17 (Reno sector))
+
+Reno ADS
+
+
+
+
+DC-18
+
+USA
+
+CA
+
+Beale AFB39°06′35″N 121°23′49″W﻿ / ﻿39.10972°N 121.39694°W﻿ / 39.10972; -121.39694﻿ (SAGE DC-18 (San Francisco sector))
+
+San Francisco ADS
+
+
+
+
+DC-19
+
+USA
+
+ND
+
+Minot AFB
+
+Minot ADS
+
+site not completed; Minot's blockhouse never had a Q-7[60]
+
+
+DC-20
+
+USA
+
+MT
+
+Malmstrom AFB47°30′59″N 111°10′55″W﻿ / ﻿47.51639°N 111.18194°W﻿ / 47.51639; -111.18194﻿ (SAGE DC-20 (Great Falls sector))
+
+Great Falls ADS
+
+
+
+
+DC-21
+
+USA
+
+AZ
+
+Luke AFB33°32′34″N 112°21′27″W﻿ / ﻿33.54278°N 112.35750°W﻿ / 33.54278; -112.35750﻿ (SAGE DC-21 (Phoenix sector))
+
+Phoenix ADS
+
+programming center for all other SAGE sites[61]
+
+
+DC-22
+
+USA
+
+IA
+
+Sioux City AFS42°23′51″N 096°22′25″W﻿ / ﻿42.39750°N 96.37361°W﻿ / 42.39750; -96.37361﻿ (SAGE DC-22 (Sioux City sector))
+
+Sioux City ADS
+
+operational December 1961, completing the SAGE system;[62] used AN/FSQ-8 that was retrofitted to have the LRI, GFI, and other components/software specific to the Q-7.[26]
+
+
+DC-23*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-24*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-25*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-26*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-27*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-28*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-29*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-30*
+
+
+
+
+
+
+
+
+
+
+
+
+DC-31
+
+Canada
+
+ON
+
+CFB North Bay46°20′15″N 079°24′42″W﻿ / ﻿46.33750°N 79.41167°W﻿ / 46.33750; -79.41167﻿ (SAGE DC-31)
+
+Goose ADS
+
+operational October 1, 1963
+
+
+DC-32*
+
+
+
+
+
+
+
+
+
+planned, never completed
+
+
+*Some of the originally planned 32 DCs were never completed and DCs were planned at installations for additional sectors: Calypso/Raleigh NC, England/Shreveport LA, Fort Knox KY, Kirtland/Albuquerque NM, Robins/Miami, Scott/St. Louis, Webb/San Antonio TX.
+
+Description[edit]
+The environment allowed radar station personnel to monitor the radar data and systems' status (e.g., Arctic Tower radome pressure) and to use the range height equipment to process height requests from Direction Center (DC) personnel.  DCs received the Long Range Radar Input from the sector's radar stations, and DC personnel monitored the radar tracks and IFF data provided by the stations, requested height-finder radar data on targets, and monitored the computer's evaluation of which fighter aircraft or Bomarc missile site could reach the threat first.  The DC's "NORAD sector commander's operational staff"[63] could designate fighter intercept of a target or, using the Senior Director's keyed console[64] in the Weapons Direction room,[3] launch a Bomarc intercept with automatic Q-7 guidance of the surface-to-air missile to a final homing dive (equipped fighters eventually were automatically guided to intercepts).
+The "NORAD sector direction center (NSDC) [also had] air defense artillery director (ADAD) consoles [and an Army] ADA battle staff officer", and the NSDC automatically communicated crosstelling of "SAGE reference track data" to/from adjacent sectors' DCs and to 10 Nike Missile Master AADCPs.[63]  Forwardtelling automatically communicated data from multiple DCs to a 3-story Combat Center (CC) usually at one of the sector's DCs[6] (cf. planned Hamilton AFB CC-05 near the Beale AFB DC-18) for coordinating the air battle in the NORAD region (multiple sectors) and which forwarded data to the NORAD Command Center (Ent AFB, 1963 Chidlaw Building, & 1966 Cheyenne Mountain). NORAD's integration of air warning data (at the ADOC) along with space surveillance, intelligence, and other data allowed attack assessment of an Air Defense Emergency for alerting the SAC command centers (465L SACCS nodes at Offutt AFB & The Notch), The Pentagon/Raven Rock NMCC/ANMCC, and the public via CONELRAD radio stations.
+
+SAGE Communication Systems[edit]
+External images XD-1 consoles Situation Display with SAM sites operator with light gun room diagrams for each DC floor images of a radar scope during a SAGE intercept[usurped]
+The Burroughs 416L SAGE component (ESD Project 416L,[65] Semi Automatic Ground Environment System)[49] was the Cold War network connecting IBM supplied computer system at the various DC and that created the display and control environment for operation of the separate radars[65] and to provide outbound command guidance for ground-controlled interception by air defense aircraft in the "SAGE Defense System"[66] ("Air Defense Weapons System").[40] Burroughs Corporation was a prime contractor for SAGE network interface equipment which included 134 Burroughs AN/FST-2 Coordinate Data Transmitting Sets (CDTS) at radar stations and other sites, the IBM supplied AN/FSQ-7 at 23 Direction Centers, and the AN/FSQ-8 Combat Control Computers at 8 Combat Centers. The 2 computers of each AN/FSQ-7 together weighing 275 short tons-force (2,450 kN)[67][This quote needs a citation] used about ⅓ of the DC's 2nd floor space[3] and at ~$50 per instruction had approximately 125,000 "computer instructions support[ing] actual operational air-defense mission" processing.[68]  The AN/FSQ-7 at Luke AFB had additional memory (32K total) and was used as a "computer center for all other" DCs.[69] Project 416L was the USAF predecessor of NORAD, SAC, and other military organizations' "Big L" computer systems (e.g., 438L Air Force Intelligence Data Handling System & 496L Space Detection and Tracking System).[70]
+
+Network communications:  Not to be confused with the 1958 "Alert Network Number 1" for NORAD to warn other commands (e.g., "flush" SAC bombers).  The SAGE network of computers connected by a "Digital Radar Relay"[71] (SAGE data system)[72] used AT&T voice lines, microwave towers, switching centers (e.g., SAGE NNX 764 was at Delta, Utah[73]  & 759 at Mounds, Oklahoma[74]), etc.; and AT&T's "main underground station" was in Kansas (Fairview) with other bunkers in Connecticut (Cheshire), California (Santa Rosa), Iowa (Boone)[75] and Maryland (Hearthstone Mountain).  CDTS modems at automated radar stations transmitted range and azimuth,[76] and the Air Movements Identification Service (AMIS) provided air traffic data to the SAGE System.[77]  Radar tracks by telephone calls (e.g., from Manual Control Centers in the Albuquerque, Minot, and Oklahoma City sectors) could be entered via consoles of the 4th floor "Manual Inputs" room adjacent to the "Communication Recording-Monitoring and VHF" room.[78]  In 1966, SAGE communications were integrated into the AUTOVON Network.[74]
+SAGE Sector Warning Networks (cf. NORAD Division Warning Networks) provided the radar netting communications for each DC[26] and eventually also allowed transfer of command guidance to autopilots of TDDL-equipped interceptors for vectoring to targets[43] via the Ground to Air Data Link Subsystem and the Ground Air Transmit Receive (GATR) network of radio sites for "HF/VHF/UHF voice & TDDL"[73] each generally co-located at a CDTS site.  SAGE Direction Centers and Combat Centers were also nodes of NORAD's Alert Network Number 1, and SAC Emergency War Order Traffic[79] included "Positive Control/Noah's Ark instructions" through northern NORAD radio sites to confirm or recall SAC bombers if "SAC decided to launch the alert force before receiving an execution order from the JCS".[26]
+A SAGE System ergonomic test at Luke AFB in 1964 "showed conclusively that the wrong timing of human and technical operations was leading to frequent truncation of the flight path tracking system" (Harold Sackman).[51]: 9   SAGE software development was "grossly underestimated"[22]: 370  (60,000 lines in September 1955):[80]  "the biggest mistake [of] the SAGE computer program was [underestimating the] jump from the 35,000 [WWI] instructions … to the more than 100,000 instructions on the" AN/FSQ-8.[81]  NORAD conducted a Sage/Missile Master Integration/ECM-ECCM Test in 1963,[82] and although SAGE used AMIS input of air traffic information, the 1959 plan developed by the July 1958 USAF Air Defense Systems Integration Division[26] for SAGE Air Traffic Integration (SATIN) was cancelled by the DoD.[83]
+
+Radar stations[edit]
+SAGE radar stations, including 78 DEW Line sites in December 1961,[84] provided radar tracks to DCs and had frequency diversity (FD) radars[85] United States Navy picket ships also provided radar tracks, and seaward radar coverage was provided. By the late 1960s EC-121 Warning Star aircraft based at Otis AFB MA and McClellan AFB CA provided radar tracks via automatic data link to the SAGE System.[2] Civil Aeronautics Administration radars were at some stations (e.g., stations of the Joint Use Site System), and the ARSR-1 Air Route Surveillance Radar rotation rate had to be modified "for SAGE [IFF/SIF] Modes III and IV" ("antenna gear box modification" for compatibility with FSQ-7 & FSG-1 centrals.)[37]: 21 
+
+Interceptors[edit]
+ADC aircraft such as the F-94 Starfire, F-89 Scorpion, F-101B Voodoo, and F-4 Phantom were controlled by SAGE GCI.  The F-104 Starfighter was "too small to be equipped with [SAGE] data link equipment" and used voice-commanded GCI,[2]: 229  but the  F-106 Delta Dart was equipped for the automated data link (ADL).[citation needed]  The ADL was designed to allow Interceptors that reached targets to transmit real-time tactical friendly and enemy movements and to determine whether sector defence reinforcement was necessary.[27]
+Familiarization flights allowed SAGE weapons directors to fly on two-seat interceptors to observe GCI operations.[citation needed] Surface-to-air missile installations for CIM-10 Bomarc interceptors were displayed on SAGE consoles.[86]
+
+Improvements[edit]
+For the "Improved SAGE environment"[79]: 69  with underground SAGE bunkers (e.g., in the Denver Air Defense Sector) for the "transistorized, solid-state" AN/FSQ-32 systems (never deployed), see Super Combat Center.
+Partially solid-state AN/FST-2B and later AN/FYQ-47 computers replaced[when?] the AN/FST-2,[76] and sectors without AN/FSQ-7 centrals requiring a "weapon direction control device" for USAF air defense used the solid-state AN/GSG-5 CCCS instead of the AN/GPA-73 recommended by ADC in June 1958. Back-Up Interceptor Control (BUIC)[26] with CCCS dispersed to radar stations for survivability allowed a diminished but functional SAGE capability.  In 1962, Burroughs "won the contract to provide a military version of its D825" modular data processing system[64] for BUIC II.[7] BUIC II was first used at North Truro Z-10 in 1966,[7] and the Hamilton AFB BUIC II was installed in the former MCC building when it was converted to a SAGE Combat Center in 1966 (CC-05).[87]  On June 3, 1963, the Direction Centers at Marysville CA, Marquette/K I Sawyer AFB (DC-14) MI,[specify] Stewart AFB NY (DC-02), and Moses Lake WA (DC-15) were planned for closing[52] and at the end of 1969, only 6 CONUS SAGE DCs remained (DC-03, -04, -10, -12, -20, & -21) all with the vacuum tube AN/FSQ-7 centrals.[7]: 47   In 1966, NORAD Combined Operations Center operations at Chidlaw transferred to the Cheyenne Mountain Operations Center (425L System) and in December 1963, the DoD approved solid state replacement of Martin AN/FSG-1 centrals[88]: 317  with the AN/GSG-5 and subsequent Hughes AN/TSQ-51. The "416L/M/N Program Office" at Hanscom Field[65] had deployed the BUIC III by 1971 (e.g., to Fallon NAS),[89] and the initial BUIC systems were phased out 1974–5.[64]  ADC had been renamed Aerospace Defense Command on January 15, 1968,[90] and its general surveillance radar stations transferred to ADTAC in 1979 when the ADC major command was broken up (space surveillance stations went to SAC and the Aerospace Defense Center was activated as a DRU.)
+
+Replacement and disposition[edit]
+For airborne command posts, "as early as 1962 the Air Force began exploring possibilities for an Airborne Warning and Control System (AWACS)",[2]: 266  and the Strategic Defense Architecture (SDA-2000) planned an integrated air defense and air traffic control network.  The USAF declared full operational capability of the first seven Joint Surveillance System ROCCs on December 23, 1980,[49] with Hughes AN/FYQ-93 systems,[91] and many of the SAGE radar stations became Joint Surveillance System (JSS) sites (e.g., San Pedro Hill Z-39 became FAA Ground Equipment Facility J-31.)  The North Bay AN/FSQ-7 was dismantled and sent to Boston's Computer Museum.[citation needed] In 1996, AN/FSQ-7 components were moved to Moffett Federal Airfield for storage and later moved[when?] to the Computer History Museum in Mountain View, California.  The last AN/FSQ-7 centrals were demolished at McChord AFB (August 1983) and Luke AFB (February 1984).[64]  Decommissioned AN/FSQ-7 equipment was also used as science fiction cinema and TV series props (e.g., Voyage to the Bottom of the Sea, amongst others).
+
+Historiography[edit]
+SAGE histories include a 1983 special issue of the Annals of the History of Computing,[92] and various personal histories were published, e.g., Valley in 1985[93] and Jacobs in 1986.[94]  In 1998, the SAGE System was identified as 1 of 4 "Monumental Projects",[95] and a SAGE lecture presented the vintage film In Your Defense followed by anecdotal information from Les Earnest, Jim Wong, and Paul Edwards.[32]  In 2013, a copy of a 1950s cover girl image programmed for SAGE display was identified as the "earliest known figurative computer art".[3]  Company histories identifying employees' roles in SAGE include the 1981 System Builders: The Story of SDC[96] and the 1998 Architects of Information Advantage: The MITRE Corporation Since 1958.[97]
+
+See also[edit]
+Photographic Display Unit
+References[edit]
+
+
+^ The SAGE Blockhouse - Future Home of the Cold War / Peace Museum Archived 2013-05-11 at the Wayback Machine. Coldwarpeacemuseum.org. Retrieved on 2013-09-18.
+
+^ a b c d e f g h i j k l m n Schaffel, Kenneth (1991). The Emerging Shield: The Air Force and the Evolution of Continental Air Defense, 1945–1960. Office of Air Force History, United States Air Force. ISBN 978-0-912799-60-5. A SAGE component, a 64 x 64 [4K] magnetic core memory … SAGE direction center.  This installation is located at Stewart Air Force Base in New York state. …[Hancock Field] combined direction-combat center was located at Syracuse, New York. [captions of p. 198, 208, & 265 photos]  NOTE: Schaffel's history uses the same name as "The Emerging Shield: The Air Defense Ground Environment," Air University Quarterly Review 8, no. 2 (spring 1956).
+
+^ a b c d e f Edwards, Benj (January 24, 2013). "The Never-Before-Told Story of the World's First Computer Art (It's a Sexy Dame)". The Atlantic. Archived from the original on February 17, 2013. Retrieved 2013-02-16.
+
+^ a b c Colonel John Morton (narrator). In Your Defense (digitized movie). Western Electric. Archived from the original on 2012-07-03. Retrieved 2012-04-03. The System Development Corporation…in the design of massive computer programs … Burroughs…electronic equipment … Western Electric…assist the Air Force in coordinating and managing the entire effort…and design of buildings.   …SAGE project office…Air Material Command[when?]
+
+^ Wragg, David W. (1973). A Dictionary of Aviation (first ed.). Osprey. p. 232. ISBN 9780850451634.
+
+^ a b c "Introduction". Ed-Thelen.org. Archived from the original on 2012-04-03. The function of the Control Center in solving the air defense problem is to combine, summarize, and display the air battle picture for the supervision of the several sectors within the division.  … The typical Control Center (CC) building housing the AN/FSQ-8 Combat Control Central is a 3-story structure of the same type construction as the DC building. (p. 7)
+
+^ a b c d Winkler, David F; Webster, Julie L (June 1997). Searching the Skies: The Legacy of the United States Cold War Defense Radar Program (PDF) (Report). Champaign, IL: U.S. Army Construction Engineering Research Laboratories. LCCN 97020912. Archived from the original on 2012-12-01. Retrieved 2013-04-23. "BUIC II radar sites would be capable of incorporating data feeds from other radar sectors directly onto their radar screens. 
+
+^ Mola, Roger A. (March 2002). "This Is Only a Test". Air & Space Magazine. Retrieved 26 July 2017.
+
+^ Nelson, Maj Gen Morris R. (June 12, 1950). "subj: Employment of an American Version of CDS" (letter). USAFHRC microfilm. {{cite journal}}: Cite journal requires |journal= (help) (cited by Schaffel pdf p. 311)
+
+^ a b c d e f 
+"The Valley Committee". Lincoln Laboratory. 1995. Archived from the original on 2016-04-01.
+
+^ a b 
+Quarterly Progress Report (Report). Lincoln Laboratories. June 1952.
+ (cited by Schaffel p. 197)
+
+^ a b 
+"Physicist George Valley Jr. is dead at 86" (MITnews webpage). MIT Tech Talk. October 20, 1999. Archived from the original on October 18, 2012. Retrieved 2012-07-15.
+
+^ "Project Whirlwind is a high-speed computer activity sponsored at the Digital Computer Laboratory, formerly a part of the Servomechanisms Laboratory, of the Massachusetts Institute of Technology (MIT) by the US Office of Naval Research (ONR) and the United States Air Force. IEEE Computer Society".
+
+^ a b c d "Project Charles". Lincoln Laboratory. 1995. Archived from the original on 2016-02-24.
+
+^ a b Kent C. Redmond & Thomas M. Smith (2000). From Whirlwind to MITRE: The R&D Story of the SAGE Air Defense Computer. MIT Press. ISBN 978-0-262-26426-6.(20th of April 1951 - p.1, National Security Act 1947 - p.12, April 1947 - p.13)
+
+^ "The Many Careers of Jay Forrester".
+
+^ Futrell, Robert Frank (June 1971). Ideas, Concepts, Doctrine: A History of Basic Thinking in the United States Air Force 1907–1964 (Report). Vol. 1. Aerospace Studies Institute, Air University. (cited by Volume I p. 187)
+
+^ McRee, [who?] (15 December 1950). …Electronic Air Defense Environment for 1954 (Report). Headquarters, Air Materiel Command.{{cite report}}:  CS1 maint: multiple names: authors list (link) CS1 maint: numeric names: authors list (link)
+
+^ Lapp; Alsop (March 21, 1953). "We Can Smash the Red A-Bombers". Saturday Evening Post. p. 19. (citation 29 of Volume I, p. 25)
+
+^ Pugh (1995). Building IBM: Shaping an Industry and Its Technology (Google Books). MIT Press. ISBN 978-0-262-16147-3.
+
+^ a b History of Strategic Air and Ballistic Missile Defense: Volume I: 1945–1955 (PDF). US Army. p. 128. Archived from the original (PDF) on 2013-11-10. See footnote #188: Futrell, Ideas, Concepts, Doctrine, pp. 486–487; Grant, The Development of Continental Air Defense pp. 73–74
+
+^ a b c d Redmond, Kent C; Smith, Thomas Malcom (2000). From Whirlwind to MITRE: The R&D Story of The SAGE Air Defense Computer (Google Books). MIT Press. ISBN 9780262264266. Retrieved 2013-05-02. the "SAGE Red Book"--Operationa Plan, Semi-Automatic Ground Environment System for Air Defense (Formerly Designated The Transition System) (The Redmond & Smith citation for the operation plan identifies the date)
+
+^ quote from Schaffel p. 191; Condit p. 259 footnote 1 cites: "CCS 381 US (5-23-46) sec 37."
+
+^ McVeigh, D. R. (January 1956). The Development of the Bomarc Guided Missile 1950–1953 (Report). Western Air Development Center. (cited by Volume I p. 108 footnote 69: "Before the end of 1953, it was also decided that the Sage system being developed by Lincoln Laboratories would be used to control the Bomarc.69")
+
+^ a b Condit, Kenneth W. (1992) [1971 classified vol]. "Chapter 15: Continental Defense". The Joint Chiefs of Staff and National Policy: 1955–1956 (Report). Vol. VI of History of the Joint Chiefs of Staff. Washington, D.C.: Historical Office, Joint Staff. p. 268 Major elements to be developed to a high state of readiness by the beginning of 1957 included the Distant Early Warning (DEW) Line and an air defense control system employing semiautomatic control centers.1 … At the beginning of 1955, the radar warning systems consisted of 83 permanent radars in the United States, 33 permanent radars of the Pine Tree system in Canada, 12 permanent radars in Alaska, and six shipborne radars stationed off the east coast of the United States. … To facilitate CONAD's job of absorbing data from warning radars and feeding the appropriate instructions to interceptor and antiaircraft forces, the Air Force had sponsored the development of the Semi-Automatic Ground Environment (SAGE) system by the Lincoln Laboratory of the Massachusetts Institute of Technology. The SAGE system was adopted but was not to become operational until January 1959. … the DEW Line…became operational shortly afterward, on 13 Aug 57. … Chapter 15. Continental Defense 1. NSC 5408, 24 Feb 54, CCS 381 US (5-23-46) sec 37. (Condit includes detailed numbers of 1954, 1956, and 1957 radar stations on p. 269 Table 13.)
+
+^ a b c d e f g h i j k Preface by Buss, L. H. (Director) (14 April 1959). North American Air Defense Command and Continental Air Defense Command Historical Summary: July–December 1958 (Report). Directorate of Command History: Office of Information Services. "USAF also set down a new schedule (see table preceding). This schedule was to be included in an entirely new SAGE schedule (Schedule A) to be prepared by the SAGE Project Office. The phasing was to be as follows. The last combat center, AN/FSQ-8, to be installed under SAGE Schedule 7 (Improved), was to be at McChord AFB (25th Air Division).  Subsequent combat facilities and equipment were to be cancelled with the exception of (1) one AN/FSQ-8 that was to be converted to an AN/FSQ-7, using FY 1959 funds, to be installed at the Sioux City DC, and (2) the combat center building at Minot." (improved) On April 1, 1966, Combat Center CC-03 at McChord AFB, WA was inactivated in conjunction with the activation of Combat Center CC-05 at Hamilton AFB, CA, and the combining of 25th, 26th and 27th NORAD divisions into the new Headquarters Western NORAD Region at HAFB.  CC-05 utilized a 3-String AN/GSA-51 computer system.  CC-05 and Headquarters Western NORAD Region were inactivated at Hamilton AFB on December 31, 1969.
+
+^ a b Lincoln Laboratory. The SAGE Air Defense System. Lincoln Laboratory MIT. Archived from the original on 2015-09-25. Retrieved 2015-08-05.(this source was also referenced at a time earlier than 2015-08-05, for info: ...ADL... - Interceptors)
+
+^ "MIT Lincoln Laboratory: History:Early Digital Computing (continued)". www.ll.mit.edu. Archived from the original on 2015-11-17. Retrieved 2016-01-12. To ensure continuous operation each computer was duplexed; it actually consisted of two machines.
+
+^ Redmond, Kent; Smith, Thomas (2000). From Whirlwind to Mitre: The R&D Story of The SAGE Air Defense Computer. MIT Press. pp. 187–188. ISBN 978-0262182010.
+
+^ Redmond, Kent; Smith, Thomas (2000). From Whirlwind to Mitre: The R&D Story of The SAGE Air Defense Computer. MIT Press. pp. 437–438. ISBN 978-0262182010.
+
+^ Ulmann, Bernd (2014). AN/FSQ-7: The Computer That Shaped The Cold War. De Gruyter Oldenbourg. p. 70. ISBN 9783486727661.
+
+^ a b c d "Vigilance and Vacuum Tubes: The SAGE System 1956-63" (SAGE Talk Transcript). Ed-Thelen.org. 1998. Archived from the original on 2013-03-30. Retrieved 2013-02-16. the Whirlwind computer, which was a digital version of the ASCA, was about five million dollars, in 1950s dollars … For the 1949 fiscal year, MIT requested 1.5 million dollars for the Whirlwind project. … one [SAGE computer] was at Lincoln Lab, …the XD-1, and the other one was at Kingston, the XD-2. So we used both those sites for development. … The XD-1 was a simplex system…not duplex … the original vacuum-tube computers—the last one was finally taken down in 1983, still operating. … IBM got…about 500 million dollars…to build the 56 computers.
+
+^ United States Navy Mathematical Computing Advisory Panel (29 June 1956). "Symposium on advanced programming methods for digital computers". Washington, D.C.: Office of Naval Research, Dept. of the Navy. OCLC 10794738. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ McMullen, Richard F. (1965). The Birth of SAGE, 1951–1958 (Report). Vol. ADC Hist Study 33.  (cited by  Schaffel p. 207/312)
+
+^ "Overview |". SAGE: The First [computerized] National Air Defense Network. IBM.com. 7 March 2012. Archived from the original on 2013-05-12. Retrieved 2013-05-08. the AN/FSQ-7…was developed, built and maintained by IBM. … In June 1956, IBM delivered the prototype of the computer to be used in SAGE.
+
+^ "SAGE: The New Aerial Defense System of the United States". The Military Engineer. Mar–Apr 1956. (cited by Schaffel pp. 311, 332)
+
+^ a b c d Preface by Buss, L. H. (Director) (1 October 1958). North American Air Defense Command Historical Summary: January–June 1958 (Report). Directorate of Command History: Office of Information Services. Directorate of Command History: Office of Information Services; p. 21: "DC's, and CC's, which were to screen and evaluate the reports before forwarding to NORAD headquarters.  ALERT NETWORK NUMBER 1 On 1 July 1958, a new Alert # 1 network was placed in operation (the old network was to remain in operation as a back-up until 1 August 1958).  The new network connected NORAD on 1 July 1958 with 33 Stations that required air defense alert and warning information. This included such agencies as major commands, air divisions, regions, and the USAF Command Post. Only 29 of the stations operating on 1 July were both transmit and receive stations, the other four (TAC Headquarters, Sandia Base, ADCC (Blue Ridge Summit), and the Presidio at San Francisco) were receive-only stations.  …the new system…gave NORAD the ability to tell which station received its alert messages and which did not.  The new system also had two master stations – NORAD [at Ent AFB] and the ALCOP at Richards-Gebaur AFB.  This feature permitted the ALCOP to continue operations of the network and carry on with the alert procedures should NORAD become a war casualty."
+
+^ "Semi-Automatic Ground Environment (SAGE)". GlobalSecurity.org. Archived from the original on 2013-04-02.
+
+^ "Electronic Brain Slated To Arrive" (Google News Archive). Tri-City Herald. November 3, 1958. Retrieved 2012-04-02.
+
+^ a b The SAGE/Bomarc Air Defense Weapons System: An Illustrated Explanation of What it is and How it Works (fact sheet) (Report). New York: International Business Machines Corporation. 1959. BOMARC…Crew training was activated January 1, 1958. … The operator requests an "engagement prediction point" from the IBM computer. …missile guidance information is relayed via leased lines to Cape Canaveral, and via radio to the BOMARC missile. Alt URL (cited by Volume I p. 257)
+
+^ Sokolski, Henry D (2004). Getting MAD: Nuclear Mutual Assured Destruction, Its Origins and Practice. DIANE Publishing. p. 180. ISBN 978-1-4289-1033-1.
+
+^  (NORAD message). North American Air Defense Command. June 30, 1958. {{cite journal}}: Cite journal requires |journal= (help); Missing or empty |title= (help) (identified by NORAD Hist. Summary Jan–Jun '58 p. 7)[not specific enough to verify]
+
+^ a b compiled by Johnson, Mildred W (31 December 1980) [February 1973 original by Cornett, Lloyd H. Jr]. A Handbook of Aerospace Defense Organization 1946–1980 (PDF). Peterson Air Force Base: Office of History, Aerospace Defense Center. p. [verification needed]. Archived (PDF) from the original on 23 November 2006. Retrieved 2012-03-26.
+
+^ Preface by Buss, L. H. (Director) (1 November 1959). North American Air Defense Command and Continental Air Defense Command Historical Summary: January–June 1959 (Report). Directorate of Command History: Office of Information Services.
+
+^ Theory of Programming for AN/FSQ-7 combat direction central and AN/FSQ-8 combat control central (PDF) (Report). IBM Military Products Division. April 1, 1959. p. 149. Archived (PDF) from the original on May 3, 2012. Retrieved 2012-04-02.
+
+^ McMullen, R. F. (15 Feb 1980). History of Air Defense Weapons 1946–1962 (Report). Vol. ADC Historical Study No. 14. Historical Division, Office of information, HQ ADC. p. 224. (cited by Volume I p. 271 & Schaffel p. 325)
+
+^ A Survey and Summary of Mathematical and Simulation Models as Applied to Weapon System Evaluation (Report). Aeronautical Systems Division, USAF. December 1961. Archived from the original on 2012-04-24. Retrieved 2011-09-13. Data from the Phase II and Phase III NORAD SAGE/ Missile Master … to validate the mathematical model [with] large-scale system tests employing SAC and ADC aircraft [under] the NORAD Joint Test Force stationed at Stewart Air Force Base. (cites Miller 1961)
+
+^ "title tbd" (PDF). Archived (PDF) from the original on 2013-09-21. pdf p. 17
+
+^ a b c d Del Papa, Dr. E. Michael; Warner, Mary P. (October 1987). A Historical Chronology of the Electronic Systems Division 1947–1986 (PDF) (Report). Archived (PDF) from the original on 2013-12-24. Retrieved 2012-07-19. Semi-Automatic Direction Center System, later known as…Semi-Automatic Ground Environment System, in essence, the Lincoln Transition System.
+
+^ "High Frontier : Volume 3, Number 4" (PDF). Afspc.af.mil. Archived from the original (PDF) on 2013-02-28. Retrieved 2013-10-13.
+
+^ a b Hellige, Hans Dieter (February 1993). Actors, Visions and Developments in the History of Computer Communications (Report). "Work and Technology" Research Centre. Retrieved 2012-04-02.
+
+^ a b Hazlitt, Tom—Southam News Services (June 5, 1963). "The Evolution In Air Defense: NORAD Looks For A Place To Hide". The Calgary Herald. Retrieved 2012-07-15. The North Bay SAGE centre is the only one on the continent to be fully "hardened", or constructed underground.
+
+^ "Many People, One System". Computer History Museum. Archived from the original on 2013-02-06. Retrieved 2013-02-13.
+
+^ Schwartz, Stephen I., ed. (1998). Atomic Audit: The Costs and Consequences of U.S. Nuclear Weapons Since 1940. Brookings Institution Press. p. 284. ISBN 9780815722946. (the quotation is annotated with footnote 35)
+
+^ "SAGE Documents mapped". www.radomes.org. Retrieved 2020-10-17.
+
+^ "MC 665" (PDF). dome.mit.edu. Retrieved 2019-11-29.
+
+^ "Topsham AFS". Cold War Relics. 2009. Archived from the original on 2010-06-12. Retrieved 2013-02-19. the SAGE block house was bulldozed in 1985. (image of entrance sign with arrow: "Bangor North American Air Defense Sector")
+
+^ "Recent Photos of Truax Field, WI (DC-7/CC-2)". radomes.org. Archived from the original on 24 September 2015. Retrieved 19 October 2014.
+
+^ Brady Slater (12 May 2014). "Talk to shed light on Duluth's history as a Cold War defense hub". Duluth News-Tribune. Archived from the original on 16 April 2016.
+
+^ "title tbd". Retrieved 2013-04-01. (GATR R-19 "was located at Minot AFB" DC-19.)
+
+^ Murphy, Michael F. "AN/FSQ7 SAGE Computer: Luke AFB". Radomes.org. Archived from the original (personal notes) on December 19, 2018. Retrieved April 2, 2012. Luke center was unique in the fact that it was the programming center for all other sage sites. This only meant that our computers…had more core memory, 32K total
+
+^ McMullen, Richard F. "ADC Historical Study No. 35: Command and Control Planning 1958-1965" (PDF). Retrieved April 24, 2020. [T]he SAGE system was completed in December 1961 when the Sioux City Direction Center became operational.
+
+^ a b "Missile Master…" (field manual). FM44-1. United States Army. February 1963. AN/FSG-1 … f.  Utilizes reference track data from local radars and voice communications with the NORAD sector direction center (NSDC) or GC 1 station when SAGE data is unavailable. … 22. Normal Tracking The S & E officers and the trackers monitor the SAGE reference track data …at NORAD SAGE direction centers…personnel operate the air defense artillery director (ADAD) consoles … An Army field grade officer serves as the ADA battle staff officer on the NORAD sector commander's operational staff. … SAGE SELECTOR two-position switch: Selects SAGE 1 or SAGE 2 (primary or secondary SAGE DC) as the source of SAGE data. … 45. Range-Height Subsystem a. Equipment.  The range-height equipment consists of two RHI consoles {{cite journal}}: Cite journal requires |journal= (help)
+
+^ a b c d SMECC - Home (museum website: SMECC.org), Glendale, Arizona: Southwest Museum of Engineering, Communications and Computation, archived from the original on 2013-05-24, retrieved 2013-05-08, Archivist Ed Sharpe near some of the SAGE artifacts at SMECC.
+a.  DeWerth, John P. …Sage Memories (personal notes). SMECC.org. Archived from the original on 2012-03-27. Retrieved 2012-04-03. Senior Director's keyed console…fire button
+b.  "[AN/GSA-51]" (system description). SMECC.org. Archived from the original on 2014-10-03. BUIC … Burroughs…D825 … McChord AFB…August 1983
+c.  "Phoenix Air Defense Sector" (unit/sector description). SMECC.org. Archived from the original on 2014-01-03. Luke AFB…February 1984
+
+^ a b c Israel, David. R. (January 1965). System Design and Engineering for Real-Time Military Data Processing Systems (AD610392, Technical Documentary Report ESD-TDR-64-168, SR-124) (Report). Bedford, Massachusetts: The MITRE Corporation. Archived from the original on 2013-07-06. Retrieved 2013-04-20. To be more specific,  I have in mind something like the BADGE system; in U.S. experience, examples would be SAGE, 412L,[specify] or the NORAD COC … The early development of SAGE was hampered by the fact that the radars were not considered as a part of the system.
+
+^ IBM Sage Computer Ad (digitized film at YouTube). 1960. Archived from the original on 2013-01-27. Retrieved 2013-02-16.
+
+^ Colon, Raul. "Early Development of the United States Defensive Missile System". Aeroflight. Archived from the original on 2007-11-06.
+
+^ Benington, Herbert D. Production of Large Computer Programs (PDF) (adaptation of June 1956 presentation). Archived (PDF) from the original on January 21, 2015. Retrieved February 18, 2015. The following paper is a description of the organization and techniques we used at MIT's Lincoln Laboratory in the mid-1950s to produce programs for the SAGE air-defense system. The paper appeared a year before the announcement of SAGE; no mention was made of the specific application other than to indicate that the program was used in a large control system. The programming effort was very large—eventually, close to half a million computer instructions. About one-quarter of these instructions supported actual operational air-defense missions. …  In a letter to me on April 23, 1981 … A Lincoln Utility System of service routines containing 40,000 instructions has been prepared … the experience of the Lincoln Laboratory that a system of service programs equal in size to the main system program must be maintained to support preparation, testing, and maintenance of the latter.
+
+^ Murphy, Michael F. "AN/FSQ7 SAGE Computer: Luke AFB" (personal notes). Radomes.org. Archived from the original on 2012-03-22. Retrieved 2012-04-02. Luke center was unique [as] the programming center for all other sage sites [and] had more core memory, 32K total
+
+^ Edwards, Paul N (1997). The Closed World: Computers and the Politics of Discourse in Cold War America. MIT Press. p. 107. ISBN 9780262550284 – via Internet Archive. SAGE—Air Force project 416L—became the pattern for at least twenty-five other major military command-control systems… These were the so-called "Big L" systems [and] included 425L, the NORAD system; 438L, the Air Force Intelligence Data Handling System; and 474L, the Ballistic Missile Early Warning System (BMEWS). … Project 465L, the SAC Control System (SACCS) [with] over a million lines, reached four times the size of the SAGE code and consumed 1,400 man-years of programming; SDC invented a major computer language, JOVIAL, specifically for this project.
+
+^ Edwards, Paul N (1996). "Chapter 3: SAGE". The Closed World: Computers and the Politics of Discourse in Cold War America. Cambridge, MA: MIT Press. p. 19. Archived from the original (PDF) on 2001-11-16. Retrieved 2013-04-23. SAGE – Air Force project 416L – became the pattern for at least twenty-five other major military command-control systems … the Air Force Cambridge Research Center (AFCRC) [had] recently developed methods for digital transmission of data over telephone lines [with] Digital Radar Relay (DRR). …was the key issue.55  The DRR research, begun just after World War II, had taken four years to complete.  Its availability solved one of the many analog-to-digital conversion problems faced by the eventual SAGE. (Edwards footnote 55 cites Harrington p. 370)
+
+^ Enticknap, R. G.; Schuster, E. F. (1958). "SAGE Data System Considerations". AIEE Transactions. 77 (pt I): 824–32. doi:10.1109/tce.1959.6372899. S2CID 51659466.
+
+^ a b [who?], Tim (Sep 21, 2007). "Re: Speaking of AUTOVON". Yahoo.com (coldwarcomms newsgroup). Archived from the original (personal notes) on April 12, 2013. Retrieved 2013-02-18. A previously referenced AT&T training manual on SAGE/BUIC/AUTOVON phone systems does list all the AUTOVON/SAGE Switching Centers & includes their General Purpose (AUTOVON) NNX, their SAGE NNX, and … For example, Delta, Utah had 890 for AUTOVON, 764 for SAGE{{cite web}}:  CS1 maint: multiple names: authors list (link) CS1 maint: numeric names: authors list (link)
+
+^ a b Yahoo! Groups. Dir.groups.yahoo.com. Retrieved on 2013-09-18.
+
+^ "CONUS AUTOVON Switching Centers". CO Cheyenne Mountain 1 July 1966…underground (inside mountain) … CO Lamar 1 Jan. 1967 {{cite journal}}: Cite journal requires |journal= (help)
+
+^ a b "AN/FYQ-47 Radar Data Processing System". Radomes.org. Archived from the original on 2012-03-25. Retrieved 2013-02-21.
+
+^ "AN/FST-2, RADAR Data Processor/Network System: Gallery". Archived from the original on 2013-01-23. Air Movements Identification Service (AMIS)  AMIS is responsible for sending [Air Route Traffic Control Center] data on flight plans, weapons status, weather, and aircraft tracks to the Direction and Combat Centers over teletype and voice grade telephone circuits.
+
+^ "[floor-by-floor diagram of SAGE DC]" (copy of military diagram in "the Atlantic"). publisher tbd. Archived from the original on 2013-02-18. Retrieved 2013-02-16. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ a b Preface by Buss, L. H. (Director) (1 May 1960). North American Air Defense Command and Continental Air Defense Command Historical Summary: July–December 1959 (PDF) (Report). Directorate of Command History: Office of Information Services.
+
+^ The United States Air Force and the culture of innovation 1945–1965. DIANE. p. 158. ISBN 978-1-4289-9027-2.
+
+^ Benington, Herbert D. Foreword: Production of Large Computer Programs (PDF) (Report). Archived (PDF) from the original on January 21, 2015. Retrieved February 18, 2015. (Foreword is part of pdf that includes "Editor's Note" and a transcript of Benington's 1956 symposium paper beginning with the Introduction—"This paper looks ahead at some programming problems that are likely to arise during Forrester's 1960–1965 period of real-time control applications."—through Summary: "The techniques that have been developed for automatic programming over the past five years have mostly aimed at simplifying the part of programming that, at first glance, seems toughest—program input, or conversion from programmer language to machine code.")
+
+^ Phase III: Sage/Missile Master Integration/ECM-ECCM Test (Deep River) (Report). Ent AFB, Colorado: North America Air Defense Command. 1963.
+
+^ Missile Master Plan [1] [2];  identified by Schaffel p. 260: "…the Defense Department to issue, on June 19, 1959, the Master Air Defense Plan. [sic]  Key features of the plan included a reduction in BOMARC squadrons, cancellation of plans to upgrade the interceptor force, and a new austere SAGE program.  In addition, funds were deleted for gap-filler and frequency-agility radars.21 [1959 NORAD/CONAD Hist Summary: Jan–Jun]"
+
+^ Furlong, R. D. M. (Jun 1974). "NORAD—A Study in Evolution". International Defense Review. 7 (3): 317–9. (Schaffel p. 268 citation 39)
+
+^ Project LAMPLIGHT (Final Report). copy in AF/CHO. 1955. (Schaffel Ch 8 footnote 64 cites this report on pp. 223/312)
+
+^ "Appendix II: Results of Our Analysis 603 Randonmly Selected NDAI Properties Cont". Archived from the original on 2014-01-01. Retrieved 2013-05-09. Formerly Used Defense Site C02NY0714
+
+^ Page, Thomas E. (June 16, 2009). "title tbd" (anecdotal message post). Ed-Thelen.org. Archived from the original on March 3, 2013. Retrieved 2013-02-21.
+
+^ Leonard, Barry (2011). History of Strategic and Ballistic Missile Defense: Volume II: 1956–1972 (Army.mil PDF - also available at Google Books). Archived (PDF) from the original on 2012-09-21. Retrieved 2012-09-01. The missile and space surveillance and warning system currently[specify] consists of five systems and a space computational center located in the NORAD Cheyenne Mountain complex. The five systems are: the Ballistic Missile Early Warning System; the Defense Support Program (DSP) formerly called Project 647; the Forward Scatter over the Horizon Radar (440L system); the Sea-Launched Ballistic Missile Warning System; and the Space Detection and Warning System. … 20 April The 425L system portion of the NORAD Cheyenne Mountain Complex (NCMC) became fully operational. {{cite book}}: External link in |format= (help)
+
+^ Proposed IAO/DTE Resource Availability (Report). 1970 [circa]. An Air Force radar facility at Tonopah, Nevada is being released by the Air Force to the Federal Aviation Agency. … ADC has a BUIC III radar facility installed and operating at Fallon. This semi-automated ground environment system permits several other radars to be tied into it.
+
+^ McMullen, Richard F (1973). The Aerospace Defense Command Anti-Bomber Defense, 1946–1962 (Report). Vol. ADC Hist Study 39. Archived from the original on 2005-07-20. (cited by Schaffel)
+
+^ "USAF Air Defense Radar Equipment". Online Radar Museum. Archived from the original on 2013-01-28. Retrieved 2013-02-22. AN/FPS-24…Frequency-diverse search radar designed for SAGE [also:] AN/FPS-26…AN/FPS-27…AN/FPS-28…Field tested at Houma AFS, LA
+
+^ Harrington, Jacobs, Tropp; et al. (1983). Everett, Robert R (ed.). "Special Issue: SAGE (Semi-Automatic Ground Environment)". Annals of the History of Computing. 5 (4).{{cite journal}}:  CS1 maint: multiple names: authors list (link).  Articles include:
+Harrington, John V. (1983). "Radar Data Transmission". Annals of the History of Computing. 5 (4): 370–374. doi:10.1109/MAHC.1983.10100. S2CID 7227862. (cited by Edwards, 1996)
+Jacobs, John B (Oct 1983). "SAGE Overview". Annals of the History of Computing. 5 (4): 323–329. doi:10.1109/mahc.1983.10101. S2CID 154313. (cited by Schaffel 310)
+Tropp, Henry S. (moderator); Everett, Robert R.; et al. (1983). "A Perspective on SAGE: Discussion". Annals of the History of Computing. 5 (4): 375–98. doi:10.1109/mahc.1983.10091. S2CID 7490741. (citation 15 of Edwards, 1996)
+[verification needed]Astrahan, Morton M.; Jacobs, John F. (1983). "History of the Design of the SAGE Computer, the AN-FSQ-7". Annals of the History of Computing. 5 (4): 341. doi:10.1109/mahc.1983.10098. S2CID 14273110. (cited by Schaffel p. 310)
+
+^ Valley Jr., George E. (1985). "How the SAGE Development Began". Annals of the History of Computing. 7 (3): 196–226. doi:10.1109/MAHC.1985.10030. S2CID 30320780.
+
+^ Jacobs, John F[verification needed] (1986). "The SAGE Air Defense System: A Personal History". MITRE Corporation. {{cite journal}}: Cite journal requires |journal= (help)CS1 maint: multiple names: authors list (link) CS1 maint: numeric names: authors list (link)
+
+^ Hughes, Thomas P. Hughes (1998). "SAGE" (Google Books). Rescuing Prometheus: Four Monumental Projects That Changed the Modern World. Pantheon. ISBN 9780679411512. Retrieved 2013-02-16.
+
+^ Baum, Claud (1981). System Builders: The Story of SDC. Santa Monica: System Development Corporation. (cited by Schaffel p. 205/311: "Although technically a Lincoln unit, SDC did much of its work at RAND Headquarters in Santa Monica, California.  RAND designers developed the Model I software that allowed realistic training for [SAGE] technicians scheduled to operate the first direction center.")
+
+^ Dyer, Davis; Dennis, Michael Aaron (December 1998). Architects of Information Advantage: The MITRE Corporation Since 1958 (Report). Community Communications Corp. ISBN 1581920121.
+
+
+Further reading[edit]
+Enticknap, R. G.; Schuster, E. F. (1959). "Sage data system considerations". Transactions of the American Institute of Electrical Engineers, Part I: Communication and Electronics. 77 (6): 824–832. doi:10.1109/TCE.1959.6372899. ISSN 0097-2452. S2CID 51659466.
+Stories about SAGE - oral history
+"The largest computer ever built" - "Locklin on science"
+External links[edit]
+On Guard: The Story of SAGE (1956) IBM Corporation, Military Products Division
+In Your Defense on YouTube Cold War Computing: The SAGE System, Computer Museum
+vteUnited States Air Force system numbers100–199
+100
+101
+P
+102
+103
+104
+105
+1061
+107
+A-1
+A-2
+1081
+1091
+110
+1111
+112
+1131
+1141
+1151
+1161
+117
+L
+M
+118
+A
+L
+P
+119
+C/F
+E
+L
+T
+Y
+120
+121
+122
+123
+124
+125
+126
+1271
+128
+129
+130
+131
+132
+A
+B
+133
+1341
+135
+1361
+1371
+138
+139
+140
+1411
+142
+143–1971
+198
+199
+B
+C
+D
+Y
+200–299
+200
+201
+A/L
+B/W
+E
+202
+2031
+204
+205
+206
+2071
+208
+2091
+210
+2111
+212
+213
+214
+2151
+216
+217
+218
+2191
+220
+221
+222
+A
+G
+2231
+224
+2251
+226
+227–2381
+239
+240–2781
+279
+280–2981
+299
+300–399
+300
+3011
+302
+303
+3041
+3051
+306
+A/L
+B
+307
+308
+309
+3101
+3111
+3121
+3131
+314
+315
+A-1
+A-2
+316
+317
+3181
+319
+3201
+321
+3221
+323
+324
+L
+M/N
+325
+326
+327
+E
+328
+E
+329
+F
+3301
+3311
+3321
+3331
+3341
+335
+336
+337
+338–3791
+380
+A/B/E/F/N
+P
+381–3971
+398
+399
+A
+B
+400–499
+400
+B/C/N
+E
+G/H
+M
+401
+402
+4031
+404
+405
+B
+C
+D
+4061
+407
+4081
+4091
+410
+E
+L
+411
+E
+L
+412
+413
+414
+L
+M
+415
+416
+L
+M (I)
+M (II)
+P
+Q
+417
+418
+L
+M
+4191
+420
+L/W
+4211
+422
+423
+424
+425
+426
+L
+M
+427
+L
+M
+428
+A
+L
+429
+430
+431
+G (I)
+G (II)
+432
+433
+434
+435
+A
+L
+436
+437
+438
+439
+440
+441
+A
+D
+L
+442
+443
+4441
+445
+L
+M
+446
+447
+4481
+4491
+450
+451
+D
+L
+452
+453
+4541
+455
+456
+4571
+458
+459
+460
+L
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+L (I)
+L (II)
+472
+473
+474
+L
+N
+4751
+476
+E
+477
+478
+A
+T
+4791
+480
+481
+L
+482
+E
+L
+M/Z
+483
+484
+L
+M
+N
+485
+L
+Z
+486
+487
+488
+489
+490
+L
+M
+4911
+492
+493
+494
+495
+L (I)
+L (II)
+496
+497
+A
+L (I)
+L
+498
+A
+C
+D
+E
+L
+499
+A
+C
+D
+500–599
+500
+501–5191
+520
+521–5291
+530
+531–5411
+542
+543–5491
+550
+A
+E
+551–5591
+560
+A
+F
+561–5691
+570
+571–5791
+580
+A
+E
+581–5891
+590
+591
+592
+593–5991
+600–699
+600
+601
+A
+L
+602
+A
+L
+603
+A
+L
+604
+605
+606
+607
+6081
+609
+6101
+6111
+6121
+6131
+614
+6151
+616
+6171
+618
+6191
+620
+621
+A/B (I)
+B (II)
+622
+623
+624
+625
+6261
+627
+6281
+6291
+6301
+6311
+632
+633
+634
+A
+B
+635
+6361
+6371
+638
+639
+640
+641
+642
+643
+6441
+6451
+6461
+6471
+648
+A
+D
+P
+649
+A
+B
+C
+D
+E
+F
+L
+P
+650
+651
+652
+6531
+6541
+655
+A (I)
+A (II)
+P
+656
+6571
+6581
+6591
+660
+661
+6621
+6631
+664
+665
+A (I)
+A (II)
+666
+A
+C/P
+667
+668
+6691
+670
+6711
+672
+A
+M/P
+6731
+674
+675
+6761
+6771
+6781
+679
+680
+681
+D
+E
+6821
+683
+A
+J
+V
+6841
+685
+686
+687
+J
+P
+6881
+6891
+690
+691
+C
+X
+Z
+6921
+693
+6941
+695
+A
+C
+L
+N
+P
+Q
+R
+S (I)
+S (II)
+6961
+6971
+6981
+6991
+700–799
+700–7351
+736
+7371
+7381
+7391
+7401
+741
+742
+743
+7441
+745
+746–7531
+754
+755–7991
+800–899
+8001
+8011
+802
+L (I)
+L (II)
+8031
+8041
+8051
+806
+807
+808–8161
+817
+8181
+8191
+8201
+8211
+8221
+823
+824–8311
+832
+8331
+834
+835–8451
+846
+847–8991
+900–999
+900–9511
+952
+8531
+8541
+8551
+956
+957–9671
+968
+1 Unknown or not assigned
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Semi-Automatic_Ground_Environment&oldid=1279666684"
+Categories: Computer networksComputer systems of the United States Air ForceNorth American Aerospace Defense Command1950s computersComputer-related introductions in 1958Air defence radar networks1950s in technology1950s in the United StatesVacuum tube computersHidden categories: Webarchive template wayback linksAll articles with vague or ambiguous timeVague or ambiguous time from May 2013CS1 errors: missing periodicalAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from April 2013CS1 maint: multiple names: authors listCS1 maint: numeric names: authors listCS1: long volume valueCS1 errors: missing titleWikipedia articles needing factual verification from May 2013All pages needing factual verificationWikipedia articles needing factual verification from April 2012Articles needing more detailed referencesArticles with specifically marked weasel-worded phrases from February 2013CS1 errors: external linksWikipedia articles needing factual verification from April 2013Articles with short descriptionShort description is different from WikidataArticles needing additional references from November 2024All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from July 2011Pages using gadget WikiMiniAtlasArticles with unsourced quotesArticles with unsourced statements from April 2013Articles with unsourced statements from May 2013Vague or ambiguous time from February 2013Articles with unsourced statements from February 2013Vague or ambiguous time from April 2013
+
+
+
+
+
+
+ This page was last edited on 9 March 2025, at 21:16 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Semi-Automatic Ground Environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

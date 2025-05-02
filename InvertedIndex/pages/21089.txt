@@ -1,0 +1,618 @@
+https://en.wikipedia.org/wiki/Computer_speakers
+
+
+
+
+Computer speakers - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Computer speakers
+
+
+
+23 languages
+
+
+
+
+العربيةবাংলাБългарскиBosanskiČeštinaفارسی한국어IsiZuluКыргызчаMagyarਪੰਜਾਬੀRomânăSimple EnglishSlovenčinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиTagalogతెలుగుไทยاردوTiếng Việt粵語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Type of speakers sold for use with computers
+Not to be confused with PC speaker.
+A pair of external speakers for notebook computers that are powered and audio-connected to the computer via USB
+Computer speakers, or multimedia speakers, are speakers marketed for use with computers, although usually capable of other audio uses, e.g. for a shelf stereo or television. Most such speakers have an internal amplifier and consequently require a power source, which may be by a mains power supply often via an AC adapter, batteries, or a USB port. The signal input connector is often an analog 3.5 mm jack plug (usually color-coded lime green per the PC 99 standard); RCA connectors are sometimes used, and a USB port or Bluetooth antenna may supply a digital signal to an onboard DAC (some of which work only on computers with an appropriate device driver). Battery-powered wireless speakers require no cables at all. Most computers have speakers of low power and quality built in; when external speakers are connected they disable the built-in speakers by default. Altec Lansing claims to have created the computer speaker market in 1990.[1]
+Computer speakers range widely in quality and in price. Computer speakers packaged with computer systems are typically small, plastic, and have mediocre sound quality. Some computer speakers have equalization features such as bass and treble controls. More sophisticated computer speakers can have a subwoofer unit to enhance bass output. The larger subwoofer enclosure usually contains the amplifiers for the subwoofer and the left and right speakers.
+Some discrete computer displays have rather basic integrated speakers, or accommodations for mounting matching satellite speakers or a soundbar externally. Laptop computers have built-in integrated speakers, usually small and of restricted sound quality to conserve space.
+
+See also[edit]
+PC speaker
+Loudspeaker enclosure
+References[edit]
+
+
+^ Altec Lansing. "Our History". Archived from the original on 6 January 2016. Retrieved 29 December 2015.
+
+
+
+
+
+Wikimedia Commons has media related to Computer speakers.
+
+vteBasic computer componentsInput devicesPointing devices
+Graphics tablet
+Game controller
+Light pen
+Mouse
+Optical
+Optical trackpad
+Pointing stick
+Touchpad
+Touchscreen
+Trackball
+Other
+Keyboard
+Image scanner
+Graphics card
+GPU
+Microphone
+Refreshable braille display
+Sound card
+Sound chip
+Webcam
+Softcam
+Output devices
+Monitor
+Screen
+Refreshable braille display
+Printer
+Plotter
+Speakers
+Sound card
+Graphics card
+Removable  data storage
+Disk pack
+Floppy disk
+Optical disc
+CD
+DVD
+Blu-ray
+Flash memory
+Memory card
+USB flash drive
+Computer case
+Central processing unit
+Microprocessor
+Motherboard
+Memory
+RAM
+BIOS
+Data storage
+HDD
+SSD (SATA / NVMe)
+SSHD
+Power supply
+SMPS
+MOSFET
+Power MOSFET
+VRM
+Network interface controller
+Fax modem
+Expansion card
+PortsCurrent
+Ethernet
+USB
+Thunderbolt
+Analog audio jack
+DisplayPort
+HDMI
+Obsolete
+FireWire (IEEE 1394)
+Parallel port
+Serial port
+Game port
+PS/2 port
+eSATA
+DVI
+VGA
+Related
+History of computing hardware
+History of computing hardware (1960s–present)
+List of pioneers in computer science
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Computer_speakers&oldid=1278470398"
+Categories: American inventionsComputer peripheralsLoudspeakersBoombox cultureHidden categories: Articles with short descriptionShort description is different from WikidataCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 2 March 2025, at 17:38 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Computer speakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

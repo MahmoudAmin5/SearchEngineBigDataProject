@@ -1586,7 +1586,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "SearchEngine.Domain": "1.0.0"
+          "SearchEngine.Domain": "1.0.0",
+          "SearchEngine.Infrastructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SearchEngine.Application.dll": {}

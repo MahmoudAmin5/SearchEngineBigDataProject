@@ -121,6 +121,9 @@
             "projectReferences": {
               "D:\\Search Engine Project\\SearchEngine.BackendSolution\\SearchEngine.Domain\\SearchEngine.Domain.csproj": {
                 "projectPath": "D:\\Search Engine Project\\SearchEngine.BackendSolution\\SearchEngine.Domain\\SearchEngine.Domain.csproj"
+              },
+              "D:\\Search Engine Project\\SearchEngine.BackendSolution\\SearchEngine.Infrastructure\\SearchEngine.Infrastructure.csproj": {
+                "projectPath": "D:\\Search Engine Project\\SearchEngine.BackendSolution\\SearchEngine.Infrastructure\\SearchEngine.Infrastructure.csproj"
               }
             }
           }

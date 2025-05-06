@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SearchEngine.Domain\SearchEngine.Domain.csproj" />
+    <ProjectReference Include="..\SearchEngine.Infrastructure\SearchEngine.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

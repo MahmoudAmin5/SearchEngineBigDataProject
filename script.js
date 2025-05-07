@@ -7,8 +7,9 @@ const resultsContainer = document.getElementById('resultsContainer');
 const options = document.querySelectorAll('.option');
 
 // API Configuration
-const SEARCHES_API = '/api/searches';
-const RESULTS_API = '/api/results';
+const BASE_URL = "https://localhost:7249";
+const SEARCHES_API = BASE_URL + '/api/Search';
+const RESULTS_API = BASE_URL + '/api/Search';
 
 // API Services
 const apiService = {
@@ -26,7 +27,7 @@ const apiService = {
 
     async getSearchResults(query) {
         try {
-            const response = await fetch(`${RESULTS_API}?query=${encodeURIComponent(query)}`);
+            const response = await fetch(`${RESULTS_API}?word=${encodeURIComponent(query)}`);
             if (response.ok) {
                 const data = await response.json();
                 if (Array.isArray(data) && data.length > 0) {
@@ -64,8 +65,27 @@ const uiService = {
         main.classList.add('mini-mode');
         document.title = `${query} - Searchify Results`;
 
+       
         if (!results || results.length === 0) {
             this.showNoResults();
+            return;
+        }
+
+        // If results is an array of URLs (strings), display each as a link
+        if (typeof results[0] === 'string') {
+            results.forEach(url => {
+                const resultElement = document.createElement('div');
+                resultElement.className = 'result-item';
+                resultElement.innerHTML = `
+                    <h3 class="result-title">
+                        <a href="${url}" target="_blank" rel="noopener noreferrer">
+                            ${url}
+                        </a>
+                    </h3>
+                    <p class="result-url">${url}</p>
+                `;
+                resultsContainer.appendChild(resultElement);
+            });
             return;
         }
 

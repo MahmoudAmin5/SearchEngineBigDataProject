@@ -163,6 +163,8 @@ body {
     max-width: 700px;
     margin-top: 30px;
     display: none;
+    max-height: 400px;
+    overflow-y: auto;
 }
 
 .result-item {

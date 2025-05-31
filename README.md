@@ -60,7 +60,7 @@ SearchEngineBigDataProject/
 
 ### Prerequisites
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/)
+- [.NET 8 SDK](https://dotnet.microsoft.com/)
 - SQL Server instance
 - Python 3.8+
 - Hadoop (HDFS) running locally or remotely
@@ -138,13 +138,9 @@ Returns paginated, ranked results based on the inverted index stored in HDFS.
 
 **Author:** Mahmoud Amin
 **GitHub:** [@MahmoudAmin5](https://github.com/MahmoudAmin5)
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [mahmoud886.amin@gmail.com](mahmoud886.amin@gmail.com)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -153,10 +149,3 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions are welcome!
 Feel free to open issues or submit pull requests for improvements.
 
-```
-
-Let me know if you'd like to include:
-- Screenshots of the UI or Swagger.
-- Sample data.
-- Explanation of your MapReduce algorithm in the README.
-```
